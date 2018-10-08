@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web scraping on Joshua M. Rosenberg</title>
+    <link>/tags/web-scraping/</link>
+    <description>Recent content in Web scraping on Joshua M. Rosenberg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Aug 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/web-scraping/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>In what months are educational psychology jobs posted?</title>
+      <link>/posts/when-are-ed-psych-jobs-posted/</link>
+      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/when-are-ed-psych-jobs-posted/</guid>
+      <description>Division 15 of the American Psychological Association sponsors the Ed Psych Jobs website, which is an excellent resource for Ed Psych job seekers. I thought it would possibly be helpful to see when jobs were posted in the past in order to have a better idea about when jobs may be posted this year.
+Ed Psych Jobs, Robots (.txt), and paths_allowed, oh my As this project involves a bit of web-scraping, I first checked the robots.</description>
+    </item>
+    
+  </channel>
+</rss>

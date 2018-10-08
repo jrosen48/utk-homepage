@@ -1,0 +1,32 @@
+---
+title: 'Learning R (for data analysis and data science): Where to start'
+author: ''
+date: '2018-06-04'
+slug: learning-r-where-to-start-crowdsourced-recommendations
+categories: []
+tags: []
+---
+
+A friend of a friend (also in educational research) posted that he was interested in learning [R](https://www.r-project.org/). 
+
+I had a couple of ideas but knew that others might have better ideas. So, I posted (on Twitter) looking for recommendations and received some *excellent* talks, links, and other resources.
+
+Here they are, in Tweet form (you may have to click on the links in tweets to see some of the resources and content)
+
+<blockquote class="twitter-tweet" data-conversation="none" data-cards="hidden" data-lang="en"><p lang="en" dir="ltr">All of my thoughts on learning <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> + learning new things in <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> : <a href="https://t.co/7ZfWsNsrLe">https://t.co/7ZfWsNsrLe</a><a href="https://t.co/UufGWsOfZC">https://t.co/UufGWsOfZC</a></p>&mdash; Alison Hill (@apreshill) <a href="https://twitter.com/apreshill/status/1003281681900494848?ref_src=twsrc%5Etfw">June 3, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">I&#39;ve been collecting some ideas and sharing them here as I work on developing curriculum to teach <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> to evaluators: <a href="https://t.co/FKArrQzYzc">https://t.co/FKArrQzYzc</a> It has a strong emphasis on resources that will help people with absolutely no background in R.</p>&mdash; David Keyes (@dgkeyes) <a href="https://twitter.com/dgkeyes/status/1003288794643062785?ref_src=twsrc%5Etfw">June 3, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">I have been learning via data-camp and following <a href="https://twitter.com/rnlanders?ref_src=twsrc%5Etfw">@rnlanders</a> online course in R (<a href="https://t.co/qci1ypr5cL">https://t.co/qci1ypr5cL</a>) I would say I&#39;ve gone from 0 knowledge in R to comfortable enough to use R for many of my analyses</p>&mdash; Kabir Daljeet (@kdaljeet) <a href="https://twitter.com/kdaljeet/status/1003406818989596672?ref_src=twsrc%5Etfw">June 3, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">I second the <a href="https://twitter.com/DataCamp?ref_src=twsrc%5Etfw">@DataCamp</a> vote! Also, it helps (as you know) to plan to search extensively on <a href="https://twitter.com/StackOverflow?ref_src=twsrc%5Etfw">@StackOverflow</a> when a roadblock arises. Last advice: it’s hard for everyone, don’t give up. The payoff is so worth it!</p>&mdash; Emily Bovee (@ebovee09) <a href="https://twitter.com/ebovee09/status/1003426953960009728?ref_src=twsrc%5Etfw">June 4, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">I also usually suggest <a href="https://twitter.com/DataCamp?ref_src=twsrc%5Etfw">@DataCamp</a> and R4DS</p>&mdash; Malcolm Barrett (@malco_barrett) <a href="https://twitter.com/malco_barrett/status/1003409258304532480?ref_src=twsrc%5Etfw">June 3, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">1) Have a specific problem that you commit to working on using R.<br>2) Read R for Data Science here (free): <a href="https://t.co/juWFCrJPuz">https://t.co/juWFCrJPuz</a><br>3) Join the <a href="https://twitter.com/hashtag/r4ds?src=hash&amp;ref_src=twsrc%5Etfw">#r4ds</a> community (on Slack [<a href="https://t.co/duTnhbzQ4z">https://t.co/duTnhbzQ4z</a>] &amp; on Twitter)<br><br>What are your recs? [2/2]</p>&mdash; Joshua Rosenberg (@jrosenberg6432) <a href="https://twitter.com/jrosenberg6432/status/1003274337422540802?ref_src=twsrc%5Etfw">June 3, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

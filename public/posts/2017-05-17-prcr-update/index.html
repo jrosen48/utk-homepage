@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>prcr update | Joshua M. Rosenberg</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+    
+  </head>
+
+  <body>
+    <nav>
+    <ul class="menu">
+      
+      <li><a href="/">Home</a></li>
+      
+      <li><a href="/about/">About</a></li>
+      
+      <li><a href="/categories/">Categories</a></li>
+      
+      <li><a href="/tags/">Tags</a></li>
+      
+      <li><a href="/index.xml">Subscribe</a></li>
+      
+    </ul>
+    <hr/>
+    </nav>
+
+<div class="article-meta">
+<h1><span class="title">prcr update</span></h1>
+
+<h2 class="date">2017/05/17</h2>
+</div>
+
+<main>
+<p>The R package for person-oriented analysis (<a href="https://github.com/jrosen48/prcr">prcr</a>) is updated (it’s now version 0.1.4).</p>
+<p>In particular, it was not clear how to use the profile assignments (i.e., what cluster each response is in) in subsequent analyses. So, the update now returns two different representations of the profile assignments, or which profile is associated with each observation: a) the original “data.frame” with the profile assignment added in one variable and b) the original “data.frame” with the profile assignments added in dummy-coded form (i.e., one variable for each profile which is “1” when the observation is associated with the profile and “0” otherwise).</p>
+<p>This required changing how the variables used to create the profiles are specified. While before every variable in the “data.frame” was used, so subsetting the “data.frame” before using it, now the whole “data.frame” is the first argument to “create_profiles()”, and variable used to create the profiles are named (unquoted).</p>
+<p>Here’s an example with built-in data in which the variables “df”, “disp”, and “hp” are selected:</p>
+<pre><code>df &lt;- mtcars
+two_profile_solution &lt;- create_profiles(df, disp, hp, wt, n_profiles = 2, to_center = T)</code></pre>
+<p>Information about the output (it’s saved to “two_profile_solution”, but it can be any name) can still be viewed with the following methods:</p>
+<pre><code>summary(two_profile_solution)
+plot(two_profile_solution)</code></pre>
+<p>The two representations of the profile assignments can then be used via the “.data” and “data_with_dummy_codes” slots in the output, the first with profile assignment in one variable, the second with the profile assignments in dummy-coded form:</p>
+<pre><code>two_profile_solution$.data
+two_profile_solution$data_with_dummy_codes</code></pre>
+<p>There is also now a function to compare R<sup>2</sup> values, here using the same variables as above (“mpg”, “hp”, and “qsec”), comparing 2 to 4 profile solutions:</p>
+<pre><code>plot_r_squared(df, mpg, wt, hp, qsec, to_center = TRUE, lower_bound = 2, upper_bound = 4)</code></pre>
+<p>Sometimes a “data.frame” is more useful, so the optional argument “r_squared_table” can be set to “TRUE” to return one instead:</p>
+<pre><code>plot_r_squared(df, mpg, wt, hp, qsec, to_center = TRUE, lower_bound = 2, upper_bound = 4, r_squared_table = TRUE)</code></pre>
+<p>The update can be installed using <code>install.packages(&quot;prcr&quot;)</code> in R.</p>
+
+</main>
+
+  <footer>
+  
+  
+  <hr/>
+  &copy; <a href="https://jmichaelrosenberg.com">Joshua M. Rosenberg</a> 2017 &ndash; 2018 | <a href="https://github.com/yihui">Github</a> | <a href="https://twitter.com/xieyihui">Twitter</a>
+  
+  </footer>
+  </body>
+</html>
+

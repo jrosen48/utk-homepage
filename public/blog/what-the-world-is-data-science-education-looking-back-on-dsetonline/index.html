@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>What the world is data science education? Looking back on #dsetonline | My New Hugo Site</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+    
+  </head>
+
+  <body>
+    <nav>
+    <ul class="menu">
+      
+    </ul>
+    <hr/>
+    </nav>
+
+<div class="article-meta">
+<h1><span class="title">What the world is data science education? Looking back on #dsetonline</span></h1>
+
+<h2 class="date">2017/03/13</h2>
+</div>
+
+<main>
+<div id="dset" class="section level3">
+<h3>DSET</h3>
+<p>A few weeks ago, I was fortunate to attend the <a href="http://codap.concord.org/dset/">Data Science Educational Technology (DSET)</a> conference.</p>
+<p>The goal for the conference was to kickstart data science education and to explore an educational technology, <a href="http://concord.org">Concord Consortium’s</a> <a href="http://codap.concord.org/">Common Online Data Analysis Platform</a>. What’s the big idea about data science education? To me, it’s a recognition that data is power, and that through asking questions, collecting and creating data, analyzing and modeling data, and making sense of and communicating what is going on can be empowering to learners. Digital technologies, from tools to new data sources, can be a key part of these processes.</p>
+<p>It was a good experience and thankful to have had the opportunity to learn from the awesome teachers, researchers, and developers in attendance and to have a (very tiny!) voice in the conversation).</p>
+</div>
+<div id="some-highlights" class="section level3">
+<h3>Some highlights</h3>
+<ul>
+<li>Welcome talk on “what smells like data science education” (it seems to have <em>something</em> to do with recognizing computation as something important to analysis, using data for purpose(s) beyond those for which they were originally created, and acting on intuition about a topic or problem - but I’m very humble about trying to summarize these!)</li>
+<li>Listening to demonstrations of CODAP, tools built-in to CODAP (like <a href="https://concord.org/projects/building-models">SageModeler</a>), and stand-alone tools and other examplars</li>
+<li>Learning how to adapt a Data Interactive (in Javascript and HTML)</li>
+<li>Learning how to integrate <a href="https://ccl.northwestern.edu/netlogo/.">NetLogo</a> simulations in CODAP</li>
+<li>Discussion of simulations and modeling in online classes</li>
+<li>Take’s presentation on turning data into sounds</li>
+<li>Discussing what (future) technologies might be needed and how to make it easier for students to access data</li>
+</ul>
+</div>
+<div id="a-look-at-dsetonline" class="section level3">
+<h3>A look at #dsetonline</h3>
+<p>I collected the tweets for #dsetonline using <a href="https://tags.hawksey.info/">TAGS</a> (in Google Sheets). Does this “smell like data science” (I don’t quite think so, but that’s okay)?</p>
+<p>Here is a look at when #dsetonline was used:</p>
+<div class="figure">
+<img src="https://raw.githubusercontent.com/jrosen48/homepage-source/master/static/_media/images/dset_time.png" alt="dset_time" />
+<p class="caption">dset_time</p>
+</div>
+<p>Here is a sociogram, or visualization of the network structure, showing relationships between participants:</p>
+<div class="figure">
+<img src="https://raw.githubusercontent.com/jrosen48/homepage-source/master/static/_media/images/dset_sociogram.png" alt="dset_sociogram" />
+<p class="caption">dset_sociogram</p>
+</div>
+<p>In this figure, an arrow is directed from one participant to another if one participant a) mentioned, b) replied to, c) retweeted, or d) like the tweet of the other participant.</p>
+<p>The Twitter accounts for <a href="http://twitter.com/codap">CODAP</a> and <a href="http://twitter.com/concorddotorg">Concord Consortium</a> were both prominent, as were accounts for the organizers and many of the participants at conference. There were also connections to organizations not at the conference, which is interesting because it shows some of the groups learning about and supporting data science education, an educational idea I think is worth recognizing and supporting.</p>
+<p>The data (and a file for the analysis) is <a href="https://github.com/jrosen48/dsetonline-hashtag">here</a>.</p>
+<p>**EDIT: I wrote this post before I used blogdown. In addition to above, the code is here:</p>
+<pre class="r"><code>library(tidyverse)
+library(lubridate)
+library(GGally)
+library(igraph)
+library(hrbrthemes)
+library(cowplot)
+
+df &lt;- read_csv(&quot;tweets.csv&quot;)
+
+df$date &lt;- parse_date_time(df$date, &quot;%a %b! %d! %H! %M! %S! %z! %y!&quot;)
+df$date &lt;- with_tz(df$date, &quot;America/Los_Angeles&quot;)
+df$wday &lt;- wday(df$date, label = T)
+df$hour &lt;- hour(df$date)
+
+p1 &lt;- df %&gt;% 
+    count(wday) %&gt;% 
+    ggplot(aes(x = wday, y = n)) +
+    geom_col() +
+    theme_ipsum_rc() +
+    xlab(&quot;Weekday&quot;) +
+    ylab(&quot;Number of Tweets&quot;)
+
+p2 &lt;- df %&gt;% 
+    count(hour) %&gt;% 
+    ggplot(aes(x = hour, y = n)) +
+    geom_col() +
+    theme_ipsum_rc() +
+    xlab(&quot;Hour&quot;) +
+    ylab(&quot;Number of Tweets&quot;) +
+
+cowplot::plot_grid(p1, p2)
+
+ggsave(&quot;dset_time.png&quot;)
+
+create_the_edgelist &lt;- function(df, sender_col, receiver_col){
+    
+    df_ss &lt;- filter(df, type == &quot;ORIG&quot; | type == &quot;REPLY&quot;)
+    
+    receiver &lt;- select_(df_ss, receiver_col)
+    receiver &lt;- collect(select_(receiver, receiver_col))[[1]]
+    
+    df_for_sender &lt;- select_(df_ss, sender_col)
+    df_for_sender &lt;- collect(select_(df_for_sender, sender_col))[[1]]
+    
+    sender &lt;- stringr::str_split(df_for_sender, &quot;\\*&quot;)
+    
+    tmp = stack(setNames(sender, receiver))[, 2:1]
+    names(tmp) &lt;- c(&quot;receiver&quot;, &quot;sender&quot;)
+    
+    tmp$sender &lt;- tolower(tmp$sender)
+    tmp$receiver &lt;- tolower(tmp$receiver)
+    
+    tmp &lt;- tmp %&gt;% dplyr::mutate(var = sender_col)
+    # tmp &lt;- filter(tmp, !is.na(sender))
+    tmp &lt;- tbl_df(tmp)
+    
+    return(tmp)
+}
+
+favorites &lt;- create_the_edgelist(df, &quot;favNames&quot;, &quot;screen_name&quot;)
+mentions &lt;- create_the_edgelist(df, &quot;non_reply_mentions&quot;, &quot;screen_name&quot;)
+retweets &lt;- create_the_edgelist(df, &quot;rtNames&quot;, &quot;screen_name&quot;)
+replies &lt;- create_the_edgelist(df, &quot;reply_user_sn&quot;, &quot;screen_name&quot;)
+
+all_df &lt;- bind_rows(favorites, mentions, retweets, replies)
+
+all_df$var &lt;- ifelse(all_df$var == &quot;favNames&quot;, &quot;Favorites&quot;,
+                     ifelse(all_df$var == &quot;non_reply_mentions&quot;, &quot;Mentions&quot;,
+                            ifelse(all_df$var == &quot;rtNames&quot;, &quot;Retweets&quot;,
+                                   ifelse(all_df$var == &quot;reply_user_sn&quot;, &quot;Replies&quot;, NA))))
+
+# Plot
+
+all_df$receiver &lt;- tolower(all_df$receiver)
+all_df$sender &lt;- tolower(all_df$sender)
+all_df_ss &lt;- select(all_df, sender, receiver)
+all_df_ss &lt;- all_df_ss[complete.cases(all_df_ss), ]
+g &lt;- igraph::graph_from_data_frame(all_df_ss, directed = T)
+g &lt;- igraph::set_edge_attr(g, &quot;weight&quot;, value = 1)
+
+g &lt;- igraph::simplify(g, remove.multiple = T, remove.loops = T, edge.attr.comb = list(weight = &quot;sum&quot;))
+E(g)$weight &lt;- sqrt(E(g)$weight) * .85
+
+g_p &lt;- intergraph::asNetwork(g)
+
+GGally::ggnet2(g,
+               label = T,
+               # size = &quot;degree&quot;,
+               # edge.size = &quot;weight&quot;,
+               arrow.gap = 0.02,
+               arrow.size = 6,
+               palette = 2,
+               label.size = 3
+               ) + theme(element_text )</code></pre>
+<p>If you take a look, you will notice the data used for the analysis was the TAGS data lightly processed with an additional script (send me a message if you want to learn more about it).</p>
+</div>
+
+</main>
+
+  <footer>
+  
+  
+  </footer>
+  </body>
+</html>
+

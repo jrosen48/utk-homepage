@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>A quick introduction and tutorial on a cool social network analysis model for influence | My New Hugo Site</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+    
+  </head>
+
+  <body>
+    <nav>
+    <ul class="menu">
+      
+    </ul>
+    <hr/>
+    </nav>
+
+<div class="article-meta">
+<h1><span class="title">A quick introduction and tutorial on a cool social network analysis model for influence</span></h1>
+
+<h2 class="date">2018/08/02</h2>
+</div>
+
+<main>
+<p>Social network is increasingly common in education (<a href="https://www.tandfonline.com/doi/abs/10.1080/00461520.2016.1208093">Sweet, 2016</a>). Very often, social network analysis is used to create sociograms, or depictions of a network. I did this in a paper I recently co-authored (<a href="https://jrosen48.github.io/_media/pre-prints/Rosenberg-Greenhalgh-Wolf-Koehler-2017-JCMST.pdf">here is a pre-print</a>), we worked hard to create this figure:</p>
+<p><img src="/_media/images/msurbanstem-soc.png" style="width: 300px; height: 300px" ></a></p>
+<p>Such figures (we thought–and I think) look nice and they are often useful for understanding the characteristics of a network and the relations that are part of it. And to be sure, algorithms - models, in a sense - are used to place the nodes/vertices (the “points”) in the graph. But we want to go further by using models for specific patterns in the data, namely:</p>
+<ol style="list-style-type: decimal">
+<li>Who has relationships with whom?</li>
+<li>How relationships have an impact in terms of an outcome?</li>
+</ol>
+<p>In this post, I wanted to share a bit on the second type, or an <strong>influence</strong> model. I first wrote this about a year ago and so had to stare at it for awhile until it makes sense (at least a bit–I take responsibility for any mistakes, glaring or otherwise), but I want to try to break this down, because I think it contains some cool ideas about influence:</p>
+<p><span class="math display">\[
+{ y }_{ it2 }\quad =\quad \rho \sum _{ i&#39;\quad =\quad 1 }^{ n }{ { w }_{ ii&#39; }^{  } } { y }_{ i&#39;t1 }^{  }\quad +\quad { \gamma  }_{ it1 }^{  }\quad +\quad { \varepsilon  }_{ i }^{  }
+\]</span></p>
+<p>Some outcome measured at a <em>second</em> time point (i.e., after a school year) for individual <span class="math inline">\(i\)</span>:</p>
+<p><span class="math display">\[
+{ y }_{ it2 }
+\]</span></p>
+<p>Is predicted by that individual’s <em>first</em> time point measure:</p>
+<p><span class="math display">\[
+{ \gamma  }_{ it1 }^{  }
+\]</span> A residual term:</p>
+<p><span class="math display">\[
+{ \varepsilon  }_{ i }^{  }
+\]</span> And, importantly, an influence term:</p>
+<p><span class="math display">\[
+\sum _{ i&#39;\quad =\quad 1 }^{ n }{ { w }_{ ii&#39; }^{  } } { y }_{ i&#39;t1 }^{  }\quad 
+\]</span></p>
+<p>This behemoth needs more breaking down. <span class="math inline">\(\rho\)</span> is just the coefficient, like <span class="math inline">\(\beta\)</span> in a regression equation.</p>
+<p>This part says something like, for individual <span class="math inline">\(i\)</span>, find all of the other individuals they have some relationship with.</p>
+<p><span class="math display">\[
+\sum _{ i&#39;\quad =\quad 1 }^{ n }
+\]</span></p>
+<p>From <span class="math inline">\(i&#39; = 1\)</span>, or the first individual, up to, for an individual with ten relationships, so <span class="math inline">\(n = 10\)</span> for example, to <span class="math inline">\(i&#39; = 10\)</span>, do <em>this</em>:</p>
+<p><span class="math display">\[
+{ { w }_{ ii&#39; }^{  } } { y }_{ i&#39;t1 }^{  }
+\]</span></p>
+<p>Multiply the weight, <span class="math inline">\(w\)</span> of the relationship (i.e., how strong the relationship is or how many interactions there were) between <span class="math inline">\(i\)</span> and <span class="math inline">\(i&#39;\)</span> by <span class="math inline">\(i&#39;\)</span>’s value on the outcome at time 1.</p>
+<p>That’s really the (key to) the whole thing. The idea is that the influence term “captures” how your interactions with someone, over some period of time (between the first and second time points) impact some outcome. This model accounts for an individual’s initial report of the outcome, i.e., their time 1 prior value, so it is a model for <em>change</em> in some outcome.</p>
+<p>It’s a big, highly-confusing model, but one that is super cool, because you can quantify “the network effect.” It’s also fundamentally a regression. That’s really it. All the work goes into calculating the influence term.</p>
+<p>With Sarah Galey, I wrote a little code with an example. That code is below. In another post, I’d like to try to dive into this more, and maybe in another write about the other type of model I mentioned above, one for exploring who has relationships with whom (or a <em>selection</em> model), related to a project focused around the <a href="https://twitter.com/search?q=%23ngsschat&amp;src=typd">#NGSSchat hashtag</a>.</p>
+<pre class="r"><code>library(dplyr) # need to install with install.packages(&quot;dplyr&quot;) if not already installed (just need to do first time)
+#&gt; 
+#&gt; Attaching package: &#39;dplyr&#39;
+#&gt; The following objects are masked from &#39;package:stats&#39;:
+#&gt; 
+#&gt;     filter, lag
+#&gt; The following objects are masked from &#39;package:base&#39;:
+#&gt; 
+#&gt;     intersect, setdiff, setequal, union
+
+data1 &lt;- data.frame(nominator = c(2, 1, 3, 1, 2, 6, 3, 5, 6, 4, 3, 4), 
+                    nominee = c(1, 2, 2, 3, 3, 3, 4, 4, 4, 5, 6, 6), 
+                    relate = c(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1))
+
+data2 &lt;- data.frame(nominee = c(1, 2, 3, 4, 5, 6), 
+                    yvar1 = c(2.4, 2.6, 1.1, -0.5, -3, -1))
+
+data3 &lt;- data.frame(nominator = c(1, 2, 3, 4, 5, 6),
+                    yvar2 = c(2, 2, 1, -0.5, -2, -0.5))
+
+# merge data1 and data2
+# note: we want the nominee&#39;s indegree because this is who the nominator is being exposed to
+
+data &lt;- left_join(data1, data2, by = &quot;nominee&quot;)
+data$nominee &lt;- as.character(data$nominee) # this makes merging later easier
+
+# calculate indegree in tempdata and merge with data
+tempdata &lt;- data.frame(table(data$nominee))
+names(tempdata) &lt;- c(&quot;nominee&quot;, &quot;indegree&quot;) # rename the column &quot;nominee&quot;
+tempdata$nominee &lt;- as.character(tempdata$nominee) # makes nominee a character data type, instead of a factor, which can cause problems
+data &lt;- left_join(data, tempdata, by = &quot;nominee&quot;)
+
+# Calculating exposure and an exposure term that uses indegree, exposure_plus
+data$exposure &lt;- data$relate * data$yvar1
+data$exposure_plus &lt;- data$exposure * (data$indegree + 1)
+
+# Calculating mean exposure
+mean_exposure &lt;-
+    data %&gt;%
+    group_by(nominator) %&gt;%
+    summarize(exposure_mean = mean(exposure))
+
+mean_exposure_plus &lt;-
+    data %&gt;%
+    group_by(nominator) %&gt;%
+    summarize(exposure_plus_mean = mean(exposure_plus))
+
+# need a final data set with mean_exposure, mean_exposure_plus, degree, yvar1, and yvar2 added
+
+mean_exposure_terms &lt;- dplyr::left_join(mean_exposure, mean_exposure_plus, by = &quot;nominator&quot;)
+
+names(data2) &lt;- c(&quot;nominator&quot;, &quot;yvar1&quot;) # rename nominee as nominator to merge these
+final_data &lt;- dplyr::left_join(mean_exposure_terms, data2, by = &quot;nominator&quot;)
+final_data &lt;- dplyr::left_join(final_data, data3, by = &quot;nominator&quot;) # data3 already has nominator, so no need to change
+
+# regression (linear models)
+
+model1 &lt;- lm(yvar2 ~ yvar1 + exposure_mean, data = final_data)
+summary(model1)
+#&gt; 
+#&gt; Call:
+#&gt; lm(formula = yvar2 ~ yvar1 + exposure_mean, data = final_data)
+#&gt; 
+#&gt; Residuals:
+#&gt;        1        2        3        4        5        6 
+#&gt;  0.02946 -0.09319  0.09429 -0.02730 -0.02548  0.02222 
+#&gt; 
+#&gt; Coefficients:
+#&gt;               Estimate Std. Error t value Pr(&gt;|t|)    
+#&gt; (Intercept)    0.11614    0.03445   3.371   0.0434 *  
+#&gt; yvar1          0.67598    0.02406  28.092  9.9e-05 ***
+#&gt; exposure_mean  0.12542    0.03615   3.470   0.0403 *  
+#&gt; ---
+#&gt; Signif. codes:  0 &#39;***&#39; 0.001 &#39;**&#39; 0.01 &#39;*&#39; 0.05 &#39;.&#39; 0.1 &#39; &#39; 1
+#&gt; 
+#&gt; Residual standard error: 0.08232 on 3 degrees of freedom
+#&gt; Multiple R-squared:  0.9984, Adjusted R-squared:  0.9974 
+#&gt; F-statistic: 945.3 on 2 and 3 DF,  p-value: 6.306e-05
+
+model2 &lt;- lm(yvar2 ~ yvar1 + exposure_plus_mean, data = final_data)
+summary(model2)
+#&gt; 
+#&gt; Call:
+#&gt; lm(formula = yvar2 ~ yvar1 + exposure_plus_mean, data = final_data)
+#&gt; 
+#&gt; Residuals:
+#&gt;          1          2          3          4          5          6 
+#&gt; -0.0057048 -0.0627961  0.1191432 -0.0432021 -0.0084312  0.0009909 
+#&gt; 
+#&gt; Coefficients:
+#&gt;                    Estimate Std. Error t value Pr(&gt;|t|)    
+#&gt; (Intercept)         0.10281    0.03514   2.926 0.061206 .  
+#&gt; yvar1               0.66444    0.02636  25.205 0.000137 ***
+#&gt; exposure_plus_mean  0.05053    0.01446   3.494 0.039658 *  
+#&gt; ---
+#&gt; Signif. codes:  0 &#39;***&#39; 0.001 &#39;**&#39; 0.01 &#39;*&#39; 0.05 &#39;.&#39; 0.1 &#39; &#39; 1
+#&gt; 
+#&gt; Residual standard error: 0.08187 on 3 degrees of freedom
+#&gt; Multiple R-squared:  0.9984, Adjusted R-squared:  0.9974 
+#&gt; F-statistic: 955.8 on 2 and 3 DF,  p-value: 6.203e-05</code></pre>
+
+</main>
+
+  <footer>
+  
+  
+  </footer>
+  </body>
+</html>
+

@@ -1,0 +1,269 @@
+---
+title: "Comparing MPLUS and MCLUST output"
+author: "Joshua Rosenberg"
+date: "2017-09-14"
+output: html_document
+categories: [r]
+---
+
+### Note
+
+An in-development `R` package to carry out LPA and this analysis is available here: [https://github.com/jrosen48/tidymixmod](https://github.com/jrosen48/tidymixmod).
+
+# Introduction
+
+At present, MPlus is a widely-used tool to carry out Latent Profile Analysis, and there does not seem to be a widely-accepted or used way to carry out Latent Profile Analysis in R. This compares output from MPlus to output from the R package MCLUST, which is accessed through the package tidymixmod which I started to work on to make estimating common models used for LPA easier to carry out using MCLUST. 
+
+### Links to resources:
+
+- [MPlus](https://www.statmodel.com/)
+- [MPlusAutomation](https://www.statmodel.com/usingmplusviar.shtml) (this package uses MPlus; MPlus has to be purchased and installed for it to work)
+- [MCLUST](http://www.stat.washington.edu/mclust/)
+- [tidymixmod](https://github.com/jrosen48/tidymixmod) (this is the package we're currently working on; it provides an interface to MCLUST)
+
+# Loading, setting up
+
+First, let's load a few packages and setup.
+
+```{r, message = F}
+library(tidyverse)
+library(MplusAutomation)
+library(stringr)
+# if tidymixmod is not installed, can use the line below to install
+# devtools::install_github("jrosen48/tidymixmod")
+library(tidymixmod)
+
+the_dir <- "/Users/joshuarosenberg/Dropbox/5_Professional/homepage/source/static/_media/data/"
+
+```
+
+Next, we'll write a few functions to view MPlus summary statistics from the output.
+
+```{r}
+extract_mplus_summary <- function(x) {
+    x$summaries[c("LL", "BIC", "Entropy")]
+}
+
+extract_mplus_paramaters <- function(x) {
+    y <- x$parameters[[1]]
+    y <- y[-nrow(y), ]
+    dplyr::select(y, param_name = paramHeader, var_name = param, est, se, class = LatentClass)
+}
+
+extract_means <- function(x) {
+    calculate_centroids_mclust(x) %>%
+        rownames_to_column("var_name") %>%
+        rename(class_1 = Profile1, class_2 = Profile2) %>%
+        mutate(param_name = "Means",
+               class1 = round(class_1, 3),
+               class2 = round(class_2, 3)) %>%
+        select(param_name, var_name, class_1, class_2)
+}
+```
+
+Here we are running MPlus models using MPlusAutomation. The specification of each of the three models is available from the post [here](https://jrosen48.github.io/blog/using-mplus-from-r/). 
+
+```{r, results = "hide"}
+runModels(paste0(the_dir, "2-iris-LPA_means.inp"))
+runModels(paste0(the_dir, "2-iris-LPA_means_correlated.inp"))
+runModels(paste0(the_dir, "2-iris-LPA_means_correlated_free_variances.inp"))
+
+m1_mplus_out <- readModels(paste0(the_dir, "2-iris-LPA_means.out"))
+m2_mplus_out <- readModels(paste0(the_dir, "2-iris-LPA_means_correlated.out"))
+m3_mplus_out <- readModels(paste0(the_dir, "2-iris-LPA_means_correlated_free_variances.out"))
+
+m1_mplus <- m1_mplus_out %>%
+    extract_mplus_paramaters() %>%
+    mutate(class = paste0("class_", class)) %>%
+    select(-se) %>%
+    spread(class, est)
+
+m2_mplus <- m2_mplus_out %>%
+    extract_mplus_paramaters() %>%
+    mutate(class = paste0("class_", class)) %>%
+    select(-se) %>%
+    spread(class, est)
+
+m3_mplus <- m3_mplus_out %>%
+    extract_mplus_paramaters() %>%
+    mutate(class = paste0("class_", class)) %>%
+    select(-se) %>%
+    spread(class, est)
+```
+
+Here we are running MCLUST models using the R package [tidymixmod](https://github.com/jrosen48/tidymixmod), which interfaces to the R package MCLUST.
+
+```{r}
+m1_mclust <- create_profiles_mclust(iris,
+                                    Sepal.Length, Sepal.Width, Petal.Length, Petal.Width,
+                                    n_profiles = 2, model = 1, to_return = "mclust")
+m2_mclust <- create_profiles_mclust(iris,
+                                    Sepal.Length, Sepal.Width, Petal.Length, Petal.Width,
+                                    n_profiles = 2, model = 2, to_return = "mclust")
+m3_mclust <- create_profiles_mclust(iris,
+                                    Sepal.Length, Sepal.Width, Petal.Length, Petal.Width,
+                                    n_profiles = 2, model = 3, to_return = "mclust")
+```
+
+# Comparing MPlus and MCLUST summary statistics
+
+*LL is log-likelihood*
+
+```{r}
+list(m1_mplus_out, m2_mplus_out, m3_mplus_out) %>%
+    map_df(extract_mplus_summary) %>% 
+    mutate(model = paste0("m", 1:3),
+           method = "MPlus") %>%
+    select(method, model, everything())
+
+list(m1_mclust, m2_mclust, m3_mclust) %>%
+    map_df(extract_mclust_summary) %>%
+    mutate(model = paste0("m", 1:3),
+           method = "MCLUST") %>%
+    select(method, model, everything())
+
+```
+
+There is a slight difference in the entropy statistic for the first model (means with constrained variances), possibly due to a rounding error from the MPlus output. 
+
+# Comparing MPlus and MCLUST parameter estimates
+
+#### For m1 (varying means, constrained variances)
+
+```{r}
+m1_m <- extract_means(m1_mclust) %>%
+    mutate(class_1 = round(class_1, 3),
+           class_2 = round(class_2, 3))
+
+m1_c1_v <- extract_variance(m1_mclust, 1)
+m1_c2_v <- extract_variance(m1_mclust, 2)
+
+# MPlus output
+
+m1_mplus %>% 
+    mutate(model = "MPlus") %>% 
+    select(model, everything()) %>% 
+    arrange(param_name, desc(class_1))
+
+# MCLUST output
+
+bind_rows(m1_c1_v, m1_c2_v) %>% 
+    spread(class, est) %>% 
+    bind_rows(m1_m) %>% 
+    mutate(model = "MCLUST") %>% 
+    select(model, everything()) %>% 
+    arrange(param_name, desc(class_1)) %>% 
+    mutate(var_name = toupper(var_name),
+           var_name = str_sub(var_name, end = 10),
+           var_name = str_replace(var_name, "\\.", "_"))
+```
+
+These seem to be identical.
+
+#### For m2 (varying means, constrained variances and covariances)
+
+```{r}
+m2_m <- extract_means(m2_mclust) %>%
+    mutate(class_1 = round(class_1, 3),
+           class_2 = round(class_2, 3))
+
+m2_c1_v <- extract_variance(m2_mclust, 1)
+m2_c2_v <- extract_variance(m2_mclust, 2)
+
+m2_c1_cv <- extract_covariance(m2_mclust, 1) %>% 
+    semi_join(m2_mplus, by = c("param_name", "var_name")) %>% 
+    mutate(class = "class_1")
+
+m2_c2_cv <- extract_covariance(m2_mclust, 2) %>% 
+    semi_join(m2_mplus, by = c("param_name", "var_name")) %>% 
+    mutate(class = "class_2")
+
+m2_cv <- bind_rows(m2_c1_cv, m2_c2_cv) %>% 
+    mutate(est = round(est, 3),
+           model = "MCLUST") %>% 
+    spread(class, est) 
+
+# MPlus output
+
+m2_mplus %>% 
+    mutate(model = "MPlus") %>% 
+    select(model, everything()) %>% 
+    arrange(param_name, desc(class_1)) 
+
+# MCLUST output
+
+bind_rows(m2_c1_v, m2_c2_v) %>% 
+    spread(class, est) %>% 
+    bind_rows(m1_m) %>% 
+    mutate(model = "MCLUST") %>% 
+    select(model, everything()) %>% 
+    bind_rows(m2_cv) %>% 
+    arrange(param_name) %>% 
+    arrange(param_name, desc(class_1)) %>% 
+    mutate(var_name = toupper(var_name),
+           var_name = str_sub(var_name, end = 10),
+           var_name = str_replace(var_name, "\\.", "_"))
+```
+
+There seem to be a few differences in the hundreths place.
+
+#### For m3 (varying means, freed covariances and covariances)
+
+```{r}
+m3_m <- extract_means(m3_mclust) %>%
+    mutate(class_1 = round(class_1, 3),
+           class_2 = round(class_2, 3))
+
+m3_c1_v <- extract_variance(m3_mclust, 1)
+m3_c2_v <- extract_variance(m3_mclust, 2)
+
+m3_c1_cv <- extract_covariance(m3_mclust, 1) %>% 
+    semi_join(m3_mplus, by = c("param_name", "var_name")) %>% 
+    mutate(class = "class_1")
+
+m3_c2_cv <- extract_covariance(m3_mclust, 2) %>% 
+    semi_join(m3_mplus, by = c("param_name", "var_name")) %>% 
+    mutate(class = "class_2")
+
+m3_cv <- bind_rows(m3_c1_cv, m3_c2_cv) %>% 
+    mutate(est = round(est, 3),
+           model = "MCLUST") %>% 
+    spread(class, est) 
+
+# MPlus output
+
+m3_mplus %>% 
+    mutate(model = "MPlus") %>% 
+    select(model, everything()) %>% 
+    arrange(param_name, desc(class_1)) 
+
+# MCLUST output
+
+bind_rows(m1_c1_v, m1_c2_v) %>% 
+    spread(class, est) %>% 
+    bind_rows(m1_m) %>% 
+    mutate(model = "MCLUST") %>% 
+    select(model, everything()) %>% 
+    bind_rows(m3_cv) %>% 
+    arrange(param_name) %>% 
+    arrange(param_name, desc(class_1)) %>% 
+    mutate(var_name = toupper(var_name),
+           var_name = str_sub(var_name, end = 10),
+           var_name = str_replace(var_name, "\\.", "_"))
+```
+
+These seem to be a bit different at the tenths or hundreths decimal point.
+
+# Conclusion
+
+At least for these simple models, the output appears to be identical, with slight differences in the entropy statistic and some of the parameter estimates for the third models.
+
+More complex models **may** be different: 
+
+- MPlus uses random starts to initialize ML, while MClust initializes ML with starts from hierarchical clustering.
+- MPlus seems to use restricted MLR to obtain robust standard errors, whereas MClust uses weighted likelihood bootstrap methods; I'm not sure if these are different for more complex models, and so we should check the standard errors.
+
+Future directions include:
+
+- Deciding on a uniform interface for prcr and tidymixmod.
+- Merging tidymixmod with [prcr](https://github.com/jrosen48/prcr) (our R package for person-oriented analysis).

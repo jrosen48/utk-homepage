@@ -1,0 +1,127 @@
+---
+title: "In what months are educational psychology jobs posted?"
+author: ~
+date: '2017-08-15'
+description: Good to know
+slug: when-are-ed-psych-jobs-posted
+tags: [web scraping, r]
+---
+
+[Division 15](http://apadiv15.org/) of the American Psychological Association sponsors the [Ed Psych Jobs](http://edpsychjobs.info/) website, which is an excellent resource for Ed Psych job seekers. I thought it would possibly be helpful to see when jobs were posted in the past in order to have a better idea about when jobs may be posted this year. 
+
+# Ed Psych Jobs, Robots (.txt), and paths_allowed, oh my
+
+As this project involves a bit of web-scraping, I first checked the `robots.txt` file (located at [http://edpsychjobs.info/robots.txt](http://edpsychjobs.info/robots.txt)) to find out whether accessing any or all content in such a way was prohibited. It looks like only the log-in pages are listed as those that should not be accessed. 
+
+If interested, [here](http://www.robotstxt.org/robotstxt.html) is a good resource on  `robots.txt` files.
+
+As a shortcut, there is a neat R package that has the function `paths_allowed()`, that takes a URL to a page on a website, returning a `TRUE` if, according to the `robots.txt` file, accessing the content available through the URL is allowed. Here is an example of using that, which confirms the manual check of the file I did (it is better to be safe than sorry with web scraping):
+
+```{r, message = F, warning = F}
+library(robotstxt)
+paths_allowed("http://edpsychjobs.info/category/all-jobs/")
+```
+
+# Accessing the dates of posts 
+
+Let's get scraping. We will load a few packages and write a few lines of code to just scrape the dates (not the names of the jobs or any other information):
+
+```{r, message = F, warning = F}
+library(rvest)
+library(tidyverse)
+library(lubridate)
+library(hrbrthemes)
+
+read_the_dates <- function(page, url = "http://edpsychjobs.info/category/all-jobs/page/") {
+    Sys.sleep(1)
+    
+    results_df <- tibble(
+        dates = vector(length = 1)
+    )
+    
+    base_url <- paste0(url, page)
+    page_html <- read_html(base_url)
+    date <- html_nodes(page_html, ".published")
+    
+    results_df <- mutate(results_df,
+                         date = list(html_text(date)))
+    
+    return(results_df)
+}
+
+```
+
+Notice in this code we used `Sys.sleep(1)`. 
+
+Although the `robots.txt` did not specify a time delay (often websites request a 10 second delay between page loads for web scrapers), this command specifies a 1 second delay between page loads, just to be considerate in terms of taking up the bandwidth of the web server.
+
+I checked manually to see how many pages had job postings; there were 76, and so I'm just passing numbers 1 through 76 as arguments to the function we wrote above through the function `map_df()`, which will take care of the iteration (this is the `map` part), and output the results in a data frame (specified through the `df` part). 
+
+*Just as a note*: Another way to do this would be to write a function that goes from page 1 up through a page number for which a page does not load. Still another way would be to use the very handy `possibly()` (from the `purrr` package) or some other function that deals with errors (in this case, a page that does not load), and specify a large range of page numbers, say, from 0 to 100. 
+
+```{r, warning = F, message = F, cache = T}
+output_df <- map_df(1:76, read_the_dates)
+```
+
+# Analysis
+
+Now that we have the data, we can process it a bit (note that the `unnest()` part is because we created a row in the data frame for each page, but each page contains at most six dates, so this function unnests those dates so that they would occupy six rows, instead of one). 
+
+Like many functions in R, this is only one way - but I think a good one! - of many that you could do to achieve the same output.
+
+```{r}
+processed_dates <- output_df %>% 
+    select(date) %>% 
+    unnest(date) %>% 
+    mutate(date = mdy(date),
+           month = month(date, label = T),
+           year = year(date))
+```
+
+We can now count up how many posts there are per month and look at their proportion:
+
+```{r}
+processed_dates %>% 
+    count(month) %>% 
+    mutate(proportion = round(n / sum(n), 2))
+```
+
+How many (and the proportion) per year:
+
+```{r}
+processed_dates %>% 
+    count(year) %>% 
+    mutate(proportion = round(n / sum(n), 2))
+```
+
+And look at differences between years in posts per month:
+
+```{r}
+df_plot_2 <- processed_dates %>% 
+    count(year, month) %>% 
+    complete(year, month, fill = list(n = 0)) %>% 
+    mutate(year = as.factor(year)) %>% 
+    filter(!(year == 2017 & month %in% c("Sep", "Oct", "Nov", "Dec")))
+
+ggplot(df_plot_2, aes(x = month, y = n, group = year, color = year)) +
+    geom_point(alpha = .3) +
+    geom_line() +
+    theme_ipsum_rc(base_size = 12) +
+    scale_color_ipsum("") +
+    xlab(NULL) +
+    ylab("Number of Posts") +
+    ggtitle("Number of Posts / Month on EdPsychJobs")
+```
+
+# What can we learn from this?
+
+Overall, the number of postings seems to align with the academic job cycle, where jobs for the *next* year are posted just around a year before their start date: You would expect an announcement for a job that has a start date of August, 2018 to be around August through October of the year before.
+
+But there are many jobs posted throughout the year, too. And there appear to be differences between years. Of course, there are many possible caveats:
+
+- The extent to which the jobs posted on this site are comprehensive (do they serve as a source of information about all educational psychology jobs, or is it better to think of it as a sample?)
+- There are other fields similar to educational psychology that may be worth comparing
+- These postings are for all kinds of educational psychology-related jobs - post-docs, research assistant or associate jobs, adjunct, and tenure-track
+- The analysis is completely descriptive, and you could develop a predictive model for how many jobs will be posted, say, in September and October, 2017
+
+Nevertheless, it is possibly useful. Any of this code can be used to re-create the data, improve this, or do something different with it.

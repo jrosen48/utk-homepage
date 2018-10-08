@@ -1,0 +1,497 @@
+---
+title: What are the best rail-trails in Michigan?
+author: ~
+date: '2017-07-24'
+slug: michigan-rail-trails-and-pathways-through-data
+categories: [r]
+tags: [mixed-effects models, rail trails, r]
+description: ''
+---
+
+
+
+<div id="background" class="section level1">
+<h1>Background</h1>
+<p>I was curious about what <a href="https://en.wikipedia.org/wiki/Rail_trail">rail trails</a> were the best in Michigan, and so to figure out an answer, I checked out the <a href="https://www.traillink.com/">TrailLink</a> website, sponsored by the Rails-to-Trails Conservancy. I had just purchased a copy of their book <a href="https://www.amazon.com/Rail-Trails-Michigan-Wisconsin-definitive-multiuse/dp/0899978738/ref=sr_1_1?ie=UTF8&amp;qid=1500942043&amp;sr=8-1&amp;keywords=michigan+rail-trails">Rail-Trails Michigan and Wisconsin</a>, and wanted to see whether I could learn more from the website.</p>
+<p>To start, I checked whether they had a way to access the reviews on the site through an API. They didn’t, so I checked their <code>robots.txt</code> file at <code>http://traillink.com/robots.txt</code>. They didn’t disallow access to their reviews for each state, so I was able to download all of the reviews for the 259 trails with reviews in Michigan.</p>
+<pre class="r"><code>library(tidyverse)
+library(hrbrthemes)
+library(viridis)
+library(forcats)
+library(stringr)
+library(lme4)
+library(broom)
+
+df &lt;- read_rds(&quot;/Users/joshuarosenberg/Dropbox/1_Research/railtrail/data-raw/rds_files/mi.rds&quot;) # this is a file with the rail-trail data - you can get it from here: https://github.com/jrosen48/railtrail
+
+df &lt;- df %&gt;% 
+    unnest(raw_reviews) %&gt;% 
+    filter(!is.na(raw_reviews)) %&gt;% 
+    rename(raw_review = raw_reviews,
+           trail_name = name) %&gt;% 
+    mutate(trail_name = str_sub(trail_name, end = -7L),
+           distance = str_sub(distance, end = -6L),
+           distance = as.numeric(distance),
+           n_reviews = str_sub(n_reviews, end = -9L),
+           n_reviews = as.numeric(n_reviews))</code></pre>
+</div>
+<div id="what-are-the-characteristics-of-the-best-trails" class="section level1">
+<h1>What are the characteristics of the best trails?</h1>
+<p>On the site, there are “surfaces” (i.e., asphalt and gravel) and “categories” (i.e., rail-trail and paved pathway), so I tried to group them into a few categories.</p>
+<pre class="r"><code>df &lt;- df %&gt;% 
+    mutate(category = as.factor(category),
+           category = forcats::fct_recode(category, &quot;Greenway/Non-RT&quot; = &quot;Canal&quot;),
+           mean_review = ifelse(mean_review == 0, NA, mean_review))
+
+df &lt;- mutate(df,
+             surface_rc = case_when(
+                 surface == &quot;Asphalt&quot; ~ &quot;Paved&quot;,
+                 surface == &quot;Asphalt, Concrete&quot; ~ &quot;Paved&quot;,
+                 surface == &quot;Concrete&quot; ~ &quot;Paved&quot;,
+                 surface == &quot;Asphalt, Boardwalk&quot; ~ &quot;Paved&quot;,
+                 str_detect(surface, &quot;Stone&quot;) ~ &quot;Crushed Stone&quot;,
+                 str_detect(surface, &quot;Ballast&quot;) ~ &quot;Crushed Stone&quot;,
+                 str_detect(surface, &quot;Gravel&quot;) ~ &quot;Crushed Stone&quot;,
+                 TRUE ~ &quot;Other&quot;
+             )
+)</code></pre>
+<p>Then, I checked out their mean reviews, from one to five stars.</p>
+<p>Some trails had a ton of reviews:</p>
+<pre class="r"><code>df %&gt;% 
+    select(trail_name, surface_rc, category, distance, n_reviews) %&gt;% 
+    distinct() %&gt;% 
+    arrange(desc(n_reviews)) %&gt;% 
+    head(5) %&gt;% 
+    knitr::kable()</code></pre>
+<table>
+<thead>
+<tr class="header">
+<th align="left">trail_name</th>
+<th align="left">surface_rc</th>
+<th align="left">category</th>
+<th align="right">distance</th>
+<th align="right">n_reviews</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Lakelands Trail State Park</td>
+<td align="left">Crushed Stone</td>
+<td align="left">Rail-Trail</td>
+<td align="right">26.0</td>
+<td align="right">78</td>
+</tr>
+<tr class="even">
+<td align="left">Pere Marquette Rail-Trail</td>
+<td align="left">Paved</td>
+<td align="left">Rail-Trail</td>
+<td align="right">30.0</td>
+<td align="right">74</td>
+</tr>
+<tr class="odd">
+<td align="left">Fred Meijer White Pine Trail State Park</td>
+<td align="left">Crushed Stone</td>
+<td align="left">Rail-Trail</td>
+<td align="right">92.6</td>
+<td align="right">64</td>
+</tr>
+<tr class="even">
+<td align="left">William Field Memorial Hart-Montague Trail State Park</td>
+<td align="left">Paved</td>
+<td align="left">Rail-Trail</td>
+<td align="right">22.7</td>
+<td align="right">47</td>
+</tr>
+<tr class="odd">
+<td align="left">Kal-Haven Trail Sesquicentennial State Park</td>
+<td align="left">Crushed Stone</td>
+<td align="left">Rail-Trail</td>
+<td align="right">34.0</td>
+<td align="right">46</td>
+</tr>
+</tbody>
+</table>
+<p>And some had very few reviews- 60 of the trails had only one review!</p>
+<p>Some of these reviews for trails with one review were high (five stars):</p>
+<pre class="r"><code>df %&gt;% 
+    select(trail_name, surface_rc, category, distance, n_reviews, mean_review) %&gt;% 
+    distinct() %&gt;% 
+    filter(n_reviews == 1) %&gt;% 
+    arrange(desc(mean_review)) %&gt;% 
+    head(5) %&gt;% 
+    knitr::kable()</code></pre>
+<table>
+<thead>
+<tr class="header">
+<th align="left">trail_name</th>
+<th align="left">surface_rc</th>
+<th align="left">category</th>
+<th align="right">distance</th>
+<th align="right">n_reviews</th>
+<th align="right">mean_review</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Big Rapids Riverwalk</td>
+<td align="left">Crushed Stone</td>
+<td align="left">Greenway/Non-RT</td>
+<td align="right">3.8</td>
+<td align="right">1</td>
+<td align="right">5</td>
+</tr>
+<tr class="even">
+<td align="left">Boardman Lake Trail</td>
+<td align="left">Crushed Stone</td>
+<td align="left">Rail-Trail</td>
+<td align="right">2.0</td>
+<td align="right">1</td>
+<td align="right">5</td>
+</tr>
+<tr class="odd">
+<td align="left">Cannon Township Trail</td>
+<td align="left">Paved</td>
+<td align="left">Greenway/Non-RT</td>
+<td align="right">4.0</td>
+<td align="right">1</td>
+<td align="right">5</td>
+</tr>
+<tr class="even">
+<td align="left">Chippewa Trail</td>
+<td align="left">Paved</td>
+<td align="left">Greenway/Non-RT</td>
+<td align="right">4.1</td>
+<td align="right">1</td>
+<td align="right">5</td>
+</tr>
+<tr class="odd">
+<td align="left">Grass River Natural Area Rail Trail</td>
+<td align="left">Crushed Stone</td>
+<td align="left">Rail-Trail</td>
+<td align="right">2.2</td>
+<td align="right">1</td>
+<td align="right">5</td>
+</tr>
+</tbody>
+</table>
+<p>Some of the trails with one review were very low:</p>
+<pre class="r"><code>df %&gt;% 
+    select(trail_name, surface_rc, category, distance, n_reviews, mean_review) %&gt;% 
+    distinct() %&gt;% 
+    filter(n_reviews == 1) %&gt;% 
+    arrange(mean_review) %&gt;% 
+    head(5) %&gt;% 
+    knitr::kable()</code></pre>
+<table>
+<thead>
+<tr class="header">
+<th align="left">trail_name</th>
+<th align="left">surface_rc</th>
+<th align="left">category</th>
+<th align="right">distance</th>
+<th align="right">n_reviews</th>
+<th align="right">mean_review</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Alpena to Hillman Trail</td>
+<td align="left">Crushed Stone</td>
+<td align="left">Rail-Trail</td>
+<td align="right">22.0</td>
+<td align="right">1</td>
+<td align="right">1</td>
+</tr>
+<tr class="even">
+<td align="left">Felch Grade Trail</td>
+<td align="left">Crushed Stone</td>
+<td align="left">Rail-Trail</td>
+<td align="right">38.0</td>
+<td align="right">1</td>
+<td align="right">1</td>
+</tr>
+<tr class="odd">
+<td align="left">Interurban Trail (Kent County)</td>
+<td align="left">Paved</td>
+<td align="left">Rail-Trail</td>
+<td align="right">2.0</td>
+<td align="right">1</td>
+<td align="right">2</td>
+</tr>
+<tr class="even">
+<td align="left">Linear Trail Park</td>
+<td align="left">Paved</td>
+<td align="left">Greenway/Non-RT</td>
+<td align="right">16.9</td>
+<td align="right">1</td>
+<td align="right">2</td>
+</tr>
+<tr class="odd">
+<td align="left">Albion River Trail</td>
+<td align="left">Paved</td>
+<td align="left">Rail-Trail</td>
+<td align="right">1.6</td>
+<td align="right">1</td>
+<td align="right">3</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="building-a-model" class="section level1">
+<h1>Building a model</h1>
+<p>To try to figure out what trails had many good reviews, I used an approach that is not an average of all of the reviews for the trail, but a rating that uses the value of the individual reviews for a trail as well as how different they are from each other and how different they are from the “average” review across every trail.</p>
+<p>What if, intsead, we just looked at the top-reviewed trails and then sorted them by how many reviews they had? Because many trails’ average review was five, this does not help much</p>
+<p>These ratings - <code>model_based_rating</code> below - are from the mixed effects model specified here:</p>
+<pre class="r"><code>m1 &lt;- lmer(raw_review ~ 1 + (1|trail_name), data = df)</code></pre>
+<p>The data has to be merged back into the data frame with the other characteristics of the trail:</p>
+<pre class="r"><code>m1_tidied &lt;- tidy(m1)
+
+m1_fe &lt;- filter(m1_tidied, group == &quot;fixed&quot;)
+
+estimated_trail_means &lt;- ranef(m1)$trail_name %&gt;% 
+    rownames_to_column() %&gt;% 
+    as_tibble() %&gt;% 
+    rename(trail_name = rowname, estimated_mean = `(Intercept)`) %&gt;% 
+    mutate(model_based_rating = estimated_mean + m1_fe$estimate)
+
+df_ss &lt;- df %&gt;% 
+    group_by(trail_name) %&gt;% 
+    summarize(raw_mean = mean(raw_review))
+
+df_out &lt;- left_join(df_ss, estimated_trail_means)
+df_out &lt;- left_join(df_out, df)</code></pre>
+</div>
+<div id="so-where-are-we-riding-next" class="section level1">
+<h1>So, where are we riding next?</h1>
+<p>Here are the top-10 trails of any length:</p>
+<pre class="r"><code>df_out %&gt;% 
+    select(trail_name, surface_rc, distance, category, estimated_mean, raw_mean, n_reviews) %&gt;% 
+    distinct() %&gt;% 
+    arrange(desc(estimated_mean)) %&gt;% 
+    mutate_if(is.numeric, function(x) round(x, 3)) %&gt;% 
+    head(10) %&gt;% 
+    knitr::kable()</code></pre>
+<table>
+<thead>
+<tr class="header">
+<th align="left">trail_name</th>
+<th align="left">surface_rc</th>
+<th align="right">distance</th>
+<th align="left">category</th>
+<th align="right">estimated_mean</th>
+<th align="right">raw_mean</th>
+<th align="right">n_reviews</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Saginaw Valley Rail Trail</td>
+<td align="left">Paved</td>
+<td align="right">11.0</td>
+<td align="left">Rail-Trail</td>
+<td align="right">0.881</td>
+<td align="right">4.941</td>
+<td align="right">36</td>
+</tr>
+<tr class="even">
+<td align="left">Clinton River Park Trail</td>
+<td align="left">Paved</td>
+<td align="right">4.5</td>
+<td align="left">Greenway/Non-RT</td>
+<td align="right">0.870</td>
+<td align="right">4.933</td>
+<td align="right">17</td>
+</tr>
+<tr class="odd">
+<td align="left">Wayne County Metroparks Trail</td>
+<td align="left">Paved</td>
+<td align="right">16.3</td>
+<td align="left">Greenway/Non-RT</td>
+<td align="right">0.810</td>
+<td align="right">4.889</td>
+<td align="right">9</td>
+</tr>
+<tr class="even">
+<td align="left">Leelanau Trail</td>
+<td align="left">Paved</td>
+<td align="right">16.6</td>
+<td align="left">Rail-Trail</td>
+<td align="right">0.810</td>
+<td align="right">4.889</td>
+<td align="right">19</td>
+</tr>
+<tr class="odd">
+<td align="left">Southern Links Trailway</td>
+<td align="left">Other</td>
+<td align="right">10.2</td>
+<td align="left">Rail-Trail</td>
+<td align="right">0.806</td>
+<td align="right">4.853</td>
+<td align="right">39</td>
+</tr>
+<tr class="even">
+<td align="left">Detroit RiverWalk</td>
+<td align="left">Paved</td>
+<td align="right">3.5</td>
+<td align="left">Greenway/Non-RT</td>
+<td align="right">0.779</td>
+<td align="right">5.000</td>
+<td align="right">3</td>
+</tr>
+<tr class="odd">
+<td align="left">Grand Haven Waterfront Trail</td>
+<td align="left">Paved</td>
+<td align="right">2.5</td>
+<td align="left">Rail-Trail</td>
+<td align="right">0.779</td>
+<td align="right">5.000</td>
+<td align="right">4</td>
+</tr>
+<tr class="even">
+<td align="left">Granger Meadows Park Trail</td>
+<td align="left">Paved</td>
+<td align="right">1.9</td>
+<td align="left">Greenway/Non-RT</td>
+<td align="right">0.779</td>
+<td align="right">5.000</td>
+<td align="right">2</td>
+</tr>
+<tr class="odd">
+<td align="left">Hampton Township Nature Trail</td>
+<td align="left">Crushed Stone</td>
+<td align="right">2.4</td>
+<td align="left">Greenway/Non-RT</td>
+<td align="right">0.779</td>
+<td align="right">5.000</td>
+<td align="right">2</td>
+</tr>
+<tr class="even">
+<td align="left">Stony Creek Metropark Trail</td>
+<td align="left">Paved</td>
+<td align="right">6.2</td>
+<td align="left">Greenway/Non-RT</td>
+<td align="right">0.779</td>
+<td align="right">5.000</td>
+<td align="right">4</td>
+</tr>
+</tbody>
+</table>
+<p>What if we wanted to take a shorter trip - one less than 10 miles?</p>
+<pre class="r"><code>df_out %&gt;% 
+    select(trail_name, surface_rc, distance, category, estimated_mean, raw_mean, n_reviews) %&gt;% 
+    distinct() %&gt;% 
+    filter(distance &lt; 10) %&gt;% 
+    arrange(desc(estimated_mean), desc(n_reviews)) %&gt;% 
+    head(10) %&gt;% 
+    knitr::kable()</code></pre>
+<table>
+<thead>
+<tr class="header">
+<th align="left">trail_name</th>
+<th align="left">surface_rc</th>
+<th align="right">distance</th>
+<th align="left">category</th>
+<th align="right">estimated_mean</th>
+<th align="right">raw_mean</th>
+<th align="right">n_reviews</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Clinton River Park Trail</td>
+<td align="left">Paved</td>
+<td align="right">4.5</td>
+<td align="left">Greenway/Non-RT</td>
+<td align="right">0.8701264</td>
+<td align="right">4.933333</td>
+<td align="right">17</td>
+</tr>
+<tr class="even">
+<td align="left">Grand Haven Waterfront Trail</td>
+<td align="left">Paved</td>
+<td align="right">2.5</td>
+<td align="left">Rail-Trail</td>
+<td align="right">0.7794946</td>
+<td align="right">5.000000</td>
+<td align="right">4</td>
+</tr>
+<tr class="odd">
+<td align="left">Stony Creek Metropark Trail</td>
+<td align="left">Paved</td>
+<td align="right">6.2</td>
+<td align="left">Greenway/Non-RT</td>
+<td align="right">0.7794946</td>
+<td align="right">5.000000</td>
+<td align="right">4</td>
+</tr>
+<tr class="even">
+<td align="left">Detroit RiverWalk</td>
+<td align="left">Paved</td>
+<td align="right">3.5</td>
+<td align="left">Greenway/Non-RT</td>
+<td align="right">0.7794946</td>
+<td align="right">5.000000</td>
+<td align="right">3</td>
+</tr>
+<tr class="odd">
+<td align="left">Granger Meadows Park Trail</td>
+<td align="left">Paved</td>
+<td align="right">1.9</td>
+<td align="left">Greenway/Non-RT</td>
+<td align="right">0.7794946</td>
+<td align="right">5.000000</td>
+<td align="right">2</td>
+</tr>
+<tr class="even">
+<td align="left">Hampton Township Nature Trail</td>
+<td align="left">Crushed Stone</td>
+<td align="right">2.4</td>
+<td align="left">Greenway/Non-RT</td>
+<td align="right">0.7794946</td>
+<td align="right">5.000000</td>
+<td align="right">2</td>
+</tr>
+<tr class="odd">
+<td align="left">Western Gateway Trail</td>
+<td align="left">Paved</td>
+<td align="right">6.0</td>
+<td align="left">Rail-Trail</td>
+<td align="right">0.7794946</td>
+<td align="right">5.000000</td>
+<td align="right">2</td>
+</tr>
+<tr class="even">
+<td align="left">Mackinac Island Loop (State Highway 185)</td>
+<td align="left">Paved</td>
+<td align="right">8.3</td>
+<td align="left">Greenway/Non-RT</td>
+<td align="right">0.7693288</td>
+<td align="right">4.857143</td>
+<td align="right">10</td>
+</tr>
+<tr class="odd">
+<td align="left">Paint Creek Trail (MI)</td>
+<td align="left">Crushed Stone</td>
+<td align="right">8.9</td>
+<td align="left">Rail-Trail</td>
+<td align="right">0.7254429</td>
+<td align="right">4.785714</td>
+<td align="right">26</td>
+</tr>
+<tr class="even">
+<td align="left">Dequindre Cut Greenway</td>
+<td align="left">Paved</td>
+<td align="right">1.8</td>
+<td align="left">Rail-Trail</td>
+<td align="right">0.7049368</td>
+<td align="right">4.777778</td>
+<td align="right">12</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="conclusion" class="section level1">
+<h1>Conclusion</h1>
+<p>This approach that uses a model is powerful because we can figure out what trails are higher (or lower) when we consider how many reviews we have about each trail. Needless to say, this approach is powerful in research, as well: Grades for students in classrooms, for example, can be analyzed in the same way if we want to learn what students are consistently performing differently (for better or worse!).</p>
+<p>The code to download the reviews is <a href="https://github.com/jrosen48/railtrail">here</a>. The code in this post can be used to do a similar analysis.</p>
+</div>

@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>A first pass at Latent Profile Analysis using MCLUST (in R) | Joshua M. Rosenberg</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+    
+  </head>
+
+  <body>
+    <nav>
+    <ul class="menu">
+      
+      <li><a href="/">Home</a></li>
+      
+      <li><a href="/about/">About</a></li>
+      
+      <li><a href="/categories/">Categories</a></li>
+      
+      <li><a href="/tags/">Tags</a></li>
+      
+      <li><a href="/index.xml">Subscribe</a></li>
+      
+    </ul>
+    <hr/>
+    </nav>
+
+<div class="article-meta">
+<h1><span class="title">A first pass at Latent Profile Analysis using MCLUST (in R)</span></h1>
+
+<h2 class="date">2017/08/22</h2>
+</div>
+
+<main>
+<div id="note---an-r-package-for-carrying-out-latent-profile-analysis-lpa-tidylpa" class="section level1">
+<h1>Note - an R package for carrying out Latent Profile Analysis (LPA): tidyLPA</h1>
+<p>Since writing this post, I have worked with colleagues to release an R package to carry out the analysis. The package is <a href="https://jrosen48.github.io/tidyLPA/">tidyLPA</a> and is described in the following sections, through the “Original Post” header below which is the beginning of the original post.</p>
+<div id="introduction" class="section level2">
+<h2>Introduction</h2>
+<p>Latent Profile Analysis (LPA) is a statistical modeling approach for estimating distinct profiles, or groups, of variables. In the social sciences and in educational research, these profiles could represent, for example, how different youth experience dimensions of being engaged (i.e., cognitively, behaviorally, and affectively) at the same time.</p>
+<p>tidyLPA provides the functionality to carry out LPA. LPA is a statistical modeling approach for estimating parameters (i.e., the means, variances, and covariances) for profiles. Note that tidyLPA is still at the beta stage! Please report any bugs at <a href="https://github.com/jrosen48/tidyLPA" class="uri">https://github.com/jrosen48/tidyLPA</a> or send an email to <a href="mailto:jrosen@msu.edu">jrosen@msu.edu</a>.</p>
+</div>
+<div id="installation" class="section level2">
+<h2>Installation</h2>
+<p>You can install tidyLPA from CRAN with:</p>
+<pre class="r"><code>install.packages(&quot;tidyLPA&quot;)</code></pre>
+<p>You can also install the in-development version of tidyLPA from GitHub with:</p>
+<pre class="r"><code>install.packages(&quot;devtools&quot;)
+devtools::install_github(&quot;jrosen48/tidyLPA&quot;)</code></pre>
+</div>
+<div id="example" class="section level2">
+<h2>Example</h2>
+<p>Here is a brief example using the built-in <code>pisaUSA15</code> dataset and variables for broad interest, enjoyment, and self-efficacy. Note that we first type the name of the data frame, followed by the unquoted names of the variables used to create the profiles. We also specify the number of profiles and the model. See <code>?estimate_profiles</code> for more details.</p>
+<pre class="r"><code>library(tidyLPA)</code></pre>
+<pre><code>## tidyLPA provides the functionality to carry out Latent Profile Analysis. Note that tidyLPA is still at the beta stage! 
+## Please report any bugs at https://github.com/jrosen48/tidyLPA or send an email to jrosen@msu.edu.</code></pre>
+<pre class="r"><code>d &lt;- pisaUSA15[1:100, ]
+
+m3 &lt;- estimate_profiles(d, 
+                        broad_interest, enjoyment, self_efficacy, 
+                        n_profiles = 3, 
+                        model = 2)</code></pre>
+<pre><code>## Fit varying means, equal variances and covariances (Model 2) model with 3 profiles.</code></pre>
+<pre><code>## LogLik is 279.692</code></pre>
+<pre><code>## BIC is 636.62</code></pre>
+<pre><code>## Entropy is 0.798</code></pre>
+<pre class="r"><code>plot_profiles(m3, to_center = TRUE)</code></pre>
+<p><img src="/blog/2017-08-22-lpa-in-r-using-mclust_files/figure-html/unnamed-chunk-3-1.png" width="672" /></p>
+<p>The <code>model</code> argument allows for four models to be specified:</p>
+<ul>
+<li>Varying means, equal variances, and covariances fixed to 0 (model 1)</li>
+<li>Varying means, equal variances, and equal covariances (model 2)</li>
+<li>Varying means, varying variances, and covariances fixed to 0 (model 3)</li>
+<li>Varying means, varying variances, and varying covariances (model 6)</li>
+</ul>
+<p>Two additional models can be fit using functions that provide an interface to the MPlus software. More information on the models can be found in the <a href="https://jrosen48.github.io/tidyLPA/articles/Introduction_to_tidyLPA.html">vignette</a>.</p>
+</div>
+<div id="learn-more" class="section level2">
+<h2>Learn more</h2>
+<p>To learn more:</p>
+<ul>
+<li><p>Browse the tidyLPA <a href="https://jrosen48.github.io/tidyLPA/">website</a></p></li>
+<li><p><em>Read the Introduction to tidyLPA</em> <a href="https://jrosen48.github.io/tidyLPA/articles/Introduction_to_tidyLPA.html">vignette</a>, which has much more information on the models that can be specified with tidyLPA and on additional functionality</p></li>
+</ul>
+</div>
+<div id="contact" class="section level2">
+<h2>Contact</h2>
+<p>As tidyLPA is at an early stage of its development, issues should be expected. If you have any questions or feedback, please do not hesitate to get in touch:</p>
+<ul>
+<li>By <a href="mailto:jrosen@msu.edu">email (jrosen@msu.edu)</a></li>
+<li>By <a href="http://twitter.com/jrosenberg6432">Twitter</a></li>
+<li>Through filing an issue on GitHub <a href="https://github.com/jrosen48/tidyLPA">here</a></li>
+</ul>
+<p>Please note that this project is released with a <a href="CONDUCT.md">Contributor Code of Conduct</a>. By participating in this project you agree to abide by its terms.</p>
+</div>
+</div>
+<div id="original-post" class="section level1">
+<h1>Original Post</h1>
+<div id="background" class="section level2">
+<h2>Background</h2>
+Along with starting to use MPlus, I’ve become (more) interested in trying to find out how to carry out Latent Profile Analysis (LPA) in R, focused on two options: <a href="http://openmx.ssri.psu.edu/">OpenMx</a> and <a href="http://www.stat.washington.edu/mclust/">MCLUST</a>. The two are very different: OpenMx is an option for general latent variable modeling (i.e., it can be used to specify a wide range of latent variable models, from Confirmatory Factor Analysis to a Growth Mixture Model), while MCLUST is (primarily) for clustering (and classification) using mixture models.
+</p>
+<p>This post is a first attempt about carrying out LPA using MCLUST in R. MCLUST does model-based clustering, as or as the authors describe it, Gaussian Mixture Modeling, since LPA can be seen as one way to do mixture modeling through general latent variable modeling software. Another post will focus on OpenMx (and MPlus), both of which do that.</p>
+</div>
+<div id="lpa-models" class="section level2">
+<h2>LPA models</h2>
+<p>When carrying out LPA, we can fit an unconstrained model, in which not only the measured variables’ means, but also their variance and covariances, are different, or freely-estimated, across profiles, or mixture components. However, we also sometimes estimate commonly-specified models that are more constrained as part of a model-building process.</p>
+<p>Namely, we are commonly interested in those in which the residual variances are constrained (to be the same across components) or freely-estimated (to be different across components) and the covariances are fixed (to be zero, i.e. the covariance matrix is diagonal, in that only the cells on the diagonal, or the variances, are estimated) or freely-estimated.</p>
+<p>Let’s get started.</p>
+</div>
+<div id="test-example-code-using-the-iris-data" class="section level2">
+<h2>Test (example) code using the “iris” data</h2>
+<p>Here is a first pass, using the <a href="https://en.wikipedia.org/wiki/Iris_flower_data_set">iris data</a>, which is built into R.</p>
+<p>First, let’s explore fit indices for each of the three models with between one and six mixture components. Like MCLUST does in its built-in function, we can plot these values of the Bayesian Information Criteria (BIC).</p>
+<pre class="r"><code>library(tidyverse, warn.conflicts = FALSE)
+library(mclust)
+library(hrbrthemes)
+
+data(iris)
+
+df &lt;- select(iris, -Species)
+
+explore_model_fit &lt;- function(df, n_profiles_range = 1:9, model_names = c(&quot;EII&quot;, &quot;VVI&quot;, &quot;EEE&quot;, &quot;VVV&quot;)) {
+    x &lt;- mclustBIC(df, G = n_profiles_range, modelNames = model_names)
+    y &lt;- x %&gt;%
+        as.data.frame.matrix() %&gt;%
+        rownames_to_column(&quot;n_profiles&quot;) %&gt;%
+        rename(`Constrained variance, fixed covariance` = EII, 
+               `Freed variance, fixed covariance` = VVI,
+               `Constrained variance, constrained covariance` = EEE,
+               `Freed variance, freed covariance` = VVV)
+    y
+}
+
+fit_output &lt;- explore_model_fit(df, n_profiles_range = 1:6)
+
+to_plot &lt;- fit_output %&gt;%
+    gather(`Covariance matrix structure`, val, -n_profiles) %&gt;% 
+    mutate(`Covariance matrix structure` = as.factor(`Covariance matrix structure`),
+           val = abs(val)) # this is to make the BIC values positive (to align with more common formula / interpretation of BIC)
+
+library(forcats)
+
+to_plot$`Covariance matrix structure` &lt;- fct_relevel(to_plot$`Covariance matrix structure`,
+                                                     &quot;Constrained variance, fixed covariance&quot;,
+                                                     &quot;Freed variance, fixed covariance&quot;,
+                                                     &quot;Constrained variance, constrained covariance&quot;,
+                                                     &quot;Freed variance, freed covariance&quot;)
+
+
+ggplot(to_plot, aes(x = n_profiles, y = val, color = `Covariance matrix structure`, group = `Covariance matrix structure`)) +
+    geom_line() +
+    geom_point() +
+    ylab(&quot;BIC (smaller value is better)&quot;) +
+    theme_ipsum_rc()</code></pre>
+<p><img src="/blog/2017-08-22-lpa-in-r-using-mclust_files/figure-html/unnamed-chunk-4-1.png" width="672" /></p>
+<p>From red to purple, the models become less constrained (more free). It appears that a <em>two</em> or <em>three</em> profile (mixture component) model with freely-estimated residual variances and covariances, or a <em>four</em> profile model with constrained residual covariances and variances, fit best (based on interpreting the BIC).</p>
+<p>Given this, we can fit (and inspect) a model, say, the three profile model with freely-estimated residual variance and covariances.</p>
+<pre class="r"><code>create_profiles_mclust &lt;- function(df,
+                                   n_profiles, 
+                                   variance_structure = &quot;freed&quot;,
+                                   covariance_structure = &quot;freed&quot;){
+    
+    if (variance_structure == &quot;constrained&quot; &amp; covariance_structure == &quot;fixed&quot;) {
+        
+        model_name &lt;- &quot;EEI&quot;
+        
+    } else if (variance_structure == &quot;freed&quot; &amp; covariance_structure == &quot;fixed&quot;) {
+        
+        model_name &lt;- &quot;VVI&quot;
+        
+    } else if (variance_structure == &quot;constrained&quot; &amp; covariance_structure == &quot;constrained&quot;) {
+        
+        model_name &lt;- &quot;EEE&quot;
+        
+    } else if (variance_structure == &quot;freed&quot; &amp; covariance_structure == &quot;freed&quot;) {
+        
+        model_name &lt;- &quot;VVV&quot;
+        
+    } else if (variance_structure == &quot;fixed&quot;) {
+        
+        stop(&quot;variance_structure cannot equal &#39;fixed&#39; using this function; change this to &#39;constrained&#39; or &#39;freed&#39; or try one of the models from mclust::Mclust()&quot;)
+        
+    } 
+    
+    x &lt;- Mclust(df, G = n_profiles, modelNames = model_name)
+    
+    print(summary(x))
+    
+    dff &lt;- bind_cols(df, classification = x$classification)
+    
+    proc_df &lt;- dff %&gt;%
+        mutate_at(vars(-classification), scale) %&gt;%
+        group_by(classification) %&gt;%
+        summarize_all(funs(mean)) %&gt;%
+        mutate(classification = paste0(&quot;Profile &quot;, 1:n_profiles)) %&gt;%
+        mutate_at(vars(-classification), function(x) round(x, 3)) %&gt;%
+        rename(profile = classification)
+    
+    return(proc_df)
+    
+}
+
+m3 &lt;- create_profiles_mclust(df, 3, variance_structure = &quot;freed&quot;, covariance_structure = &quot;freed&quot;)</code></pre>
+<pre><code>## ----------------------------------------------------
+## Gaussian finite mixture model fitted by EM algorithm 
+## ----------------------------------------------------
+## 
+## Mclust VVV (ellipsoidal, varying volume, shape, and orientation) model with 3 components:
+## 
+##  log.likelihood   n df       BIC       ICL
+##       -180.1858 150 44 -580.8396 -584.0522
+## 
+## Clustering table:
+##  1  2  3 
+## 50 45 55</code></pre>
+<p>We can then plot the mean values for the variables used to estimate the model for each of the two profiles. Of course, there are other models that we may want to inspect with different covariance matrix structures or profile numbers.</p>
+<pre class="r"><code>m3 %&gt;%
+    gather(key, val, -profile) %&gt;% 
+    ggplot(aes(x = profile, y = val, fill = key, group = key)) +
+    geom_col(position = &quot;dodge&quot;) +
+    ylab(&quot;Z-score&quot;) +
+    xlab(&quot;&quot;) +
+    scale_fill_discrete(&quot;&quot;) +
+    theme_ipsum_rc()</code></pre>
+<p><img src="/blog/2017-08-22-lpa-in-r-using-mclust_files/figure-html/unnamed-chunk-6-1.png" width="672" /></p>
+<p>Please <a href="mailto:jrosen@msu.edu">send me a message</a> if you have any comments.</p>
+<p>A big thank you to my colleagues <a href="http://youkyunglee.com/">You-Kyung Lee</a> and <a href="http://www.kristyarobinson.com/">Kristy Robinson</a> for helping me begin to understand LPA.</p>
+</div>
+</div>
+
+</main>
+
+  <footer>
+  
+  
+  <hr/>
+  &copy; <a href="https://jmichaelrosenberg.com">Joshua M. Rosenberg</a> 2017 &ndash; 2018 | <a href="https://github.com/yihui">Github</a> | <a href="https://twitter.com/xieyihui">Twitter</a>
+  
+  </footer>
+  </body>
+</html>
+

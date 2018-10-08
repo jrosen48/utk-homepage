@@ -1,0 +1,88 @@
+---
+title: In what months are educational psychology jobs posted? An update!
+author: ''
+date: '2018-06-29'
+slug: in-what-months-are-educational-psychology-jobs-posted-an-update
+categories: []
+tags: []
+description: Desc
+meta_img: /images/image.jpg
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(message = FALSE,
+                      warning = FALSE,
+                      collapse = TRUE,
+                      fig.asp = .618,
+                      results = "hold",
+                      cache = TRUE)
+```
+
+In August of last year, I wrote a [post](https://jrosen48.github.io/blog/when-are-ed-psych-jobs-posted/) that involved looking at when educational psychology jobs (mostly, but not only, academic jobs or those related to research and teaching) were posted to the excellent [Ed Psych Jobs](http://edpsychjobs.info/) website. As that post made (in part) the (anticipated) point that most jobs were posted in September (in which 16% of jobs were posted there) and October (14%) (followed by August, with 11%), I thought that it may be helpful to see how accurate that was over the past year.
+
+The code for scraping the data from the website is largely the same; fortunately, Ed Psych Jobs / Division 15 didn't change the page's permissions (see the section on the `robots.txt` file in last year's post) in terms of how its content may be scraped.
+
+Here's the main function:
+
+```{r}
+library(rvest)
+library(tidyverse)
+library(lubridate)
+
+read_the_dates <- function(page, url = "http://edpsychjobs.info/category/all-jobs/page/") {
+    Sys.sleep(1)
+    
+    results_df <- tibble(
+        dates = vector(length = 1)
+    )
+    
+    base_url <- paste0(url, page)
+    page_html <- read_html(base_url)
+    date <- html_nodes(page_html, ".published")
+    
+    results_df <- mutate(results_df,
+                         date = list(html_text(date)))
+    
+    return(results_df)
+}
+
+```
+
+Here is how it is used to access the webpages (check out the [last post](https://jrosen48.github.io/blog/when-are-ed-psych-jobs-posted/
+) to see why the function uses `1:88`):
+
+```{r}
+output_df <- map_df(1:88, read_the_dates)
+```
+
+Finally, these lines of code process and plot the data, with 2017 and 2018 plotted in different colors than the rest:
+
+```{r}
+
+processed_dates <- output_df %>% 
+  select(date) %>% 
+  unnest(date) %>% 
+  mutate(date = mdy(date),
+         month = month(date, label = T),
+         year = year(date))
+
+df_plot_2 <- processed_dates %>% 
+  count(year, month) %>% 
+  complete(year, month, fill = list(n = 0)) %>% 
+  mutate(n = ifelse(year == 2018 & month %in% c("Jul", "Aug", "Sep", "Oct", "Nov", "Dec"), NA, n),
+         year = as.factor(year))
+
+ggplot(df_plot_2, aes(x = month, y = n, group = year, color = year)) +
+  geom_point() +
+  geom_line() +
+  scale_color_manual("", values  = c("gray90", "gray70", "gray50", "gray30", "gray10", "red", "blue")) +
+  xlab(NULL) +
+  ylab("Number of Posts") +
+  ggtitle("Number of Posts / Month on EdPsychJobs")
+```
+
+So, in what months were jobs posted during this past (academic) year? The most were posted in October, followed by August, and then in November: more jobs were posted a bit later in the cycle [this past year](https://jrosen48.github.io/blog/when-are-ed-psych-jobs-posted/) than over the previous five years. Of course, not all educational psychology jobs are posted on Ed Psych Jobs (though many are) and there are other great sources to find out about jobs (especially [#edpsychjobhunters](https://twitter.com/search?q=%23edpsychjobhunters&src=typd) / now [#edpsychjobs](https://twitter.com/hashtag/edpsychjobs?src=hash), thanks to [Ben Heddy](https://twitter.com/benjaminheddy)). And, of course, those looking for educational psychology jobs may look across many fields, including the learning sciences, youth and adolescent development, and teacher education.
+
+A big takeaway from this analysis post for anyone who is looking for academic or research- or teaching-related jobs (at the post-secondary level): the fall, broadly, is a good time to look for jobs! This past academic year was (mostly) not an exception to this, and so job-seekers this year should consider August through (around) November to be the period when most of them are posted.
+
+On a related note, I'm thrilled to share that I will *not* be searching for jobs this year. I'm very fortunate to be beginning an Assistant Professor of STEM Education position (a good fit for me given my interests and experience) in [an outstanding department, Theory and Practice in Teacher Education](http://tpte.utk.edu/) at the University of Tennessee, Knoxville, this upcoming fall. Another note: I received a ton of support and kindness throughout the process. If you're searching this year have questions / issues that you think I could perhaps weigh in on, let me know (some contact details are [here](https://jrosen48.github.io/cv/)).

@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Comparing MPLUS and MCLUST output | Joshua M. Rosenberg</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+    
+  </head>
+
+  <body>
+    <nav>
+    <ul class="menu">
+      
+      <li><a href="/">Home</a></li>
+      
+      <li><a href="/about/">About</a></li>
+      
+      <li><a href="/categories/">Categories</a></li>
+      
+      <li><a href="/tags/">Tags</a></li>
+      
+      <li><a href="/index.xml">Subscribe</a></li>
+      
+    </ul>
+    <hr/>
+    </nav>
+
+<div class="article-meta">
+<h1><span class="title">Comparing MPLUS and MCLUST output</span></h1>
+<h2 class="author">Joshua Rosenberg</h2>
+<h2 class="date">2017/09/14</h2>
+</div>
+
+<main>
+<div id="note" class="section level3">
+<h3>Note</h3>
+<p>An in-development <code>R</code> package to carry out LPA and this analysis is available here: <a href="https://github.com/jrosen48/tidymixmod" class="uri">https://github.com/jrosen48/tidymixmod</a>.</p>
+</div>
+<div id="introduction" class="section level1">
+<h1>Introduction</h1>
+<p>At present, MPlus is a widely-used tool to carry out Latent Profile Analysis, and there does not seem to be a widely-accepted or used way to carry out Latent Profile Analysis in R. This compares output from MPlus to output from the R package MCLUST, which is accessed through the package tidymixmod which I started to work on to make estimating common models used for LPA easier to carry out using MCLUST.</p>
+<div id="links-to-resources" class="section level3">
+<h3>Links to resources:</h3>
+<ul>
+<li><a href="https://www.statmodel.com/">MPlus</a></li>
+<li><a href="https://www.statmodel.com/usingmplusviar.shtml">MPlusAutomation</a> (this package uses MPlus; MPlus has to be purchased and installed for it to work)</li>
+<li><a href="http://www.stat.washington.edu/mclust/">MCLUST</a></li>
+<li><a href="https://github.com/jrosen48/tidymixmod">tidymixmod</a> (this is the package we’re currently working on; it provides an interface to MCLUST)</li>
+</ul>
+</div>
+</div>
+<div id="loading-setting-up" class="section level1">
+<h1>Loading, setting up</h1>
+<p>First, let’s load a few packages and setup.</p>
+<pre class="r"><code>library(tidyverse)
+library(MplusAutomation)
+library(stringr)
+# if tidymixmod is not installed, can use the line below to install
+# devtools::install_github(&quot;jrosen48/tidymixmod&quot;)
+library(tidymixmod)
+
+the_dir &lt;- &quot;/Users/joshuarosenberg/Dropbox/5_Professional/homepage/source/static/_media/data/&quot;</code></pre>
+<p>Next, we’ll write a few functions to view MPlus summary statistics from the output.</p>
+<pre class="r"><code>extract_mplus_summary &lt;- function(x) {
+    x$summaries[c(&quot;LL&quot;, &quot;BIC&quot;, &quot;Entropy&quot;)]
+}
+
+extract_mplus_paramaters &lt;- function(x) {
+    y &lt;- x$parameters[[1]]
+    y &lt;- y[-nrow(y), ]
+    dplyr::select(y, param_name = paramHeader, var_name = param, est, se, class = LatentClass)
+}
+
+extract_means &lt;- function(x) {
+    calculate_centroids_mclust(x) %&gt;%
+        rownames_to_column(&quot;var_name&quot;) %&gt;%
+        rename(class_1 = Profile1, class_2 = Profile2) %&gt;%
+        mutate(param_name = &quot;Means&quot;,
+               class1 = round(class_1, 3),
+               class2 = round(class_2, 3)) %&gt;%
+        select(param_name, var_name, class_1, class_2)
+}</code></pre>
+<p>Here we are running MPlus models using MPlusAutomation. The specification of each of the three models is available from the post <a href="https://jrosen48.github.io/blog/using-mplus-from-r/">here</a>.</p>
+<pre class="r"><code>runModels(paste0(the_dir, &quot;2-iris-LPA_means.inp&quot;))</code></pre>
+<pre><code>## Warning in as.POSIXlt.POSIXct(x, tz): unknown timezone &#39;zone/tz/2017c.1.0/
+## zoneinfo/America/Detroit&#39;</code></pre>
+<pre class="r"><code>runModels(paste0(the_dir, &quot;2-iris-LPA_means_correlated.inp&quot;))
+runModels(paste0(the_dir, &quot;2-iris-LPA_means_correlated_free_variances.inp&quot;))
+
+m1_mplus_out &lt;- readModels(paste0(the_dir, &quot;2-iris-LPA_means.out&quot;))
+m2_mplus_out &lt;- readModels(paste0(the_dir, &quot;2-iris-LPA_means_correlated.out&quot;))
+m3_mplus_out &lt;- readModels(paste0(the_dir, &quot;2-iris-LPA_means_correlated_free_variances.out&quot;))
+
+m1_mplus &lt;- m1_mplus_out %&gt;%
+    extract_mplus_paramaters() %&gt;%
+    mutate(class = paste0(&quot;class_&quot;, class)) %&gt;%
+    select(-se) %&gt;%
+    spread(class, est)
+
+m2_mplus &lt;- m2_mplus_out %&gt;%
+    extract_mplus_paramaters() %&gt;%
+    mutate(class = paste0(&quot;class_&quot;, class)) %&gt;%
+    select(-se) %&gt;%
+    spread(class, est)
+
+m3_mplus &lt;- m3_mplus_out %&gt;%
+    extract_mplus_paramaters() %&gt;%
+    mutate(class = paste0(&quot;class_&quot;, class)) %&gt;%
+    select(-se) %&gt;%
+    spread(class, est)</code></pre>
+<p>Here we are running MCLUST models using the R package <a href="https://github.com/jrosen48/tidymixmod">tidymixmod</a>, which interfaces to the R package MCLUST.</p>
+<pre class="r"><code>m1_mclust &lt;- create_profiles_mclust(iris,
+                                    Sepal.Length, Sepal.Width, Petal.Length, Petal.Width,
+                                    n_profiles = 2, model = 1, to_return = &quot;mclust&quot;)</code></pre>
+<pre><code>## Fit model with 2 profiles using the &#39;constrained variance&#39; model.</code></pre>
+<pre><code>## Model BIC is 1042.968</code></pre>
+<pre class="r"><code>m2_mclust &lt;- create_profiles_mclust(iris,
+                                    Sepal.Length, Sepal.Width, Petal.Length, Petal.Width,
+                                    n_profiles = 2, model = 2, to_return = &quot;mclust&quot;)</code></pre>
+<pre><code>## Fit model with 2 profiles using the &#39;constrained variance and covariance&#39; model.</code></pre>
+<pre><code>## Model BIC is 688.097</code></pre>
+<pre class="r"><code>m3_mclust &lt;- create_profiles_mclust(iris,
+                                    Sepal.Length, Sepal.Width, Petal.Length, Petal.Width,
+                                    n_profiles = 2, model = 3, to_return = &quot;mclust&quot;)</code></pre>
+<pre><code>## Fit model with 2 profiles using the &#39;freed variance and covariance&#39; model.</code></pre>
+<pre><code>## Model BIC is 574.018</code></pre>
+</div>
+<div id="comparing-mplus-and-mclust-summary-statistics" class="section level1">
+<h1>Comparing MPlus and MCLUST summary statistics</h1>
+<p><em>LL is log-likelihood</em></p>
+<pre class="r"><code>list(m1_mplus_out, m2_mplus_out, m3_mplus_out) %&gt;%
+    map_df(extract_mplus_summary) %&gt;% 
+    mutate(model = paste0(&quot;m&quot;, 1:3),
+           method = &quot;MPlus&quot;) %&gt;%
+    select(method, model, everything())</code></pre>
+<pre><code>##   method model       LL      BIC Entropy
+## 1  MPlus    m1 -488.915 1042.968   0.991
+## 2  MPlus    m2 -296.448  688.097   1.000
+## 3  MPlus    m3 -214.355  574.018   1.000</code></pre>
+<pre class="r"><code>list(m1_mclust, m2_mclust, m3_mclust) %&gt;%
+    map_df(extract_mclust_summary) %&gt;%
+    mutate(model = paste0(&quot;m&quot;, 1:3),
+           method = &quot;MCLUST&quot;) %&gt;%
+    select(method, model, everything())</code></pre>
+<pre><code>##   method model       LL      BIC Entropy
+## 1 MCLUST    m1 -488.915 1042.968   0.998
+## 2 MCLUST    m2 -296.448  688.097   1.000
+## 3 MCLUST    m3 -214.355  574.018   1.000</code></pre>
+<p>There is a slight difference in the entropy statistic for the first model (means with constrained variances), possibly due to a rounding error from the MPlus output.</p>
+</div>
+<div id="comparing-mplus-and-mclust-parameter-estimates" class="section level1">
+<h1>Comparing MPlus and MCLUST parameter estimates</h1>
+<div id="for-m1-varying-means-constrained-variances" class="section level4">
+<h4>For m1 (varying means, constrained variances)</h4>
+<pre class="r"><code>m1_m &lt;- extract_means(m1_mclust) %&gt;%
+    mutate(class_1 = round(class_1, 3),
+           class_2 = round(class_2, 3))
+
+m1_c1_v &lt;- extract_variance(m1_mclust, 1)
+m1_c2_v &lt;- extract_variance(m1_mclust, 2)
+
+# MPlus output
+
+m1_mplus %&gt;% 
+    mutate(model = &quot;MPlus&quot;) %&gt;% 
+    select(model, everything()) %&gt;% 
+    arrange(param_name, desc(class_1))</code></pre>
+<pre><code>##   model param_name   var_name class_1 class_2
+## 1 MPlus      Means SEPAL_LENG   5.006   6.265
+## 2 MPlus      Means SEPAL_WIDT   3.423   2.873
+## 3 MPlus      Means PETAL_LENG   1.471   4.911
+## 4 MPlus      Means PETAL_WIDT   0.250   1.678
+## 5 MPlus  Variances PETAL_LENG   0.459   0.459
+## 6 MPlus  Variances SEPAL_LENG   0.328   0.328
+## 7 MPlus  Variances PETAL_WIDT   0.123   0.123
+## 8 MPlus  Variances SEPAL_WIDT   0.121   0.121</code></pre>
+<pre class="r"><code># MCLUST output
+
+bind_rows(m1_c1_v, m1_c2_v) %&gt;% 
+    spread(class, est) %&gt;% 
+    bind_rows(m1_m) %&gt;% 
+    mutate(model = &quot;MCLUST&quot;) %&gt;% 
+    select(model, everything()) %&gt;% 
+    arrange(param_name, desc(class_1)) %&gt;% 
+    mutate(var_name = toupper(var_name),
+           var_name = str_sub(var_name, end = 10),
+           var_name = str_replace(var_name, &quot;\\.&quot;, &quot;_&quot;))</code></pre>
+<pre><code>## # A tibble: 8 x 5
+##    model param_name   var_name class_1 class_2
+##    &lt;chr&gt;      &lt;chr&gt;      &lt;chr&gt;   &lt;dbl&gt;   &lt;dbl&gt;
+## 1 MCLUST      Means          1   5.006   6.265
+## 2 MCLUST      Means          2   3.423   2.873
+## 3 MCLUST      Means          3   1.471   4.911
+## 4 MCLUST      Means          4   0.250   1.678
+## 5 MCLUST  Variances PETAL_LENG   0.459   0.459
+## 6 MCLUST  Variances SEPAL_LENG   0.328   0.328
+## 7 MCLUST  Variances PETAL_WIDT   0.123   0.123
+## 8 MCLUST  Variances SEPAL_WIDT   0.121   0.121</code></pre>
+<p>These seem to be identical.</p>
+</div>
+<div id="for-m2-varying-means-constrained-variances-and-covariances" class="section level4">
+<h4>For m2 (varying means, constrained variances and covariances)</h4>
+<pre class="r"><code>m2_m &lt;- extract_means(m2_mclust) %&gt;%
+    mutate(class_1 = round(class_1, 3),
+           class_2 = round(class_2, 3))
+
+m2_c1_v &lt;- extract_variance(m2_mclust, 1)
+m2_c2_v &lt;- extract_variance(m2_mclust, 2)
+
+m2_c1_cv &lt;- extract_covariance(m2_mclust, 1) %&gt;% 
+    semi_join(m2_mplus, by = c(&quot;param_name&quot;, &quot;var_name&quot;)) %&gt;% 
+    mutate(class = &quot;class_1&quot;)
+
+m2_c2_cv &lt;- extract_covariance(m2_mclust, 2) %&gt;% 
+    semi_join(m2_mplus, by = c(&quot;param_name&quot;, &quot;var_name&quot;)) %&gt;% 
+    mutate(class = &quot;class_2&quot;)
+
+m2_cv &lt;- bind_rows(m2_c1_cv, m2_c2_cv) %&gt;% 
+    mutate(est = round(est, 3),
+           model = &quot;MCLUST&quot;) %&gt;% 
+    spread(class, est) 
+
+# MPlus output
+
+m2_mplus %&gt;% 
+    mutate(model = &quot;MPlus&quot;) %&gt;% 
+    select(model, everything()) %&gt;% 
+    arrange(param_name, desc(class_1)) </code></pre>
+<pre><code>##    model    param_name   var_name class_1 class_2
+## 1  MPlus         Means SEPAL_LENG   5.006   6.262
+## 2  MPlus         Means SEPAL_WIDT   3.428   2.872
+## 3  MPlus         Means PETAL_LENG   1.462   4.906
+## 4  MPlus         Means PETAL_WIDT   0.246   1.676
+## 5  MPlus PETAL_LE.WITH PETAL_WIDT   0.193   0.193
+## 6  MPlus SEPAL_LE.WITH PETAL_LENG   0.305   0.305
+## 7  MPlus SEPAL_LE.WITH PETAL_WIDT   0.114   0.114
+## 8  MPlus SEPAL_LE.WITH SEPAL_WIDT   0.113   0.113
+## 9  MPlus SEPAL_WI.WITH PETAL_LENG   0.098   0.098
+## 10 MPlus SEPAL_WI.WITH PETAL_WIDT   0.056   0.056
+## 11 MPlus     Variances PETAL_LENG   0.460   0.460
+## 12 MPlus     Variances SEPAL_LENG   0.331   0.331
+## 13 MPlus     Variances PETAL_WIDT   0.123   0.123
+## 14 MPlus     Variances SEPAL_WIDT   0.120   0.120</code></pre>
+<pre class="r"><code># MCLUST output
+
+bind_rows(m2_c1_v, m2_c2_v) %&gt;% 
+    spread(class, est) %&gt;% 
+    bind_rows(m1_m) %&gt;% 
+    mutate(model = &quot;MCLUST&quot;) %&gt;% 
+    select(model, everything()) %&gt;% 
+    bind_rows(m2_cv) %&gt;% 
+    arrange(param_name) %&gt;% 
+    arrange(param_name, desc(class_1)) %&gt;% 
+    mutate(var_name = toupper(var_name),
+           var_name = str_sub(var_name, end = 10),
+           var_name = str_replace(var_name, &quot;\\.&quot;, &quot;_&quot;))</code></pre>
+<pre><code>## # A tibble: 14 x 5
+##     model    param_name   var_name class_1 class_2
+##     &lt;chr&gt;         &lt;chr&gt;      &lt;chr&gt;   &lt;dbl&gt;   &lt;dbl&gt;
+##  1 MCLUST         Means          1   5.006   6.265
+##  2 MCLUST         Means          2   3.423   2.873
+##  3 MCLUST         Means          3   1.471   4.911
+##  4 MCLUST         Means          4   0.250   1.678
+##  5 MCLUST PETAL_LE.WITH PETAL_WIDT   0.193   0.193
+##  6 MCLUST SEPAL_LE.WITH PETAL_LENG   0.305   0.305
+##  7 MCLUST SEPAL_LE.WITH PETAL_WIDT   0.114   0.114
+##  8 MCLUST SEPAL_LE.WITH SEPAL_WIDT   0.113   0.113
+##  9 MCLUST SEPAL_WI.WITH PETAL_LENG   0.098   0.098
+## 10 MCLUST SEPAL_WI.WITH PETAL_WIDT   0.056   0.056
+## 11 MCLUST     Variances PETAL_LENG   0.460   0.460
+## 12 MCLUST     Variances SEPAL_LENG   0.331   0.331
+## 13 MCLUST     Variances PETAL_WIDT   0.123   0.123
+## 14 MCLUST     Variances SEPAL_WIDT   0.120   0.120</code></pre>
+<p>There seem to be a few differences in the hundreths place.</p>
+</div>
+<div id="for-m3-varying-means-freed-covariances-and-covariances" class="section level4">
+<h4>For m3 (varying means, freed covariances and covariances)</h4>
+<pre class="r"><code>m3_m &lt;- extract_means(m3_mclust) %&gt;%
+    mutate(class_1 = round(class_1, 3),
+           class_2 = round(class_2, 3))
+
+m3_c1_v &lt;- extract_variance(m3_mclust, 1)
+m3_c2_v &lt;- extract_variance(m3_mclust, 2)
+
+m3_c1_cv &lt;- extract_covariance(m3_mclust, 1) %&gt;% 
+    semi_join(m3_mplus, by = c(&quot;param_name&quot;, &quot;var_name&quot;)) %&gt;% 
+    mutate(class = &quot;class_1&quot;)
+
+m3_c2_cv &lt;- extract_covariance(m3_mclust, 2) %&gt;% 
+    semi_join(m3_mplus, by = c(&quot;param_name&quot;, &quot;var_name&quot;)) %&gt;% 
+    mutate(class = &quot;class_2&quot;)
+
+m3_cv &lt;- bind_rows(m3_c1_cv, m3_c2_cv) %&gt;% 
+    mutate(est = round(est, 3),
+           model = &quot;MCLUST&quot;) %&gt;% 
+    spread(class, est) 
+
+# MPlus output
+
+m3_mplus %&gt;% 
+    mutate(model = &quot;MPlus&quot;) %&gt;% 
+    select(model, everything()) %&gt;% 
+    arrange(param_name, desc(class_1)) </code></pre>
+<pre><code>##    model    param_name   var_name class_1 class_2
+## 1  MPlus         Means SEPAL_LENG   5.006   6.262
+## 2  MPlus         Means SEPAL_WIDT   3.428   2.872
+## 3  MPlus         Means PETAL_LENG   1.462   4.906
+## 4  MPlus         Means PETAL_WIDT   0.246   1.676
+## 5  MPlus PETAL_LE.WITH PETAL_WIDT   0.006   0.286
+## 6  MPlus SEPAL_LE.WITH SEPAL_WIDT   0.097   0.121
+## 7  MPlus SEPAL_LE.WITH PETAL_LENG   0.016   0.449
+## 8  MPlus SEPAL_LE.WITH PETAL_WIDT   0.010   0.166
+## 9  MPlus SEPAL_WI.WITH PETAL_LENG   0.011   0.141
+## 10 MPlus SEPAL_WI.WITH PETAL_WIDT   0.009   0.079
+## 11 MPlus     Variances SEPAL_WIDT   0.141   0.110
+## 12 MPlus     Variances SEPAL_LENG   0.122   0.435
+## 13 MPlus     Variances PETAL_LENG   0.030   0.675
+## 14 MPlus     Variances PETAL_WIDT   0.011   0.179</code></pre>
+<pre class="r"><code># MCLUST output
+
+bind_rows(m1_c1_v, m1_c2_v) %&gt;% 
+    spread(class, est) %&gt;% 
+    bind_rows(m1_m) %&gt;% 
+    mutate(model = &quot;MCLUST&quot;) %&gt;% 
+    select(model, everything()) %&gt;% 
+    bind_rows(m3_cv) %&gt;% 
+    arrange(param_name) %&gt;% 
+    arrange(param_name, desc(class_1)) %&gt;% 
+    mutate(var_name = toupper(var_name),
+           var_name = str_sub(var_name, end = 10),
+           var_name = str_replace(var_name, &quot;\\.&quot;, &quot;_&quot;))</code></pre>
+<pre><code>## # A tibble: 14 x 5
+##     model    param_name   var_name class_1 class_2
+##     &lt;chr&gt;         &lt;chr&gt;      &lt;chr&gt;   &lt;dbl&gt;   &lt;dbl&gt;
+##  1 MCLUST         Means          1   5.006   6.265
+##  2 MCLUST         Means          2   3.423   2.873
+##  3 MCLUST         Means          3   1.471   4.911
+##  4 MCLUST         Means          4   0.250   1.678
+##  5 MCLUST PETAL_LE.WITH PETAL_WIDT   0.006   0.286
+##  6 MCLUST SEPAL_LE.WITH SEPAL_WIDT   0.097   0.121
+##  7 MCLUST SEPAL_LE.WITH PETAL_LENG   0.016   0.449
+##  8 MCLUST SEPAL_LE.WITH PETAL_WIDT   0.010   0.166
+##  9 MCLUST SEPAL_WI.WITH PETAL_LENG   0.011   0.141
+## 10 MCLUST SEPAL_WI.WITH PETAL_WIDT   0.009   0.079
+## 11 MCLUST     Variances PETAL_LENG   0.459   0.459
+## 12 MCLUST     Variances SEPAL_LENG   0.328   0.328
+## 13 MCLUST     Variances PETAL_WIDT   0.123   0.123
+## 14 MCLUST     Variances SEPAL_WIDT   0.121   0.121</code></pre>
+<p>These seem to be a bit different at the tenths or hundreths decimal point.</p>
+</div>
+</div>
+<div id="conclusion" class="section level1">
+<h1>Conclusion</h1>
+<p>At least for these simple models, the output appears to be identical, with slight differences in the entropy statistic and some of the parameter estimates for the third models.</p>
+<p>More complex models <strong>may</strong> be different:</p>
+<ul>
+<li>MPlus uses random starts to initialize ML, while MClust initializes ML with starts from hierarchical clustering.</li>
+<li>MPlus seems to use restricted MLR to obtain robust standard errors, whereas MClust uses weighted likelihood bootstrap methods; I’m not sure if these are different for more complex models, and so we should check the standard errors.</li>
+</ul>
+<p>Future directions include:</p>
+<ul>
+<li>Deciding on a uniform interface for prcr and tidymixmod.</li>
+<li>Merging tidymixmod with <a href="https://github.com/jrosen48/prcr">prcr</a> (our R package for person-oriented analysis).</li>
+</ul>
+</div>
+
+</main>
+
+  <footer>
+  
+  
+  <hr/>
+  &copy; <a href="https://jmichaelrosenberg.com">Joshua M. Rosenberg</a> 2017 &ndash; 2018 | <a href="https://github.com/yihui">Github</a> | <a href="https://twitter.com/xieyihui">Twitter</a>
+  
+  </footer>
+  </body>
+</html>
+

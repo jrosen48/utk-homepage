@@ -1,0 +1,46 @@
+---
+title: An R package for plotting partially pooled estimates for mixed-effects models
+author: ~
+date: '2017-07-21'
+slug: an-r-package-for-plotting-partially-pooled-estimates-for-mixed-effects-models
+categories: [r]
+tags: [mixed-effects models, r]
+description: ''
+---
+
+I came across [this excellent post](https://tjmahr.github.io/plotting-partial-pooling-in-mixed-effects-models/) from Tristan Mahr on plotting partially pooled estimates for mixed-effects models and was inspired to create an R package for it based on the code in the post. I found mixed models made more sense to me when I thought of them in terms of partial pooling, and I had been looking for ways to plot partially pooled estimates both as a more accessible way into telling others about mixed effects models and as a way to assess the fit of and better understand mixed effects models when I came across Mahr's post. 
+
+## Background
+
+As a bit of background (this is from the Description for the package):
+
+>Scholars have defined mixed effects models as a compromise between complete pooling estimates (i.e., those from a linear model ignoring a grouping factor), no pooling estimates (i.e., a linear model for which each level of the grouping factor is dummy-coded), and partially pooled estimates (i.e., those from mixed effects models, for which group-specific estimates are shrunken to (or gather strength from) the overall estimates (Gelman & Hill, 2007).
+
+## lme4plotpartial
+
+The package, tentatively and not very interestingly named `lme4plotpartial`, is on GitHub [here](https://github.com/jrosen48/lme4plotpartial). It loads a function, `plot_partial_pooling()`, that plots the complete pooling, no pooling, and partially pooled estimates for a mixed effects model.
+
+## Example 
+
+For now, an example, from Mahr's post (here, `dplyr` and `lme4` are loaded for data procesing and a data file, respectively):
+
+```{r, message = F}
+library(dplyr, warn.conflicts = FALSE)
+library(lme4)
+library(lme4plotpartial)
+
+sleepstudy <- sleepstudy %>% 
+  as_tibble() %>% 
+  mutate(Subject = as.character(Subject))
+
+plot_partial_pooling(sleepstudy, y_var = Reaction, x_var = Days, group = Subject)
+
+```
+
+## Future improvements
+
+In terms of potential improvements, an idea that would vastly expand functionality is to parse a `lme4()` formula to specify the variables. 
+
+As a bit of reflection: The best part about creating this package, to me, was that after making I messaged Tristan, who then took time to  (immensely) improve on it (in changes that are now reflected in the version of it available on GitHub). It was a cool example of the benefits of sharing (in my case, even in-progress work), because others can then use it.
+
+Check it out and let us know what you think.

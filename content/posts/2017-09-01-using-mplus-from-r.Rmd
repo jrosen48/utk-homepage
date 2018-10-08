@@ -1,0 +1,246 @@
+---
+title: Using MPlus from R with MPlusAutomation
+author: ~
+date: '2017-09-01'
+slug: using-mplus-from-r
+categories: []
+tags: []
+description: Desc
+meta_img: /images/image.jpg
+---
+
+According to the [MPlus website](https://www.statmodel.com/), the R package [MPlusAutomation](https://github.com/michaelhallquist/MplusAutomation) serves three purposes:
+
+1. Creating related groups of models
+2. Running batches
+3. Extracting and tabulating model parameters and test statistics.
+
+Because modeling involves comparing related models, (partially) automating these is compelling. It can make it easier to use model results in subsequent analyses and can cut down on copy and pasting output or results between programs.
+
+So I tried it and liked it; it's well-designed. Here's a little example exploring a set of models for which one aspect of its specification changes between models. This example uses built-in data, so you should be able to do everything here in this example, **as long as you have purchased and installed MPlus**.
+
+First, let's load the package, which we can install from CRAN using `install.packages("MPlusAutomation")`:
+```{r, message=FALSE}
+# install.packages("MPlusAutomation")
+library(MplusAutomation)
+```
+
+I'm going to do something in what is maybe a bit of a clunky way: Hide the directory I'm saving all of the input and output files in by evaluating a line of code but not displaying it here, because it's not necessary to see and is a pain to copy and paste. The key thing to know is that the variable `the_dir` represents the working directory I'm saving these in; **you should replace it with the directory - whether it's a Dropbox folder, on your Desktop, or anywhere else - that you're saving these in**.
+
+```{r, eval = T, echo = F}
+the_dir <- "/Users/joshuarosenberg/Dropbox/5_Professional/homepage/source/static/_media/data/"
+```
+
+We will use the `iris` dataset built-in to R. It can be loaded just by typing `iris`. Here is how it looks:
+
+```{r}
+head(iris)
+```
+
+Next, we'll use the super handy `prepareMPlusData()` function to prepare a data file in the format MPlus uses, namely, a tab-separated `.dat` file with no column names. 
+
+```{r, results = 'hide', warning = F}
+prepareMplusData(iris[, -5], paste0(the_dir, "iris.dat"))
+```
+
+Let's unpack what we're doing here. 
+
+- If you recall the contents of `iris`, you'll note that the fifth column is the name of the species. Our goal in this analysis is to use a general mixture modeling or Latent Profile Analysis (APA) approach in MPlus, and so we'll only use the continuous variables as predictor variables.
+
+- The somewhat-inelegant bit of code `paste0(the_dir, "iris.dat")` is basically pasting together are not-so-secretly-hid working directory with a name we chose for this specific `.dat` file, namely, `iris.dat`. In short, this says **save the prepared data file in this particular folder with this particular name**. Again, you'll have to change `the_dir` to be the folder (or working directory) that you chose, set, and are using. 
+
+Now, we have to specify the models using MPlus syntax. 
+
+We'll specify three mixture models. The trick is that we'll **save each of the following models (either in a `.txt` file or in MPlus style using a `.inp.` file type) with different names in the working directory we saved the data file to**.
+
+Here we go:
+
+1. One for which we estimate different means between two profiles
+
+```{code}
+TITLE: iris LPA
+
+DATA:
+	File is iris.dat
+	
+VARIABLE: 
+	Names are Sepal_Length Sepal_Width Petal_Length Petal_Width;
+	Classes = c(2) ;
+            
+MODEL:
+    %overall%
+    Sepal_Length Sepal_Width Petal_Length Petal_Width; 
+    
+    %c#1%
+    [Sepal_Length Sepal_Width Petal_Length Petal_Width];
+
+    %c#2%
+    [Sepal_Length Sepal_Width Petal_Length Petal_Width];
+    
+ANALYSIS: 
+	Type is mixture;
+            
+OUTPUT:
+	Tech11;
+```
+
+2. One for which we estimate different means between the two profiles **and** the model is specified to estimate the correlation (or covariance) for the variables
+
+```{code}
+TITLE: iris LPA
+
+DATA:
+	File is iris.dat
+	
+VARIABLE: 
+	Names are Sepal_Length Sepal_Width Petal_Length Petal_Width;
+	Classes = c(2) ;
+            
+MODEL:
+    %overall%
+    Sepal_Length Sepal_Width Petal_Length Petal_Width; 
+    Sepal_Length WITH Sepal_Width Petal_Length Petal_Width;
+    Sepal_Width WITH Petal_Length Petal_Width;
+    Petal_Length WITH Petal_Width;
+
+    %c#1%
+    [Sepal_Length Sepal_Width Petal_Length Petal_Width];
+    
+    %c#2%
+    [Sepal_Length Sepal_Width Petal_Length Petal_Width];
+    
+ANALYSIS: 
+	Type is mixture;
+            
+OUTPUT:
+	Tech11;
+```
+
+3. One for which we estimate different means **and** the model is specified to *different* covariances (and variable variances) between the two profiles
+
+```{code}
+TITLE: iris LPA
+
+DATA:
+	File is iris.dat
+	
+VARIABLE: 
+	Names are Sepal_Length Sepal_Width Petal_Length Petal_Width;
+	Classes = c(2) ;
+            
+MODEL:
+    %c#1%
+    Sepal_Length Sepal_Width Petal_Length Petal_Width; 
+
+    Sepal_Length WITH Sepal_Width Petal_Length Petal_Width;
+    Sepal_Width WITH Petal_Length Petal_Width;
+    Petal_Length WITH Petal_Width;
+    
+    [Sepal_Length Sepal_Width Petal_Length Petal_Width];
+    
+    %c#2%
+    Sepal_Length Sepal_Width Petal_Length Petal_Width; 
+    
+    Sepal_Length WITH Sepal_Width Petal_Length Petal_Width;
+    Sepal_Width WITH Petal_Length Petal_Width;
+    Petal_Length WITH Petal_Width;
+    
+    [Sepal_Length Sepal_Width Petal_Length Petal_Width];
+    
+ANALYSIS: 
+	Type is mixture;
+            
+OUTPUT:
+	Tech11;
+```
+
+Again, each of those models has to be saved in the working directory we saved the data in. 
+
+Now we can run the models using `runModels()`, which runs the model in MPlus. You can see here what I named each of the three files:
+
+```{r, message = F, results = 'hide'}
+# Model 1
+runModels(paste0(the_dir, "2-iris-LPA_means.inp"))
+# Model 2
+runModels(paste0(the_dir, "2-iris-LPA_means_correlated.inp"))
+# Model 3
+runModels(paste0(the_dir, "2-iris-LPA_means_correlated_free_variances.inp"))
+```
+
+Now we're in business and can look at the output using `readModels()`:
+
+```{r, results = 'hide'}
+m1 <- readModels(paste0(the_dir, "2-iris-LPA_means.out"))
+m2 <- readModels(paste0(the_dir, "2-iris-LPA_means_correlated.out"))
+m3 <- readModels(paste0(the_dir, "2-iris-LPA_means_correlated_free_variances.out"))
+```
+
+We can now inspect the fit statistics and other summary information for the three models:
+
+```{r}
+m1$summaries$BIC
+m2$summaries$BIC
+m3$summaries$BIC
+```
+
+And can examine parameters, as well (ignore the `nrow(...)` for now; the last row is not necessary, and this - clunkily, but for now, easily - does not print it):
+
+```{r}
+m1$parameters[[1]][-nrow(m1$parameters[[1]]), ]
+m2$parameters[[1]][-nrow(m2$parameters[[1]]), ]
+m3$parameters[[1]][-nrow(m3$parameters[[1]]), ]
+```
+
+Cool!
+
+An especially powerful feature of `MPlusAutomation` is the ability to use `runModels()` and `readModels()` in conjunction with the function `createModels()`, because these functions allow you to specify an entire folder, in addition to a specific model or output file. 
+
+The `createModels()` function creates a set of models using a template. Here is an example that would create models with different numbers of profiles, from `1` to `9`. Here is doing that for the model with different means between profiles specified (model, 1 above):
+
+```{code}
+[[init]]
+iterators = classes;
+classes = 1:9;
+filename = "[[classes]]-iris-LPA.inp";
+outputDirectory = the_dir;
+[[/init]]
+
+TITLE: iris LPA
+
+DATA:
+	File is iris.dat
+	
+VARIABLE: 
+
+	Names are x1 x2 x3 x4;
+
+	Classes = c([[classes]]) ;
+
+MODEL:
+    
+    %overall%
+    
+    x1 x2 x3 x4; 
+    
+    [x1-x4];
+
+            
+ANALYSIS: 
+	Type is mixture;
+            
+OUTPUT:
+	Tech11;
+
+```
+
+We would then run the following series of functions after saving the above-specified model as "iris_lpa_template.inp" (note that we save the output of `readModels()` to a list object):
+
+```{r, eval = F}
+createModels(paste0(the_dir, "iris_lpa_template.inp"))
+runModels(the_dir)
+models_list <- readModels(the_dir)
+```
+
+We can then inspect specific models using list-indexing: The first model is saved as `models_list[[1]]`, for example. Or, we can print the output for all of the models by typing `models_list`.
+
+You can learn more about MPLusAutomation [here](https://github.com/michaelhallquist/MplusAutomation).

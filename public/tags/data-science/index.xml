@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data science on Joshua M. Rosenberg</title>
+    <link>/tags/data-science/</link>
+    <description>Recent content in Data science on Joshua M. Rosenberg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Mar 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What the world is data science education? Looking back on #dsetonline</title>
+      <link>/posts/what-the-world-is-data-science-education-looking-back-on-dsetonline/</link>
+      <pubDate>Mon, 13 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/what-the-world-is-data-science-education-looking-back-on-dsetonline/</guid>
+      <description>DSET A few weeks ago, I was fortunate to attend the Data Science Educational Technology (DSET) conference.
+The goal for the conference was to kickstart data science education and to explore an educational technology, Concord Consortium’s Common Online Data Analysis Platform. What’s the big idea about data science education? To me, it’s a recognition that data is power, and that through asking questions, collecting and creating data, analyzing and modeling data, and making sense of and communicating what is going on can be empowering to learners.</description>
+    </item>
+    
+  </channel>
+</rss>

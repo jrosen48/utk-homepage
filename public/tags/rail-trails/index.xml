@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rail trails on Joshua M. Rosenberg</title>
+    <link>/tags/rail-trails/</link>
+    <description>Recent content in Rail trails on Joshua M. Rosenberg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Jul 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/rail-trails/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What are the best rail-trails in Michigan?</title>
+      <link>/posts/michigan-rail-trails-and-pathways-through-data/</link>
+      <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/michigan-rail-trails-and-pathways-through-data/</guid>
+      <description>Background I was curious about what rail trails were the best in Michigan, and so to figure out an answer, I checked out the TrailLink website, sponsored by the Rails-to-Trails Conservancy. I had just purchased a copy of their book Rail-Trails Michigan and Wisconsin, and wanted to see whether I could learn more from the website.
+To start, I checked whether they had a way to access the reviews on the site through an API.</description>
+    </item>
+    
+  </channel>
+</rss>

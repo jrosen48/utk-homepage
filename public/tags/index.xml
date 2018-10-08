@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Joshua M. Rosenberg</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Joshua M. Rosenberg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Jul 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cluster analysis</title>
+      <link>/tags/cluster-analysis/</link>
+      <pubDate>Sun, 02 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/cluster-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cycling</title>
+      <link>/tags/cycling/</link>
+      <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/cycling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data science</title>
+      <link>/tags/data-science/</link>
+      <pubDate>Mon, 13 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Education policy</title>
+      <link>/tags/education-policy/</link>
+      <pubDate>Thu, 16 Mar 2017 16:32:00 -0500</pubDate>
+      
+      <guid>/tags/education-policy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meta</title>
+      <link>/tags/meta/</link>
+      <pubDate>Sat, 07 Jan 2017 09:50:40 -0500</pubDate>
+      
+      <guid>/tags/meta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mixed-effects models</title>
+      <link>/tags/mixed-effects-models/</link>
+      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/mixed-effects-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prcr</title>
+      <link>/tags/prcr/</link>
+      <pubDate>Sun, 02 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/prcr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Presentation</title>
+      <link>/tags/presentation/</link>
+      <pubDate>Fri, 14 Apr 2017 11:54:00 -0500</pubDate>
+      
+      <guid>/tags/presentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>/tags/r/</link>
+      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rail trails</title>
+      <link>/tags/rail-trails/</link>
+      <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/rail-trails/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web scraping</title>
+      <link>/tags/web-scraping/</link>
+      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/web-scraping/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

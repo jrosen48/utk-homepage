@@ -1,0 +1,47 @@
+---
+title: An R package for sensitivity analysis (konfound)
+author: ''
+date: '2018-04-12'
+slug: an-r-package-for-sensitivity-analysis-konfound
+categories: []
+tags: []
+description: Desc
+meta_img: /images/image.jpg
+---
+
+
+```{r}
+knitr::opts_chunk$set(
+  comment = "#>",
+  collapse = TRUE
+)
+```
+
+With [Ran Xu](https://sites.google.com/site/ranxupersonalweb/) and [Ken Frank](https://msu.edu/~kenfrank/research.htm), I have worked on [a Shiny interactive web application for sensitivity analysis](http://konfound-it.com/) as well as an R package for carrying out sensitivity analysis using R. 
+
+That R package is now available on CRAN! A link to the CRAN page for it is [here](https://cran.r-project.org/web/packages/konfound/) and the website for the package is [here](https://jrosen48.github.io/konfound/). 
+
+Here is the description:
+
+> Statistical methods that quantify the conditions necessary to alter inferences, also known as sensitivity analysis, are becoming increasingly important to a variety of quantitative sciences. A series of recent works, including Frank (2000) and Frank et al. (2013) extend previous sensitivity analyses by considering the characteristics of omitted variables or unobserved cases that would change an inference if such variables or cases were observed. These analyses generate statements such as "an omitted variable would have to be correlated at xx with the predictor of interest (e.g., treatment) and outcome to invalidate an inference of a treatment effect". Or "one would have to replace pp percent of the observed data with null hypothesis cases to invalidate the inference". We implement these recent developments of sensitivity analysis and provide modules to calculate these two robustness indices and generate such statements in R. In particular, the functions konfound(), pkonfound() and mkonfound() allow users to calculate the robustness of inferences for a user's own model, a single published study and multiple studies respectively.
+
+As a super short introduction, imagine that we carried out a regression for the relationship between a car's weight and its fuel efficiency (miles per gallon):
+
+```{r}
+library(konfound)
+
+m1 <- lm(mpg ~ wt + drat, data = mtcars)
+summary(m1)
+```
+
+We can carry out sensitivity analysis for the effect of weight, for example, using the `konfound()` function on the model output:
+
+```{r}
+konfound(m1, wt)
+```
+
+This (very preliminary - and just as an illustration) suggests that nearly two-thirds of the effect of the weight of a car on its miles per gallon would need to be due to bias - in the model or measures, for example - for the effect to be invalidated. 
+
+Alternatively, another way to interpret the results of this sensitivity analysis is in terms of how correlated an omitted, confounding variable (i.e., a covariate) would need to be with both the variable of interest (weight) and the outcome, and this approach suggests that such a confounding variable would nee do be correlated at about .80 with both weight and miles per gallon for the effect of weight to be invalidated.
+
+The `konfound()` function works on output from `lm()` as well as `glm()` (for non-linear models) and `lmer()` (from the **lme4** package) for mixed effects models. There are also a number of ways (besides text) to present the output. Much more on the konfound() function (and package) can be found [here](https://jrosen48.github.io/konfound/reference/konfound.html).

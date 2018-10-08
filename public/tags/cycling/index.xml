@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cycling on Joshua M. Rosenberg</title>
+    <link>/tags/cycling/</link>
+    <description>Recent content in Cycling on Joshua M. Rosenberg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Jun 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/cycling/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>24 months on two wheels</title>
+      <link>/posts/24-months-on-two-wheels/</link>
+      <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/24-months-on-two-wheels/</guid>
+      <description>Around two years ago, I was fortunate to not have to work in the summer: I had a research fellowship from May - August through the College of Education at MSU.
+As a result, I didn’t buy a parking pass for the summer. I still came in to campus, but since I didn’t have any official, regularly-scheduled meetings, I thought I could bike in when I needed to. I had biked to campus before, so I was familiar with the route and where I would park my bike, but I didn’t regularly commute.</description>
+    </item>
+    
+  </channel>
+</rss>

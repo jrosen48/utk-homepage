@@ -1,0 +1,103 @@
+---
+title: Introducing tidyLPA (an R package for carrying out Latent Profile Analysis)
+author: ''
+date: '2018-02-14'
+slug: introducing-tidylpa-an-r-package-for-carrying-out-latent-profile-analysis
+categories:
+  - r
+tags: []
+description: Desc
+meta_img: /images/image.jpg
+---
+
+```{r, echo = F}
+knitr::opts_chunk$set(
+  comment = "#>",
+  collapse = TRUE
+)
+```
+
+I'm excited to introduce tidyLPA, an R package for carrying out Latent Profile Analysis (LPA). This is the result of a collaborative project with Jennifer Schmidt, Patrick Beymer, and Rebecca Steingut, and is the result of a long period of learning about *cluster analysis* (see [here](https://jrosen48.github.io/blog/prcr-an-r-package-for-person-centered-analysis/)) and, recently, **model-based cluster analysis**. Here, I introduce and describe LPA as a particular type of model-based cluster analysis.
+
+## Background
+
+Latent Profile Analysis (LPA) is a statistical modeling approach for estimating distinct profiles, or groups, of variables. In the social sciences and in educational research, these profiles could represent, for example, how different youth experience dimensions of being engaged (i.e., cognitively, behaviorally, and affectively) at the same time. 
+
+tidyLPA provides the functionality to carry out LPA in R. In particular, tidyLPA provides functionality to specify different models that determine whether and how different parameters (i.e., means, variances, and covariances) are estimated and to specify (and compare solutions for) the number of profiles to estimate parameters for.
+
+## Installation
+
+You can install tidyLPA from CRAN with:
+
+```{r, eval = F}
+install.packages("tidyLPA")
+```
+
+You can also install the in-development version of tidyLPA from GitHub with:
+
+```{r gh-installation, eval = FALSE}
+install.packages("devtools")
+devtools::install_github("jrosen48/tidyLPA")
+```
+
+## Example
+
+Here is a brief example using the built-in `pisaUSA15` dataset and variables for broad interest, enjoyment, and self-efficacy. Note that we first type the name of the data frame, followed by the unquoted names of the variables used to create the profiles. We also specify the number of profiles and the model. See `?estimate_profiles` for more details.
+
+```{r, message = F}
+library(tidyLPA)
+```
+
+```{r}
+d <- pisaUSA15[1:100, ]
+
+estimate_profiles(d, 
+                  broad_interest, enjoyment, self_efficacy, 
+                  n_profiles = 3, 
+                  model = 2)
+```
+
+See the output is simply a data frame with the profile (and its posterior probability) and the variables used to create the profiles (this is the "tidy" part, in that the function takes and returns a data frame).
+
+In addition to the number of profiles (specified with the `n_profiles` argument), the model is important. The `model` argument allows for four models to be specified:
+
+* Varying means, equal variances, and covariances fixed to 0 (model 1)
+* Varying means, equal variances, and equal covariances (model 2)
+* Varying means, varying variances, and covariances fixed to 0 (model 3)
+* Varying means, varying variances, and varying covariances (model 6)
+
+Two additional models can be fit using functions that provide an interface to the MPlus software. More information on the models can be found in the [vignette](https://jrosen48.github.io/tidyLPA/articles/Introduction_to_tidyLPA.html).
+
+We can plot the profiles with by *piping* (using the `%>%` operator, loaded from the `dplyr` package) the output to `plot_profiles()`.
+
+```{r}
+library(dplyr, warn.conflicts = FALSE)
+
+estimate_profiles(d, 
+                  broad_interest, enjoyment, self_efficacy, 
+                  n_profiles = 3, 
+                  model = 2) %>% 
+    plot_profiles(to_center = TRUE)
+```
+
+## More information
+
+To learn more:
+
+* Browse the tidyLPA [website](https://jrosen48.github.io/tidyLPA/) (especially check out the Reference page to see more about other functions)
+
+* *Read the Introduction to tidyLPA* [vignette](https://jrosen48.github.io/tidyLPA/articles/Introduction_to_tidyLPA.html), which has much more information on the models that can be specified with tidyLPA and on additional functionality
+
+## Contact
+
+As tidyLPA is at an early stage of its development, issues should be expected. If you have any questions or feedback, please do not hesitate to get in touch:
+
+* By [email (jrosen@msu.edu)](mailto:jrosen@msu.edu)
+* By [Twitter](http://twitter.com/jrosenberg6432)
+* Through filing an issue on GitHub [here](https://github.com/jrosen48/tidyLPA)
+
+Please note that this project is released with a [Contributor Code of Conduct](CONDUCT.md). By participating in this project you agree to abide by its terms.
+
+## Some acknowledgments!
+
+As I mentioned earlier, this package is the result of a lot of learning that started awhile ago. Thank you to Christina Krist and Stephanie Wormington for introducing me to cluster analysis and LPA, respectively. Also, thank you  to Kristy Robinson and You-kyung Lee for their invaluable help in learning about LPA.

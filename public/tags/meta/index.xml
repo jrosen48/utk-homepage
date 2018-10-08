@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meta on Joshua M. Rosenberg</title>
+    <link>/tags/meta/</link>
+    <description>Recent content in Meta on Joshua M. Rosenberg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Jan 2017 09:50:40 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/meta/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Wordpress Archive</title>
+      <link>/posts/2017-01-07-wordpress-archive/</link>
+      <pubDate>Sat, 07 Jan 2017 09:50:40 -0500</pubDate>
+      
+      <guid>/posts/2017-01-07-wordpress-archive/</guid>
+      <description>I moved my Wordpress blog to Wordpress.com as an archive and so I would not need to pay to maintain the self-hosted site. The link is here.</description>
+    </item>
+    
+    <item>
+      <title>From Wordpress to GitHub Pages</title>
+      <link>/posts/2017-01-04-from-wordpress-to-github-pages/</link>
+      <pubDate>Wed, 04 Jan 2017 11:32:40 -0500</pubDate>
+      
+      <guid>/posts/2017-01-04-from-wordpress-to-github-pages/</guid>
+      <description>I have used Wordpress for more than seven years. Over that time, I’ve used multiple shared servers, and have had a myriad of domain names.
+Most recently, my shared server at Lansing, MI-based Liquid Web ended, due to Liquid Web leaving the shared hosting business to focus only on dedicated and virtual private servers.
+I started to look for a new hosting company, and slowly started to coalesce around the idea of, well, not having one, and using GitHub Pages instead.</description>
+    </item>
+    
+  </channel>
+</rss>

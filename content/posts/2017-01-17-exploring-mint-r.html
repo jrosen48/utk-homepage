@@ -1,0 +1,38 @@
+---
+title:  "How much do we spend weekly on Groceries? Figuring out using R and Mint (Updated)"
+author: ~
+date:   2017-01-17 5:16:00 -0500
+tags: [r]
+---
+
+
+
+<p>We started using <a href="https://www.mint.com/">Mint</a> to keep track of our spending. One of the best features of Mint is the ability to see past patterns of spending (and to use that information to not spend quite as much on, well, coffee, and for those who know me well, sandwiches from <a href="http://woodysoasis.com/">Woody’s Oasis</a>).</p>
+<p>I listened to an episode of the <a href="https://www.google.com/search?q=not+so+standard+deviations&amp;oq=not+so+standard+deviations&amp;aqs=chrome..69i57.3238j0j7&amp;sourceid=chrome&amp;ie=UTF-8">Not So Standard Deviations</a>, in which the hosts Peng and Parker discussed using spreadsheets and <a href="https://cran.r-project.org/">R</a> to keep track of information for taxes.</p>
+<p>This sparked my interest, and I checked Mint to see whether they offered the option to export information from it in any way, shape, or form. They <a href="https://mint.lc.intuit.com/questions/951225-how-can-i-export-data-from-mint">do</a>!</p>
+<p>In short, “At the end of the page containing a list of transactions there is a link ‘Export all xxxx transactions’.”</p>
+<p>Easy enough. I did it.</p>
+<p>I then loaded up R and prepared the data (the name of the file should be the same, although if it is in a folder other than Downloads, you’ll have to change that – otherwise, this should work for you):</p>
+<pre><code>library(tidyverse) # if not yet installed, use &quot;install.packages(&quot;tidyverse&quot;)&quot; the first time you use the package
+library(stringr) # same for &quot;install.packages(&quot;stringr&quot;)&quot;; only necessary first time
+library(lubridate) # same for &quot;install.packages(&quot;lubridate&quot;)
+
+df &lt;- read_csv(&quot;~/downloads/transactions.csv&quot;)
+df$Date &lt;- mdy(df$Date)
+df$date_r &lt;- round_date(df$Date, &quot;week&quot;)
+df$wday &lt;- wday(df$Date, label = T)</code></pre>
+<p>I thought Meijer – our grocery store – would be interesting to look at as a first step:</p>
+<pre><code>term &lt;- &quot;Meijer&quot;
+df_ss &lt;- filter(df, str_detect(Description, term))
+
+ggplot(df_ss, aes(x = date_r, y = Amount)) +
+      geom_col() +
+      geom_smooth(color = &quot;red&quot;, se = F) +
+      ggtitle(paste(&quot;Amount of Money Spent at&quot;, term)) +
+      ylab(&quot;Amount ($) Per Week&quot;) +
+      xlab(NULL) +
+      scale_x_date(date_breaks = &quot;3 months&quot;)</code></pre>
+<p>Here’s the results (with a <a href="https://en.wikipedia.org/wiki/Local_regression">smooth curve</a> fit to the data):</p>
+<p><a href='https://photos.google.com/share/AF1QipPN8OqeOAWFaTxJDbmwM-RB3rIb_liG3iFCK1yyN0tUBliFntykrqlvtj3WHsmLhA?key=eTBaWndVNVJVb3k2LVFJeGtqb0w5TmNueFp1cUFR&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/5-Azt06KReg33R_FMREcvkznJfqQd87IDQ7j6a1WcmSozOECO-ekl9OrHmLFNw3Sg_tVs3RdtpvRCegSX8sTE8jJNYCoI7KsG6GiqKrJdqWgEOBujG3DC6acgIyAy-K04cGvY2o' /></a></p>
+<p>One thing that surprised us is how consistently we spend around $50 / week, because in summer. Perhaps we’re purchasing other (non-grocery) items in the winter? Not sure - and perhaps not something available through Mint’s data. Nevertheless, the takeaway from this (or at least one) is that the data Mint and other companies is not, or at least does not have to be, something “out there,” but rather is ours, so we can, sometimes, get our hands on it and maybe learn something potentially worth knowing.</p>
+<p>My cousin Jacob pushed me to consider why I used R (instead of just using Mint or doing it in some other way, such as through <a href="http://sheets.google.com">Google Sheets</a>). It was a good comment, and eventually I ended up here: data are not often cleaned, aggregated, or ready to go in terms of creating a plot or using a model, and R is good for cleaning and aggregating (and plotting and modeling) data.</p>

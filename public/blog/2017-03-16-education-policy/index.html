@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Common Core and NGSS are not on the news | My New Hugo Site</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+    
+  </head>
+
+  <body>
+    <nav>
+    <ul class="menu">
+      
+    </ul>
+    <hr/>
+    </nav>
+
+<div class="article-meta">
+<h1><span class="title">Common Core and NGSS are not on the news</span></h1>
+
+<h2 class="date">2017/03/16</h2>
+</div>
+
+<main>
+<div id="how-often-are-curricular-standards-mentioned-on-tv-news" class="section level3">
+<h3>How often are curricular standards mentioned on TV news?</h3>
+<p>With my friend Patrick, I was curious about using the <a href="https://github.com/hrbrmstr/newsflash">newsflash</a> package for something education-related. We came up with the idea of looking at mentions of the Common Core State Standards (for Mathematics and English Language Arts / Literacy) and the Next Generation Science Standards (for Science and Engineering).</p>
+</div>
+<div id="on-broadcast-channels" class="section level3">
+<h3>On broadcast channels</h3>
+<p>We first looked at mentions across ABC, CBS, FOX, NBC, and PBS (the way newsflash works is to keyword search the closed captioning streams from the <a href="https://archive.org/details/tv">Internet Archive’s Television News Archive</a>):</p>
+<div class="figure">
+<img src="https://raw.githubusercontent.com/jrosen48/homepage-source/master/media/images/ccss_ngss_broadcast.png" alt="ccss_ngss_cable" />
+<p class="caption">ccss_ngss_cable</p>
+</div>
+<p>The Common Core State Standards were mentioned a not-so-impressive 74 times, and the Next Generation Science Standards were mentioned 10. These are not National curricular standards, but rather are those which can be adopted (and adapted, as in the case of <a href="http://www.michigan.gov/mde/0,4615,7-140-28753_64839_65510-339833--,00.html">Michigan’s K-12 Science Standards</a>), which can explain why they are not mentioned very frequently, possibly. And Common Core State Standards <em>are</em> mentioned a lot more than the Next Generation Science Standards, perhaps because they have been <a href="http://www.corestandards.org/standards-in-your-state/">adopted by many more states</a> than the Next Generation Science Standards (although they <a href="http://www.nextgenscience.org/lead-state-partners">have been adopted</a> in more than half of the states).</p>
+<p>But still, rock climbing was <a href="https://jrosen48.github.io/r/2017/03/11/rock-climbing-internet-television-news-archive.html">mentioned 1,302 times</a> over the same period, and by a quick search, the <em>Oscars were mentioned 36,190 times</em>.</p>
+</div>
+<div id="on-cable-channels" class="section level3">
+<h3>On cable channels</h3>
+<p>We wondered if maybe these are mentioned more if you search not ABC, CBS, and so on, but cable news channels (CNN, MSNBC, Fox News, Bloomberg, and others). There is not a substantial difference:</p>
+<div class="figure">
+<img src="https://raw.githubusercontent.com/jrosen48/homepage-source/master/media/images/ccss_ngss_cable.png" alt="ccss_ngss_cable" />
+<p class="caption">ccss_ngss_cable</p>
+</div>
+<p>On cable news channels, Common Core State Standards were mentioned 143 times, and the Next Generation Science Standards were mentioned 10 again.</p>
+</div>
+<div id="punchlines" class="section level3">
+<h3>Punchlines</h3>
+<ul>
+<li><p>Curricular standards are almost never mentioned on the television news.</p></li>
+<li><p>Common Core State Standards are mentioned a lot more frequently than the Next Generation Science Standards.</p></li>
+</ul>
+</div>
+<div id="r-code" class="section level3">
+<h3>R code</h3>
+<p>The code in R is simple thanks to the awesome newsflash package</p>
+<pre><code>library(newsflash) # have to install with devtools::install_github(&quot;hrbrmstr/newsflash&quot;)
+library(tidyverse)
+library(hrbrthemes)
+library(lubridate)
+
+df1 &lt;- query_tv(&quot;common core state&quot;, filter_network = &quot;AFFNETALL&quot;)
+df2 &lt;- query_tv(&quot;next generation science&quot;, filter_network = &quot;AFFNETALL&quot;)
+
+df1$timeline$date_w &lt;- lubridate::round_date(df$timeline$date_start, unit = &quot;week&quot;)
+df1$timeline$date_w &lt;- lubridate::round_date(df2$timeline$date_start, unit = &quot;week&quot;)
+df2$timeline$group &lt;- &quot;CCSS&quot;
+df2$timeline$group &lt;- &quot;NGSS&quot;
+
+df &lt;- bind_rows(df$timeline, df2$timeline)
+
+df$timeline$date_w &lt;- lubridate::round_date(df$timeline$date_start, unit = &quot;week&quot;)
+
+mutate(df, date_start=as.Date(date_w)) %&gt;% 
+    ggplot(aes(x = date_start, y = value, fill = group)) +
+    geom_col() +
+    facet_grid(~ group) +
+    theme(axis.text.x=element_text(hjust=c(0, 0.5, 0.5, 0.5, 0.5, 0.5))) +
+    ggtitle(&quot;Mathematics and Literacy and Science and Engineering Standards in the News (Broadcast)&quot;) +
+    ylab(&quot;Number of Mentions&quot;) +
+    labs(caption = &quot;Data from the Internet Archive and GDELT Television Explorer (http://television.gdeltproject.org/cgi-bin/iatv_ftxtsearch/iatv_ftxtsearch).&quot;) +
+    theme_ipsum_rc(grid=&quot;XY&quot;) +
+    theme(legend.position = &quot;noone&quot;)
+
+df %&gt;% group_by(group) %&gt;% summarize(sumn = sum(value)) # total number of mentions</code></pre>
+</div>
+
+</main>
+
+  <footer>
+  
+  
+  </footer>
+  </body>
+</html>
+

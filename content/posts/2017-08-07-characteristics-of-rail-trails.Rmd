@@ -1,0 +1,94 @@
+---
+title: Using characteristics of rail-trails to predict how they are rated
+author: ~
+date: '2017-08-02'
+slug: characteristics-of-rail-trails
+categories: [r]
+tags: [mixed-effects models]
+description: 'Paved trails are better than gravel (but you already knew that)'
+---
+
+# Catching up
+
+I wrote a blog post (one that, to be honest, I liked a lot) on what the best rail-trails are in Michigan ([here](https://jrosen48.github.io/2017/07/24/michigan-rail-trails-and-pathways-through-data/)). A friend and colleague at MSU, Andy, noticed that paved trails seemed to be rated higher, and this as well as my cfriend and colleague Kristy's comment about how we can use the output of the the previous post sparked my curiosity in trying to figure out what characteristics predict how highly (or not highly) rated trails are. 
+
+Let's start the same way we did before. 
+
+```{r, message = F, warning = F}
+library(tidyverse)
+library(lme4)
+library(stringr)
+library(sjPlot)
+library(forcats)
+
+df <- read_rds("/Users/joshuarosenberg/Dropbox/1_Research/railtrail/data-raw/rds_files/mi.rds") # this is a file with the rail-trail data - you can get it from here: https://github.com/jrosen48/railtrail
+
+df <- df %>% 
+    unnest(raw_reviews) %>% 
+    filter(!is.na(raw_reviews)) %>% 
+    rename(raw_review = raw_reviews,
+           trail_name = name) %>% 
+    mutate(trail_name = str_sub(trail_name, end = -7L),
+           distance = str_sub(distance, end = -6L),
+           distance = as.numeric(distance),
+           n_reviews = str_sub(n_reviews, end = -9L),
+           n_reviews = as.numeric(n_reviews))
+```
+
+We'll process the data a bit.
+
+```{r, message = F, warning = F}
+df <- df %>% 
+    mutate(category = as.factor(category),
+           category = fct_recode(category, "Greenway/Non-RT" = "Canal"),
+           mean_review = ifelse(mean_review == 0, NA, mean_review))
+
+df <- mutate(df,
+             surface_rc = case_when(
+                 surface == "Asphalt" ~ "Paved",
+                 surface == "Asphalt, Concrete" ~ "Paved",
+                 surface == "Concrete" ~ "Paved",
+                 surface == "Asphalt, Boardwalk" ~ "Paved",
+                 str_detect(surface, "Stone") ~ "Crushed Stone",
+                 str_detect(surface, "Ballast") ~ "Crushed Stone",
+                 str_detect(surface, "Gravel") ~ "Crushed Stone",
+                 TRUE ~ "Other"
+             )
+)
+
+df$surface_rc <- as.factor(df$surface_rc)
+
+df$surface_rc <- fct_relevel(df$surface_rc,
+                             "Crushed Stone")
+```
+
+Note that the other category includes surfaces like dirt and grass. 
+
+# The model we built (take one)
+
+Previously we fit a model like this:
+
+```{r, message = F, warning = F}
+m1 <- lmer(raw_review ~ 1 + (1|trail_name), data = df)
+
+```
+
+This model basically estimated the rating for each trail, taking account not only of the `1` - `5` ratings and how different they are from the “average” review across every trail. In short, it estimates ratings that are less biased by how many reviews there are.
+
+# Building a model (take two)
+
+It's a bit boring, and to extend this, we can add the variables for surface (paved, crushed stone, or other), category (rail-trail or greenway), and distance. You can focus on the `B` in the table above. The intercept represents the overall average rating, which is `3.50`. The `B` for distance represents the increase in rating for each 1-mile increase in distance (`0.00`!). This suggests longer trails are not necessarily more highly rated, and the `p` (`0.895`) - which we use conventionally to find out whether the `B` is significant if it is below `0.05` - supports this interpretation. 
+
+Similarly, the `B` for rail-trail compared to greenways is small (and the `p` is far greater than `0.05`) as is the case for  other surfaces compared to crushed stone (`B` = `-0.35`, `p` = `0.318`), but paved surfaces do seem different. They are associated with a rating almost half a point (`B` = `0.37`, `p` = `0.037`) higher than other trails, and almost a whole point (`0.72`) higher than other surfaces.
+
+```{r, message = F, warning = F}
+m2 <- lmer(raw_review ~ 1 + distance + category + surface_rc + (1|trail_name), data = df)
+
+sjt.lmer(m2, p.kr = F, show.re.var = F, show.ci = F, show.se = T)
+```
+
+Note that the arguments to `sjt.lmer()` only have to do with what output is produced. 
+
+# So, where are we (really) riding next?
+
+This suggests that if you want to ride a good rail-trail, first and foremost pick one that is paved, while whether a trail is technically a rail-trail or a greenway, and whether the trail is short or long, do not *seem* to matter. Although we will explore this more in later posts.

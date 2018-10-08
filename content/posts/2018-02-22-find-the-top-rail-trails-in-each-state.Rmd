@@ -1,0 +1,38 @@
+---
+title: Finding the top rail-trails in each state using mixed effects models
+author: ''
+date: '2018-02-22'
+slug: find-the-top-rail-trails-in-each-state
+categories:
+  - r
+tags: []
+description: A Shiny app web to find to top-rated rail-trails
+meta_img: /images/image.jpg
+---
+
+Outside of education, one of my interests is cycling, and one of my favorite ways to cycle is on rail-trails, pathways and greenways that are converted from former railroad tracks. 
+
+In a side-project (and because the data source can be used for teaching and learning about complex, nested data), I collected information from the [TrailLink website](https://www.traillink.com/). I've blogged about this data [here](https://jrosen48.github.io/blog/michigan-rail-trails-and-pathways-through-data/) and [here](https://jrosen48.github.io/blog/characteristics-of-rail-trails/) to find out what the best rail-trails in Michigan are and to find out what the characteristics of the best rail-trails are, respectively. 
+
+Using this data, I created a simple Shiny web app ([here](https://jrosen48.github.io/blog/find-the-top-rail-trails-in-each-state/)) to find the top rail-trails (using the reviews from TrailLink) in each state. One neat thing about the app is that it uses predictions from a mixed effects (or multi-level) model.
+
+<a href = "https://jmichaelrosenberg.shinyapps.io/railtrails/
+"><img src="/_media/images/railtrails.png"></a>
+
+The reason I chose to do this is that using the raw reviews to find the top rail-trails is not as helpful as I first thought, as trails with very few (but very high) reviews--such as one with two "5" (out of 5) reviews--may end up ranked as the top in the state. At the same time, a trail with many (primarily high) reviews--such as one with 30 reviews that average out to almost but not quite "5"--may be ranked lower. 
+
+In `lme4`, the model is a random intercept (for the trail and state) model and would look like this (all of the code is [here](https://github.com/jrosen48/railtrails/blob/master/app/app.R)):
+
+```{r, eval = F}
+m1 <- lmer(raw_reviews ~ 1 + (1|name) + (1|state), data = d)
+```
+
+The model, which accounts for the multiple (repeated) reviews for each trail and the nesting of trails in each state looks something like this:
+
+$$
+\begin{aligned}
+\widehat { y } _{ trail,\quad state }\quad =\\ { \beta  }_{ 0 }(overall\quad mean\quad review)\quad +\\ { \alpha  }_{ 1 }{ (trail\quad effect) }_{ trail }\quad +\\ { \alpha  }_{ 2 }{ (state\quad effect) }_{ state }\quad +\\ { \varepsilon  }_{ trail,\quad state }
+\end{aligned}
+$$
+
+So, the mixed effects model helps to account for both the number and variability in the reviews, giving a bit more weight to trails with a whole lot of high reviews relative to trails with less reviews to go on to (hopefully) predict rankings. In any case, you can check out the app at [https://jmichaelrosenberg.shinyapps.io/railtrails/](https://jmichaelrosenberg.shinyapps.io/railtrails/).

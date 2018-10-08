@@ -1,0 +1,99 @@
+---
+title: Explorations in Markov Chain Monte Carlo - comparing results from MCMCglmm and lme4
+author: ''
+date: '2018-03-26'
+slug: explorations-in-markov-chain-monte-carlo-mcmc
+categories: [r]
+tags: []
+description: Comparing MCMCglmm and lme4
+meta_img: /images/image.jpg
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  comment = "#>",
+  collapse = TRUE,
+  message = FALSE
+)
+
+set.seed(20170326)
+```
+
+# Introduction 
+
+I've been interested in Markov Chain Monte Carlo (MCMC) for a little while, in part because of [a paper](https://doi.org/10.1093/beheco/arx023) by Tom Houslay and Alastair Wilson (2017) that shows how using output from models the way I have been can lead to results that overstate the impact of effects. 
+
+In particular, I'm working on a project with colleagues in which we try to figure out how students' engagement in summer STEM programs relates to changes in their interest (in STEM), controlling for their initial levels of interest. In this project, we use the student-specific predictions from mixed effects (or multi-level) models in *other* models predicting changes in their interests. Tom and Alastair show that doing this ignores the uncertainty in these predictions, leading to resolves that are stronger than they would be were this uncertainty included in modeling. In short, it's a more conservative way of doing what we're trying to do. But, it is not easy to do this approach using the tool for mixed effects models (the **lme4** R package) we are using, but using a tool that uses MCMC methods, it is possible to do this. 
+
+This post explores MCMC methods by comparing the results of MCMC methods and those used by **lme4** (which uses maximum likelihood (ML) estimation) in a case in which we would expect the results to be the same, namely, when MCMC methods with particular settings for relatively simple models. 
+
+# My prior beliefs about "priors"
+
+**MCMCglmm** methods, unlike **lmer**, requires priors. For my super limited understanding, there are two related ways to look at these priors. One is that they constrain the possible values that parameters may take in order to set the modeling up for success (this is how Malsburg describes them in [this tutorial](https://github.com/tmalsburg/MCMCglmm-intro)). Another way to look at priors is to consider them as part of a Bayesian approach, in which they represent the degree of belief in different parameter values. 
+
+There are also cases when the prior values can be estimated from the data in the sample. [Gelman and Hill (2007)](https://www.amazon.com/Analysis-Regression-Multilevel-Hierarchical-Models/dp/052168689X/ref=sr_1_1?ie=UTF8&qid=1522094327&sr=8-1&keywords=gelman+hill) describe multi-level models in these terms: For the "random" effects, usually "grouping" variables like the classroom students are in, for example, the prior for the classroom-specific effects is estimated on the basis of the mean and variance in the dependent variable from the whole sample / data set collected. In these cases (in which the prior for "random" effects can be estimated from the data), the priors for the *other* variables can be set to be neutral, much closer to the "constrain the possible values that parameters may take" than the Bayesian approach. In these cases, for models that can be estimated with both MCMC and ML, the estimates should be very close to one another.
+
+This post tries to see just how close they are, using the **lme4** and **MCMCglmm** packages. 
+
+# Analysis: Loading, setting up
+
+I load the two packages (for the modeling), the **tidyverse** package for some basic data processing, and the **railtrails** package for some example data. This data consists of reviews for rail-trails (trails for biking and running!). I filter the data to just use the data for Michigan (to make sure things run quickly) and create a data set without any missing *y*-values (where the *y* values represent the trail review). 
+
+A *very* simple model is estimated: a random intercept model, or a model in which each trail's intercept (or mean) is estimated, accounting for each trail's number of reviews and their mean and variance in light of the reviews across all trails and their mean and variance.
+
+```{r}
+library(lme4)
+library(MCMCglmm)
+library(tidyverse)
+library(railtrails)
+```
+
+```{r}
+d <- railtrails::railtrails
+d <- filter(d, state == "MI")
+d <- unnest(d, raw_reviews)
+d_ss <- filter(d, !is.na(raw_reviews)) # this is because lme4 does not work with missing y-variable values
+```
+
+# Results from lme4
+
+Here are the results of the model estimated using **lme4**:
+
+```{r}
+m1 <- lmer(raw_reviews ~ 1 + (1|name), data = d_ss)
+summary(m1)
+```
+
+The key thing to note is the `Estimate` for the intercept (`(Intercept)`) in the "Fixed effects" section, and the `Variance` for the trail name (`name`) in the "Random effects" section. It looks like the intercept's estimate, which represents the mean review across all of the trails, is 4.062, and the variance is 0.328, suggesting that, on average, each trail's estimated review is 4.062 plus or minus 0.328. So, most trails are reviewed pretty highly, around 4 (on the 1-5 scale), with some higher and some lower.
+
+# Results from MCMCglmm
+
+Here are the results of the model estimated using **MCMCglmm**. To setup the prior, I followed the advice in [this tutorial](https://github.com/tmalsburg/MCMCglmm-intro) (also linked above), which is similar to the advice given in Tom and Alastair's tutorials and in the [MCMCglmm resources](https://cran.r-project.org/web/packages/MCMCglmm/vignettes/CourseNotes.pdf). 
+
+```{r}
+prior <- list(
+  R=list(V=1, n=1, fix=1),
+  G=list(G1=list(V        = diag(1),
+                 n        = 1,
+                 alpha.mu = rep(0, 1),
+                 alpha.V  = diag(1)*25^2)))
+
+m2 <- MCMCglmm(fixed = raw_reviews ~ 1,
+               random= ~ us(1):name,
+               family = "gaussian",
+               data=as.data.frame(d),
+               prior=prior,
+               verbose=TRUE)
+
+summary(m2)
+```
+
+The key values are the `post.mean` values for the intercept (`(Intercept)`) in the "Location effects" section, and the variance of the intercept (`(Intercept):(Intercept).name`) in the "G-structure" section. It looks like the intercept's estimate, which represents the mean review across all of the trails, is 4.063, and the variance is 0.328, just about equal. Because of the nature of MCMC, there will be slightly different results each time it is run. The longer that the estimation is run, the more stable the estimates will be.
+
+Here is a summary of the two parameters' values for the two methods:
+
+```{r, echo = FALSE}
+data_frame(method = c("lme4", "MCMCglmm"), fixef_intercept = c(4.062, 4.063), trail_variance = c(.328, .328)) %>% knitr::kable()
+```
+
+One key point that is skipped for now is the importance of examining diagnostic plots (for the **MCMCglmm** results, in particular, but also for those from **lme4**) and other measures of how well the estimates fit the data. There is also a *lot* more to MCMC than this (and that I don't know about), and the use of MCMC becomes harder (for me) - but also more useful - with more complex models and data.

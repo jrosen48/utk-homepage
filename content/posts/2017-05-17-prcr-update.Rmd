@@ -1,0 +1,38 @@
+---
+title:  "prcr update"
+author: ~
+date:   2017-05-17 13:48:00 +0500
+tags: [r, prcr]
+---
+
+The R package for person-oriented analysis ([prcr](https://github.com/jrosen48/prcr)) is updated (it's now version 0.1.4). 
+
+In particular, it was not clear how to use the profile assignments (i.e., what cluster each response is in) in subsequent analyses. So, the update now returns two different representations of the profile assignments, or which profile is associated with each observation: a) the original "data.frame" with the profile assignment added in one variable and b) the original "data.frame" with the profile assignments added in dummy-coded form (i.e., one variable for each profile which is "1" when the observation is associated with the profile and "0" otherwise). 
+
+This required changing how the variables used to create the profiles are specified. While before every variable in the "data.frame" was used, so subsetting the "data.frame" before using it, now the whole "data.frame" is the first argument to  "create_profiles()", and variable used to create the profiles are named (unquoted).
+
+Here's an example with built-in data in which the variables "df", "disp", and "hp" are selected:
+
+	df <- mtcars
+	two_profile_solution <- create_profiles(df, disp, hp, wt, n_profiles = 2, to_center = T)
+
+Information about the output (it's saved to "two_profile_solution", but it can be any name) can still be viewed with the following methods:
+
+	summary(two_profile_solution)
+	plot(two_profile_solution)
+
+The two representations of the profile assignments can then be used via the ".data" and "data_with_dummy_codes" slots in the output, the first with profile assignment in one variable, the second with the profile assignments in dummy-coded form:
+
+	two_profile_solution$.data
+	two_profile_solution$data_with_dummy_codes
+
+There is also now a function to compare R<sup>2</sup> values, here using the same variables as above ("mpg", "hp", and "qsec"), comparing 2 to 4 profile solutions:
+
+	plot_r_squared(df, mpg, wt, hp, qsec, to_center = TRUE, lower_bound = 2, upper_bound = 4)
+
+Sometimes a "data.frame" is more useful, so the optional argument "r_squared_table" can be set to "TRUE" to return one instead:
+
+	plot_r_squared(df, mpg, wt, hp, qsec, to_center = TRUE, lower_bound = 2, upper_bound = 4, r_squared_table = TRUE)
+
+The update can be installed using `install.packages("prcr")` in R.
+

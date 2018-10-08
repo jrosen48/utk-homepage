@@ -1,0 +1,18 @@
+---
+title:  "Presentation on an Introduction to R for Data Analysis"
+author: ~
+date:   2017-04-14 11:54:00 -0500
+tags: [r, presentation]
+---
+
+I had an opportunity to present on an Introduction to R for Data Analysis to the School of Criminal Justice (at MSU). 
+
+The presentation is organized into five sections:
+
+1. Background
+2. Wrangling, Plotting, and Modeling
+3. Essential Functionality
+4. Advanced Functionality
+5. Additional Resources
+
+A link to the presentation is [here](https://jrosen48.github.io/media/r-presentations/r_introduction_4-14.html).

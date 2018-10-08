@@ -1,0 +1,168 @@
+---
+title: What are the best rail-trails in Michigan?
+author: ~
+date: '2017-07-24'
+slug: michigan-rail-trails-and-pathways-through-data
+categories: [r]
+tags: [mixed-effects models, rail trails, r]
+description: ''
+---
+
+# Background
+
+I was curious about what [rail trails](https://en.wikipedia.org/wiki/Rail_trail) were the best in Michigan, and so to figure out an answer, I checked out the [TrailLink](https://www.traillink.com/) website, sponsored by the Rails-to-Trails Conservancy. I had just purchased a copy of their book [Rail-Trails Michigan and Wisconsin](https://www.amazon.com/Rail-Trails-Michigan-Wisconsin-definitive-multiuse/dp/0899978738/ref=sr_1_1?ie=UTF8&qid=1500942043&sr=8-1&keywords=michigan+rail-trails), and wanted to see whether I could learn more from the website. 
+
+To start, I checked whether they had a way to access the reviews on the site through an API. They didn't, so I checked their `robots.txt` file at `http://traillink.com/robots.txt`. They didn't disallow access to their reviews for each state, so I was able to download all of the reviews for the 259 trails with reviews in Michigan. 
+
+```{r, eval = T, echo = T, message = F, warning = F}
+
+library(tidyverse)
+library(hrbrthemes)
+library(viridis)
+library(forcats)
+library(stringr)
+library(lme4)
+library(broom)
+
+df <- read_rds("/Users/joshuarosenberg/Dropbox/1_Research/railtrail/data-raw/rds_files/mi.rds") # this is a file with the rail-trail data - you can get it from here: https://github.com/jrosen48/railtrail
+
+df <- df %>% 
+    unnest(raw_reviews) %>% 
+    filter(!is.na(raw_reviews)) %>% 
+    rename(raw_review = raw_reviews,
+           trail_name = name) %>% 
+    mutate(trail_name = str_sub(trail_name, end = -7L),
+           distance = str_sub(distance, end = -6L),
+           distance = as.numeric(distance),
+           n_reviews = str_sub(n_reviews, end = -9L),
+           n_reviews = as.numeric(n_reviews))
+```
+
+# What are the characteristics of the best trails?
+
+On the site, there are "surfaces" (i.e., asphalt and gravel) and "categories" (i.e., rail-trail and paved pathway), so I tried to group them into a few categories.
+
+```{r, eval = T, echo = T}
+df <- df %>% 
+    mutate(category = as.factor(category),
+           category = forcats::fct_recode(category, "Greenway/Non-RT" = "Canal"),
+           mean_review = ifelse(mean_review == 0, NA, mean_review))
+
+df <- mutate(df,
+             surface_rc = case_when(
+                 surface == "Asphalt" ~ "Paved",
+                 surface == "Asphalt, Concrete" ~ "Paved",
+                 surface == "Concrete" ~ "Paved",
+                 surface == "Asphalt, Boardwalk" ~ "Paved",
+                 str_detect(surface, "Stone") ~ "Crushed Stone",
+                 str_detect(surface, "Ballast") ~ "Crushed Stone",
+                 str_detect(surface, "Gravel") ~ "Crushed Stone",
+                 TRUE ~ "Other"
+             )
+)
+
+```
+
+Then, I checked out their mean reviews, from one to five stars.
+
+Some trails had a ton of reviews:
+
+```{r}
+df %>% 
+    select(trail_name, surface_rc, category, distance, n_reviews) %>% 
+    distinct() %>% 
+    arrange(desc(n_reviews)) %>% 
+    head(5) %>% 
+    knitr::kable()
+```
+
+And some had very few reviews- 60 of the trails had only one review! 
+
+Some of these reviews for trails with one review were high (five stars):
+
+```{r}
+df %>% 
+    select(trail_name, surface_rc, category, distance, n_reviews, mean_review) %>% 
+    distinct() %>% 
+    filter(n_reviews == 1) %>% 
+    arrange(desc(mean_review)) %>% 
+    head(5) %>% 
+    knitr::kable()
+```
+
+Some of the trails with one review were very low:
+
+```{r}
+df %>% 
+    select(trail_name, surface_rc, category, distance, n_reviews, mean_review) %>% 
+    distinct() %>% 
+    filter(n_reviews == 1) %>% 
+    arrange(mean_review) %>% 
+    head(5) %>% 
+    knitr::kable()
+```
+
+# Building a model
+
+To try to figure out what trails had many good reviews, I used an approach that is not an average of all of the reviews for the trail, but a rating that uses the value of the individual reviews for a trail as well as how different they are from each other and how different they are from the "average" review across every trail. 
+
+What if, intsead, we just looked at the top-reviewed trails and then sorted them by how many reviews they had? Because many trails' average review was five, this does not help much
+
+These ratings - `model_based_rating` below - are from the mixed effects model specified here:
+
+```{r, message = F}
+m1 <- lmer(raw_review ~ 1 + (1|trail_name), data = df)
+```
+
+The data has to be merged back into the data frame with the other characteristics of the trail:
+
+```{r, message = F, warning = F}
+m1_tidied <- tidy(m1)
+
+m1_fe <- filter(m1_tidied, group == "fixed")
+
+estimated_trail_means <- ranef(m1)$trail_name %>% 
+    rownames_to_column() %>% 
+    as_tibble() %>% 
+    rename(trail_name = rowname, estimated_mean = `(Intercept)`) %>% 
+    mutate(model_based_rating = estimated_mean + m1_fe$estimate)
+
+df_ss <- df %>% 
+    group_by(trail_name) %>% 
+    summarize(raw_mean = mean(raw_review))
+
+df_out <- left_join(df_ss, estimated_trail_means)
+df_out <- left_join(df_out, df)
+```
+
+# So, where are we riding next? 
+
+Here are the top-10 trails of any length:
+
+```{r}
+df_out %>% 
+    select(trail_name, surface_rc, distance, category, estimated_mean, raw_mean, n_reviews) %>% 
+    distinct() %>% 
+    arrange(desc(estimated_mean)) %>% 
+    mutate_if(is.numeric, function(x) round(x, 3)) %>% 
+    head(10) %>% 
+    knitr::kable()
+```
+
+What if we wanted to take a shorter trip - one less than 10 miles?
+
+```{r}
+df_out %>% 
+    select(trail_name, surface_rc, distance, category, estimated_mean, raw_mean, n_reviews) %>% 
+    distinct() %>% 
+    filter(distance < 10) %>% 
+    arrange(desc(estimated_mean), desc(n_reviews)) %>% 
+    head(10) %>% 
+    knitr::kable()
+```
+
+# Conclusion
+
+This approach that uses a model is powerful because we can figure out what trails are higher (or lower) when we consider how many reviews we have about each trail. Needless to say, this approach is powerful in research, as well: Grades for students in classrooms, for example, can be analyzed in the same way if we want to learn what students are consistently performing differently (for better or worse!).
+
+The code to download the reviews is [here](https://github.com/jrosen48/railtrail). The code in this post can be used to do a similar analysis. 

@@ -1,0 +1,68 @@
+---
+title:  "Common Core and NGSS are not on the news"
+author: ~
+date:   2017-03-16 16:32:00 -0500
+tags: [r, education policy]
+---
+
+### How often are curricular standards mentioned on TV news?
+
+With my friend Patrick, I was curious about using the [newsflash](https://github.com/hrbrmstr/newsflash) package for something education-related. We came up with the idea of looking at mentions of the Common Core State Standards (for Mathematics and English Language Arts / Literacy) and the Next Generation Science Standards (for Science and Engineering). 
+
+### On broadcast channels
+
+We first looked at mentions across ABC, CBS, FOX, NBC, and PBS (the way newsflash works is to keyword search the closed captioning streams from the [Internet Archive's Television News Archive](https://archive.org/details/tv)):
+
+![ccss_ngss_cable](https://raw.githubusercontent.com/jrosen48/homepage-source/master/media/images/ccss_ngss_broadcast.png)
+
+The Common Core State Standards were mentioned a not-so-impressive 74 times, and the Next Generation Science Standards were mentioned 10. These are not National curricular standards, but rather are those which can be adopted (and adapted, as in the case of [Michigan's K-12 Science Standards](http://www.michigan.gov/mde/0,4615,7-140-28753_64839_65510-339833--,00.html)), which can explain why they are not mentioned very frequently, possibly. And Common Core State Standards *are* mentioned a lot more than the Next Generation Science Standards, perhaps because they have been [adopted by many more states](http://www.corestandards.org/standards-in-your-state/) than the Next Generation Science Standards (although they [have been adopted](http://www.nextgenscience.org/lead-state-partners) in more than half of the states).
+
+But still, rock climbing was [mentioned 1,302 times](https://jrosen48.github.io/r/2017/03/11/rock-climbing-internet-television-news-archive.html) over the same period, and by a quick search, the *Oscars were mentioned 36,190 times*.
+
+### On cable channels
+
+We wondered if maybe these are mentioned more if you search not ABC, CBS, and so on, but cable news channels (CNN, MSNBC, Fox News, Bloomberg, and others). There is not a substantial difference:
+
+![ccss_ngss_cable](https://raw.githubusercontent.com/jrosen48/homepage-source/master/media/images/ccss_ngss_cable.png)
+
+On cable news channels, Common Core State Standards were mentioned 143 times, and the Next Generation Science Standards were mentioned 10 again.
+
+### Punchlines
+
+- Curricular standards are almost never mentioned on the television news.
+
+- Common Core State Standards are mentioned a lot more frequently than the Next Generation Science Standards.
+
+### R code
+
+The code in R is simple thanks to the awesome newsflash package
+
+	library(newsflash) # have to install with devtools::install_github("hrbrmstr/newsflash")
+	library(tidyverse)
+	library(hrbrthemes)
+	library(lubridate)
+
+	df1 <- query_tv("common core state", filter_network = "AFFNETALL")
+	df2 <- query_tv("next generation science", filter_network = "AFFNETALL")
+
+	df1$timeline$date_w <- lubridate::round_date(df$timeline$date_start, unit = "week")
+	df1$timeline$date_w <- lubridate::round_date(df2$timeline$date_start, unit = "week")
+	df2$timeline$group <- "CCSS"
+	df2$timeline$group <- "NGSS"
+
+	df <- bind_rows(df$timeline, df2$timeline)
+
+	df$timeline$date_w <- lubridate::round_date(df$timeline$date_start, unit = "week")
+
+	mutate(df, date_start=as.Date(date_w)) %>% 
+	    ggplot(aes(x = date_start, y = value, fill = group)) +
+	    geom_col() +
+	    facet_grid(~ group) +
+	    theme(axis.text.x=element_text(hjust=c(0, 0.5, 0.5, 0.5, 0.5, 0.5))) +
+	    ggtitle("Mathematics and Literacy and Science and Engineering Standards in the News (Broadcast)") +
+	    ylab("Number of Mentions") +
+	    labs(caption = "Data from the Internet Archive and GDELT Television Explorer (http://television.gdeltproject.org/cgi-bin/iatv_ftxtsearch/iatv_ftxtsearch).") +
+	    theme_ipsum_rc(grid="XY") +
+	    theme(legend.position = "noone")
+
+	df %>% group_by(group) %>% summarize(sumn = sum(value)) # total number of mentions

@@ -1,0 +1,59 @@
+---
+title:  "The Internet Archive's Television News Archive and Newsflash"
+author: ~
+date:   2017-03-11 01:28:00 -0500
+tags: [r]
+---
+
+## Background
+
+The [Internet Archive's Television News Archive](https://archive.org/details/tv) is a cool way to search closed captions from TV shows. 
+
+Here's a bit more information on it:
+
+> The Internet Archive's Television News Archive, GDELT's Television Explorer allows you to keyword search the closed captioning streams of the Archive's 6 years of American television news and explore macro-level trends in how America's television news is shaping the conversation around key societal issues. 
+
+There's an easy way to access the archive in R, via the awesome [Newsflash package](https://github.com/hrbrmstr/newsflash). Since I am visiting my brother and father in Colorado, we thought to check out how often rock climbing is mentioned (on TV news stations, in specific ABC, CBS, FOX, NBC, and PBS):
+
+![rockclimb](https://raw.githubusercontent.com/jrosen48/homepage-source/master/media/images/rock_climbing_aff.png)
+
+We annotated the plot with two events (my brother knows about them, not me):
+
+* [A CBS 60 Minutes special on Alex Honnold](http://www.climbing.com/videos/alex-honnold-on-60-minutes-2/)
+* [The first ascent of Dawn Wall, in Yosemite National Park](http://www.rockandice.com/climbing-news/adam-ondra-sends-the-dawn-wall)
+
+While it looks like rock climbing is being mentioned more, it might in part be due to more news over time (we would need to turn the number of mentions into a rate, like number of mentions per some number of words or hour of news). 
+
+What else could this be useful for? Well, in education, discussion of policy issues and curricular standards could be worth a look.
+
+Thanks to [hrbmstr](https://github.com/hrbrmstr) for the package. The code I used below is heavily adapted from the [Newsflash](https://github.com/hrbrmstr/newsflash) example.
+
+# Code (in R)
+
+	library(newsflash)
+	library(tidyverse)
+	library(hrbrthemes)
+
+	climb <- query_tv("rock climbing", filter_network = "AFFNETALL")
+
+	t1 <- lubridate::ymd_hms("2012-05-30 00:00:00", tz = "UTC")
+	t2 <- lubridate::ymd_hms("2016-01-12 00:00:00", tz = "UTC")
+
+	t1i <- lubridate::ymd_hms("2012-04-30 00:00:00", tz = "UTC")
+	t2i <- lubridate::ymd_hms("2015-12-12 00:00:00", tz = "UTC")
+
+	climb$timeline$date_w <- lubridate::round_date(climb$timeline$date_start, unit = "week")
+
+	mutate(climb$timeline, date_start=as.Date(date_w)) %>% 
+	    ggplot(aes(date_start, value)) +
+	    geom_col() +
+	    theme(legend.position="bottom") +
+	    theme(axis.text.x=element_text(hjust=c(0, 0.5, 0.5, 0.5, 0.5, 0.5))) +
+	    ggtitle("Rock Climbing on Affiliate TV Stations for ABC, CBS, FOX, NBC, and PBS") +
+	    ylab("Number of Mentions") +
+	    geom_vline(xintercept = as.numeric(as.Date(t1)), color = "#cd2626", alpha = .4) +
+	    geom_vline(xintercept = as.numeric(as.Date(t2)), color = "#cd2626", alpha = .4) + 
+	    annotate("text", x = as.Date(t1i), y = 45, label = "60 Minutes Special on Alex Honnold", angle = 90, family = "Roboto Condensed") +
+	    annotate("text", x = as.Date(t2i), y = 45, label = "First Ascent of Dawn Wall", angle = 90, family = "Roboto Condensed") +
+	    labs(caption = "Data from the Internet Archive and GDELT Television Explorer (http://television.gdeltproject.org/cgi-bin/iatv_ftxtsearch/iatv_ftxtsearch).") +
+	    theme_ipsum_rc(grid="XY")

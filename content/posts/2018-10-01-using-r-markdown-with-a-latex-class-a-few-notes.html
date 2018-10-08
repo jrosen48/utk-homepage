@@ -1,0 +1,35 @@
+---
+title: 'Using R Markdown and papaja with a LaTeX class to submit a conference proposal: A few notes'
+author: ''
+date: '2018-10-01'
+slug: using-r-markdown-with-a-latex-class-a-few-notes
+categories:
+  - r
+tags: []
+description: Desc
+meta_img: /images/image.jpg
+---
+
+
+
+<p>With my colleagues <a href="https://www.emilybovee.com/">Emily Bovee</a> (who had the idea for the project and is the first author) and John Ranellucci, I worked on a conference proposal for a conference that provided either a Word Document template or a LaTeX class. Since I had just used (that’s a generous way to put it - I really had struggled through it) LaTeX, I proposed that we see whether we could (continue to) use R and R Markdown, which we used to analyze the data, to prepare the manuscript.</p>
+<p>It basically worked. Thus this post, which is really just a few notes - and is certainly <em>not</em> any authoritative source on this topic.</p>
+<p>Here’s what we did:</p>
+<ol style="list-style-type: decimal">
+<li>We installed the <strong>papaja</strong> R package, which right now is still in the development phase (so you have to install it with the following lines instead of the usual <code>install.packages()</code> way):</li>
+</ol>
+<pre class="r"><code>install.packages(&quot;devtools&quot;)
+devtools::install_github(&quot;crsh/papaja&quot;)</code></pre>
+<ol start="2" style="list-style-type: decimal">
+<li><p>Using R Studio, we created a new R Markdown document (just using the File -&gt; New File menu, and then selected “R Markdown”), and then navigated to “From Template”, where we selected “APA Article (6th edition)”. This resulted in an R Markdown document with the <strong>papaja</strong> template and in the APA format.</p></li>
+<li><p>We downloaded the LaTeX class (i.e., the text file that ends in <code>.cls</code>) file from the conference website. Then, we moved it to the same directory as the new R Markdown document we created in the prior step.</p></li>
+<li><p>We changed the following line in the front matter of the R Markdown document from the following:</p></li>
+</ol>
+<p><code>class             : &quot;man&quot;</code></p>
+<p>… to the following, where <code>conference-template.cls</code> is the (renamed) name of file we downloaded in the prior step:</p>
+<p><code>class             : &quot;conference-template.cls&quot;</code></p>
+<ol start="5" style="list-style-type: decimal">
+<li>We wrote the manuscript (and embedded the R code to create the output and the plots) and then clicked “Knit” at the top of the document to create the PDF. And then we uploaded that PDF.</li>
+</ol>
+<p>Of course, there were some challenges along the way - but, nothing that required a huge amount of troubleshooting. Things <em>basically</em> worked! So, this post is a snapshot of this experience. It’s a testimony to the creators of <strong>papaja</strong> (and R Markdown - and the LaTeX class for the conference) that things just worked and so that we could be successful on our first try.</p>
+<p>As one sidenote, with John’s input and contributions, we wrote this entire manuscript using the tools describe here - and GitHub. There were challenges, but, it basically worked - pretty neat!</p>

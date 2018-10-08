@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>An R package for sensitivity analysis (konfound) | My New Hugo Site</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+    
+  </head>
+
+  <body>
+    <nav>
+    <ul class="menu">
+      
+    </ul>
+    <hr/>
+    </nav>
+
+<div class="article-meta">
+<h1><span class="title">An R package for sensitivity analysis (konfound)</span></h1>
+
+<h2 class="date">2018/04/12</h2>
+</div>
+
+<main>
+<pre class="r"><code>knitr::opts_chunk$set(
+  comment = &quot;#&gt;&quot;,
+  collapse = TRUE
+)</code></pre>
+<p>With <a href="https://sites.google.com/site/ranxupersonalweb/">Ran Xu</a> and <a href="https://msu.edu/~kenfrank/research.htm">Ken Frank</a>, I have worked on <a href="http://konfound-it.com/">a Shiny interactive web application for sensitivity analysis</a> as well as an R package for carrying out sensitivity analysis using R.</p>
+<p>That R package is now available on CRAN! A link to the CRAN page for it is <a href="https://cran.r-project.org/web/packages/konfound/">here</a> and the website for the package is <a href="https://jrosen48.github.io/konfound/">here</a>.</p>
+<p>Here is the description:</p>
+<blockquote>
+<p>Statistical methods that quantify the conditions necessary to alter inferences, also known as sensitivity analysis, are becoming increasingly important to a variety of quantitative sciences. A series of recent works, including Frank (2000) and Frank et al. (2013) extend previous sensitivity analyses by considering the characteristics of omitted variables or unobserved cases that would change an inference if such variables or cases were observed. These analyses generate statements such as “an omitted variable would have to be correlated at xx with the predictor of interest (e.g., treatment) and outcome to invalidate an inference of a treatment effect”. Or “one would have to replace pp percent of the observed data with null hypothesis cases to invalidate the inference”. We implement these recent developments of sensitivity analysis and provide modules to calculate these two robustness indices and generate such statements in R. In particular, the functions konfound(), pkonfound() and mkonfound() allow users to calculate the robustness of inferences for a user’s own model, a single published study and multiple studies respectively.</p>
+</blockquote>
+<p>As a super short introduction, imagine that we carried out a regression for the relationship between a car’s weight and its fuel efficiency (miles per gallon):</p>
+<pre class="r"><code>library(konfound)
+#&gt; Sensitivity analysis as described in Frank, Maroulis, Duong, and Kelcey (2013) and in Frank (2000).
+#&gt; For more information visit https://jmichaelrosenberg.shinyapps.io/shinykonfound/.
+
+m1 &lt;- lm(mpg ~ wt + drat, data = mtcars)
+summary(m1)
+#&gt; 
+#&gt; Call:
+#&gt; lm(formula = mpg ~ wt + drat, data = mtcars)
+#&gt; 
+#&gt; Residuals:
+#&gt;     Min      1Q  Median      3Q     Max 
+#&gt; -5.4159 -2.0452  0.0136  1.7704  6.7466 
+#&gt; 
+#&gt; Coefficients:
+#&gt;             Estimate Std. Error t value Pr(&gt;|t|)    
+#&gt; (Intercept)   30.290      7.318   4.139 0.000274 ***
+#&gt; wt            -4.783      0.797  -6.001 1.59e-06 ***
+#&gt; drat           1.442      1.459   0.989 0.330854    
+#&gt; ---
+#&gt; Signif. codes:  0 &#39;***&#39; 0.001 &#39;**&#39; 0.01 &#39;*&#39; 0.05 &#39;.&#39; 0.1 &#39; &#39; 1
+#&gt; 
+#&gt; Residual standard error: 3.047 on 29 degrees of freedom
+#&gt; Multiple R-squared:  0.7609, Adjusted R-squared:  0.7444 
+#&gt; F-statistic: 46.14 on 2 and 29 DF,  p-value: 9.761e-10</code></pre>
+<p>We can carry out sensitivity analysis for the effect of weight, for example, using the <code>konfound()</code> function on the model output:</p>
+<pre class="r"><code>konfound(m1, wt)
+#&gt; Note that this output is calculated based on the correlation-based approach used in mkonfound()
+#&gt; Replacement of Cases Approach:
+#&gt; To invalidate an inference, 65.969% of the estimate would have to be due to bias. This is based on a threshold of -1.628 for statistical significance (alpha = 0.05).
+#&gt; To invalidate an inference, 21 observations would have to be replaced with cases for which the effect is 0.
+#&gt; 
+#&gt; Correlation-based Approach:
+#&gt; An omitted variable would have to be correlated at 0.781 with the outcome and at 0.781 with the predictor of interest (conditioning on observed covariates) to invalidate an inference based on a threshold of -0.36 for statistical significance (alpha = 0.05).
+#&gt; Correspondingly the impact of an omitted variable (as defined in Frank 2000) must be 0.781 X 0.781 = 0.61 to invalidate an inference.
+#&gt; NULL</code></pre>
+<p>This (very preliminary - and just as an illustration) suggests that nearly two-thirds of the effect of the weight of a car on its miles per gallon would need to be due to bias - in the model or measures, for example - for the effect to be invalidated.</p>
+<p>Alternatively, another way to interpret the results of this sensitivity analysis is in terms of how correlated an omitted, confounding variable (i.e., a covariate) would need to be with both the variable of interest (weight) and the outcome, and this approach suggests that such a confounding variable would nee do be correlated at about .80 with both weight and miles per gallon for the effect of weight to be invalidated.</p>
+<p>The <code>konfound()</code> function works on output from <code>lm()</code> as well as <code>glm()</code> (for non-linear models) and <code>lmer()</code> (from the <strong>lme4</strong> package) for mixed effects models. There are also a number of ways (besides text) to present the output. Much more on the konfound() function (and package) can be found <a href="https://jrosen48.github.io/konfound/reference/konfound.html">here</a>.</p>
+
+</main>
+
+  <footer>
+  
+  
+  </footer>
+  </body>
+</html>
+

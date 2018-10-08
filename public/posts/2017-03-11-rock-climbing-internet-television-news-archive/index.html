@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>The Internet Archive&#39;s Television News Archive and Newsflash | Joshua M. Rosenberg</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+    
+  </head>
+
+  <body>
+    <nav>
+    <ul class="menu">
+      
+      <li><a href="/">Home</a></li>
+      
+      <li><a href="/about/">About</a></li>
+      
+      <li><a href="/categories/">Categories</a></li>
+      
+      <li><a href="/tags/">Tags</a></li>
+      
+      <li><a href="/index.xml">Subscribe</a></li>
+      
+    </ul>
+    <hr/>
+    </nav>
+
+<div class="article-meta">
+<h1><span class="title">The Internet Archive&rsquo;s Television News Archive and Newsflash</span></h1>
+
+<h2 class="date">2017/03/11</h2>
+</div>
+
+<main>
+<div id="background" class="section level2">
+<h2>Background</h2>
+<p>The <a href="https://archive.org/details/tv">Internet Archive’s Television News Archive</a> is a cool way to search closed captions from TV shows.</p>
+<p>Here’s a bit more information on it:</p>
+<blockquote>
+<p>The Internet Archive’s Television News Archive, GDELT’s Television Explorer allows you to keyword search the closed captioning streams of the Archive’s 6 years of American television news and explore macro-level trends in how America’s television news is shaping the conversation around key societal issues.</p>
+</blockquote>
+<p>There’s an easy way to access the archive in R, via the awesome <a href="https://github.com/hrbrmstr/newsflash">Newsflash package</a>. Since I am visiting my brother and father in Colorado, we thought to check out how often rock climbing is mentioned (on TV news stations, in specific ABC, CBS, FOX, NBC, and PBS):</p>
+<div class="figure">
+<img src="https://raw.githubusercontent.com/jrosen48/homepage-source/master/media/images/rock_climbing_aff.png" alt="rockclimb" />
+<p class="caption">rockclimb</p>
+</div>
+<p>We annotated the plot with two events (my brother knows about them, not me):</p>
+<ul>
+<li><a href="http://www.climbing.com/videos/alex-honnold-on-60-minutes-2/">A CBS 60 Minutes special on Alex Honnold</a></li>
+<li><a href="http://www.rockandice.com/climbing-news/adam-ondra-sends-the-dawn-wall">The first ascent of Dawn Wall, in Yosemite National Park</a></li>
+</ul>
+<p>While it looks like rock climbing is being mentioned more, it might in part be due to more news over time (we would need to turn the number of mentions into a rate, like number of mentions per some number of words or hour of news).</p>
+<p>What else could this be useful for? Well, in education, discussion of policy issues and curricular standards could be worth a look.</p>
+<p>Thanks to <a href="https://github.com/hrbrmstr">hrbmstr</a> for the package. The code I used below is heavily adapted from the <a href="https://github.com/hrbrmstr/newsflash">Newsflash</a> example.</p>
+</div>
+<div id="code-in-r" class="section level1">
+<h1>Code (in R)</h1>
+<pre><code>library(newsflash)
+library(tidyverse)
+library(hrbrthemes)
+
+climb &lt;- query_tv(&quot;rock climbing&quot;, filter_network = &quot;AFFNETALL&quot;)
+
+t1 &lt;- lubridate::ymd_hms(&quot;2012-05-30 00:00:00&quot;, tz = &quot;UTC&quot;)
+t2 &lt;- lubridate::ymd_hms(&quot;2016-01-12 00:00:00&quot;, tz = &quot;UTC&quot;)
+
+t1i &lt;- lubridate::ymd_hms(&quot;2012-04-30 00:00:00&quot;, tz = &quot;UTC&quot;)
+t2i &lt;- lubridate::ymd_hms(&quot;2015-12-12 00:00:00&quot;, tz = &quot;UTC&quot;)
+
+climb$timeline$date_w &lt;- lubridate::round_date(climb$timeline$date_start, unit = &quot;week&quot;)
+
+mutate(climb$timeline, date_start=as.Date(date_w)) %&gt;% 
+    ggplot(aes(date_start, value)) +
+    geom_col() +
+    theme(legend.position=&quot;bottom&quot;) +
+    theme(axis.text.x=element_text(hjust=c(0, 0.5, 0.5, 0.5, 0.5, 0.5))) +
+    ggtitle(&quot;Rock Climbing on Affiliate TV Stations for ABC, CBS, FOX, NBC, and PBS&quot;) +
+    ylab(&quot;Number of Mentions&quot;) +
+    geom_vline(xintercept = as.numeric(as.Date(t1)), color = &quot;#cd2626&quot;, alpha = .4) +
+    geom_vline(xintercept = as.numeric(as.Date(t2)), color = &quot;#cd2626&quot;, alpha = .4) + 
+    annotate(&quot;text&quot;, x = as.Date(t1i), y = 45, label = &quot;60 Minutes Special on Alex Honnold&quot;, angle = 90, family = &quot;Roboto Condensed&quot;) +
+    annotate(&quot;text&quot;, x = as.Date(t2i), y = 45, label = &quot;First Ascent of Dawn Wall&quot;, angle = 90, family = &quot;Roboto Condensed&quot;) +
+    labs(caption = &quot;Data from the Internet Archive and GDELT Television Explorer (http://television.gdeltproject.org/cgi-bin/iatv_ftxtsearch/iatv_ftxtsearch).&quot;) +
+    theme_ipsum_rc(grid=&quot;XY&quot;)</code></pre>
+</div>
+
+</main>
+
+  <footer>
+  
+  
+  <hr/>
+  &copy; <a href="https://jmichaelrosenberg.com">Joshua M. Rosenberg</a> 2017 &ndash; 2018 | <a href="https://github.com/yihui">Github</a> | <a href="https://twitter.com/xieyihui">Twitter</a>
+  
+  </footer>
+  </body>
+</html>
+

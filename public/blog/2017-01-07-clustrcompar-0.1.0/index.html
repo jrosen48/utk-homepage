@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Announcing clustRcompaR v.0.1.0 | My New Hugo Site</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+    
+  </head>
+
+  <body>
+    <nav>
+    <ul class="menu">
+      
+    </ul>
+    <hr/>
+    </nav>
+
+<div class="article-meta">
+<h1><span class="title">Announcing clustRcompaR v.0.1.0</span></h1>
+
+<h2 class="date">2017/01/07</h2>
+</div>
+
+<main>
+<p>Alex Lishinski and I worked on an <code>R</code> package over the last year or so. We are excited that it’s now available on <a href="https://cran.r-project.org/web/packages/clustRcompaR/index.html">CRAN</a>.</p>
+<p>You can install the package using <code>install.packages('clustRcompaR')</code> (only needed first time) and load it (more on its two functions below) using <code>library(clustRcompaR)</code>.</p>
+<p>Here’s a description:</p>
+<blockquote>
+<p>Provides an interface to perform cluster analysis on a corpus of text. Interfaces to Quanteda to assemble text corpuses easily. Deviationalizes text vectors prior to clustering using technique described by Sherin (Sherin, B. [2013]. A computational study of commonsense science: An exploration in the automated analysis of clinical interview data. Journal of the Learning Sciences, 22(4), 600-638. Chicago. <a href="http://dx.doi.org/10.1080/10508406.2013.836654" class="uri">http://dx.doi.org/10.1080/10508406.2013.836654</a>). Uses cosine similarity as distance metric for two stage clustering process, involving Ward’s algorithm hierarchical agglomerative clustering, and k-means clustering. Selects optimal number of clusters to maximize “variance explained” by clusters,, adjusted by the number of clusters. Provides plotted output of clustering results as well as printed output. Assesses “model fit” of clustering solution to a set of preexisting groups in dataset.</p>
+</blockquote>
+<p>I learned about document clustering and this approach by Christina Krist, who introduced me to to the paper cited (and referenced) in the description. It is straightforward but powerful in light of other approaches like <a href="https://cran.r-project.org/web/packages/topicmodels/vignettes/topicmodels.pdf">topic modeling</a>.</p>
+<p>Here’s more background:</p>
+<p><a href="https://en.wikipedia.org/wiki/Document_clustering">Document clustering</a> is a common technique to discover topics in a corpus of texts. This package uses functions from the <a href="https://github.com/kbenoit/quanteda"><code>quanteda</code></a> <code>R</code> package as the basis for two functions, <code>cluster()</code> and `compare(), to make document clustering and comparing topics identified through document clustering across factors straightforward.</p>
+<ul>
+<li><p>First, use <code>cluster()</code> on a <code>data.frame</code> with the first column a <code>vector</code> of character strings, and any other columns are <code>vectors</code> of <code>factors</code> (such as groups representing different time points and classes taught by different teachers).</p></li>
+<li><p>Next, use <code>compare()</code> with the output from the <code>cluster()</code> function along with a <code>string</code> for the factor to compare the frequency of clusters to.</p></li>
+</ul>
+<p>If you happen to use it and would like to suggest improvements, have any issues, or make changes, all of the contents are <a href="https://github.com/alishinski/clustRcompaR">available on GitHub</a>.</p>
+
+</main>
+
+  <footer>
+  
+  
+  </footer>
+  </body>
+</html>
+
