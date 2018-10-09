@@ -1,5 +1,5 @@
 ---
-title: CV
+title: About and CV
 
 output: 
   pdf_document:

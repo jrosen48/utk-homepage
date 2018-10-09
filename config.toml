@@ -7,6 +7,7 @@ disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
 footnotereturnlinkcontents = "↩"
+paginate = 10
 
 [permalinks]
     post = "/post/:year/:month/:day/:slug/"
@@ -17,20 +18,21 @@ footnotereturnlinkcontents = "↩"
     url = "/"
     weight = 1
 [[menu.main]]
-    name = "About"
+    name = "About and CV"
     url = "/about/"
     weight = 2
 [[menu.main]]
-    name = "Categories"
-    url = "/categories/"
+    name = "Research"
+    url = "/research/"
     weight = 3
+[[menu.main]]
+    name = "Teaching"
+    url = "/teaching/"
+    weight = 4
 [[menu.main]]
     name = "Tags"
     url = "/tags/"
-    weight = 4
-[[menu.main]]
-    name = "Subscribe"
-    url = "/index.xml"
+    weight = 5
 
 [params]
     description = "A website built through Hugo and blogdown."

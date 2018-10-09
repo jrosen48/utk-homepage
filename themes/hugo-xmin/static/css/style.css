@@ -22,7 +22,12 @@ hr {
   color: #ddd;
 }
 
-/* code */
+
+/* pagination */
+.pagination { text-align: center; }
+.pagination li { display: inline; }
+.pagination a { padding: 0 .2em; }
+
 pre {
   border: 1px solid #ddd;
   box-shadow: 5px 5px 5px #eee;
