@@ -6,10 +6,20 @@
     <description>Recent content in Home on Joshua M. Rosenberg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Presentation on Data Science Education Dilemmas (and Opportunities)</title>
+      <link>/blog/presentation-data-science-education-dilemmas-and-opportunities/</link>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/presentation-data-science-education-dilemmas-and-opportunities/</guid>
+      <description>I had the opportunity to present on Data Science Education Dilemmas (and Opportunities) to STEM Education faculty at UT. It was a short, informal presentation, but served as a chance to pull together some ideas.
+A link to the presentation is here.</description>
+    </item>
     
     <item>
       <title>Using R Markdown and papaja with a LaTeX class to submit a conference proposal: A few notes</title>

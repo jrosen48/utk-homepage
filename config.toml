@@ -35,5 +35,5 @@ paginate = 10
     weight = 5
 
 [params]
-    description = "A website built through Hugo and blogdown."
-    footer = "&copy; [Joshua M. Rosenberg](https://jmichaelrosenberg.com) 2017 -- 2018 | [Github](https://github.com/yihui) | [Twitter](https://twitter.com/xieyihui)"
+    description = "Joshua M. Rosenberg's Homepage"
+    footer = "&copy; [Joshua M. Rosenberg](https://joshuamrosenberg.com) 2015 -- 2018 | [Google Scholar](https://scholar.google.com/citations?user=nxVowRQAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Joshua_Rosenberg2) | [Github](https://github.com/jrosen48) | [Twitter](https://twitter.com/jrosenberg6432)"

@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/blog/presentation-data-science-education-dilemmas-and-opportunities/</loc>
+    <lastmod>2018-10-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/using-r-markdown-with-a-latex-class-a-few-notes/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
   </url>
@@ -287,6 +292,12 @@
   </url>
   
   <url>
+    <loc>/blog/</loc>
+    <lastmod>2018-10-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
     <priority>0</priority>
   </url>
@@ -310,6 +321,18 @@
   </url>
   
   <url>
+    <loc>/tags/data-science-ed/</loc>
+    <lastmod>2018-10-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/edu-data-science/</loc>
+    <lastmod>2018-10-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/education-policy/</loc>
     <lastmod>2017-03-16T16:32:00-05:00</lastmod>
     <priority>0</priority>
@@ -317,7 +340,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -355,20 +378,26 @@
   </url>
   
   <url>
+    <loc>/categories/presentation/</loc>
+    <lastmod>2018-10-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/presentation/</loc>
     <lastmod>2017-04-14T11:54:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/r/</loc>
-    <lastmod>2017-08-15T00:00:00+00:00</lastmod>
+    <loc>/categories/r/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/r/</loc>
-    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+    <loc>/tags/r/</loc>
+    <lastmod>2017-08-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
