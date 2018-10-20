@@ -25,7 +25,7 @@ The University of Tennessee, Knoxville
 PhD, Educational Psychology & Educational Technology, 2018
 Michigan State University
 
-Graduate Certificate, Science Education, 2017
+Graduate Certificate, Science Education, 2016
 Michigan State University
 
 MA, Educational Technology, 2012
@@ -39,8 +39,8 @@ University of North Carolina, Asheville
 
 ## Professional Experience
 
-Assistant Professor of STEM Education, 2018  
-Department of Theory and Practice in Teacher Education   
+Assistant Professor, STEM Education, 2018  
+Department of Theory and Practice in Teacher Education     
 University of Tennessee, Knoxville  
 
 ## Publications
@@ -51,7 +51,7 @@ University of Tennessee, Knoxville
 Rosenberg, J. M., Beymer, P. N., Anderson, D. J., & Schmidt, J. A. (2018). tidyLPA: An R Package to Easily Carry Out Latent Profile Analysis (LPA) Using Open-Source or Commercial Software. *Journal of Open Source Software, 3*(30), 978, https://doi.org/10.21105/joss.00978
 
 \hangindent=2em
-Greenhalgh, S. P., Staudt Willet, K. B., Rosenberg, J. M., & Koehler, M. J. (in press). Tweet, and we shall find: Using digital methods to locate participants in educational hashtags. *TechTrends*. <a href = "https://bretsw.github.io/files/Greenhalgh_StaudtWillet_Rosenberg_Koehler_preprint.pdf"> <img src="/_media/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
+Greenhalgh, S. P., Staudt Willet, K. B., Rosenberg, J. M., & Koehler, M. J. (2018). Tweet, and we shall find: Using digital methods to locate participants in educational hashtags. *TechTrends, 62*(5), 501-508. https://doi.org/10.1007/s11528-018-0313-6 <a href = "https://bretsw.github.io/files/Greenhalgh_StaudtWillet_Rosenberg_Koehler_preprint.pdf"> <img src="/_media/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
 \hangindent=2em
 Beymer, P. N., Rosenberg, J. M., Schmidt, J. A., & Naftzger, N. (2018). Examining relationships between choice, affect, and engagement in out-of-school time STEM programs. *Journal of Youth and Adolescence, 47*(6), 1178-1191. https://doi.org/10.1007/s10964-018-0814-9 <a href = "/_media/pre-prints/Beymer-Rosenberg-Schmidt-2018-JYA.pdf"> <img src="/_media/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
@@ -162,6 +162,9 @@ Rosenberg, J. (2013). Review of mobile device use policies in public high school
 Rosenberg, J. M. (2018). *Understanding work with data in summer STEM programs: An experience sampling method approach* (Doctoral dissertation). Retrieved from Proquest Dissertations and Theses. (Proquest No. 10747232) <a href = "/_media/publications/Rosenberg-2018-Dissertation.pdf"><img src="/_media/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
 ### Peer-Reviewed Conference Presentations
+
+\hangindent=2em
+Rosenberg, J. M., & Reid, J. (2019, January). The roles of the Twitter hashtag #NGSSchat in the context of science education reform efforts. Paper to be presented at the Association for Science Teacher Education International Meeting. Savannah, GA.
 
 \hangindent=2em
 Staudt Willet, K. B., Greenhalgh, S. P., Rosenberg, J. M., Koehler, M. J. (2018, October). Won’t you be my neighbor? How education stakeholders use hyperlinks to build information neighborhoods on Twitter. Paper to be presented at the Association for Educational Communications and Technology (AECT) International Convention 2018. Kansas City, MO.
@@ -312,7 +315,15 @@ Koehler, M. J., Rosenberg, J. M., Greenhalgh, S., Zellner, A. L., & Mishra, P. (
 \hangindent=2em
 Rosenberg, J. M. (March, 2016). An introduction to R for programming and statistical analysis in education. Georgia Southern University College of Education, Statesboro, GA.
 
+# Related Experience
+
+High School Science Teacher (Biology and Earth Science), Shelby High School, Cleveland County Schools, NC, 2010-2012
+
+High School Science Teacher Intern (Biology and Chemistry), C.D. Owen High School, Buncombe County Schools, NC, 2009-2010
+
 ## Awards & Funding
+
+Significant Contributor (method), Profiles of Science Engagement: Broadening Participation by Understanding Individual and Contextual Influences ($499,927.00), PI: Jennifer Schmidt (Michigan State University)
 
 Delia Koo Global Travel Fellowship ($500), 2017  
 Michigan State University (MSU)  
@@ -349,17 +360,15 @@ APA Advanced Training Institute on Research Methods with Diverse Groups, 2014
 
 ### R packages on Comprehensive R Archive Network (CRAN)
 
-tidyLPA: Interface to MCLUST to perform Latent Profile Analysis in R (w/ J. Schmidt, P. Beymer, & R. Steingut; v. 0.1.0). [https://cran.r-project.org/web/packages/tidyLPA/index.html](https://cran.r-project.org/web/packages/tidyLPA/index.html) <a href = "https://github.com/jrosen48/tidyLPA"><img src="/_media/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
+tidyLPA: Interface to MCLUST to perform Latent Profile Analysis in R (w/ J. Schmidt, P. Beymer, D. J. Anderson, and C. J. van Lissa). [https://cran.r-project.org/web/packages/tidyLPA/index.html](https://cran.r-project.org/web/packages/tidyLPA/index.html) <a href = "https://github.com/jrosen48/tidyLPA"><img src="/_media/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
 konfound: R package to carry out sensitivity analysis (with R. Xu & K. Frank). [https://github.com/jrosen48/konfound](https://github.com/jrosen48/konfound) <a href = "https://github.com/jrosen48/konfound"><img src="/_media/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
-railtrails: Rail trail data for trails in the United States from the Rails-to-Trails Conservancy (v. 0.0.3). CRAN: https://cran.r-project.org/package=railtrails <a href = "https://github.com/jrosen48/railtrails"><img src="/_media/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> [the railtrails data is also available as a [CSV](/_media/data/railtrails.csv)]
+prcr: Person-centered analysis (w/ J. Schmidt, P. Beymer, & R. Steingut). CRAN: [https://cran.r-project.org/web/packages/prcr/index.html](https://cran.r-project.org/web/packages/prcr/index.html) <a href = "https://github.com/jrosen48/prcr"><img src="/_media/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
-prcr: Person-centered analysis (w/ J. Schmidt, P. Beymer, & R. Steingut; v. 0.2.0). CRAN: [https://cran.r-project.org/web/packages/prcr/index.html](https://cran.r-project.org/web/packages/prcr/index.html) <a href = "https://github.com/jrosen48/prcr"><img src="/_media/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
+clustRcompaR: Easy interface for clustering a set of documents and exploring group-based patterns (w/ A. Lishinski). CRAN: [https://cran.r-project.org/web/packages/clustRcompaR/index.html](https://cran.r-project.org/web/packages/clustRcompaR/index.html) <a href = "https://github.com/alishinski/clustRcompaR"><img src="/_media/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
-clustRcompaR: Easy interface for clustering a set of documents and exploring group-based patterns (w/ A. Lishinski; v. 0.2.0). CRAN: [https://cran.r-project.org/web/packages/clustRcompaR/index.html](https://cran.r-project.org/web/packages/clustRcompaR/index.html) <a href = "https://github.com/alishinski/clustRcompaR"><img src="/_media/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
-
-### Web Applications
+### Interactive Web Applications
 
 Konfound-It!: [https://jmichaelrosenberg.shinyapps.io/shinykonfound/](https://jmichaelrosenberg.shinyapps.io/shinykonfound/) <a href = "https://github.com/jrosen48/shinykonfound"><img src="/_media/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
@@ -377,18 +386,18 @@ MSU-AT&T Instructional Technology Award (Honorable Mention): Best Online Course,
 
 Instructor at the University of Tennessee, Knoxville
 
-*Teaching Science in Grades 7-12* (SCED 496, B.S. & M.A. class)
+*Teaching Science in Grades 7-12* (TPTE 495, SCED 496, & SCED 543,  B.S. & M.A. class)
 
 Instructor at Michigan State University:
 
-*Psychology of Learning in School and Other Settings* (CEP 800, M.A. class; taught two courses)  
+*Psychology of Learning in School and Other Settings* (CEP 800, M.A. class)  
 *Approaches to Educational Research* (CEP 822, M.A. class)  
-*Technology and Leadership* (CEP 815, M.A. class, taught seven courses, hybrid or online)  
+*Technology and Leadership* (CEP 815, M.A. class)  
 
 Teaching Assistant at Michigan State University:
 
 *Proseminar in Educational Psychology and Educational Technology* (CEP 900, Ph.D. class)  
-*Proseminar in Educational Technology* (CEP 807 / ED 870, M.A. class, assisted eight courses, online)  
+*Proseminar in Educational Technology* (CEP 807 / ED 870, M.A. class)  
 *Educational Inquiry* (CEP 900, Ph.D. class)  
 *Social-Emotional Development Across the Lifespan* (CEP 904, Ph.D. class)  
 
@@ -412,11 +421,13 @@ Associate Chair, TPACK SIG, Society for Information Technology and Teacher Educa
 
 ### Conference Review Activity
 
-Reviewer, Association for Science Teacher Education, 2019
+Reviewer, National Association for Research in Science Teaching Annual Conference, 2019
+
+Review Panel Member, American Educational Research Association (AERA) Annual Meeting, 2015-2019
+
+Reviewer, Association for Science Teacher Education Annual Conference, 2019
 
 Program Committee Member, International Conference on Computer-Supported Collaborative Learning, 2017  
-
-Review Panel Member, American Educational Research Association (AERA) Annual Meeting, 2015, 2016, 2017, 2019 (Division C - Section 1D: Science; Science Teaching and Learning SIG)
 
 Graduate Student Reviewer, American Educational Research Association (AERA) Annual Meeting, 2014
 
@@ -500,6 +511,8 @@ Rosenberg, J. M. (2012, November). Mobile learning for teachers. Presentation at
 
 ## Consulting
 
+Statistical software development and statistical analysis, Jennifer Schmidt, Michigan State University, 2018-
+
 Statistical software development, 2017  
 Kenneth Frank, Michigan State University
 
@@ -512,8 +525,6 @@ Lara Kassab, San Jose State University
 ## Professional Affiliations
 
 American Educational Research Association, 2012 - Present
-Association for Educational Communications and Technology, 2015 - Present 
 Association for the Advancement of Computing in Education, 2012 - Present  
 Association for Science Teacher Education, 2018 - Present  
-International Society of the Learning Sciences,2014 - Present
 National Association for Research in Science Teaching, 2015 - Present
