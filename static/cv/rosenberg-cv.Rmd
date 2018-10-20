@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Joshua M. Rosenberg
-author: Curriculum Vitae
+author: "Curriculum Vitae"
 permalink: /about/
 output:
   pdf_document: default

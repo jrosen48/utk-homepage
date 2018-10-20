@@ -288,7 +288,7 @@
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>/about-background/</loc>
   </url>
   
   <url>
@@ -345,6 +345,10 @@
   
   <url>
     <loc>/home/</loc>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
   </url>
   
   <url>
