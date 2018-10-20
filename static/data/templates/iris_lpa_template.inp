@@ -1,0 +1,33 @@
+[[init]]
+iterators = classes;
+classes = 1:9;
+filename = "[[classes]]-iris-LPA.inp";
+outputDirectory = "/Users/joshuarosenberg/Dropbox/5_Professional/homepage/source/static/_media/data/";
+[[/init]]
+
+TITLE: iris LPA
+
+DATA:
+	File is iris.dat
+	
+VARIABLE: 
+
+	Names are x1 x2 x3 x4;
+
+	Classes = c([[classes]]) ;
+
+MODEL:
+    
+    %overall%
+    
+    x1 x2 x3 x4; 
+    
+    [x1-x4];
+    
+    %c#%
+            
+ANALYSIS: 
+	Type is mixture;
+            
+OUTPUT:
+	Tech11;
