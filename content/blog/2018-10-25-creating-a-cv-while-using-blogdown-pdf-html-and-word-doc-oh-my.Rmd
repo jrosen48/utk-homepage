@@ -27,7 +27,7 @@ Here's what I did; all of the source files are available [here](https://github.c
 
 # My process
 
-*All of the file locations refer to the source [here](ttps://github.com/jrosen48/utk-homepage)*.
+*All of the file locations refer to the source [here](https://github.com/jrosen48/utk-homepage)*.
 
 1. Treated the file at `content/about-source.md` as the one file in which I wrote (and will update) my CV
 1. Added a file (in a new directory), `r/build.R`, which contains `cv-utils.R`
