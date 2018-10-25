@@ -23,7 +23,7 @@ cv_html <- readLines("content/about.md")
 
 find_yml <- stringr::str_detect(cv_html, "---")
 end_of_yml <- which(find_yml)[2]
-cv_html <- append(cv_html, "PDF version available at http://joshuamrosenberg.com/Rosenberg-CV.pdf", after = end_of_yml)
+cv_html <- append(cv_html, "PDF version available at http://jmichaelrosenberg.com/rosenberg-cv.pdf", after = end_of_yml)
 
 # cv_html <- purrr::map(cv_html, ~ stringr::str_replace_all(., " \\begingroup", ""))
 # cv_html <- purrr::map(cv_html, ~ stringr::str_replace_all(., " \\endgroup", ""))
