@@ -12,12 +12,12 @@
     
     
     <item>
-      <title>Writing a CV in markdown so it can be rendered as HTML, a PDF, and a Word document - a first attempt</title>
+      <title>Writing a CV in markdown so it can be rendered as HTML, a PDF, and a Word document</title>
       <link>/blog/creating-a-cv-while-using-blogdown-pdf-html-and-word-doc-oh-my/</link>
       <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>/blog/creating-a-cv-while-using-blogdown-pdf-html-and-word-doc-oh-my/</guid>
-      <description>My goal: To write a CV in one format and in a way so that it can be rendered in multiple formats I have trying to write my CV once and have it be displayed/rendered as HTML (for this website), a PDF (for sharing), and a Word document (also for sharing - as some folks require it to be in this format).
+      <description>My goal: To write a CV in one format and in a way so that it can be rendered in multiple formats I have been trying to write my CV once and have it be displayed/rendered as HTML (for this website), a PDF (for sharing), and a Word document (also for sharing - as some folks require it to be in this format).
 I have something that seems to work and so thought I would share what I did as a first attempt.</description>
     </item>
     
@@ -624,7 +624,8 @@ Please see my latest updates on my blog or browse through the following pages to
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about-source/</guid>
-      <description>\begingroup \center Assistant Professor, STEM Education
+      <description>\begin{center} \textit{Curriculum Vitae} \end{center}
+\begingroup \center Assistant Professor, STEM Education
 Department of Theory and Practice in Teacher Education
 The University of Tennessee, Knoxville
 420 Claxton, 1122 Volunteer Blvd., Knoxville, TN 37996
@@ -636,8 +637,7 @@ Graduate Certificate, Science Education, 2016
 Michigan State University
 MA, Educational Technology, 2012
 Michigan State University
-BS, Biology, 2010 University of North Carolina, Asheville
-Teacher Licensure Program, 2010</description>
+BS, Biology, 2010 University of North Carolina, Asheville</description>
     </item>
     
     <item>
@@ -647,6 +647,7 @@ Teacher Licensure Program, 2010</description>
       
       <guid>/about/</guid>
       <description>PDF version available at http://jmichaelrosenberg.com/rosenberg-cv.pdf
+Curriculum Vitae
 Assistant Professor, STEM Education
 Department of Theory and Practice in Teacher Education
 The University of Tennessee, Knoxville

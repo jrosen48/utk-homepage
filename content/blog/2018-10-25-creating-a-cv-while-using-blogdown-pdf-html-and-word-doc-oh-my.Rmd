@@ -1,5 +1,5 @@
 ---
-title: 'Writing a CV in markdown so it can be rendered as HTML, a PDF, and a Word document - a first attempt'
+title: 'Writing a CV in markdown so it can be rendered as HTML, a PDF, and a Word document'
 author: ''
 date: '2018-10-25'
 slug: creating-a-cv-while-using-blogdown-pdf-html-and-word-doc-oh-my
@@ -7,13 +7,13 @@ categories: [r, blog]
 tags: [cv]
 ---
 
-# My goal: To write a CV in one format and in a way so that it can be rendered in multiple formats
+## My goal: To write a CV in one format and in a way so that it can be rendered in multiple formats
 
-I have trying to write my CV once and have it be displayed/rendered as HTML (for this website), a PDF (for sharing), and a Word document (also for sharing - as some folks require it to be in this format).
+I have been trying to write my CV once and have it be displayed/rendered as HTML (for this website), a PDF (for sharing), and a Word document (also for sharing - as some folks require it to be in this format).
 
 I have something that seems to work and so thought I would share what I did as a first attempt. In part, I hoped doing so would spark other folks sharing better ways (or suggesting improvements to me).
 
-Just as a sidenote, using [blogdown](https://bookdown.org/yihui/blogdown/) to create my website was essential
+Just as a sidenote, using [blogdown](https://bookdown.org/yihui/blogdown/) to create my website was essential.
 
 # The results
 
@@ -29,9 +29,9 @@ Here's what I did; all of the source files are available [here](https://github.c
 
 *All of the file locations refer to the source [here](ttps://github.com/jrosen48/utk-homepage)*.
 
-- Treated the file at `content/about-source.md` as the one file in which I wrote (and will update) my CV
-- Added a file (in a new directory), `r/build.R`, which contains `cv-utils.R`
-- This script (`cv-utils.R` does most of the work:
+1. Treated the file at `content/about-source.md` as the one file in which I wrote (and will update) my CV
+1. Added a file (in a new directory), `r/build.R`, which contains `cv-utils.R`
+1. This script (`cv-utils.R`) does most of the work:
     - copies `content/about-source.md` to `static/cv` with the name (and file type) changed to `rosenberg-cv.Rmd` (and which)
     - reads `content/about-source.md`
         - then removes the LaTeX tags 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Joshua M. Rosenberg
-author: Curriculum Vitae
+author: ""
 permalink: /about/
 output:
   pdf_document: default
@@ -10,6 +10,10 @@ output:
   html_document:
     keep_md: no
 ---
+
+\begin{center}
+\textit{Curriculum Vitae}
+\end{center}
 
 \begingroup
 \center
@@ -39,16 +43,12 @@ University of North Carolina, Asheville
 
 ## Professional Experience
 
-Assistant Professor, STEM Education, 2018  
-Department of Theory and Practice in Teacher Education     
+Assistant Professor, STEM Education, 2018-
 University of Tennessee, Knoxville  
 
 ## Publications
 
 ### Peer-Reviewed Journal Articles
-
-\hangindent=2em
-Rosenberg, J. M., Beymer, P. N., Anderson, D. J., & Schmidt, J. A. (2018). tidyLPA: An R Package to Easily Carry Out Latent Profile Analysis (LPA) Using Open-Source or Commercial Software. *Journal of Open Source Software, 3*(30), 978, https://doi.org/10.21105/joss.00978
 
 \hangindent=2em
 Greenhalgh, S. P., Staudt Willet, K. B., Rosenberg, J. M., & Koehler, M. J. (2018). Tweet, and we shall find: Using digital methods to locate participants in educational hashtags. *TechTrends, 62*(5), 501-508. https://doi.org/10.1007/s11528-018-0313-6 <a href = "https://bretsw.github.io/files/Greenhalgh_StaudtWillet_Rosenberg_Koehler_preprint.pdf"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
@@ -84,87 +84,127 @@ Rosenberg, J. M., Terry, C. A., Bell, J., Hiltz, V., & Russo, T. (2016). Design 
 \hangindent=2em
 Rosenberg, J. M., & Koehler, M. J. (2015). Context and Technological Pedagogical Content Knowledge (TPACK): A systematic review. *Journal of Research on Technology in Education, 47*, 186-210. http://dx.doi.org/10.1080/15391523.2015.1052663 <a href = "/pre-prints/rosenberg-koehler-2015-jrte.pdf"><img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
+### Peer-Reviewed Journal Articles (Software-Related)
+
+\hangindent=2em
+Rosenberg, J. M., Beymer, P. N., Anderson, D. J., & Schmidt, J. A. (2018). tidyLPA: An R package to easily carry out Latent Profile Analysis (LPA) using open-source or commercial software. *Journal of Open Source Software, 3*(30), 978, https://doi.org/10.21105/joss.00978
+
 ### Book Chapters
 
 \hangindent=2em
-Eidelman, R., Rosenberg, J. M. ,& Shwartz, Y. (invited publication). E-Learning in chemistry education: Self-regulated learning in a virtual classroom. In D. Ifenthaler, M. Spector, P. Isafas, & S. Sergis (Eds), Learning technologies for transforming teaching, learning and assessment at large scale. Berlin, Germany: Springer.  
+Eidelman, R., Rosenberg, J. M. ,& Shwartz, Y. (in press). E-Learning in chemistry education: Self-regulated learning in a virtual classroom. In D. Ifenthaler, M. Spector, P. Isafas, & S. Sergis (Eds), *Learning technologies for transforming teaching, learning and assessment at large scale*. Berlin, Germany: Springer.  
 
 \hangindent=2em
-Herring, M., Koehler, M. J., Mishra, P., Rosenberg, J. M., & Teske, J. (2016). Introduction to the 2nd edition of the TPACK handbook. Handbook of Technological Pedagogical Content Knowledge (TPACK) for educators (2nd ed.). In M. Herring, M. J. Koehler, & P. Mishra (Eds.), Handbook of Technological Pedagogical Content Knowledge (TPACK) for educators (2nd ed., pp. 1-8). New York, NY: Routledge. 
+Herring, M., Koehler, M. J., Mishra, P., Rosenberg, J. M., & Teske, J. (2016). Introduction to the 2nd edition of the TPACK handbook. In M. Herring, M. J. Koehler, & P. Mishra (Eds.), *Handbook of Technological Pedagogical Content Knowledge (TPACK) for educators* (2nd ed., pp. 1-8). New York, NY: Routledge. 
 
 \hangindent=2em
-Keenan, S., Rosenberg, J. M., Greenhalgh, S. P. & Koehler, M. J. (2016). Examining teachers’ technology use through digital portfolios. In L. Liu & D. C. Gibson (Eds.), Research highlights in technology and teacher education 2016 (pp. 53-60). Chesapeake, VA: Association for the Advancement of Computing in Education. [Invited reprint of conference presentation in edited book]
+Keenan, S., Rosenberg, J. M., Greenhalgh, S. P. & Koehler, M. J. (2016). Examining teachers’ technology use through digital portfolios. In L. Liu & D. C. Gibson (Eds.), *Research highlights in technology and teacher education 2016* (pp. 53-60). Chesapeake, VA: Association for the Advancement of Computing in Education. [Invited reprint of conference presentation in edited book]
 
 \hangindent=2em
-Phillips, M., Koehler, M. J. & Rosenberg, J. M. (2016). Considering context: Teachers' TPACK development and enactment. In L. Liu & D. C. Gibson (Eds.), Research highlights in technology and teacher education (pp. 197-204). Chesapeake, VA: Association for the Advancement of Computing in Education. [Invited reprint of conference presentation in edited book]
+Phillips, M., Koehler, M. J. & Rosenberg, J. M. (2016). Considering context: Teachers' TPACK development and enactment. In L. Liu & D. C. Gibson (Eds.), *Research highlights in technology and teacher education* (pp. 197-204). Chesapeake, VA: Association for the Advancement of Computing in Education. [Invited reprint of conference presentation in edited book]
 
 \hangindent=2em
-Rosenberg, J. M., & Koehler, M. J. (2015). Context and teaching with technology in the digital age. In M.L. Niess & H. Gillow-Wiles (Eds.), Handbook of research on teacher education in the digital age (pp. 440-465). Hershey, PA: IGI Global. 
+Rosenberg, J. M., & Koehler, M. J. (2015). *Context and teaching with technology in the digital age*. In M.L. Niess & H. Gillow-Wiles (Eds.), Handbook of research on teacher education in the digital age (pp. 440-465). Hershey, PA: IGI Global. 
 
 \hangindent=2em
-Rosenberg, J. M., Greenhalgh, S. P., & Koehler, M. J. (2015). A performance assessment of teachers’ TPACK using artifacts from digital portfolios. In L. Liu & D. C. Gibson, Research highlights in technology and teacher education 2015. Waynesville, NC: Association for the Advancement of Computing in Education (AACE). [Invited reprint of conference presentation in edited book]
+Rosenberg, J. M., Greenhalgh, S. P., & Koehler, M. J. (2015). A performance assessment of teachers’ TPACK using artifacts from digital portfolios. In L. Liu & D. C. Gibson, *Research highlights in technology and teacher education 2015*. Waynesville, NC: Association for the Advancement of Computing in Education (AACE). [Invited reprint of conference presentation in edited book]
 
 \hangindent=2em
-Koehler, M. J., Mishra, P., Akcaoglu, M., & Rosenberg, J. M. (2013). Technological pedagogical content knowledge for teachers and teacher educators. In N. Bharati and S. Mishra (Eds.), ICT integrated teacher education: A resource book (pp. 1-8). Commonwealth Educational Media Center for Asia, New Delhi, India.
+Koehler, M. J., Mishra, P., Akcaoglu, M., & Rosenberg, J. M. (2013). Technological pedagogical content knowledge for teachers and teacher educators. In N. Bharati and S. Mishra (Eds.), *ICT integrated teacher education: A resource book* (pp. 1-8). Commonwealth Educational Media Center for Asia, New Delhi, India.
 
 ### Other (Editor-reviewed) Publications
 
 \hangindent=2em
-Rosenberg, J. M. (invited publication). Engaging students in “data practices” in online science classes: Opportunities, challenges, and recommendations. Michigan Virtual Learning Research Institute Blog: Research, Policy, Innovation & Networks.
+Vo, T., & Rosenberg, J. M. (2018). Four posts on the academic job search in science education. *NARST Graduate Student Resources Blog*. https://narstgradresources.blogspot.com/2018/09/part-4-interviewing-and-negotiating-for.html
+\hangindent=2em
+Rosenberg, J. M. (2018). Opportunities for engaging students in “data practices” in online science classes: Opportunities, challenges, and recommendations. *Michigan Virtual Learning Research Institute Blog: Research, Policy, Innovation & Networks*. https://mvlri.org/blog/opportunities-engaging-students-data-practices-online-science-classes/
 
 \hangindent=2em
-Rosenberg, J. M., & Logan, C. W. (2017). Review of the book What’s Worth Teaching: Rethinking Curriculum in the Age of Technology, by A. Collins. Teachers College Record. http://www.tcrecord.org/Content.asp?ContentID=22173
+Rosenberg, J. M., & Logan, C. W. (2017). Review of the book What’s Worth Teaching: Rethinking Curriculum in the Age of Technology, by A. Collins. *Teachers College Record*. http://www.tcrecord.org/Content.asp?ContentID=22173
 
 \hangindent=2em
-Phillips, M., Harris, J., Rosenberg, J. M., & Koehler, M. J. (2017). TPCK/TPACK research and development: Past, present, and future directions. Australasian Journal of Educational Technology. https://doi.org/10.14742/ajet.3907
+Phillips, M., Harris, J., Rosenberg, J. M., & Koehler, M. J. (2017). TPCK/TPACK research and development: Past, present, and future directions. *Australasian Journal of Educational Technology*. https://doi.org/10.14742/ajet.3907
 
 \hangindent=2em
-Rosenberg, J. M., & Ranellucci, J. (2017). Student motivation in online science courses: A path to spending more time on course and higher achievement. Michigan Virtual Learning Research Institute Blog: Research, Policy, Innovation & Networks. Retrieved from https://mvlri.org/blog/student-motivation-in-online-science-courses-a-path-to-spending-more-time-on-course-and-higher-achievement/
+Rosenberg, J. M., & Ranellucci, J. (2017). Student motivation in online science courses: A path to spending more time on course and higher achievement. *Michigan Virtual Learning Research Institute Blog: Research, Policy, Innovation & Networks*. https://mvlri.org/blog/student-motivation-in-online-science-courses-a-path-to-spending-more-time-on-course-and-higher-achievement/
 
 ### Conference Proceedings Papers
 
 \hangindent=2em
-Krist, C., & Rosenberg, J. M. (2016). Finding patterns in and refining characterizations of students’ epistemic cognition: A computational approach. In Looi, C.-K., Polman, J., Cress, U., & Reimann, P. (Eds.), Transforming Learning, Empowering Learners: The International Conference of the Learning Sciences Proceedings 2016 (Vol. 2, pp. 1223-1224). Singapore, Singapore: ICLS. 
+Krist, C., & Rosenberg, J. M. (2016). Finding patterns in and refining characterizations of students’ epistemic cognition: A computational approach. In Looi, C.-K., Polman, J., Cress, U., & Reimann, P. (Eds.), *Transforming Learning, Empowering Learners: The International Conference of the Learning Sciences Proceedings* 2016 (Vol. 2, pp. 1223-1224). Singapore, Singapore: ICLS. 
 
-\hangindent=2ems
-Phillips, M., Koehler, M. J. & Rosenberg, J. M. (2016). Looking outside the circles: Considering the contexts influencing TPACK development and enactment. In Proceedings of Society for Information Technology & Teacher Education International Conference 2016 (pp. 3029-3036). Chesapeake, VA: Association for the Advancement of Computing in Education. Retrieved from http://www.editlib.org/p/172122
+\hangindent=2em
+Phillips, M., Koehler, M. J. & Rosenberg, J. M. (2016). Looking outside the circles: Considering the contexts influencing TPACK development and enactment. In *Proceedings of Society for Information Technology & Teacher Education International Conference 2016* (pp. 3029-3036). Chesapeake, VA: Association for the Advancement of Computing in Education. Retrieved from http://www.editlib.org/p/172122
  
  \hangindent=2em
-Rosenberg, J. M., Koehler, M. J., Akcaoglu, M., Greenhalgh, S. P. & Hamilton, E. (2016). State Educational Twitter Hashtags: An introduction and research agenda. In Proceedings of Society for Information Technology & Teacher Education International Conference 2016 (pp. 355-360). Chesapeake, VA: Association for the Advancement of Computing in Education. Retrieved from http://www.editlib.org/p/171698
+Rosenberg, J. M., Koehler, M. J., Akcaoglu, M., Greenhalgh, S. P. & Hamilton, E. (2016). State Educational Twitter Hashtags: An introduction and research agenda. In *Proceedings of Society for Information Technology & Teacher Education International Conference 2016* (pp. 355-360). Chesapeake, VA: Association for the Advancement of Computing in Education. Retrieved from http://www.editlib.org/p/171698
  
 \hangindent=2em
-Greenhalgh, S. P., Rosenberg, J. M. & Wolf, L. G. (2016). For every tweet there is a purpose: Twitter within (and beyond) an online graduate program. In Proceedings of Society for Information Technology & Teacher Education International Conference 2016 (pp. 2044-2049). Chesapeake, VA: Association for the Advancement of Computing in Education (AACE). Retrieved from http://www.editlib.org/p/171972
+Greenhalgh, S. P., Rosenberg, J. M. & Wolf, L. G. (2016). For every tweet there is a purpose: Twitter within (and beyond) an online graduate program. In *Proceedings of Society for Information Technology & Teacher Education International Conference 2016* (pp. 2044-2049). Chesapeake, VA: Association for the Advancement of Computing in Education (AACE). Retrieved from http://www.editlib.org/p/171972
  
 \hangindent=2em
-Keenan, S., Rosenberg, J. M., Greenhalgh, S. P. & Koehler, M. J. (2016). Examining teachers’ technology use through digital portfolios. In Proceedings of Society for Information Technology & Teacher Education International Conference 2016 (pp. 1084-1091). Chesapeake, VA: Association for the Advancement of Computing in Education (AACE). Retrieved from http://www.editlib.org/p/171824
+Keenan, S., Rosenberg, J. M., Greenhalgh, S. P. & Koehler, M. J. (2016). Examining teachers’ technology use through digital portfolios. In *Proceedings of Society for Information Technology & Teacher Education International Conference 2016* (pp. 1084-1091). Chesapeake, VA: Association for the Advancement of Computing in Education (AACE). Retrieved from http://www.editlib.org/p/171824
 
 \hangindent=2em
-Rosenberg, J. M., Greenhalgh, S. P. & Koehler, M. J. (2015). A performance assessment of teachers’ TPACK using artifacts from digital portfolios. In D. Slykhuis & G. Marks (Eds.), Proceedings of Society for Information Technology & Teacher Education International Conference 2015 (pp. 3390-3397). Chesapeake, VA: Association for the Advancement of Computing in Education (AACE). Retrieved from http://www.editlib.org/p/150472
+Rosenberg, J. M., Greenhalgh, S. P. & Koehler, M. J. (2015). A performance assessment of teachers’ TPACK using artifacts from digital portfolios. In D. Slykhuis & G. Marks (Eds.), *Proceedings of Society for Information Technology & Teacher Education International Conference 2015* (pp. 3390-3397). Chesapeake, VA: Association for the Advancement of Computing in Education (AACE). Retrieved from http://www.editlib.org/p/150472
 
 \hangindent=2em
-Schwarz, C. V., Ke, L., Lee, M, & Rosenberg, J. M. (2014). Developing mechanistic explanations of phenomena: Case studies of two fifth grade students’ epistemologies in practice over time. In J. L. Polman, E. A. Kyza, K. O’Neill, I. Tabak, W. R. Penuel, A. S. Jurow, . . . L. D’Amico (Eds.), Learning and becoming in practice: The international conference of the learning sciences (ICLS) 2014 (Vol. 1, pp. 182-189). Boulder, CO: ISLS. http://www.isls.org/icls2014/Proceedings.html
+Schwarz, C. V., Ke, L., Lee, M, & Rosenberg, J. M. (2014). Developing mechanistic explanations of phenomena: Case studies of two fifth grade students’ epistemologies in practice over time. In J. L. Polman, E. A. Kyza, K. O’Neill, I. Tabak, W. R. Penuel, A. S. Jurow, . . . L. D’Amico (Eds.), *Learning and becoming in practice: The international conference of the learning sciences (ICLS) 2014* (Vol. 1, pp. 182-189). Boulder, CO: ISLS. http://www.isls.org/icls2014/Proceedings.html
 
 \hangindent=2em
-Rosenberg, J. M., & Koehler, M. (2014). Context and Technological Pedagogical Content Knowledge: A content analysis. In M. Searson & M. Ochoa (Eds.), Proceedings of Society for Information Technology & Teacher Education International Conference 2014 (pp. 2412-2417). Chesapeake, VA: AACE. Retrieved from http://www.editlib.org/p/131183
+Rosenberg, J. M., & Koehler, M. (2014). Context and Technological Pedagogical Content Knowledge: A content analysis. In M. Searson & M. Ochoa (Eds.), *Proceedings of Society for Information Technology & Teacher Education International Conference 2014* (pp. 2412-2417). Chesapeake, VA: AACE. Retrieved from http://www.editlib.org/p/131183
 
 \hangindent=2em
-Greenhalgh, S. P., Rosenberg, J. M., Zellner, A. & Koehler, M. J. (2014). Zen and the art of portfolio maintenance: Best practices in course design for supporting long-lasting portfolios. In M. Searson & M. Ochoa (Eds.), Proceedings of Society for Information Technology & Teacher Education International Conference 2014 (pp. 1604-1610). Chesapeake, VA: AACE. Retrieved from http://www.editlib.org/p/131027
+Greenhalgh, S. P., Rosenberg, J. M., Zellner, A. & Koehler, M. J. (2014). Zen and the art of portfolio maintenance: Best practices in course design for supporting long-lasting portfolios. In M. Searson & M. Ochoa (Eds.), *Proceedings of Society for Information Technology & Teacher Education International Conference 2014* (pp. 1604-1610). Chesapeake, VA: AACE. Retrieved from http://www.editlib.org/p/131027
  
 \hangindent=2em
-Rosenberg, J., Terry, C., Bell, J., Hiltz, V., Russo, T. & The EPET Social Media Council (2014). What we’ve got here is failure to communicate: Social media best practices for graduate school programs. In M. Searson & M. Ochoa (Eds.), Proceedings of Society for Information Technology & Teacher Education International Conference 2014 (pp. 1210-1215). Chesapeake, VA: AACE. Retrieved from http://www.editlib.org/p/130949
+Rosenberg, J., Terry, C., Bell, J., Hiltz, V., Russo, T. & The EPET Social Media Council (2014). What we’ve got here is failure to communicate: Social media best practices for graduate school programs. In M. Searson & M. Ochoa (Eds.), *Proceedings of Society for Information Technology & Teacher Education International Conference 2014* (pp. 1210-1215). Chesapeake, VA: AACE. Retrieved from http://www.editlib.org/p/130949
 
 \hangindent=2em
-Rosenberg, J. (2013). Review of mobile device use policies in public high schools. In R. McBride & M. Searson (Eds.), Proceedings of Society for Information Technology & Teacher Education International Conference 2013 (pp. 3774-3779). Chesapeake, VA: AACE. Retrieved from http://www.editlib.org/p/48698
+Rosenberg, J. (2013). Review of mobile device use policies in public high schools. In R. McBride & M. Searson (Eds.), *Proceedings of Society for Information Technology & Teacher Education International Conference 2013* (pp. 3774-3779). Chesapeake, VA: AACE. Retrieved from http://www.editlib.org/p/48698
 
 ### Unpublished Manuscript
 
 \hangindent=2em
 Rosenberg, J. M. (2018). *Understanding work with data in summer STEM programs: An experience sampling method approach* (Doctoral dissertation). Retrieved from Proquest Dissertations and Theses. (Proquest No. 10747232) <a href = "/publications/Rosenberg-2018-Dissertation.pdf"><img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
+## Grants & Fellowships
+
+2017-2020, Significant Contributor (method), Profiles of science engagement: Broadening participation by understanding individual and contextual influences ($499,927), National Science Foundation, PI: Jennifer Schmidt
+
+2018-2019, Co-PI, Exploring how beginning elementary mathematics teachers seek out resources through social media ($8,820), Herman and Rasiej Math Initiative at the University of Southern California (PI: Stephen Aguilar; Co-PIs: Christian Fischer and Spencer Greenhalgh; Co-I: Michael Lawson)
+
+2017, Delia Koo Global Travel Fellowship ($500), Michigan State University (MSU)
+
+2017, Michigan Virtual Learning Research Institute Dissertation Fellowship ($1,500)
+
+2017, Concord Consortium Data Science Educational Technology Fellowship ($1,000)
+
+2017, Research Expenses Fellowship ($3,250), MSU
+
+2016, College of Education Alumni Fellowship ($5,500), MSU
+
+2015, Cotterman Family Endowment for Education Summer Research Fellowship ($6,000), MSU
+
+2013, Versal Foundation Grant, Basic Biology for Everyone ($2000), Versal, 2013
+
+2013, Massive Open Online Course Research and Development Fellowship ($1,000), MSU
+
+## Awards
+
+2017, Council of Graduate Students Disciplinary Leadership Award ($2,000), MSU
+
+2016, Best Paper Award, TPACK SIG, SITE International Conference
+
+2014, Outstanding Paper Award, Society for Information Technology and Teacher Education International Conference
+
 ### Peer-Reviewed Conference Presentations
 
 \hangindent=2em
 Rosenberg, J. M., & Reid, J. (2019, January). The roles of the Twitter hashtag #NGSSchat in the context of science education reform efforts. Paper to be presented at the Association for Science Teacher Education International Meeting. Savannah, GA.
+
+\hangindent=2em
+Akcaoglu, M., Hodges, C. B., Rosenberg, J. M., & Hilpert, J. (2018, October). Factors impacting middle school students' interest, efficacy, and utility value of programming. Paper presented at the Association for Educational Communications and Technology (AECT) International Convention 2018. Kansas City, MO.
 
 \hangindent=2em
 Staudt Willet, K. B., Greenhalgh, S. P., Rosenberg, J. M., Koehler, M. J. (2018, October). Won’t you be my neighbor? How education stakeholders use hyperlinks to build information neighborhoods on Twitter. Paper to be presented at the Association for Educational Communications and Technology (AECT) International Convention 2018. Kansas City, MO.
@@ -238,7 +278,7 @@ Nyland, R., Greenhalgh, S. P., Rosenberg, J. M., Koehler, M. J., Veletsianos, G.
 \hangindent=2em
 Rosenberg, J. M., Greenhalgh, S. P., & Wolf, L. G. (2016, October). Participating from near and far: Analyzing online graduate learning communities with social network analysis. Paper presented at the Association for Educational Communications and Technology International Convention 2016, Las Vegas, NV.
 
-\hangindent=2ems
+\hangindent=2em
 Rosenberg, J. M. (2016, October). Having agency in conditions that are not equitable: An examination of Donors Choose data. Paper presented at the Association for Educational Communications and Technology International Convention 2016, Las Vegas, NV.
 
 \hangindent=2em
@@ -315,39 +355,6 @@ Koehler, M. J., Rosenberg, J. M., Greenhalgh, S., Zellner, A. L., & Mishra, P. (
 \hangindent=2em
 Rosenberg, J. M. (March, 2016). An introduction to R for programming and statistical analysis in education. Georgia Southern University College of Education, Statesboro, GA.
 
-# Related Experience
-
-High School Science Teacher (Biology and Earth Science), Shelby High School, Cleveland County Schools, NC, 2010-2012
-
-High School Science Teacher Intern (Biology and Chemistry), C.D. Owen High School, Buncombe County Schools, NC, 2009-2010
-
-## Awards & Funding
-
-Significant Contributor (method), Profiles of Science Engagement: Broadening Participation by Understanding Individual and Contextual Influences ($499,927.00), PI: Jennifer Schmidt (Michigan State University)
-
-Delia Koo Global Travel Fellowship ($500), 2017  
-Michigan State University (MSU)  
-
-Michigan Virtual Learning Research Institute Dissertation Fellowship ($1,500), 2017
-
-Concord Consortium Data Science Educational Technology Travel Stipend ($1,000), 2017
-
-Council of Graduate Students Disciplinary Leadership Award ($2,000), MSU, 2017
-
-Research Expenses Fellowship ($3,250), MSU, 2017
-
-College of Education Alumni Fellowship ($5,500), MSU, 2016
-
-Best Paper Award, TPACK SIG, SITE International Conference, 2016
-
-Cotterman Family Endowment for Education Summer Research Fellowship ($6,000), MSU, 2015
-
-Outstanding Paper Award, Society for Information Technology and Teacher Education International Conference, 2014
-
-Versal Foundation Grant, Basic Biology for Everyone ($2000), Versal, 2013
-
-Massive Open Online Course Research and Development Fellowship ($1,000), MSU, 2013
-
 ## Competitive Research Training
 
 AERA Division C Graduate Student Seminar, 2016
@@ -360,7 +367,7 @@ APA Advanced Training Institute on Research Methods with Diverse Groups, 2014
 
 ### R packages on Comprehensive R Archive Network (CRAN)
 
-tidyLPA: Interface to MCLUST to perform Latent Profile Analysis in R (w/ J. Schmidt, P. Beymer, D. J. Anderson, and C. J. van Lissa). [https://cran.r-project.org/web/packages/tidyLPA/index.html](https://cran.r-project.org/web/packages/tidyLPA/index.html) <a href = "https://github.com/jrosen48/tidyLPA"><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
+tidyLPA: Easily carry out Latent Profile Analysis (LPA) using open-source and commercial software (w/ J. Schmidt, P. Beymer, D. J. Anderson, and C. J. van Lissa). [https://cran.r-project.org/web/packages/tidyLPA/index.html](https://cran.r-project.org/web/packages/tidyLPA/index.html) <a href = "https://github.com/jrosen48/tidyLPA"><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
 konfound: R package to carry out sensitivity analysis (with R. Xu & K. Frank). [https://github.com/jrosen48/konfound](https://github.com/jrosen48/konfound) <a href = "https://github.com/jrosen48/konfound"><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
@@ -377,6 +384,8 @@ State Educational Twitter Hashtags (SETHs): [https://jmichaelrosenberg.shinyapps
 ## Teaching
 
 ### Teaching Awards
+
+**Michigan State University**
 
 MSU-AT&T Instructional Technology Award: Best Online Course, 2014
 
@@ -407,7 +416,7 @@ Teaching Assistant at Michigan State University:
 
 Special Issue Editor, Australasian Journal of Educational Technology, 2017
 
-Editorial Review Board Member, Journal of Research on Technology in Education (2016: 1 paper reviewed; 2017: 3 paper reviewed; 2018: 2 papers reviewed), 2016 - Present
+Editorial Review Board Member, Journal of Research on Technology in Education, 2016 - Present
 
 ### Service to Profession
 
@@ -446,6 +455,8 @@ Computers & Education, British Journal of Educational Technology, E-Learning and
 Contemporary Issues in Technology and Teacher Education, 2015
 
 ### Departmental Service 
+
+**Michigan State University**
 
 Member of two practicum committees for Educational Psychology and Educational Technology program Ph.D. students, Michigan State University, 2014-2018
 
@@ -508,6 +519,12 @@ Rosenberg, J. M., Rapa, L., & Wolf, L. G. (2013, February). CEP 815 and the tran
 
 \hangindent=2em
 Rosenberg, J. M. (2012, November). Mobile learning for teachers. Presentation at the Michigan State University Educational Technology Conference, East Lansing, MI. 
+
+## Related Experience
+
+High School Science Teacher (Biology and Earth Science), Shelby High School, Shelby, NC, 2010-2012
+
+High School Science Teacher Intern (Biology and Chemistry), C.D. Owen High School, Swannanoa, NC, 2009-2010
 
 ## Consulting
 
