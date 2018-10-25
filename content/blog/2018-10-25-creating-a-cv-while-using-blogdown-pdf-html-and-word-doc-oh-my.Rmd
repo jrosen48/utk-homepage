@@ -1,8 +1,11 @@
-This is my homepage. 
-
-# CV 
-
-Here is a bit of information about how I use my homepage to create a CV.
+---
+title: 'Writing a CV in markdown so it can be rendered as HTML (via blogdown), a PDF, and a Word document: A first attempt`
+author: ''
+date: '2018-10-25'
+slug: creating-a-cv-while-using-blogdown-pdf-html-and-word-doc-oh-my
+categories: [r, blog]
+tags: [cv]
+---
 
 # My goal: To write a CV in one format and in a way so that it can be rendered in multiple formats
 
@@ -36,3 +39,11 @@ Here's what I did; all of the source files are available [here](https://github.c
         - but with a line added after the front matter with a link to the PDF version
         - and with the result being saved to `content/about.md` to serve as basis for the HTML file rendered with that file name (i.e., the file [here](https://www.joshuamrosenberg.com/about/)
         
+That's basically it. It's a bit clunky; but, it seems to mostly work.
+        
+## To do
+
+For the CV to be (more) useful in Word document format, there is a change/improvement that need to be made:
+
+- Need to center the contact information at the beginning of the file
+
