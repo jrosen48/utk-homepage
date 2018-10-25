@@ -1,5 +1,5 @@
 ---
-title: 'Writing a CV in markdown so it can be rendered as HTML (via blogdown), a PDF, and a Word document: A first attempt`
+title: 'Writing a CV in markdown so it can be rendered as HTML, a PDF, and a Word document - a first attempt'
 author: ''
 date: '2018-10-25'
 slug: creating-a-cv-while-using-blogdown-pdf-html-and-word-doc-oh-my
@@ -12,6 +12,8 @@ tags: [cv]
 I have trying to write my CV once and have it be displayed/rendered as HTML (for this website), a PDF (for sharing), and a Word document (also for sharing - as some folks require it to be in this format).
 
 I have something that seems to work and so thought I would share what I did as a first attempt. In part, I hoped doing so would spark other folks sharing better ways (or suggesting improvements to me).
+
+Using [blogdown](https://bookdown.org/yihui/blogdown/) to create my website was essential. 
 
 # The results
 

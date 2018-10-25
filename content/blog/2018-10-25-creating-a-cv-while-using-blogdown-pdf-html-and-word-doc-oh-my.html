@@ -1,0 +1,57 @@
+---
+title: 'Writing a CV in markdown so it can be rendered as HTML, a PDF, and a Word document - a first attempt'
+author: ''
+date: '2018-10-25'
+slug: creating-a-cv-while-using-blogdown-pdf-html-and-word-doc-oh-my
+categories: [r, blog]
+tags: [cv]
+---
+
+
+
+<div id="my-goal-to-write-a-cv-in-one-format-and-in-a-way-so-that-it-can-be-rendered-in-multiple-formats" class="section level1">
+<h1>My goal: To write a CV in one format and in a way so that it can be rendered in multiple formats</h1>
+<p>I have trying to write my CV once and have it be displayed/rendered as HTML (for this website), a PDF (for sharing), and a Word document (also for sharing - as some folks require it to be in this format).</p>
+<p>I have something that seems to work and so thought I would share what I did as a first attempt. In part, I hoped doing so would spark other folks sharing better ways (or suggesting improvements to me).</p>
+<p>Using <a href="https://bookdown.org/yihui/blogdown/">blogdown</a> to create my website was essential.</p>
+</div>
+<div id="the-results" class="section level1">
+<h1>The results</h1>
+<p>Here’s what I did; all of the source files are available <a href="https://github.com/jrosen48/utk-homepage">here</a>; the final versions are available in the following formats from different URLs:</p>
+<ul>
+<li><p>HTML: <a href="https://www.joshuamrosenberg.com/">https://www.joshuamrosenberg.com/</a></p></li>
+<li><p>PDF: <a href="https://www.joshuamrosenberg.com/rosenberg-cv.pdf">https://www.joshuamrosenberg.com/rosenberg-cv.pdf</a></p></li>
+<li><p>Word (.docx): <a href="https://www.joshuamrosenberg.com/cv/rosenberg-cv.docx">https://www.joshuamrosenberg.com/cv/rosenberg-cv.docx</a></p></li>
+</ul>
+</div>
+<div id="my-process" class="section level1">
+<h1>My process</h1>
+<p><em>All of the file locations refer to the source <a href="ttps://github.com/jrosen48/utk-homepage">here</a></em>.</p>
+<ul>
+<li>Treated the file at <code>content/about-source.md</code> as the one file in which I wrote (and will update) my CV</li>
+<li>Added a file (in a new directory), <code>r/build.R</code>, which contains <code>cv-utils.R</code></li>
+<li>This script (<code>cv-utils.R</code> does most of the work:
+<ul>
+<li>copies <code>content/about-source.md</code> to <code>static/cv</code> with the name (and file type) changed to <code>rosenberg-cv.Rmd</code> (and which)</li>
+<li>reads <code>content/about-source.md</code>
+<ul>
+<li>then removes the LaTeX tags</li>
+<li>writes the file to to <code>static/cv</code> with the name (and file type) changed to <code>rosenberg-cv.Rmd</code></li>
+<li>and renders the Word document using <code>Rosenberg-CV-template.docx</code> as the document template (created by using the “Incremental style editing” described <a href="https://rmarkdown.rstudio.com/articles_docx.html">here</a>)</li>
+</ul></li>
+<li>does essentially the steps taken to render the Word document <em>again</em> to render the HTML version
+<ul>
+<li>but with a line added after the front matter with a link to the PDF version</li>
+<li>and with the result being saved to <code>content/about.md</code> to serve as basis for the HTML file rendered with that file name (i.e., the file <a href="https://www.joshuamrosenberg.com/about/">here</a></li>
+</ul></li>
+</ul></li>
+</ul>
+<p>That’s basically it. It’s a bit clunky; but, it seems to mostly work.</p>
+<div id="to-do" class="section level2">
+<h2>To do</h2>
+<p>For the CV to be (more) useful in Word document format, there is a change/improvement that need to be made:</p>
+<ul>
+<li>Need to center the contact information at the beginning of the file</li>
+</ul>
+</div>
+</div>

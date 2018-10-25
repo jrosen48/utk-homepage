@@ -6,10 +6,20 @@
     <description>Recent content in Blogs on Joshua M. Rosenberg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Writing a CV in markdown so it can be rendered as HTML, a PDF, and a Word document - a first attempt</title>
+      <link>/blog/creating-a-cv-while-using-blogdown-pdf-html-and-word-doc-oh-my/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/creating-a-cv-while-using-blogdown-pdf-html-and-word-doc-oh-my/</guid>
+      <description>My goal: To write a CV in one format and in a way so that it can be rendered in multiple formats I have trying to write my CV once and have it be displayed/rendered as HTML (for this website), a PDF (for sharing), and a Word document (also for sharing - as some folks require it to be in this format).
+I have something that seems to work and so thought I would share what I did as a first attempt.</description>
+    </item>
     
     <item>
       <title>Presentation on Data Science Education Dilemmas (and Opportunities)</title>
