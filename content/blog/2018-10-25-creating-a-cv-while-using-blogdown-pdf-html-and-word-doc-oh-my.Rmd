@@ -13,13 +13,13 @@ I have trying to write my CV once and have it be displayed/rendered as HTML (for
 
 I have something that seems to work and so thought I would share what I did as a first attempt. In part, I hoped doing so would spark other folks sharing better ways (or suggesting improvements to me).
 
-Using [blogdown](https://bookdown.org/yihui/blogdown/) to create my website was essential. 
+Just as a sidenote, using [blogdown](https://bookdown.org/yihui/blogdown/) to create my website was essential
 
 # The results
 
 Here's what I did; all of the source files are available [here](https://github.com/jrosen48/utk-homepage); the final versions are available in the following formats from different URLs:
 
-- HTML: [https://www.joshuamrosenberg.com/](https://www.joshuamrosenberg.com/)
+- HTML: [https://www.joshuamrosenberg.com/](https://www.joshuamrosenberg.com/about/)
 
 - PDF: [https://www.joshuamrosenberg.com/rosenberg-cv.pdf](https://www.joshuamrosenberg.com/rosenberg-cv.pdf) 
 
@@ -45,7 +45,8 @@ That's basically it. It's a bit clunky; but, it seems to mostly work.
         
 ## To do
 
-For the CV to be (more) useful in Word document format, there is a change/improvement that need to be made:
+For the CV to be (more) useful in Word document and HTML format, there is a change/improvement that need to be made:
 
 - Need to center the contact information at the beginning of the file
 
+And probably others that you see. Let me know through an issue in the [GitHub] repository(https://github.com/jrosen48/utk-homepage), by email (jmrosenberg [at] utk [dot] edu), or via Twitter ([@jrosenberg6432](http://twitter.com/jrosenberg6432))
