@@ -19,7 +19,7 @@ Just as a sidenote, using [blogdown](https://bookdown.org/yihui/blogdown/) to cr
 
 Here's what I did; all of the source files are available [here](https://github.com/jrosen48/utk-homepage); the final versions are available in the following formats from different URLs:
 
-- HTML: [https://www.joshuamrosenberg.com/](https://www.joshuamrosenberg.com/about/)
+- HTML: [https://www.joshuamrosenberg.com/about](https://www.joshuamrosenberg.com/about/)
 
 - PDF: [https://www.joshuamrosenberg.com/rosenberg-cv.pdf](https://www.joshuamrosenberg.com/rosenberg-cv.pdf) 
 
