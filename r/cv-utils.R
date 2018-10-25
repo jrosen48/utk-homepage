@@ -5,8 +5,8 @@ rmarkdown::render("static/rosenberg-cv.Rmd", output_format = "pdf_document")
 file.copy("static/rosenberg-cv.pdf", "static/cv/rosenberg-cv.pdf", overwrite=TRUE)
 
 ## For Word
-
-cv_word <- readLines("content/about.md")
+file.copy("content/about.md", "content/about-for-cv.md", overwrite=TRUE)
+cv_word <- readLines("content/about-for-cv.md")
 
 cv_word <- cv_word[cv_word!="\\begin"]
 cv_word <- cv_word[cv_word!="\\begin"]

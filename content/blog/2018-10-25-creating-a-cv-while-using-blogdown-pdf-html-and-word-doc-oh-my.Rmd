@@ -49,4 +49,4 @@ For the CV to be (more) useful in Word document and HTML format, there is a chan
 
 - Need to center the contact information at the beginning of the file
 
-And probably others that you see. Let me know through an issue in the [GitHub] repository(https://github.com/jrosen48/utk-homepage), by email (jmrosenberg [at] utk [dot] edu), or via Twitter ([@jrosenberg6432](http://twitter.com/jrosenberg6432))
+And probably others that you see. Let me know through an issue in the [GitHub repository](https://github.com/jrosen48/utk-homepage), by email (jmrosenberg [at] utk [dot] edu), or via [Twitter](http://twitter.com/jrosenberg6432).
