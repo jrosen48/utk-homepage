@@ -10,7 +10,7 @@ output:
   html_document:
     keep_md: no
 ---
-PDF version available at http://joshuamrosenberg.com/Rosenberg-CV.pdf
+PDF version available at http://jmichaelrosenberg.com/rosenberg-cv.pdf
 
 Assistant Professor, STEM Education  
 Department of Theory and Practice in Teacher Education  

@@ -39,7 +39,7 @@ Here's what I did; all of the source files are available [here](https://github.c
         - and renders the Word document using `Rosenberg-CV-template.docx` as the document template (created by using the "Incremental style editing" described [here](https://rmarkdown.rstudio.com/articles_docx.html))
     - does essentially the steps taken to render the Word document *again* to render the HTML version
         - but with a line added after the front matter with a link to the PDF version
-        - and with the result being saved to `content/about.md` to serve as basis for the HTML file rendered with that file name (i.e., the file [here](https://www.joshuamrosenberg.com/about/)
+        - and with the result being saved to `content/about.md` to serve as basis for the HTML file rendered with that file name (i.e., the file [here](https://www.joshuamrosenberg.com/about/))
         
 That's basically it. It's a bit clunky; but, it seems to mostly work.
         
