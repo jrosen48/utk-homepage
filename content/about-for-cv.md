@@ -91,6 +91,8 @@ Schmidt, J. A., Beymer, P. N., & Rosenberg, J. M. (in preparation). Experiences,
 
 Rosenberg, J. M., Schwarz, C. V., & Akcaoglu, M. (in preparation). Learning to teach scientific modeling: A longitudinal case study of two teachers' instructional practice.
 
+Greenhalgh, S. P., Rosenberg, J. M., Staudt-Willet, B., Koehler, M. J., & Akcaoglu, M. (in preparation). Timing is everything: Comparing synchronous and asynchronous modes of Twitter for teacher professional learning
+
 ### Book Chapters
 
 Eidelman, R., Rosenberg, J. M. ,& Shwartz, Y. (in press). E-Learning in chemistry education: Self-regulated learning in a virtual classroom. In D. Ifenthaler, M. Spector, P. Isafas, & S. Sergis (Eds), *Learning technologies for transforming teaching, learning and assessment at large scale*. Berlin, Germany: Springer.  
