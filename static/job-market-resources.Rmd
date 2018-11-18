@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Resources from my experience applying for academic positions. I applied to positions in science education, educational technology, and the learning sciences/educational psychology. I am an Assistant Professor of STEM Education at the University of Tennessee, Knoxville.
+Resources from my experience applying for academic positions. I applied to positions in science education, educational technology, and the learning sciences/educational psychology. I am presently fortunate to be an Assistant Professor of STEM Education at the University of Tennessee, Knoxville.
 
 ## Sample cover letter
 
@@ -28,3 +28,5 @@ Resources from my experience applying for academic positions. I applied to posit
 - [ Part 2: Preparation for the Job Market ](https://narstgradresources.blogspot.com/2018/08/part-2-preparation-for-job-market.html)
 - [ Part 3: The Solicitation & Application (August - January, maybe longer) ](https://narstgradresources.blogspot.com/2018/08/part-3-solicitation-application-august.html)
 - [ Part 4: Interviewing and Negotiating for A Position ](https://narstgradresources.blogspot.com/2018/09/part-4-interviewing-and-negotiating-for.html)
+
+My homepage is [here](https://www.jmichaelrosenberg.com/).
