@@ -9,13 +9,13 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Resources from my experience applying for academic positions (in 2017-2018). I applied to positions in science education, educational technology, and the learning sciences/educational psychology.
+Resources from my experience applying for academic positions. I applied to positions in science education, educational technology, and the learning sciences/educational psychology. I am an Assistant Professor of STEM Education at the University of Tennessee, Knoxville.
 
 ## Sample cover letter
 
 - [Tennessee - Science Education](/job-market-resources/Rosenberg-Cover-Letter-Tennessee.pdf)
 
-# Other materials
+## Other materials
 
 - [Research Statement](/job-market-resources/Rosenberg-Research-Statement.pdf)
 - [Teaching Statement](/job-market-resources/Rosenberg-Teaching-Statement.pdf)
