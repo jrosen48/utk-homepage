@@ -23,7 +23,7 @@ Thie activity also led into more general conversations about how no model is per
 
 Here are a few of students' models:
 
-<img src="/_media/images/models-of-science-teaching-1.jpg"/>
-<img src="/_media/images/models-of-science-teaching-2.jpg"/>
-<img src="/_media/images/models-of-science-teaching-3.jpg"/>
-<img src="/_media/images/models-of-science-teaching-4.jpg"/>
+<img src="/images/models-of-science-teaching-1.jpg"/>
+<img src="/images/models-of-science-teaching-2.jpg"/>
+<img src="/images/models-of-science-teaching-3.jpg"/>
+<img src="/images/models-of-science-teaching-4.jpg"/>

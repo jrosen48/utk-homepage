@@ -21,20 +21,20 @@ We were generating these interactively and did not think to save or commit earli
 
 ## Version 1: Bar chart with three "facets""
 
-![figure1](/_media/images/cftf/image-1.png)
+![figure1](/images/cftf/image-1.png)
 
 ## Version 2: Bar chart with different shading for different alignment
 
-![figure2](/_media/images/cftf/image-2.png)
+![figure2](/images/cftf/image-2.png)
 
 ## Version 3: Use of points instead of bars with different alignment
 
-![figure3](/_media/images/cftf/image-3.png)
+![figure3](/images/cftf/image-3.png)
 
 ## Version 4: Use of points instead of bars with different alignment
 
-![figure4](/_media/images/cftf/image-4.png)
+![figure4](/images/cftf/image-4.png)
 
 ## Version 5: Use of points instead of bars with different alignment and pre-survey bars dashed (instead of post-survey bars)
 
-![figure5](/_media/images/cftf/image-5.png)
+![figure5](/images/cftf/image-5.png)

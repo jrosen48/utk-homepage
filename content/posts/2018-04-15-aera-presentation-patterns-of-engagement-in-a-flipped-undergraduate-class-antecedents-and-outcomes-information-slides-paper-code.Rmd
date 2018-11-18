@@ -11,6 +11,6 @@ meta_img: /images/image.jpg
 
 I'm presenting a second paper at AERA on patterns of (outside of class) engagement in a flipped undergraduate class with my colleagues You-kyung Lee, Kristy Robinson, John Ranellucci, Cary Roseth, and Lisa Linnenbrink-Garcia. The presentation is at 8:15 am (Sunday, 4/15) in the Millenium Broadway Hotel (Room 7.04) and is on a session on emotions, engagement, and technology (with some very interesting papers presented by co-presenters in the session!). 
 
-* [Slides here](/_media/slides/Rosenberg, Lee, Robinson, Ranellucci, Roseth, & Linnenbrink-Garcia, 2018 - AERA.pptx)
-* [Paper here](/_media/publications/Rosenberg, Lee, Robinson, Ranellucci, Roseth, & Linnenbrink-Garcia, 2018 - AERA.pdf)
+* [Slides here](/slides/Rosenberg, Lee, Robinson, Ranellucci, Roseth, & Linnenbrink-Garcia, 2018 - AERA.pptx)
+* [Paper here](/publications/Rosenberg, Lee, Robinson, Ranellucci, Roseth, & Linnenbrink-Garcia, 2018 - AERA.pdf)
 * [Code](https://github.com/jrosen48/flipped-engagement/blob/master/script.r)

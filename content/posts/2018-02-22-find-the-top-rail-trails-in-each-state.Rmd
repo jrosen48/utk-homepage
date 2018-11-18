@@ -17,7 +17,7 @@ In a side-project (and because the data source can be used for teaching and lear
 Using this data, I created a simple Shiny web app ([here](https://jrosen48.github.io/blog/find-the-top-rail-trails-in-each-state/)) to find the top rail-trails (using the reviews from TrailLink) in each state. One neat thing about the app is that it uses predictions from a mixed effects (or multi-level) model.
 
 <a href = "https://jmichaelrosenberg.shinyapps.io/railtrails/
-"><img src="/_media/images/railtrails.png"></a>
+"><img src="/images/railtrails.png"></a>
 
 The reason I chose to do this is that using the raw reviews to find the top rail-trails is not as helpful as I first thought, as trails with very few (but very high) reviews--such as one with two "5" (out of 5) reviews--may end up ranked as the top in the state. At the same time, a trail with many (primarily high) reviews--such as one with 30 reviews that average out to almost but not quite "5"--may be ranked lower. 
 

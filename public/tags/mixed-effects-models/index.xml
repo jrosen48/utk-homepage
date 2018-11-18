@@ -39,14 +39,5 @@
 To start, I checked whether they had a way to access the reviews on the site through an API.</description>
     </item>
     
-    <item>
-      <title>An R package for plotting partially pooled estimates for mixed-effects models</title>
-      <link>/posts/an-r-package-for-plotting-partially-pooled-estimates-for-mixed-effects-models/</link>
-      <pubDate>Fri, 21 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/an-r-package-for-plotting-partially-pooled-estimates-for-mixed-effects-models/</guid>
-      <description>I came across this excellent post from Tristan Mahr on plotting partially pooled estimates for mixed-effects models and was inspired to create an R package for it based on the code in the post. I found mixed models made more sense to me when I thought of them in terms of partial pooling, and I had been looking for ways to plot partially pooled estimates both as a more accessible way into telling others about mixed effects models and as a way to assess the fit of and better understand mixed effects models when I came across Mahr’s post.</description>
-    </item>
-    
   </channel>
 </rss>

@@ -138,11 +138,6 @@
   </url>
   
   <url>
-    <loc>/posts/comparing_mplus_and_mclust/</loc>
-    <lastmod>2017-09-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/posts/podcasts-i-do-not-miss/</loc>
     <lastmod>2017-09-05T00:00:00+00:00</lastmod>
   </url>
@@ -175,16 +170,6 @@
   <url>
     <loc>/posts/michigan-rail-trails-and-pathways-through-data/</loc>
     <lastmod>2017-07-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/an-r-package-for-plotting-partially-pooled-estimates-for-mixed-effects-models/</loc>
-    <lastmod>2017-07-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/rock-climbing-in-the-news-updated/</loc>
-    <lastmod>2017-07-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -408,26 +393,26 @@
   </url>
   
   <url>
-    <loc>/tags/presentation/</loc>
-    <lastmod>2017-04-14T11:54:00-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/categories/presentation/</loc>
     <lastmod>2018-10-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/r/</loc>
-    <lastmod>2017-08-15T00:00:00+00:00</lastmod>
+    <loc>/tags/presentation/</loc>
+    <lastmod>2017-04-14T11:54:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/r/</loc>
     <lastmod>2018-10-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/r/</loc>
+    <lastmod>2017-08-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

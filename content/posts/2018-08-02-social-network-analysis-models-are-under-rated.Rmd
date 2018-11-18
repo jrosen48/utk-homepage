@@ -18,7 +18,7 @@ knitr::opts_chunk$set(
 
 Social network is increasingly common in education ([Sweet, 2016](https://www.tandfonline.com/doi/abs/10.1080/00461520.2016.1208093)). Very often, social network analysis is used to create sociograms, or depictions of a network. I did this in a  paper I recently co-authored ([here is a pre-print](https://jrosen48.github.io/_media/pre-prints/Rosenberg-Greenhalgh-Wolf-Koehler-2017-JCMST.pdf)), we worked hard to create this figure:
 
-<img src="/_media/images/msurbanstem-soc.png" style="width: 300px; height: 300px" ></a>
+<img src="/images/msurbanstem-soc.png" style="width: 300px; height: 300px" ></a>
 
 Such figures (we thought--and I think) look nice and they are often useful for understanding the characteristics of a network and the relations that are part of it. And to be sure, algorithms - models, in a sense - are used to place the nodes/vertices (the "points") in the graph. But we want to go further by using models for specific patterns in the data, namely:
 

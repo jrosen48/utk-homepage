@@ -43,21 +43,20 @@
 
 starwars</code></pre>
 <pre><code>## # A tibble: 87 x 13
-##                  name height  mass    hair_color  skin_color eye_color
-##                 &lt;chr&gt;  &lt;int&gt; &lt;dbl&gt;         &lt;chr&gt;       &lt;chr&gt;     &lt;chr&gt;
-##  1     Luke Skywalker    172    77         blond        fair      blue
-##  2              C-3PO    167    75          &lt;NA&gt;        gold    yellow
-##  3              R2-D2     96    32          &lt;NA&gt; white, blue       red
-##  4        Darth Vader    202   136          none       white    yellow
-##  5        Leia Organa    150    49         brown       light     brown
-##  6          Owen Lars    178   120   brown, grey       light      blue
-##  7 Beru Whitesun lars    165    75         brown       light      blue
-##  8              R5-D4     97    32          &lt;NA&gt;  white, red       red
-##  9  Biggs Darklighter    183    84         black       light     brown
-## 10     Obi-Wan Kenobi    182    77 auburn, white        fair blue-gray
-## # ... with 77 more rows, and 7 more variables: birth_year &lt;dbl&gt;,
-## #   gender &lt;chr&gt;, homeworld &lt;chr&gt;, species &lt;chr&gt;, films &lt;list&gt;,
-## #   vehicles &lt;list&gt;, starships &lt;list&gt;</code></pre>
+##    name  height  mass hair_color skin_color eye_color birth_year gender
+##    &lt;chr&gt;  &lt;int&gt; &lt;dbl&gt; &lt;chr&gt;      &lt;chr&gt;      &lt;chr&gt;          &lt;dbl&gt; &lt;chr&gt; 
+##  1 Luke…    172    77 blond      fair       blue            19   male  
+##  2 C-3PO    167    75 &lt;NA&gt;       gold       yellow         112   &lt;NA&gt;  
+##  3 R2-D2     96    32 &lt;NA&gt;       white, bl… red             33   &lt;NA&gt;  
+##  4 Dart…    202   136 none       white      yellow          41.9 male  
+##  5 Leia…    150    49 brown      light      brown           19   female
+##  6 Owen…    178   120 brown, gr… light      blue            52   male  
+##  7 Beru…    165    75 brown      light      blue            47   female
+##  8 R5-D4     97    32 &lt;NA&gt;       white, red red             NA   &lt;NA&gt;  
+##  9 Bigg…    183    84 black      light      brown           24   male  
+## 10 Obi-…    182    77 auburn, w… fair       blue-gray       57   male  
+## # ... with 77 more rows, and 5 more variables: homeworld &lt;chr&gt;,
+## #   species &lt;chr&gt;, films &lt;list&gt;, vehicles &lt;list&gt;, starships &lt;list&gt;</code></pre>
 <p>It looks like we only have three measures that are numbers (<code>height</code>, <code>mass</code>, and <code>birth_year</code>) - though there are others we could possibly turn into numbers (maybe), and there are other approaches (Latent Class Analysis) that can deal with non-numeric measures (such as <code>hair_color</code>). But we’ll have to stick to the three measures that are numbers, for better or worse, for now.</p>
 </div>
 <div id="r2" class="section level1">
@@ -89,15 +88,21 @@ plot_r_squared(starwars, height, mass, birth_year, to_scale = TRUE, to_center = 
 <p>Ooh! Not good. Before the second of the two steps settled on the groups, it ended up with a group with no observations. This is probably in part the result of a small sample, and possibly attributable to the measures we used - and maybe some missing data for some of the measures. Let’s take a look at the data:</p>
 <pre class="r"><code>starwars_ss &lt;- select(starwars, height, mass, birth_year)
 skimr::skim(starwars_ss)</code></pre>
-<pre><code>## Numeric Variables
-## # A tibble: 3 x 13
-##          var    type missing complete     n      mean        sd   min
-##        &lt;chr&gt;   &lt;chr&gt;   &lt;dbl&gt;    &lt;dbl&gt; &lt;dbl&gt;     &lt;dbl&gt;     &lt;dbl&gt; &lt;dbl&gt;
-## 1 birth_year numeric      44       43    87  87.56512 154.69144     8
-## 2     height integer       6       81    87 174.35802  34.77043    66
-## 3       mass numeric      28       59    87  97.31186 169.45716    15
-## # ... with 5 more variables: `25% quantile` &lt;dbl&gt;, median &lt;dbl&gt;, `75%
-## #   quantile` &lt;dbl&gt;, max &lt;dbl&gt;, hist &lt;chr&gt;</code></pre>
+<pre><code>## Skim summary statistics
+##  n obs: 87 
+##  n variables: 3 
+## 
+## ── Variable type:integer ──────────────────────────────────────────────────
+##  variable missing complete  n   mean    sd p0 p25 p50 p75 p100     hist
+##    height       6       81 87 174.36 34.77 66 167 180 191  264 ▁▁▁▂▇▃▁▁
+## 
+## ── Variable type:numeric ──────────────────────────────────────────────────
+##    variable missing complete  n  mean     sd p0  p25 p50  p75 p100
+##  birth_year      44       43 87 87.57 154.69  8 35    52 72    896
+##        mass      28       59 87 97.31 169.46 15 55.6  79 84.5 1358
+##      hist
+##  ▇▁▁▁▁▁▁▁
+##  ▇▁▁▁▁▁▁▁</code></pre>
 <p>It looks like the <code>birth_year</code> is missing for a lot - 44 - of the observations for the 87 Star Wars characters we have. We’re down to the bare-bones number of measures, but let’s try with just height and mass. We probably don’t need to scale the data.</p>
 <pre class="r"><code>plot_r_squared(starwars, height, mass, to_scale = TRUE, to_center = TRUE, r_squared_table = T)</code></pre>
 <pre><code>## ################################</code></pre>
@@ -125,10 +130,10 @@ skimr::skim(starwars_ss)</code></pre>
 <h1>Groups</h1>
 <pre class="r"><code>two_profiles &lt;- create_profiles(starwars, height, mass, n_profiles = 2, to_scale = TRUE, to_center = TRUE)
 plot(two_profiles)</code></pre>
-<p><img src="/blog/2017-07-02-how-many-groups-of-star-trek-characters-are-there-r-squared-and-cross-validation-approaches_files/figure-html/unnamed-chunk-5-1.png" width="672" /></p>
+<p><img src="/posts/2017-07-02-how-many-groups-of-star-trek-characters-are-there-r-squared-and-cross-validation-approaches_files/figure-html/unnamed-chunk-5-1.png" width="672" /></p>
 <pre class="r"><code>three_profiles &lt;- create_profiles(starwars, height, mass, n_profiles = 3, to_scale = TRUE, to_center = TRUE)
 plot(three_profiles)</code></pre>
-<p><img src="/blog/2017-07-02-how-many-groups-of-star-trek-characters-are-there-r-squared-and-cross-validation-approaches_files/figure-html/unnamed-chunk-5-2.png" width="672" /></p>
+<p><img src="/posts/2017-07-02-how-many-groups-of-star-trek-characters-are-there-r-squared-and-cross-validation-approaches_files/figure-html/unnamed-chunk-5-2.png" width="672" /></p>
 <div id="the-third-group-massive-not-so-tall" class="section level2">
 <h2>The third group: Massive, not so tall</h2>
 <p>It looks like there is one very massive (literally) observation that makes up one profile in both the two and three profile solutions. Who is it?</p>
@@ -166,9 +171,9 @@ plot(three_profiles)</code></pre>
 <td align="left">hermaphrodite</td>
 <td align="left">Nal Hutta</td>
 <td align="left">Hutt</td>
-<td align="left">The Phantom Menace, Return of the Jedi, A New Hope</td>
-<td align="left"></td>
-<td align="left"></td>
+<td align="left">c(“The Phantom Menace”, “Return of the Jedi”, “A New Hope”)</td>
+<td align="left">character(0)</td>
+<td align="left">character(0)</td>
 <td align="right">3</td>
 </tr>
 </tbody>
@@ -212,9 +217,9 @@ plot(three_profiles)</code></pre>
 <td align="left">NA</td>
 <td align="left">Naboo</td>
 <td align="left">Droid</td>
-<td align="left">Attack of the Clones, The Phantom Menace, Revenge of the Sith, Return of the Jedi, The Empire Strikes Back, A New Hope, The Force Awakens</td>
-<td align="left"></td>
-<td align="left"></td>
+<td align="left">c(“Attack of the Clones”, “The Phantom Menace”, “Revenge of the Sith”, “Return of the Jedi”, “The Empire Strikes Back”, “A New Hope”, “The Force Awakens”)</td>
+<td align="left">character(0)</td>
+<td align="left">character(0)</td>
 <td align="right">2</td>
 </tr>
 <tr class="even">
@@ -229,8 +234,8 @@ plot(three_profiles)</code></pre>
 <td align="left">Tatooine</td>
 <td align="left">Droid</td>
 <td align="left">A New Hope</td>
-<td align="left"></td>
-<td align="left"></td>
+<td align="left">character(0)</td>
+<td align="left">character(0)</td>
 <td align="right">2</td>
 </tr>
 <tr class="odd">
@@ -244,9 +249,9 @@ plot(three_profiles)</code></pre>
 <td align="left">male</td>
 <td align="left">NA</td>
 <td align="left">Yoda’s species</td>
-<td align="left">Attack of the Clones, The Phantom Menace, Revenge of the Sith, Return of the Jedi, The Empire Strikes Back</td>
-<td align="left"></td>
-<td align="left"></td>
+<td align="left">c(“Attack of the Clones”, “The Phantom Menace”, “Revenge of the Sith”, “Return of the Jedi”, “The Empire Strikes Back”)</td>
+<td align="left">character(0)</td>
+<td align="left">character(0)</td>
 <td align="right">2</td>
 </tr>
 <tr class="even">
@@ -261,8 +266,8 @@ plot(three_profiles)</code></pre>
 <td align="left">Endor</td>
 <td align="left">Ewok</td>
 <td align="left">Return of the Jedi</td>
-<td align="left"></td>
-<td align="left"></td>
+<td align="left">character(0)</td>
+<td align="left">character(0)</td>
 <td align="right">2</td>
 </tr>
 <tr class="odd">
@@ -277,8 +282,8 @@ plot(three_profiles)</code></pre>
 <td align="left">Malastare</td>
 <td align="left">Dug</td>
 <td align="left">The Phantom Menace</td>
-<td align="left"></td>
-<td align="left"></td>
+<td align="left">character(0)</td>
+<td align="left">character(0)</td>
 <td align="right">2</td>
 </tr>
 <tr class="even">
@@ -293,8 +298,8 @@ plot(three_profiles)</code></pre>
 <td align="left">Vulpter</td>
 <td align="left">Vulptereen</td>
 <td align="left">The Phantom Menace</td>
-<td align="left"></td>
-<td align="left"></td>
+<td align="left">character(0)</td>
+<td align="left">character(0)</td>
 <td align="right">2</td>
 </tr>
 <tr class="odd">
@@ -309,8 +314,8 @@ plot(three_profiles)</code></pre>
 <td align="left">Aleen Minor</td>
 <td align="left">Aleena</td>
 <td align="left">The Phantom Menace</td>
-<td align="left"></td>
-<td align="left"></td>
+<td align="left">character(0)</td>
+<td align="left">character(0)</td>
 <td align="right">2</td>
 </tr>
 </tbody>
@@ -355,9 +360,9 @@ plot(three_profiles)</code></pre>
 <td align="left">male</td>
 <td align="left">Tatooine</td>
 <td align="left">Human</td>
-<td align="left">Revenge of the Sith, Return of the Jedi, The Empire Strikes Back, A New Hope, The Force Awakens</td>
-<td align="left">Snowspeeder, Imperial Speeder Bike</td>
-<td align="left">X-wing, Imperial shuttle</td>
+<td align="left">c(“Revenge of the Sith”, “Return of the Jedi”, “The Empire Strikes Back”, “A New Hope”, “The Force Awakens”)</td>
+<td align="left">c(“Snowspeeder”, “Imperial Speeder Bike”)</td>
+<td align="left">c(“X-wing”, “Imperial shuttle”)</td>
 <td align="right">1</td>
 </tr>
 <tr class="even">
@@ -371,9 +376,9 @@ plot(three_profiles)</code></pre>
 <td align="left">NA</td>
 <td align="left">Tatooine</td>
 <td align="left">Droid</td>
-<td align="left">Attack of the Clones, The Phantom Menace, Revenge of the Sith, Return of the Jedi, The Empire Strikes Back, A New Hope</td>
-<td align="left"></td>
-<td align="left"></td>
+<td align="left">c(“Attack of the Clones”, “The Phantom Menace”, “Revenge of the Sith”, “Return of the Jedi”, “The Empire Strikes Back”, “A New Hope”)</td>
+<td align="left">character(0)</td>
+<td align="left">character(0)</td>
 <td align="right">1</td>
 </tr>
 <tr class="odd">
@@ -387,8 +392,8 @@ plot(three_profiles)</code></pre>
 <td align="left">male</td>
 <td align="left">Tatooine</td>
 <td align="left">Human</td>
-<td align="left">Revenge of the Sith, Return of the Jedi, The Empire Strikes Back, A New Hope</td>
-<td align="left"></td>
+<td align="left">c(“Revenge of the Sith”, “Return of the Jedi”, “The Empire Strikes Back”, “A New Hope”)</td>
+<td align="left">character(0)</td>
 <td align="left">TIE Advanced x1</td>
 <td align="right">1</td>
 </tr>
@@ -403,9 +408,9 @@ plot(three_profiles)</code></pre>
 <td align="left">female</td>
 <td align="left">Alderaan</td>
 <td align="left">Human</td>
-<td align="left">Revenge of the Sith, Return of the Jedi, The Empire Strikes Back, A New Hope, The Force Awakens</td>
+<td align="left">c(“Revenge of the Sith”, “Return of the Jedi”, “The Empire Strikes Back”, “A New Hope”, “The Force Awakens”)</td>
 <td align="left">Imperial Speeder Bike</td>
-<td align="left"></td>
+<td align="left">character(0)</td>
 <td align="right">1</td>
 </tr>
 <tr class="odd">
@@ -419,9 +424,9 @@ plot(three_profiles)</code></pre>
 <td align="left">male</td>
 <td align="left">Tatooine</td>
 <td align="left">Human</td>
-<td align="left">Attack of the Clones, Revenge of the Sith, A New Hope</td>
-<td align="left"></td>
-<td align="left"></td>
+<td align="left">c(“Attack of the Clones”, “Revenge of the Sith”, “A New Hope”)</td>
+<td align="left">character(0)</td>
+<td align="left">character(0)</td>
 <td align="right">1</td>
 </tr>
 <tr class="even">
@@ -435,9 +440,9 @@ plot(three_profiles)</code></pre>
 <td align="left">female</td>
 <td align="left">Tatooine</td>
 <td align="left">Human</td>
-<td align="left">Attack of the Clones, Revenge of the Sith, A New Hope</td>
-<td align="left"></td>
-<td align="left"></td>
+<td align="left">c(“Attack of the Clones”, “Revenge of the Sith”, “A New Hope”)</td>
+<td align="left">character(0)</td>
+<td align="left">character(0)</td>
 <td align="right">1</td>
 </tr>
 </tbody>

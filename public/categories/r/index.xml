@@ -92,16 +92,6 @@ In the context of working on an approach to find out how impactful an omitted va
     </item>
     
     <item>
-      <title>Comparing MPLUS and MCLUST output</title>
-      <link>/posts/comparing_mplus_and_mclust/</link>
-      <pubDate>Thu, 14 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/comparing_mplus_and_mclust/</guid>
-      <description>Note An in-development R package to carry out LPA and this analysis is available here: https://github.com/jrosen48/tidymixmod.
- Introduction At present, MPlus is a widely-used tool to carry out Latent Profile Analysis, and there does not seem to be a widely-accepted or used way to carry out Latent Profile Analysis in R. This compares output from MPlus to output from the R package MCLUST, which is accessed through the package tidymixmod which I started to work on to make estimating common models used for LPA easier to carry out using MCLUST.</description>
-    </item>
-    
-    <item>
       <title>A first pass at Latent Profile Analysis using MCLUST (in R)</title>
       <link>/posts/lpa-in-r-using-mclust/</link>
       <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
@@ -128,15 +118,6 @@ Introduction Latent Profile Analysis (LPA) is a statistical modeling approach fo
       <guid>/posts/michigan-rail-trails-and-pathways-through-data/</guid>
       <description>Background I was curious about what rail trails were the best in Michigan, and so to figure out an answer, I checked out the TrailLink website, sponsored by the Rails-to-Trails Conservancy. I had just purchased a copy of their book Rail-Trails Michigan and Wisconsin, and wanted to see whether I could learn more from the website.
 To start, I checked whether they had a way to access the reviews on the site through an API.</description>
-    </item>
-    
-    <item>
-      <title>An R package for plotting partially pooled estimates for mixed-effects models</title>
-      <link>/posts/an-r-package-for-plotting-partially-pooled-estimates-for-mixed-effects-models/</link>
-      <pubDate>Fri, 21 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/an-r-package-for-plotting-partially-pooled-estimates-for-mixed-effects-models/</guid>
-      <description>I came across this excellent post from Tristan Mahr on plotting partially pooled estimates for mixed-effects models and was inspired to create an R package for it based on the code in the post. I found mixed models made more sense to me when I thought of them in terms of partial pooling, and I had been looking for ways to plot partially pooled estimates both as a more accessible way into telling others about mixed effects models and as a way to assess the fit of and better understand mixed effects models when I came across Mahr’s post.</description>
     </item>
     
   </channel>
