@@ -6,10 +6,16 @@ title: Home
 
 # Joshua M. Rosenberg
 
-Welcome! I explore how work with data can serve as a context for learning, particularly in science content areas.
+Welcome! I am an Assistant Professor of STEM Education at the [University of Tennessee, Knoxville](http://utk.edu/). If you're looking to get in touch by email, please contact me at jmrosenberg [at] UTK [dot] edu.
 
-I am an Assistant Professor of STEM Education at the [University of Tennessee, Knoxville](http://utk.edu/). 
+**Upcoming Talks**
 
-Please see updates below or browse through the [about](/about) page to learn more about me.
+- Presentation at the Association for Science Teacher Education conference (January 3-6, Savannah, GA)
+- Workshop on reproducible and transparent research using R at the American Educational Research Association meeting (April 4-9, Toronto, Canada)
+- Presentations at the American Educational Research Association meeting (April 4-9, Toronto, Canada)
 
-If you're looking to get in touch by email, please contact me at jmrosenberg [at] UTK [dot] edu.
+**Announcements**
+
+- Please check out my [Impodster Syndrome](http://impodstersyndrome.libsyn.com/) podcast with [Spencer Greenhalgh](http://www.spencergreenhalgh.com/) podcast about life as new Assistant Professors!
+
+**Recent Blog Posts**

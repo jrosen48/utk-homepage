@@ -7,7 +7,7 @@ disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
 footnotereturnlinkcontents = "↩"
-paginate = 10
+paginate = 5
 
 [permalinks]
     post = "/post/:year/:month/:day/:slug/"
