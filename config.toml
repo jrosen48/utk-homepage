@@ -29,10 +29,6 @@ paginate = 5
     name = "Teaching"
     url = "/teaching/"
     weight = 4
-[[menu.main]]
-    name = "Tags"
-    url = "/tags/"
-    weight = 5
 
 [params]
     description = "Joshua M. Rosenberg's Homepage"

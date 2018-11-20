@@ -16,6 +16,6 @@ Welcome! I am an Assistant Professor of STEM Education at the [University of Ten
 
 **Announcements**
 
-- Please check out my [Impodster Syndrome](http://impodstersyndrome.libsyn.com/) podcast with [Spencer Greenhalgh](http://www.spencergreenhalgh.com/) podcast about life as new Assistant Professors!
+- Please check out my [Impodster Syndrome](http://impodstersyndrome.libsyn.com/) podcast with Spencer Greenhalgh about life as new Assistant Professors!
 
 **Recent Blog Posts**
