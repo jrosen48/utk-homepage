@@ -282,6 +282,10 @@
   </url>
   
   <url>
+    <loc>/research/</loc>
+  </url>
+  
+  <url>
     <loc>/categories/blog/</loc>
     <lastmod>2018-10-25T00:00:00+00:00</lastmod>
     <priority>0</priority>

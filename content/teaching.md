@@ -4,9 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-I [teach](https://jrosen48.github.io/teaching/) or have taught courses broadly in the areas of science education, teacher education, educational psychology (and the learning sciences), educational technology, and research methodology.
-
-My teaching and learning philosophy emphasizes three components: a) do something difficult, b) structure assignments over time to serve as scaffolds, and c) have students talk. These components correspond with what [Grossman et al. (2009)](https://www.tcrecord.org/content.asp?contentid=15018) describe as an approximation of practice, reflecting a view of teaching and learning as participating in the practices of the field. 
+Dr. Rosenberg teaches classes in science and STEM education, educational technology, and research methods. In his classes, Dr. Rosenberg aims to involve students in authentic practices from the field of study. For example, in teacher education classes, this plays out through giving students opportunities to both participate in as well as plan and enact activities focused upon engaging in scientific and engineering practices. In graduate-level classes, Dr. Rosenberg focuses on scholarly practices, particularly critiquing and contributing to ongoing conversations about educational policy and practice.
 
 This page contains: a list of courses I have taught, including course descriptions and links to course websites (when available); information on workshops and outreach.
 
@@ -50,8 +48,14 @@ Specifically, this Educational Inquiry course is designed to help students: a) d
 
 ### Select workshops and outreach
 
+* [Upcoming AERA 2019 workshop on reproducible and transparent research using R](https://github.com/ResearchTransparency/rr_aera19)
+
 * [R for programming and statistical analysis in education](http://rpubs.com/jmichaelrosenberg/R_GSU) (Presentation at Georgia Southern University)
 
 * [Online presence for graduate students: An introduction](https://docs.google.com/presentation/d/1qSRmftTKYRpxbQQBhzXnwMd1lcE3N8LSCPJzRNz4FMc/edit?usp=sharing) (Presentation for Borlaug Higher Education for Agricultural Research and Development at MSU scholars)
 
 * [Action research with mobile devices and other "disruptive" technologies](https://docs.google.com/presentation/d/1XF2clWTycyj_viT6lyKk8Y6a4lqgtITQCYd91myAzCU/edit?usp=sharing) (Presentation at Best of MACUL Workshop, Oakland County Schools Regional Educational Service Agency)
+
+### Podcast
+
+* [Impodster Syndrome](http://impodstersyndrome.libsyn.com/) podcast about life as a new Assistant Professor

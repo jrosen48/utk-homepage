@@ -6,15 +6,15 @@ permalink: /research/
 
 # Research Interests
 
-My research focuses on supporting and documenting learners' engagement in activities focused around work with data. I also explore how new data sources and methods (such as log-trace data and network analysis) can be used as part of educational research.
+Joshua M. Rosenberg (PhD, Michigan State University) is an Assistant Professor of STEM Education at the University of Tennessee, Knoxville. His research focuses on how learners think of and with data, particularly in science education settings. Dr. Rosenberg tries to understand how practices such as creating, representing, and modeling data create new opportunities for learning how to use data to pose and answer questions about scientific phenomena. In addition to how learners think of and with data, 
 
-The aims of this work are to design curricula and tools centered around learners' use of data to make sense of phenomena and to document student engagement and learning. I carry out my research and development in the context of classrooms (at the K-12 and post-secondary levels) and other settings.
+Dr. Rosenberg is also interested in student engagement across a range of STEM learning environments and the use of technology in education, particularly for teacher professional development. As a part of this work, Dr. Rosenberg makes use of quantitative methods, such as multi-level models for analyzing data collected through the experience sampling method, and newer approaches, such as social network analysis to analyze teachers’ conversations on social media. Dr. Rosenberg’s research has been published in journals such as the Journal of Research on Science Teaching, the Journal of Youth and Adolescence and the Journal of Technology and Teacher Education.
 
-This page contains information on  as well as information about ongoing research projects. 
+This page contains information about my research as well as information about ongoing research projects. 
 
 # Publications and Other Products
 
-Visit this page [here](https://www.joshuamrosenberg.com/about/) for information about and links to pre-printsand other resources associated with publications (peer-reviewed journal articles, book chapters, and conference proceedings) and other products (R packages and simulations for learners).
+Visit this page [here](https://www.joshuamrosenberg.com/about/) for information about and links to pre-prints and other resources associated with publications (peer-reviewed journal articles, book chapters, and conference proceedings) and other products (R packages and simulations for learners).
 
 # Ongoing Research Projects
 

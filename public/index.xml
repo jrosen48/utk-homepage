@@ -578,14 +578,23 @@ In my research, I try understand how learners work with data as a context for le
     </item>
     
     <item>
+      <title></title>
+      <link>/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/research/</guid>
+      <description>Research       code{white-space: pre;} pre:not([class]) { background-color: white; }  if (window.hljs) { hljs.configure({languages: []}); hljs.initHighlightingOnLoad(); if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) { window.setTimeout(function() { hljs.initHighlighting(); }, 0); } }  h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .</description>
+    </item>
+    
+    <item>
       <title>Home</title>
       <link>/home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/home/</guid>
-      <description>I am an Assistant Professor of STEM Education at the University of Tennessee, Knoxville.
-Please see my latest updates on my blog or browse through the following pages to find out more about me and my research and teaching:
- CV: About me, my curriculum vitae (CV), and contact info Research: Information about my research and links to publications Teaching: Courses taught and related resources  If you&amp;rsquo;re looking to get in touch by email, please contact me at jmrosenberg [at] UTK [dot] edu.</description>
+      <description>Welcome! I am an Assistant Professor of STEM Education at the University of Tennessee, Knoxville. If you&amp;rsquo;re looking to get in touch by email, please contact me at jmrosenberg [at] UTK [dot] edu.
+Upcoming Talks
+ Presentation at the Association for Science Teacher Education conference (January 3-6, Savannah, GA) Workshop on reproducible and transparent research using R at the American Educational Research Association meeting (April 4-9, Toronto, Canada) Presentations at the American Educational Research Association meeting (April 4-9, Toronto, Canada)  Announcements</description>
     </item>
     
     <item>
@@ -663,8 +672,7 @@ University of North Carolina, Asheville</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/research/</guid>
-      <description>Research Interests My research focuses on supporting and documenting learners&amp;rsquo; engagement in activities focused around work with data. I also explore how new data sources and methods (such as log-trace data and network analysis) can be used as part of educational research.
-The aims of this work are to design curricula and tools centered around learners&amp;rsquo; use of data to make sense of phenomena and to document student engagement and learning.</description>
+      <description>Research Interests Joshua M. Rosenberg (PhD, Michigan State University) is an Assistant Professor of STEM Education at the University of Tennessee, Knoxville. His research focuses on how learners think of and with data, particularly in science education settings. Dr. Rosenberg tries to understand how practices such as creating, representing, and modeling data create new opportunities for learning how to use data to pose and answer questions about scientific phenomena. In addition to how learners think of and with data,</description>
     </item>
     
     <item>
@@ -673,8 +681,7 @@ The aims of this work are to design curricula and tools centered around learners
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/teaching/</guid>
-      <description>I teach or have taught courses broadly in the areas of science education, teacher education, educational psychology (and the learning sciences), educational technology, and research methodology.
-My teaching and learning philosophy emphasizes three components: a) do something difficult, b) structure assignments over time to serve as scaffolds, and c) have students talk. These components correspond with what Grossman et al. (2009) describe as an approximation of practice, reflecting a view of teaching and learning as participating in the practices of the field.</description>
+      <description>Dr. Rosenberg teaches classes in science and STEM education, educational technology, and research methods. In his classes, Dr. Rosenberg aims to involve students in authentic practices from the field of study. For example, in teacher education classes, this plays out through giving students opportunities to both participate in as well as plan and enact activities focused upon engaging in scientific and engineering practices. In graduate-level classes, Dr. Rosenberg focuses on scholarly practices, particularly critiquing and contributing to ongoing conversations about educational policy and practice.</description>
     </item>
     
   </channel>
