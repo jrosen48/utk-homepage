@@ -13,10 +13,10 @@
     
     <item>
       <title>A first pass at Latent Profile Analysis using MCLUST (in R)</title>
-      <link>/posts/lpa-in-r-using-mclust/</link>
+      <link>/blog/lpa-in-r-using-mclust/</link>
       <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/posts/lpa-in-r-using-mclust/</guid>
+      <guid>/blog/lpa-in-r-using-mclust/</guid>
       <description>Note - an R package for carrying out Latent Profile Analysis (LPA): tidyLPA Since writing this post, I have worked with colleagues to release an R package to carry out the analysis. The package is tidyLPA and is described in the following sections, through the “Original Post” header below which is the beginning of the original post.
 Introduction Latent Profile Analysis (LPA) is a statistical modeling approach for estimating distinct profiles, or groups, of variables.</description>
     </item>

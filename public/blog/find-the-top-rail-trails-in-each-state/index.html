@@ -3,15 +3,25 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Finding the top rail-trails in each state using mixed effects models | My New Hugo Site</title>
+    <title>Finding the top rail-trails in each state using mixed effects models | Joshua M. Rosenberg</title>
     <link rel="stylesheet" href="/css/style.css" />
     <link rel="stylesheet" href="/css/fonts.css" />
-    
+    <link href="//YOUR-CDN-LINK/styles/github.min.css" rel="stylesheet">
   </head>
 
   <body>
     <nav>
     <ul class="menu">
+      
+      <li><a href="/">Home</a></li>
+      
+      <li><a href="/blog/">Blog</a></li>
+      
+      <li><a href="/about/">About and CV</a></li>
+      
+      <li><a href="/research/">Research</a></li>
+      
+      <li><a href="/teaching/">Teaching</a></li>
       
     </ul>
     <hr/>
@@ -28,7 +38,7 @@
 <p>In a side-project (and because the data source can be used for teaching and learning about complex, nested data), I collected information from the <a href="https://www.traillink.com/">TrailLink website</a>. I’ve blogged about this data <a href="https://jrosen48.github.io/blog/michigan-rail-trails-and-pathways-through-data/">here</a> and <a href="https://jrosen48.github.io/blog/characteristics-of-rail-trails/">here</a> to find out what the best rail-trails in Michigan are and to find out what the characteristics of the best rail-trails are, respectively.</p>
 <p>Using this data, I created a simple Shiny web app (<a href="https://jrosen48.github.io/blog/find-the-top-rail-trails-in-each-state/">here</a>) to find the top rail-trails (using the reviews from TrailLink) in each state. One neat thing about the app is that it uses predictions from a mixed effects (or multi-level) model.</p>
 <p><a href = "https://jmichaelrosenberg.shinyapps.io/railtrails/
-"><img src="/_media/images/railtrails.png"></a></p>
+"><img src="/images/railtrails.png"></a></p>
 <p>The reason I chose to do this is that using the raw reviews to find the top rail-trails is not as helpful as I first thought, as trails with very few (but very high) reviews–such as one with two “5” (out of 5) reviews–may end up ranked as the top in the state. At the same time, a trail with many (primarily high) reviews–such as one with 30 reviews that average out to almost but not quite “5”–may be ranked lower.</p>
 <p>In <code>lme4</code>, the model is a random intercept (for the trail and state) model and would look like this (all of the code is <a href="https://github.com/jrosen48/railtrails/blob/master/app/app.R">here</a>):</p>
 <pre class="r"><code>m1 &lt;- lmer(raw_reviews ~ 1 + (1|name) + (1|state), data = d)</code></pre>
@@ -44,6 +54,36 @@
 
   <footer>
   
+<script>
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-43032207-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/r.min.js"></script>
+
+<script>
+hljs.configure({languages: []});
+hljs.initHighlightingOnLoad();
+</script>
+
+<script src="//yihui.name/js/math-code.js"></script>
+<script async
+src="//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js">
+</script>
+
+  
+  <hr/>
+  &copy; <a href="https://joshuamrosenberg.com">Joshua M. Rosenberg</a> 2015 &ndash; 2018 | <a href="https://scholar.google.com/citations?user=nxVowRQAAAAJ&amp;hl=en">Google Scholar</a> | <a href="https://www.researchgate.net/profile/Joshua_Rosenberg2">ResearchGate</a> | <a href="https://github.com/jrosen48">Github</a> | <a href="https://twitter.com/jrosenberg6432">Twitter</a>
   
   </footer>
   </body>

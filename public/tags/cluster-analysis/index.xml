@@ -13,10 +13,10 @@
     
     <item>
       <title>How many groups of Star Wars characters are there? R-squared and cross-validation approaches</title>
-      <link>/posts/how-many-groups-of-star-wars-characters-are-there-r-squared-and-cross-validation-approaches/</link>
+      <link>/blog/how-many-groups-of-star-wars-characters-are-there-r-squared-and-cross-validation-approaches/</link>
       <pubDate>Sun, 02 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/posts/how-many-groups-of-star-wars-characters-are-there-r-squared-and-cross-validation-approaches/</guid>
+      <guid>/blog/how-many-groups-of-star-wars-characters-are-there-r-squared-and-cross-validation-approaches/</guid>
       <description>Background How many groups, or types, of Star Wars characters are there? I’ve been wanting to use the starwars dataset built-in to the dplyr package, and at the same time, have been working hard on an R package to carry out an analysis suited to doing this. Part of the challenge of using the approach in this R package is determining how groups groups there are.
 Many approaches (Latent Profile Analysis, for example) use Maximum Likelihood estimation (while the approach I’ve developed uses a two-step cluster analysis based around the geometric (and algebraic) idea of “distance”, or how close (similar) observations are).</description>
     </item>

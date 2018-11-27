@@ -23,19 +23,19 @@ I have something that seems to work and so thought I would share what I did as a
     
     <item>
       <title>Using R Markdown and papaja with a LaTeX class to submit a conference proposal: A few notes</title>
-      <link>/posts/using-r-markdown-with-a-latex-class-a-few-notes/</link>
+      <link>/blog/using-r-markdown-with-a-latex-class-a-few-notes/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>/posts/using-r-markdown-with-a-latex-class-a-few-notes/</guid>
+      <guid>/blog/using-r-markdown-with-a-latex-class-a-few-notes/</guid>
       <description>With my colleagues Emily Bovee (who had the idea for the project and is the first author) and John Ranellucci, I worked on a conference proposal for a conference that provided either a Word Document template or a LaTeX class. Since I had just used (that’s a generous way to put it - I really had struggled through it) LaTeX, I proposed that we see whether we could (continue to) use R and R Markdown, which we used to analyze the data, to prepare the manuscript.</description>
     </item>
     
     <item>
       <title>A quick introduction and tutorial on a cool social network analysis model for influence</title>
-      <link>/posts/social-network-analysis-model-for-influence/</link>
+      <link>/blog/social-network-analysis-model-for-influence/</link>
       <pubDate>Thu, 02 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/posts/social-network-analysis-model-for-influence/</guid>
+      <guid>/blog/social-network-analysis-model-for-influence/</guid>
       <description>Social network is increasingly common in education (Sweet, 2016). Very often, social network analysis is used to create sociograms, or depictions of a network. I did this in a paper I recently co-authored (here is a pre-print), we worked hard to create this figure:
 
 Such figures (we thought–and I think) look nice and they are often useful for understanding the characteristics of a network and the relations that are part of it.</description>
@@ -43,79 +43,79 @@ Such figures (we thought–and I think) look nice and they are often useful for 
     
     <item>
       <title>Explorations in Markov Chain Monte Carlo - comparing results from MCMCglmm and lme4</title>
-      <link>/posts/explorations-in-markov-chain-monte-carlo-mcmc/</link>
+      <link>/blog/explorations-in-markov-chain-monte-carlo-mcmc/</link>
       <pubDate>Mon, 26 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>/posts/explorations-in-markov-chain-monte-carlo-mcmc/</guid>
+      <guid>/blog/explorations-in-markov-chain-monte-carlo-mcmc/</guid>
       <description>Introduction I’ve been interested in Markov Chain Monte Carlo (MCMC) for a little while, in part because of a paper by Tom Houslay and Alastair Wilson (2017) that shows how using output from models the way I have been can lead to results that overstate the impact of effects.
 In particular, I’m working on a project with colleagues in which we try to figure out how students’ engagement in summer STEM programs relates to changes in their interest (in STEM), controlling for their initial levels of interest.</description>
     </item>
     
     <item>
       <title>Finding the top rail-trails in each state using mixed effects models</title>
-      <link>/posts/find-the-top-rail-trails-in-each-state/</link>
+      <link>/blog/find-the-top-rail-trails-in-each-state/</link>
       <pubDate>Thu, 22 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/posts/find-the-top-rail-trails-in-each-state/</guid>
+      <guid>/blog/find-the-top-rail-trails-in-each-state/</guid>
       <description>Outside of education, one of my interests is cycling, and one of my favorite ways to cycle is on rail-trails, pathways and greenways that are converted from former railroad tracks.
 In a side-project (and because the data source can be used for teaching and learning about complex, nested data), I collected information from the TrailLink website. I’ve blogged about this data here and here to find out what the best rail-trails in Michigan are and to find out what the characteristics of the best rail-trails are, respectively.</description>
     </item>
     
     <item>
       <title>Introducing tidyLPA (an R package for carrying out Latent Profile Analysis)</title>
-      <link>/posts/introducing-tidylpa-an-r-package-for-carrying-out-latent-profile-analysis/</link>
+      <link>/blog/introducing-tidylpa-an-r-package-for-carrying-out-latent-profile-analysis/</link>
       <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/posts/introducing-tidylpa-an-r-package-for-carrying-out-latent-profile-analysis/</guid>
+      <guid>/blog/introducing-tidylpa-an-r-package-for-carrying-out-latent-profile-analysis/</guid>
       <description>I’m excited to introduce tidyLPA, an R package for carrying out Latent Profile Analysis (LPA). This is the result of a collaborative project with Jennifer Schmidt, Patrick Beymer, and Rebecca Steingut, and is the result of a long period of learning about cluster analysis (see here) and, recently, model-based cluster analysis. Here, I introduce and describe LPA as a particular type of model-based cluster analysis.
 Background Latent Profile Analysis (LPA) is a statistical modeling approach for estimating distinct profiles, or groups, of variables.</description>
     </item>
     
     <item>
       <title>A Shiny interactive web application to quantify how robust inferences are to potential sources of bias (sensitivity analysis)</title>
-      <link>/posts/a-shiny-interactive-web-application-to-quantify-how-robust-inferences-are-to-potential-sources-of-bias-sensitivity-analysis/</link>
+      <link>/blog/a-shiny-interactive-web-application-to-quantify-how-robust-inferences-are-to-potential-sources-of-bias-sensitivity-analysis/</link>
       <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/posts/a-shiny-interactive-web-application-to-quantify-how-robust-inferences-are-to-potential-sources-of-bias-sensitivity-analysis/</guid>
+      <guid>/blog/a-shiny-interactive-web-application-to-quantify-how-robust-inferences-are-to-potential-sources-of-bias-sensitivity-analysis/</guid>
       <description>As part of a revise and resubmit decision for a paper (that was just accepted to the Journal of Youth and Adolescence (pre-print here)), we (Patrick Beymer, Jennifer Schmidt, and I) were asked by the editor to carry out sensitivity analysis for findings. Our understanding was that, in this context, sensitivity analysis means one of two things - or both:
  How results hold up under different specfications of an analyses How much bias would have to be present to invalidate an inference  Over the past year or so, I had learned about sensitivity analysis from a class and then work with Ken Frank.</description>
     </item>
     
     <item>
       <title>Modifying an R function to iterate (using purrr) and use non-standard evaluation (using rlang)</title>
-      <link>/posts/modifying-an-r-function-to-use-non-standard-evaluation/</link>
+      <link>/blog/modifying-an-r-function-to-use-non-standard-evaluation/</link>
       <pubDate>Sun, 17 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/posts/modifying-an-r-function-to-use-non-standard-evaluation/</guid>
+      <guid>/blog/modifying-an-r-function-to-use-non-standard-evaluation/</guid>
       <description>Background Research in classrooms and schools can be complex because of all of the factors that matter. A question that often comes up when we say that we observed some pattern in data is, but did you control for X?
 In the context of working on an approach to find out how impactful an omitted variable would need to be to invalidate an inference, we had to modify a function that worked for a single sensitivity analysis to work for many and to be easier to use.</description>
     </item>
     
     <item>
       <title>A first pass at Latent Profile Analysis using MCLUST (in R)</title>
-      <link>/posts/lpa-in-r-using-mclust/</link>
+      <link>/blog/lpa-in-r-using-mclust/</link>
       <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/posts/lpa-in-r-using-mclust/</guid>
+      <guid>/blog/lpa-in-r-using-mclust/</guid>
       <description>Note - an R package for carrying out Latent Profile Analysis (LPA): tidyLPA Since writing this post, I have worked with colleagues to release an R package to carry out the analysis. The package is tidyLPA and is described in the following sections, through the “Original Post” header below which is the beginning of the original post.
 Introduction Latent Profile Analysis (LPA) is a statistical modeling approach for estimating distinct profiles, or groups, of variables.</description>
     </item>
     
     <item>
       <title>Using characteristics of rail-trails to predict how they are rated</title>
-      <link>/posts/characteristics-of-rail-trails/</link>
+      <link>/blog/characteristics-of-rail-trails/</link>
       <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/posts/characteristics-of-rail-trails/</guid>
+      <guid>/blog/characteristics-of-rail-trails/</guid>
       <description>Catching up I wrote a blog post (one that, to be honest, I liked a lot) on what the best rail-trails are in Michigan (here). A friend and colleague at MSU, Andy, noticed that paved trails seemed to be rated higher, and this as well as my cfriend and colleague Kristy’s comment about how we can use the output of the the previous post sparked my curiosity in trying to figure out what characteristics predict how highly (or not highly) rated trails are.</description>
     </item>
     
     <item>
       <title>What are the best rail-trails in Michigan?</title>
-      <link>/posts/michigan-rail-trails-and-pathways-through-data/</link>
+      <link>/blog/michigan-rail-trails-and-pathways-through-data/</link>
       <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/posts/michigan-rail-trails-and-pathways-through-data/</guid>
+      <guid>/blog/michigan-rail-trails-and-pathways-through-data/</guid>
       <description>Background I was curious about what rail trails were the best in Michigan, and so to figure out an answer, I checked out the TrailLink website, sponsored by the Rails-to-Trails Conservancy. I had just purchased a copy of their book Rail-Trails Michigan and Wisconsin, and wanted to see whether I could learn more from the website.
 To start, I checked whether they had a way to access the reviews on the site through an API.</description>
     </item>
