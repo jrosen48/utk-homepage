@@ -51,6 +51,12 @@ University of Tennessee, Knoxville
 ### Peer-Reviewed Journal Articles
 
 \hangindent=2em
+Xu, R., Frank, K. A., Maroulis, S., & Rosenberg, J. M. (in press). Konfound: Atata module to quantify robustness of causal inferences. *The Stata Journal*. https://www.stata-journal.com/ (*Nb. Software-related publication*)
+
+\hangindent=2em
+Rosenberg, J. M., Beymer, P. N., Anderson, D. J., & Schmidt, J. A. (2018). tidyLPA: An R package to easily carry out Latent Profile Analysis (LPA) using open-source or commercial software. *Journal of Open Source Software, 3*(30), 978, https://doi.org/10.21105/joss.00978 (*Nb. Software-related publication*)
+
+\hangindent=2em
 Greenhalgh, S. P., Staudt Willet, K. B., Rosenberg, J. M., & Koehler, M. J. (2018). Tweet, and we shall find: Using digital methods to locate participants in educational hashtags. *TechTrends, 62*(5), 501-508. https://doi.org/10.1007/s11528-018-0313-6 <a href = "https://bretsw.github.io/files/Greenhalgh_StaudtWillet_Rosenberg_Koehler_preprint.pdf"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
 \hangindent=2em
@@ -83,11 +89,6 @@ Rosenberg, J. M., Terry, C. A., Bell, J., Hiltz, V., & Russo, T. (2016). Design 
 
 \hangindent=2em
 Rosenberg, J. M., & Koehler, M. J. (2015). Context and Technological Pedagogical Content Knowledge (TPACK): A systematic review. *Journal of Research on Technology in Education, 47*, 186-210. http://dx.doi.org/10.1080/15391523.2015.1052663 <a href = "/pre-prints/rosenberg-koehler-2015-jrte.pdf"><img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
-
-### Peer-Reviewed Journal Articles (Software-Related)
-
-\hangindent=2em
-Rosenberg, J. M., Beymer, P. N., Anderson, D. J., & Schmidt, J. A. (2018). tidyLPA: An R package to easily carry out Latent Profile Analysis (LPA) using open-source or commercial software. *Journal of Open Source Software, 3*(30), 978, https://doi.org/10.21105/joss.00978
 
 ### Journal Articles in Submission or Preparation 
 
