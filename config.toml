@@ -8,6 +8,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
 footnotereturnlinkcontents = "↩"
 paginate = 5
+math = true
 
 [permalinks]
     post = "/post/:year/:month/:day/:slug/"
