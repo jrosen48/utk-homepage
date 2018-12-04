@@ -46,7 +46,7 @@ University of Tennessee, Knoxville
 
 ### Peer-Reviewed Journal Articles
 
-Xu, R., Frank, K. A., Maroulis, S., & Rosenberg, J. M. (in press). Konfound: Atata module to quantify robustness of causal inferences. *The Stata Journal*. https://www.stata-journal.com/ (*Nb. Software-related publication*)
+Xu, R., Frank, K. A., Maroulis, S., & Rosenberg, J. M. (in press). Konfound: A Stata module to quantify robustness of causal inferences. *The Stata Journal*. https://www.stata-journal.com/ (*Nb. Software-related publication*)
 
 Rosenberg, J. M., Beymer, P. N., Anderson, D. J., & Schmidt, J. A. (2018). tidyLPA: An R package to easily carry out Latent Profile Analysis (LPA) using open-source or commercial software. *Journal of Open Source Software, 3*(30), 978, https://doi.org/10.21105/joss.00978 (*Nb. Software-related publication*)
 
@@ -56,7 +56,7 @@ Beymer, P. N., Rosenberg, J. M., Schmidt, J. A., & Naftzger, N. (2018). Examinin
 
 Akcaoglu, M., Rosenberg, J. M., Ranellucci, J., & Schwarz, C. V. (2018). Outcomes from a self-generated utility value intervention on fifth and sixth-grade students’ value and interest in science. *International Journal of Educational Research, 87*, 67-77. https://www.sciencedirect.com/science/article/pii/S0883035517308492 <a href = "/pre-prints/Akcaoglu_Rosenberg_Ranellucci_Schwarz_2018_preprint.pdf"><img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
-Schmidt, J. A., Rosenberg, J. M., & Beymer, P. (2018). A person-in-context approach to student engagement in science: Examining learning activities and choice. *Journal of Research in Science Teaching, 55*(1), 19-43. https://dx.doi.org/10.1002/tea.21409 <a href = "/pre-prints/Schmidt_Rosenberg_Beymer_2018_preprint.pdf"><img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> *Note.* This article was recognized as one of the 20 most-downloaded articles in JRST between June, 2016 and June, 2018
+Schmidt, J. A., Rosenberg, J. M., & Beymer, P. (2018). A person-in-context approach to student engagement in science: Examining learning activities and choice. *Journal of Research in Science Teaching, 55*(1), 19-43. https://dx.doi.org/10.1002/tea.21409 <a href = "/pre-prints/Schmidt_Rosenberg_Beymer_2018_preprint.pdf"><img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> (*Nb. This article was recognized as one of the 20 most-downloaded articles in JRST between June, 2016 and June, 2018*)
 
 Rosenberg, J.M., Greenhalgh, S.P., Graves Wolf, L. & Koehler, M.J. (2017). Strategies, use, and impact of social media for supporting teacher community within professional development: The case of one urban STEM program. *Journal of Computers in Mathematics and Science Teaching, 36*(3), 255-267. https://www.learntechlib.org/primary/p/180387/ <a href = "/pre-prints/Rosenberg-Greenhalgh-Wolf-Koehler-2017-JCMST.pdf"><img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
@@ -198,7 +198,7 @@ Schell, M. J., Beymer, P. N. Albert, K. M., Rosenberg, J. M., & Schmidt, J. A. (
 
 Carpenter, J., Rosenberg, J. M., Dousay, T., Romero-Hall, E., Trust, T., Kessler, A., ... & Krutka, D. (2019, March). *What do teacher educators think of teacher education technology competencies?* Paper to be presented at the Society for Information Technology and Teacher Education International Conference, Las Vegas, NV.
 
-Rosenberg, J. M., & Reid, J. (2019, January). *The roles of the Twitter hashtag #NGSSchat in the context of science education reform efforts*. Paper to be presented at the Association for Science Teacher Education International Meeting, Savannah, GA.
+Rosenberg, J. M., & Reid, J. (2019, January). *The roles of the Twitter hashtag #NGSSchat in the context of science education reform efforts*. Paper to be presented at the Association for Science Teacher Education International Meeting, Savannah, GA. (*Nb. This paper was nominated for the ASTE John C. Park National Technology Leadership Institute Award*)
 
 Akcaoglu, M., Hodges, C. B., Rosenberg, J. M., & Hilpert, J. (2018, October). *Factors impacting middle school students' interest, efficacy, and utility value of programming*. Paper presented at the Association for Educational Communications and Technology International Convention 2018. Kansas City, MO.
 
@@ -340,6 +340,7 @@ MSU-AT&T Instructional Technology Award (Honorable Mention): Best Online Course,
 
 Instructor at the University of Tennessee, Knoxville
 
+*Nature of Mathematics and Science Education* (SCED 572,  M.A. and Ph.D. class)
 *Teaching Science in Grades 7-12* (TPTE 495, SCED 496, & SCED 543,  B.S. & M.A. class)
 
 Instructor at Michigan State University:
@@ -391,7 +392,7 @@ Reviewer, American Psychological Association (APA) Convention, 2015
 
 ### Ad-hoc Journal Article Reviews
 
-Computers & Education, Australasian Journal of Educational Technology, Journal of Open Source Software, Asia-Pacific Education Researcher, 2018
+Computers & Education, Australasian Journal of Educational Technology (2), Journal of Open Source Software, Asia-Pacific Education Researcher, Contemporary Educational Psychology, 2018
 
 Computers & Education, Journal of Educational Technology & Society, 2017
 

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Data science on Joshua M. Rosenberg</title>
+    <title>data science on Joshua M. Rosenberg</title>
     <link>/tags/data-science/</link>
-    <description>Recent content in Data science on Joshua M. Rosenberg</description>
+    <description>Recent content in data science on Joshua M. Rosenberg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 13 Mar 2017 00:00:00 +0000</lastBuildDate>

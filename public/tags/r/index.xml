@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>R on Joshua M. Rosenberg</title>
+    <title>r on Joshua M. Rosenberg</title>
     <link>/tags/r/</link>
-    <description>Recent content in R on Joshua M. Rosenberg</description>
+    <description>Recent content in r on Joshua M. Rosenberg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 15 Aug 2017 00:00:00 +0000</lastBuildDate>
@@ -131,7 +131,7 @@ I listened to an episode of the Not So Standard Deviations, in which the hosts P
       <description>Alex Lishinski and I worked on an R package over the last year or so. We are excited that it’s now available on CRAN.
 You can install the package using install.packages(&#39;clustRcompaR&#39;) (only needed first time) and load it (more on its two functions below) using library(clustRcompaR).
 Here’s a description:
- Provides an interface to perform cluster analysis on a corpus of text. Interfaces to Quanteda to assemble text corpuses easily. Deviationalizes text vectors prior to clustering using technique described by Sherin (Sherin, B.</description>
+ Provides an interface to perform cluster analysis on a corpus of text. Interfaces to Quanteda to assemble text corpuses easily.</description>
     </item>
     
   </channel>

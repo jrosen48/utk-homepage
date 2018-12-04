@@ -188,7 +188,7 @@ ggplot(results_df, aes(x = pct_bias_to_change_inference, fill = action)) +
     ylab(&quot;Count&quot;) +
     xlab(&quot;Percent Bias&quot;)</code></pre>
 <pre><code>## `stat_bin()` using `bins = 30`. Pick better value with `binwidth`.</code></pre>
-<p><img src="/posts/2017-12-17-modifying-an-r-function-to-use-non-standard-evaluation_files/figure-html/unnamed-chunk-12-1.png" width="672" /></p>
+<p><img src="/blog/2017-12-17-modifying-an-r-function-to-use-non-standard-evaluation_files/figure-html/unnamed-chunk-12-1.png" width="672" /></p>
 <p>Like many functions in R, this could be written many different ways, and this post shows just one approach to writing a function.</p>
 <p>In some cases, non-standard evaluation makes the function a bit harder to use - particularly in cases in which we are interested in the output from only a single study.</p>
 <p>In that case, we would want to go back to the function we initially wrote (<code>core_sensitivity_mkonfound()</code>) or would have to write something a bit like:</p>
