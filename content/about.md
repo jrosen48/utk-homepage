@@ -46,7 +46,7 @@ University of Tennessee, Knoxville
 
 ### Peer-Reviewed Journal Articles
 
-Xu, R., Frank, K. A., Maroulis, S., & Rosenberg, J. M. (in press). Konfound: Atata module to quantify robustness of causal inferences. *The Stata Journal*. https://www.stata-journal.com/ (*Nb. Software-related publication*)
+Xu, R., Frank, K. A., Maroulis, S., & Rosenberg, J. M. (in press). Konfound: A Stata module to quantify robustness of causal inferences. *The Stata Journal*. https://www.stata-journal.com/ (*Nb. Software-related publication*)
 
 Rosenberg, J. M., Beymer, P. N., Anderson, D. J., & Schmidt, J. A. (2018). tidyLPA: An R package to easily carry out Latent Profile Analysis (LPA) using open-source or commercial software. *Journal of Open Source Software, 3*(30), 978, https://doi.org/10.21105/joss.00978 (*Nb. Software-related publication*)
 
@@ -314,7 +314,7 @@ APA Advanced Training Institute on Research Methods with Diverse Groups, 2014
 
 tidyLPA: Easily carry out Latent Profile Analysis (LPA) using open-source and commercial software (w/ J. Schmidt, P. Beymer, D. J. Anderson, and C. J. van Lissa). [https://cran.r-project.org/web/packages/tidyLPA/index.html](https://cran.r-project.org/web/packages/tidyLPA/index.html) <a href = "https://github.com/jrosen48/tidyLPA"><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
-konfound: R package to carry out sensitivity analysis (with R. Xu & K. Frank). [https://github.com/jrosen48/konfound](https://github.com/jrosen48/konfound) <a href = "https://github.com/jrosen48/konfound"><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
+KonFound-It! R package: Rosenberg, J. M., Xu, R., & Frank, K. A. (2018). Konfound-It!: Quantify the robustness of causal inferences (R package). https://jrosen48.github.io/konfound/
 
 prcr: Person-centered analysis (w/ J. Schmidt, P. Beymer, & R. Steingut). CRAN: [https://cran.r-project.org/web/packages/prcr/index.html](https://cran.r-project.org/web/packages/prcr/index.html) <a href = "https://github.com/jrosen48/prcr"><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
@@ -322,7 +322,7 @@ clustRcompaR: Easy interface for clustering a set of documents and exploring gro
 
 ### Interactive Web Applications
 
-Konfound-It!: [https://jmichaelrosenberg.shinyapps.io/shinykonfound/](https://jmichaelrosenberg.shinyapps.io/shinykonfound/) <a href = "https://github.com/jrosen48/shinykonfound"><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
+KonFound-It! web application: Rosenberg, J. M., Xu, R., & Frank, K. A. (2018). Konfound-It!: Quantify the robustness of causal inferences (Web application software). http://konfound-it.com.
 
 State Educational Twitter Hashtags (SETHs): [https://jmichaelrosenberg.shinyapps.io/SETHs](https://jmichaelrosenberg.shinyapps.io/SETHs/)
 
@@ -389,9 +389,13 @@ Reviewer, Association for Educational Communications and Technology (AECT) Inter
 
 Reviewer, American Psychological Association (APA) Convention, 2015
 
+### Service to the Community
+
+Reviewer, Proposals from Knox County Schools students to the NASA Student Spaceflight Experiment Program
+
 ### Ad-hoc Journal Article Reviews
 
-Computers & Education, Australasian Journal of Educational Technology, Journal of Open Source Software, Asia-Pacific Education Researcher, 2018
+Contemporary Educational Psychology, Computers & Education, Australasian Journal of Educational Technology (X2), Journal of Open Source Software, Asia-Pacific Education Researcher, 2018
 
 Computers & Education, Journal of Educational Technology & Society, 2017
 
