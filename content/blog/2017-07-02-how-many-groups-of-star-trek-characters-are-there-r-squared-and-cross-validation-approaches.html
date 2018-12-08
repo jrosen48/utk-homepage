@@ -68,11 +68,11 @@ skimr::skim(starwars_ss)</code></pre>
 ##  n obs: 87 
 ##  n variables: 3 
 ## 
-## ── Variable type:integer ──────────────────────────────────────────────────
+## ── Variable type:integer ────────────────────────────────────────────────────────────────────────────────────────────────────────
 ##  variable missing complete  n   mean    sd p0 p25 p50 p75 p100     hist
 ##    height       6       81 87 174.36 34.77 66 167 180 191  264 ▁▁▁▂▇▃▁▁
 ## 
-## ── Variable type:numeric ──────────────────────────────────────────────────
+## ── Variable type:numeric ────────────────────────────────────────────────────────────────────────────────────────────────────────
 ##    variable missing complete  n  mean     sd p0  p25 p50  p75 p100
 ##  birth_year      44       43 87 87.57 154.69  8 35    52 72    896
 ##        mass      28       59 87 97.31 169.46 15 55.6  79 84.5 1358
@@ -106,10 +106,10 @@ skimr::skim(starwars_ss)</code></pre>
 <h1>Groups</h1>
 <pre class="r"><code>two_profiles &lt;- create_profiles(starwars, height, mass, n_profiles = 2, to_scale = TRUE, to_center = TRUE)
 plot(two_profiles)</code></pre>
-<p><img src="/posts/2017-07-02-how-many-groups-of-star-trek-characters-are-there-r-squared-and-cross-validation-approaches_files/figure-html/unnamed-chunk-5-1.png" width="672" /></p>
+<p><img src="/blog/2017-07-02-how-many-groups-of-star-trek-characters-are-there-r-squared-and-cross-validation-approaches_files/figure-html/unnamed-chunk-5-1.png" width="672" /></p>
 <pre class="r"><code>three_profiles &lt;- create_profiles(starwars, height, mass, n_profiles = 3, to_scale = TRUE, to_center = TRUE)
 plot(three_profiles)</code></pre>
-<p><img src="/posts/2017-07-02-how-many-groups-of-star-trek-characters-are-there-r-squared-and-cross-validation-approaches_files/figure-html/unnamed-chunk-5-2.png" width="672" /></p>
+<p><img src="/blog/2017-07-02-how-many-groups-of-star-trek-characters-are-there-r-squared-and-cross-validation-approaches_files/figure-html/unnamed-chunk-5-2.png" width="672" /></p>
 <div id="the-third-group-massive-not-so-tall" class="section level2">
 <h2>The third group: Massive, not so tall</h2>
 <p>It looks like there is one very massive (literally) observation that makes up one profile in both the two and three profile solutions. Who is it?</p>
