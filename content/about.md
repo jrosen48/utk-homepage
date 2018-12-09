@@ -42,6 +42,12 @@ University of North Carolina, Asheville
 2018-present, Assistant Professor, STEM Education  
 University of Tennessee, Knoxville  
 
+## Related (K-12) Experience
+
+2010-2012, High School Science Teacher (Biology and Earth Science), Shelby High School, Shelby, NC
+
+2009-2010, High School Science Teacher Intern (Biology and Chemistry), C.D. Owen High School, Swannanoa, NC
+
 ## Publications
 
 ### Peer-Reviewed Journal Articles
@@ -457,12 +463,6 @@ Ke, L., Lee, M., Rosenberg, J. M., & Schwarz, C.V. (2014, February). Modeling ac
 Rosenberg, J. M., Rapa, L., & Wolf, L. G. (2013, February). CEP 815 and the transition from ANGEL to Desire2Learn. Poster presented at the 6th Annual Faculty Technology Showcase.
 
 Rosenberg, J. M. (2012, November). Mobile learning for teachers. Presentation at the Michigan State University Educational Technology Conference, East Lansing, MI. 
-
-## Related Experience
-
-High School Science Teacher (Biology and Earth Science), Shelby High School, Shelby, NC, 2010-2012
-
-High School Science Teacher Intern (Biology and Chemistry), C.D. Owen High School, Swannanoa, NC, 2009-2010
 
 ## Consulting
 

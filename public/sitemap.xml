@@ -278,6 +278,12 @@
   </url>
   
   <url>
+    <loc>/categories/blog/</loc>
+    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/blog/</loc>
     <lastmod>2018-10-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -285,45 +291,6 @@
   
   <url>
     <loc>/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/home/</loc>
-  </url>
-  
-  <url>
-    <loc>/about-for-cv/</loc>
-  </url>
-  
-  <url>
-    <loc>/about-source/</loc>
-  </url>
-  
-  <url>
-    <loc>/about/</loc>
-  </url>
-  
-  <url>
-    <loc>/research/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/teaching/</loc>
-  </url>
-  
-  <url>
-    <loc>/categories/blog/</loc>
     <lastmod>2018-10-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -368,6 +335,27 @@
     <loc>/tags/education-policy/</loc>
     <lastmod>2017-03-16T16:32:00-05:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/home/</loc>
+  </url>
+  
+  <url>
+    <loc>/about-for-cv/</loc>
+  </url>
+  
+  <url>
+    <loc>/about-source/</loc>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
   </url>
   
   <url>
@@ -422,6 +410,20 @@
     <loc>/tags/rail-trails/</loc>
     <lastmod>2017-07-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/research/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2017-07-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/teaching/</loc>
   </url>
   
   <url>

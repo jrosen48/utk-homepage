@@ -6,12 +6,13 @@
     <description>Recent content in Categories on Joshua M. Rosenberg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 25 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>blog</title>
+      <title>Blog</title>
       <link>/categories/blog/</link>
       <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
       
@@ -20,7 +21,7 @@
     </item>
     
     <item>
-      <title>mixture models</title>
+      <title>Mixture models</title>
       <link>/categories/mixture-models/</link>
       <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
       
@@ -29,7 +30,7 @@
     </item>
     
     <item>
-      <title>presentation</title>
+      <title>Presentation</title>
       <link>/categories/presentation/</link>
       <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
       
@@ -38,7 +39,7 @@
     </item>
     
     <item>
-      <title>r</title>
+      <title>R</title>
       <link>/categories/r/</link>
       <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
       
@@ -47,7 +48,7 @@
     </item>
     
     <item>
-      <title>workflow</title>
+      <title>Workflow</title>
       <link>/categories/workflow/</link>
       <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
       

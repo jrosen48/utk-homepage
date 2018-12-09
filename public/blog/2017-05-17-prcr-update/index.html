@@ -34,9 +34,6 @@
 </div>
 
 <main>
-
-
-
 <p>The R package for person-oriented analysis (<a href="https://github.com/jrosen48/prcr">prcr</a>) is updated (it’s now version 0.1.4).</p>
 <p>In particular, it was not clear how to use the profile assignments (i.e., what cluster each response is in) in subsequent analyses. So, the update now returns two different representations of the profile assignments, or which profile is associated with each observation: a) the original “data.frame” with the profile assignment added in one variable and b) the original “data.frame” with the profile assignments added in dummy-coded form (i.e., one variable for each profile which is “1” when the observation is associated with the profile and “0” otherwise).</p>
 <p>This required changing how the variables used to create the profiles are specified. While before every variable in the “data.frame” was used, so subsetting the “data.frame” before using it, now the whole “data.frame” is the first argument to “create_profiles()”, and variable used to create the profiles are named (unquoted).</p>
@@ -59,7 +56,7 @@ two_profile_solution$data_with_dummy_codes</code></pre>
 
   <footer>
   
-<script type="application/javascript">
+<script>
 var doNotTrack = false;
 if (!doNotTrack) {
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

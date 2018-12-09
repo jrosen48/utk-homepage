@@ -34,9 +34,6 @@
 </div>
 
 <main>
-
-
-
 <p>In August of last year, I wrote a <a href="https://jrosen48.github.io/blog/when-are-ed-psych-jobs-posted/">post</a> that involved looking at when educational psychology jobs (mostly, but not only, academic jobs or those related to research and teaching) were posted to the excellent <a href="http://edpsychjobs.info/">Ed Psych Jobs</a> website. As that post made (in part) the (anticipated) point that most jobs were posted in September (in which 16% of jobs were posted there) and October (14%) (followed by August, with 11%), I thought that it may be helpful to see how accurate that was over the past year.</p>
 <p>The code for scraping the data from the website is largely the same; fortunately, Ed Psych Jobs / Division 15 didn’t change the page’s permissions (see the section on the <code>robots.txt</code> file in last year’s post) in terms of how its content may be scraped.</p>
 <p>Here’s the main function:</p>
@@ -93,7 +90,7 @@ ggplot(df_plot_2, aes(x = month, y = n, group = year, color = year)) +
 
   <footer>
   
-<script type="application/javascript">
+<script>
 var doNotTrack = false;
 if (!doNotTrack) {
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
