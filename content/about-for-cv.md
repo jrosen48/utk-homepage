@@ -42,6 +42,12 @@ University of North Carolina, Asheville
 2018-present, Assistant Professor, STEM Education  
 University of Tennessee, Knoxville  
 
+## Related (K-12) Experience
+
+2010-2012, High School Science Teacher (Biology and Earth Science), Shelby High School, Shelby, NC
+
+2009-2010, High School Science Teacher Intern (Biology and Chemistry), C.D. Owen High School, Swannanoa, NC
+
 ## Publications
 
 ### Peer-Reviewed Journal Articles
@@ -396,11 +402,7 @@ Reviewer, Proposals from Knox County Schools students to the NASA Student Spacef
 
 ### Ad-hoc Journal Article Reviews
 
-<<<<<<< HEAD
 Contemporary Educational Psychology, Computers & Education, Australasian Journal of Educational Technology (X2), Journal of Open Source Software, Asia-Pacific Education Researcher, 2018
-=======
-Computers & Education, Australasian Journal of Educational Technology (2), Journal of Open Source Software, Asia-Pacific Education Researcher, Contemporary Educational Psychology, 2018
->>>>>>> a08600272c90477ea89323262080ba7bdfe006bc
 
 Computers & Education, Journal of Educational Technology & Society, 2017
 
@@ -457,12 +459,6 @@ Ke, L., Lee, M., Rosenberg, J. M., & Schwarz, C.V. (2014, February). Modeling ac
 Rosenberg, J. M., Rapa, L., & Wolf, L. G. (2013, February). CEP 815 and the transition from ANGEL to Desire2Learn. Poster presented at the 6th Annual Faculty Technology Showcase.
 
 Rosenberg, J. M. (2012, November). Mobile learning for teachers. Presentation at the Michigan State University Educational Technology Conference, East Lansing, MI. 
-
-## Related Experience
-
-High School Science Teacher (Biology and Earth Science), Shelby High School, Shelby, NC, 2010-2012
-
-High School Science Teacher Intern (Biology and Chemistry), C.D. Owen High School, Swannanoa, NC, 2009-2010
 
 ## Consulting
 

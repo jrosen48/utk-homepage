@@ -126,8 +126,7 @@ The most important thing - a safe route! The most important thing is a safe rout
       <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/blog/aera-presentation-patterns-of-engagement-in-a-flipped-undergraduate-class-antecedents-and-outcomes-information-slides-paper-code/</guid>
-      <description>I’m presenting a second paper at AERA on patterns of (outside of class) engagement in a flipped undergraduate class with my colleagues You-kyung Lee, Kristy Robinson, John Ranellucci, Cary Roseth, and Lisa Linnenbrink-Garcia. The presentation is at 8:15 am (Sunday, 4/15) in the Millenium Broadway Hotel (Room 7.04) and is on a session on emotions, engagement, and technology (with some very interesting papers presented by co-presenters in the session!).
- Slides here Paper here Code  </description>
+      <description>I’m presenting a second paper at AERA on patterns of (outside of class) engagement in a flipped undergraduate class with my colleagues You-kyung Lee, Kristy Robinson, John Ranellucci, Cary Roseth, and Lisa Linnenbrink-Garcia. The presentation is at 8:15 am (Sunday, 4/15) in the Millenium Broadway Hotel (Room 7.04) and is on a session on emotions, engagement, and technology (with some very interesting papers presented by co-presenters in the session!).</description>
     </item>
     
     <item>
@@ -148,8 +147,7 @@ The paper is in the session “Data-Intensive Approaches to Studying Engagement 
       <guid>/blog/an-r-package-for-sensitivity-analysis-konfound/</guid>
       <description>knitr::opts_chunk$set( comment = &amp;quot;#&amp;gt;&amp;quot;, collapse = TRUE ) With Ran Xu and Ken Frank, I have worked on a Shiny interactive web application for sensitivity analysis as well as an R package for carrying out sensitivity analysis using R.
 That R package is now available on CRAN! A link to the CRAN page for it is here and the website for the package is here.
-Here is the description:
- Statistical methods that quantify the conditions necessary to alter inferences, also known as sensitivity analysis, are becoming increasingly important to a variety of quantitative sciences.</description>
+Here is the description:</description>
     </item>
     
     <item>
@@ -229,8 +227,7 @@ In the context of working on an approach to find out how impactful an omitted va
       
       <guid>/blog/mvlri-blog-post-on-data-practices/</guid>
       <description>I have worked to design activities for students to work with authentic data sources in their science classes through a collaboration with Michigan Virtual School and the Michigan Virtual Learning Research Institute.
-As a part of this project, which was supported by their dissertation research fellowship, I hosted a webinar. I also wrote a post for the Michigan Virtual Learning Research Institute Blog: Research, Policy, Innovation &amp;amp; Networks blog.
-Here is an excerpt of the post:</description>
+As a part of this project, which was supported by their dissertation research fellowship, I hosted a webinar. I also wrote a post for the Michigan Virtual Learning Research Institute Blog: Research, Policy, Innovation &amp;amp; Networks blog.</description>
     </item>
     
     <item>
@@ -291,7 +288,7 @@ We examine how common these profiles are in laboratory activities and on the bas
       <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>/blog/podcasts-i-do-not-miss/</guid>
-      <description>Between commuting by bicycle and working, I listen to a lot of podcasts. I listen to podcasts to learn something new, keep up with the news, and, occasionally, hear other viewpoints. I thought it would be worth sharing a few that I (almost) never miss downloading and listening to, especially those that others may not regularly hear about, are new, or are sort of niche in terms of the audience. For what it’s worth, I use Pocket Casts both on my computer and phone, as it syncs easily between them and has an easy to use interface.</description>
+      <description>Between commuting by bicycle and working, I listen to a lot of podcasts. I listen to podcasts to learn something new, keep up with the news, and, occasionally, hear other viewpoints. I thought it would be worth sharing a few that I (almost) never miss downloading and listening to, especially those that others may not regularly hear about, are new, or are sort of niche in terms of the audience.</description>
     </item>
     
     <item>
@@ -464,7 +461,7 @@ I listened to an episode of the Not So Standard Deviations, in which the hosts P
       <description>Alex Lishinski and I worked on an R package over the last year or so. We are excited that it’s now available on CRAN.
 You can install the package using install.packages(&#39;clustRcompaR&#39;) (only needed first time) and load it (more on its two functions below) using library(clustRcompaR).
 Here’s a description:
- Provides an interface to perform cluster analysis on a corpus of text. Interfaces to Quanteda to assemble text corpuses easily. Deviationalizes text vectors prior to clustering using technique described by Sherin (Sherin, B.</description>
+ Provides an interface to perform cluster analysis on a corpus of text. Interfaces to Quanteda to assemble text corpuses easily.</description>
     </item>
     
     <item>
@@ -493,7 +490,7 @@ I started to look for a new hosting company, and slowly started to coalesce arou
       <pubDate>Thu, 18 Aug 2016 16:10:05 +0000</pubDate>
       
       <guid>/blog/20160818-git-what-contributing-to-an-open-source-software-project/</guid>
-      <description>Git what? Contributing to an open-source software project [updated] Over the past month, I have struggled to contribute (a super small contribution - only an adaptation of an already-existing part) to an open-source software project. The process has been hard, but a good experience nonetheless with a lot of help along the way.
+      <description> Git what? Contributing to an open-source software project [updated] Over the past month, I have struggled to contribute (a super small contribution - only an adaptation of an already-existing part) to an open-source software project. The process has been hard, but a good experience nonetheless with a lot of help along the way.
  </description>
     </item>
     
@@ -503,7 +500,7 @@ I started to look for a new hosting company, and slowly started to coalesce arou
       <pubDate>Fri, 15 Apr 2016 09:31:38 +0000</pubDate>
       
       <guid>/blog/20160415-an-examination-of-students-epistemic-considerations-with-an-automated-approach-at-narst2016/</guid>
-      <description>An examination of students With Christina Schwarz, I presented on an examination of students’ epistemic considerations with an automated approach at the National Association for Research in Science Teaching Annual International Conference. Slides from the presentation are available here (PDF).
+      <description> An examination of students With Christina Schwarz, I presented on an examination of students’ epistemic considerations with an automated approach at the National Association for Research in Science Teaching Annual International Conference. Slides from the presentation are available here (PDF).
  </description>
     </item>
     
@@ -513,7 +510,7 @@ I started to look for a new hosting company, and slowly started to coalesce arou
       <pubDate>Wed, 23 Mar 2016 08:10:46 +0000</pubDate>
       
       <guid>/blog/20160323-presentation-on-an-introduction-to-r-for-programming-and-statistical-analysis-in-education/</guid>
-      <description>Presentation on an Introduction to R for Programming and Statistical Analysis in Education I had the opportunity to present an Introduction to R for Programming and Statistical Analysis in Education on the invitation of my colleague Mete Akcaoglu at Georgia Southern University’s College of Education. The presentation is available here.
+      <description> Presentation on an Introduction to R for Programming and Statistical Analysis in Education I had the opportunity to present an Introduction to R for Programming and Statistical Analysis in Education on the invitation of my colleague Mete Akcaoglu at Georgia Southern University’s College of Education. The presentation is available here.
  </description>
     </item>
     
@@ -523,7 +520,7 @@ I started to look for a new hosting company, and slowly started to coalesce arou
       <pubDate>Tue, 22 Mar 2016 23:09:48 +0000</pubDate>
       
       <guid>/blog/20160322-presentation-on-state-educational-twitter-hashtags-at-siteconf/</guid>
-      <description>Presentation on State Educational Twitter Hashtags at #siteconf With Matthew Koehler, Mete Akcaoglu, Spencer Greenhalgh, and Erica Hamilton, I presented on State Educational Twitter Hashtags at the Society for Information Technology and Teacher Education conference. We created an interactive web application to share the findings using R and Shiny that is available here. If you check it out then please let us know what you think.
+      <description> Presentation on State Educational Twitter Hashtags at #siteconf With Matthew Koehler, Mete Akcaoglu, Spencer Greenhalgh, and Erica Hamilton, I presented on State Educational Twitter Hashtags at the Society for Information Technology and Teacher Education conference. We created an interactive web application to share the findings using R and Shiny that is available here. If you check it out then please let us know what you think.
  </description>
     </item>
     
@@ -533,7 +530,7 @@ I started to look for a new hosting company, and slowly started to coalesce arou
       <pubDate>Fri, 06 Nov 2015 15:27:57 +0000</pubDate>
       
       <guid>/blog/20151106-slides-for-what-teachers-and-researchers-discuss-at-science-education-conferences-at-aect15/</guid>
-      <description>Slides for What Teachers and Researchers Discuss at Science Education Conferences at #AECT15 Slides for my presentation at AECT in the graduate student panel discussion on learning analytics on what teachers and researchers discuss at science education conferences are available here (in a Google Presentation).
+      <description> Slides for What Teachers and Researchers Discuss at Science Education Conferences at #AECT15 Slides for my presentation at AECT in the graduate student panel discussion on learning analytics on what teachers and researchers discuss at science education conferences are available here (in a Google Presentation).
  </description>
     </item>
     
@@ -543,7 +540,7 @@ I started to look for a new hosting company, and slowly started to coalesce arou
       <pubDate>Fri, 06 Nov 2015 10:03:06 +0000</pubDate>
       
       <guid>/blog/20151106-slides-for-an-examination-of-state-educational-twitter-hashtags/</guid>
-      <description>Slides for An Examination of State Educational Twitter Hashtags at #AECT15 Slides for my presentation with Meta Akcaoglu, Erica Hamilton, Spencer Greenhalgh, and Matthew Koehler at AECT on State Educational Twitter Hashtags are available here (in a Google Presentation).
+      <description> Slides for An Examination of State Educational Twitter Hashtags at #AECT15 Slides for my presentation with Meta Akcaoglu, Erica Hamilton, Spencer Greenhalgh, and Matthew Koehler at AECT on State Educational Twitter Hashtags are available here (in a Google Presentation).
  </description>
     </item>
     
@@ -553,8 +550,7 @@ I started to look for a new hosting company, and slowly started to coalesce arou
       <pubDate>Tue, 04 Aug 2015 19:37:29 +0000</pubDate>
       
       <guid>/blog/20150804-first-article-in-jrte/</guid>
-      <description>New article in the Journal of Research on Technology in Education My first article (in the Journal of Research on Technology in Education, JRTE) by me and Matthew J. Koehler is available as an advance online publication. If you’re interested in TPACK and want to see what I’ve been up to, then please check it out (or send me an email so I can send a copy your way).
- </description>
+      <description>New article in the Journal of Research on Technology in Education My first article (in the Journal of Research on Technology in Education, JRTE) by me and Matthew J. Koehler is available as an advance online publication. If you’re interested in TPACK and want to see what I’ve been up to, then please check it out (or send me an email so I can send a copy your way).</description>
     </item>
     
     <item>
@@ -563,7 +559,7 @@ I started to look for a new hosting company, and slowly started to coalesce arou
       <pubDate>Mon, 02 Mar 2015 17:05:10 +0500</pubDate>
       
       <guid>/blog/20150302-presentations-at-site-2015/</guid>
-      <description>Presentations at SITE 2015 I will be attending the Society for Information at Information Technology and Teacher Education 2015 Conference(SITE) this week in Las Vegas, NV. If curious, here is a list of presentations compiled by Spencer Greenhalgh and posted on Punya Mishra’s blog.
+      <description> Presentations at SITE 2015 I will be attending the Society for Information at Information Technology and Teacher Education 2015 Conference(SITE) this week in Las Vegas, NV. If curious, here is a list of presentations compiled by Spencer Greenhalgh and posted on Punya Mishra’s blog.
  </description>
     </item>
     
