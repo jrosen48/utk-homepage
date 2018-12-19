@@ -170,7 +170,9 @@ Rosenberg, J. M. (2018). *Understanding work with data in summer STEM programs: 
 
 ## Fellowships 
 
-2017, Delia Koo Global Travel Fellowship ($500), Michigan State University (MSU)
+2018, Scholarly Activity and Research Incentive Funds, Foreign Travel Award, University of Tennessee, Knoxville (UTK) 
+
+2017, Delia Koo Global Travel Fellowship, Michigan State University (MSU)
 
 2017, Michigan Virtual Learning Research Institute Dissertation Fellowship ($1,500)
 
@@ -186,7 +188,7 @@ Rosenberg, J. M. (2018). *Understanding work with data in summer STEM programs: 
 
 ## Awards
 
-2017, Council of Graduate Students Disciplinary Leadership Award ($2,000), Michigan State University
+2017, Council of Graduate Students Disciplinary Leadership Award, Michigan State University
 
 2016, Best Paper Award, TPACK SIG, SITE International Conference
 
@@ -202,9 +204,11 @@ Beymer, P. N., Schell, M. J., Alberts, K. M., Rosenberg, J. M., & Schmidt, J. A.
 
 Schell, M. J., Beymer, P. N. Albert, K. M., Rosenberg, J. M., & Schmidt, J. A. (2019, April). *Predictors of momentary student engagement profiles in high school science classrooms*. Paper to be presented at the Annual Meeting of the American Educational Research Association, New York, NY.
 
+Reid, J., Rosenberg, J. M., Koehler, M. J., Fischer, C., & McKenna, T. J. (2019, March). *An exploration of #NGSSchat through social network analysis*. Paper to be presented at the National Association for Research in Science Teaching Annual International Conference, Baltimore, MD.
+
 Carpenter, J., Rosenberg, J. M., Dousay, T., Romero-Hall, E., Trust, T., Kessler, A., ... & Krutka, D. (2019, March). *What do teacher educators think of teacher education technology competencies?* Paper to be presented at the Society for Information Technology and Teacher Education International Conference, Las Vegas, NV.
 
-Rosenberg, J. M., & Reid, J. (2019, January). *The roles of the Twitter hashtag #NGSSchat in the context of science education reform efforts*. Paper to be presented at the Association for Science Teacher Education International Meeting, Savannah, GA. (*Nb. This paper was nominated for the ASTE John C. Park National Technology Leadership Institute Award*)
+Rosenberg, J. M., Reid, J., Koehler, M. J., Fischer, C., & McKenna, T. J. (2019, January). *The roles of the Twitter hashtag #NGSSchat in the context of science education reform efforts*. Paper to be presented at the Association for Science Teacher Education International Meeting, Savannah, GA. (*Nb. This paper was nominated for the ASTE John C. Park National Technology Leadership Institute Award*)
 
 Akcaoglu, M., Hodges, C. B., Rosenberg, J. M., & Hilpert, J. (2018, October). *Factors impacting middle school students' interest, efficacy, and utility value of programming*. Paper presented at the Association for Educational Communications and Technology International Convention 2018. Kansas City, MO.
 
