@@ -108,13 +108,13 @@ Krist, S., & Rosenberg, J. M. (under review). Incremental refinement in learners
 Henriksen, D., Mehta, R., & Rosenberg, J. M. (under review). Supporting a creatively focused technology fluent mindset among educators: Survey results from a five-year inquiry into teachers’ confidence in using technology.
 
 \hangindent=2em
+Beymer, P. N., Rosenberg, J. M., & Schmidt, J. A. (under review). Investigating the effects of interest and choice in education: An experience sampling approach.
+
+\hangindent=2em
 Rosenberg, J. M., Schmidt, J. A., & Koehler, M. J. (in preparation). Work with data in summer STEM programs: An experience sampling method approach.
 
 \hangindent=2em
 Blondel, D. V., Rosenberg, J. M., Sansone, A., Yang, B. W., Linennbrink-Garcia, L., Schwarz-Bloom, R. D. (in preparation). The Rex virtual experiment platform: Design, implementation, and effects on situational interest. 
-
-\hangindent=2em
-Beymer, P. N., Rosenberg, J. M., & Schmidt, J. A. (in preparation). Investigating the effects of interest and choice: An experience sampling approach.
 
 \hangindent=2em
 Schmidt, J. A., Beymer, P. N., & Rosenberg, J. M. (in preparation). Experiences, activities, and personal characteristics as predictors of engagement in STEM-focused summer programs.
