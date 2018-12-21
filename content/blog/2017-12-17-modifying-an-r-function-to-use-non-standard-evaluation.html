@@ -67,9 +67,9 @@ categories: r
 <p>Let’s test it out. Imagine we have a <em>t</em> statistic of <code>3</code> for a hypothesis test associated with <code>100</code> degrees of freedom.</p>
 <pre class="r"><code>core_sensitivity_mkonfound(3, 100)</code></pre>
 <pre><code>## # A tibble: 1 x 7
-##       t    df action      inference   pct_bias_to_change_infe…  itcv r_con
-##   &lt;dbl&gt; &lt;dbl&gt; &lt;chr&gt;       &lt;chr&gt;                          &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt;
-## 1     3   100 to_invalid… reject_null                     32.3 0.115 0.339</code></pre>
+##       t    df action       inference  pct_bias_to_change_infer…  itcv r_con
+##   &lt;dbl&gt; &lt;dbl&gt; &lt;chr&gt;        &lt;chr&gt;                          &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt;
+## 1     3   100 to_invalida… reject_nu…                      32.3 0.115 0.339</code></pre>
 <p>Works.</p>
 <p>It looks like in order to invalidate the inference, around <code>32</code>% of the effect would be need to be due to bias; or, an committed variable would need to be correlated with both the predictor of interest and the dependent variable at <code>.339</code> in order to invalidate the inference. You can read more about sensitivity analysis and an in-development R package on the approach to sensitivity analysis with Ran Xu and Ken Frank <a href="https://jrosen48.github.io/konfound/articles/Introduction_to_konfound.html">here</a>.</p>
 </div>
@@ -93,11 +93,11 @@ mkonfound &lt;- function(t, df, alpha = .05, tails = 2) {
 <pre class="r"><code>mkonfound(t = c(3, 2, 2.5), 
           d = c(100, 200, 150))</code></pre>
 <pre><code>## # A tibble: 3 x 7
-##       t    df action      inference   pct_bias_to_change_infe…  itcv r_con
-##   &lt;dbl&gt; &lt;dbl&gt; &lt;chr&gt;       &lt;chr&gt;                          &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt;
-## 1   3     100 to_invalid… reject_null                    32.3  0.115 0.339
-## 2   2     200 to_invalid… reject_null                     1.38 0.002 0.047
-## 3   2.5   150 to_invalid… reject_null                    20.4  0.048 0.22</code></pre>
+##       t    df action       inference  pct_bias_to_change_infer…  itcv r_con
+##   &lt;dbl&gt; &lt;dbl&gt; &lt;chr&gt;        &lt;chr&gt;                          &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt;
+## 1   3     100 to_invalida… reject_nu…                     32.3  0.115 0.339
+## 2   2     200 to_invalida… reject_nu…                      1.38 0.002 0.047
+## 3   2.5   150 to_invalida… reject_nu…                     20.4  0.048 0.22</code></pre>
 <p>We could also do something like binding <em>t</em> and <em>df</em> together into a small <code>data.frame</code>:</p>
 <pre class="r"><code>d &lt;- data.frame(t = c(3, 2, 2.5), 
                 df = c(100, 200, 150))
@@ -109,11 +109,11 @@ d</code></pre>
 <p>And then <code>mkonfound()</code> could work like this:</p>
 <pre class="r"><code>mkonfound(d$t, d$df)</code></pre>
 <pre><code>## # A tibble: 3 x 7
-##       t    df action      inference   pct_bias_to_change_infe…  itcv r_con
-##   &lt;dbl&gt; &lt;dbl&gt; &lt;chr&gt;       &lt;chr&gt;                          &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt;
-## 1   3     100 to_invalid… reject_null                    32.3  0.115 0.339
-## 2   2     200 to_invalid… reject_null                     1.38 0.002 0.047
-## 3   2.5   150 to_invalid… reject_null                    20.4  0.048 0.22</code></pre>
+##       t    df action       inference  pct_bias_to_change_infer…  itcv r_con
+##   &lt;dbl&gt; &lt;dbl&gt; &lt;chr&gt;        &lt;chr&gt;                          &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt;
+## 1   3     100 to_invalida… reject_nu…                     32.3  0.115 0.339
+## 2   2     200 to_invalida… reject_nu…                      1.38 0.002 0.047
+## 3   2.5   150 to_invalida… reject_nu…                     20.4  0.048 0.22</code></pre>
 </div>
 <div id="the-third-version-of-the-function" class="section level4">
 <h4>The third version of the function</h4>
@@ -138,11 +138,11 @@ mkonfound &lt;- function(d, t, df, alpha = .05, tails = 2) {
 ## Please use `new_list()` instead
 ## This warning is displayed once per session.</code></pre>
 <pre><code>## # A tibble: 3 x 7
-##       t    df action      inference   pct_bias_to_change_infe…  itcv r_con
-##   &lt;dbl&gt; &lt;dbl&gt; &lt;chr&gt;       &lt;chr&gt;                          &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt;
-## 1   3     100 to_invalid… reject_null                    32.3  0.115 0.339
-## 2   2     200 to_invalid… reject_null                     1.38 0.002 0.047
-## 3   2.5   150 to_invalid… reject_null                    20.4  0.048 0.22</code></pre>
+##       t    df action       inference  pct_bias_to_change_infer…  itcv r_con
+##   &lt;dbl&gt; &lt;dbl&gt; &lt;chr&gt;        &lt;chr&gt;                          &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt;
+## 1   3     100 to_invalida… reject_nu…                     32.3  0.115 0.339
+## 2   2     200 to_invalida… reject_nu…                      1.38 0.002 0.047
+## 3   2.5   150 to_invalida… reject_nu…                     20.4  0.048 0.22</code></pre>
 <p>If we have an entire spreadsheet, read in R as a <code>data.frame</code> using the <code>read.csv()</code> (or, <code>read_csv()</code> from the very useful <code>readr</code> package) function, then we can easily compute output for all of the statistics in the spreadsheet. Here is a spreadsheet from a website (from Ken’s):</p>
 <pre class="r"><code>spreadsheet_of_vals &lt;- read.csv(&quot;https://msu.edu/~kenfrank/example%20dataset%20for%20mkonfound.csv&quot;)
 head(spreadsheet_of_vals)</code></pre>
@@ -156,18 +156,18 @@ head(spreadsheet_of_vals)</code></pre>
 <p>We would use it the same way as above but with <code>d</code> replaced with what we named the <code>data.frame</code> we read from the website, <code>spreadsheet_of_vals</code>:</p>
 <pre class="r"><code>mkonfound(spreadsheet_of_vals, t, df)</code></pre>
 <pre><code>## # A tibble: 30 x 7
-##         t    df action    inference      pct_bias_to_change_…   itcv r_con
-##     &lt;dbl&gt; &lt;int&gt; &lt;chr&gt;     &lt;chr&gt;                         &lt;dbl&gt;  &lt;dbl&gt; &lt;dbl&gt;
-##  1  7.08    178 to_inval… reject_null                   68.8   0.378 0.614
-##  2  4.13    193 to_inval… reject_null                   50.6   0.168 0.41 
-##  3  1.89     47 to_susta… fail_to_rejec…                 5.47 -0.012 0.11 
-##  4 -4.17    138 to_inval… reject_null                   50.3   0.202 0.449
-##  5 -1.19     97 to_susta… fail_to_rejec…                39.4  -0.065 0.255
-##  6  3.59     87 to_inval… reject_null                   41.9   0.19  0.436
-##  7  0.282   117 to_susta… fail_to_rejec…                85.5  -0.131 0.361
-##  8  2.55     75 to_inval… reject_null                   20.6   0.075 0.274
-##  9 -4.44    137 to_inval… reject_null                   53.0   0.225 0.475
-## 10 -2.05    195 to_inval… reject_null                    3.51  0.006 0.077
+##         t    df action     inference     pct_bias_to_change_i…   itcv r_con
+##     &lt;dbl&gt; &lt;int&gt; &lt;chr&gt;      &lt;chr&gt;                         &lt;dbl&gt;  &lt;dbl&gt; &lt;dbl&gt;
+##  1  7.08    178 to_invali… reject_null                   68.8   0.378 0.614
+##  2  4.13    193 to_invali… reject_null                   50.6   0.168 0.41 
+##  3  1.89     47 to_sustain fail_to_reje…                  5.47 -0.012 0.11 
+##  4 -4.17    138 to_invali… reject_null                   50.3   0.202 0.449
+##  5 -1.19     97 to_sustain fail_to_reje…                 39.4  -0.065 0.255
+##  6  3.59     87 to_invali… reject_null                   41.9   0.19  0.436
+##  7  0.282   117 to_sustain fail_to_reje…                 85.5  -0.131 0.361
+##  8  2.55     75 to_invali… reject_null                   20.6   0.075 0.274
+##  9 -4.44    137 to_invali… reject_null                   53.0   0.225 0.475
+## 10 -2.05    195 to_invali… reject_null                    3.51  0.006 0.077
 ## # ... with 20 more rows</code></pre>
 <p>Since the output is in a <code>data.frame</code>, we can, for example, easily plot output:</p>
 <pre class="r"><code>results_df &lt;- mkonfound(spreadsheet_of_vals, t, df)</code></pre>
@@ -195,9 +195,9 @@ ggplot(results_df, aes(x = pct_bias_to_change_inference, fill = action)) +
 <pre class="r"><code>single_study &lt;- data.frame(t = 3, df = 100)
 mkonfound(single_study, t, df)</code></pre>
 <pre><code>## # A tibble: 1 x 7
-##       t    df action      inference   pct_bias_to_change_infe…  itcv r_con
-##   &lt;dbl&gt; &lt;dbl&gt; &lt;chr&gt;       &lt;chr&gt;                          &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt;
-## 1     3   100 to_invalid… reject_null                     32.3 0.115 0.339</code></pre>
+##       t    df action       inference  pct_bias_to_change_infer…  itcv r_con
+##   &lt;dbl&gt; &lt;dbl&gt; &lt;chr&gt;        &lt;chr&gt;                          &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt;
+## 1     3   100 to_invalida… reject_nu…                      32.3 0.115 0.339</code></pre>
 <p>So, this is one approach that is useful in one use - for the in-development package for sensitivity analysis with <a href="https://jrosen48.github.io/konfound/reference/index.html">a number of functions</a>, with a version of this <code>mkonfound()</code> function for meta-analyses that make use of the approach.</p>
 <p>Oh, and if you are interested in sensitivity analysis, please check out the <code>konfound</code> package this is for <a href="https://jrosen48.github.io/konfound/">here</a>.</p>
 </div>
