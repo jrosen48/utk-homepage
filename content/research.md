@@ -16,56 +16,24 @@ This page contains information about my research as well as information about on
 
 Visit this page [here](https://www.joshuamrosenberg.com/about/) for information about and links to pre-prints and other resources associated with publications (peer-reviewed journal articles, book chapters, and conference proceedings) and other products (R packages and simulations for learners).
 
-# Ongoing Research Projects
-
-State Educational Twitter Hashtags (SETHs): [https://jmichaelrosenberg.shinyapps.io/SETHs](https://jmichaelrosenberg.shinyapps.io/SETHs/)
-z
 ## Ongoing Research Projects
 
-Here is information about ongoing and recently completed research projects.
+Here is a sample of ongoing research projects. 
 
 **Profiles of Science Engagement**
 
-With [Jennifer Schmidt (MSU)](http://education.msu.edu/search/FormView.aspx?email=jaschmid%40msu.edu), [Neil Naftzger (American Institutes for Research)](http://www.air.org/person/neil-naftzger), [Lee Shumow (Northern Illinois University)](http://education.msu.edu/search/FormView.aspx?email=jaschmid%40msu.edu) and colleagues.
+I am presently a consultant for a project with [Jennifer Schmidt (Michigan State University)](http://education.msu.edu/search/FormView.aspx?email=jaschmid%40msu.edu) with the following aims:
 
-* Investigate student engagement through the use of data collected through an Experience Sampling Method (ESM).
+* Investigate student engagement through the use of data collected through an Experience Sampling Method (ESM) from a person-in-context-approach.
 * Use data collected from both middle and high school classes as well as outside-of-school STEM programs.
-* Using person-oriented and within-person analytic approaches.
 
-**STEM Interest and Engagement**
+**Beginning Teachers Use of Social Media to Seek Out Resources**
 
-With [Jennifer Schmidt (MSU)](http://education.msu.edu/search/FormView.aspx?email=jaschmid%40msu.edu), [Lee Shumow (Northern Illinois University)](http://education.msu.edu/search/FormView.aspx?email=jaschmid%40msu.edu), and colleagues.
+I am presently a Co-PI for a project with [Stephen Aguilar (University of Southern California)](https://rossier.usc.edu/faculty-and-research/directories/a-z/profile/?id=221) with the following aims:
 
-* Explore the impact of learners' participation in outside-of-school STEM programs.
-* Understand momentary, personal, and program predictors of students' interest and engagement.
-* Use of ESM, survey, and video data and use mixed effects (or multi-level) models.
+* Understand how beginning mathematics teachers seek out resources when planning lessons using social media such as Twitter, Reddit, and Pinterest
+* Use a modified ESM approach in which teachers select the days on which they plan to respond to questions sent via text message about any resources they sought out.
 
-**The REX Virtual Experiment Platform**
+**Next Generation Science Standards Twitter Chats**
 
-With [Rochelle Schwartz-Bloom (Duke)](https://dibs.duke.edu/scholars/rochelle-schwartz-bloom), [Lisa Linnenbrink-Garcia (MSU)](http://llgarcia.educ.msu.edu/), and colleagues.
-
-* Understand high school students' development of situational interest as part of their use of an online virtual experiment platform. 
-* Use self-report and log-trace data to document student motivation and learning.
-
-**Teaching and Learning in Online Science Classes at Michigan Virtual School**
-
-With [John Ranellucci (Hunter College)](http://www.hunter.cuny.edu/school-of-education/departments/education-foundations/faculty/john-ranellucci).
-
-* Design activities to support student work with authentic data sources in high school science classes.
-* Document the development of students' ability to engage in work with data through the use of embedded assessments.
-* Use self-report and log-trace data to explore relationships among students' motivation, engagement, and achievement.
-
-**Supporting Scientific Practices in Elementary and Middle School Classrooms**
-
-With [Christina Schwarz (MSU)](http://education.msu.edu/search/formview.aspx?email=cschwarz%40msu.edu), [Christina Krist (University of Illinois)](http://www.christinakrist.org/), [Brian Reiser (Northwestern University)](http://www.sesp.northwestern.edu/profile/?p=80), and colleagues.
-
-* Develop curricula, providing teacher professional development, and documenting student (and teacher) learning across multiple years.
-* Document student learning using computational and traditional qualitative and quantitative approaches.
-* Understand longitudinal changes in teachers' instructional practice focused around support students' development of scientific models of phenomena.
-
-**The MSU-Wipro STEM & Leadership Teaching Fellowship**
-
-With [Leigh Graves Wolf (MSU)](https://www.leighgraveswolf.com/), [Punya Mishra (Arizona State)](http://www.punyamishra.com/), [Matthew Koehler (MSU)](http://www.matt-koehler.com/) and colleagues.
-
-* Develop and explore the development of online learning communities through the use of a Twitter hashtag, a Facebook group, and other educational and communication technologies.
-* Use social network analysis models and methods to understand how teachers' influence one another and impact changes in their teaching practice. 
+I am leading a project focused around analyzing how teachers, researchers, and other stakeholders use the Twitter hashtag #NGSSchat.
