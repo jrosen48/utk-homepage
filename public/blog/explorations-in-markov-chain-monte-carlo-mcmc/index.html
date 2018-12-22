@@ -21,6 +21,10 @@
       
       <li><a href="/teaching/">Teaching</a></li>
       
+      <li><a href="/categories/">Categories</a></li>
+      
+      <li><a href="/tags/">Tags</a></li>
+      
     </ul>
     <hr/>
     </nav>
@@ -35,6 +39,7 @@
 
 
 
+<p><strong>Note that due to version-related issues the code in this post is displayed but is not excecuted/run. If you run this code, parts may not work (depending upon the version of the packages used and, potentially, other factors).</strong></p>
 <div id="introduction" class="section level1">
 <h1>Introduction</h1>
 <p>I’ve been interested in Markov Chain Monte Carlo (MCMC) for a little while, in part because of <a href="https://doi.org/10.1093/beheco/arx023">a paper</a> by Tom Houslay and Alastair Wilson (2017) that shows how using output from models the way I have been can lead to results that overstate the impact of effects.</p>
@@ -64,26 +69,7 @@ d_ss &lt;- filter(d, !is.na(raw_reviews)) # this is because lme4 does not work w
 <h1>Results from lme4</h1>
 <p>Here are the results of the model estimated using <strong>lme4</strong>:</p>
 <pre class="r"><code>m1 &lt;- lmer(raw_reviews ~ 1 + (1|name), data = d_ss)
-summary(m1)
-#&gt; Linear mixed model fit by REML [&#39;lmerMod&#39;]
-#&gt; Formula: raw_reviews ~ 1 + (1 | name)
-#&gt;    Data: d_ss
-#&gt; 
-#&gt; REML criterion at convergence: 2610
-#&gt; 
-#&gt; Scaled residuals: 
-#&gt;     Min      1Q  Median      3Q     Max 
-#&gt; -3.9423 -0.4646  0.2403  0.6066  1.8297 
-#&gt; 
-#&gt; Random effects:
-#&gt;  Groups   Name        Variance Std.Dev.
-#&gt;  name     (Intercept) 0.3285   0.5731  
-#&gt;  Residual             0.9254   0.9620  
-#&gt; Number of obs: 899, groups:  name, 116
-#&gt; 
-#&gt; Fixed effects:
-#&gt;             Estimate Std. Error t value
-#&gt; (Intercept)  4.06245    0.06909    58.8</code></pre>
+summary(m1)</code></pre>
 <p>The key thing to note is the <code>Estimate</code> for the intercept (<code>(Intercept)</code>) in the “Fixed effects” section, and the <code>Variance</code> for the trail name (<code>name</code>) in the “Random effects” section. It looks like the intercept’s estimate, which represents the mean review across all of the trails, is 4.062, and the variance is 0.328, suggesting that, on average, each trail’s estimated review is 4.062 plus or minus 0.328. So, most trails are reviewed pretty highly, around 4 (on the 1-5 scale), with some higher and some lower.</p>
 </div>
 <div id="results-from-mcmcglmm" class="section level1">
@@ -102,82 +88,10 @@ m2 &lt;- MCMCglmm(fixed = raw_reviews ~ 1,
                data=as.data.frame(d),
                prior=prior,
                verbose=TRUE)
-#&gt; 
-#&gt;                        MCMC iteration = 0
-#&gt; 
-#&gt;                        MCMC iteration = 1000
-#&gt; 
-#&gt;                        MCMC iteration = 2000
-#&gt; 
-#&gt;                        MCMC iteration = 3000
-#&gt; 
-#&gt;                        MCMC iteration = 4000
-#&gt; 
-#&gt;                        MCMC iteration = 5000
-#&gt; 
-#&gt;                        MCMC iteration = 6000
-#&gt; 
-#&gt;                        MCMC iteration = 7000
-#&gt; 
-#&gt;                        MCMC iteration = 8000
-#&gt; 
-#&gt;                        MCMC iteration = 9000
-#&gt; 
-#&gt;                        MCMC iteration = 10000
-#&gt; 
-#&gt;                        MCMC iteration = 11000
-#&gt; 
-#&gt;                        MCMC iteration = 12000
-#&gt; 
-#&gt;                        MCMC iteration = 13000
 
-summary(m2)
-#&gt; 
-#&gt;  Iterations = 3001:12991
-#&gt;  Thinning interval  = 10
-#&gt;  Sample size  = 1000 
-#&gt; 
-#&gt;  DIC: 2560.048 
-#&gt; 
-#&gt;  G-structure:  ~us(1):name
-#&gt; 
-#&gt;                              post.mean l-95% CI u-95% CI eff.samp
-#&gt; (Intercept):(Intercept).name    0.3286   0.2003   0.4756     1000
-#&gt; 
-#&gt;  R-structure:  ~units
-#&gt; 
-#&gt;       post.mean l-95% CI u-95% CI eff.samp
-#&gt; units         1        1        1        0
-#&gt; 
-#&gt;  Location effects: raw_reviews ~ 1 
-#&gt; 
-#&gt;             post.mean l-95% CI u-95% CI eff.samp  pMCMC    
-#&gt; (Intercept)     4.063    3.928    4.197     1000 &lt;0.001 ***
-#&gt; ---
-#&gt; Signif. codes:  0 &#39;***&#39; 0.001 &#39;**&#39; 0.01 &#39;*&#39; 0.05 &#39;.&#39; 0.1 &#39; &#39; 1</code></pre>
+summary(m2)</code></pre>
 <p>The key values are the <code>post.mean</code> values for the intercept (<code>(Intercept)</code>) in the “Location effects” section, and the variance of the intercept (<code>(Intercept):(Intercept).name</code>) in the “G-structure” section. It looks like the intercept’s estimate, which represents the mean review across all of the trails, is 4.063, and the variance is 0.328, just about equal. Because of the nature of MCMC, there will be slightly different results each time it is run. The longer that the estimation is run, the more stable the estimates will be.</p>
 <p>Here is a summary of the two parameters’ values for the two methods:</p>
-<table>
-<thead>
-<tr class="header">
-<th align="left">method</th>
-<th align="right">fixef_intercept</th>
-<th align="right">trail_variance</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td align="left">lme4</td>
-<td align="right">4.062</td>
-<td align="right">0.328</td>
-</tr>
-<tr class="even">
-<td align="left">MCMCglmm</td>
-<td align="right">4.063</td>
-<td align="right">0.328</td>
-</tr>
-</tbody>
-</table>
 <p>One key point that is skipped for now is the importance of examining diagnostic plots (for the <strong>MCMCglmm</strong> results, in particular, but also for those from <strong>lme4</strong>) and other measures of how well the estimates fit the data. There is also a <em>lot</em> more to MCMC than this (and that I don’t know about), and the use of MCMC becomes harder (for me) - but also more useful - with more complex models and data.</p>
 </div>
 

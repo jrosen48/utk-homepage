@@ -2,7 +2,8 @@
 title:  "prcr update"
 author: ~
 date:   2017-05-17 13:48:00 +0500
-tags: [r, prcr]
+categories: [r, r-package]
+tags: [prcr]
 ---
 
 The R package for person-oriented analysis ([prcr](https://github.com/jrosen48/prcr)) is updated (it's now version 0.1.4). 

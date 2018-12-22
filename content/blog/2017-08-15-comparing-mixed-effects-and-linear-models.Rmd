@@ -3,8 +3,9 @@ title: Comparing estimates and their standard errors from mixed effects and line
 author: ~
 date: '2017-08-15'
 slug: comparing-mixed-effects-and-linear-models
-tags: [mixed-effects models, r]
 description: 'Partial pooling and the bias-variance trade-off'
+categories: [r, walkthrough]
+tags: [multi-level-models]
 ---
 
 # Some background
@@ -42,7 +43,8 @@ library(stringr)
 library(forcats)
 library(broom)
 
-df <- read_rds("/Users/joshuarosenberg/Dropbox/1_Research/railtrail/data-raw/rds_files/mi.rds") # this is a file with the rail-trail data - you can get it from here: https://github.com/jrosen48/railtrail
+f <- here::here("static", "data", "mi.rds")
+df <- read_rds(f) # this is a file with the rail-trail data - you can get it from here: https://github.com/jrosen48/railtrail
 
 df <- df %>% 
     unnest(raw_reviews) %>% 

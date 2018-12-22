@@ -3,8 +3,8 @@ title: A first pass at Latent Profile Analysis using MCLUST (in R)
 author: ~
 date: '2017-08-22'
 slug: lpa-in-r-using-mclust
-categories: [mixture models, r]
-tags: []
+categories: [r, r-package]
+tags: [tidyLPA, mixture-models]
 description: Desc
 ---
 
@@ -46,20 +46,10 @@ d <- pisaUSA15[1:100, ]
 
 m3 <- estimate_profiles(d, 
                         broad_interest, enjoyment, self_efficacy, 
-                        n_profiles = 3, 
-                        model = 2)
+                        n_profiles = 3)
 
 plot_profiles(m3, to_center = TRUE)
 ```
-
-The `model` argument allows for four models to be specified:
-
-* Varying means, equal variances, and covariances fixed to 0 (model 1)
-* Varying means, equal variances, and equal covariances (model 2)
-* Varying means, varying variances, and covariances fixed to 0 (model 3)
-* Varying means, varying variances, and varying covariances (model 6)
-
-Two additional models can be fit using functions that provide an interface to the MPlus software. More information on the models can be found in the [vignette](https://jrosen48.github.io/tidyLPA/articles/Introduction_to_tidyLPA.html).
 
 ## Learn more
 
@@ -101,7 +91,7 @@ Here is a first pass, using the [iris data](https://en.wikipedia.org/wiki/Iris_f
 
 First, let's explore fit indices for each of the three models with between one and six mixture components. Like MCLUST does in its built-in function, we can plot these values of the Bayesian Information Criteria (BIC).
 
-```{r, warning = F, message = F}
+```{r, warning = F, message = F, eval = FALSE}
 
 library(tidyverse, warn.conflicts = FALSE)
 library(mclust)
@@ -150,7 +140,7 @@ From red to purple, the models become less constrained (more free). It appears t
 
 Given this, we can fit (and inspect) a model, say, the three profile model with freely-estimated residual variance and covariances. 
 
-```{r, warning = T}
+```{r, warning = T, eval = FALSE}
 
 create_profiles_mclust <- function(df,
                                    n_profiles, 
@@ -203,7 +193,7 @@ m3 <- create_profiles_mclust(df, 3, variance_structure = "freed", covariance_str
 
 We can then plot the mean values for the variables used to estimate the model for each of the two profiles. Of course, there are other models that we may want to inspect with different covariance matrix structures or profile numbers.
 
-```{r, warning = F}
+```{r, warning = F, eval = FALSE}
 m3 %>%
     gather(key, val, -profile) %>% 
     ggplot(aes(x = profile, y = val, fill = key, group = key)) +

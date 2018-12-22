@@ -4,9 +4,8 @@ title: A Shiny interactive web application to quantify how robust inferences are
 author: ''
 date: '2018-01-17'
 slug: a-shiny-interactive-web-application-to-quantify-how-robust-inferences-are-to-potential-sources-of-bias-sensitivity-analysis
-categories:
-  - r
-tags: []
+categories: [r]
+tags: [konfound, shiny]
 description: The Release of a Shiny interactive web application for carrying out sensitivity analysis
 meta_img: /images/image.jpg
 ---

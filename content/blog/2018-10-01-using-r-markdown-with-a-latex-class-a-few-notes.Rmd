@@ -3,9 +3,8 @@ title: 'Using R Markdown and papaja with a LaTeX class to submit a conference pr
 author: ''
 date: '2018-10-01'
 slug: using-r-markdown-with-a-latex-class-a-few-notes
-categories:
-  - r
-tags: []
+categories: [r]
+tags: [r-markdown, latex]
 description: Desc
 meta_img: /images/image.jpg
 ---

@@ -3,8 +3,8 @@ title: "'Modeling' science teaching and learning - a few notes on the first day 
 author: ''
 date: '2018-08-29'
 slug: a-few-notes-on-the-first-day-of-class
-categories: []
-tags: []
+categories: [teaching]
+tags: [science-education]
 description: 'Modeling equitable science teaching and learning'
 meta_img: _media/images/models-of-science-teaching-1.jpg
 ---

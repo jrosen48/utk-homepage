@@ -3,8 +3,8 @@ title: Explorations in Markov Chain Monte Carlo - comparing results from MCMCglm
 author: ''
 date: '2018-03-26'
 slug: explorations-in-markov-chain-monte-carlo-mcmc
-categories: [r]
-tags: []
+categories: [r, walkthrough]
+tags: [MCMC, lme4]
 description: Comparing MCMCglmm and lme4
 meta_img: /images/image.jpg
 ---
@@ -18,6 +18,12 @@ knitr::opts_chunk$set(
 
 set.seed(20170326)
 ```
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, eval = FALSE)
+```
+
+**Note that due to version-related issues the code in this post is displayed but is not excecuted/run. If you run this code, parts may not work (depending upon the version of the packages used and, potentially, other factors).**
 
 # Introduction 
 

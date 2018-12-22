@@ -3,8 +3,8 @@ title: 'Some ideas about getting started bike commuting '
 author: ''
 date: '2018-05-03'
 slug: getting-started-bike-commuting
-categories: []
-tags: []
+categories: [personal]
+tags: [cycling]
 description: Desc
 meta_img: /images/image.jpg
 ---

@@ -3,8 +3,8 @@ title: My dissertation defense (and some links to resources)
 author: ''
 date: '2018-06-21'
 slug: an-open-ish-dissertation
-categories: []
-tags: []
+categories: [publication]
+tags: [dissertation]
 description: Desc
 meta_img: /images/image.jpg
 ---

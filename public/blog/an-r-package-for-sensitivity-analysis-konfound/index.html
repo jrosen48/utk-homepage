@@ -21,6 +21,10 @@
       
       <li><a href="/teaching/">Teaching</a></li>
       
+      <li><a href="/categories/">Categories</a></li>
+      
+      <li><a href="/tags/">Tags</a></li>
+      
     </ul>
     <hr/>
     </nav>
@@ -81,7 +85,8 @@ summary(m1)
 #&gt; Correlation-based Approach:
 #&gt; An omitted variable would have to be correlated at 0.781 with the outcome and at 0.781 with the predictor of interest (conditioning on observed covariates) to invalidate an inference based on a threshold of -0.36 for statistical significance (alpha = 0.05).
 #&gt; Correspondingly the impact of an omitted variable (as defined in Frank 2000) must be 0.781 X 0.781 = 0.61 to invalidate an inference.
-#&gt; NULL</code></pre>
+#&gt; For more detailed output, consider setting `to_return` to table
+#&gt; To consider other predictors of interest, consider setting `test_all` to TRUE.</code></pre>
 <p>This (very preliminary - and just as an illustration) suggests that nearly two-thirds of the effect of the weight of a car on its miles per gallon would need to be due to bias - in the model or measures, for example - for the effect to be invalidated.</p>
 <p>Alternatively, another way to interpret the results of this sensitivity analysis is in terms of how correlated an omitted, confounding variable (i.e., a covariate) would need to be with both the variable of interest (weight) and the outcome, and this approach suggests that such a confounding variable would nee do be correlated at about .80 with both weight and miles per gallon for the effect of weight to be invalidated.</p>
 <p>The <code>konfound()</code> function works on output from <code>lm()</code> as well as <code>glm()</code> (for non-linear models) and <code>lmer()</code> (from the <strong>lme4</strong> package) for mixed effects models. There are also a number of ways (besides text) to present the output. Much more on the konfound() function (and package) can be found <a href="https://jrosen48.github.io/konfound/reference/konfound.html">here</a>.</p>

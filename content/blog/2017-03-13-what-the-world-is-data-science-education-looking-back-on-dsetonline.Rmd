@@ -3,8 +3,9 @@ title: 'What the world is data science education? Looking back on #dsetonline'
 author: ~
 date: '2017-03-13'
 slug: what-the-world-is-data-science-education-looking-back-on-dsetonline
-tags: [data science]
 description: ''
+categories: [r]
+tags: [data-science-ed, SNA]
 ---
 
 ### DSET
@@ -31,11 +32,11 @@ I collected the tweets for #dsetonline using [TAGS](https://tags.hawksey.info/) 
 
 Here is a look at when #dsetonline was used:
 
-![dset_time](https://raw.githubusercontent.com/jrosen48/homepage-source/master/static/_media/images/dset_time.png)
+![](/blog/2017-03-13-what-the-world-is-data-science-education-looking-back-on-dsetonline_files/dset_time.png)
 
 Here is a sociogram, or visualization of the network structure, showing relationships between participants:
 
-![dset_sociogram](https://raw.githubusercontent.com/jrosen48/homepage-source/master/static/_media/images/dset_sociogram.png)
+![](/blog/2017-03-13-what-the-world-is-data-science-education-looking-back-on-dsetonline_files/dset_sociogram.png)
 
 In this figure, an arrow is directed from one participant to another if one participant a) mentioned, b) replied to, c) retweeted, or d) like the tweet of the other participant.
 

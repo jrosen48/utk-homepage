@@ -3,9 +3,8 @@ title: Introducing tidyLPA (an R package for carrying out Latent Profile Analysi
 author: ''
 date: '2018-02-14'
 slug: introducing-tidylpa-an-r-package-for-carrying-out-latent-profile-analysis
-categories:
-  - r
-tags: []
+categories: [r, r-package]
+tags: [tidyLPA]
 description: Desc
 meta_img: /images/image.jpg
 ---
@@ -13,7 +12,8 @@ meta_img: /images/image.jpg
 ```{r, echo = F}
 knitr::opts_chunk$set(
   comment = "#>",
-  collapse = TRUE
+  collapse = TRUE,
+  eval = FALSE
 )
 ```
 

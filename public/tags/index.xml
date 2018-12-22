@@ -6,16 +6,80 @@
     <description>Recent content in Tags on Joshua M. Rosenberg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 06 Nov 2015 15:27:57 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>cluster analysis</title>
-      <link>/tags/cluster-analysis/</link>
+      <title>AECT</title>
+      <link>/tags/aect/</link>
+      <pubDate>Fri, 06 Nov 2015 15:27:57 +0000</pubDate>
+      
+      <guid>/tags/aect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AERA</title>
+      <link>/tags/aera/</link>
+      <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/aera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MCMC</title>
+      <link>/tags/mcmc/</link>
+      <pubDate>Mon, 26 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/mcmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NARST</title>
+      <link>/tags/narst/</link>
+      <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/narst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SITE</title>
+      <link>/tags/site/</link>
+      <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/site/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SNA</title>
+      <link>/tags/sna/</link>
+      <pubDate>Thu, 02 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/sna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>clustRcompaR</title>
+      <link>/tags/clustrcompar/</link>
+      <pubDate>Sat, 07 Jan 2017 10:16:00 -0500</pubDate>
+      
+      <guid>/tags/clustrcompar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cross-validation</title>
+      <link>/tags/cross-validation/</link>
       <pubDate>Sun, 02 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/cluster-analysis/</guid>
+      <guid>/tags/cross-validation/</guid>
       <description></description>
     </item>
     
@@ -31,18 +95,9 @@
     <item>
       <title>cycling</title>
       <link>/tags/cycling/</link>
-      <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/cycling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>data science</title>
-      <link>/tags/data-science/</link>
-      <pubDate>Mon, 13 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/data-science/</guid>
       <description></description>
     </item>
     
@@ -52,6 +107,24 @@
       <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/data-science-ed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data-viz</title>
+      <link>/tags/data-viz/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/data-viz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dissertation</title>
+      <link>/tags/dissertation/</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/dissertation/</guid>
       <description></description>
     </item>
     
@@ -74,6 +147,51 @@
     </item>
     
     <item>
+      <title>getting-started-with-r</title>
+      <link>/tags/getting-started-with-r/</link>
+      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/getting-started-with-r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>getting-started-withR</title>
+      <link>/tags/getting-started-withr/</link>
+      <pubDate>Fri, 14 Apr 2017 11:54:00 -0500</pubDate>
+      
+      <guid>/tags/getting-started-withr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>konfound</title>
+      <link>/tags/konfound/</link>
+      <pubDate>Thu, 12 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/konfound/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>latex</title>
+      <link>/tags/latex/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/latex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lme4</title>
+      <link>/tags/lme4/</link>
+      <pubDate>Mon, 26 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/lme4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>meta</title>
       <link>/tags/meta/</link>
       <pubDate>Sat, 07 Jan 2017 09:50:40 -0500</pubDate>
@@ -83,11 +201,56 @@
     </item>
     
     <item>
-      <title>mixed-effects models</title>
-      <link>/tags/mixed-effects-models/</link>
-      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
+      <title>mixture-models</title>
+      <link>/tags/mixture-models/</link>
+      <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/mixed-effects-models/</guid>
+      <guid>/tags/mixture-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mplus</title>
+      <link>/tags/mplus/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/mplus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multi-level-models</title>
+      <link>/tags/multi-level-models/</link>
+      <pubDate>Thu, 22 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/multi-level-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>newsflash</title>
+      <link>/tags/newsflash/</link>
+      <pubDate>Sat, 11 Mar 2017 01:28:00 -0500</pubDate>
+      
+      <guid>/tags/newsflash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open-science</title>
+      <link>/tags/open-science/</link>
+      <pubDate>Wed, 25 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/open-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>podcasts</title>
+      <link>/tags/podcasts/</link>
+      <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/podcasts/</guid>
       <description></description>
     </item>
     
@@ -101,36 +264,63 @@
     </item>
     
     <item>
-      <title>presentation</title>
-      <link>/tags/presentation/</link>
-      <pubDate>Fri, 14 Apr 2017 11:54:00 -0500</pubDate>
-      
-      <guid>/tags/presentation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>r</title>
       <link>/tags/r/</link>
-      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>/tags/r/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>rail trails</title>
+      <title>r-markdown</title>
+      <link>/tags/r-markdown/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/r-markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rail-trails</title>
       <link>/tags/rail-trails/</link>
-      <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 22 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/rail-trails/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>web scraping</title>
+      <title>science-education</title>
+      <link>/tags/science-education/</link>
+      <pubDate>Wed, 29 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/science-education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shiny</title>
+      <link>/tags/shiny/</link>
+      <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/shiny/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tidyLPA</title>
+      <link>/tags/tidylpa/</link>
+      <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/tidylpa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web-scraping</title>
       <link>/tags/web-scraping/</link>
-      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/web-scraping/</guid>
       <description></description>

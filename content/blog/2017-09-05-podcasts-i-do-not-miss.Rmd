@@ -5,8 +5,8 @@ date: '2017-09-05'
 description: Desc
 meta_img: /images/image.jpg
 slug: podcasts-i-do-not-miss
-tags: []
-categories: [workflow]
+categories: [personal]
+tags: [podcasts]
 ---
 
 Between commuting by bicycle and working, I listen to a lot of podcasts. I listen to podcasts to learn something new, keep up with the news, and, occasionally, hear other viewpoints. I thought it would be worth sharing a few that I (almost) never miss downloading and listening to, especially those that others may not regularly hear about, are new, or are sort of niche in terms of the audience. For what it's worth, I use [Pocket Casts](https://www.shiftyjelly.com/pocketcasts) both on my computer and phone, as it syncs easily between them and has an easy to use interface. 

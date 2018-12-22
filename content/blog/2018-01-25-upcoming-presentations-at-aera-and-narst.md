@@ -3,8 +3,8 @@ title: Upcoming presentations at AERA, SITE, and NARST
 author: ''
 date: '2018-01-25'
 slug: upcoming-presentations-at-aera-and-narst
-categories: []
-tags: []
+categories: [presentation]
+tags: [AERA, SITE, NARST]
 description: Desc
 meta_img: /images/image.jpg
 ---

@@ -3,9 +3,8 @@ title: Finding the top rail-trails in each state using mixed effects models
 author: ''
 date: '2018-02-22'
 slug: find-the-top-rail-trails-in-each-state
-categories:
-  - r
-tags: []
+categories: [walkthrough, r]
+tags: [rail-trails, multi-level-models, lme4]
 description: A Shiny app web to find to top-rated rail-trails
 meta_img: /images/image.jpg
 ---

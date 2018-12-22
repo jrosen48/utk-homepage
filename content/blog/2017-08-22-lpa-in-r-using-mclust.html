@@ -3,8 +3,8 @@ title: A first pass at Latent Profile Analysis using MCLUST (in R)
 author: ~
 date: '2017-08-22'
 slug: lpa-in-r-using-mclust
-categories: [mixture models, r]
-tags: []
+categories: [r, r-package]
+tags: [tidyLPA, mixture-models]
 description: Desc
 ---
 
@@ -30,28 +30,18 @@ devtools::install_github(&quot;jrosen48/tidyLPA&quot;)</code></pre>
 <h2>Example</h2>
 <p>Here is a brief example using the built-in <code>pisaUSA15</code> dataset and variables for broad interest, enjoyment, and self-efficacy. Note that we first type the name of the data frame, followed by the unquoted names of the variables used to create the profiles. We also specify the number of profiles and the model. See <code>?estimate_profiles</code> for more details.</p>
 <pre class="r"><code>library(tidyLPA)</code></pre>
-<pre><code>## tidyLPA provides the functionality to carry out Latent Profile Analysis. Note that tidyLPA is still at the beta stage! 
-## Please report any bugs at https://github.com/jrosen48/tidyLPA or send an email to jrosen@msu.edu.</code></pre>
+<pre><code>## Note that an update to tidyLPA is forthcoming; see vignette(&#39;introduction-to-major-changes&#39;) for details!</code></pre>
 <pre class="r"><code>d &lt;- pisaUSA15[1:100, ]
 
 m3 &lt;- estimate_profiles(d, 
                         broad_interest, enjoyment, self_efficacy, 
-                        n_profiles = 3, 
-                        model = 2)</code></pre>
-<pre><code>## Fit varying means, equal variances and covariances (Model 2) model with 3 profiles.</code></pre>
-<pre><code>## LogLik is 279.692</code></pre>
-<pre><code>## BIC is 636.62</code></pre>
-<pre><code>## Entropy is 0.798</code></pre>
+                        n_profiles = 3)</code></pre>
+<pre><code>## Fit Equal variances and covariances fixed to 0 (model 1) model with 3 profiles.</code></pre>
+<pre><code>## LogLik is 283.991</code></pre>
+<pre><code>## BIC is 631.589</code></pre>
+<pre><code>## Entropy is 0.914</code></pre>
 <pre class="r"><code>plot_profiles(m3, to_center = TRUE)</code></pre>
 <p><img src="/blog/2017-08-22-lpa-in-r-using-mclust_files/figure-html/unnamed-chunk-3-1.png" width="672" /></p>
-<p>The <code>model</code> argument allows for four models to be specified:</p>
-<ul>
-<li>Varying means, equal variances, and covariances fixed to 0 (model 1)</li>
-<li>Varying means, equal variances, and equal covariances (model 2)</li>
-<li>Varying means, varying variances, and covariances fixed to 0 (model 3)</li>
-<li>Varying means, varying variances, and varying covariances (model 6)</li>
-</ul>
-<p>Two additional models can be fit using functions that provide an interface to the MPlus software. More information on the models can be found in the <a href="https://jrosen48.github.io/tidyLPA/articles/Introduction_to_tidyLPA.html">vignette</a>.</p>
 </div>
 <div id="learn-more" class="section level2">
 <h2>Learn more</h2>
@@ -131,7 +121,6 @@ ggplot(to_plot, aes(x = n_profiles, y = val, color = `Covariance matrix structur
     geom_point() +
     ylab(&quot;BIC (smaller value is better)&quot;) +
     theme_ipsum_rc()</code></pre>
-<p><img src="/blog/2017-08-22-lpa-in-r-using-mclust_files/figure-html/unnamed-chunk-4-1.png" width="672" /></p>
 <p>From red to purple, the models become less constrained (more free). It appears that a <em>two</em> or <em>three</em> profile (mixture component) model with freely-estimated residual variances and covariances, or a <em>four</em> profile model with constrained residual covariances and variances, fit best (based on interpreting the BIC).</p>
 <p>Given this, we can fit (and inspect) a model, say, the three profile model with freely-estimated residual variance and covariances.</p>
 <pre class="r"><code>create_profiles_mclust &lt;- function(df,
@@ -180,18 +169,6 @@ ggplot(to_plot, aes(x = n_profiles, y = val, color = `Covariance matrix structur
 }
 
 m3 &lt;- create_profiles_mclust(df, 3, variance_structure = &quot;freed&quot;, covariance_structure = &quot;freed&quot;)</code></pre>
-<pre><code>## ----------------------------------------------------
-## Gaussian finite mixture model fitted by EM algorithm 
-## ----------------------------------------------------
-## 
-## Mclust VVV (ellipsoidal, varying volume, shape, and orientation) model with 3 components:
-## 
-##  log.likelihood   n df       BIC       ICL
-##       -180.1858 150 44 -580.8396 -584.0522
-## 
-## Clustering table:
-##  1  2  3 
-## 50 45 55</code></pre>
 <p>We can then plot the mean values for the variables used to estimate the model for each of the two profiles. Of course, there are other models that we may want to inspect with different covariance matrix structures or profile numbers.</p>
 <pre class="r"><code>m3 %&gt;%
     gather(key, val, -profile) %&gt;% 
@@ -201,7 +178,6 @@ m3 &lt;- create_profiles_mclust(df, 3, variance_structure = &quot;freed&quot;, c
     xlab(&quot;&quot;) +
     scale_fill_discrete(&quot;&quot;) +
     theme_ipsum_rc()</code></pre>
-<p><img src="/blog/2017-08-22-lpa-in-r-using-mclust_files/figure-html/unnamed-chunk-6-1.png" width="672" /></p>
 <p>Please <a href="mailto:jrosen@msu.edu">send me a message</a> if you have any comments.</p>
 <p>A big thank you to my colleagues <a href="http://youkyunglee.com/">You-Kyung Lee</a> and <a href="http://www.kristyarobinson.com/">Kristy Robinson</a> for helping me begin to understand LPA.</p>
 </div>

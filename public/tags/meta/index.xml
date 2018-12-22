@@ -20,16 +20,5 @@
       <description>I moved my Wordpress blog to Wordpress.com as an archive and so I would not need to pay to maintain the self-hosted site. The link is here.</description>
     </item>
     
-    <item>
-      <title>From Wordpress to GitHub Pages</title>
-      <link>/blog/2017-01-04-from-wordpress-to-github-pages/</link>
-      <pubDate>Wed, 04 Jan 2017 11:32:40 -0500</pubDate>
-      
-      <guid>/blog/2017-01-04-from-wordpress-to-github-pages/</guid>
-      <description>I have used Wordpress for more than seven years. Over that time, I’ve used multiple shared servers, and have had a myriad of domain names.
-Most recently, my shared server at Lansing, MI-based Liquid Web ended, due to Liquid Web leaving the shared hosting business to focus only on dedicated and virtual private servers.
-I started to look for a new hosting company, and slowly started to coalesce around the idea of, well, not having one, and using GitHub Pages instead.</description>
-    </item>
-    
   </channel>
 </rss>

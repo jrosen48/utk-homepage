@@ -3,8 +3,8 @@ title: 'Learning R (for data analysis and data science): Where to start'
 author: ''
 date: '2018-06-04'
 slug: learning-r-where-to-start-crowdsourced-recommendations
-categories: []
-tags: []
+categories: [r]
+tags: [getting-started-with-r]
 ---
 
 A friend of a friend (also in educational research) posted that he was interested in learning [R](https://www.r-project.org/). 

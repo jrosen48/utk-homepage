@@ -30,6 +30,14 @@ math = true
     name = "Teaching"
     url = "/teaching/"
     weight = 4
+[[menu.main]]
+    name = "Categories"
+    url = "/categories/"
+    weight = 5
+[[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 6
 
 [params]
     description = "Joshua M. Rosenberg's Homepage"

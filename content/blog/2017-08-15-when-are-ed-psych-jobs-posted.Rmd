@@ -4,7 +4,8 @@ author: ~
 date: '2017-08-15'
 description: Good to know
 slug: when-are-ed-psych-jobs-posted
-tags: [web scraping, r]
+categories: [r, walkthrough]
+tags: [web-scraping]
 ---
 
 [Division 15](http://apadiv15.org/) of the American Psychological Association sponsors the [Ed Psych Jobs](http://edpsychjobs.info/) website, which is an excellent resource for Ed Psych job seekers. I thought it would possibly be helpful to see when jobs were posted in the past in order to have a better idea about when jobs may be posted this year. 
@@ -59,8 +60,13 @@ I checked manually to see how many pages had job postings; there were 76, and so
 
 *Just as a note*: Another way to do this would be to write a function that goes from page 1 up through a page number for which a page does not load. Still another way would be to use the very handy `possibly()` (from the `purrr` package) or some other function that deals with errors (in this case, a page that does not load), and specify a large range of page numbers, say, from 0 to 100. 
 
-```{r, warning = F, message = F, cache = T}
+```{r, warning = F, message = F, cache = T, eval = FALSE}
 output_df <- map_df(1:76, read_the_dates)
+```
+
+```{r, echo = FALSE, eval = TRUE}
+# write_rds(output_df, here::here("static", "data", "when-ep-jobs-p1.rds"))
+output_df <- read_rds(here::here("static", "data", "when-ep-jobs-p1.rds"))
 ```
 
 # Analysis
@@ -106,8 +112,6 @@ df_plot_2 <- processed_dates %>%
 ggplot(df_plot_2, aes(x = month, y = n, group = year, color = year)) +
     geom_point(alpha = .3) +
     geom_line() +
-    theme_ipsum_rc(base_size = 12) +
-    scale_color_ipsum("") +
     xlab(NULL) +
     ylab("Number of Posts") +
     ggtitle("Number of Posts / Month on EdPsychJobs")

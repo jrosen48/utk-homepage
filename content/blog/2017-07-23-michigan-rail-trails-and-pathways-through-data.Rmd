@@ -3,9 +3,9 @@ title: What are the best rail-trails in Michigan?
 author: ~
 date: '2017-07-24'
 slug: michigan-rail-trails-and-pathways-through-data
-categories: [r]
-tags: [mixed-effects models, rail trails, r]
 description: ''
+categories: [r, walkthrough]
+tags: [shiny, rail-trails]
 ---
 
 # Background
@@ -24,7 +24,8 @@ library(stringr)
 library(lme4)
 library(broom)
 
-df <- read_rds("/Users/joshuarosenberg/Dropbox/1_Research/railtrail/data-raw/rds_files/mi.rds") # this is a file with the rail-trail data - you can get it from here: https://github.com/jrosen48/railtrail
+f <- here::here("static", "data", "mi.rds")
+df <- read_rds(f) # this is a file with the rail-trail data - you can get it from here: https://github.com/jrosen48/railtrail
 
 df <- df %>% 
     unnest(raw_reviews) %>% 

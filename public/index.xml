@@ -156,8 +156,8 @@ Here is the description:</description>
       <pubDate>Mon, 26 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/blog/explorations-in-markov-chain-monte-carlo-mcmc/</guid>
-      <description>Introduction I’ve been interested in Markov Chain Monte Carlo (MCMC) for a little while, in part because of a paper by Tom Houslay and Alastair Wilson (2017) that shows how using output from models the way I have been can lead to results that overstate the impact of effects.
-In particular, I’m working on a project with colleagues in which we try to figure out how students’ engagement in summer STEM programs relates to changes in their interest (in STEM), controlling for their initial levels of interest.</description>
+      <description>Note that due to version-related issues the code in this post is displayed but is not excecuted/run. If you run this code, parts may not work (depending upon the version of the packages used and, potentially, other factors).
+Introduction I’ve been interested in Markov Chain Monte Carlo (MCMC) for a little while, in part because of a paper by Tom Houslay and Alastair Wilson (2017) that shows how using output from models the way I have been can lead to results that overstate the impact of effects.</description>
     </item>
     
     <item>
@@ -216,7 +216,8 @@ In this paper published in the International Journal of Educational Research wit
       <pubDate>Sun, 17 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>/blog/modifying-an-r-function-to-use-non-standard-evaluation/</guid>
-      <description>Background Research in classrooms and schools can be complex because of all of the factors that matter. A question that often comes up when we say that we observed some pattern in data is, but did you control for X?
+      <description>Note that due to version-related issues the code in this post is displayed but is not excecuted/run.
+Background Research in classrooms and schools can be complex because of all of the factors that matter. A question that often comes up when we say that we observed some pattern in data is, but did you control for X?
 In the context of working on an approach to find out how impactful an omitted variable would need to be to invalidate an inference, we had to modify a function that worked for a single sensitivity analysis to work for many and to be easier to use.</description>
     </item>
     
@@ -297,9 +298,9 @@ We examine how common these profiles are in laboratory activities and on the bas
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>/blog/using-mplus-from-r/</guid>
-      <description>According to the MPlus website, the R package MPlusAutomation serves three purposes:
-Creating related groups of models Running batches Extracting and tabulating model parameters and test statistics.  Because modeling involves comparing related models, (partially) automating these is compelling. It can make it easier to use model results in subsequent analyses and can cut down on copy and pasting output or results between programs.
-So I tried it and liked it; it’s well-designed.</description>
+      <description>Note that due to version-related issues the code in this post is displayed but is not excecuted/run.
+According to the MPlus website, the R package MPlusAutomation serves three purposes:
+Creating related groups of models Running batches Extracting and tabulating model parameters and test statistics.  Because modeling involves comparing related models, (partially) automating these is compelling. It can make it easier to use model results in subsequent analyses and can cut down on copy and pasting output or results between programs.</description>
     </item>
     
     <item>
@@ -471,27 +472,6 @@ Here’s a description:
       
       <guid>/blog/2017-01-07-wordpress-archive/</guid>
       <description>I moved my Wordpress blog to Wordpress.com as an archive and so I would not need to pay to maintain the self-hosted site. The link is here.</description>
-    </item>
-    
-    <item>
-      <title>From Wordpress to GitHub Pages</title>
-      <link>/blog/2017-01-04-from-wordpress-to-github-pages/</link>
-      <pubDate>Wed, 04 Jan 2017 11:32:40 -0500</pubDate>
-      
-      <guid>/blog/2017-01-04-from-wordpress-to-github-pages/</guid>
-      <description>I have used Wordpress for more than seven years. Over that time, I’ve used multiple shared servers, and have had a myriad of domain names.
-Most recently, my shared server at Lansing, MI-based Liquid Web ended, due to Liquid Web leaving the shared hosting business to focus only on dedicated and virtual private servers.
-I started to look for a new hosting company, and slowly started to coalesce around the idea of, well, not having one, and using GitHub Pages instead.</description>
-    </item>
-    
-    <item>
-      <title>Git what? Contributing to an open-source software project [updated]</title>
-      <link>/blog/20160818-git-what-contributing-to-an-open-source-software-project/</link>
-      <pubDate>Thu, 18 Aug 2016 16:10:05 +0000</pubDate>
-      
-      <guid>/blog/20160818-git-what-contributing-to-an-open-source-software-project/</guid>
-      <description> Git what? Contributing to an open-source software project [updated] Over the past month, I have struggled to contribute (a super small contribution - only an adaptation of an already-existing part) to an open-source software project. The process has been hard, but a good experience nonetheless with a lot of help along the way.
- </description>
     </item>
     
     <item>

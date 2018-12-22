@@ -2,7 +2,8 @@
 title:  "How much do we spend weekly on Groceries? Figuring out using R and Mint (Updated)"
 author: ~
 date:   2017-01-17 5:16:00 -0500
-tags: [r]
+categories: [r, walkthrough]
+tags: []
 ---
 
 We started using [Mint](https://www.mint.com/) to keep track of our spending. One of the best features of Mint is the ability to see past patterns of spending (and to use that information to not spend quite as much on, well, coffee, and for those who know me well, sandwiches from [Woody's Oasis](http://woodysoasis.com/)).

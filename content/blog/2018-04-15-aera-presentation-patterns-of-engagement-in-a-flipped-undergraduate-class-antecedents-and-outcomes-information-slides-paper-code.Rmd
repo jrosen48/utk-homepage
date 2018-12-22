@@ -3,8 +3,8 @@ title: 'AERA 2018 presentation: Patterns of engagement in a flipped undergraduat
 author: ''
 date: '2018-04-15'
 slug: aera-presentation-patterns-of-engagement-in-a-flipped-undergraduate-class-antecedents-and-outcomes-information-slides-paper-code
-categories: []
-tags: []
+categories: [presentation]
+tags: [AERA]
 description: Desc
 meta_img: /images/image.jpg
 ---

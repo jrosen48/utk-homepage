@@ -4,8 +4,9 @@ title: How many groups of Star Wars characters are there? R-squared and cross-va
 author: ~
 date: '2017-07-02'
 slug: how-many-groups-of-star-wars-characters-are-there-r-squared-and-cross-validation-approaches
-tags: [cluster analysis, r, prcr]
 description: ''
+categories: [walkthrough, r]
+tags: [cross-validation, prcr]
 ---
 
 # Background

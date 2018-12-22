@@ -1,15 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>rail trails on Joshua M. Rosenberg</title>
+    <title>rail-trails on Joshua M. Rosenberg</title>
     <link>/tags/rail-trails/</link>
-    <description>Recent content in rail trails on Joshua M. Rosenberg</description>
+    <description>Recent content in rail-trails on Joshua M. Rosenberg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/rail-trails/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Finding the top rail-trails in each state using mixed effects models</title>
+      <link>/blog/find-the-top-rail-trails-in-each-state/</link>
+      <pubDate>Thu, 22 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/find-the-top-rail-trails-in-each-state/</guid>
+      <description>Outside of education, one of my interests is cycling, and one of my favorite ways to cycle is on rail-trails, pathways and greenways that are converted from former railroad tracks.
+In a side-project (and because the data source can be used for teaching and learning about complex, nested data), I collected information from the TrailLink website. I’ve blogged about this data here and here to find out what the best rail-trails in Michigan are and to find out what the characteristics of the best rail-trails are, respectively.</description>
+    </item>
+    
+    <item>
+      <title>Using characteristics of rail-trails to predict how they are rated</title>
+      <link>/blog/characteristics-of-rail-trails/</link>
+      <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/characteristics-of-rail-trails/</guid>
+      <description>Catching up I wrote a blog post (one that, to be honest, I liked a lot) on what the best rail-trails are in Michigan (here). A friend and colleague at MSU, Andy, noticed that paved trails seemed to be rated higher, and this as well as my cfriend and colleague Kristy’s comment about how we can use the output of the the previous post sparked my curiosity in trying to figure out what characteristics predict how highly (or not highly) rated trails are.</description>
+    </item>
     
     <item>
       <title>What are the best rail-trails in Michigan?</title>

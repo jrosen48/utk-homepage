@@ -3,7 +3,7 @@ title: 'Writing a CV in markdown so it can be rendered as HTML, a PDF, and a Wor
 author: ''
 date: '2018-10-25'
 slug: creating-a-cv-while-using-blogdown-pdf-html-and-word-doc-oh-my
-categories: [r, blog]
+categories: [r, walkthrough]
 tags: [cv]
 ---
 

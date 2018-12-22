@@ -6,69 +6,20 @@
     <description>Recent content in r on Joshua M. Rosenberg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/r/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Comparing estimates and their standard errors from mixed effects and linear models</title>
-      <link>/blog/comparing-mixed-effects-and-linear-models/</link>
-      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
+      <title>Using MPlus from R with MPlusAutomation</title>
+      <link>/blog/using-mplus-from-r/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/blog/comparing-mixed-effects-and-linear-models/</guid>
-      <description>Some background One reason to use mixed effects models is that they help to account for data with a complex structure, such as multiple responses (to questions, for example) from the same people, students grouped into classes, and measures collected over time. Often, the way they account for these complex structures is in terms of reducing their bias, which has to do with when a model comes up with an estimate that is off - too large, too small, or maybe too certain (or uncertain) relative to the true value of the thing that is estimated.</description>
-    </item>
-    
-    <item>
-      <title>In what months are educational psychology jobs posted?</title>
-      <link>/blog/when-are-ed-psych-jobs-posted/</link>
-      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/when-are-ed-psych-jobs-posted/</guid>
-      <description>Division 15 of the American Psychological Association sponsors the Ed Psych Jobs website, which is an excellent resource for Ed Psych job seekers. I thought it would possibly be helpful to see when jobs were posted in the past in order to have a better idea about when jobs may be posted this year.
-Ed Psych Jobs, Robots (.txt), and paths_allowed, oh my As this project involves a bit of web-scraping, I first checked the robots.</description>
-    </item>
-    
-    <item>
-      <title>What are the best rail-trails in Michigan?</title>
-      <link>/blog/michigan-rail-trails-and-pathways-through-data/</link>
-      <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/michigan-rail-trails-and-pathways-through-data/</guid>
-      <description>Background I was curious about what rail trails were the best in Michigan, and so to figure out an answer, I checked out the TrailLink website, sponsored by the Rails-to-Trails Conservancy. I had just purchased a copy of their book Rail-Trails Michigan and Wisconsin, and wanted to see whether I could learn more from the website.
-To start, I checked whether they had a way to access the reviews on the site through an API.</description>
-    </item>
-    
-    <item>
-      <title>How many groups of Star Wars characters are there? R-squared and cross-validation approaches</title>
-      <link>/blog/how-many-groups-of-star-wars-characters-are-there-r-squared-and-cross-validation-approaches/</link>
-      <pubDate>Sun, 02 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/how-many-groups-of-star-wars-characters-are-there-r-squared-and-cross-validation-approaches/</guid>
-      <description>Background How many groups, or types, of Star Wars characters are there? I’ve been wanting to use the starwars dataset built-in to the dplyr package, and at the same time, have been working hard on an R package to carry out an analysis suited to doing this. Part of the challenge of using the approach in this R package is determining how groups groups there are.
-Many approaches (Latent Profile Analysis, for example) use Maximum Likelihood estimation (while the approach I’ve developed uses a two-step cluster analysis based around the geometric (and algebraic) idea of “distance”, or how close (similar) observations are).</description>
-    </item>
-    
-    <item>
-      <title>prcr update</title>
-      <link>/blog/2017-05-17-prcr-update/</link>
-      <pubDate>Wed, 17 May 2017 13:48:00 +0500</pubDate>
-      
-      <guid>/blog/2017-05-17-prcr-update/</guid>
-      <description>The R package for person-oriented analysis (prcr) is updated (it’s now version 0.1.4).
-In particular, it was not clear how to use the profile assignments (i.e., what cluster each response is in) in subsequent analyses. So, the update now returns two different representations of the profile assignments, or which profile is associated with each observation: a) the original “data.frame” with the profile assignment added in one variable and b) the original “data.</description>
-    </item>
-    
-    <item>
-      <title>Presentation on an Introduction to R for Data Analysis</title>
-      <link>/blog/2017-04-15-introduction-to-r-presentation/</link>
-      <pubDate>Fri, 14 Apr 2017 11:54:00 -0500</pubDate>
-      
-      <guid>/blog/2017-04-15-introduction-to-r-presentation/</guid>
-      <description>I had an opportunity to present on an Introduction to R for Data Analysis to the School of Criminal Justice (at MSU).
-The presentation is organized into five sections:
-Background Wrangling, Plotting, and Modeling Essential Functionality Advanced Functionality Additional Resources  A link to the presentation is here.</description>
+      <guid>/blog/using-mplus-from-r/</guid>
+      <description>Note that due to version-related issues the code in this post is displayed but is not excecuted/run.
+According to the MPlus website, the R package MPlusAutomation serves three purposes:
+Creating related groups of models Running batches Extracting and tabulating model parameters and test statistics.  Because modeling involves comparing related models, (partially) automating these is compelling. It can make it easier to use model results in subsequent analyses and can cut down on copy and pasting output or results between programs.</description>
     </item>
     
     <item>
@@ -79,59 +30,6 @@ Background Wrangling, Plotting, and Modeling Essential Functionality Advanced Fu
       <guid>/blog/2017-03-16-education-policy/</guid>
       <description>How often are curricular standards mentioned on TV news? With my friend Patrick, I was curious about using the newsflash package for something education-related. We came up with the idea of looking at mentions of the Common Core State Standards (for Mathematics and English Language Arts / Literacy) and the Next Generation Science Standards (for Science and Engineering).
  On broadcast channels We first looked at mentions across ABC, CBS, FOX, NBC, and PBS (the way newsflash works is to keyword search the closed captioning streams from the Internet Archive’s Television News Archive):</description>
-    </item>
-    
-    <item>
-      <title>The Internet Archive&#39;s Television News Archive and Newsflash</title>
-      <link>/blog/2017-03-11-rock-climbing-internet-television-news-archive/</link>
-      <pubDate>Sat, 11 Mar 2017 01:28:00 -0500</pubDate>
-      
-      <guid>/blog/2017-03-11-rock-climbing-internet-television-news-archive/</guid>
-      <description>Background The Internet Archive’s Television News Archive is a cool way to search closed captions from TV shows.
-Here’s a bit more information on it:
- The Internet Archive’s Television News Archive, GDELT’s Television Explorer allows you to keyword search the closed captioning streams of the Archive’s 6 years of American television news and explore macro-level trends in how America’s television news is shaping the conversation around key societal issues.</description>
-    </item>
-    
-    <item>
-      <title>Is the flu really worse this year? Comparing the (ongoing) 2016-17 and 2015-16 flu seasons</title>
-      <link>/blog/2017-02-28-comparing-cdc-data/</link>
-      <pubDate>Tue, 28 Feb 2017 09:28:00 -0500</pubDate>
-      
-      <guid>/blog/2017-02-28-comparing-cdc-data/</guid>
-      <description>Background I was sick last week, and I think I might have had a mild case of the flu. Since it seems like a lot of people have been sick, I was curious whether the flu was really worse this year than last… and since the CDC makes the data available for each year, I put the data together and created a GIF. This project is just a first attempt but the code (it’s in R) is available in a GitHub repository.</description>
-    </item>
-    
-    <item>
-      <title>prcr: An R Package for Person-Centered Analysis</title>
-      <link>/blog/2017-02-17-introducing-prcr/</link>
-      <pubDate>Fri, 17 Feb 2017 16:59:00 -0500</pubDate>
-      
-      <guid>/blog/2017-02-17-introducing-prcr/</guid>
-      <description>I’m excited to share that prcr (0.1.0), an R package for person-centered analysis, is now available on CRAN via install.packages(&amp;quot;prcr&amp;quot;).
-Person-centered analyses focus on clusters, or profiles, of observations, and their change over time or differences across factors.
-The package is designed to be “low threshold but high ceiling”, in that you can do all of the analysis with one function, create_profiles(df, n_clusters), where dfis a data.frame of the variables to cluster, and n_clusters is the specified number of clusters.</description>
-    </item>
-    
-    <item>
-      <title>How much do we spend weekly on Groceries? Figuring out using R and Mint (Updated)</title>
-      <link>/blog/2017-01-17-exploring-mint-r/</link>
-      <pubDate>Tue, 17 Jan 2017 05:16:00 -0500</pubDate>
-      
-      <guid>/blog/2017-01-17-exploring-mint-r/</guid>
-      <description>We started using Mint to keep track of our spending. One of the best features of Mint is the ability to see past patterns of spending (and to use that information to not spend quite as much on, well, coffee, and for those who know me well, sandwiches from Woody’s Oasis).
-I listened to an episode of the Not So Standard Deviations, in which the hosts Peng and Parker discussed using spreadsheets and R to keep track of information for taxes.</description>
-    </item>
-    
-    <item>
-      <title>Announcing clustRcompaR v.0.1.0</title>
-      <link>/blog/2017-01-07-clustrcompar-0.1.0/</link>
-      <pubDate>Sat, 07 Jan 2017 10:16:00 -0500</pubDate>
-      
-      <guid>/blog/2017-01-07-clustrcompar-0.1.0/</guid>
-      <description>Alex Lishinski and I worked on an R package over the last year or so. We are excited that it’s now available on CRAN.
-You can install the package using install.packages(&#39;clustRcompaR&#39;) (only needed first time) and load it (more on its two functions below) using library(clustRcompaR).
-Here’s a description:
- Provides an interface to perform cluster analysis on a corpus of text. Interfaces to Quanteda to assemble text corpuses easily.</description>
     </item>
     
   </channel>

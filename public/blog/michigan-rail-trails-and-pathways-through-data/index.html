@@ -21,6 +21,10 @@
       
       <li><a href="/teaching/">Teaching</a></li>
       
+      <li><a href="/categories/">Categories</a></li>
+      
+      <li><a href="/tags/">Tags</a></li>
+      
     </ul>
     <hr/>
     </nav>
@@ -47,7 +51,8 @@ library(stringr)
 library(lme4)
 library(broom)
 
-df &lt;- read_rds(&quot;/Users/joshuarosenberg/Dropbox/1_Research/railtrail/data-raw/rds_files/mi.rds&quot;) # this is a file with the rail-trail data - you can get it from here: https://github.com/jrosen48/railtrail
+f &lt;- here::here(&quot;static&quot;, &quot;data&quot;, &quot;mi.rds&quot;)
+df &lt;- read_rds(f) # this is a file with the rail-trail data - you can get it from here: https://github.com/jrosen48/railtrail
 
 df &lt;- df %&gt;% 
     unnest(raw_reviews) %&gt;% 
@@ -111,28 +116,28 @@ df &lt;- mutate(df,
 <td align="left">Paved</td>
 <td align="left">Rail-Trail</td>
 <td align="right">30.0</td>
-<td align="right">74</td>
+<td align="right">75</td>
 </tr>
 <tr class="odd">
 <td align="left">Fred Meijer White Pine Trail State Park</td>
 <td align="left">Crushed Stone</td>
 <td align="left">Rail-Trail</td>
 <td align="right">92.6</td>
-<td align="right">64</td>
+<td align="right">66</td>
 </tr>
 <tr class="even">
 <td align="left">William Field Memorial Hart-Montague Trail State Park</td>
 <td align="left">Paved</td>
 <td align="left">Rail-Trail</td>
 <td align="right">22.7</td>
-<td align="right">47</td>
+<td align="right">48</td>
 </tr>
 <tr class="odd">
 <td align="left">Kal-Haven Trail Sesquicentennial State Park</td>
 <td align="left">Crushed Stone</td>
 <td align="left">Rail-Trail</td>
 <td align="right">34.0</td>
-<td align="right">46</td>
+<td align="right">47</td>
 </tr>
 </tbody>
 </table>
@@ -314,7 +319,7 @@ df_out &lt;- left_join(df_out, df)</code></pre>
 <td align="left">Paved</td>
 <td align="right">11.0</td>
 <td align="left">Rail-Trail</td>
-<td align="right">0.881</td>
+<td align="right">0.886</td>
 <td align="right">4.941</td>
 <td align="right">36</td>
 </tr>
@@ -323,42 +328,60 @@ df_out &lt;- left_join(df_out, df)</code></pre>
 <td align="left">Paved</td>
 <td align="right">4.5</td>
 <td align="left">Greenway/Non-RT</td>
-<td align="right">0.870</td>
+<td align="right">0.875</td>
 <td align="right">4.933</td>
 <td align="right">17</td>
 </tr>
 <tr class="odd">
-<td align="left">Wayne County Metroparks Trail</td>
-<td align="left">Paved</td>
-<td align="right">16.3</td>
-<td align="left">Greenway/Non-RT</td>
-<td align="right">0.810</td>
-<td align="right">4.889</td>
-<td align="right">9</td>
-</tr>
-<tr class="even">
 <td align="left">Leelanau Trail</td>
 <td align="left">Paved</td>
 <td align="right">16.6</td>
 <td align="left">Rail-Trail</td>
-<td align="right">0.810</td>
+<td align="right">0.829</td>
+<td align="right">4.900</td>
+<td align="right">20</td>
+</tr>
+<tr class="even">
+<td align="left">Wayne County Metroparks Trail</td>
+<td align="left">Paved</td>
+<td align="right">16.3</td>
+<td align="left">Greenway/Non-RT</td>
+<td align="right">0.815</td>
 <td align="right">4.889</td>
-<td align="right">19</td>
+<td align="right">9</td>
 </tr>
 <tr class="odd">
 <td align="left">Southern Links Trailway</td>
 <td align="left">Other</td>
 <td align="right">10.2</td>
 <td align="left">Rail-Trail</td>
-<td align="right">0.806</td>
+<td align="right">0.811</td>
 <td align="right">4.853</td>
 <td align="right">39</td>
 </tr>
 <tr class="even">
+<td align="left">Mackinac Island Loop (State Highway 185)</td>
+<td align="left">Paved</td>
+<td align="right">8.3</td>
+<td align="left">Greenway/Non-RT</td>
+<td align="right">0.796</td>
+<td align="right">4.875</td>
+<td align="right">11</td>
+</tr>
+<tr class="odd">
 <td align="left">Detroit RiverWalk</td>
 <td align="left">Paved</td>
 <td align="right">3.5</td>
 <td align="left">Greenway/Non-RT</td>
+<td align="right">0.779</td>
+<td align="right">5.000</td>
+<td align="right">3</td>
+</tr>
+<tr class="even">
+<td align="left">Fred Meijer Pioneer Trail</td>
+<td align="left">Paved</td>
+<td align="right">5.4</td>
+<td align="left">Rail-Trail</td>
 <td align="right">0.779</td>
 <td align="right">5.000</td>
 <td align="right">3</td>
@@ -380,24 +403,6 @@ df_out &lt;- left_join(df_out, df)</code></pre>
 <td align="right">0.779</td>
 <td align="right">5.000</td>
 <td align="right">2</td>
-</tr>
-<tr class="odd">
-<td align="left">Hampton Township Nature Trail</td>
-<td align="left">Crushed Stone</td>
-<td align="right">2.4</td>
-<td align="left">Greenway/Non-RT</td>
-<td align="right">0.779</td>
-<td align="right">5.000</td>
-<td align="right">2</td>
-</tr>
-<tr class="even">
-<td align="left">Stony Creek Metropark Trail</td>
-<td align="left">Paved</td>
-<td align="right">6.2</td>
-<td align="left">Greenway/Non-RT</td>
-<td align="right">0.779</td>
-<td align="right">5.000</td>
-<td align="right">4</td>
 </tr>
 </tbody>
 </table>
@@ -427,34 +432,52 @@ df_out &lt;- left_join(df_out, df)</code></pre>
 <td align="left">Paved</td>
 <td align="right">4.5</td>
 <td align="left">Greenway/Non-RT</td>
-<td align="right">0.8701264</td>
+<td align="right">0.8747665</td>
 <td align="right">4.933333</td>
 <td align="right">17</td>
 </tr>
 <tr class="even">
+<td align="left">Mackinac Island Loop (State Highway 185)</td>
+<td align="left">Paved</td>
+<td align="right">8.3</td>
+<td align="left">Greenway/Non-RT</td>
+<td align="right">0.7962137</td>
+<td align="right">4.875000</td>
+<td align="right">11</td>
+</tr>
+<tr class="odd">
 <td align="left">Grand Haven Waterfront Trail</td>
 <td align="left">Paved</td>
 <td align="right">2.5</td>
 <td align="left">Rail-Trail</td>
-<td align="right">0.7794946</td>
-<td align="right">5.000000</td>
-<td align="right">4</td>
-</tr>
-<tr class="odd">
-<td align="left">Stony Creek Metropark Trail</td>
-<td align="left">Paved</td>
-<td align="right">6.2</td>
-<td align="left">Greenway/Non-RT</td>
-<td align="right">0.7794946</td>
+<td align="right">0.7789488</td>
 <td align="right">5.000000</td>
 <td align="right">4</td>
 </tr>
 <tr class="even">
+<td align="left">Stony Creek Metropark Trail</td>
+<td align="left">Paved</td>
+<td align="right">6.2</td>
+<td align="left">Greenway/Non-RT</td>
+<td align="right">0.7789488</td>
+<td align="right">5.000000</td>
+<td align="right">4</td>
+</tr>
+<tr class="odd">
 <td align="left">Detroit RiverWalk</td>
 <td align="left">Paved</td>
 <td align="right">3.5</td>
 <td align="left">Greenway/Non-RT</td>
-<td align="right">0.7794946</td>
+<td align="right">0.7789488</td>
+<td align="right">5.000000</td>
+<td align="right">3</td>
+</tr>
+<tr class="even">
+<td align="left">Fred Meijer Pioneer Trail</td>
+<td align="left">Paved</td>
+<td align="right">5.4</td>
+<td align="left">Rail-Trail</td>
+<td align="right">0.7789488</td>
 <td align="right">5.000000</td>
 <td align="right">3</td>
 </tr>
@@ -463,43 +486,25 @@ df_out &lt;- left_join(df_out, df)</code></pre>
 <td align="left">Paved</td>
 <td align="right">1.9</td>
 <td align="left">Greenway/Non-RT</td>
-<td align="right">0.7794946</td>
+<td align="right">0.7789488</td>
 <td align="right">5.000000</td>
 <td align="right">2</td>
 </tr>
 <tr class="even">
-<td align="left">Hampton Township Nature Trail</td>
-<td align="left">Crushed Stone</td>
-<td align="right">2.4</td>
-<td align="left">Greenway/Non-RT</td>
-<td align="right">0.7794946</td>
-<td align="right">5.000000</td>
-<td align="right">2</td>
-</tr>
-<tr class="odd">
 <td align="left">Western Gateway Trail</td>
 <td align="left">Paved</td>
 <td align="right">6.0</td>
 <td align="left">Rail-Trail</td>
-<td align="right">0.7794946</td>
+<td align="right">0.7789488</td>
 <td align="right">5.000000</td>
 <td align="right">2</td>
-</tr>
-<tr class="even">
-<td align="left">Mackinac Island Loop (State Highway 185)</td>
-<td align="left">Paved</td>
-<td align="right">8.3</td>
-<td align="left">Greenway/Non-RT</td>
-<td align="right">0.7693288</td>
-<td align="right">4.857143</td>
-<td align="right">10</td>
 </tr>
 <tr class="odd">
 <td align="left">Paint Creek Trail (MI)</td>
 <td align="left">Crushed Stone</td>
 <td align="right">8.9</td>
 <td align="left">Rail-Trail</td>
-<td align="right">0.7254429</td>
+<td align="right">0.7301712</td>
 <td align="right">4.785714</td>
 <td align="right">26</td>
 </tr>
@@ -508,7 +513,7 @@ df_out &lt;- left_join(df_out, df)</code></pre>
 <td align="left">Paved</td>
 <td align="right">1.8</td>
 <td align="left">Rail-Trail</td>
-<td align="right">0.7049368</td>
+<td align="right">0.7091632</td>
 <td align="right">4.777778</td>
 <td align="right">12</td>
 </tr>

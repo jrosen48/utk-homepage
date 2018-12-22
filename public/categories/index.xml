@@ -11,20 +11,11 @@
     
     
     <item>
-      <title>blog</title>
-      <link>/categories/blog/</link>
-      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      <title>personal</title>
+      <link>/categories/personal/</link>
+      <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/categories/blog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mixture models</title>
-      <link>/categories/mixture-models/</link>
-      <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/mixture-models/</guid>
+      <guid>/categories/personal/</guid>
       <description></description>
     </item>
     
@@ -38,6 +29,15 @@
     </item>
     
     <item>
+      <title>publication</title>
+      <link>/categories/publication/</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>r</title>
       <link>/categories/r/</link>
       <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
@@ -47,11 +47,29 @@
     </item>
     
     <item>
-      <title>workflow</title>
-      <link>/categories/workflow/</link>
-      <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
+      <title>r-package</title>
+      <link>/categories/r-package/</link>
+      <pubDate>Thu, 12 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/categories/workflow/</guid>
+      <guid>/categories/r-package/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>teaching</title>
+      <link>/categories/teaching/</link>
+      <pubDate>Wed, 29 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>walkthrough</title>
+      <link>/categories/walkthrough/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/walkthrough/</guid>
       <description></description>
     </item>
     

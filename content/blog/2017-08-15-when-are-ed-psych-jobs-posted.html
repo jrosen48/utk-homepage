@@ -4,7 +4,8 @@ author: ~
 date: '2017-08-15'
 description: Good to know
 slug: when-are-ed-psych-jobs-posted
-tags: [web scraping, r]
+categories: [r, walkthrough]
+tags: [web-scraping]
 ---
 
 
@@ -66,18 +67,18 @@ read_the_dates &lt;- function(page, url = &quot;http://edpsychjobs.info/category
 <pre><code>## # A tibble: 12 x 3
 ##    month     n proportion
 ##    &lt;ord&gt; &lt;int&gt;      &lt;dbl&gt;
-##  1   Jan    34       0.07
-##  2   Feb    31       0.07
-##  3   Mar    37       0.08
-##  4   Apr    27       0.06
-##  5   May    25       0.05
-##  6   Jun    19       0.04
-##  7   Jul    30       0.07
-##  8   Aug    49       0.11
-##  9   Sep    71       0.16
-## 10   Oct    64       0.14
-## 11   Nov    39       0.09
-## 12   Dec    30       0.07</code></pre>
+##  1 Jan      28       0.06
+##  2 Feb      22       0.05
+##  3 Mar      25       0.05
+##  4 Apr      27       0.06
+##  5 May      31       0.07
+##  6 Jun      23       0.05
+##  7 Jul      21       0.05
+##  8 Aug      57       0.12
+##  9 Sep      77       0.17
+## 10 Oct      74       0.16
+## 11 Nov      42       0.09
+## 12 Dec      29       0.06</code></pre>
 <p>How many (and the proportion) per year:</p>
 <pre class="r"><code>processed_dates %&gt;% 
     count(year) %&gt;% 
@@ -85,12 +86,12 @@ read_the_dates &lt;- function(page, url = &quot;http://edpsychjobs.info/category
 <pre><code>## # A tibble: 6 x 3
 ##    year     n proportion
 ##   &lt;dbl&gt; &lt;int&gt;      &lt;dbl&gt;
-## 1  2012    68       0.15
-## 2  2013   138       0.30
-## 3  2014   113       0.25
-## 4  2015    58       0.13
-## 5  2016    52       0.11
-## 6  2017    27       0.06</code></pre>
+## 1  2013    97       0.21
+## 2  2014   113       0.25
+## 3  2015    58       0.13
+## 4  2016    52       0.11
+## 5  2017    59       0.13
+## 6  2018    77       0.17</code></pre>
 <p>And look at differences between years in posts per month:</p>
 <pre class="r"><code>df_plot_2 &lt;- processed_dates %&gt;% 
     count(year, month) %&gt;% 
@@ -101,12 +102,10 @@ read_the_dates &lt;- function(page, url = &quot;http://edpsychjobs.info/category
 ggplot(df_plot_2, aes(x = month, y = n, group = year, color = year)) +
     geom_point(alpha = .3) +
     geom_line() +
-    theme_ipsum_rc(base_size = 12) +
-    scale_color_ipsum(&quot;&quot;) +
     xlab(NULL) +
     ylab(&quot;Number of Posts&quot;) +
     ggtitle(&quot;Number of Posts / Month on EdPsychJobs&quot;)</code></pre>
-<p><img src="/blog/2017-08-15-when-are-ed-psych-jobs-posted_files/figure-html/unnamed-chunk-7-1.png" width="672" /></p>
+<p><img src="/blog/2017-08-15-when-are-ed-psych-jobs-posted_files/figure-html/unnamed-chunk-8-1.png" width="672" /></p>
 </div>
 <div id="what-can-we-learn-from-this" class="section level1">
 <h1>What can we learn from this?</h1>

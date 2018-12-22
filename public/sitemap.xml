@@ -233,16 +233,6 @@
   </url>
   
   <url>
-    <loc>/blog/2017-01-04-from-wordpress-to-github-pages/</loc>
-    <lastmod>2017-01-04T11:32:40-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/20160818-git-what-contributing-to-an-open-source-software-project/</loc>
-    <lastmod>2016-08-18T16:10:05+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/blog/20160415-an-examination-of-students-epistemic-considerations-with-an-automated-approach-at-narst2016/</loc>
     <lastmod>2016-04-15T09:31:38+00:00</lastmod>
   </url>
@@ -278,6 +268,18 @@
   </url>
   
   <url>
+    <loc>/tags/aect/</loc>
+    <lastmod>2015-11-06T15:27:57+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/aera/</loc>
+    <lastmod>2018-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/blog/</loc>
     <lastmod>2018-10-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -310,11 +312,36 @@
   </url>
   
   <url>
+    <loc>/tags/mcmc/</loc>
+    <lastmod>2018-03-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/narst/</loc>
+    <lastmod>2018-01-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/research/</loc>
   </url>
   
   <url>
+    <loc>/tags/site/</loc>
+    <lastmod>2018-01-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/sna/</loc>
+    <lastmod>2018-08-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
+    <lastmod>2015-11-06T15:27:57+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -323,13 +350,13 @@
   </url>
   
   <url>
-    <loc>/categories/blog/</loc>
-    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
+    <loc>/tags/clustrcompar/</loc>
+    <lastmod>2017-01-07T10:16:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/cluster-analysis/</loc>
+    <loc>/tags/cross-validation/</loc>
     <lastmod>2017-07-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -342,19 +369,25 @@
   
   <url>
     <loc>/tags/cycling/</loc>
-    <lastmod>2017-06-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/data-science/</loc>
-    <lastmod>2017-03-13T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/data-science-ed/</loc>
     <lastmod>2018-10-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/data-viz/</loc>
+    <lastmod>2018-06-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/dissertation/</loc>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -371,20 +404,80 @@
   </url>
   
   <url>
+    <loc>/tags/getting-started-with-r/</loc>
+    <lastmod>2018-06-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/getting-started-withr/</loc>
+    <lastmod>2017-04-14T11:54:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/konfound/</loc>
+    <lastmod>2018-04-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/latex/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/lme4/</loc>
+    <lastmod>2018-03-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/meta/</loc>
     <lastmod>2017-01-07T09:50:40-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/mixed-effects-models/</loc>
-    <lastmod>2017-08-15T00:00:00+00:00</lastmod>
+    <loc>/tags/mixture-models/</loc>
+    <lastmod>2017-08-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/mixture-models/</loc>
-    <lastmod>2017-08-22T00:00:00+00:00</lastmod>
+    <loc>/tags/mplus/</loc>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/multi-level-models/</loc>
+    <lastmod>2018-02-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/newsflash/</loc>
+    <lastmod>2017-03-11T01:28:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/open-science/</loc>
+    <lastmod>2017-10-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/personal/</loc>
+    <lastmod>2018-05-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/podcasts/</loc>
+    <lastmod>2017-09-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -395,20 +488,20 @@
   </url>
   
   <url>
-    <loc>/tags/presentation/</loc>
-    <lastmod>2017-04-14T11:54:00-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/categories/presentation/</loc>
     <lastmod>2018-10-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>/categories/publication/</loc>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/r/</loc>
-    <lastmod>2017-08-15T00:00:00+00:00</lastmod>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -419,20 +512,56 @@
   </url>
   
   <url>
+    <loc>/tags/r-markdown/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/r-package/</loc>
+    <lastmod>2018-04-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/rail-trails/</loc>
-    <lastmod>2017-07-24T00:00:00+00:00</lastmod>
+    <lastmod>2018-02-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/science-education/</loc>
+    <lastmod>2018-08-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/shiny/</loc>
+    <lastmod>2018-01-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/teaching/</loc>
+    <lastmod>2018-08-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/tidylpa/</loc>
+    <lastmod>2018-02-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/walkthrough/</loc>
+    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/web-scraping/</loc>
-    <lastmod>2017-08-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/workflow/</loc>
-    <lastmod>2017-09-05T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -3,11 +3,17 @@ title: Using MPlus from R with MPlusAutomation
 author: ~
 date: '2017-09-01'
 slug: using-mplus-from-r
-categories: []
-tags: []
+categories: [r, walkthrough]
+tags: [mplus, r, tidyLPA]
 description: Desc
 meta_img: /images/image.jpg
 ---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, eval = FALSE)
+```
+
+**Note that due to version-related issues the code in this post is displayed but is not excecuted/run.**
 
 According to the [MPlus website](https://www.statmodel.com/), the R package [MPlusAutomation](https://github.com/michaelhallquist/MplusAutomation) serves three purposes:
 

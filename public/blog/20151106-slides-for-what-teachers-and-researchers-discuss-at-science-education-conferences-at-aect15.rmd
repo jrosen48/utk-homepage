@@ -10,6 +10,8 @@ comment_status: closed
 post_name: slides-for-what-teachers-and-researchers-discuss-at-science-education-conferences-at-aect15
 status: publish
 post_type: post
+categories: [presentation]
+tags: [AECT]
 ---
 
 # Slides for What Teachers and Researchers Discuss at Science Education Conferences at #AECT15

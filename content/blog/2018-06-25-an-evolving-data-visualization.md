@@ -4,7 +4,7 @@ author: ''
 date: '2018-06-25'
 slug: an-evolving-data-visualization
 categories: []
-tags: []
+tags: [data-viz]
 description: Desc
 meta_img: /images/image.jpg
 ---

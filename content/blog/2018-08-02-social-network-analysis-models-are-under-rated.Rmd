@@ -3,8 +3,8 @@ title: A quick introduction and tutorial on a cool social network analysis model
 author: ''
 date: '2018-08-02'
 slug: social-network-analysis-model-for-influence
-categories: [r]
-tags: []
+categories: [r, walkthrough]
+tags: [SNA]
 description: Influence models seem complex but are actually just regressions.
 meta_img: /_media/images/msurbanstem-soc.png
 ---
