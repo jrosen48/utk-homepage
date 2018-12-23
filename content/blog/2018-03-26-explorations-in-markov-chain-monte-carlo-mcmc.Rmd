@@ -20,7 +20,7 @@ set.seed(20170326)
 ```
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE, eval = FALSE)
+knitr::opts_chunk$set(echo = TRUE, eval = TRUE)
 ```
 
 **Note that due to version-related issues the code in this post is displayed but is not excecuted/run. If you run this code, parts may not work (depending upon the version of the packages used and, potentially, other factors).**
