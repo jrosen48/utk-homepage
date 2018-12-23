@@ -156,15 +156,6 @@
     </item>
     
     <item>
-      <title>getting-started-withR</title>
-      <link>/tags/getting-started-withr/</link>
-      <pubDate>Fri, 14 Apr 2017 11:54:00 -0500</pubDate>
-      
-      <guid>/tags/getting-started-withr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>konfound</title>
       <link>/tags/konfound/</link>
       <pubDate>Thu, 12 Apr 2018 00:00:00 +0000</pubDate>
@@ -188,15 +179,6 @@
       <pubDate>Mon, 26 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/lme4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>meta</title>
-      <link>/tags/meta/</link>
-      <pubDate>Sat, 07 Jan 2017 09:50:40 -0500</pubDate>
-      
-      <guid>/tags/meta/</guid>
       <description></description>
     </item>
     
@@ -246,11 +228,11 @@
     </item>
     
     <item>
-      <title>podcasts</title>
-      <link>/tags/podcasts/</link>
+      <title>podcast</title>
+      <link>/tags/podcast/</link>
       <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/podcasts/</guid>
+      <guid>/tags/podcast/</guid>
       <description></description>
     </item>
     

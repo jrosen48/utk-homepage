@@ -410,12 +410,6 @@
   </url>
   
   <url>
-    <loc>/tags/getting-started-withr/</loc>
-    <lastmod>2017-04-14T11:54:00-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/konfound/</loc>
     <lastmod>2018-04-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -430,12 +424,6 @@
   <url>
     <loc>/tags/lme4/</loc>
     <lastmod>2018-03-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/meta/</loc>
-    <lastmod>2017-01-07T09:50:40-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -476,7 +464,7 @@
   </url>
   
   <url>
-    <loc>/tags/podcasts/</loc>
+    <loc>/tags/podcast/</loc>
     <lastmod>2017-09-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
