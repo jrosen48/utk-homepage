@@ -96,7 +96,7 @@ Rosenberg, J. M., Terry, C. A., Bell, J., Hiltz, V., & Russo, T. (2016). Design 
 \hangindent=2em
 Rosenberg, J. M., & Koehler, M. J. (2015). Context and Technological Pedagogical Content Knowledge (TPACK): A systematic review. *Journal of Research on Technology in Education, 47*, 186-210. http://dx.doi.org/10.1080/15391523.2015.1052663 <a href = "/pre-prints/rosenberg-koehler-2015-jrte.pdf"><img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
-### Journal Articles in Submission or Preparation 
+### Journal Articles in Submission
 
 \hangindent=2em
 Ranellucci, J., Rosenberg, J. M., & Poitras, E. (registered report accepted with minor revisions). Exploring pre-service teachers’ use of technology: The technology acceptance model and expectancy-value theory.
@@ -111,16 +111,21 @@ Henriksen, D., Mehta, R., & Rosenberg, J. M. (under review). Supporting a creati
 Beymer, P. N., Rosenberg, J. M., & Schmidt, J. A. (under review). Investigating the effects of interest and choice in education: An experience sampling approach.
 
 \hangindent=2em
+Blondel, D. V., Rosenberg, J. M., Sansone, A., Yang, B. W., Linennbrink-Garcia, L., Schwarz-Bloom, R. D. (under review). The Rex virtual experiment platform: Design, implementation, and effects on situational interest. 
+
+### Journal Articles in Preparation 
+
+\hangindent=2em
 Rosenberg, J. M., Schmidt, J. A., & Koehler, M. J. (in preparation). Work with data in summer STEM programs: An experience sampling method approach.
 
 \hangindent=2em
-Blondel, D. V., Rosenberg, J. M., Sansone, A., Yang, B. W., Linennbrink-Garcia, L., Schwarz-Bloom, R. D. (in preparation). The Rex virtual experiment platform: Design, implementation, and effects on situational interest. 
+Rosenberg, J. M., Schwarz, C. V., & Akcaoglu, M. (in preparation). Learning to teach scientific modeling: A longitudinal case study of two teachers' instructional practice.
+
+\hangindent=2em
+Rosenberg, J. M., Reid, J., Koehler, M. J., Fischer, C., & McKenna, T. J. (in preparation). The roles of the Twitter hashtag #NGSSchat in the context of science education reform efforts.
 
 \hangindent=2em
 Schmidt, J. A., Beymer, P. N., & Rosenberg, J. M. (in preparation). Experiences, activities, and personal characteristics as predictors of engagement in STEM-focused summer programs.
-
-\hangindent=2em
-Rosenberg, J. M., Schwarz, C. V., & Akcaoglu, M. (in preparation). Learning to teach scientific modeling: A longitudinal case study of two teachers' instructional practice.
 
 \hangindent=2em
 Greenhalgh, S. P., Rosenberg, J. M., Staudt-Willet, B., Koehler, M. J., & Akcaoglu, M. (in preparation). Timing is everything: Comparing synchronous and asynchronous modes of Twitter for teacher professional learning
@@ -154,7 +159,7 @@ Koehler, M. J., Mishra, P., Akcaoglu, M., & Rosenberg, J. M. (2013). Technologic
 Vo, T., & Rosenberg, J. M. (2018). Four posts on the academic job search in science education. *NARST Graduate Student Resources Blog*. https://narstgradresources.blogspot.com/2018/09/part-4-interviewing-and-negotiating-for.html
 
 \hangindent=2em
-Rosenberg, J. M. (2018). Opportunities for engaging students in “data practices” in online science classes: Opportunities, challenges, and recommendations. *Michigan Virtual Learning Research Institute Blog: Research, Policy, Innovation & Networks*. https://mvlri.org/blog/opportunities-engaging-students-data-practices-online-science-classes/
+Rosenberg, J. M. (2018). Opportunities for engaging students in "data practices" in online science classes: Opportunities, challenges, and recommendations. *Michigan Virtual Learning Research Institute Blog: Research, Policy, Innovation & Networks*. https://mvlri.org/blog/opportunities-engaging-students-data-practices-online-science-classes/
 
 \hangindent=2em
 Rosenberg, J. M., & Logan, C. W. (2017). Review of the book What’s Worth Teaching: Rethinking Curriculum in the Age of Technology, by A. Collins. *Teachers College Record*. http://www.tcrecord.org/Content.asp?ContentID=22173

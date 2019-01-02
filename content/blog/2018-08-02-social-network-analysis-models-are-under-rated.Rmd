@@ -40,7 +40,7 @@ $$
 Is predicted by that individual's *first* time point measure:
 
 $$
-{ \gamma  }_{ it1 }^{  }
+{ \gamma  }_{ 1it_1 }^{  }
 $$
 A residual term:
 
