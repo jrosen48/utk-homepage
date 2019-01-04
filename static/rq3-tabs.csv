@@ -1,0 +1,6 @@
+,Conversing In-degree,Conversing Out-Degree,Endorsing In-degree,Endorsing Out-degree
+Intercept,2.18 (0.14)***,2.09 (0.13)***,2.78 (0.12)***,2.88 (0.13)***
+Administrator,0.17 (0.19),0.29 (0.17),0.25 (0.17),0.24 (0.17)
+Researcher,0.43 (0.19)*,0.34 (0.18),0.37 (0.17)*,0.17 (0.19)
+Teacher,0.28 (0.16),0.29 (0.15)*,0.28 (0.14),0.24 (0.15)
+Original Tweets,0.29 (0.01)***,0.26 (0.01)***,0.24 (0.01)***,0.22 (0.02)***

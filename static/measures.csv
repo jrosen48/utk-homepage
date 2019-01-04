@@ -1,0 +1,31 @@
+﻿Measure,Description
+Actors ,"Represents the social unit of analysis in a social network (i.e., person); serves as a measure as a count for how many individuals are involved in the #NGSSchat network"
+Edges,Represents the relationship between two actors; measures the number of interactions within the network
+Density,The proportion of the number of edges in a network to the possible number of edges and indicates a more 
+Endorsement,"A type of edge in the #NGSSchat network: A Twitter interaction that is either a favorite, retweet, or quote tweet"
+Conversation,A type of an edge in the #NGSSchat network: A Twitter interaction which is either a mention or a reply
+In-degree centrality,"The number of edges received by an individual (being favorited, retweeted, quoted, replied to, or mentioned)"
+Out-degree centrality,"The number of edges sent by an individual (favoriting, retweeting, quoting, replying to, or mentioning someone else)"
+Group membership,"The category assigned to each individual, based upon qualitative coding of individual users’ Twitter profile information"
+Number of tweets,The number of tweets an individual sent 
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
