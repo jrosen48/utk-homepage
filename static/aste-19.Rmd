@@ -77,7 +77,10 @@ Effective teacher professional development and learning is facilitated through i
 
 class: center, middle
 
-![tweet-picture](/tweet-picture.png)
+background-image: url("/aste-19/tweet-picture.png")
+background-position: center
+background-size: contain
+
 
 ---
 
@@ -126,12 +129,6 @@ Articulates learning as a process enacted through networks and communities, and 
    - Conventionally offline *and also* online and using digital traces (Spillane, Kim, & Frank, 2012)
    - Augmented offline with information from digital traces (e.g., McFarland, Lewis, & Goldberg, 2015)
       - In this latter tradition, we employed SNA to describe and examine #NGSSchat
-
----
-
-class: center, middle 
-
-# Measures
 
 ---
 
@@ -219,12 +216,6 @@ background-size: contain
   - Predict interactions received (in-degree) and sent (out-degree) for both conversing and endorsing
 - Analysis for RQ3
   - Predict formation of ties for both conversing and endorsing using a selection model
-  
----
-
-class: center, middle 
-
-# Results
 
 ---
 
@@ -308,12 +299,8 @@ d <- read_csv("aste-19/select-end.csv")
 ```
 
 ```{r, echo = FALSE}
-d %>% knitr::kable("html")
+d %>% select(Coefficient, Estimate) %>%  knitr::kable("html")
 ```
-
----
-
-# Discussion
 
 ---
 
