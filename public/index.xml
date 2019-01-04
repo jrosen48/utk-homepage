@@ -6,10 +6,20 @@
     <description>Recent content in Home on Joshua M. Rosenberg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Presentation on The Role of the Twitter Hashtag #NGSSchat in the Context of Science Education Reform Efforts at ASTE 2019</title>
+      <link>/post/2019/01/04/presentation-on-the-role-of-the-twitter-hashtag-ngsschat-in-the-context-of-science-education-reform-efforts-at-aste-2019/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019/01/04/presentation-on-the-role-of-the-twitter-hashtag-ngsschat-in-the-context-of-science-education-reform-efforts-at-aste-2019/</guid>
+      <description>With Joshua Reid, Matthew Koehler, Christian Fischer, and T.J. McKenna, I presented on The Role of the Twitter Hashtag #NGSSchat in the Context of Science Education Reform Efforts at ASTE 2019.
+ The presentation is here: https://joshuamrosenberg.com/aste-19.html And a pre-print and link to the data (and code for the analysis and a whole lot more) is here: https://osf.io/9ex7k/  </description>
+    </item>
     
     <item>
       <title>Writing a CV in markdown so it can be rendered as HTML, a PDF, and a Word document</title>

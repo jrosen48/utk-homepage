@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/post/2019/01/04/presentation-on-the-role-of-the-twitter-hashtag-ngsschat-in-the-context-of-science-education-reform-efforts-at-aste-2019/</loc>
+    <lastmod>2019-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/blog/creating-a-cv-while-using-blogdown-pdf-html-and-word-doc-oh-my/</loc>
     <lastmod>2018-10-25T00:00:00+00:00</lastmod>
   </url>
@@ -292,7 +297,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -324,6 +329,12 @@
   </url>
   
   <url>
+    <loc>/post/</loc>
+    <lastmod>2019-01-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/research/</loc>
   </url>
   
@@ -347,6 +358,12 @@
   
   <url>
     <loc>/teaching/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/aste/</loc>
+    <lastmod>2019-01-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -477,7 +494,7 @@
   
   <url>
     <loc>/categories/presentation/</loc>
-    <lastmod>2018-10-16T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -488,14 +505,14 @@
   </url>
   
   <url>
-    <loc>/tags/r/</loc>
-    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
+    <loc>/categories/r/</loc>
+    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/r/</loc>
-    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
+    <loc>/tags/r/</loc>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
