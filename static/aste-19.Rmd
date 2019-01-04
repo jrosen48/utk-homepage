@@ -29,12 +29,6 @@ background-size: contain
 
 ---
 
-class: center, middle 
-
-# Background
-
----
-
 # The Next Generation Science Standards
 
 - NGSS (or NGSS-inspired) standards in 39 states (National Science Teachers Association, 2018)
@@ -43,7 +37,7 @@ class: center, middle
 
 ---
 
-# Is this time different?
+# Is This Time Different?
 
 - More **discussion** between practitioners and researchers than before (i.e., RPPs; Coburn & Penuel, 2016)
   - Including in science education (Loucks-Horsely, Stiles, Mundry, Love, & Hewson, 2010; Luft & Hewson, 2014)
@@ -52,7 +46,7 @@ class: center, middle
 
 ---
 
-# Teacher learning
+# Teacher Learning
 
 - Teacher learning can occur anywhere (Desimone & Garet, 2015)
     - Involvement is often limited by barriers especially geographic ones
@@ -81,7 +75,6 @@ background-image: url("/aste-19/tweet-picture.png")
 background-position: center
 background-size: contain
 
-
 ---
 
 # Teacher Learning Through Twitter (Part 2)
@@ -101,7 +94,7 @@ background-size: contain
 
 ---
 
-# Need for study
+# Need For Study
 
 - Unlike many formal opportunities and PLNs, this informal (yet growing and inclusive of a myriad of educators and researchers) platform has not yet been the focus of any studies
   - One excellent *NSTA Reports* article by Shelton and Ende (2015)
@@ -353,7 +346,7 @@ d %>% select(Coefficient, Estimate) %>%  knitr::kable("html")
 
 ---
 
-# Implications for practice
+# Implications for Practice
 
 - Less recognized platform aligns with recommendations for teacher professional development (Desimone & Garet, 2001)
     - Supporting collaboration
@@ -369,11 +362,12 @@ d %>% select(Coefficient, Estimate) %>%  knitr::kable("html")
 
 ---
 
-# Thank you!
+# Thank you
 
-Website: [https://joshuamrosenberg.com](https://joshuamrosenberg.com)  
-Email: [jmrosenberg@utk.edu](mailto:jmrosenberg@utk.edu)  
-Twitter: [@jrosenberg6432](https://twitter.com/jrosenberg6432)  
-Paper and data: [https://osf.io/9ex7k/](https://osf.io/9ex7k/)  
+Joshua M Rosenberg, Joshua W Reid, Matthew J Koehler, Christian Fischer, and Thomas J. McKenna
+
+[https://joshuamrosenberg.com](https://joshuamrosenberg.com)  
+[@jrosenberg6432](https://twitter.com/jrosenberg6432)  
+[https://osf.io/9ex7k/](https://osf.io/9ex7k/)  
 
 *We welcome your questions and feedback on this work!*
