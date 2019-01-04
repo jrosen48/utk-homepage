@@ -1,0 +1,12 @@
+﻿Fixed Effects,Coefficient,Estimate
+,Intercept,-5.18 (0.25) ***
+,Same Group,0.08 (0.03) *
+,Sender - Researcher,0.27 (0.28)
+,Sender - Administrator,.44 (.25)
+,Sender - Teacher,.37 (.22)
+,Receiver - Researcher,.30 (.26)
+,Receiver - Administrator,.49 (.24)*
+,Receiver - Teacher,.20 (.21)
+Random Effects,Coefficient,ICC
+,Sender,0.34
+,Receiver,0.29

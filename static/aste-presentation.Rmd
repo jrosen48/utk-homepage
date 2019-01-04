@@ -17,13 +17,13 @@ options(htmltools.dir.version = FALSE)
 library(tidyverse)
 ```
 
-background-image: url("/nsta-ss.png")
+background-image: url("/aste-19/nsta-ss.png")
 background-position: center
 background-size: contain
 
 ---
 
-background-image: url("/chat-s.png")
+background-image: url("/aste-19/chat-s.png")
 background-position: center
 background-size: contain
 
@@ -146,7 +146,7 @@ class: center, middle
 class: center, middle 
 
 ```{r, include = FALSE}
-d <- read_csv("measures.csv")
+d <- read_csv("aste-19/measures.csv")
 d <- d[1:9, ]
 ```
 
@@ -164,7 +164,7 @@ d %>% knitr::kable(format = "html")
 
 ---
 
-background-image: url("/topics.png")
+background-image: url("/aste-19/topics.png")
 background-position: center
 background-size: contain
 
@@ -185,7 +185,7 @@ background-size: contain
 class: center, middle 
 
 ```{r, include= FALSE}
-d <- read_csv("groups.csv")
+d <- read_csv("aste-19/groups.csv")
 ```
 
 ```{r, echo = FALSE}
@@ -209,13 +209,13 @@ d %>% knitr::kable("html")
 
 ---
 
-background-image: url("/endorsing-ngsschat-soc.png")
+background-image: url("/aste-19/endorsing-ngsschat-soc.png")
 background-position: center
 background-size: contain
 
 ---
 
-background-image: url("/conversing-ngsschat-soc.png")
+background-image: url("/aste-19/conversing-ngsschat-soc.png")
 background-position: center
 background-size: contain
 
@@ -239,7 +239,7 @@ class: center, middle
 ---
 
 ```{r, include = FALSE}
-d <- read_csv("centrality-measures.csv")
+d <- read_csv("aste-19/centrality-measures.csv")
 
 d <- d %>% 
   arrange(desc(bc_mean)) %>% 
@@ -248,7 +248,7 @@ d <- d %>%
   select(profile, bc_m_sd, evc_m_sd) %>% 
   set_names(c("", "Betweenness", "Centrality"))
 
-d1 <- read_csv("centrality-measures-c.csv")
+d1 <- read_csv("aste-19/centrality-measures-c.csv")
 
 d1 <- d1 %>% 
   arrange(desc(bc_mean)) %>% 
@@ -284,7 +284,7 @@ class: center, middle
 #### Predicting Interactions Sent and Received (for RQ2)
 
 ```{r, include = FALSE}
-d <- read_csv("rq3-tabs.csv")
+d <- read_csv("aste-19/rq3-tabs.csv")
 names(d)[1] <- ""
 ```
 
