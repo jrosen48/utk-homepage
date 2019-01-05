@@ -89,7 +89,7 @@ Henriksen, D., Mehta, R., & Rosenberg, J. M. (under review). Supporting a creati
 
 Beymer, P. N., Rosenberg, J. M., & Schmidt, J. A. (under review). Investigating the effects of interest and choice in education: An experience sampling approach.
 
-Blondel, D. V., Rosenberg, J. M., Sansone, A., Yang, B. W., Linennbrink-Garcia, L., Schwarz-Bloom, R. D. (under review). The Rex virtual experiment platform: Design, implementation, and effects on situational interest. 
+Blondel, D. V., Sansone, A., Rosenberg, J. M., Yang, B. W., Linennbrink-Garcia, L., Schwarz-Bloom, R. D. (under review). The Rex virtual experiment platform: Design, implementation, and effects on situational interest. 
 
 ### Journal Articles in Preparation 
 
@@ -97,7 +97,7 @@ Rosenberg, J. M., Schmidt, J. A., & Koehler, M. J. (in preparation). Work with d
 
 Rosenberg, J. M., Schwarz, C. V., & Akcaoglu, M. (in preparation). Learning to teach scientific modeling: A longitudinal case study of two teachers' instructional practice.
 
-Rosenberg, J. M., Reid, J., Koehler, M. J., Fischer, C., & McKenna, T. J. (in preparation). The roles of the Twitter hashtag #NGSSchat in the context of science education reform efforts.
+Rosenberg, J. M., Reid, J., Koehler, M. J., Fischer, C., & McKenna, T. J. (in preparation). The roles of the Twitter hashtag #NGSSchat in the context of science education reform efforts. <a href = "https://osf.io/9ex7k/"><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
 Schmidt, J. A., Beymer, P. N., & Rosenberg, J. M. (in preparation). Experiences, activities, and personal characteristics as predictors of engagement in STEM-focused summer programs.
 
