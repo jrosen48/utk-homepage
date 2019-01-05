@@ -211,7 +211,7 @@ Rosenberg, J. (2013). Review of mobile device use policies in public high school
 ### Unpublished Manuscripts and Pre-Prints
 
 \hangindent=2em
-Rosenberg, J. M. (2018). *Context and Technological Pedagogical Content Knowledge: An initial survey of teachers and validation data*. Retrieved from the Open Science Framework.https://osf.io/hc9fq/
+Rosenberg, J. M. (2018). *Context and Technological Pedagogical Content Knowledge: An initial survey of teachers and validation data*. <a href = "https://osf.io/hc9fq/"><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
 \hangindent=2em
 Rosenberg, J. M. (2018). *Understanding work with data in summer STEM programs: An experience sampling method approach* (Doctoral dissertation). Retrieved from Proquest Dissertations and Theses. (Proquest No. 10747232) <a href = "/publications/Rosenberg-2018-Dissertation.pdf"><img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
