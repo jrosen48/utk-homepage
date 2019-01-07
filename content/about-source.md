@@ -108,15 +108,15 @@ Krist, S., & Rosenberg, J. M. (under review). Incremental refinement in learners
 Henriksen, D., Mehta, R., & Rosenberg, J. M. (under review). Supporting a creatively focused technology fluent mindset among educators: Survey results from a five-year inquiry into teachers’ confidence in using technology.
 
 \hangindent=2em
-Beymer, P. N., Rosenberg, J. M., & Schmidt, J. A. (under review). Investigating the effects of interest and choice in education: An experience sampling approach.
+Beymer, P. N., Rosenberg, J. M., & Schmidt, J. A. (under review). Investigating the effects of interest and choice in education: An experience sampling approach in high schol science classes.
 
 \hangindent=2em
-Blondel, D. V., Sansone, A., Rosenberg, J. M., Yang, B. W., Linennbrink-Garcia, L., Schwarz-Bloom, R. D. (under review). The Rex virtual experiment platform: Design, implementation, and effects on situational interest. 
+Blondel, D. V., Sansone, A., Rosenberg, J. M., Yang, B. W., Linennbrink-Garcia, L., Schwarz-Bloom, R. D. (under review). Development of an online experiment platform (Rex) for high school biology.
 
 ### Journal Articles in Preparation 
 
 \hangindent=2em
-Rosenberg, J. M., Schmidt, J. A., & Koehler, M. J. (in preparation). Work with data in summer STEM programs: An experience sampling method approach.
+Rosenberg, J. M., Schmidt, J. A., & Koehler, M. J. (in preparation). Work with data in summer STEM programs: An experience sampling approach.
 
 \hangindent=2em
 Rosenberg, J. M., Schwarz, C. V., & Akcaoglu, M. (in preparation). Learning to teach scientific modeling: A longitudinal case study of two teachers' instructional practice.
@@ -128,7 +128,7 @@ Rosenberg, J. M., Reid, J., Koehler, M. J., Fischer, C., & McKenna, T. J. (in pr
 Schmidt, J. A., Beymer, P. N., & Rosenberg, J. M. (in preparation). Experiences, activities, and personal characteristics as predictors of engagement in STEM-focused summer programs.
 
 \hangindent=2em
-Greenhalgh, S. P., Rosenberg, J. M., Staudt-Willet, B., Koehler, M. J., & Akcaoglu, M. (in preparation). Timing is everything: Comparing synchronous and asynchronous modes of Twitter for teacher professional learning
+Greenhalgh, S. P., Rosenberg, J. M., Staudt-Willet, B., Koehler, M. J., & Akcaoglu, M. (in preparation). Timing is everything: Comparing synchronous and asynchronous modes of Twitter for teacher professional learning.
 
 ### Book Chapters
 
@@ -484,6 +484,8 @@ Teaching Assistant at Michigan State University:
 Special Issue Editor, Australasian Journal of Educational Technology, 2017
 
 Editorial Review Board Member, Journal of Research on Technology in Education, 2016 - Present
+
+Editorial Review Board Member, Science Education Section, Contemporary Issues in Technology and Teacher Education, 2019 - Present
 
 ### Service to Profession
 
