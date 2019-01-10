@@ -116,7 +116,7 @@ Blondel, D. V., Sansone, A., Rosenberg, J. M., Yang, B. W., Linennbrink-Garcia, 
 ### Journal Articles in Preparation 
 
 \hangindent=2em
-Rosenberg, J. M., Schmidt, J. A., & Koehler, M. J. (in preparation). Work with data in summer STEM programs: An experience sampling approach.
+Rosenberg, J. M., Schmidt, J. A., & Koehler, M. J. (in preparation). How youth experience work with data in summer STEM programs: Findings from an experience sampling approach. <a href = "https://osf.io/65ckh/"><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> 
 
 \hangindent=2em
 Rosenberg, J. M., Schwarz, C. V., & Akcaoglu, M. (in preparation). Learning to teach scientific modeling: A longitudinal case study of two teachers' instructional practice.
@@ -218,9 +218,11 @@ Rosenberg, J. M. (2018). *Understanding work with data in summer STEM programs: 
 
 ## Grants
 
+2019-2022, Co-PI, Mining the gap: Applying computational methods to better understand sources of achievement gap differences. William T. Grant Foundation.
+
 2019-2021, Co-PI, Exploring a youth STEM badge ecosystem: Analyzing autonomous motivation and instructional interaction (Pending). National Science Foundation.
 
-2017-2020, Significant Contributor (Method) and Consultant, Profiles of science engagement: Broadening participation by understanding individual and contextual influences ($499,927). National Science Foundation (PI: Jennifer Schmidt).
+2017-2020, Consultant and Significant Contributor (Method), Profiles of science engagement: Broadening participation by understanding individual and contextual influences ($499,927). National Science Foundation (PI: Jennifer Schmidt).
 
 2018-2019, Co-PI, Exploring how beginning elementary mathematics teachers seek out resources through social media ($8,820), Herman and Rasiej Math Initiative at the University of Southern California (PI: Stephen Aguilar)
 
@@ -605,10 +607,6 @@ Rosenberg, J. M., Rapa, L., & Wolf, L. G. (2013, February). CEP 815 and the tran
 Rosenberg, J. M. (2012, November). Mobile learning for teachers. Presentation at the Michigan State University Educational Technology Conference, East Lansing, MI. 
 
 ## Consulting
-
-Statistical software development (R package) and statistical analysis, 2018-2020  
-Profiles of science engagement (National Science Foundation-funded project)
-Jennifer Schmidt, Michigan State University
 
 Statistical software development (R package and web application), 2017-2018  
 Kenneth Frank, Michigan State University
