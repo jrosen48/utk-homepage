@@ -246,6 +246,8 @@ Rosenberg, J. M. (2018). *Understanding work with data in summer STEM programs: 
 
 ## Awards
 
+2019, Finalist, Association for Science Teacher Education John C. Park National Technology Leadership Institute Fellowship
+
 2017, Council of Graduate Students Disciplinary Leadership Award, Michigan State University
 
 2016, Best Paper Award, TPACK SIG, SITE International Conference
