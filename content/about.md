@@ -28,7 +28,7 @@ Michigan State University
 2016, Graduate Certificate, Science Education  
 Michigan State University
 
-2012, MA, Educational Technology  
+2012, MA, Education
 Michigan State University 
 
 2010, BS, Biology  
@@ -424,7 +424,7 @@ Contemporary Issues in Technology and Teacher Education, 2015
 
 **University of Tennessee, Knoxville**
 
-Committee member for 4 Master's degree students (2019-)
+Committee member for 4 Master's degree students (2019-present)
 
 **Michigan State University**
 
