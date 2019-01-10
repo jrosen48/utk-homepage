@@ -81,11 +81,11 @@ Rosenberg, J. M., & Koehler, M. J. (2015). Context and Technological Pedagogical
 
 ### Journal Articles in Submission
 
-Ranellucci, J., Rosenberg, J. M., & Poitras, E. (registered report accepted with minor revisions). Exploring pre-service teachers’ use of technology: The technology acceptance model and expectancy-value theory.
+Ranellucci, J., Rosenberg, J. M., & Poitras, E. (accepted registered report). Exploring pre-service teachers’ use of technology: The technology acceptance model and expectancy-value theory. *Journal of Computer Assisted Learning*.
+
+Henriksen, D., Mehta, R., & Rosenberg, J. M. (accepted pending revisions). Supporting a creatively focused technology fluent mindset among educators: Survey results from a five-year inquiry into teachers’ confidence in using technology.
 
 Krist, S., & Rosenberg, J. M. (under review). Incremental refinement in learners’ epistemic considerations of generality in science over three Years: A computational grounded theory analysis.
-
-Henriksen, D., Mehta, R., & Rosenberg, J. M. (under review). Supporting a creatively focused technology fluent mindset among educators: Survey results from a five-year inquiry into teachers’ confidence in using technology.
 
 Beymer, P. N., Rosenberg, J. M., & Schmidt, J. A. (under review). Investigating the effects of interest and choice in education: An experience sampling approach.
 
@@ -166,9 +166,11 @@ Rosenberg, J. M. (2018). *Understanding work with data in summer STEM programs: 
 
 ## Grants
 
-2017-2020, Significant Contributor (method), Profiles of science engagement: Broadening participation by understanding individual and contextual influences ($499,927), National Science Foundation, PI: Jennifer Schmidt
+2019-2021, Co-PI, Exploring a youth STEM badge ecosystem: Analyzing autonomous motivation and instructional interaction (Pending). National Science Foundation.
 
-2018-2019, Co-PI, Exploring how beginning elementary mathematics teachers seek out resources through social media ($8,820), Herman and Rasiej Math Initiative at the University of Southern California (PI: Stephen Aguilar; Co-PIs: Christian Fischer and Spencer Greenhalgh; Co-I: Michael Lawson)
+2017-2020, Significant Contributor (Method) and Consultant, Profiles of science engagement: Broadening participation by understanding individual and contextual influences ($499,927). National Science Foundation (PI: Jennifer Schmidt).
+
+2018-2019, Co-PI, Exploring how beginning elementary mathematics teachers seek out resources through social media ($8,820), Herman and Rasiej Math Initiative at the University of Southern California (PI: Stephen Aguilar)
 
 2013, Versal Foundation Grant, Basic Biology for Everyone ($2,000), Versal, 2013
 
@@ -419,6 +421,10 @@ Computers & Education, British Journal of Educational Technology, E-Learning and
 Contemporary Issues in Technology and Teacher Education, 2015
 
 ### Departmental Service 
+
+**University of Tennessee, Knoxville**
+
+Committee member for 4 Master's degree students (2019-present)
 
 **Michigan State University**
 
