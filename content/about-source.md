@@ -274,7 +274,7 @@ Reid, J., Rosenberg, J. M., Koehler, M. J., Fischer, C., & McKenna, T. J. (2019,
 Carpenter, J., Rosenberg, J. M., Dousay, T., Romero-Hall, E., Trust, T., Kessler, A., ... & Krutka, D. (2019, March). *What do teacher educators think of teacher education technology competencies?* Paper to be presented at the Society for Information Technology and Teacher Education International Conference, Las Vegas, NV.
 
 \hangindent=2em
-Rosenberg, J. M., Reid, J., Koehler, M. J., Fischer, C., & McKenna, T. J. (2019, January). *The roles of the Twitter hashtag #NGSSchat in the context of science education reform efforts*. Paper to be presented at the Association for Science Teacher Education International Meeting, Savannah, GA. (*Nb. This paper was nominated for the ASTE John C. Park National Technology Leadership Institute Award*)
+Rosenberg, J. M., Reid, J., Koehler, M. J., Fischer, C., & McKenna, T. J. (2019, January). *The roles of the Twitter hashtag #NGSSchat in the context of science education reform efforts*. Paper to be presented at the Association for Science Teacher Education International Meeting, Savannah, GA. (*Nb. This paper was nominated for the ASTE John C. Park National Technology Leadership Institute Fellowship*)
 
 \hangindent=2em
 Akcaoglu, M., Hodges, C. B., Rosenberg, J. M., & Hilpert, J. (2018, October). *Factors impacting middle school students' interest, efficacy, and utility value of programming*. Paper presented at the Association for Educational Communications and Technology International Convention 2018. Kansas City, MO.
