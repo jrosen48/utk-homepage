@@ -21,7 +21,7 @@ Assistant Professor, STEM Education
 Department of Theory and Practice in Teacher Education  
 The University of Tennessee, Knoxville  
 420 Claxton, 1122 Volunteer Blvd., Knoxville, TN 37996  
-865-974-5973 | jmrosenberg@utk.edu | http://jmichaelrosenberg.com  
+865-974-5973 | jmrosenberg@utk.edu | http://joshuamrosenberg.com  
 \endgroup
 
 ## Education
@@ -48,9 +48,11 @@ University of Tennessee, Knoxville
 
 ## Related (K-12) Experience
 
-2010-2012, High School Science Teacher (Biology and Earth Science), Shelby High School, Shelby, NC
+2010-2012, High School Science Teacher (Biology and Earth Science)  
+Shelby High School, Shelby, NC  
 
-2009-2010, High School Science Teacher Intern (Biology and Chemistry), C.D. Owen High School, Swannanoa, NC
+2009-2010, High School Science Teacher Intern (Biology and Chemistry)  
+C.D. Owen High School, Swannanoa, NC  
 
 ## Publications
 
@@ -159,7 +161,7 @@ Koehler, M. J., Mishra, P., Akcaoglu, M., & Rosenberg, J. M. (2013). Technologic
 Vo, T., & Rosenberg, J. M. (2018). Four posts on the academic job search in science education. *NARST Graduate Student Resources Blog*. https://narstgradresources.blogspot.com/2018/09/part-4-interviewing-and-negotiating-for.html
 
 \hangindent=2em
-Rosenberg, J. M. (2018). Opportunities for engaging students in "data practices" in online science classes: Opportunities, challenges, and recommendations. *Michigan Virtual Learning Research Institute Blog: Research, Policy, Innovation & Networks*. https://mvlri.org/blog/opportunities-engaging-students-data-practices-online-science-classes/
+Rosenberg, J. M. (2018). Opportunities for engaging students in "data practices" in online science classes. *Michigan Virtual Learning Research Institute Blog: Research, Policy, Innovation & Networks*. https://mvlri.org/blog/opportunities-engaging-students-data-practices-online-science-classes/
 
 \hangindent=2em
 Rosenberg, J. M., & Logan, C. W. (2017). Review of the book What’s Worth Teaching: Rethinking Curriculum in the Age of Technology, by A. Collins. *Teachers College Record*. http://www.tcrecord.org/Content.asp?ContentID=22173
@@ -608,18 +610,18 @@ Rosenberg, J. M. (2012, November). Mobile learning for teachers. Presentation at
 
 ## Consulting
 
-Statistical software development (R package and web application), 2017-2018  
-Kenneth Frank, Michigan State University
+2017-2018, Statistical software development (R package and web application)  
+Kenneth Frank, Michigan State University  
 
-Statistical analysis, 2017  
+2017, Statistical analysis  
 Yael Shwartz, Weizmann Institute  
 
-Statistical analysis, 2016  
+2016, Statistical analysis    
 Lara Kassab, San Jose State University  
 
 ## Professional Affiliations
 
-American Educational Research Association, 2012 - Present
+American Educational Research Association, 2012 - Present  
 Association for the Advancement of Computing in Education, 2012 - Present  
 Association for Science Teacher Education, 2018 - Present  
-National Association for Research in Science Teaching, 2015 - Present
+National Association for Research in Science Teaching, 2015 - Present  
