@@ -32,7 +32,7 @@ Michigan State University
 2016, Graduate Certificate, Science Education  
 Michigan State University
 
-2012, MA, Education
+2012, MA, Education  
 Michigan State University 
 
 2010, BS, Biology  
