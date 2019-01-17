@@ -18,7 +18,7 @@ Assistant Professor, STEM Education
 Department of Theory and Practice in Teacher Education  
 The University of Tennessee, Knoxville  
 420 Claxton, 1122 Volunteer Blvd., Knoxville, TN 37996  
-865-974-5973 | jmrosenberg@utk.edu | http://jmichaelrosenberg.com  
+865-974-5973 | jmrosenberg@utk.edu | http://joshuamrosenberg.com  
 
 ## Education
 
@@ -28,7 +28,7 @@ Michigan State University
 2016, Graduate Certificate, Science Education  
 Michigan State University
 
-2012, MA, Educational Technology  
+2012, MA, Education  
 Michigan State University 
 
 2010, BS, Biology  
@@ -44,9 +44,11 @@ University of Tennessee, Knoxville
 
 ## Related (K-12) Experience
 
-2010-2012, High School Science Teacher (Biology and Earth Science), Shelby High School, Shelby, NC
+2010-2012, High School Science Teacher (Biology and Earth Science)  
+Shelby High School, Shelby, NC  
 
-2009-2010, High School Science Teacher Intern (Biology and Chemistry), C.D. Owen High School, Swannanoa, NC
+2009-2010, High School Science Teacher Intern (Biology and Chemistry)  
+C.D. Owen High School, Swannanoa, NC  
 
 ## Publications
 
@@ -87,13 +89,13 @@ Henriksen, D., Mehta, R., & Rosenberg, J. M. (accepted pending revisions). Suppo
 
 Krist, S., & Rosenberg, J. M. (under review). Incremental refinement in learners’ epistemic considerations of generality in science over three Years: A computational grounded theory analysis.
 
-Beymer, P. N., Rosenberg, J. M., & Schmidt, J. A. (under review). Investigating the effects of interest and choice in education: An experience sampling approach.
+Beymer, P. N., Rosenberg, J. M., & Schmidt, J. A. (under review). Investigating the effects of interest and choice in education: An experience sampling approach in high schol science classes.
 
-Blondel, D. V., Sansone, A., Rosenberg, J. M., Yang, B. W., Linennbrink-Garcia, L., Schwarz-Bloom, R. D. (under review). The Rex virtual experiment platform: Design, implementation, and effects on situational interest. 
+Blondel, D. V., Sansone, A., Rosenberg, J. M., Yang, B. W., Linennbrink-Garcia, L., Schwarz-Bloom, R. D. (under review). Development of an online experiment platform (Rex) for high school biology.
 
 ### Journal Articles in Preparation 
 
-Rosenberg, J. M., Schmidt, J. A., & Koehler, M. J. (in preparation). Work with data in summer STEM programs: An experience sampling method approach.
+Rosenberg, J. M., Schmidt, J. A., & Koehler, M. J. (in preparation). How youth experience work with data in summer STEM programs: Findings from an experience sampling approach. <a href = "https://osf.io/65ckh/"><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> 
 
 Rosenberg, J. M., Schwarz, C. V., & Akcaoglu, M. (in preparation). Learning to teach scientific modeling: A longitudinal case study of two teachers' instructional practice.
 
@@ -101,7 +103,7 @@ Rosenberg, J. M., Reid, J., Koehler, M. J., Fischer, C., & McKenna, T. J. (in pr
 
 Schmidt, J. A., Beymer, P. N., & Rosenberg, J. M. (in preparation). Experiences, activities, and personal characteristics as predictors of engagement in STEM-focused summer programs.
 
-Greenhalgh, S. P., Rosenberg, J. M., Staudt-Willet, B., Koehler, M. J., & Akcaoglu, M. (in preparation). Timing is everything: Comparing synchronous and asynchronous modes of Twitter for teacher professional learning
+Greenhalgh, S. P., Rosenberg, J. M., Staudt-Willet, B., Koehler, M. J., & Akcaoglu, M. (in preparation). Timing is everything: Comparing synchronous and asynchronous modes of Twitter for teacher professional learning.
 
 ### Book Chapters
 
@@ -123,7 +125,7 @@ Koehler, M. J., Mishra, P., Akcaoglu, M., & Rosenberg, J. M. (2013). Technologic
 
 Vo, T., & Rosenberg, J. M. (2018). Four posts on the academic job search in science education. *NARST Graduate Student Resources Blog*. https://narstgradresources.blogspot.com/2018/09/part-4-interviewing-and-negotiating-for.html
 
-Rosenberg, J. M. (2018). Opportunities for engaging students in "data practices" in online science classes: Opportunities, challenges, and recommendations. *Michigan Virtual Learning Research Institute Blog: Research, Policy, Innovation & Networks*. https://mvlri.org/blog/opportunities-engaging-students-data-practices-online-science-classes/
+Rosenberg, J. M. (2018). Opportunities for engaging students in "data practices" in online science classes. *Michigan Virtual Learning Research Institute Blog: Research, Policy, Innovation & Networks*. https://mvlri.org/blog/opportunities-engaging-students-data-practices-online-science-classes/
 
 Rosenberg, J. M., & Logan, C. W. (2017). Review of the book What’s Worth Teaching: Rethinking Curriculum in the Age of Technology, by A. Collins. *Teachers College Record*. http://www.tcrecord.org/Content.asp?ContentID=22173
 
@@ -166,9 +168,11 @@ Rosenberg, J. M. (2018). *Understanding work with data in summer STEM programs: 
 
 ## Grants
 
+2019-2022, Co-PI, Mining the gap: Applying computational methods to better understand sources of achievement gap differences. William T. Grant Foundation.
+
 2019-2021, Co-PI, Exploring a youth STEM badge ecosystem: Analyzing autonomous motivation and instructional interaction (Pending). National Science Foundation.
 
-2017-2020, Significant Contributor (Method) and Consultant, Profiles of science engagement: Broadening participation by understanding individual and contextual influences ($499,927). National Science Foundation (PI: Jennifer Schmidt).
+2017-2020, Consultant and Significant Contributor (Method), Profiles of science engagement: Broadening participation by understanding individual and contextual influences ($499,927). National Science Foundation (PI: Jennifer Schmidt).
 
 2018-2019, Co-PI, Exploring how beginning elementary mathematics teachers seek out resources through social media ($8,820), Herman and Rasiej Math Initiative at the University of Southern California (PI: Stephen Aguilar)
 
@@ -194,6 +198,8 @@ Rosenberg, J. M. (2018). *Understanding work with data in summer STEM programs: 
 
 ## Awards
 
+2019, Finalist, Association for Science Teacher Education John C. Park National Technology Leadership Institute Fellowship
+
 2017, Council of Graduate Students Disciplinary Leadership Award, Michigan State University
 
 2016, Best Paper Award, TPACK SIG, SITE International Conference
@@ -214,7 +220,7 @@ Reid, J., Rosenberg, J. M., Koehler, M. J., Fischer, C., & McKenna, T. J. (2019,
 
 Carpenter, J., Rosenberg, J. M., Dousay, T., Romero-Hall, E., Trust, T., Kessler, A., ... & Krutka, D. (2019, March). *What do teacher educators think of teacher education technology competencies?* Paper to be presented at the Society for Information Technology and Teacher Education International Conference, Las Vegas, NV.
 
-Rosenberg, J. M., Reid, J., Koehler, M. J., Fischer, C., & McKenna, T. J. (2019, January). *The roles of the Twitter hashtag #NGSSchat in the context of science education reform efforts*. Paper to be presented at the Association for Science Teacher Education International Meeting, Savannah, GA. (*Nb. This paper was nominated for the ASTE John C. Park National Technology Leadership Institute Award*)
+Rosenberg, J. M., Reid, J., Koehler, M. J., Fischer, C., & McKenna, T. J. (2019, January). *The roles of the Twitter hashtag #NGSSchat in the context of science education reform efforts*. Paper to be presented at the Association for Science Teacher Education International Meeting, Savannah, GA. (*Nb. This paper was nominated for the ASTE John C. Park National Technology Leadership Institute Fellowship*)
 
 Akcaoglu, M., Hodges, C. B., Rosenberg, J. M., & Hilpert, J. (2018, October). *Factors impacting middle school students' interest, efficacy, and utility value of programming*. Paper presented at the Association for Educational Communications and Technology International Convention 2018. Kansas City, MO.
 
@@ -380,6 +386,8 @@ Special Issue Editor, Australasian Journal of Educational Technology, 2017
 
 Editorial Review Board Member, Journal of Research on Technology in Education, 2016 - Present
 
+Editorial Review Board Member, Science Education Section, Contemporary Issues in Technology and Teacher Education, 2019 - Present
+
 ### Service to Profession
 
 Co-chair, Technological Pedagogical Content Knowledge (TPACK) Special Interest Group (SIG), Society for Information Technology and Teacher Education , 2015-2017
@@ -476,22 +484,18 @@ Rosenberg, J. M. (2012, November). Mobile learning for teachers. Presentation at
 
 ## Consulting
 
-Statistical software development (R package) and statistical analysis, 2018-2020  
-Profiles of science engagement (National Science Foundation-funded project)
-Jennifer Schmidt, Michigan State University
+2017-2018, Statistical software development (R package and web application)  
+Kenneth Frank, Michigan State University  
 
-Statistical software development (R package and web application), 2017-2018  
-Kenneth Frank, Michigan State University
-
-Statistical analysis, 2017  
+2017, Statistical analysis  
 Yael Shwartz, Weizmann Institute  
 
-Statistical analysis, 2016  
+2016, Statistical analysis    
 Lara Kassab, San Jose State University  
 
 ## Professional Affiliations
 
-American Educational Research Association, 2012 - Present
+American Educational Research Association, 2012 - Present  
 Association for the Advancement of Computing in Education, 2012 - Present  
 Association for Science Teacher Education, 2018 - Present  
-National Association for Research in Science Teaching, 2015 - Present
+National Association for Research in Science Teaching, 2015 - Present  
