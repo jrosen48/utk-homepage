@@ -135,6 +135,10 @@ Rosenberg, J. M., & Ranellucci, J. (2017). Student motivation in online science 
 
 ### Conference Proceedings Papers
 
+Jones, R. S., & Rosenberg, J. M. (2019).  Latent class modeling of whole class discussions about data, statistics, and probability. Proceedings of the 13th Annual Tennessee STEM Education Research Conference.
+
+Lawson, M., Rosenberg, J. M., & Camponovo, M. (2019). Better together? Findings from a combined, integrated STEM unit with pre-service mathematics and science teachers. Proceedings of the 13th Annual Tennessee STEM Education Research Conference.
+
 Peterson, A., Freer, D., & Rosenberg, J. M. (2017). Interacting with purpose: What is the difference between face-to-face and online student relationships in a combined program? In Proceedings of Society for Information Technology & Teacher Education International Conference 2016 (pp. 3411-3414). Austin, TX: Association for the Advancement of Computing in Education. Retrieved from https://www.learntechlib.org/p/177955/
 
 Krist, C., & Rosenberg, J. M. (2016). Finding patterns in and refining characterizations of students’ epistemic cognition: A computational approach. In Looi, C.-K., Polman, J., Cress, U., & Reimann, P. (Eds.), *Transforming Learning, Empowering Learners: The International Conference of the Learning Sciences Proceedings* 2016 (Vol. 2, pp. 1223-1224). Singapore, Singapore: ICLS. 
