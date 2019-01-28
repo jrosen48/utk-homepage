@@ -513,13 +513,11 @@ Reviewer, Association for Educational Communications and Technology (AECT) Inter
 
 Reviewer, American Psychological Association (APA) Convention, 2015
 
-### Service to the Community
-
-Reviewer, Proposals from Knox County Schools students to the NASA Student Spaceflight Experiment Program
-
 ### Ad-hoc Journal Article Reviews
 
-Contemporary Educational Psychology, Computers & Education, Australasian Journal of Educational Technology (X2), Journal of Open Source Software, Asia-Pacific Education Researcher, 2018
+Education Sciences, TechTrends, 2019
+
+Contemporary Educational Psychology, Computers & Education, Australasian Journal of Educational Technology (2), Journal of Open Source Software, Asia-Pacific Education Researcher, 2018
 
 Computers & Education, Journal of Educational Technology & Society, 2017
 
@@ -538,6 +536,12 @@ Committee member for 4 Master's degree students (2019-present)
 Member of two practicum committees for Educational Psychology and Educational Technology program Ph.D. students, Michigan State University, 2014-2018
 
 Search Committee Member, Program Specialist, Master of Arts in Educational Technology Program, Michigan State University, 2015
+
+### Service to the Community
+
+Reviewer, Proposals from Knox County Schools students to the NASA Student Spaceflight Experiment Program, 2018
+
+Provided enrichment activities related to data science to two classes, Knox County Schools, Private School in Knox County, 2018
 
 ### Workshops and Outreach
 
