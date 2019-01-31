@@ -19,7 +19,7 @@ options(htmltools.dir.version = FALSE)
 
 # Engagement in science
 
-**Goal of this presentation**: Share findings from use of ESM to study engagement in science (Schmidt, Rosenberg, & Beymer, 2018, *JRST*)
+**Goal of this presentation**: Share findings from use of ESM to study engagement in science ([Schmidt, Rosenberg, & Beymer, 2018, *JRST*](https://joshuamrosenberg.com/pre-prints/Schmidt_Rosenberg_Beymer_2018_preprint.pdf)
 
 - Has *multiple dimensions* and is *dynamic* (Sinatra, Heddy, & Lombardi, 2015, *EP*)
 
