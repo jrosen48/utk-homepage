@@ -216,7 +216,7 @@ Rosenberg, J. (2013). Review of mobile device use policies in public high school
 Rosenberg, J. M. (2018). *Context and Technological Pedagogical Content Knowledge: An initial survey of teachers and validation data*. <a href = "https://osf.io/hc9fq/"><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
 \hangindent=2em
-Rosenberg, J. M. (2018). *Understanding work with data in summer STEM programs: An experience sampling method approach* (Doctoral dissertation). Retrieved from Proquest Dissertations and Theses. (Proquest No. 10747232) <a href = "/publications/Rosenberg-2018-Dissertation.pdf"><img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
+Rosenberg, J. M. (2018). *Understanding work with data in summer STEM programs: An experience sampling method approach* (Doctoral dissertation). Retrieved from Proquest Dissertations and Theses. (Proquest No. 10747232) <a href = "/publications/Rosenberg-2018-Dissertation.pdf"><img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> <a href = "https://osf.io/65ckh/"><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
 ## Grants
 
@@ -568,6 +568,9 @@ Rosenberg, J. M. (2014, February). Action research with mobile devices. Presenta
 Sawaya, S., & Rosenberg, J. M (2014, February). Master of Arts in Educational Technology Mobile Learning Workshop. Workshop at Michigan State University, East Lansing, MI. 
 
 ### Campus and Departmental Presentations
+
+\hangindent=2em
+Rosenberg, J. M. (2019, January). Engaging students in science: Findings from an experience sampling method approach. Presentation at the East Tennessee STEM Hub Crossing Boundaries for STEM Teaching mini-conference. Knoxville, TN.
 
 \hangindent=2em
 Rosenberg, J. M., Beymer, P. N., & Schmidt, J. A. (2017, February). Does choosing the problem or topic matter? Using a person-in-context approach to understand student engagement in science. Poster presented at the Create4Stem MiniConference 2017, East Lansing, MI.
