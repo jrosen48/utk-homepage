@@ -93,6 +93,8 @@ Beymer, P. N., Rosenberg, J. M., & Schmidt, J. A. (under review). Investigating 
 
 Blondel, D. V., Sansone, A., Rosenberg, J. M., Yang, B. W., Linennbrink-Garcia, L., Schwarz-Bloom, R. D. (under review). Development of an online experiment platform (Rex) for high school biology.
 
+Rosenberg, J. M., & Lawson, M. J. (under review). A qualitative investigation of students’ experiences of using a computational science simulation in an online high school physics class. <a href = "https://osf.io/y925f/"><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> 
+
 ### Journal Articles in Preparation 
 
 Rosenberg, J. M., Schmidt, J. A., & Koehler, M. J. (in preparation). How youth experience work with data in summer STEM programs: Findings from an experience sampling approach. <a href = "https://osf.io/65ckh/"><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> 
@@ -134,6 +136,10 @@ Phillips, M., Harris, J., Rosenberg, J. M., & Koehler, M. J. (2017). TPCK/TPACK 
 Rosenberg, J. M., & Ranellucci, J. (2017). Student motivation in online science courses: A path to spending more time on course and higher achievement. *Michigan Virtual Learning Research Institute Blog: Research, Policy, Innovation & Networks*. https://mvlri.org/blog/student-motivation-in-online-science-courses-a-path-to-spending-more-time-on-course-and-higher-achievement/
 
 ### Conference Proceedings Papers
+
+Jones, R. S., & Rosenberg, J. M. (2019). Latent class modeling of whole class discussions about data, statistics, and probability. Proceedings of the 13th Annual Tennessee STEM Education Research Conference (to be posted).
+
+Lawson, M., & Rosenberg, J. M. (2019). Better together? Findings from a combined, integrated STEM unit with pre-service mathematics and science teachers. Proceedings of the 13th Annual Tennessee STEM Education Research Conference (to be posted).
 
 Peterson, A., Freer, D., & Rosenberg, J. M. (2017). Interacting with purpose: What is the difference between face-to-face and online student relationships in a combined program? In Proceedings of Society for Information Technology & Teacher Education International Conference 2016 (pp. 3411-3414). Austin, TX: Association for the Advancement of Computing in Education. Retrieved from https://www.learntechlib.org/p/177955/
 
@@ -456,7 +462,7 @@ Sawaya, S., & Rosenberg, J. M (2014, February). Master of Arts in Educational Te
 
 ### Campus and Departmental Presentations
 
-Rosenberg, J. M. (2019, January). Engaging students in science: Findings from an experience sampling method approach. Presentation at the East Tennessee STEM Hub Crossing Boundaries for STEM Teaching mini-conference. Knoxville, TN.
+Rosenberg, J. M. (2019, January). *Engaging students in science: Findings from an experience sampling method approach. Presentation at the East Tennessee STEM Hub Crossing Boundaries for STEM Teaching regional meeting and mini-conference. Knoxville, TN.
 
 Rosenberg, J. M., Beymer, P. N., & Schmidt, J. A. (2017, February). Does choosing the problem or topic matter? Using a person-in-context approach to understand student engagement in science. Poster presented at the Create4Stem MiniConference 2017, East Lansing, MI.
 
