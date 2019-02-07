@@ -125,6 +125,8 @@ Koehler, M. J., Mishra, P., Akcaoglu, M., & Rosenberg, J. M. (2013). Technologic
 
 ### Other (Editor-reviewed) Publications
 
+Mehta, R., Henriksen, D., & Rosenberg, J. M. (2019). It's not about the tools. *Educational Leadership, 76*(5), 64-69. Retrieved from http://www.ascd.org/publications/educational-leadership/feb19/vol76/num05/It's-Not-About-the-Tools.aspx
+
 Vo, T., & Rosenberg, J. M. (2018). Four posts on the academic job search in science education. *NARST Graduate Student Resources Blog*. https://narstgradresources.blogspot.com/2018/09/part-4-interviewing-and-negotiating-for.html
 
 Rosenberg, J. M. (2018). Opportunities for engaging students in "data practices" in online science classes. *Michigan Virtual Learning Research Institute Blog: Research, Policy, Innovation & Networks*. https://mvlri.org/blog/opportunities-engaging-students-data-practices-online-science-classes/
@@ -174,7 +176,7 @@ Rosenberg, J. M. (2018). *Understanding work with data in summer STEM programs: 
 
 ## Grants
 
-2019-2022, Co-PI, Mining the gap: Applying computational methods to better understand sources of achievement gap differences. William T. Grant Foundation.
+2019-2022, Co-PI, Mining the gap: Applying computational methods to better understand sources of achievement gap differences (Pending). William T. Grant Foundation.
 
 2019-2021, Co-PI, Exploring a youth STEM badge ecosystem: Analyzing autonomous motivation and instructional interaction (Pending). National Science Foundation.
 
@@ -330,11 +332,13 @@ Rosenberg, J. M. (March, 2016). *An introduction to R for programming and statis
 
 ## Competitive Research Training
 
-AERA Division C Graduate Student Seminar, 2016
+New Faculty Mentoring Program, AERA Division C, 2019
 
-National Science Foundation and AECT Early Career Seminar, 2015
+Graduate Student Seminar, AERA Division C, 2016
 
-APA Advanced Training Institute on Research Methods with Diverse Groups, 2014
+Early Career Seminar, National Science Foundation and AECT, 2015
+
+Advanced Training Institute on Research Methods with Diverse Groups, American Psychological Association, 2014
 
 ## Software Developed
 
@@ -426,7 +430,9 @@ Reviewer, Proposals from Knox County Schools students to the NASA Student Spacef
 
 ### Ad-hoc Journal Article Reviews
 
-Contemporary Educational Psychology, Computers & Education, Australasian Journal of Educational Technology (X2), Journal of Open Source Software, Asia-Pacific Education Researcher, 2018
+Education Sciences, TechTrends, 2019
+
+Contemporary Educational Psychology, Computers & Education, Australasian Journal of Educational Technology (x2), Journal of Open Source Software, Asia-Pacific Education Researcher, 2018
 
 Computers & Education, Journal of Educational Technology & Society, 2017
 

@@ -232,7 +232,7 @@ Rosenberg, J. M. (2018). *Understanding work with data in summer STEM programs: 
 
 ## Grants
 
-2019-2022, Co-PI, Mining the gap: Applying computational methods to better understand sources of achievement gap differences. William T. Grant Foundation.
+2019-2022, Co-PI, Mining the gap: Applying computational methods to better understand sources of achievement gap differences (Pending). William T. Grant Foundation.
 
 2019-2021, Co-PI, Exploring a youth STEM badge ecosystem: Analyzing autonomous motivation and instructional interaction (Pending). National Science Foundation.
 
@@ -541,7 +541,9 @@ Reviewer, Proposals from Knox County Schools students to the NASA Student Spacef
 
 ### Ad-hoc Journal Article Reviews
 
-Contemporary Educational Psychology, Computers & Education, Australasian Journal of Educational Technology (X2), Journal of Open Source Software, Asia-Pacific Education Researcher, 2018
+Education Sciences, TechTrends, 2019
+
+Contemporary Educational Psychology, Computers & Education, Australasian Journal of Educational Technology (2), Journal of Open Source Software, Asia-Pacific Education Researcher, 2018
 
 Computers & Education, Journal of Educational Technology & Society, 2017
 
