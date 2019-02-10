@@ -432,7 +432,7 @@ Reviewer, Proposals from Knox County Schools students to the NASA Student Spacef
 
 Education Sciences, TechTrends, 2019
 
-Contemporary Educational Psychology, Computers & Education, Australasian Journal of Educational Technology (x2), Journal of Open Source Software, Asia-Pacific Education Researcher, 2018
+Contemporary Educational Psychology, Computers & Education, Australasian Journal of Educational Technology (2), Journal of Open Source Software, Asia-Pacific Education Researcher, 2018
 
 Computers & Education, Journal of Educational Technology & Society, 2017
 

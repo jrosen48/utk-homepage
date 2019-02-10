@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/post/2019/02/07/presentation-on-making-sense-of-recent-advances-in-the-tpack-framework-at-the-english-international-congress-at-utn-in-ibarra-ecuador/</loc>
+    <lastmod>2019-02-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/2019/02/01/presentation-on-engaging-students-in-science-at-the-crossing-boundaries-for-stem-education-regional-meeting/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
   </url>
@@ -302,7 +307,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -335,7 +340,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -505,7 +510,7 @@
   
   <url>
     <loc>/categories/presentation/</loc>
-    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -566,6 +571,12 @@
   <url>
     <loc>/tags/tidylpa/</loc>
     <lastmod>2018-02-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/tpack/</loc>
+    <lastmod>2019-02-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
