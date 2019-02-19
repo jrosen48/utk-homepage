@@ -48,7 +48,9 @@ Specifically, this Educational Inquiry course is designed to help students: a) d
 
 ### Select workshops and outreach
 
-* [Upcoming AERA 2019 workshop on reproducible and transparent research using R](https://github.com/ResearchTransparency/rr_aera19)
+* [What is STEM Professional Development for Elementary Teachers (February, 2019, with M. Lawson)](/pd/what-is-stem.pptx)
+
+* [AERA 2019 workshop on reproducible and transparent research using R](https://github.com/ResearchTransparency/rr_aera19)
 
 * [R for programming and statistical analysis in education](http://rpubs.com/jmichaelrosenberg/R_GSU) (Presentation at Georgia Southern University)
 
