@@ -48,7 +48,7 @@ Specifically, this Educational Inquiry course is designed to help students: a) d
 
 ### Select workshops and outreach
 
-* [What is STEM Professional Development for Elementary Teachers (February, 2019, with M. Lawson)](/pd/what-is-stem.pptx)
+* [What is STEM Professional Development for Elementary Teachers (February, 2019, with M. Lawson)](/pd/what-is-stem.pptx) ([PDF](/pd/what-is-stem-elem.pdf))
 
 * [AERA 2019 workshop on reproducible and transparent research using R](https://github.com/ResearchTransparency/rr_aera19)
 
