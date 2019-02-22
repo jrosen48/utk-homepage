@@ -181,12 +181,6 @@ Rosenberg, J. M., & Ranellucci, J. (2017). Student motivation in online science 
 ### Conference Proceedings Papers
 
 \hangindent=2em
-Jones, R. S., & Rosenberg, J. M. (2019). Latent class modeling of whole class discussions about data, statistics, and probability. Proceedings of the 13th Annual Tennessee STEM Education Research Conference (to be posted).
-
-\hangindent=2em
-Lawson, M., & Rosenberg, J. M. (2019). Better together? Findings from a combined, integrated STEM unit with pre-service mathematics and science teachers. Proceedings of the 13th Annual Tennessee STEM Education Research Conference (to be posted).
-
-\hangindent=2em
 Peterson, A., Freer, D., & Rosenberg, J. M. (2017). Interacting with purpose: What is the difference between face-to-face and online student relationships in a combined program? In Proceedings of Society for Information Technology & Teacher Education International Conference 2016 (pp. 3411-3414). Austin, TX: Association for the Advancement of Computing in Education. Retrieved from https://www.learntechlib.org/p/177955/
 
 \hangindent=2em
@@ -443,6 +437,14 @@ Ke, L., Schwarz, C. V., Lee, M. & Rosenberg, J. M. (2014, April). *Examining ele
 
 \hangindent=2em
 Koehler, M. J., Rosenberg, J. M., Greenhalgh, S., Zellner, A. L., & Mishra, P. (2014, March). Analyzing students’ portfolios for the development of TPACK. In J. Voogt (Chair), *Artifacts demonstrating teachers’ technology integration competencies*. Symposium presented at the meeting of the Society for Information Technology and Teacher Education, Jacksonville, FL.
+
+### Statewide and Local Presentations
+
+\hangindent=2em
+Jones, R. S., & Rosenberg, J. M. (2019). Latent class modeling of whole class discussions about data, statistics, and probability. Presentation at the 13th Annual Tennessee STEM Education Research Conference. Murfreesboro, TN.
+
+\hangindent=2em
+Lawson, M., Rosenberg, J. M., & Camponovo, M. (2019). Better together? Findings from a combined, integrated STEM unit with pre-service mathematics and science teachers. Presentation at the 13th Annual Tennessee STEM Education Research Conference. Murfreesboro, TN.
 
 ### Invited Talks
 

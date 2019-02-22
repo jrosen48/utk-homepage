@@ -441,10 +441,10 @@ Koehler, M. J., Rosenberg, J. M., Greenhalgh, S., Zellner, A. L., & Mishra, P. (
 ### Statewide and Local Presentations
 
 \hangindent=2em
-Jones, R. S., & Rosenberg, J. M. (2019). Latent class modeling of whole class discussions about data, statistics, and probability. Proceedings of the 13th Annual Tennessee STEM Education Research Conference. Murfreesboro, TN.
+Jones, R. S., & Rosenberg, J. M. (2019). Latent class modeling of whole class discussions about data, statistics, and probability. Presentation at the 13th Annual Tennessee STEM Education Research Conference. Murfreesboro, TN.
 
 \hangindent=2em
-Lawson, M., Rosenberg, J. M., & Camponovo, M. (2019). Better together? Findings from a combined, integrated STEM unit with pre-service mathematics and science teachers. Proceedings of the 13th Annual Tennessee STEM Education Research Conference. Murfreesboro, TN.
+Lawson, M., Rosenberg, J. M., & Camponovo, M. (2019). Better together? Findings from a combined, integrated STEM unit with pre-service mathematics and science teachers. Presentation at the 13th Annual Tennessee STEM Education Research Conference. Murfreesboro, TN.
 
 ### Invited Talks
 
