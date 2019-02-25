@@ -599,6 +599,9 @@ Sawaya, S., & Rosenberg, J. M (2014, February). Master of Arts in Educational Te
 ### Campus and Departmental Presentations
 
 \hangindent=2em
+Rutherford, T., & Rosenberg, J. M. (2019, February). *Motivational correlates of choice after failure within an elementary mathematics software*. Presentation at the NC State College of Education Celebration of Research.
+
+\hangindent=2em
 Rosenberg, J. M. (2019, January). *Engaging students in science: Findings from an experience sampling method approach. Presentation at the East Tennessee STEM Hub Crossing Boundaries for STEM Teaching regional meeting and mini-conference. Knoxville, TN.
 
 \hangindent=2em
