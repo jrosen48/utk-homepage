@@ -89,11 +89,11 @@ Rosenberg, J. M., & Koehler, M. J. (2015). Context and Technological Pedagogical
 
 Ranellucci, J., Rosenberg, J. M., & Poitras, E. (accepted registered report). Exploring pre-service teachers’ use of technology: The technology acceptance model and expectancy-value theory. *Journal of Computer Assisted Learning*. <a href = "https://osf.io/rgpeh/"><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
+Blondel, D. V., Sansone, A., Rosenberg, J. M., Yang, B. W., Linennbrink-Garcia, L., Schwarz-Bloom, R. D. (revise and resubmit). Development of an online experiment platform (Rex) for high school biology.
+
 Krist, S., & Rosenberg, J. M. (under review). Incremental refinement in learners’ epistemic considerations of generality in science over three years: A computational grounded theory analysis.
 
 Beymer, P. N., Rosenberg, J. M., & Schmidt, J. A. (under review). Investigating the effects of interest and choice in education: An experience sampling approach in high schol science classes.
-
-Blondel, D. V., Sansone, A., Rosenberg, J. M., Yang, B. W., Linennbrink-Garcia, L., Schwarz-Bloom, R. D. (under review). Development of an online experiment platform (Rex) for high school biology.
 
 ### Working papers
 
@@ -330,17 +330,21 @@ Ke, L., Schwarz, C. V., Lee, M. & Rosenberg, J. M. (2014, April). *Examining ele
 
 Koehler, M. J., Rosenberg, J. M., Greenhalgh, S., Zellner, A. L., & Mishra, P. (2014, March). Analyzing students’ portfolios for the development of TPACK. In J. Voogt (Chair), *Artifacts demonstrating teachers’ technology integration competencies*. Symposium presented at the meeting of the Society for Information Technology and Teacher Education, Jacksonville, FL.
 
-### Statewide and Local Presentations
+### Other Presentations
 
-Jones, R. S., & Rosenberg, J. M. (2019). Latent class modeling of whole class discussions about data, statistics, and probability. Presentation at the 13th Annual Tennessee STEM Education Research Conference. Murfreesboro, TN.
+Camponovo, M., Lawson, M. A., & Rosenberg, M. J. (July, 2019). Integrating geospatial tech with math and science pre-service teachers. 2019 Education Summit @ ESRI UC. San Diego, CA.
 
-Lawson, M., Rosenberg, J. M., & Camponovo, M. (2019). Better together? Findings from a combined, integrated STEM unit with pre-service mathematics and science teachers. Presentation at the 13th Annual Tennessee STEM Education Research Conference. Murfreesboro, TN.
+Jones, R. S., & Rosenberg, J. M. (February, 2019). Latent class modeling of whole class discussions about data, statistics, and probability. Presentation at the 13th Annual Tennessee STEM Education Research Conference. Murfreesboro, TN.
+
+Lawson, M., Rosenberg, J. M., & Camponovo, M. (February, 2019). Better together? Findings from a combined, integrated STEM unit with pre-service mathematics and science teachers. Presentation at the 13th Annual Tennessee STEM Education Research Conference. Murfreesboro, TN.
 
 ### Invited Talks
 
 Rosenberg, J. M. (February, 2019). *Making sense of recent advances in the Technological Pedagogical Content Knowledge framework*. English International Congress at the Universidad Tecnical de Norte, Ibarra, Ecuador.
 
 Rosenberg, J. M. (March, 2016). *An introduction to R for programming and statistical analysis in education*. Georgia Southern University College of Education, Statesboro, GA.
+
+### Other Presentations
 
 ## Competitive Research Training
 
@@ -479,6 +483,8 @@ Rosenberg, J. M. (2014, February). Action research with mobile devices. Presenta
 Sawaya, S., & Rosenberg, J. M (2014, February). Master of Arts in Educational Technology Mobile Learning Workshop. Workshop at Michigan State University, East Lansing, MI. 
 
 ### Campus and Departmental Presentations
+
+Rutherford, T., & Rosenberg, J. M. (2019, February). *Motivational correlates of choice after failure within an elementary mathematics software*. Presentation at the NC State College of Education Celebration of Research.
 
 Rosenberg, J. M. (2019, January). *Engaging students in science: Findings from an experience sampling method approach. Presentation at the East Tennessee STEM Hub Crossing Boundaries for STEM Teaching regional meeting and mini-conference. Knoxville, TN.
 

@@ -109,6 +109,8 @@ Greenhalgh, S. P., Rosenberg, J. M., Staudt-Willet, B., Koehler, M. J., & Akcaog
 
 ### Book Chapters
 
+Dai, T., Rosenberg, J. M., & Lawson, M. A., (forthcoming). Data representation. In T. L. Good & M. McCaslin (*Eds.*), Educational Psychology Section; D. Fisher (*Ed.*), Routledge Encyclopedia of Education (Online). Taylor & Francis: New York.
+
 Eidelman, R., Rosenberg, J. M. ,& Shwartz, Y. (in press). E-Learning in chemistry education: Self-regulated learning in a virtual classroom. In D. Ifenthaler, M. Spector, P. Isafas, & S. Sergis (Eds), *Learning technologies for transforming teaching, learning and assessment at large scale*. Berlin, Germany: Springer.  
 
 Herring, M., Koehler, M. J., Mishra, P., Rosenberg, J. M., & Teske, J. (2016). Introduction to the 2nd edition of the TPACK handbook. In M. Herring, M. J. Koehler, & P. Mishra (Eds.), *Handbook of Technological Pedagogical Content Knowledge (TPACK) for educators* (2nd ed., pp. 1-8). New York, NY: Routledge. 
