@@ -10,7 +10,7 @@ output:
   html_document:
     keep_md: no
 ---
-PDF version available at http://jmichaelrosenberg.com/rosenberg-cv.pdf
+PDF version: <a href = 'http://jmichaelrosenberg.com/rosenberg-cv.pdf'> <img src='/logos/pdf.png' style='width: 25px; height: 25px;'/></a>
 
 *Curriculum Vitae*
 
@@ -194,7 +194,9 @@ Rosenberg, J. M. (2018). *Understanding work with data in summer STEM programs: 
 
 ## Fellowships 
 
-2018, Scholarly Activity and Research Incentive Funds, Foreign Travel Award, University of Tennessee, Knoxville (UTK) 
+2019, Scholarly Activity and Research Inventive Funds, Open Publishing Support Fund, University of Tennessee Libraries and Office of Research and Engagement, University of Tennessee, Knoxville
+
+2018, Foreign Travel Award, Office of Research and Engagement, University of Tennessee, Knoxville (UTK) 
 
 2017, Delia Koo Global Travel Fellowship, Michigan State University (MSU)
 
