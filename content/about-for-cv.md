@@ -10,7 +10,7 @@ output:
   html_document:
     keep_md: no
 ---
-PDF version available at http://jmichaelrosenberg.com/rosenberg-cv.pdf
+PDF version: <a href = 'http://jmichaelrosenberg.com/rosenberg-cv.pdf'> <img src='/logos/pdf.png' style='width: 25px; height: 25px;'/></a>
 
 *Curriculum Vitae*
 
@@ -109,6 +109,8 @@ Greenhalgh, S. P., Rosenberg, J. M., Staudt-Willet, B., Koehler, M. J., & Akcaog
 
 ### Book Chapters
 
+Dai, T., Rosenberg, J. M., & Lawson, M. A., (forthcoming). Data representation. In T. L. Good & M. McCaslin (*Eds.*), Educational Psychology Section; D. Fisher (*Ed.*), Routledge Encyclopedia of Education (Online). Taylor & Francis: New York.
+
 Eidelman, R., Rosenberg, J. M. ,& Shwartz, Y. (in press). E-Learning in chemistry education: Self-regulated learning in a virtual classroom. In D. Ifenthaler, M. Spector, P. Isafas, & S. Sergis (Eds), *Learning technologies for transforming teaching, learning and assessment at large scale*. Berlin, Germany: Springer.  
 
 Herring, M., Koehler, M. J., Mishra, P., Rosenberg, J. M., & Teske, J. (2016). Introduction to the 2nd edition of the TPACK handbook. In M. Herring, M. J. Koehler, & P. Mishra (Eds.), *Handbook of Technological Pedagogical Content Knowledge (TPACK) for educators* (2nd ed., pp. 1-8). New York, NY: Routledge. 
@@ -192,7 +194,9 @@ Rosenberg, J. M. (2018). *Understanding work with data in summer STEM programs: 
 
 ## Fellowships 
 
-2018, Scholarly Activity and Research Incentive Funds, Foreign Travel Award, University of Tennessee, Knoxville (UTK) 
+2019, Open Publishing Support Fund, University of Tennessee Libraries and Office of Research and Engagement, University of Tennessee, Knoxville
+
+2018, Foreign Travel Award, Office of Research and Engagement, University of Tennessee, Knoxville (UTK) 
 
 2017, Delia Koo Global Travel Fellowship, Michigan State University (MSU)
 

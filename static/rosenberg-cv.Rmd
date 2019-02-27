@@ -104,37 +104,6 @@ Rosenberg, J. M., Terry, C. A., Bell, J., Hiltz, V., & Russo, T. (2016). Design 
 \hangindent=2em
 Rosenberg, J. M., & Koehler, M. J. (2015). Context and Technological Pedagogical Content Knowledge (TPACK): A systematic review. *Journal of Research on Technology in Education, 47*, 186-210. http://dx.doi.org/10.1080/15391523.2015.1052663 <a href = "/pre-prints/rosenberg-koehler-2015-jrte.pdf"><img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
-### Journal Articles in Submission
-
-\hangindent=2em
-Ranellucci, J., Rosenberg, J. M., & Poitras, E. (accepted registered report). Exploring pre-service teachers’ use of technology: The technology acceptance model and expectancy-value theory. *Journal of Computer Assisted Learning*. <a href = "https://osf.io/rgpeh/"><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
-
-\hangindent=2em
-Blondel, D. V., Sansone, A., Rosenberg, J. M., Yang, B. W., Linennbrink-Garcia, L., Schwarz-Bloom, R. D. (revise and resubmit). Development of an online experiment platform (Rex) for high school biology.
-
-\hangindent=2em
-Krist, S., & Rosenberg, J. M. (under review). Incremental refinement in learners’ epistemic considerations of generality in science over three years: A computational grounded theory analysis.
-
-\hangindent=2em
-Beymer, P. N., Rosenberg, J. M., & Schmidt, J. A. (under review). Investigating the effects of interest and choice in education: An experience sampling approach in high schol science classes.
-
-### Working papers
-
-\hangindent=2em
-Rosenberg, J. M., Schmidt, J. A., & Koehler, M. J. (in preparation). How youth experience work with data in summer STEM programs: Findings from an experience sampling approach. <a href = "https://osf.io/65ckh/"><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> 
-
-\hangindent=2em
-Rosenberg, J. M., Schwarz, C. V., & Akcaoglu, M. (in preparation). Learning to teach scientific modeling: A longitudinal case study of two teachers' instructional practice.
-
-\hangindent=2em
-Rosenberg, J. M., Reid, J., Koehler, M. J., Fischer, C., & McKenna, T. J. (in preparation). The roles of the Twitter hashtag #NGSSchat in the context of science education reform efforts. <a href = "https://osf.io/9ex7k/"><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
-
-\hangindent=2em
-Schmidt, J. A., Beymer, P. N., & Rosenberg, J. M. (in preparation). Experiences, activities, and personal characteristics as predictors of engagement in STEM-focused summer programs.
-
-\hangindent=2em
-Greenhalgh, S. P., Rosenberg, J. M., Staudt-Willet, B., Koehler, M. J., & Akcaoglu, M. (in preparation). Timing is everything: Comparing synchronous and asynchronous modes of Twitter for teacher professional learning.
-
 ### Book Chapters
 
 \hangindent=2em
@@ -219,6 +188,38 @@ Rosenberg, J., Terry, C., Bell, J., Hiltz, V., Russo, T. & The EPET Social Media
 \hangindent=2em
 Rosenberg, J. (2013). Review of mobile device use policies in public high schools. In R. McBride & M. Searson (Eds.), *Proceedings of Society for Information Technology & Teacher Education International Conference 2013* (pp. 3774-3779). Chesapeake, VA: AACE. Retrieved from http://www.editlib.org/p/48698
 
+
+### Journal Articles in Submission
+
+\hangindent=2em
+Ranellucci, J., Rosenberg, J. M., & Poitras, E. (accepted registered report). Exploring pre-service teachers’ use of technology: The technology acceptance model and expectancy-value theory. *Journal of Computer Assisted Learning*. <a href = "https://osf.io/rgpeh/"><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
+
+\hangindent=2em
+Blondel, D. V., Sansone, A., Rosenberg, J. M., Yang, B. W., Linennbrink-Garcia, L., Schwarz-Bloom, R. D. (revise and resubmit). Development of an online experiment platform (Rex) for high school biology.
+
+\hangindent=2em
+Krist, S., & Rosenberg, J. M. (under review). Incremental refinement in learners’ epistemic considerations of generality in science over three years: A computational grounded theory analysis.
+
+\hangindent=2em
+Beymer, P. N., Rosenberg, J. M., & Schmidt, J. A. (under review). Investigating the effects of interest and choice in education: An experience sampling approach in high schol science classes.
+
+### Working papers
+
+\hangindent=2em
+Rosenberg, J. M., Schmidt, J. A., & Koehler, M. J. (in preparation). How youth experience work with data in summer STEM programs: Findings from an experience sampling approach. <a href = "https://osf.io/65ckh/"><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> 
+
+\hangindent=2em
+Rosenberg, J. M., Schwarz, C. V., & Akcaoglu, M. (in preparation). Learning to teach scientific modeling: A longitudinal case study of two teachers' instructional practice.
+
+\hangindent=2em
+Rosenberg, J. M., Reid, J., Koehler, M. J., Fischer, C., & McKenna, T. J. (in preparation). The roles of the Twitter hashtag #NGSSchat in the context of science education reform efforts. <a href = "https://osf.io/9ex7k/"><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
+
+\hangindent=2em
+Schmidt, J. A., Beymer, P. N., & Rosenberg, J. M. (in preparation). Experiences, activities, and personal characteristics as predictors of engagement in STEM-focused summer programs.
+
+\hangindent=2em
+Greenhalgh, S. P., Rosenberg, J. M., Staudt-Willet, B., Koehler, M. J., & Akcaoglu, M. (in preparation). Timing is everything: Comparing synchronous and asynchronous modes of Twitter for teacher professional learning.
+
 ### Unpublished Manuscripts and Pre-Prints
 
 \hangindent=2em
@@ -229,7 +230,7 @@ Rosenberg, J. M. (2018). *Understanding work with data in summer STEM programs: 
 
 ## Grants
 
-## Funded Grants
+### Funded Grants
 
 2017-2020, Consultant and Significant Contributor (Method), Profiles of science engagement: Broadening participation by understanding individual and contextual influences ($499,927). National Science Foundation (PI: Jennifer Schmidt).
 
@@ -237,7 +238,7 @@ Rosenberg, J. M. (2018). *Understanding work with data in summer STEM programs: 
 
 2013, Versal Foundation Grant, Basic Biology for Everyone ($2,000), Versal, 2013
 
-## Pending Grants
+### Pending Grants
 
 2019-2021, Co-PI, CS for Appalachia: A research-practice partnership for integrating computer science into East Tennessee schools (Pending). National Science Foundation.
 
@@ -247,9 +248,11 @@ Rosenberg, J. M. (2018). *Understanding work with data in summer STEM programs: 
 
 2019-2022, Co-PI, Mining the gap: Applying computational methods to better understand sources of achievement gap differences (Pending). William T. Grant Foundation.
 
-## Fellowships 
+## Fellowships and Awards
 
-2018, Scholarly Activity and Research Incentive Funds, Foreign Travel Award, University of Tennessee, Knoxville (UTK) 
+2019, Open Publishing Support Fund, University of Tennessee Libraries and Office of Research and Engagement, University of Tennessee, Knoxville
+
+2018, Foreign Travel Award, Office of Research and Engagement, University of Tennessee, Knoxville (UTK) 
 
 2017, Delia Koo Global Travel Fellowship, Michigan State University (MSU)
 
@@ -460,8 +463,6 @@ Rosenberg, J. M. (February, 2019). *Making sense of recent advances in the Techn
 \hangindent=2em
 Rosenberg, J. M. (March, 2016). *An introduction to R for programming and statistical analysis in education*. Georgia Southern University College of Education, Statesboro, GA.
 
-### Other Presentations
-
 ## Competitive Research Training
 
 New Faculty Mentoring Program, AERA Division C, 2019
@@ -574,11 +575,11 @@ Contemporary Issues in Technology and Teacher Education, 2015
 
 ### Departmental Service 
 
-**University of Tennessee, Knoxville**
+*University of Tennessee, Knoxville*
 
 Committee member for 4 Master's degree students (2019-present)
 
-**Michigan State University**
+*Michigan State University*
 
 Member of two practicum committees for Educational Psychology and Educational Technology program Ph.D. students, Michigan State University, 2014-2018
 

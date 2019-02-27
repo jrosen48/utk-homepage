@@ -27,7 +27,7 @@ cv_html <- readLines("content/about.md")
 
 find_yml <- stringr::str_detect(cv_html, "---")
 end_of_yml <- which(find_yml)[2]
-cv_html <- append(cv_html, "PDF version available at http://jmichaelrosenberg.com/rosenberg-cv.pdf", after = end_of_yml)
+cv_html <- append(cv_html, "PDF version: <a href = 'http://jmichaelrosenberg.com/rosenberg-cv.pdf'> <img src='/logos/pdf.png' style='width: 25px; height: 25px;'/></a>", after = end_of_yml)
 
 cv_html <- cv_html[cv_html!="\\begin{center}"]
 cv_html <- cv_html[cv_html!="\\end{center}"]
