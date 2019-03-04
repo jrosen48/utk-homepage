@@ -11,6 +11,13 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Resources from my experience applying for academic positions. I applied to positions in science education, educational technology, and the learning sciences/educational psychology. I am presently fortunate to be an Assistant Professor of STEM Education at the University of Tennessee, Knoxville.
 
+## Posts for the NARST Graduate Student Resources blog
+
+- [Part 1: Introducing a Series of Posts on the Academic Job Search in Science Education](https://narstgradresources.blogspot.com/2018/08/part-1-introducing-series-of-posts-on.html)
+- [ Part 2: Preparation for the Job Market ](https://narstgradresources.blogspot.com/2018/08/part-2-preparation-for-job-market.html)
+- [ Part 3: The Solicitation & Application (August - January, maybe longer) ](https://narstgradresources.blogspot.com/2018/08/part-3-solicitation-application-august.html)
+- [ Part 4: Interviewing and Negotiating for A Position ](https://narstgradresources.blogspot.com/2018/09/part-4-interviewing-and-negotiating-for.html)
+
 ## Sample cover letter
 
 - [Tennessee - Science Education](/job-market-resources/Rosenberg-Cover-Letter-Tennessee.pdf)
@@ -21,12 +28,5 @@ Resources from my experience applying for academic positions. I applied to posit
 - [Teaching Statement](/job-market-resources/Rosenberg-Teaching-Statement.pdf)
 - [CV](/job-market-resources/Rosenberg-CV.pdf)
 - [Diversity Statement](/job-market-resources/Rosenberg-Diversity-Statement.pdf)
-
-## Blog posts
-
-- [Part 1: Introducing a Series of Posts on the Academic Job Search in Science Education](https://narstgradresources.blogspot.com/2018/08/part-1-introducing-series-of-posts-on.html)
-- [ Part 2: Preparation for the Job Market ](https://narstgradresources.blogspot.com/2018/08/part-2-preparation-for-job-market.html)
-- [ Part 3: The Solicitation & Application (August - January, maybe longer) ](https://narstgradresources.blogspot.com/2018/08/part-3-solicitation-application-august.html)
-- [ Part 4: Interviewing and Negotiating for A Position ](https://narstgradresources.blogspot.com/2018/09/part-4-interviewing-and-negotiating-for.html)
 
 My homepage is [here](https://www.jmichaelrosenberg.com/).
