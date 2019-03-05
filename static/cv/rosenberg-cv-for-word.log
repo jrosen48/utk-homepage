@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.1.30)  4 MAR 2019 09:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.1.30)  5 MAR 2019 11:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -636,14 +636,22 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 
 {/Users/jrosenb8/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 [2]
-Overfull \hbox (246.39156pt too wide) in paragraph at lines 297--302
+Overfull \hbox (246.39156pt too wide) in paragraph at lines 247--252
 \T1/lmr/m/it/10 (-20) Pol-icy, In-no-va-tion & Net-works\T1/lmr/m/n/10 (-20) . 
 []$https : / / mvlri . org / blog / student-[]motivation-[]in-[]online-[]scienc
 e-[]courses-[]a-[]path-[]to-[]spending-[]more-[]time-[]on-[]course-[]and-[]high
 er-[]achievement/$[] 
  []
 
-[3] [4] [5]
+[3]
+Overfull \hbox (246.39156pt too wide) in paragraph at lines 344--349
+\T1/lmr/m/it/10 (-20) Pol-icy, In-no-va-tion & Net-works\T1/lmr/m/n/10 (-20) . 
+[]$https : / / mvlri . org / blog / student-[]motivation-[]in-[]online-[]scienc
+e-[]courses-[]a-[]path-[]to-[]spending-[]more-[]time-[]on-[]course-[]and-[]high
+er-[]achievement/$[] 
+ []
+
+[4]
 
 ! LaTeX Error: Too deeply nested.
 
@@ -651,15 +659,15 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.504 \begin{quote}
+l.401 \begin{quote}
                     
 Here is how much of TeX's memory you used:
- 11683 strings out of 494587
- 172578 string characters out of 6176888
+ 11657 strings out of 494587
+ 172260 string characters out of 6176888
  275124 words of memory out of 5000000
- 15075 multiletter control sequences out of 15000+600000
- 46490 words of font info for 86 fonts, out of 8000000 for 9000
+ 15071 multiletter control sequences out of 15000+600000
+ 39688 words of font info for 76 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 32i,5n,38p,246b,338s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 32i,5n,38p,246b,336s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 !  ==> Fatal error occurred, no output PDF file produced!
