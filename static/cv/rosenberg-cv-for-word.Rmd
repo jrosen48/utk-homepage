@@ -142,15 +142,15 @@ Greenhalgh, S. P., Rosenberg, J. M., Zellner, A. & Koehler, M. J. (2014). Zen an
  
 Rosenberg, J., Terry, C., Bell, J., Hiltz, V., Russo, T. & The EPET Social Media Council (2014). What we’ve got here is failure to communicate: Social media best practices for graduate school programs. In M. Searson & M. Ochoa (Eds.), *Proceedings of Society for Information Technology & Teacher Education International Conference 2014* (pp. 1210-1215). Chesapeake, VA: AACE. Retrieved from http://www.editlib.org/p/130949
 
-Rosenberg, J. (2013). Review of mobile device use policies in public high schools. In R. McBride & M. Searson (Eds.), *Proceedings of Society for Information Technology & Teacher Education International Conference 2013* (pp. 3774-3779). Chesapeake, VA: AACE. Retrieved from http://www.editlib.org/p/48698
+Rosenberg, J. (2013). Review of mobile device use policies in public high schools. In R. McBride & M. Searson (Eds.), *Proceedings of Society for Information Technology & Teacher Education International Conference 2013* (pp. 3774-3779). Chesapeake, VA: AACE. Retrieved from http://www.editlib.org/p/48698git 
 
 ### Journal Articles in Submission
-
-Rosenberg, J. M., Schmidt, J. A., & Koehler, M. J. (in preparation). How youth experience work with data in summer STEM programs: Findings from an experience sampling approach. <a href = "https://osf.io/65ckh/"><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> 
 
 Ranellucci, J., Rosenberg, J. M., & Poitras, E. (accepted registered report). Exploring pre-service teachers’ use of technology: The technology acceptance model and expectancy-value theory. *Journal of Computer Assisted Learning*. <a href = "https://osf.io/rgpeh/"><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
 Blondel, D. V., Sansone, A., Rosenberg, J. M., Yang, B. W., Linennbrink-Garcia, L., Schwarz-Bloom, R. D. (revise and resubmit). Development of an online experiment platform (Rex) for high school biology.
+
+Rosenberg, J. M., Schmidt, J. A., & Koehler, M. J. (under review). How youth experience work with data in summer STEM programs: Findings from an experience sampling approach. <a href = "https://osf.io/65ckh/"><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> 
 
 Krist, S., & Rosenberg, J. M. (under review). Incremental refinement in learners’ epistemic considerations of generality in science over three years: A computational grounded theory analysis.
 
