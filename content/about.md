@@ -58,7 +58,7 @@ Henriksen, D., Mehta, R., & Rosenberg, J. M. (in press). Supporting a creatively
 
 Xu, R., Frank, K. A., Maroulis, S., & Rosenberg, J. M. (in press). Konfound: A Stata module to quantify robustness of causal inferences. *The Stata Journal*. https://www.stata-journal.com/ (*Nb. Software-related publication*)
 
-Rosenberg, J. M., & Lawson, M. J. (in press). An investigation of students’ use of a computational science simulation in an online high school physics class, *Education Sciences, 9*(49), 1-19. https://www.mdpi.com/2227-7102/9/1/49 <a href = "https://osf.io/y925f/"><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> <a href = "/pre-prints/Rosenberg-Lawson-2019-es.pdf"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
+Rosenberg, J. M., & Lawson, M. J. (2019). An investigation of students’ use of a computational science simulation in an online high school physics class, *Education Sciences, 9*(49), 1-19. https://www.mdpi.com/2227-7102/9/1/49 <a href = "https://osf.io/y925f/"><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> <a href = "/pre-prints/Rosenberg-Lawson-2019-es.pdf"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
 Rosenberg, J. M., Beymer, P. N., Anderson, D. J., & Schmidt, J. A. (2018). tidyLPA: An R package to easily carry out Latent Profile Analysis (LPA) using open-source or commercial software. *Journal of Open Source Software, 3*(30), 978. https://doi.org/10.21105/joss.00978 <a href = "/pre-prints/rosenberg-et-al-2018-joss.pdf"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> (*Nb. Software-related publication*)
 
@@ -174,33 +174,17 @@ Rosenberg, J. M. (2018). *Understanding work with data in summer STEM programs: 
 
 ## Grants
 
-### Funded Grants
-
 2017-2020, Consultant and Significant Contributor (Method), Profiles of science engagement: Broadening participation by understanding individual and contextual influences ($499,927). National Science Foundation (PI: Jennifer Schmidt).
 
 2019-2020, PI, Planting the seeds for computer science education in East Tennessee through a research-practice partnership. ($8,000). Community Engaged Research Seed Program, University of Tennessee, Knoxville.
 
 2018-2019, Co-PI, Exploring how beginning elementary mathematics teachers seek out resources through social media ($8,820), Herman and Rasiej Math Initiative at the University of Southern California (PI: Stephen Aguilar)
 
-2013, Versal Foundation Grant, Basic Biology for Everyone ($2,000), Versal, 2013
-
-### Pending Grants
-
-2019-2021, Co-PI, CS for Appalachia: A research-practice partnership for integrating computer science into East Tennessee schools (Pending). National Science Foundation.
-
-2019-2021, Co-PI, Exploring a youth STEM badge ecosystem: Analyzing autonomous motivation and instructional interaction (Pending). National Science Foundation.
-
-2019-2021, Co-PI, Advancing computational grounded theory for audiovisual data from STEM classrooms (Pending). National Science Foundation.
-
-2019-2022, Co-PI, Mining the gap: Applying computational methods to better understand sources of achievement gap differences (Pending). William T. Grant Foundation.
+2013, PI, Basic Biology for Everyone ($2,000), Versal Foundation Grant
 
 ## Fellowships and Awards
 
-<<<<<<< HEAD
 2019, Open Publishing Support Fund, University of Tennessee Libraries and Office of Research and Engagement, University of Tennessee, Knoxville
-=======
-2019, Scholarly Activity and Research Inventive Funds, Open Publishing Support Fund, University of Tennessee Libraries and Office of Research and Engagement, University of Tennessee, Knoxville
->>>>>>> a8865510dddcc4fe34999801093410bd848e3986
 
 2018, Foreign Travel Award, Office of Research and Engagement, University of Tennessee, Knoxville (UTK) 
 
@@ -340,6 +324,12 @@ Ke, L., Schwarz, C. V., Lee, M. & Rosenberg, J. M. (2014, April). *Examining ele
 
 Koehler, M. J., Rosenberg, J. M., Greenhalgh, S., Zellner, A. L., & Mishra, P. (2014, March). Analyzing students’ portfolios for the development of TPACK. In J. Voogt (Chair), *Artifacts demonstrating teachers’ technology integration competencies*. Symposium presented at the meeting of the Society for Information Technology and Teacher Education, Jacksonville, FL.
 
+### Invited Talks
+
+Rosenberg, J. M. (February, 2019). *Making sense of recent advances in the Technological Pedagogical Content Knowledge framework*. English International Congress at the Universidad Tecnical de Norte, Ibarra, Ecuador.
+
+Rosenberg, J. M. (March, 2016). *An introduction to R for programming and statistical analysis in education*. Georgia Southern University College of Education, Statesboro, GA.
+
 ### Other Presentations
 
 Camponovo, M., Lawson, M. A., & Rosenberg, M. J. (July, 2019). Integrating geospatial tech with math and science pre-service teachers. 2019 Education Summit @ ESRI UC. San Diego, CA.
@@ -347,12 +337,6 @@ Camponovo, M., Lawson, M. A., & Rosenberg, M. J. (July, 2019). Integrating geosp
 Jones, R. S., & Rosenberg, J. M. (February, 2019). Latent class modeling of whole class discussions about data, statistics, and probability. Presentation at the 13th Annual Tennessee STEM Education Research Conference. Murfreesboro, TN.
 
 Lawson, M., Rosenberg, J. M., & Camponovo, M. (February, 2019). Better together? Findings from a combined, integrated STEM unit with pre-service mathematics and science teachers. Presentation at the 13th Annual Tennessee STEM Education Research Conference. Murfreesboro, TN.
-
-### Invited Talks
-
-Rosenberg, J. M. (February, 2019). *Making sense of recent advances in the Technological Pedagogical Content Knowledge framework*. English International Congress at the Universidad Tecnical de Norte, Ibarra, Ecuador.
-
-Rosenberg, J. M. (March, 2016). *An introduction to R for programming and statistical analysis in education*. Georgia Southern University College of Education, Statesboro, GA.
 
 ## Competitive Research Training
 
@@ -363,6 +347,16 @@ Graduate Student Seminar, AERA Division C, 2016
 Early Career Seminar, National Science Foundation and AECT, 2015
 
 Advanced Training Institute on Research Methods with Diverse Groups, American Psychological Association, 2014
+
+## Research Experience
+
+Research Assistant, Profiles of Science Engagement, Jennifer Schmidt (PI), 2017-2018
+
+Research Assistant, Self-Generated Research Experiences to Support Biomedical/Behavioral Research Careers, Lisa Linnenbrink-Garcia (PI), 2017
+
+Research Assistant, STEM Interest and Engagement, Jennifer Schmidt (PI), 2016-2018
+
+Research Assistant, Supporting scientific practices in elementary and middle school classrooms, Christina Schwarz (MSU PI), 2013-2017
 
 ## Software Developed
 
@@ -454,6 +448,8 @@ Reviewer, American Psychological Association (APA) Convention, 2015
 
 Reviewer, Proposals from Knox County Schools students to the NASA Student Spaceflight Experiment Program
 
+Outreach, data science education workshops with two classes around Knoxville, TN
+
 ### Ad-hoc Journal Article Reviews
 
 Education Sciences (2), TechTrends, 2019
@@ -470,7 +466,9 @@ Contemporary Issues in Technology and Teacher Education, 2015
 
 *University of Tennessee, Knoxville*
 
-Committee member for 4 Master's degree students (2019-present)
+Committee member for one Ph.D student (2019)
+
+Committee member for five Master's degree students (2019)
 
 *Michigan State University*
 
