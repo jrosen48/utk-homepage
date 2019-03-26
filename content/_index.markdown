@@ -2,7 +2,7 @@
 title: Home
 ---
 
-[<img src="jmr-utk-headshot.jpg" style="max-width:15%;min-width:40px;float:right;" alt="photo" />](https://github.com/yihui/hugo-xmin)
+[<img src="images/rosenberg-headshot.jpg" style="max-width:15%;min-width:40px;float:right;" alt="photo" />](https://joshuamrosenberg.com/)
 
 # Joshua M. Rosenberg
 

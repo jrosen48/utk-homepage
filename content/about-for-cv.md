@@ -156,6 +156,8 @@ Krist, S., & Rosenberg, J. M. (under review). Incremental refinement in learners
 
 Beymer, P. N., Rosenberg, J. M., & Schmidt, J. A. (under review). Investigating the effects of interest and choice in education: An experience sampling approach in high school science classes.
 
+Carpenter, J., Rosenberg, J. M., (under review). Understanding teacher educator technology competencies: findings and perspectives from a cross-disciplinary sample.
+
 ### Working papers
 
 Rosenberg, J. M., Schwarz, C. V., & Akcaoglu, M. (in preparation). Learning to teach scientific modeling: A longitudinal case study of two teachers' instructional practice.
@@ -358,7 +360,6 @@ Research Assistant, STEM Interest and Engagement, Jennifer Schmidt (PI), 2016-20
 
 Research Assistant, Supporting scientific practices in elementary and middle school classrooms, Christina Schwarz (MSU PI), 2013-2017
 
-
 ## Software Developed
 
 ### R packages on Comprehensive R Archive Network (CRAN)
@@ -453,7 +454,7 @@ Outreach, data science education workshops with two classes around Knoxville, TN
 
 ### Ad-hoc Journal Article Reviews
 
-Education Sciences (2), TechTrends, 2019
+Education Sciences (2), Journal of Research in Science Teaching, TechTrends, 2019
 
 Contemporary Educational Psychology, Computers & Education, Australasian Journal of Educational Technology (2), Journal of Open Source Software, Asia-Pacific Education Researcher, 2018
 
