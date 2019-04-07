@@ -23,6 +23,8 @@ I am excited to be presenting this week (and early next week) on some ongoing wo
 
 > Anderson, D. J., and Rosenberg, J. M. (2019, April). Transparent and reproducible research with R. Workshop to be carried out at the Annual Meeting of the American Educational Research Association, Toronto, Canada.
 
+The slides we presented are available [here](https://github.com/ResearchTransparency/rr_aera19/blob/master/README.md).
+
 ## Student Engagement Profiles in Formal and Informal STEM Learning Settings
 
 *Sun, April 7, 3:40 to 5:10pm, Sheraton Centre Toronto Hotel, Mezzanine, Birchwood Ballroom*
