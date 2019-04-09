@@ -102,14 +102,11 @@ Rosenberg, J. M., & Ranellucci, J. (2017). Student motivation in online science 
 
 ### Book Chapters
 
-Dai, T., Rosenberg, J. M., & Lawson, M. A., (forthcoming). Data representations and visualizations in educational research. In T. L. Good & M. McCaslin (*Eds.*), Educational Psychology Section; D. Fisher (*Ed.*), Routledge Encyclopedia of Education (Online). Taylor & Francis: New York.
-
 Rosenberg, J. M., Lawson, M. A., Anderson, D. J., & Rutherford, T. (forthcoming). In E. Romero-Hall (Ed.), *Research Methods in Learning Design & Technology.*, Data science dilemmas for teaching research methods in learning design and technology. Routledge: New York, NY.
 
 Greenhalgh, S. P., Staudt Willet, B., Rosenberg, J. M., & Koehler, M. J. (forthcoming). In E. Romero-Hall (Ed.), *Research Methods in Learning Design & Technology.*, Lessons learned from applying Twitter research methods to educational technology phenomena. Routledge: New York, NY.
 
 Dai, T., Rosenberg, J. M., & Lawson, M. A. (forthcoming). Data representation. In T. L. Good & M. McCaslin (*Eds.*), Educational Psychology Section; D. Fisher (*Ed.*), Routledge Encyclopedia of Education (Online). Taylor & Francis: New York, NY.
->>>>>>> c30a844d82f592e5da29c49c38bbbd4b2e70d493
 
 Eidelman, R., Rosenberg, J. M. ,& Shwartz, Y. (in press). E-Learning in chemistry education: Self-regulated learning in a virtual classroom. In D. Ifenthaler, M. Spector, P. Isafas, & S. Sergis (Eds), *Learning technologies for transforming teaching, learning and assessment at large scale*. Berlin, Germany: Springer.  
 
