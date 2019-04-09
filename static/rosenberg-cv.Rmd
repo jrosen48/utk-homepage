@@ -9,6 +9,7 @@ output:
       reference_docx: Rosenberg-CV-template.docx
   html_document:
     keep_md: no
+fontsize: 14
 ---
 
 \begin{center}
@@ -127,7 +128,7 @@ Rosenberg, J. M., & Ranellucci, J. (2017). Student motivation in online science 
 ### Book Chapters
 
 \hangindent=2em
-Dai, T., Rosenberg, J. M., & Lawson, M. A., (forthcoming). Data representation. In T. L. Good & M. McCaslin (*Eds.*), Educational Psychology Section; D. Fisher (*Ed.*), Routledge Encyclopedia of Education (Online). Taylor & Francis: New York.
+Dai, T., Rosenberg, J. M., & Lawson, M. A., (forthcoming). Data representations and visualizations in educational research. In T. L. Good & M. McCaslin (*Eds.*), Educational Psychology Section; D. Fisher (*Ed.*), Routledge Encyclopedia of Education (Online). Taylor & Francis: New York.
 
 \hangindent=2em
 Eidelman, R., Rosenberg, J. M. ,& Shwartz, Y. (in press). E-Learning in chemistry education: Self-regulated learning in a virtual classroom. In D. Ifenthaler, M. Spector, P. Isafas, & S. Sergis (Eds), *Learning technologies for transforming teaching, learning and assessment at large scale*. Berlin, Germany: Springer.  
@@ -234,7 +235,7 @@ Rosenberg, J. M. (2018). *Understanding work with data in summer STEM programs: 
 
 2017-2020, Consultant and Significant Contributor (Method), Profiles of science engagement: Broadening participation by understanding individual and contextual influences ($499,927). National Science Foundation (PI: Jennifer Schmidt).
 
-2019-2020, PI, Planting the seeds for computer science education in East Tennessee through a research-practice partnership. ($8,000). Community Engaged Research Seed Program, University of Tennessee, Knoxville.
+2019-2020, PI, Planting the seeds for computer science education in East Tennessee through a research-practice partnership. ($13,200). Community Engaged Research Seed Program, University of Tennessee, Knoxville.
 
 2018-2019, Co-PI, Exploring how beginning elementary mathematics teachers seek out resources through social media ($8,820), Herman and Rasiej Math Initiative at the University of Southern California (PI: Stephen Aguilar)
 
@@ -275,13 +276,13 @@ Rosenberg, J. M. (2018). *Understanding work with data in summer STEM programs: 
 ### Peer-Reviewed Conference Presentations
 
 \hangindent=2em
-Rosenberg, J. M, Beymer, P. N., Houslay, T. M., & Schmidt, J. A. (2019, April). Using a multivariate model to understand how youths’ in-the-moment engagement predicts changes in youths’ interest. In M. Bernacki, A. Kaplan, and L. Linnenbrink-Garcia (Chairs), *Embracing and modeling the complex dynamics of motivation and engagement: Contextual, temporal, dynamic, and systematic*. Symposium conducted at the Annual Meeting of the American Educational Research Association, New York, NY.
+Rosenberg, J. M, Beymer, P. N., Houslay, T. M., & Schmidt, J. A. (2019, April). Using a multivariate, multi-level model to understand how youths’ in-the-moment engagement predicts changes in youths’ interest. In M. Bernacki, A. Kaplan, and L. Linnenbrink-Garcia (Chairs), *Embracing and modeling the complex dynamics of motivation and engagement: Contextual, temporal, dynamic, and systematic*. Symposium conducted at the Annual Meeting of the American Educational Research Association, Toronto, CA. <a href = "https://osf.io/tk3dn/ "><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
 \hangindent=2em
-Beymer, P. N., Schell, M. J., Alberts, K. M., Rosenberg, J. M., & Schmidt, J. A. (2019, April). *Student engagement profiles in formal and informal STEM learning settings*. Paper to be presented at the Annual Meeting of the American Educational Research Association, New York, NY.
+Beymer, P. N., Schell, M. J., Alberts, K. M., Rosenberg, J. M., & Schmidt, J. A. (2019, April). *Student engagement profiles in formal and informal STEM learning settings*. Paper presented at the Annual Meeting of the American Educational Research Association, Toronto, Canada.
 
 \hangindent=2em
-Schell, M. J., Beymer, P. N. Albert, K. M., Rosenberg, J. M., & Schmidt, J. A. (2019, April). *Predictors of momentary student engagement profiles in high school science classrooms*. Paper to be presented at the Annual Meeting of the American Educational Research Association, New York, NY.
+Schell, M. J., Beymer, P. N. Albert, K. M., Rosenberg, J. M., & Schmidt, J. A. (2019, April). *Predictors of momentary student engagement profiles in high school science classrooms*. Paper presented at the Annual Meeting of the American Educational Research Association, Toronto, Canada.
 
 \hangindent=2em
 Reid, J., Rosenberg, J. M., Koehler, M. J., Fischer, C., & McKenna, T. J. (2019, March). *An exploration of #NGSSchat through social network analysis*. Paper to be presented at the National Association for Research in Science Teaching Annual International Conference, Baltimore, MD.
@@ -439,6 +440,9 @@ Koehler, M. J., Rosenberg, J. M., Greenhalgh, S., Zellner, A. L., & Mishra, P. (
 ### Invited Talks
 
 \hangindent=2em
+Rosenberg, J.M. (September, 2019). *Data science and STEM education*. Presentation at the Middle Tennessee State University Mathematics and Science Education Doctoral Seminar series. Middle Tennessee State University, Murfreesboro, TN.
+
+\hangindent=2em
 Rosenberg, J. M. (February, 2019). *Making sense of recent advances in the Technological Pedagogical Content Knowledge framework*. English International Congress at the Universidad Tecnical de Norte, Ibarra, Ecuador.
 
 \hangindent=2em
@@ -535,6 +539,8 @@ Editorial Review Board Member, Science Education Section, Contemporary Issues in
 
 ### Service to the Profession
 
+Review Panel Member, National Science Foundation STEM+C program, 2019
+
 Member, Technological Pedagogical Content Knowledge (TPACK) Special Interest Group (SIG) Award Committee, 2019
 
 Co-chair, TPACK SIG, Society for Information Technology and Teacher Education , 2015-2017
@@ -596,7 +602,7 @@ Search Committee Member, Program Specialist, Master of Arts in Educational Techn
 ### Workshops and Outreach
 
 \hangindent=2em
-Anderson, D. J., and Rosenberg, J. M. (2019, April). Transparent and reproducible research with R. Workshop to be carried out at the Annual Meeting of the American Educational Research Association, New York, NY.
+Anderson, D. J., and Rosenberg, J. M. (2019, April). Transparent and reproducible research with R. Workshop carried out at the Annual Meeting of the American Educational Research Association, Toronto, Canada. <a href = "https://github.com/ResearchTransparency/rr_aera19 "><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
 \hangindent=2em
 Rosenberg, J. M. (2017, April). Introduction to R for Data Analysis. Presentation at the School of Criminal Justice, Michigan State University. 
