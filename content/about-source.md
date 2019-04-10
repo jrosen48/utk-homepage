@@ -36,10 +36,10 @@ Michigan State University
 2012, MA, Education  
 Michigan State University 
 
-2010, BS, Biology  
+2010, Teacher Licensure Program  
 University of North Carolina, Asheville
 
-2010, Teacher Licensure Program  
+2010, BS, Biology  
 University of North Carolina, Asheville
 
 ## Professional Experience
@@ -49,10 +49,10 @@ University of Tennessee, Knoxville
 
 ## Related (K-12 Teaching) Experience
 
-2010-2012, Science Teacher (Biology and Earth Science)  
+2010-2012, Science Teacher  
 Shelby High School, Shelby, NC  
 
-2009-2010, Science Teacher Intern (Biology and Chemistry)  
+2009-2010, Science Teacher Intern  
 C.D. Owen High School, Swannanoa, NC  
 
 ## Publications
@@ -249,9 +249,13 @@ Rosenberg, J. M. (2018). *Understanding work with data in summer STEM programs: 
 
 ## Fellowships and Awards
 
-2019, Open Publishing Support Fund, University of Tennessee Libraries and Office of Research and Engagement, University of Tennessee, Knoxville
+2019, Open Publishing Support Fund, University of Tennessee, Knoxville
 
-2018, Foreign Travel Award, Office of Research and Engagement, University of Tennessee, Knoxville (UTK) 
+2019, Finalist, Association for Science Teacher Education John C. Park National Technology Leadership Institute Fellowship
+
+2018, Foreign Travel Award, Office of Research and Engagement ($500), UTK 
+
+2017, Council of Graduate Students Disciplinary Leadership Award ($2,000), Michigan State University (MSU)
 
 2017, Delia Koo Global Travel Fellowship, Michigan State University (MSU)
 
@@ -263,19 +267,15 @@ Rosenberg, J. M. (2018). *Understanding work with data in summer STEM programs: 
 
 2016, College of Education Alumni Fellowship ($5,500), MSU
 
-2015, Cotterman Family Endowment for Education Summer Research Fellowship ($6,000), MSU
-
-2013, Massive Open Online Course Research and Development Fellowship ($1,000), MSU
-
-## Awards
-
-2019, Finalist, Association for Science Teacher Education John C. Park National Technology Leadership Institute Fellowship
-
-2017, Council of Graduate Students Disciplinary Leadership Award, Michigan State University
-
 2016, Best Paper Award, TPACK SIG, SITE International Conference
 
+2015, Cotterman Family Endowment for Education Summer Research Fellowship ($6,000), MSU
+
 2014, Outstanding Paper Award, Society for Information Technology and Teacher Education International Conference
+
+2013, Massive Open Online Course Research and Development Fellowship, MSU ($1,000)
+
+2010-2011, National Science Teachers Association-Amgen Fellow
 
 ## Presentations 
 
@@ -485,24 +485,6 @@ Research Assistant, STEM Interest and Engagement, Jennifer Schmidt (PI), 2016-20
 
 Research Assistant, Supporting scientific practices in elementary and middle school classrooms, Christina Schwarz (MSU PI), 2013-2017
 
-## Software Developed
-
-### R packages on Comprehensive R Archive Network (CRAN)
-
-tidyLPA: Easily carry out Latent Profile Analysis (LPA) using open-source and commercial software (w/ J. Schmidt, P. Beymer, D. J. Anderson, and C. J. van Lissa). [https://cran.r-project.org/web/packages/tidyLPA/index.html](https://cran.r-project.org/web/packages/tidyLPA/index.html) <a href = "https://github.com/jrosen48/tidyLPA"><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
-
-KonFound-It! R package: Rosenberg, J. M., Xu, R., & Frank, K. A. (2018). Konfound-It!: Quantify the robustness of causal inferences (R package). https://jrosen48.github.io/konfound/
-
-prcr: Person-centered analysis (w/ J. Schmidt, P. Beymer, & R. Steingut). CRAN: [https://cran.r-project.org/web/packages/prcr/index.html](https://cran.r-project.org/web/packages/prcr/index.html) <a href = "https://github.com/jrosen48/prcr"><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
-
-clustRcompaR: Easy interface for clustering a set of documents and exploring group-based patterns (w/ A. Lishinski). CRAN: [https://cran.r-project.org/web/packages/clustRcompaR/index.html](https://cran.r-project.org/web/packages/clustRcompaR/index.html) <a href = "https://github.com/alishinski/clustRcompaR"><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
-
-### Interactive Web Applications
-
-KonFound-It! web application: Rosenberg, J. M., Xu, R., & Frank, K. A. (2018). Konfound-It!: Quantify the robustness of causal inferences (Web application software). http://konfound-it.com.
-
-State Educational Twitter Hashtags (SETHs): [https://jmichaelrosenberg.shinyapps.io/SETHs](https://jmichaelrosenberg.shinyapps.io/SETHs/)
-
 ## Teaching
 
 ### Teaching Awards
@@ -517,7 +499,7 @@ MSU-AT&T Instructional Technology Award (Honorable Mention): Best Online Course,
 
 Instructor at the University of Tennessee, Knoxville
 
-*Nature of Mathematics and Science Education* (SCED 572,  M.A. and Ph.D. class)
+*Nature of Mathematics and Science Education* (SCED 572,  M.A. and Ph.D. class)  
 *Teaching Science in Grades 7-12* (TPTE 495, SCED 496, & SCED 543,  B.S. & M.A. class)
 
 Instructor at Michigan State University:
@@ -677,6 +659,24 @@ Rosenberg, J. M., Rapa, L., & Wolf, L. G. (2013, February). CEP 815 and the tran
 
 \hangindent=2em
 Rosenberg, J. M. (2012, November). Mobile learning for teachers. Presentation at the Michigan State University Educational Technology Conference, East Lansing, MI. 
+
+## Software Developed
+
+### R packages on Comprehensive R Archive Network (CRAN)
+
+tidyLPA: Easily carry out Latent Profile Analysis (LPA) using open-source and commercial software (w/ J. Schmidt, P. Beymer, D. J. Anderson, and C. J. van Lissa). [https://cran.r-project.org/web/packages/tidyLPA/index.html](https://cran.r-project.org/web/packages/tidyLPA/index.html) <a href = "https://github.com/jrosen48/tidyLPA"><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
+
+KonFound-It! R package: Rosenberg, J. M., Xu, R., & Frank, K. A. (2018). Konfound-It!: Quantify the robustness of causal inferences (R package). https://jrosen48.github.io/konfound/
+
+prcr: Person-centered analysis (w/ J. Schmidt, P. Beymer, & R. Steingut). CRAN: [https://cran.r-project.org/web/packages/prcr/index.html](https://cran.r-project.org/web/packages/prcr/index.html) <a href = "https://github.com/jrosen48/prcr"><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
+
+clustRcompaR: Easy interface for clustering a set of documents and exploring group-based patterns (w/ A. Lishinski). CRAN: [https://cran.r-project.org/web/packages/clustRcompaR/index.html](https://cran.r-project.org/web/packages/clustRcompaR/index.html) <a href = "https://github.com/alishinski/clustRcompaR"><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
+
+### Interactive Web Applications
+
+KonFound-It! web application: Rosenberg, J. M., Xu, R., & Frank, K. A. (2018). Konfound-It!: Quantify the robustness of causal inferences (Web application software). http://konfound-it.com.
+
+State Educational Twitter Hashtags (SETHs): [https://jmichaelrosenberg.shinyapps.io/SETHs](https://jmichaelrosenberg.shinyapps.io/SETHs/)
 
 ## Consulting
 

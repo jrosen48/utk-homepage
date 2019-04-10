@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.1.30)  9 APR 2019 12:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.1.30)  10 APR 2019 15:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -660,22 +660,22 @@ t/$[]
  []
 
 [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1265.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1264.
 [16]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1265.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1264.
 (./rosenberg-cv.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1265.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1265.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1264.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1264.
 
 Package rerunfilecheck Info: File `rosenberg-cv.out' has not changed.
-(rerunfilecheck)             Checksum: 400D0551D925CE6D3F506B89E488A9C3;6253.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1265.
+(rerunfilecheck)             Checksum: 6F3BE3834BC5F371E1B99779EF026313;6177.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1264.
  ) 
 Here is how much of TeX's memory you used:
- 11857 strings out of 494587
- 174829 string characters out of 6176888
- 276933 words of memory out of 5000000
- 15150 multiletter control sequences out of 15000+600000
+ 11854 strings out of 494587
+ 174797 string characters out of 6176888
+ 276903 words of memory out of 5000000
+ 15148 multiletter control sequences out of 15000+600000
  43663 words of font info for 112 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  32i,5n,38p,393b,345s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -685,10 +685,10 @@ s/jrosenb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></Users/
 jrosenb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/jro
 senb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.pfb></Users/jrosen
 b8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb>
-Output written on rosenberg-cv.pdf (16 pages, 199383 bytes).
+Output written on rosenberg-cv.pdf (16 pages, 199450 bytes).
 PDF statistics:
- 316 PDF objects out of 1000 (max. 8388607)
- 290 compressed objects within 3 object streams
- 55 named destinations out of 1000 (max. 500000)
- 8497 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 311 PDF objects out of 1000 (max. 8388607)
+ 285 compressed objects within 3 object streams
+ 54 named destinations out of 1000 (max. 500000)
+ 8489 words of extra memory for PDF output out of 10000 (max. 10000000)
 
