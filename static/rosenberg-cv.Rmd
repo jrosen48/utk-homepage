@@ -519,11 +519,13 @@ Teaching Assistant at Michigan State University:
 
 ### Editorial Service
 
-Special Issue Editor, Australasian Journal of Educational Technology, 2017
+Editorial Review Board Member, *Journal of Research in Science Teaching*, 2019-2022
 
-Editorial Review Board Member, Journal of Research on Technology in Education, 2016 - Present
+Editorial Review Board Member, *Contemporary Issues in Technology and Teacher Education (Science Education Section)*, 2019 - Present
 
-Editorial Review Board Member, Science Education Section, Contemporary Issues in Technology and Teacher Education, 2019 - Present
+Editorial Review Board Member, *Journal of Research on Technology in Education*, 2016 - Present
+
+Special Issue Editor, *Australasian Journal of Educational Technology*, 2017
 
 ### Service to the Profession
 
