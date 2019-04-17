@@ -155,13 +155,15 @@ Ranellucci, J., Rosenberg, J. M., & Poitras, E. (accepted registered report). Ex
 
 Blondel, D. V., Sansone, A., Rosenberg, J. M., Yang, B. W., Linennbrink-Garcia, L., Schwarz-Bloom, R. D. (revise and resubmit). Development of an online experiment platform (Rex) for high school biology.
 
+Beymer, P. N., Rosenberg, J. M., & Schmidt, J. A. (revise and resubmit). Investigating the effects of interest and choice in education: An experience sampling approach in high school science classes.
+
 Rosenberg, J. M., Schmidt, J. A., & Koehler, M. J. (under review). How youth experience work with data in summer STEM programs: Findings from an experience sampling approach. <a href = "https://osf.io/65ckh/"><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> 
 
 Krist, S., & Rosenberg, J. M. (under review). Incremental refinement in learners’ epistemic considerations of generality in science over three years: A computational grounded theory analysis.
 
-Beymer, P. N., Rosenberg, J. M., & Schmidt, J. A. (under review). Investigating the effects of interest and choice in education: An experience sampling approach in high school science classes.
+Carpenter, J., Rosenberg, J. M., Dousay, T., Romero-Hall, E., Trust, T., Kessler, A., Phillips, M., Fischer, C., Morrison, S., & Krutka, D. (under review). Understanding teacher educator technology competencies: findings and perspectives from a cross-disciplinary sample.
 
-Carpenter, J., Rosenberg, J. M., (under review). Understanding teacher educator technology competencies: findings and perspectives from a cross-disciplinary sample.
+"Dousay, Tonia (tonia@uidaho.edu)" <tonia@uidaho.edu>, Enilda Romero-Hall <eromerohall@ut.edu>, Torrey Trust <torrey@umass.edu>, Aaron Kessler <kesslera@mit.edu>, "Michael Phillips (Education)" <michael.phillips@monash.edu>, Scott Morrison <smorrison7@elon.edu>, Dan Krutka <dankrutka@gmail.com>,
 
 ### Working papers
 
