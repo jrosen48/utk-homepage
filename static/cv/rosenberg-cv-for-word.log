@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.1.30)  10 APR 2019 16:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.1.30)  18 APR 2019 10:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -649,16 +649,16 @@ er-[]achievement/$[]
  []
 
 [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1233.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1236.
 [15]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1233.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1236.
 (./rosenberg-cv-for-word.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1233.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1233.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1236.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1236.
 
 Package rerunfilecheck Info: File `rosenberg-cv-for-word.out' has not changed.
 (rerunfilecheck)             Checksum: 6F3BE3834BC5F371E1B99779EF026313;6177.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1233.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1236.
  ) 
 Here is how much of TeX's memory you used:
  11861 strings out of 494587
@@ -674,7 +674,7 @@ s/jrosenb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></Users/
 jrosenb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/jro
 senb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.pfb></Users/jrosen
 b8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb>
-Output written on rosenberg-cv-for-word.pdf (15 pages, 198414 bytes).
+Output written on rosenberg-cv-for-word.pdf (15 pages, 198473 bytes).
 PDF statistics:
  306 PDF objects out of 1000 (max. 8388607)
  281 compressed objects within 3 object streams
