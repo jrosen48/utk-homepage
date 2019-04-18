@@ -31,14 +31,18 @@ math = true
     url = "/teaching/"
     weight = 4
 [[menu.main]]
+    name = "Code"
+    url = "/code/"
+    weight = 5
+[[menu.main]]
     name = "Categories"
     url = "/categories/"
-    weight = 5
+    weight = 6
 [[menu.main]]
     name = "Tags"
     url = "/tags/"
-    weight = 6
+    weight = 7
 
 [params]
     description = "Joshua M. Rosenberg's Homepage"
-    footer = "&copy; [Joshua M. Rosenberg](https://joshuamrosenberg.com) 2015 -- 2019 | [Google Scholar](https://scholar.google.com/citations?user=nxVowRQAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Joshua_Rosenberg2) | [GitHub](https://github.com/jrosen48) | [Twitter](https://twitter.com/jrosenberg6432) | [ORCID](0000-0003-2170-0447)"
+    footer = "&copy; [Joshua M. Rosenberg](https://joshuamrosenberg.com) 2015 -- 2019 | [Google Scholar](https://scholar.google.com/citations?user=nxVowRQAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Joshua_Rosenberg2) | [GitHub](https://github.com/jrosen48) | [Twitter](https://twitter.com/jrosenberg6432) | [ORCID](http://orcid.org/0000-0003-2170-0447) | [OSF](https://osf.io/xzqbc/)"

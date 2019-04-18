@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Software
-permalink: /software/
+title: Code and Software
+permalink: /code/
 ---
 
-# Software 
+# Code and Software
 
 ### R packages on Comprehensive R Archive Network (CRAN)
 
