@@ -29,12 +29,6 @@ Because of Enrique Suárez's live-tweeting of National Association for Research 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Very excited to see <a href="https://twitter.com/educatordeb?ref_src=twsrc%5Etfw">@educatordeb</a> present on this work here at <a href="https://twitter.com/hashtag/NSTA19?src=hash&amp;ref_src=twsrc%5Etfw">#NSTA19</a>. I&#39;m going to be live-tweeting the session. If you&#39;re still looking for a place to go, this is it! (Although good luck finding a seat coz it&#39;s packed!!!) <a href="https://twitter.com/hashtag/NGSSchat?src=hash&amp;ref_src=twsrc%5Etfw">#NGSSchat</a> <a href="https://twitter.com/hashtag/EduColor?src=hash&amp;ref_src=twsrc%5Etfw">#EduColor</a> <a href="https://twitter.com/hashtag/broadenaccess?src=hash&amp;ref_src=twsrc%5Etfw">#broadenaccess</a> <a href="https://t.co/py6wym8WL0">pic.twitter.com/py6wym8WL0</a></p>&mdash; Enrique Suárez 🇻🇪 (@SciEdHenry) <a href="https://twitter.com/SciEdHenry/status/1116823845296590848?ref_src=twsrc%5Etfw">April 12, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-
-Bdong Chen shared a series of reports on the Learning Analytics and Knowledge conference that also made me feel like I was right there - and made me want to attend in the future.
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/LAK19?src=hash&amp;ref_src=twsrc%5Etfw">#LAK19</a> Conference Report [Part 2]: Main Conference <a href="https://t.co/hi2cijKYWD">https://t.co/hi2cijKYWD</a> <a href="https://twitter.com/hashtag/LearningAnalytics?src=hash&amp;ref_src=twsrc%5Etfw">#LearningAnalytics</a> <a href="https://t.co/198CQqkv8m">pic.twitter.com/198CQqkv8m</a></p>&mdash; Bodong Chen (@bod0ng) <a href="https://twitter.com/bod0ng/status/1105103340327833600?ref_src=twsrc%5Etfw">March 11, 2019</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 ### Sharing One's Own Conference Presentations
 
 Again, helping with my FOMO, Phillip Bell and colleagues (including Enrique Suárez, again, and other collaborators) shared slides and resources associated with National Science Teachers Association workshops and presentations.
@@ -45,6 +39,23 @@ Again, helping with my FOMO, Phillip Bell and colleagues (including Enrique Suá
 Sharing a picture of a poster can be helpful to others interested in the topic (see Mark Warschauer's response to Emily, and Emily's response to Mark with a link to the file on Google Drive!).
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I shared my <a href="https://twitter.com/hashtag/dissertation?src=hash&amp;ref_src=twsrc%5Etfw">#dissertation</a> findings at <a href="https://twitter.com/hashtag/AERA19?src=hash&amp;ref_src=twsrc%5Etfw">#AERA19</a> yesterday and it was so much fun! Soon I will defend this project and be a <a href="https://twitter.com/hashtag/phd?src=hash&amp;ref_src=twsrc%5Etfw">#phd</a> ! <a href="https://twitter.com/hashtag/msuEPET?src=hash&amp;ref_src=twsrc%5Etfw">#msuEPET</a> <a href="https://twitter.com/hashtag/AcademicTwitter?src=hash&amp;ref_src=twsrc%5Etfw">#AcademicTwitter</a> <a href="https://twitter.com/hashtag/PhDChat?src=hash&amp;ref_src=twsrc%5Etfw">#PhDChat</a> <a href="https://t.co/LX6VpJbWa1">pic.twitter.com/LX6VpJbWa1</a></p>&mdash; Emily Bovee (@ebovee09) <a href="https://twitter.com/ebovee09/status/1115672314211913728?ref_src=twsrc%5Etfw">April 9, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### Recapping a Conference
+
+I mention this every chance: Leigh Graves Wolf sparked my interest in sharing one's work publicly during my graduate program. Leigh remains an inspiration to me and a leader in open education research.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">[New Blog Post] Returning from <a href="https://twitter.com/hashtag/OER19?src=hash&amp;ref_src=twsrc%5Etfw">#OER19</a>: Quilting together a short story on the power of being open <a href="https://t.co/bAGjDQgmGJ">https://t.co/bAGjDQgmGJ</a> (h/t to <a href="https://twitter.com/tech4teachers19?ref_src=twsrc%5Etfw">@tech4teachers19</a> &amp; <a href="https://twitter.com/lbrechthermanns?ref_src=twsrc%5Etfw">@lbrechthermanns</a> for helping me tell a story.)</p>&mdash; Dr. Leigh Graves Wolf (@gravesle) <a href="https://twitter.com/gravesle/status/1116727181906993152?ref_src=twsrc%5Etfw">April 12, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Bodong Chen shared a series of reports on the Learning Analytics and Knowledge conference that also made me feel like I was right there - and made me want to attend in the future.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/LAK19?src=hash&amp;ref_src=twsrc%5Etfw">#LAK19</a> Conference Report [Part 2]: Main Conference <a href="https://t.co/hi2cijKYWD">https://t.co/hi2cijKYWD</a> <a href="https://twitter.com/hashtag/LearningAnalytics?src=hash&amp;ref_src=twsrc%5Etfw">#LearningAnalytics</a> <a href="https://t.co/198CQqkv8m">pic.twitter.com/198CQqkv8m</a></p>&mdash; Bodong Chen (@bod0ng) <a href="https://twitter.com/bod0ng/status/1105103340327833600?ref_src=twsrc%5Etfw">March 11, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Spencer reflected on his presentation at a new conference in a way that, I think, lent insight into the confernece - and the experience of attending a new conference for the first time (and the anxiety that can be associated with doing so).
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Recently, I had the chance to present some work w/ <a href="https://twitter.com/matthewkoehler?ref_src=twsrc%5Etfw">@matthewkoehler</a> and <a href="https://twitter.com/bretsw?ref_src=twsrc%5Etfw">@bretsw</a> on int’l participation in the <a href="https://twitter.com/hashtag/ldsconf?src=hash&amp;ref_src=twsrc%5Etfw">#ldsconf</a> hashtag (associated with <a href="https://twitter.com/LDSchurch?ref_src=twsrc%5Etfw">@LDSchurch</a>’s General Conference) at the Decentered Mormonism in Bordeaux, France. Wrote about presentation here: <a href="https://t.co/9WhzbklM3M">https://t.co/9WhzbklM3M</a></p>&mdash; Spencer Greenhalgh (@spgreenhalgh) <a href="https://twitter.com/spgreenhalgh/status/1118537457576886272?ref_src=twsrc%5Etfw">April 17, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Sharing Lessons and Activities
