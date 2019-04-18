@@ -17,7 +17,7 @@ As a quick caveat, these are just a few examples I've come across and (partially
 
 ### Blogging
 
-As someone not in but adjacent to computer science education, Katie Rich's blog posts are my best source of the most recent developments in the field. 
+As someone not in but adjacent to computer science education, Katie Rich's blog posts are my best source for the most recent developments in the field. 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Here&#39;s a blog post about the <a href="https://twitter.com/hashtag/AERA19?src=hash&amp;ref_src=twsrc%5Etfw">#AERA19</a> paper I presented with <a href="https://twitter.com/megbates_stemed?ref_src=twsrc%5Etfw">@megbates_stemed</a>, with links to the paper and slides. Short story: Time tracking may be a way to promote the speed component of fact fluency without any detrimental effects on accuracy. <a href="https://twitter.com/hashtag/MSUepet?src=hash&amp;ref_src=twsrc%5Etfw">#MSUepet</a> <a href="https://t.co/FPIKPQVFg0">https://t.co/FPIKPQVFg0</a></p>&mdash; Katie Rich (@KatietheCurious) <a href="https://twitter.com/KatietheCurious/status/1115990827598319616?ref_src=twsrc%5Etfw">April 10, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
