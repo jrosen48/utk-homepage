@@ -13,7 +13,7 @@ Lately, I've noticed some examples of what I think are good open education resea
 
 Though I think of these as good examples and models for the rest of us to follow, I think some of them are not always appreciated as such. This matters because open education research can then seem like something that is not relevant or too onerous. But, perhaps individual, small steps are even more important than making one big one.
 
-As a quick caveat, these are just a few examples I've come across and (partially selfishly!) want to record so I can return to them later, and others might have different, important examples that I have missed. As another caveat, some of these aren't so little, but rather are simply good examples of open education research; I'm thinking about them in this context of good examples that are practical here and now.
+As a quick caveat, these are just a few examples I've come across and (partially selfishly!) want to record so I can return to them later, and others might have different, important examples that I have missed. As another caveat, some of these aren't so little, but rather are simply good examples of open education research; I'm thinking about them in this context as good examples that are practical here and now.
 
 ### Blogging
 
