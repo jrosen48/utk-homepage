@@ -160,6 +160,9 @@ Rosenberg, J. M., & Ranellucci, J. (2017). Student motivation in online science 
 ### Conference Proceedings Papers
 
 \hangindent=2em
+Carpenter, J., Rosenberg, J. M., Dousay, T., Romero-Hall, E., Trust, T., Kessler, A., Phillips, M., Morrison, S., Fischer, C. & Krutka, D. (2019). What do Teacher Educators think of Teacher Education Technology Competencies?. In K. Graziano (Ed.), Proceedings of Society for Information Technology & Teacher Education International Conference (pp. 796-801). Las Vegas, NV, United States: Association for the Advancement of Computing in Education (AACE). Retrieved April 18, 2019 from https://www.learntechlib.org/primary/p/207735/.
+
+\hangindent=2em
 Peterson, A., Freer, D., & Rosenberg, J. M. (2017). Interacting with purpose: What is the difference between face-to-face and online student relationships in a combined program? In Proceedings of Society for Information Technology & Teacher Education International Conference 2016 (pp. 3411-3414). Austin, TX: Association for the Advancement of Computing in Education. Retrieved from https://www.learntechlib.org/p/177955/
 
 \hangindent=2em
@@ -239,9 +242,9 @@ Rosenberg, J. M. (2018). *Understanding work with data in summer STEM programs: 
 
 ## Grants
 
-2017-2020, Consultant and Significant Contributor (Method), Profiles of science engagement: Broadening participation by understanding individual and contextual influences ($499,927). National Science Foundation (PI: Jennifer Schmidt).
+2017-2020, Consultant and Significant Contributor (Method), Profiles of science engagement: Broadening participation by understanding individual and contextual influences ($499,927). National Science Foundation (PI: Jennifer Schmidt)
 
-2019-2020, PI, Planting the seeds for computer science education in East Tennessee through a research-practice partnership. ($13,200). Community Engaged Research Seed Program, University of Tennessee, Knoxville.
+2019-2020, PI, Planting the seeds for computer science education in East Tennessee through a research-practice partnership. ($13,200). Community Engaged Research Seed Program, University of Tennessee, Knoxville
 
 2018-2019, Co-PI, Exploring how beginning elementary mathematics teachers seek out resources through social media ($8,820), Herman and Rasiej Math Initiative at the University of Southern California (PI: Stephen Aguilar)
 
@@ -291,13 +294,10 @@ Beymer, P. N., Schell, M. J., Alberts, K. M., Rosenberg, J. M., & Schmidt, J. A.
 Schell, M. J., Beymer, P. N. Albert, K. M., Rosenberg, J. M., & Schmidt, J. A. (2019, April). *Predictors of momentary student engagement profiles in high school science classrooms*. Paper presented at the Annual Meeting of the American Educational Research Association, Toronto, Canada.
 
 \hangindent=2em
-Reid, J., Rosenberg, J. M., Koehler, M. J., Fischer, C., & McKenna, T. J. (2019, March). *An exploration of #NGSSchat through social network analysis*. Paper to be presented at the National Association for Research in Science Teaching Annual International Conference, Baltimore, MD.
+Reid, J., Rosenberg, J. M., Koehler, M. J., Fischer, C., & McKenna, T. J. (2019, March). *An exploration of #NGSSchat through social network analysis*. Paper presented at the National Association for Research in Science Teaching Annual International Conference, Baltimore, MD.
 
 \hangindent=2em
-Carpenter, J., Rosenberg, J. M., Dousay, T., Romero-Hall, E., Trust, T., Kessler, A., ... & Krutka, D. (2019, March). *What do teacher educators think of teacher education technology competencies?* Paper to be presented at the Society for Information Technology and Teacher Education International Conference, Las Vegas, NV.
-
-\hangindent=2em
-Rosenberg, J. M., Reid, J., Koehler, M. J., Fischer, C., & McKenna, T. J. (2019, January). *The roles of the Twitter hashtag #NGSSchat in the context of science education reform efforts*. Paper to be presented at the Association for Science Teacher Education International Meeting, Savannah, GA. (*Nb. This paper was nominated for the ASTE John C. Park National Technology Leadership Institute Fellowship*)
+Rosenberg, J. M., Reid, J., Koehler, M. J., Fischer, C., & McKenna, T. J. (2019, January). *The roles of the Twitter hashtag #NGSSchat in the context of science education reform efforts*. Paper presented at the Association for Science Teacher Education International Meeting, Savannah, GA. (*Nb. This paper was nominated for the ASTE John C. Park National Technology Leadership Institute Fellowship*)
 
 \hangindent=2em
 Akcaoglu, M., Hodges, C. B., Rosenberg, J. M., & Hilpert, J. (2018, October). *Factors impacting middle school students' interest, efficacy, and utility value of programming*. Paper presented at the Association for Educational Communications and Technology International Convention 2018. Kansas City, MO.
