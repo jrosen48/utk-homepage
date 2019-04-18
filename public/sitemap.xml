@@ -380,6 +380,10 @@
   </url>
   
   <url>
+    <loc>/software/</loc>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
     <lastmod>2015-11-06T15:27:57+00:00</lastmod>
     <priority>0</priority>
