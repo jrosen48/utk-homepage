@@ -78,5 +78,3 @@ In addition to sharing information related to data analyses, many decisions are 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Data visualizations about 4th grade preferences: drinks and favorite way to spend free time. Thoughts from session 6: Additive and multiplicative reasoning; size, shape, and symbol considerations. <a href="https://twitter.com/utkceems?ref_src=twsrc%5Etfw">@utkceems</a> <a href="https://t.co/ipd7E7DGYb">pic.twitter.com/ipd7E7DGYb</a></p>&mdash; Lynn Liao Hodge (@LynnLHodge) <a href="https://twitter.com/LynnLHodge/status/1104040453593288709?ref_src=twsrc%5Etfw">March 8, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-There are certainly many other (great) examples that I didn't include and that I'd like to 
