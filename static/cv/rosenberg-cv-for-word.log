@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.1.30)  18 APR 2019 12:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.1.30)  18 APR 2019 12:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -641,7 +641,7 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 
 {/Users/jrosenb8/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 [2]
-Overfull \hbox (246.39156pt too wide) in paragraph at lines 246--251
+Overfull \hbox (246.39156pt too wide) in paragraph at lines 309--314
 \T1/lmr/m/it/10 (-20) Pol-icy, In-no-va-tion & Net-works\T1/lmr/m/n/10 (-20) . 
 []$https : / / mvlri . org / blog / student-[]motivation-[]in-[]online-[]scienc
 e-[]courses-[]a-[]path-[]to-[]spending-[]more-[]time-[]on-[]course-[]and-[]high
@@ -657,13 +657,13 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1239.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1239.
 
 Package rerunfilecheck Info: File `rosenberg-cv-for-word.out' has not changed.
-(rerunfilecheck)             Checksum: 400D0551D925CE6D3F506B89E488A9C3;6253.
+(rerunfilecheck)             Checksum: 9B540EC5DCB24327AED84B4FA693455A;6253.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1239.
  ) 
 Here is how much of TeX's memory you used:
  11864 strings out of 494587
  175029 string characters out of 6176888
- 276978 words of memory out of 5000000
+ 277978 words of memory out of 5000000
  15150 multiletter control sequences out of 15000+600000
  44136 words of font info for 116 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -674,7 +674,7 @@ s/jrosenb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></Users/
 jrosenb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/jro
 senb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.pfb></Users/jrosen
 b8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb>
-Output written on rosenberg-cv-for-word.pdf (15 pages, 198901 bytes).
+Output written on rosenberg-cv-for-word.pdf (15 pages, 199013 bytes).
 PDF statistics:
  310 PDF objects out of 1000 (max. 8388607)
  285 compressed objects within 3 object streams

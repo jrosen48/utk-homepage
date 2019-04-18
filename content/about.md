@@ -371,19 +371,17 @@ Research Assistant, Supporting scientific practices in elementary and middle sch
 
 ### R packages on Comprehensive R Archive Network (CRAN)
 
-tidyLPA: Easily carry out Latent Profile Analysis (LPA) using open-source and commercial software (w/ J. Schmidt, P. Beymer, D. J. Anderson, and C. J. van Lissa). [https://cran.r-project.org/web/packages/tidyLPA/index.html](https://cran.r-project.org/web/packages/tidyLPA/index.html) <a href = "https://github.com/jrosen48/tidyLPA"><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
+Rosenberg, J. M., van Lissa, C. J., Beymer, P. N., Anderson, D. J., Schell, M. J. & Schmidt, J. A. (2019). tidyLPA: Easily carry out Latent Profile Analysis (LPA) using open-source or commercial software [R package]. https://data-edu.github.io/tidyLPA/
 
-KonFound-It! R package: Rosenberg, J. M., Xu, R., & Frank, K. A. (2018). Konfound-It!: Quantify the robustness of causal inferences (R package). https://jrosen48.github.io/konfound/
+KonFound-It! R package: Rosenberg, J. M., Xu, R., & Frank, K. A. (2019). konfound: Quantify the robustness of causal inferences [R package]. https://jrosen48.github.io/konfound/
 
-prcr: Person-centered analysis (w/ J. Schmidt, P. Beymer, & R. Steingut). CRAN: [https://cran.r-project.org/web/packages/prcr/index.html](https://cran.r-project.org/web/packages/prcr/index.html) <a href = "https://github.com/jrosen48/prcr"><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
-
-clustRcompaR: Easy interface for clustering a set of documents and exploring group-based patterns (w/ A. Lishinski). CRAN: [https://cran.r-project.org/web/packages/clustRcompaR/index.html](https://cran.r-project.org/web/packages/clustRcompaR/index.html) <a href = "https://github.com/alishinski/clustRcompaR"><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
+Rosenberg, J. M., Schmidt, J. A., Beymer, P. N., & Steingut, R. (2018). prcr: Person-Centered Analysis [R package]. https://CRAN.R-project.org/package=prcr
+  
+Rosenberg, J. M., & Lishinski, A. (2018). clustRcompaR: Easy interface for clustering a set of documents and exploring group-based patterns [R package]. https://github.com/alishinski/clustRcompaR
 
 ### Interactive Web Applications
 
-KonFound-It! web application: Rosenberg, J. M., Xu, R., & Frank, K. A. (2018). Konfound-It!: Quantify the robustness of causal inferences (Web application software). http://konfound-it.com.
-
-State Educational Twitter Hashtags (SETHs): [https://jmichaelrosenberg.shinyapps.io/SETHs](https://jmichaelrosenberg.shinyapps.io/SETHs/)
+Rosenberg, J. M., Xu, R., & Frank, K. A. (2018). Konfound-It!: Quantify the Robustness of Causal Inferences. http://konfound-it.com.
 
 ## Teaching
 
