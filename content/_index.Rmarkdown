@@ -4,7 +4,7 @@ title: Home
 
 [<img src="images/rosenberg-headshot-circle.jpg" style="max-width:15%;min-width:40px;float:right;" alt="photo" />](https://joshuamrosenberg.com/)
 
-# Joshua M. Rosenberg
+# Joshua M. Rosenberg, Ph.D.
 
 Welcome! I am an Assistant Professor of STEM Education at the [University of Tennessee, Knoxville](http://utk.edu/). If you're looking to get in touch by email, please contact me at jmrosenberg [at] UTK [dot] edu. My University of Tennessee homepage is [here](https://tpte.utk.edu/people/joshua-rosenberg-phd/).
 
