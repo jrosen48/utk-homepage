@@ -99,7 +99,7 @@ In a side-project (and because the data source can be used for teaching and lear
       
       <guid>/blog/introducing-tidylpa-an-r-package-for-carrying-out-latent-profile-analysis/</guid>
       <description>I’m excited to introduce tidyLPA, an R package for carrying out Latent Profile Analysis (LPA). This is the result of a collaborative project with Jennifer Schmidt, Patrick Beymer, and Rebecca Steingut, and is the result of a long period of learning about cluster analysis (see here) and, recently, model-based cluster analysis. Here, I introduce and describe LPA as a particular type of model-based cluster analysis.
-Background Latent Profile Analysis (LPA) is a statistical modeling approach for estimating distinct profiles, or groups, of variables.</description>
+Note: This post has been updated to reflect the latest version of tidyLPA</description>
     </item>
     
     <item>
