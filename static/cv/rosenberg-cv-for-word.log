@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.2.16)  21 APR 2019 20:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.2.16)  23 APR 2019 19:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -655,40 +655,40 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
 {/Users/joshuarosenberg/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdfte
-x.map}] [2]
-Overfull \hbox (262.7334pt too wide) in paragraph at lines 309--314
+x.map}] [2] [3]
+Overfull \hbox (262.7334pt too wide) in paragraph at lines 314--319
 \T1/lmr/m/it/10 Pol-icy, In-no-va-tion & Net-works\T1/lmr/m/n/10 . []$https : /
  / mvlri . org / blog / student-[]motivation-[]in-[]online-[]science-[]courses-
 []a-[]path-[]to-[]spending-[]more-[]time-[]on-[]course-[]and-[]higher-[]achieve
 ment/$[] 
  []
 
-[3] [4] [5] [6] [7] [8] [9] [10] [11]
-Overfull \hbox (188.49715pt too wide) in paragraph at lines 965--965
+[4] [5] [6] [7] [8] [9] [10] [11]
+Overfull \hbox (188.49715pt too wide) in paragraph at lines 970--970
 [][]\T1/lmr/bx/n/14.4 State Ed-u-ca-tional Twit-ter Hash-tags (SETHs): []https:
 //jmichaelrosenberg.shinyapps.io/SETHs[] 
  []
 
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 985.
+(hyperref)                than one, level fixed on input line 990.
 
 [12] [13] [14] [15]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1268.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1273.
 [16]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1268.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1273.
 (./rosenberg-cv-for-word.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1268.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1268.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1273.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1273.
 
 Package rerunfilecheck Info: File `rosenberg-cv-for-word.out' has not changed.
 (rerunfilecheck)             Checksum: 3DEF5E7EB0BE7A7DDED5ADA4DA47F7C5;7007.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1268.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1273.
  ) 
 Here is how much of TeX's memory you used:
  10216 strings out of 494562
  145982 string characters out of 6176071
- 215383 words of memory out of 5000000
+ 216383 words of memory out of 5000000
  13705 multiletter control sequences out of 15000+600000
  41915 words of font info for 39 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -700,7 +700,7 @@ m/lmbx12.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/pub
 lic/lm/lmr10.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1
 /public/lm/lmr17.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/t
 ype1/public/lm/lmri10.pfb>
-Output written on rosenberg-cv-for-word.pdf (16 pages, 197529 bytes).
+Output written on rosenberg-cv-for-word.pdf (16 pages, 197814 bytes).
 PDF statistics:
  334 PDF objects out of 1000 (max. 8388607)
  307 compressed objects within 4 object streams
