@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.1.30)  23 APR 2019 10:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.1.30)  29 APR 2019 10:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -640,44 +640,54 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 ) [1
 
 {/Users/jrosenb8/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-[2]
-Overfull \hbox (246.39156pt too wide) in paragraph at lines 309--314
+[2] [3]
+Overfull \hbox (246.39156pt too wide) in paragraph at lines 314--319
 \T1/lmr/m/it/10 (-20) Pol-icy, In-no-va-tion & Net-works\T1/lmr/m/n/10 (-20) . 
 []$https : / / mvlri . org / blog / student-[]motivation-[]in-[]online-[]scienc
 e-[]courses-[]a-[]path-[]to-[]spending-[]more-[]time-[]on-[]course-[]and-[]high
 er-[]achievement/$[] 
  []
 
-[3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1238.
-[15]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1238.
+[4] [5] [6] [7] [8] [9] [10] [11]
+Overfull \hbox (188.49715pt too wide) in paragraph at lines 970--970
+[][]\T1/lmr/bx/n/14.4 State Ed-u-ca-tional Twit-ter Hash-tags (SETHs): []https:
+//jmichaelrosenberg.shinyapps.io/SETHs[] 
+ []
+
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 990.
+
+[12] [13] [14] [15]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1276.
+[16]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1276.
 (./rosenberg-cv-for-word.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1238.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1238.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1276.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1276.
 
 Package rerunfilecheck Info: File `rosenberg-cv-for-word.out' has not changed.
-(rerunfilecheck)             Checksum: 9B540EC5DCB24327AED84B4FA693455A;6253.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1238.
+(rerunfilecheck)             Checksum: 3DEF5E7EB0BE7A7DDED5ADA4DA47F7C5;7007.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1276.
  ) 
 Here is how much of TeX's memory you used:
- 11864 strings out of 494587
- 175029 string characters out of 6176888
- 277978 words of memory out of 5000000
- 15150 multiletter control sequences out of 15000+600000
- 44136 words of font info for 116 fonts, out of 8000000 for 9000
+ 11875 strings out of 494587
+ 175279 string characters out of 6176888
+ 278290 words of memory out of 5000000
+ 15158 multiletter control sequences out of 15000+600000
+ 50133 words of font info for 118 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 32i,5n,38p,402b,338s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 32i,5n,38p,565b,338s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/Users/jrosenb8/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</Us
 ers/jrosenb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></User
 s/jrosenb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></Users/
 jrosenb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/jro
 senb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.pfb></Users/jrosen
 b8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb>
-Output written on rosenberg-cv-for-word.pdf (15 pages, 198776 bytes).
+Output written on rosenberg-cv-for-word.pdf (16 pages, 202077 bytes).
 PDF statistics:
- 309 PDF objects out of 1000 (max. 8388607)
- 284 compressed objects within 3 object streams
- 54 named destinations out of 1000 (max. 500000)
- 8497 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 331 PDF objects out of 1000 (max. 8388607)
+ 304 compressed objects within 4 object streams
+ 57 named destinations out of 1000 (max. 500000)
+ 8513 words of extra memory for PDF output out of 10000 (max. 10000000)
 

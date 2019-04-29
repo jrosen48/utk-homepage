@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.1.30)  23 APR 2019 10:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.1.30)  29 APR 2019 10:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -641,54 +641,64 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 
 {/Users/jrosenb8/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 [2] [3]
-Underfull \hbox (badness 1292) in paragraph at lines 321--326
+Underfull \hbox (badness 1292) in paragraph at lines 326--331
 []\T1/lmr/m/n/10 (+20) Rosenberg, J. M., & Ranel-lucci, J. (2017). Stu-dent mo-
 ti-va-tion in on-line sci-ence courses: A
  []
 
 
-Underfull \hbox (badness 1596) in paragraph at lines 321--326
+Underfull \hbox (badness 1596) in paragraph at lines 326--331
 \T1/lmr/m/it/10 (+20) Re-search In-sti-tute Blog: Re-search, Pol-icy, In-no-va-
 tion & Net-works\T1/lmr/m/n/10 (+20) . []$https : / / mvlri . org / blog /
  []
 
 
-Overfull \hbox (28.91351pt too wide) in paragraph at lines 321--326
+Overfull \hbox (28.91351pt too wide) in paragraph at lines 326--331
 \T1/lmr/m/n/10 (-20) student-[]motivation-[]in-[]online-[]science-[]courses-[]a
 -[]path-[]to-[]spending-[]more-[]time-[]on-[]course-[]and-[]higher-[]achievemen
 t/$[] 
  []
 
-[4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1269.
+[4] [5] [6] [7] [8] [9] [10] [11]
+Overfull \hbox (188.49715pt too wide) in paragraph at lines 997--997
+[][]\T1/lmr/bx/n/14.4 State Ed-u-ca-tional Twit-ter Hash-tags (SETHs): []https:
+//jmichaelrosenberg.shinyapps.io/SETHs[] 
+ []
+
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 1017.
+
+[12] [13] [14] [15]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1307.
 [16]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1269.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1307.
 (./rosenberg-cv.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1269.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1269.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1307.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1307.
 
 Package rerunfilecheck Info: File `rosenberg-cv.out' has not changed.
-(rerunfilecheck)             Checksum: 9B540EC5DCB24327AED84B4FA693455A;6253.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1269.
+(rerunfilecheck)             Checksum: 3DEF5E7EB0BE7A7DDED5ADA4DA47F7C5;7007.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1307.
  ) 
 Here is how much of TeX's memory you used:
- 11859 strings out of 494587
- 174851 string characters out of 6176888
- 276933 words of memory out of 5000000
- 15150 multiletter control sequences out of 15000+600000
- 43793 words of font info for 113 fonts, out of 8000000 for 9000
+ 11869 strings out of 494587
+ 175094 string characters out of 6176888
+ 277245 words of memory out of 5000000
+ 15158 multiletter control sequences out of 15000+600000
+ 49790 words of font info for 115 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 32i,5n,38p,393b,345s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 32i,5n,38p,556b,345s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/Users/jrosenb8/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</Us
 ers/jrosenb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></User
 s/jrosenb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></Users/
 jrosenb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/jro
 senb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.pfb></Users/jrosen
 b8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb>
-Output written on rosenberg-cv.pdf (16 pages, 199839 bytes).
+Output written on rosenberg-cv.pdf (16 pages, 202684 bytes).
 PDF statistics:
- 315 PDF objects out of 1000 (max. 8388607)
- 289 compressed objects within 3 object streams
- 55 named destinations out of 1000 (max. 500000)
- 8497 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 332 PDF objects out of 1000 (max. 8388607)
+ 305 compressed objects within 4 object streams
+ 57 named destinations out of 1000 (max. 500000)
+ 8513 words of extra memory for PDF output out of 10000 (max. 10000000)
 

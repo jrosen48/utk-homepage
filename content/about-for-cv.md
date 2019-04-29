@@ -32,10 +32,10 @@ Michigan State University
 2012, MA, Education  
 Michigan State University 
 
-2010, BS, Biology  
+2010, Teacher Licensure Program  
 University of North Carolina, Asheville
 
-2010, Teacher Licensure Program  
+2010, BS, Biology  
 University of North Carolina, Asheville
 
 ## Professional Experience
@@ -109,6 +109,8 @@ Rosenberg, J. M., Greenhalgh, S. P., & Koehler, M. J. (2015). A performance asse
 Koehler, M. J., Mishra, P., Akcaoglu, M., & Rosenberg, J. M. (2013). Technological pedagogical content knowledge for teachers and teacher educators. In N. Bharati and S. Mishra (Eds.), *ICT integrated teacher education: A resource book* (pp. 1-8). Commonwealth Educational Media Center for Asia, New Delhi, India.
 
 ### Other Publications
+
+Naftzger, N., Schmidt, J. A., Shumow, L., Beymer, P. N., & Rosenberg, J. M. (2018). *Exploring the link between STEM activity leader practice and youth engagement: Findings from the STEM IE study*. Washington, DC: American Institutes for Research.
 
 Mehta, R., Henriksen, D., & Rosenberg, J. M. (2019). It's not about the tools. *Educational Leadership, 76*(5), 64-69. Retrieved from http://www.ascd.org/publications/educational-leadership/feb19/vol76/num05/It's-Not-About-the-Tools.aspx
 
@@ -371,6 +373,21 @@ Research Assistant, Supporting scientific practices in elementary and middle sch
 
 ### R packages on Comprehensive R Archive Network (CRAN)
 
+<<<<<<< HEAD
+tidyLPA: Easily carry out Latent Profile Analysis (LPA) using open-source and commercial software (w/ J. Schmidt, P. Beymer, D. J. Anderson, and C. J. van Lissa). [https://cran.r-project.org/web/packages/tidyLPA/index.html](https://cran.r-project.org/web/packages/tidyLPA/index.html) <a href = "https://github.com/jrosen48/tidyLPA"><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
+
+KonFound-It! R package: Rosenberg, J. M., Xu, R., & Frank, K. A. (2018). Konfound-It!: Quantify the robustness of causal inferences (R package). https://jrosen48.github.io/konfound/
+
+prcr: Person-centered analysis (w/ J. Schmidt, P. Beymer, & R. Steingut). CRAN: [https://cran.r-project.org/web/packages/prcr/index.html](https://cran.r-project.org/web/packages/prcr/index.html) <a href = "https://github.com/jrosen48/prcr"><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
+
+clustRcompaR: Easy interface for clustering a set of documents and exploring group-based patterns (w/ A. Lishinski). CRAN: [https://cran.r-project.org/web/packages/clustRcompaR/index.html](https://cran.r-project.org/web/packages/clustRcompaR/index.html) <a href = "https://github.com/alishinski/clustRcompaR"><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
+
+### Interactive Web Applications
+
+KonFound-It! web application: Rosenberg, J. M., Xu, R., & Frank, K. A. (2018). Konfound-It!: Quantify the robustness of causal inferences (Web application software). http://konfound-it.com.
+
+State Educational Twitter Hashtags (SETHs): [https://jmichaelrosenberg.shinyapps.io/SETHs](https://jmichaelrosenberg.shinyapps.io/SETHs/)
+=======
 Rosenberg, J. M., van Lissa, C. J., Beymer, P. N., Anderson, D. J., Schell, M. J. & Schmidt, J. A. (2019). tidyLPA: Easily carry out Latent Profile Analysis (LPA) using open-source or commercial software [R package]. https://data-edu.github.io/tidyLPA/
 
 KonFound-It! R package: Rosenberg, J. M., Xu, R., & Frank, K. A. (2019). konfound: Quantify the robustness of causal inferences [R package]. https://jrosen48.github.io/konfound/
@@ -382,6 +399,7 @@ Rosenberg, J. M., & Lishinski, A. (2018). clustRcompaR: Easy interface for clust
 ### Interactive Web Applications
 
 Rosenberg, J. M., Xu, R., & Frank, K. A. (2018). Konfound-It!: Quantify the Robustness of Causal Inferences. http://konfound-it.com.
+>>>>>>> 1c836f8e90e53ba69564ee07e25018fbf3ace5b3
 
 ## Teaching
 
@@ -427,7 +445,9 @@ Special Issue Editor, *Australasian Journal of Educational Technology*, 2017
 
 ### Service to the Profession
 
-Review Panel Member, National Science Foundation STEM+C program, 2019
+American Educational Research Association, Division C, Section 1D: Science Program Co-Chair, 2019-2020
+
+National Science Foundation, STEM+C review planel, 2019
 
 Member, Technological Pedagogical Content Knowledge (TPACK) Special Interest Group (SIG) Award Committee, 2019
 
