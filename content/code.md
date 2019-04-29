@@ -6,6 +6,8 @@ permalink: /code/
 
 # Code and Software
 
+I share most of my in-development code and code related to analyses on GitHub: https://github.com/jrosen48. Code and software associated with some example projects is below.
+
 ### R packages on Comprehensive R Archive Network (CRAN)
 
 Rosenberg, J. M., van Lissa, C. J., Beymer, P. N., Anderson, D. J., Schell, M. J. & Schmidt, J. A. (2019). tidyLPA: Easily carry out Latent Profile Analysis (LPA) using open-source or commercial software [R package]. https://data-edu.github.io/tidyLPA/
@@ -26,6 +28,5 @@ Rosenberg, J. M., Xu, R., & Frank, K. A. (2018). Konfound-It!: Quantify the Robu
 
 > Bovee, E., Estrellado, R., Mostipak, J., Rosenberg, J. M., & Velaszquez, I. (in preparation). Data science in education [software-related book]. https://github.com/data-edu/data-science-in-education
 
-I share in-development code and code related to analyses on GitHub: https://github.com/jrosen48
 
 I also share code and associated files (presentations, pre-prints, and resources) on the Open Science Framework: https://osf.io/xzqbc/

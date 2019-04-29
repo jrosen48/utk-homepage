@@ -21,7 +21,6 @@ I'm excited to introduce tidyLPA, an R package for carrying out Latent Profile A
 
 **Note: This post has been updated to reflect the latest version of tidyLPA**
 
-
 ## Note
 
 tidyLPA has undergone some major changes. You can read about them [here](https://data-edu.github.io/tidyLPA/articles/introduction-to-major-changes.html).
