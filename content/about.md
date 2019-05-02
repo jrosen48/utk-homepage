@@ -171,6 +171,10 @@ Krist, S., & Rosenberg, J. M. (under review). Incremental refinement in learners
 
 Carpenter, J., Rosenberg, J. M., Dousay, T., Romero-Hall, E., Trust, T., Kessler, A., Phillips, M., Fischer, C., Morrison, S., & Krutka, D. (under review). Understanding teacher educator technology competencies: findings and perspectives from a cross-disciplinary sample.
 
+Schmidt, J. A., Beymer, P. N., Rosenberg, J. M., Naftzger, N., & Shumow, L. (under review). Experiences, activities, and personal characteristics as predictors of engagement in STEM-focused summer programs.
+
+Anderson, D., Rowlew, B., Irvin, P. S., Rosenberg, J. M., & Stegenga, S. (under review). Evaluating content-related validity evidence using a text-based, machine learning procedure.
+
 ### Working papers
 
 Rosenberg, J. M., Schwarz, C. V., & Akcaoglu, M. (in preparation). Learning to teach scientific modeling: A longitudinal case study of two teachers' instructional practice.
