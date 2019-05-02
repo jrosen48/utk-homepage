@@ -21,6 +21,10 @@ The University of Tennessee, Knoxville
 420 Claxton, 1122 Volunteer Blvd., Knoxville, TN 37996  
 865-974-5973 | jmrosenberg@utk.edu | http://joshuamrosenberg.com  
 
+## Research Interests
+
+Science education, data science education, quantitative and computational research methods, educational technology
+
 ## Education
 
 2018, PhD, Educational Psychology & Educational Technology  
@@ -110,7 +114,7 @@ Koehler, M. J., Mishra, P., Akcaoglu, M., & Rosenberg, J. M. (2013). Technologic
 
 ### Other Publications
 
-Naftzger, N., Schmidt, J. A., Shumow, L., Beymer, P. N., & Rosenberg, J. M. (2018). *Exploring the link between STEM activity leader practice and youth engagement: Findings from the STEM IE study*. Washington, DC: American Institutes for Research.
+Naftzger, N., Schmidt, J. A., Shumow, L., Beymer, P. N., & Rosenberg, J. M. (2019). *Exploring the link between STEM activity leader practice and youth engagement: Findings from the STEM IE study*. Washington, DC: American Institutes for Research.
 
 Mehta, R., Henriksen, D., & Rosenberg, J. M. (2019). It's not about the tools. *Educational Leadership, 76*(5), 64-69. Retrieved from http://www.ascd.org/publications/educational-leadership/feb19/vol76/num05/It's-Not-About-the-Tools.aspx
 
@@ -185,7 +189,7 @@ Rosenberg, J. M. (2018). *Understanding work with data in summer STEM programs: 
 
 ## Grants
 
-2017-2020, Consultant and Significant Contributor (Method), Profiles of science engagement: Broadening participation by understanding individual and contextual influences ($499,927). National Science Foundation (PI: Jennifer Schmidt)
+2017-2020, Consultant, Profiles of science engagement: Broadening participation by understanding individual and contextual influences ($499,927). National Science Foundation (PI: Jennifer Schmidt)
 
 2019-2020, PI, Planting the seeds for computer science education in East Tennessee through a research-practice partnership. ($13,200). Community Engaged Research Seed Program, University of Tennessee, Knoxville
 
@@ -483,7 +487,7 @@ Outreach, data science education workshops with two classes around Knoxville, TN
 
 ### Ad-hoc Journal Article Reviews
 
-Education Sciences (2), Journal of Research in Science Teaching, TechTrends, 2019
+AERA Open, Education Sciences (2), Journal of Open Source Education, Journal of Research in Science Teaching, TechTrends, 2019
 
 Contemporary Educational Psychology, Computers & Education, Australasian Journal of Educational Technology (2), Journal of Open Source Software, Asia-Pacific Education Researcher, 2018
 
@@ -561,7 +565,7 @@ Rosenberg, J. M. (2012, November). Mobile learning for teachers. Presentation at
 
 ## Consulting
 
-2017-2018, Statistical software development (R package and web application)  
+2017-2019, Statistical software development
 Kenneth Frank, Michigan State University  
 
 2017, Statistical analysis  

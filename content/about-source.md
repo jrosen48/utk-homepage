@@ -496,21 +496,6 @@ Research Assistant, Supporting scientific practices in elementary and middle sch
 
 ### R packages on Comprehensive R Archive Network (CRAN)
 
-<<<<<<< HEAD
-tidyLPA: Easily carry out Latent Profile Analysis (LPA) using open-source and commercial software (w/ J. Schmidt, P. Beymer, D. J. Anderson, and C. J. van Lissa). [https://cran.r-project.org/web/packages/tidyLPA/index.html](https://cran.r-project.org/web/packages/tidyLPA/index.html) <a href = "https://github.com/jrosen48/tidyLPA"><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
-
-KonFound-It! R package: Rosenberg, J. M., Xu, R., & Frank, K. A. (2018). Konfound-It!: Quantify the robustness of causal inferences (R package). https://jrosen48.github.io/konfound/
-
-prcr: Person-centered analysis (w/ J. Schmidt, P. Beymer, & R. Steingut). CRAN: [https://cran.r-project.org/web/packages/prcr/index.html](https://cran.r-project.org/web/packages/prcr/index.html) <a href = "https://github.com/jrosen48/prcr"><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
-
-clustRcompaR: Easy interface for clustering a set of documents and exploring group-based patterns (w/ A. Lishinski). CRAN: [https://cran.r-project.org/web/packages/clustRcompaR/index.html](https://cran.r-project.org/web/packages/clustRcompaR/index.html) <a href = "https://github.com/alishinski/clustRcompaR"><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
-
-### Interactive Web Applications
-
-KonFound-It! web application: Rosenberg, J. M., Xu, R., & Frank, K. A. (2018). Konfound-It!: Quantify the robustness of causal inferences (Web application software). http://konfound-it.com.
-
-State Educational Twitter Hashtags (SETHs): [https://jmichaelrosenberg.shinyapps.io/SETHs](https://jmichaelrosenberg.shinyapps.io/SETHs/)
-=======
 Rosenberg, J. M., van Lissa, C. J., Beymer, P. N., Anderson, D. J., Schell, M. J. & Schmidt, J. A. (2019). tidyLPA: Easily carry out Latent Profile Analysis (LPA) using open-source or commercial software [R package]. https://data-edu.github.io/tidyLPA/
 
 KonFound-It! R package: Rosenberg, J. M., Xu, R., & Frank, K. A. (2019). konfound: Quantify the robustness of causal inferences [R package]. https://jrosen48.github.io/konfound/
@@ -522,7 +507,6 @@ Rosenberg, J. M., & Lishinski, A. (2018). clustRcompaR: Easy interface for clust
 ### Interactive Web Applications
 
 Rosenberg, J. M., Xu, R., & Frank, K. A. (2018). Konfound-It!: Quantify the Robustness of Causal Inferences. http://konfound-it.com.
->>>>>>> 1c836f8e90e53ba69564ee07e25018fbf3ace5b3
 
 ## Teaching
 
@@ -538,8 +522,8 @@ MSU-AT&T Instructional Technology Award (Honorable Mention): Best Online Course,
 
 Instructor at the University of Tennessee, Knoxville
 
-*Nature of Mathematics and Science Education* (SCED 572,  M.A. and Ph.D. class)
-*Teaching Science in Grades 7-12* (TPTE 495, SCED 496, & SCED 543,  B.S. & M.A. class)
+*Nature of Mathematics and Science Education* (SCED 572,  M.A. and Ph.D. class)  
+*Teaching Science in Grades 7-12* (TPTE 495, SCED 496, & SCED 543,  B.S. & M.A. class)  
 
 Instructor at Michigan State University:
 
@@ -600,13 +584,11 @@ Reviewer, American Psychological Association (APA) Convention, 2015
 
 ### Service to the Community
 
-Reviewer, Proposals from Knox County Schools students to the NASA Student Spaceflight Experiment Program
-
-Outreach, data science education workshops with two classes around Knoxville, TN
+Reviewer, Proposals from Knox County Schools students for theNASA Student Spaceflight Experiment Program
 
 ### Ad-hoc Journal Article Reviews
 
-Education Sciences (2), Journal of Research in Science Teaching, TechTrends, 2019
+AERA Open, Education Sciences (2), Journal of Open Source Education, Journal of Research in Science Teaching, TechTrends, 2019
 
 Contemporary Educational Psychology, Computers & Education, Australasian Journal of Educational Technology (2), Journal of Open Source Software, Asia-Pacific Education Researcher, 2018
 
