@@ -621,6 +621,9 @@ Provided enrichment activities related to data science to two classes, Knox Coun
 ### Workshops and Outreach
 
 \hangindent=2em
+Rosenberg, J. M. (2019, May). Won’t you be my neighboR? An introduction to R for data science in education. Workshop carried out for the Educational Psychology and Educational Technology program, Michigan State University.
+
+\hangindent=2em
 Anderson, D. J., and Rosenberg, J. M. (2019, April). Transparent and reproducible research with R. Workshop carried out at the Annual Meeting of the American Educational Research Association, Toronto, Canada. <a href = "https://github.com/ResearchTransparency/rr_aera19 "><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
 \hangindent=2em

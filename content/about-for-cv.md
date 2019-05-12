@@ -142,7 +142,7 @@ Rosenberg, J., Terry, C., Bell, J., Hiltz, V., Russo, T. & The EPET Social Media
 
 Rosenberg, J. (2013). Review of mobile device use policies in public high schools. In R. McBride & M. Searson (Eds.), *Proceedings of Society for Information Technology & Teacher Education International Conference 2013* (pp. 3774-3779). Chesapeake, VA: AACE. Retrieved from http://www.editlib.org/p/48698git 
 
-### Other Publications
+### Editor-Reviewed Publications
 
 Naftzger, N., Schmidt, J. A., Shumow, L., Beymer, P. N., & Rosenberg, J. M. (2019). *Exploring the link between STEM activity leader practice and youth engagement: Findings from the STEM IE study*. Washington, DC: American Institutes for Research.
 
