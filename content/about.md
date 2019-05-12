@@ -184,7 +184,7 @@ Schmidt, J. A., Beymer, P. N., & Rosenberg, J. M. (in preparation). Experiences,
 
 Greenhalgh, S. P., Rosenberg, J. M., Staudt-Willet, B., Koehler, M. J., & Akcaoglu, M. (in preparation). Timing is everything: Comparing synchronous and asynchronous modes of Twitter for teacher professional learning.
 
-### Unpublished Manuscripts and Pre-Prints
+### Unpublished Manuscripts  
 
 Rosenberg, J. M. (2018). *Context and Technological Pedagogical Content Knowledge: An initial survey of teachers and validation data*. <a href = "https://osf.io/hc9fq/"><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
