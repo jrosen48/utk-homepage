@@ -59,6 +59,8 @@ C.D. Owen High School, Swannanoa, NC
 
 ### Peer-Reviewed Journal Articles
 
+Blondel, D. V., Sansone, A., Rosenberg, J. M., Yang, B. W., Linennbrink-Garcia, L., Schwarz-Bloom, R. D. (in press). Development of an online experiment platform (Rex) for high school biology. *Journal of Formative Design for Learning*.
+
 Henriksen, D., Mehta, R., & Rosenberg, J. M. (in press). Supporting a creatively focused technology fluent mindset among educators: Survey results from a five-year inquiry into teachers’ confidence in using technology. *Journal of Technology and Teacher Education*
 
 Xu, R., Frank, K. A., Maroulis, S., & Rosenberg, J. M. (in press). Konfound: A Stata module to quantify robustness of causal inferences. *The Stata Journal*. https://www.stata-journal.com/ (*Nb. Software-related publication*)
@@ -160,8 +162,6 @@ Rosenberg, J. (2013). Review of mobile device use policies in public high school
 ### Journal Articles in Submission
 
 Ranellucci, J., Rosenberg, J. M., & Poitras, E. (accepted registered report). Exploring pre-service teachers’ use of technology: The technology acceptance model and expectancy-value theory. *Journal of Computer Assisted Learning*. <a href = "https://osf.io/rgpeh/"><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
-
-Blondel, D. V., Sansone, A., Rosenberg, J. M., Yang, B. W., Linennbrink-Garcia, L., Schwarz-Bloom, R. D. (revise and resubmit). Development of an online experiment platform (Rex) for high school biology.
 
 Beymer, P. N., Rosenberg, J. M., & Schmidt, J. A. (revise and resubmit). Investigating the effects of interest and choice in education: An experience sampling approach in high school science classes.
 

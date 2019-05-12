@@ -49,7 +49,12 @@ University of North Carolina, Asheville
 ## Professional Experience
 
 2018-present, Assistant Professor, STEM Education  
+Department of Theory and Practice in Teacher Education
 University of Tennessee, Knoxville  
+
+2012-2018, Graduate Research and Teaching Assistant
+Department of Counseling, Educational Psychology, and Special Education
+Michigan State University  
 
 ## Related (K-12 Teaching) Experience
 
@@ -62,6 +67,9 @@ C.D. Owen High School, Swannanoa, NC
 ## Publications
 
 ### Peer-Reviewed Journal Articles
+
+\hangindent=2em
+Blondel, D. V., Sansone, A., Rosenberg, J. M., Yang, B. W., Linennbrink-Garcia, L., Schwarz-Bloom, R. D. (in press). Development of an online experiment platform (Rex) for high school biology. *Journal of Formative Design for Learning*.
 
 \hangindent=2em
 Henriksen, D., Mehta, R., & Rosenberg, J. M. (in press). Supporting a creatively focused technology fluent mindset among educators: Survey results from a five-year inquiry into teachers’ confidence in using technology. *Journal of Technology and Teacher Education*
@@ -209,9 +217,6 @@ Rosenberg, J. (2013). Review of mobile device use policies in public high school
 
 \hangindent=2em
 Ranellucci, J., Rosenberg, J. M., & Poitras, E. (accepted registered report). Exploring pre-service teachers’ use of technology: The technology acceptance model and expectancy-value theory. *Journal of Computer Assisted Learning*. <a href = "https://osf.io/rgpeh/"><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
-
-\hangindent=2em
-Blondel, D. V., Sansone, A., Rosenberg, J. M., Yang, B. W., Linennbrink-Garcia, L., Schwarz-Bloom, R. D. (revise and resubmit). Development of an online experiment platform (Rex) for high school biology.
 
 \hangindent=2em
 Beymer, P. N., Rosenberg, J. M., & Schmidt, J. A. (revise and resubmit). Investigating the effects of interest and choice in education: An experience sampling approach in high school science classes.
