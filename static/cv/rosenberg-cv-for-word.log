@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.2.16)  12 MAY 2019 11:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.2.16)  12 MAY 2019 12:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -655,30 +655,30 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
 {/Users/joshuarosenberg/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdfte
-x.map}] [2] [3]
-Overfull \hbox (262.7334pt too wide) in paragraph at lines 329--334
+x.map}] [2] [3] [4]
+Overfull \hbox (262.7334pt too wide) in paragraph at lines 412--417
 \T1/lmr/m/it/10 Pol-icy, In-no-va-tion & Net-works\T1/lmr/m/n/10 . []$https : /
  / mvlri . org / blog / student-[]motivation-[]in-[]online-[]science-[]courses-
 []a-[]path-[]to-[]spending-[]more-[]time-[]on-[]course-[]and-[]higher-[]achieve
 ment/$[] 
  []
 
-[4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1261.
-[16]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1261.
+[5] [6] [7] [8] [9] [10] [11] [12] [13] [14]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1237.
+[15]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1237.
 (./rosenberg-cv-for-word.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1261.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1261.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1237.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1237.
 
 Package rerunfilecheck Info: File `rosenberg-cv-for-word.out' has not changed.
-(rerunfilecheck)             Checksum: AC87448F3A2D0007526749993E3F00C2;6392.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1261.
+(rerunfilecheck)             Checksum: 63F5466DEAF2E58A48796DAF5093F5F4;6392.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1237.
  ) 
 Here is how much of TeX's memory you used:
- 10211 strings out of 494562
- 145832 string characters out of 6176071
- 216113 words of memory out of 5000000
+ 10210 strings out of 494562
+ 145825 string characters out of 6176071
+ 215113 words of memory out of 5000000
  13701 multiletter control sequences out of 15000+600000
  35918 words of font info for 37 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -690,10 +690,10 @@ m/lmbx12.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/pub
 lic/lm/lmr10.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1
 /public/lm/lmr17.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/t
 ype1/public/lm/lmri10.pfb>
-Output written on rosenberg-cv-for-word.pdf (16 pages, 196196 bytes).
+Output written on rosenberg-cv-for-word.pdf (15 pages, 194873 bytes).
 PDF statistics:
- 321 PDF objects out of 1000 (max. 8388607)
- 295 compressed objects within 3 object streams
- 56 named destinations out of 1000 (max. 500000)
+ 315 PDF objects out of 1000 (max. 8388607)
+ 290 compressed objects within 3 object streams
+ 55 named destinations out of 1000 (max. 500000)
  313 words of extra memory for PDF output out of 10000 (max. 10000000)
 

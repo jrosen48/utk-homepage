@@ -107,17 +107,42 @@ Eidelman, R., Rosenberg, J. M. ,& Shwartz, Y. (in press). E-Learning in chemistr
 
 Herring, M., Koehler, M. J., Mishra, P., Rosenberg, J. M., & Teske, J. (2016). Introduction to the 2nd edition of the TPACK handbook. In M. Herring, M. J. Koehler, & P. Mishra (Eds.), *Handbook of Technological Pedagogical Content Knowledge (TPACK) for educators* (2nd ed., pp. 1-8). New York, NY: Routledge. 
 
-Keenan, S., Rosenberg, J. M., Greenhalgh, S. P. & Koehler, M. J. (2016). Examining teachers’ technology use through digital portfolios. In L. Liu & D. C. Gibson (Eds.), *Research highlights in technology and teacher education 2016* (pp. 53-60). Chesapeake, VA: Association for the Advancement of Computing in Education. [Invited reprint of conference presentation in edited book]
+Keenan, S., Rosenberg, J. M., Greenhalgh, S. P. & Koehler, M. J. (2016). Examining teachers’ technology use through digital portfolios. In L. Liu & D. C. Gibson (Eds.), *Research highlights in technology and teacher education 2016* (pp. 53-60). Chesapeake, VA: Association for the Advancement of Computing in Education.
 
-Phillips, M., Koehler, M. J. & Rosenberg, J. M. (2016). Considering context: Teachers' TPACK development and enactment. In L. Liu & D. C. Gibson (Eds.), *Research highlights in technology and teacher education* (pp. 197-204). Chesapeake, VA: Association for the Advancement of Computing in Education. [Invited reprint of conference presentation in edited book]
+Phillips, M., Koehler, M. J. & Rosenberg, J. M. (2016). Considering context: Teachers' TPACK development and enactment. In L. Liu & D. C. Gibson (Eds.), *Research highlights in technology and teacher education* (pp. 197-204). Chesapeake, VA: Association for the Advancement of Computing in Education.
 
 Rosenberg, J. M., & Koehler, M. J. (2015). *Context and teaching with technology in the digital age*. In M.L. Niess & H. Gillow-Wiles (Eds.), Handbook of research on teacher education in the digital age (pp. 440-465). Hershey, PA: IGI Global. 
 
-Rosenberg, J. M., Greenhalgh, S. P., & Koehler, M. J. (2015). A performance assessment of teachers’ TPACK using artifacts from digital portfolios. In L. Liu & D. C. Gibson, *Research highlights in technology and teacher education 2015*. Waynesville, NC: Association for the Advancement of Computing in Education (AACE). [Invited reprint of conference presentation in edited book]
+Rosenberg, J. M., Greenhalgh, S. P., & Koehler, M. J. (2015). A performance assessment of teachers’ TPACK using artifacts from digital portfolios. In L. Liu & D. C. Gibson, *Research highlights in technology and teacher education 2015*. Waynesville, NC: Association for the Advancement of Computing in Education (AACE).
 
 Koehler, M. J., Mishra, P., Akcaoglu, M., & Rosenberg, J. M. (2013). Technological pedagogical content knowledge for teachers and teacher educators. In N. Bharati and S. Mishra (Eds.), *ICT integrated teacher education: A resource book* (pp. 1-8). Commonwealth Educational Media Center for Asia, New Delhi, India.
 
-### Other Publications
+### Conference Proceedings Papers
+
+Carpenter, J., Rosenberg, J. M., Dousay, T., Romero-Hall, E., Trust, T., Kessler, A., Phillips, M., Morrison, S., Fischer, C. & Krutka, D. (2019). What do teacher educators think of teacher education technology competencies?. In K. Graziano (Ed.), Proceedings of Society for Information Technology & Teacher Education International Conference (pp. 796-801). Las Vegas, NV, United States: Association for the Advancement of Computing in Education (AACE). Retrieved April 18, 2019 from https://www.learntechlib.org/primary/p/207735/.
+
+Peterson, A., Freer, D., & Rosenberg, J. M. (2017). Interacting with purpose: What is the difference between face-to-face and online student relationships in a combined program? In Proceedings of Society for Information Technology & Teacher Education International Conference 2016 (pp. 3411-3414). Austin, TX: Association for the Advancement of Computing in Education. Retrieved from https://www.learntechlib.org/p/177955/
+
+Krist, C., & Rosenberg, J. M. (2016). Finding patterns in and refining characterizations of students’ epistemic cognition: A computational approach. In Looi, C.-K., Polman, J., Cress, U., & Reimann, P. (Eds.), *Transforming Learning, Empowering Learners: The International Conference of the Learning Sciences Proceedings* 2016 (Vol. 2, pp. 1223-1224). Singapore, Singapore: ICLS. 
+ 
+ \hangindent=2em
+Rosenberg, J. M., Koehler, M. J., Akcaoglu, M., Greenhalgh, S. P. & Hamilton, E. (2016). State Educational Twitter Hashtags: An introduction and research agenda. In *Proceedings of Society for Information Technology & Teacher Education International Conference 2016* (pp. 355-360). Chesapeake, VA: Association for the Advancement of Computing in Education. Retrieved from http://www.editlib.org/p/171698
+ 
+Greenhalgh, S. P., Rosenberg, J. M. & Wolf, L. G. (2016). For every tweet there is a purpose: Twitter within (and beyond) an online graduate program. In *Proceedings of Society for Information Technology & Teacher Education International Conference 2016* (pp. 2044-2049). Chesapeake, VA: Association for the Advancement of Computing in Education (AACE). Retrieved from http://www.editlib.org/p/171972
+
+Rosenberg, J. M., Greenhalgh, S. P. & Koehler, M. J. (2015). A performance assessment of teachers’ TPACK using artifacts from digital portfolios. In D. Slykhuis & G. Marks (Eds.), *Proceedings of Society for Information Technology & Teacher Education International Conference 2015* (pp. 3390-3397). Chesapeake, VA: Association for the Advancement of Computing in Education (AACE). Retrieved from http://www.editlib.org/p/150472
+
+Schwarz, C. V., Ke, L., Lee, M, & Rosenberg, J. M. (2014). Developing mechanistic explanations of phenomena: Case studies of two fifth grade students’ epistemologies in practice over time. In J. L. Polman, E. A. Kyza, K. O’Neill, I. Tabak, W. R. Penuel, A. S. Jurow, . . . L. D’Amico (Eds.), *Learning and becoming in practice: The international conference of the learning sciences (ICLS) 2014* (Vol. 1, pp. 182-189). Boulder, CO: ISLS. http://www.isls.org/icls2014/Proceedings.html
+
+Rosenberg, J. M., & Koehler, M. (2014). Context and Technological Pedagogical Content Knowledge: A content analysis. In M. Searson & M. Ochoa (Eds.), *Proceedings of Society for Information Technology & Teacher Education International Conference 2014* (pp. 2412-2417). Chesapeake, VA: AACE. Retrieved from http://www.editlib.org/p/131183
+
+Greenhalgh, S. P., Rosenberg, J. M., Zellner, A. & Koehler, M. J. (2014). Zen and the art of portfolio maintenance: Best practices in course design for supporting long-lasting portfolios. In M. Searson & M. Ochoa (Eds.), *Proceedings of Society for Information Technology & Teacher Education International Conference 2014* (pp. 1604-1610). Chesapeake, VA: AACE. Retrieved from http://www.editlib.org/p/131027
+ 
+Rosenberg, J., Terry, C., Bell, J., Hiltz, V., Russo, T. & The EPET Social Media Council (2014). What we’ve got here is failure to communicate: Social media best practices for graduate school programs. In M. Searson & M. Ochoa (Eds.), *Proceedings of Society for Information Technology & Teacher Education International Conference 2014* (pp. 1210-1215). Chesapeake, VA: AACE. Retrieved from http://www.editlib.org/p/130949
+
+Rosenberg, J. (2013). Review of mobile device use policies in public high schools. In R. McBride & M. Searson (Eds.), *Proceedings of Society for Information Technology & Teacher Education International Conference 2013* (pp. 3774-3779). Chesapeake, VA: AACE. Retrieved from http://www.editlib.org/p/48698git 
+
+### Editor-Reviewed Publications
 
 Naftzger, N., Schmidt, J. A., Shumow, L., Beymer, P. N., & Rosenberg, J. M. (2019). *Exploring the link between STEM activity leader practice and youth engagement: Findings from the STEM IE study*. Washington, DC: American Institutes for Research.
 
@@ -132,35 +157,6 @@ Rosenberg, J. M., & Logan, C. W. (2017). Review of the book What’s Worth Teach
 Phillips, M., Harris, J., Rosenberg, J. M., & Koehler, M. J. (2017). TPCK/TPACK research and development: Past, present, and future directions. *Australasian Journal of Educational Technology*. https://doi.org/10.14742/ajet.3907
 
 Rosenberg, J. M., & Ranellucci, J. (2017). Student motivation in online science courses: A path to spending more time on course and higher achievement. *Michigan Virtual Learning Research Institute Blog: Research, Policy, Innovation & Networks*. https://mvlri.org/blog/student-motivation-in-online-science-courses-a-path-to-spending-more-time-on-course-and-higher-achievement/
-
-### Conference Proceedings Papers
-
-Carpenter, J., Rosenberg, J. M., Dousay, T., Romero-Hall, E., Trust, T., Kessler, A., Phillips, M., Morrison, S., Fischer, C. & Krutka, D. (2019). What do Teacher Educators think of Teacher Education Technology Competencies?. In K. Graziano (Ed.), Proceedings of Society for Information Technology & Teacher Education International Conference (pp. 796-801). Las Vegas, NV, United States: Association for the Advancement of Computing in Education (AACE). Retrieved April 18, 2019 from https://www.learntechlib.org/primary/p/207735/.
-
-Peterson, A., Freer, D., & Rosenberg, J. M. (2017). Interacting with purpose: What is the difference between face-to-face and online student relationships in a combined program? In Proceedings of Society for Information Technology & Teacher Education International Conference 2016 (pp. 3411-3414). Austin, TX: Association for the Advancement of Computing in Education. Retrieved from https://www.learntechlib.org/p/177955/
-
-Krist, C., & Rosenberg, J. M. (2016). Finding patterns in and refining characterizations of students’ epistemic cognition: A computational approach. In Looi, C.-K., Polman, J., Cress, U., & Reimann, P. (Eds.), *Transforming Learning, Empowering Learners: The International Conference of the Learning Sciences Proceedings* 2016 (Vol. 2, pp. 1223-1224). Singapore, Singapore: ICLS. 
-
-Phillips, M., Koehler, M. J. & Rosenberg, J. M. (2016). Looking outside the circles: Considering the contexts influencing TPACK development and enactment. In *Proceedings of Society for Information Technology & Teacher Education International Conference 2016* (pp. 3029-3036). Chesapeake, VA: Association for the Advancement of Computing in Education. Retrieved from http://www.editlib.org/p/172122
- 
- \hangindent=2em
-Rosenberg, J. M., Koehler, M. J., Akcaoglu, M., Greenhalgh, S. P. & Hamilton, E. (2016). State Educational Twitter Hashtags: An introduction and research agenda. In *Proceedings of Society for Information Technology & Teacher Education International Conference 2016* (pp. 355-360). Chesapeake, VA: Association for the Advancement of Computing in Education. Retrieved from http://www.editlib.org/p/171698
- 
-Greenhalgh, S. P., Rosenberg, J. M. & Wolf, L. G. (2016). For every tweet there is a purpose: Twitter within (and beyond) an online graduate program. In *Proceedings of Society for Information Technology & Teacher Education International Conference 2016* (pp. 2044-2049). Chesapeake, VA: Association for the Advancement of Computing in Education (AACE). Retrieved from http://www.editlib.org/p/171972
- 
-Keenan, S., Rosenberg, J. M., Greenhalgh, S. P. & Koehler, M. J. (2016). Examining teachers’ technology use through digital portfolios. In *Proceedings of Society for Information Technology & Teacher Education International Conference 2016* (pp. 1084-1091). Chesapeake, VA: Association for the Advancement of Computing in Education (AACE). Retrieved from http://www.editlib.org/p/171824
-
-Rosenberg, J. M., Greenhalgh, S. P. & Koehler, M. J. (2015). A performance assessment of teachers’ TPACK using artifacts from digital portfolios. In D. Slykhuis & G. Marks (Eds.), *Proceedings of Society for Information Technology & Teacher Education International Conference 2015* (pp. 3390-3397). Chesapeake, VA: Association for the Advancement of Computing in Education (AACE). Retrieved from http://www.editlib.org/p/150472
-
-Schwarz, C. V., Ke, L., Lee, M, & Rosenberg, J. M. (2014). Developing mechanistic explanations of phenomena: Case studies of two fifth grade students’ epistemologies in practice over time. In J. L. Polman, E. A. Kyza, K. O’Neill, I. Tabak, W. R. Penuel, A. S. Jurow, . . . L. D’Amico (Eds.), *Learning and becoming in practice: The international conference of the learning sciences (ICLS) 2014* (Vol. 1, pp. 182-189). Boulder, CO: ISLS. http://www.isls.org/icls2014/Proceedings.html
-
-Rosenberg, J. M., & Koehler, M. (2014). Context and Technological Pedagogical Content Knowledge: A content analysis. In M. Searson & M. Ochoa (Eds.), *Proceedings of Society for Information Technology & Teacher Education International Conference 2014* (pp. 2412-2417). Chesapeake, VA: AACE. Retrieved from http://www.editlib.org/p/131183
-
-Greenhalgh, S. P., Rosenberg, J. M., Zellner, A. & Koehler, M. J. (2014). Zen and the art of portfolio maintenance: Best practices in course design for supporting long-lasting portfolios. In M. Searson & M. Ochoa (Eds.), *Proceedings of Society for Information Technology & Teacher Education International Conference 2014* (pp. 1604-1610). Chesapeake, VA: AACE. Retrieved from http://www.editlib.org/p/131027
- 
-Rosenberg, J., Terry, C., Bell, J., Hiltz, V., Russo, T. & The EPET Social Media Council (2014). What we’ve got here is failure to communicate: Social media best practices for graduate school programs. In M. Searson & M. Ochoa (Eds.), *Proceedings of Society for Information Technology & Teacher Education International Conference 2014* (pp. 1210-1215). Chesapeake, VA: AACE. Retrieved from http://www.editlib.org/p/130949
-
-Rosenberg, J. (2013). Review of mobile device use policies in public high schools. In R. McBride & M. Searson (Eds.), *Proceedings of Society for Information Technology & Teacher Education International Conference 2013* (pp. 3774-3779). Chesapeake, VA: AACE. Retrieved from http://www.editlib.org/p/48698git 
 
 ### Journal Articles in Submission
 
@@ -289,8 +285,6 @@ Mikeska, J. N., Rosenberg, J. M., Holtzman, S., & McCaffrey, D. (2017, April). *
 Greenhalgh, S. P., Rosenberg, J. M., & Koehler, M. J. (2017, March). *Avoiding madness in our methods*. Paper presented at the Society for Information Technology and Teacher Education International Conference 2017, Austin, TX.
 
 Rosenberg, J. M., Akcaoglu, M., Staudt Willet, K. B., Greenhalgh, S. P., & Koehler, M. J. (2017, March). *A tale of two Twitters: Synchronous and asynchronous use of the same hashtag*. In P. Resta & S. Smith (Eds.), Proceedings of Society for Information Technology & Teacher Education International Conference 2017 (pp. 283-286). Waynesville, NC: Association for the Advancement of Computing in Education (AACE).
-
-Phillips, M., Koehler, M. J., Rosenberg, J. M., & Zunica, B. (2017, March). *Unpacking TPACK: Reconsidering knowledge and context in teacher practice*. Paper presented at the Society for Information Technology and Teacher Education International Conference 2017, Austin, TX.
 
 Kessler, A., & Rosenberg, J. M. (2017, March). *Considering how teachers’ TPACK is leveraged during the mental engineering of instruction: A theory of action*. Paper presented at the Society for Information Technology and Teacher Education International Conference 2017, Austin, TX.
 
