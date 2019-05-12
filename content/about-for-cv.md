@@ -45,11 +45,9 @@ University of North Carolina, Asheville
 ## Professional Experience
 
 2018-present, Assistant Professor, STEM Education  
-Department of Theory and Practice in Teacher Education
 University of Tennessee, Knoxville  
 
-2012-2018, Graduate Research and Teaching Assistant
-Department of Counseling, Educational Psychology, and Special Education
+2012-2018, Graduate Research and Teaching Assistant  
 Michigan State University  
 
 ## Related (K-12 Teaching) Experience

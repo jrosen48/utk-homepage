@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.2.16)  12 MAY 2019 11:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.2.16)  12 MAY 2019 11:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -656,7 +656,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 {/Users/joshuarosenberg/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdfte
 x.map}] [2] [3]
-Overfull \hbox (262.7334pt too wide) in paragraph at lines 324--329
+Overfull \hbox (262.7334pt too wide) in paragraph at lines 329--334
 \T1/lmr/m/it/10 Pol-icy, In-no-va-tion & Net-works\T1/lmr/m/n/10 . []$https : /
  / mvlri . org / blog / student-[]motivation-[]in-[]online-[]science-[]courses-
 []a-[]path-[]to-[]spending-[]more-[]time-[]on-[]course-[]and-[]higher-[]achieve
@@ -664,16 +664,16 @@ ment/$[]
  []
 
 [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1256.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1261.
 [16]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1256.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1261.
 (./rosenberg-cv-for-word.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1256.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1256.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1261.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1261.
 
 Package rerunfilecheck Info: File `rosenberg-cv-for-word.out' has not changed.
 (rerunfilecheck)             Checksum: AC87448F3A2D0007526749993E3F00C2;6392.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1256.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1261.
  ) 
 Here is how much of TeX's memory you used:
  10211 strings out of 494562
@@ -690,7 +690,7 @@ m/lmbx12.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/pub
 lic/lm/lmr10.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1
 /public/lm/lmr17.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/t
 ype1/public/lm/lmri10.pfb>
-Output written on rosenberg-cv-for-word.pdf (16 pages, 196083 bytes).
+Output written on rosenberg-cv-for-word.pdf (16 pages, 196196 bytes).
 PDF statistics:
  321 PDF objects out of 1000 (max. 8388607)
  295 compressed objects within 3 object streams
