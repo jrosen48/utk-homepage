@@ -66,7 +66,7 @@ Xu, R., Frank, K. A., Maroulis, S., & Rosenberg, J. M. (in press). Konfound: A S
 
 Blondel, D. V., Sansone, A., Rosenberg, J. M., Yang, B. W., Linennbrink-Garcia, L., Schwarz-Bloom, R. D. (in press). Development of an online experiment platform (Rex) for high school biology. *Journal of Formative Design for Learning*.
 
-Henriksen, D., Mehta, R. & Rosenberg, J. (2019). Supporting A Creatively Focused Technology Fluent Mindset Among Educators: Survey Results from a Five-Year Inquiry Into Teachers’ Confidence in Using Technology. *Journal of Technology and Teacher Education, 27*(1), 63-95. https://www.learntechlib.org/primary/p/184724/.
+Henriksen, D., Mehta, R. & Rosenberg, J. (2019). Supporting a creatively focused technology fluent mindset among educators: survey results from a five-year inquiry into teachers’ confidence in using technology. *Journal of Technology and Teacher Education, 27*(1), 63-95. https://www.learntechlib.org/primary/p/184724/.
 
 Rosenberg, J. M., & Lawson, M. J. (2019). An investigation of students’ use of a computational science simulation in an online high school physics class, *Education Sciences, 9*(49), 1-19. https://www.mdpi.com/2227-7102/9/1/49 <a href = "https://osf.io/y925f/"><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> <a href = "/pre-prints/Rosenberg-Lawson-2019-es.pdf"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
