@@ -6,10 +6,21 @@
     <description>Recent content in Home on Joshua M. Rosenberg, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Presentation on &#39;Won’t you be my neighboR? An introduction to R for data science in education&#39;</title>
+      <link>/post/2019/05/19/presentation-on-won-t-you-be-my-neighbor-an-introduction-to-r-for-data-science-in-education/</link>
+      <pubDate>Sun, 19 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019/05/19/presentation-on-won-t-you-be-my-neighbor-an-introduction-to-r-for-data-science-in-education/</guid>
+      <description>This past week, I presented a workshop, Won’t you be my neighboR? An introduction to R for data science in education. for Educational Psychology and Educational Technology PhD students (and a few others) with Emily Bovee.
+Here is the description:
+ R is a freely-available, cross-platform, open-source programming language and statistical software environment that is well-suited to data analysis and data science, but, can have an high barrier to entry. This workshop provides an introduction to R in education, with a focus on developing a foundation in capabilities (and confidence!</description>
+    </item>
     
     <item>
       <title>Little Bitty Steps Toward a More Open Education Research</title>

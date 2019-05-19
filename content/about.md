@@ -62,11 +62,11 @@ C.D. Owen High School, Swannanoa, NC
 
 ### Peer-Reviewed Journal Articles
 
+Xu, R., Frank, K. A., Maroulis, S., & Rosenberg, J. M. (in press). Konfound: A Stata module to quantify robustness of causal inferences. *The Stata Journal*. https://www.stata-journal.com/ (*Nb. Software-related publication*)
+
 Blondel, D. V., Sansone, A., Rosenberg, J. M., Yang, B. W., Linennbrink-Garcia, L., Schwarz-Bloom, R. D. (in press). Development of an online experiment platform (Rex) for high school biology. *Journal of Formative Design for Learning*.
 
-Henriksen, D., Mehta, R., & Rosenberg, J. M. (in press). Supporting a creatively focused technology fluent mindset among educators: Survey results from a five-year inquiry into teachers’ confidence in using technology. *Journal of Technology and Teacher Education*
-
-Xu, R., Frank, K. A., Maroulis, S., & Rosenberg, J. M. (in press). Konfound: A Stata module to quantify robustness of causal inferences. *The Stata Journal*. https://www.stata-journal.com/ (*Nb. Software-related publication*)
+Henriksen, D., Mehta, R. & Rosenberg, J. (2019). Supporting A Creatively Focused Technology Fluent Mindset Among Educators: Survey Results from a Five-Year Inquiry Into Teachers’ Confidence in Using Technology. *Journal of Technology and Teacher Education, 27*(1), 63-95. https://www.learntechlib.org/primary/p/184724/.
 
 Rosenberg, J. M., & Lawson, M. J. (2019). An investigation of students’ use of a computational science simulation in an online high school physics class, *Education Sciences, 9*(49), 1-19. https://www.mdpi.com/2227-7102/9/1/49 <a href = "https://osf.io/y925f/"><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> <a href = "/pre-prints/Rosenberg-Lawson-2019-es.pdf"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
@@ -125,7 +125,6 @@ Peterson, A., Freer, D., & Rosenberg, J. M. (2017). Interacting with purpose: Wh
 
 Krist, C., & Rosenberg, J. M. (2016). Finding patterns in and refining characterizations of students’ epistemic cognition: A computational approach. In Looi, C.-K., Polman, J., Cress, U., & Reimann, P. (Eds.), *Transforming Learning, Empowering Learners: The International Conference of the Learning Sciences Proceedings* 2016 (Vol. 2, pp. 1223-1224). Singapore, Singapore: ICLS. 
  
- \hangindent=2em
 Rosenberg, J. M., Koehler, M. J., Akcaoglu, M., Greenhalgh, S. P. & Hamilton, E. (2016). State Educational Twitter Hashtags: An introduction and research agenda. In *Proceedings of Society for Information Technology & Teacher Education International Conference 2016* (pp. 355-360). Chesapeake, VA: Association for the Advancement of Computing in Education. Retrieved from http://www.editlib.org/p/171698
  
 Greenhalgh, S. P., Rosenberg, J. M. & Wolf, L. G. (2016). For every tweet there is a purpose: Twitter within (and beyond) an online graduate program. In *Proceedings of Society for Information Technology & Teacher Education International Conference 2016* (pp. 2044-2049). Chesapeake, VA: Association for the Advancement of Computing in Education (AACE). Retrieved from http://www.editlib.org/p/171972
@@ -173,6 +172,8 @@ Carpenter, J., Rosenberg, J. M., Dousay, T., Romero-Hall, E., Trust, T., Kessler
 Schmidt, J. A., Beymer, P. N., Rosenberg, J. M., Naftzger, N., & Shumow, L. (under review). Experiences, activities, and personal characteristics as predictors of engagement in STEM-focused summer programs.
 
 Anderson, D., Rowlew, B., Irvin, P. S., Rosenberg, J. M., & Stegenga, S. (under review). Evaluating content-related validity evidence using a text-based, machine learning procedure.
+
+Akcaoglu, M., Rosenberg, J. M., Hodges, C., & Hilpert, J. (under review). An exploration of factors impacting middle school students’ attitudes toward computer programming.
 
 ### Working papers
 
@@ -380,7 +381,7 @@ Research Assistant, Supporting scientific practices in elementary and middle sch
 
 Rosenberg, J. M., van Lissa, C. J., Beymer, P. N., Anderson, D. J., Schell, M. J. & Schmidt, J. A. (2019). tidyLPA: Easily carry out Latent Profile Analysis (LPA) using open-source or commercial software [R package]. https://data-edu.github.io/tidyLPA/
 
-KonFound-It! R package: Rosenberg, J. M., Xu, R., & Frank, K. A. (2019). konfound: Quantify the robustness of causal inferences [R package]. https://jrosen48.github.io/konfound/
+Rosenberg, J. M., Xu, R., & Frank, K. A. (2019). konfound: Quantify the robustness of causal inferences [R package]. https://jrosen48.github.io/konfound/
 
 Rosenberg, J. M., Schmidt, J. A., Beymer, P. N., & Steingut, R. (2018). prcr: Person-Centered Analysis [R package]. https://CRAN.R-project.org/package=prcr
   
@@ -502,7 +503,7 @@ Provided enrichment activities related to data science to two classes, Knox Coun
 
 ### Workshops and Outreach
 
-Rosenberg, J. M. (2019, May). Won’t you be my neighboR? An introduction to R for data science in education. Workshop carried out for the Educational Psychology and Educational Technology program, Michigan State University.
+Rosenberg, J. M. (2019, May). Won’t you be my neighboR? An introduction to R for data science in education. Workshop carried out for the Educational Psychology and Educational Technology program, Michigan State University. <a href = "https://github.com/jrosen48/MSU-workshop-2019"><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
 Anderson, D. J., and Rosenberg, J. M. (2019, April). Transparent and reproducible research with R. Workshop carried out at the Annual Meeting of the American Educational Research Association, Toronto, Canada. <a href = "https://github.com/ResearchTransparency/rr_aera19 "><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
