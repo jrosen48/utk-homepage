@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.2.16)  19 MAY 2019 16:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.2.16)  19 MAY 2019 19:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -664,16 +664,16 @@ ment/$[]
  []
 
 [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1246.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1257.
 [16]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1246.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1257.
 (./rosenberg-cv-for-word.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1246.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1246.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1257.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1257.
 
 Package rerunfilecheck Info: File `rosenberg-cv-for-word.out' has not changed.
 (rerunfilecheck)             Checksum: A31457CAB4A26C431CE91BDD677CDDA1;6361.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1246.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1257.
  ) 
 Here is how much of TeX's memory you used:
  10211 strings out of 494562
@@ -690,10 +690,10 @@ m/lmbx12.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/pub
 lic/lm/lmr10.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1
 /public/lm/lmr17.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/t
 ype1/public/lm/lmri10.pfb>
-Output written on rosenberg-cv-for-word.pdf (16 pages, 195274 bytes).
+Output written on rosenberg-cv-for-word.pdf (16 pages, 195700 bytes).
 PDF statistics:
- 321 PDF objects out of 1000 (max. 8388607)
- 295 compressed objects within 3 object streams
+ 320 PDF objects out of 1000 (max. 8388607)
+ 294 compressed objects within 3 object streams
  56 named destinations out of 1000 (max. 500000)
  313 words of extra memory for PDF output out of 10000 (max. 10000000)
 

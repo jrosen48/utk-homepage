@@ -298,6 +298,9 @@ Rosenberg, J. M. (2018). *Understanding work with data in summer STEM programs: 
 ### Peer-Reviewed Conference Presentations
 
 \hangindent=2em
+Greenhalgh, S. P., Huang, K., & Rosenberg, J. M. (2019, October). Understanding gaming communities and exploring learning opportunities: A computational grounded theory approach. Paper to be presented at the meeting of the Association for Educational Communications and Technology International Convention, Las Vegas, NV.
+
+\hangindent=2em
 Rosenberg, J. M, Beymer, P. N., Houslay, T. M., & Schmidt, J. A. (2019, April). Using a multivariate, multi-level model to understand how youths’ in-the-moment engagement predicts changes in youths’ interest. In M. Bernacki, A. Kaplan, and L. Linnenbrink-Garcia (Chairs), *Embracing and modeling the complex dynamics of motivation and engagement: Contextual, temporal, dynamic, and systematic*. Symposium conducted at the Annual Meeting of the American Educational Research Association, Toronto, CA. <a href = "https://osf.io/tk3dn/ "><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
 \hangindent=2em
@@ -622,6 +625,9 @@ Reviewer, Proposals from Knox County Schools students to the NASA Student Spacef
 Provided enrichment activities related to data science to two classes, Knox County Schools, Private School in Knox County, 2018
 
 ### Workshops and Outreach
+
+\hangindent=2em
+Rosenberg, J. M., Staudt Willet, K. B., & Greenhalgh, S. P. (2019, October). Online data and open source tools: Analyzing educational internet data Using R. Workshop carried out at the Association for Educational Communications and Technology, Las Vegas, NV.
 
 \hangindent=2em
 Rosenberg, J. M. (2019, May). Won’t you be my neighboR? An introduction to R for data science in education. Workshop carried out for the Educational Psychology and Educational Technology program, Michigan State University. <a href = "https://github.com/jrosen48/MSU-workshop-2019"><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
