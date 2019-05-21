@@ -18,4 +18,6 @@ Here is the description:
 
 Slides from the workshop are available [here](https://jrosen48.github.io/MSU-workshop-2019/#1).
 
+A repository for the workshop, which includes an interactive R Markdown document, is [here](https://github.com/jrosen48/MSU-workshop-2019).
+
 [![](/post/2019-05-19-presentation-on-won-t-you-be-my-neighbor-an-introduction-to-r-for-data-science-in-education_files/Screen Shot 2019-05-19 at 9.12.10 AM.png)](https://jrosen48.github.io/MSU-workshop-2019)
