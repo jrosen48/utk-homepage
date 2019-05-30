@@ -231,6 +231,9 @@ Anderson, D., Rowlew, B., Irvin, P. S., Rosenberg, J. M., & Stegenga, S. (under 
 \hangindent=2em
 Akcaoglu, M., Rosenberg, J. M., Hodges, C., & Hilpert, J. (under review). An exploration of factors impacting middle school students’ attitudes toward computer programming.
 
+\hangindent=2em
+Rosenberg, J. M., Edwards, A., & Chen, B. (under review). Tools and strategies for engaging students in analyzing and interpreting complex data sources.
+
 ### Working papers
 
 \hangindent=2em
@@ -628,6 +631,9 @@ Provided enrichment activities related to data science to two classes, Knox Coun
 
 \hangindent=2em
 Rosenberg, J. M., Staudt Willet, K. B., & Greenhalgh, S. P. (2019, October). Online data and open source tools: Analyzing educational internet data Using R. Workshop carried out at the Association for Educational Communications and Technology, Las Vegas, NV.
+
+\hangindent=2em
+Rosenberg, J. M. (2019, May). Working with data in education: Using data and supporting students to use data. Workshop carried out for teachers at Knoxville Jewish Day School. https://docs.google.com/presentation/d/1uSdRvF2GjhUpO2fCHZIUdXmf0texzczGGlbzmZBgggw/edit?usp=sharing 
 
 \hangindent=2em
 Rosenberg, J. M. (2019, May). Won’t you be my neighboR? An introduction to R for data science in education. Workshop carried out for the Educational Psychology and Educational Technology program, Michigan State University. <a href = "https://github.com/jrosen48/MSU-workshop-2019"><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
