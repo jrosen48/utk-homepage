@@ -70,7 +70,7 @@ C.D. Owen High School, Swannanoa, NC
 Xu, R., Frank, K. A., Maroulis, S., & Rosenberg, J. M. (in press). Konfound: A Stata module to quantify robustness of causal inferences. *The Stata Journal*. https://www.stata-journal.com/ (*Nb. Software-related publication*)
 
 \hangindent=2em
-Blondel, D. V., Sansone, A., Rosenberg, J. M., Yang, B. W., Linennbrink-Garcia, L., & Schwarz-Bloom, R. D. (in press). Development of an online experiment platform (Rex) for high school biology. *Journal of Formative Design for Learning*.
+Blondel, D. V., Sansone, A., Rosenberg, J. M., Yang, B. W., Linennbrink-Garcia, L., & Schwarz-Bloom, R. D. (advance online publication). Development of an online experiment platform (Rex) for high school biology. *Journal of Formative Design for Learning*. https://link.springer.com/article/10.1007/s41686-019-00030-5
 
 \hangindent=2em
 Henriksen, D., Mehta, R. & Rosenberg, J. (2019). Supporting a creatively focused technology fluent mindset among educators: survey results from a five-year inquiry into teachers’ confidence in using technology. *Journal of Technology and Teacher Education, 27*(1), 63-95. https://www.learntechlib.org/primary/p/184724/
