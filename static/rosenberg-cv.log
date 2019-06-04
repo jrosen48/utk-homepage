@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.5.30)  30 MAY 2019 20:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.5.31)  4 JUN 2019 10:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -643,42 +643,42 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 
 {/Users/jrosenb8/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 [2] [3] [4]
-Underfull \hbox (badness 1292) in paragraph at lines 440--445
+Underfull \hbox (badness 1292) in paragraph at lines 441--446
 []\T1/lmr/m/n/10 (+20) Rosenberg, J. M., & Ranel-lucci, J. (2017). Stu-dent mo-
 ti-va-tion in on-line sci-ence courses: A
  []
 
 
-Underfull \hbox (badness 1596) in paragraph at lines 440--445
+Underfull \hbox (badness 1596) in paragraph at lines 441--446
 \T1/lmr/m/it/10 (+20) Re-search In-sti-tute Blog: Re-search, Pol-icy, In-no-va-
 tion & Net-works\T1/lmr/m/n/10 (+20) . []$https : / / mvlri . org / blog /
  []
 
 
-Overfull \hbox (28.91351pt too wide) in paragraph at lines 440--445
+Overfull \hbox (28.91351pt too wide) in paragraph at lines 441--446
 \T1/lmr/m/n/10 (-20) student-[]motivation-[]in-[]online-[]science-[]courses-[]a
 -[]path-[]to-[]spending-[]more-[]time-[]on-[]course-[]and-[]higher-[]achievemen
 t/$[] 
  []
 
 [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1335.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1340.
 [16]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1335.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1340.
 (./rosenberg-cv.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1335.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1335.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1340.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1340.
 
 Package rerunfilecheck Info: File `rosenberg-cv.out' has not changed.
 (rerunfilecheck)             Checksum: A31457CAB4A26C431CE91BDD677CDDA1;6361.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1335.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1340.
  ) 
 Here is how much of TeX's memory you used:
- 11905 strings out of 494587
- 175762 string characters out of 6176888
+ 11903 strings out of 494587
+ 175740 string characters out of 6176888
  276970 words of memory out of 5000000
  15152 multiletter control sequences out of 15000+600000
- 44006 words of font info for 115 fonts, out of 8000000 for 9000
+ 43876 words of font info for 114 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  32i,5n,38p,393b,347s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/Users/jrosenb8/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</Us
@@ -687,10 +687,10 @@ s/jrosenb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></Users/
 jrosenb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/jro
 senb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.pfb></Users/jrosen
 b8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb>
-Output written on rosenberg-cv.pdf (16 pages, 202551 bytes).
+Output written on rosenberg-cv.pdf (16 pages, 202798 bytes).
 PDF statistics:
- 368 PDF objects out of 1000 (max. 8388607)
- 341 compressed objects within 4 object streams
+ 369 PDF objects out of 1000 (max. 8388607)
+ 342 compressed objects within 4 object streams
  95 named destinations out of 1000 (max. 500000)
  8505 words of extra memory for PDF output out of 10000 (max. 10000000)
 
