@@ -64,7 +64,7 @@ C.D. Owen High School, Swannanoa, NC
 
 Xu, R., Frank, K. A., Maroulis, S., & Rosenberg, J. M. (in press). Konfound: A Stata module to quantify robustness of causal inferences. *The Stata Journal*. https://www.stata-journal.com/ (*Nb. Software-related publication*)
 
-Blondel, D. V., Sansone, A., Rosenberg, J. M., Yang, B. W., Linennbrink-Garcia, L., & Schwarz-Bloom, R. D. (in press). Development of an online experiment platform (Rex) for high school biology. *Journal of Formative Design for Learning*.
+Blondel, D. V., Sansone, A., Rosenberg, J. M., Yang, B. W., Linennbrink-Garcia, L., & Schwarz-Bloom, R. D. (advance online publication). Development of an online experiment platform (Rex) for high school biology. *Journal of Formative Design for Learning*. https://link.springer.com/article/10.1007/s41686-019-00030-5
 
 Henriksen, D., Mehta, R. & Rosenberg, J. (2019). Supporting a creatively focused technology fluent mindset among educators: survey results from a five-year inquiry into teachers’ confidence in using technology. *Journal of Technology and Teacher Education, 27*(1), 63-95. https://www.learntechlib.org/primary/p/184724/
 
@@ -175,6 +175,8 @@ Anderson, D., Rowlew, B., Irvin, P. S., Rosenberg, J. M., & Stegenga, S. (under 
 
 Akcaoglu, M., Rosenberg, J. M., Hodges, C., & Hilpert, J. (under review). An exploration of factors impacting middle school students’ attitudes toward computer programming.
 
+Rosenberg, J. M., Edwards, A., & Chen, B. (under review). Tools and strategies for engaging students in analyzing and interpreting complex data sources.
+
 ### Working papers
 
 Rosenberg, J. M., Schwarz, C. V., & Akcaoglu, M. (in preparation). Learning to teach scientific modeling: A longitudinal case study of two teachers' instructional practice.
@@ -235,6 +237,8 @@ Rosenberg, J. M. (2018). *Understanding work with data in summer STEM programs: 
 
 ### Peer-Reviewed Conference Presentations
 
+Schmidt, J. A., Rosenberg, J. M., & Beymer, P. N. (August, 2019). *Sources of Variability in Engagement: Exploring Situational, Personal, and Classroom Influences*. Poster presented at the annual meeting of the American Psychological Association, Chicago, IL.
+
 Greenhalgh, S. P., Huang, K., & Rosenberg, J. M. (2019, October). Understanding gaming communities and exploring learning opportunities: A computational grounded theory approach. Paper to be presented at the meeting of the Association for Educational Communications and Technology International Convention, Las Vegas, NV.
 
 Rosenberg, J. M, Beymer, P. N., Houslay, T. M., & Schmidt, J. A. (2019, April). Using a multivariate, multi-level model to understand how youths’ in-the-moment engagement predicts changes in youths’ interest. In M. Bernacki, A. Kaplan, and L. Linnenbrink-Garcia (Chairs), *Embracing and modeling the complex dynamics of motivation and engagement: Contextual, temporal, dynamic, and systematic*. Symposium conducted at the Annual Meeting of the American Educational Research Association, Toronto, CA. <a href = "https://osf.io/tk3dn/ "><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
@@ -250,6 +254,10 @@ Rosenberg, J. M., Reid, J., Koehler, M. J., Fischer, C., & McKenna, T. J. (2019,
 Akcaoglu, M., Hodges, C. B., Rosenberg, J. M., & Hilpert, J. (2018, October). *Factors impacting middle school students' interest, efficacy, and utility value of programming*. Paper presented at the Association for Educational Communications and Technology International Convention 2018. Kansas City, MO.
 
 Staudt Willet, K. B., Greenhalgh, S. P., Rosenberg, J. M., Koehler, M. J. (2018, October). *Won’t you be my neighbor? How education stakeholders use hyperlinks to build information neighborhoods on Twitter*. Paper to be presented at the Association for Educational Communications and Technology International Convention 2018. Kansas City, MO.
+
+Beymer, P. N., Rosenberg, J. M., Schmidt, J. A., Naftzger, N. J., & Shumow, L. (August, 2018). *Agency in summer STEM programs predicts interest and career aspirations*. Poster presented at the annual meeting of the American Psychological Association, San Francisco, CA.
+
+Schmidt, J. A., Beymer, P. N., Rosenberg, J. M., Naftzger, N. J., & Shumow, L. (August, 2018). *Examining the development of interest in summer STEM programs*. Poster presented at the annual meeting of the American Psychological Association, San Francisco, CA.    
 
 Beymer, P. N., Rosenberg, J.M.,  & Schmidt, J. A. (2018, April). *Investigating the effects of interest and choice: An experience sampling approach*. Paper presented at the Annual Meeting of the American Educational Research Association, New York, NY.
 

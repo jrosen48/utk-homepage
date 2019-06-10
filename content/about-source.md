@@ -301,6 +301,9 @@ Rosenberg, J. M. (2018). *Understanding work with data in summer STEM programs: 
 ### Peer-Reviewed Conference Presentations
 
 \hangindent=2em
+Schmidt, J. A., Rosenberg, J. M., & Beymer, P. N. (August, 2019). *Sources of Variability in Engagement: Exploring Situational, Personal, and Classroom Influences*. Poster presented at the annual meeting of the American Psychological Association, Chicago, IL.
+
+\hangindent=2em
 Greenhalgh, S. P., Huang, K., & Rosenberg, J. M. (2019, October). Understanding gaming communities and exploring learning opportunities: A computational grounded theory approach. Paper to be presented at the meeting of the Association for Educational Communications and Technology International Convention, Las Vegas, NV.
 
 \hangindent=2em
@@ -323,6 +326,12 @@ Akcaoglu, M., Hodges, C. B., Rosenberg, J. M., & Hilpert, J. (2018, October). *F
 
 \hangindent=2em
 Staudt Willet, K. B., Greenhalgh, S. P., Rosenberg, J. M., Koehler, M. J. (2018, October). *Won’t you be my neighbor? How education stakeholders use hyperlinks to build information neighborhoods on Twitter*. Paper to be presented at the Association for Educational Communications and Technology International Convention 2018. Kansas City, MO.
+
+\hangindent=2em
+Beymer, P. N., Rosenberg, J. M., Schmidt, J. A., Naftzger, N. J., & Shumow, L. (August, 2018). *Agency in summer STEM programs predicts interest and career aspirations*. Poster presented at the annual meeting of the American Psychological Association, San Francisco, CA.
+
+\hangindent=2em
+Schmidt, J. A., Beymer, P. N., Rosenberg, J. M., Naftzger, N. J., & Shumow, L. (August, 2018). *Examining the development of interest in summer STEM programs*. Poster presented at the annual meeting of the American Psychological Association, San Francisco, CA.    
 
 \hangindent=2em
 Beymer, P. N., Rosenberg, J.M.,  & Schmidt, J. A. (2018, April). *Investigating the effects of interest and choice: An experience sampling approach*. Paper presented at the Annual Meeting of the American Educational Research Association, New York, NY.

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.2.16)  25 MAY 2019 21:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.30)  10 JUN 2019 10:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -368,10 +368,6 @@ Package hobsub Info: Skipping package `ifvtex' (already loaded).
 Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
 Package hobsub Info: Skipping package `ifpdf' (already loaded).
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
 Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
@@ -656,7 +652,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 {/Users/joshuarosenberg/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdfte
 x.map}] [2] [3] [4]
-Overfull \hbox (262.7334pt too wide) in paragraph at lines 413--418
+Overfull \hbox (262.7334pt too wide) in paragraph at lines 414--419
 \T1/lmr/m/it/10 Pol-icy, In-no-va-tion & Net-works\T1/lmr/m/n/10 . []$https : /
  / mvlri . org / blog / student-[]motivation-[]in-[]online-[]science-[]courses-
 []a-[]path-[]to-[]spending-[]more-[]time-[]on-[]course-[]and-[]higher-[]achieve
@@ -664,22 +660,22 @@ ment/$[]
  []
 
 [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1257.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1263.
 [16]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1257.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1263.
 (./rosenberg-cv-for-word.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1257.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1257.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1263.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1263.
 
 Package rerunfilecheck Info: File `rosenberg-cv-for-word.out' has not changed.
 (rerunfilecheck)             Checksum: A31457CAB4A26C431CE91BDD677CDDA1;6361.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1257.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1263.
  ) 
 Here is how much of TeX's memory you used:
- 10211 strings out of 494562
- 145827 string characters out of 6176071
- 215108 words of memory out of 5000000
- 13701 multiletter control sequences out of 15000+600000
+ 10207 strings out of 494553
+ 145786 string characters out of 6175978
+ 214319 words of memory out of 5000000
+ 13706 multiletter control sequences out of 15000+600000
  35918 words of font info for 37 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  28i,5n,32p,402b,328s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -690,10 +686,10 @@ m/lmbx12.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/pub
 lic/lm/lmr10.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1
 /public/lm/lmr17.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/t
 ype1/public/lm/lmri10.pfb>
-Output written on rosenberg-cv-for-word.pdf (16 pages, 195700 bytes).
+Output written on rosenberg-cv-for-word.pdf (16 pages, 196387 bytes).
 PDF statistics:
- 320 PDF objects out of 1000 (max. 8388607)
- 294 compressed objects within 3 object streams
+ 322 PDF objects out of 1000 (max. 8388607)
+ 296 compressed objects within 3 object streams
  56 named destinations out of 1000 (max. 500000)
  313 words of extra memory for PDF output out of 10000 (max. 10000000)
 
