@@ -50,7 +50,7 @@ University of Tennessee, Knoxville
 2012-2018, Graduate Research and Teaching Assistant    
 Michigan State University  
 
-## Related (K-12 Teaching) Experience
+## Related (K-12 Teaching) Professional Experience 
 
 2010-2012, Science Teacher (Biology and Earth Science)  
 Shelby High School, Shelby, NC  
@@ -68,7 +68,7 @@ Blondel, D. V., Sansone, A., Rosenberg, J. M., Yang, B. W., Linennbrink-Garcia, 
 
 Henriksen, D., Mehta, R. & Rosenberg, J. (2019). Supporting a creatively focused technology fluent mindset among educators: survey results from a five-year inquiry into teachers’ confidence in using technology. *Journal of Technology and Teacher Education, 27*(1), 63-95. https://www.learntechlib.org/primary/p/184724/
 
-Rosenberg, J. M., & Lawson, M. J. (2019). An investigation of students’ use of a computational science simulation in an online high school physics class, *Education Sciences, 9*(49), 1-19. https://www.mdpi.com/2227-7102/9/1/49 <a href = "https://osf.io/y925f/"><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> <a href = "/pre-prints/Rosenberg-Lawson-2019-es.pdf"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
+Rosenberg, J. M., & Lawson, M. J. (2019). An investigation of students’ use of a computational science simulation in an online high school physics class. *Education Sciences, 9*(49), 1-19. https://www.mdpi.com/2227-7102/9/1/49 <a href = "https://osf.io/y925f/"><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> <a href = "/pre-prints/Rosenberg-Lawson-2019-es.pdf"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
 Rosenberg, J. M., Beymer, P. N., Anderson, D. J., & Schmidt, J. A. (2018). tidyLPA: An R package to easily carry out Latent Profile Analysis (LPA) using open-source or commercial software. *Journal of Open Source Software, 3*(30), 978. https://doi.org/10.21105/joss.00978 <a href = "/pre-prints/rosenberg-et-al-2018-joss.pdf"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> (*Nb. Software-related publication*)
 
@@ -222,6 +222,8 @@ Rosenberg, J. M. (2018). *Understanding work with data in summer STEM programs: 
 2015, Cotterman Family Endowment for Education Summer Research Fellowship ($6,000), MSU
 
 2013, Massive Open Online Course Research and Development Fellowship ($1,000), MSU
+
+2009-2012, Burroughs Wellcome Fund Scholar, University of North Carolina Asheville
 
 ## Awards
 
@@ -405,8 +407,6 @@ Rosenberg, J. M., Xu, R., & Frank, K. A. (2018). Konfound-It!: Quantify the Robu
 
 ### Teaching Awards
 
-**Michigan State University**
-
 MSU-AT&T Instructional Technology Award: Best Online Course, 2014
 
 MSU-AT&T Instructional Technology Award (Honorable Mention): Best Online Course, 2013  
@@ -481,22 +481,22 @@ Reviewer, Proposals from Knox County Schools students for theNASA Student Spacef
 
 ### Ad-hoc Journal Article Reviews
 
-AERA Open, 2019
-Asia-Pacific Education Researcher, 2018
-Australasian Journal of Educational Technology (2), 2018
-British Journal of Educational Technology, 2016
-Computers & Education, 2016, 2017, 2018
-Contemporary Educational Psychology, 2018
-Contemporary Issues in Technology and Teacher Education, 2015
-Education Sciences, 2019 (2)
-E-Learning and Digital Media (2), 2016
-Journal of Educational Technology & Society, 2017
-Journal of the Learning Sciences, 2019
-Journal of Open Source Education, 2019
-Journal of Open Source Software, 2018
-Journal of Research in Science Teaching, 2019
-Journal of Science Education and Technology, 2019
-TechTrends, 2019 (2)
+- AERA Open, 2019  
+- Asia-Pacific Education Researcher, 2018  
+- Australasian Journal of Educational Technology (2), 2018  
+- British Journal of Educational Technology, 2016  
+- Computers & Education, 2016, 2017, 2018  
+- Contemporary Educational Psychology, 2018  
+- Contemporary Issues in Technology and Teacher Education, 2015  
+- Education Sciences, 2019 (2)  
+- E-Learning and Digital Media (2), 2016  
+- Journal of Educational Technology & Society, 2017  
+- Journal of the Learning Sciences, 2019  
+- Journal of Open Source Education, 2019  
+- Journal of Open Source Software, 2018  
+- Journal of Research in Science Teaching, 2019  
+- Journal of Science Education and Technology, 2019  
+- TechTrends, 2019 (2)  
 
 ### Departmental Service 
 
