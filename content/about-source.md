@@ -606,19 +606,28 @@ Reviewer, Proposals from Knox County Schools students for theNASA Student Spacef
 
 ### Ad-hoc Journal Article Reviews
 
-AERA Open, Education Sciences (2), Journal of Open Source Education, Journal of Research in Science Teaching, TechTrends, 2019
-
-Contemporary Educational Psychology, Computers & Education, Australasian Journal of Educational Technology (2), Journal of Open Source Software, Asia-Pacific Education Researcher, 2018
-
-Computers & Education, Journal of Educational Technology & Society, 2017
-
-Computers & Education, British Journal of Educational Technology, E-Learning and Digital Media (2), 2016
-
+AERA Open, 2019
+Asia-Pacific Education Researcher, 2018
+Australasian Journal of Educational Technology (2), 2018
+British Journal of Educational Technology, 2016
+Computers & Education, 2016, 2017, 2018
+Contemporary Educational Psychology, 2018
 Contemporary Issues in Technology and Teacher Education, 2015
+Education Sciences, 2019 (2)
+E-Learning and Digital Media (2), 2016
+Journal of Educational Technology & Society, 2017
+Journal of the Learning Sciences, 2019
+Journal of Open Source Education, 2019
+Journal of Open Source Software, 2018
+Journal of Research in Science Teaching, 2019
+Journal of Science Education and Technology, 2019
+TechTrends, 2019 (2)
 
 ### Departmental Service 
 
 *University of Tennessee, Knoxville*
+
+Mentor in AERA Bootcamp (2019)
 
 Committee member for one Ph.D student (2019)
 
