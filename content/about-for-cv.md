@@ -50,7 +50,7 @@ University of Tennessee, Knoxville
 2012-2018, Graduate Research and Teaching Assistant    
 Michigan State University  
 
-## Related Professional Experience (K-12 Teaching)
+## Related (K-12 Teaching) Professional Experience 
 
 2010-2012, Science Teacher (Biology and Earth Science)  
 Shelby High School, Shelby, NC  
