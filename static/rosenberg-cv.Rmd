@@ -724,6 +724,10 @@ Rosenberg, J. M., Rapa, L., & Wolf, L. G. (2013, February). CEP 815 and the tran
 \hangindent=2em
 Rosenberg, J. M. (2012, November). Mobile learning for teachers. Presentation at the Michigan State University Educational Technology Conference, East Lansing, MI. 
 
+## Podcast
+
+Co-host of the [*Impodster Syndrome* podcast](http://impodstersyndrome.libsyn.com/). 
+
 ## Consulting
 
 2017-2019, Statistical software development

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.30)  23 JUN 2019 08:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.30)  23 JUN 2019 08:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -739,23 +739,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 1131--1133
 
  []
 
-[14] [15]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1311.
-[16]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1311.
+[14] [15] [16]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1317.
+[17]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1317.
 (./rosenberg-cv-for-word.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1311.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1311.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1317.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1317.
 
 Package rerunfilecheck Info: File `rosenberg-cv-for-word.out' has not changed.
-(rerunfilecheck)             Checksum: CD0413B3547C06E75EBF5F4570582717;6429.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1311.
+(rerunfilecheck)             Checksum: 3480C9D43543066A3D7774484EC914DA;6540.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1317.
  ) 
 Here is how much of TeX's memory you used:
- 10238 strings out of 494553
- 146661 string characters out of 6175978
- 215332 words of memory out of 5000000
- 13733 multiletter control sequences out of 15000+600000
+ 10242 strings out of 494553
+ 146707 string characters out of 6175978
+ 215370 words of memory out of 5000000
+ 13735 multiletter control sequences out of 15000+600000
  36283 words of font info for 38 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  28i,5n,32p,402b,388s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -767,10 +767,10 @@ mbx10.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/public
 ublic/lm/lmr10.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/typ
 e1/public/lm/lmr17.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts
 /type1/public/lm/lmri10.pfb>
-Output written on rosenberg-cv-for-word.pdf (16 pages, 197478 bytes).
+Output written on rosenberg-cv-for-word.pdf (17 pages, 198145 bytes).
 PDF statistics:
- 326 PDF objects out of 1000 (max. 8388607)
- 300 compressed objects within 3 object streams
- 56 named destinations out of 1000 (max. 500000)
- 313 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 336 PDF objects out of 1000 (max. 8388607)
+ 308 compressed objects within 4 object streams
+ 58 named destinations out of 1000 (max. 500000)
+ 321 words of extra memory for PDF output out of 10000 (max. 10000000)
 
