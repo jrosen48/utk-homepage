@@ -6,10 +6,31 @@
     <description>Recent content in Home on Joshua M. Rosenberg, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Presentation on the use of mixed effects models to the KnoxData group</title>
+      <link>/post/2019/06/21/presentation-on-the-use-of-mixed-effects-models-to-the-knoxdata-group/</link>
+      <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019/06/21/presentation-on-the-use-of-mixed-effects-models-to-the-knoxdata-group/</guid>
+      <description>data-science-ish I presented yesterday on Data Science-Ish: The Use of Mixed Effects Models for Analyzing Complex Data at the KnoxData group.
+Abstract Here is an abstract for the talk:
+ Mixed effects (or multilevel) models are extensions of linear models (regressions) that are commonly used in experimental research and policy and evaluation contexts, but are less widely-used by data scientists. In this talk, I aim to introduce mixed effects model as a data science-ish statistical method that can be useful and is easy to estimate and interpret.</description>
+    </item>
+    
+    <item>
+      <title>Recent publications on an online experiment platform, creatively focused technology fluency, and a computational science simulation</title>
+      <link>/post/2019/06/15/recent-publications-a-virtual-experiment-platform-a-creatively-focused-technology-mindset-and-students-use-of-a-computationa-science-simulation/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019/06/15/recent-publications-a-virtual-experiment-platform-a-creatively-focused-technology-mindset-and-students-use-of-a-computationa-science-simulation/</guid>
+      <description>I realized I haven&amp;rsquo;t written about a few exciting manuscripts that I have co-authored or authored that have been published in the past year! The following pubications are on the design of virtual experiment platform, a creatively focused technology mindset, and students’ use of a computational science simulation, respectively.
+ Blondel, D. V., Sansone, A., Rosenberg, J. M., Yang, B. W., Linennbrink-Garcia, L., &amp;amp; Schwarz-Bloom, R. D. (advance online publication). Development of an online experiment platform (Rex) for high school biology.</description>
+    </item>
     
     <item>
       <title>Presentation on &#39;Won’t you be my neighboR? An introduction to R for data science in education&#39;</title>

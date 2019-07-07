@@ -50,7 +50,7 @@ University of Tennessee, Knoxville
 2012-2018, Graduate Research and Teaching Assistant    
 Michigan State University  
 
-## Related (K-12 Teaching) Experience
+## Related (K-12 Teaching) Professional Experience 
 
 2010-2012, Science Teacher (Biology and Earth Science)  
 Shelby High School, Shelby, NC  
@@ -66,9 +66,9 @@ Xu, R., Frank, K. A., Maroulis, S., & Rosenberg, J. M. (in press). Konfound: A S
 
 Blondel, D. V., Sansone, A., Rosenberg, J. M., Yang, B. W., Linennbrink-Garcia, L., & Schwarz-Bloom, R. D. (advance online publication). Development of an online experiment platform (Rex) for high school biology. *Journal of Formative Design for Learning*. https://link.springer.com/article/10.1007/s41686-019-00030-5
 
-Henriksen, D., Mehta, R. & Rosenberg, J. (2019). Supporting a creatively focused technology fluent mindset among educators: survey results from a five-year inquiry into teachers’ confidence in using technology. *Journal of Technology and Teacher Education, 27*(1), 63-95. https://www.learntechlib.org/primary/p/184724/
+Henriksen, D., Mehta, R. & Rosenberg, J. (2019). Supporting a creatively focused technology fluent mindset among educators: survey results from a five-year inquiry into teachers’ confidence in using technology. *Journal of Technology and Teacher Education, 27*(1), 63-95. https://www.learntechlib.org/primary/p/184724/ <a href = "https://www.researchgate.net/publication/333405313_Supporting_A_Creatively_Focused_Technology_Fluent_Mindset_Among_Educators_A_Five-Year_Inquiry_Into_Teachers'_Confidence_With_Technology"><img src="/logos/research-gate.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"/></a>
 
-Rosenberg, J. M., & Lawson, M. J. (2019). An investigation of students’ use of a computational science simulation in an online high school physics class, *Education Sciences, 9*(49), 1-19. https://www.mdpi.com/2227-7102/9/1/49 <a href = "https://osf.io/y925f/"><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> <a href = "/pre-prints/Rosenberg-Lawson-2019-es.pdf"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
+Rosenberg, J. M., & Lawson, M. J. (2019). An investigation of students’ use of a computational science simulation in an online high school physics class. *Education Sciences, 9*(49), 1-19. https://www.mdpi.com/2227-7102/9/1/49 <a href = "https://osf.io/y925f/"><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> <a href = "/pre-prints/Rosenberg-Lawson-2019-es.pdf"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
 Rosenberg, J. M., Beymer, P. N., Anderson, D. J., & Schmidt, J. A. (2018). tidyLPA: An R package to easily carry out Latent Profile Analysis (LPA) using open-source or commercial software. *Journal of Open Source Software, 3*(30), 978. https://doi.org/10.21105/joss.00978 <a href = "/pre-prints/rosenberg-et-al-2018-joss.pdf"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> (*Nb. Software-related publication*)
 
@@ -195,6 +195,8 @@ Rosenberg, J. M. (2018). *Understanding work with data in summer STEM programs: 
 
 ## Grants
 
+### Funded Grants
+
 2017-2020, Consultant, Profiles of science engagement: Broadening participation by understanding individual and contextual influences ($499,927). National Science Foundation (PI: Jennifer Schmidt)
 
 2019-2020, PI, Planting the seeds for computer science education in East Tennessee through a research-practice partnership. ($13,200). Community Engaged Research Seed Program, University of Tennessee, Knoxville
@@ -202,6 +204,18 @@ Rosenberg, J. M. (2018). *Understanding work with data in summer STEM programs: 
 2018-2019, Co-PI, Exploring how beginning elementary mathematics teachers seek out resources through social media ($8,820), Herman and Rasiej Math Initiative at the University of Southern California (PI: Stephen Aguilar)
 
 2013, PI, Basic Biology for Everyone ($2,000), Versal Foundation Grant
+
+### Pending Grants
+
+2020-2024, Co-PI, Imagining possibilities in post-secondary education and STEMM in rural Appalachia. National Institutes of Health.
+
+2020-2022, PI, Understanding the development of interest in computer science: An experience sampling approach. National Science Foundation.
+
+2019-2021, Co-PI, CS for Appalachia: A research-practice partnership for integrating computer science into East Tennessee schools. National Science Foundation.
+
+2019-2022, Co-PI, Advancing computational grounded theory for audiovisual data from STEM classrooms. National Science Foundation.
+
+2019-2021, Co-PI, Exploring informal STEM learning: Analyzing youth autonomous motivation and adult mentor instructional practices within a badging framework. National Science Foundation.
 
 ## Fellowships and Awards
 
@@ -223,6 +237,8 @@ Rosenberg, J. M. (2018). *Understanding work with data in summer STEM programs: 
 
 2013, Massive Open Online Course Research and Development Fellowship ($1,000), MSU
 
+2009-2012, Burroughs Wellcome Fund Scholar, University of North Carolina Asheville
+
 ## Awards
 
 2019, Finalist, Association for Science Teacher Education John C. Park National Technology Leadership Institute Fellowship
@@ -236,6 +252,8 @@ Rosenberg, J. M. (2018). *Understanding work with data in summer STEM programs: 
 ## Presentations 
 
 ### Peer-Reviewed Conference Presentations
+
+Schmidt, J. A., Rosenberg, J. M., & Beymer, P. N. (August, 2019). *Sources of Variability in Engagement: Exploring Situational, Personal, and Classroom Influences*. Poster presented at the annual meeting of the American Psychological Association, Chicago, IL.
 
 Greenhalgh, S. P., Huang, K., & Rosenberg, J. M. (2019, October). Understanding gaming communities and exploring learning opportunities: A computational grounded theory approach. Paper to be presented at the meeting of the Association for Educational Communications and Technology International Convention, Las Vegas, NV.
 
@@ -252,6 +270,10 @@ Rosenberg, J. M., Reid, J., Koehler, M. J., Fischer, C., & McKenna, T. J. (2019,
 Akcaoglu, M., Hodges, C. B., Rosenberg, J. M., & Hilpert, J. (2018, October). *Factors impacting middle school students' interest, efficacy, and utility value of programming*. Paper presented at the Association for Educational Communications and Technology International Convention 2018. Kansas City, MO.
 
 Staudt Willet, K. B., Greenhalgh, S. P., Rosenberg, J. M., Koehler, M. J. (2018, October). *Won’t you be my neighbor? How education stakeholders use hyperlinks to build information neighborhoods on Twitter*. Paper to be presented at the Association for Educational Communications and Technology International Convention 2018. Kansas City, MO.
+
+Beymer, P. N., Rosenberg, J. M., Schmidt, J. A., Naftzger, N. J., & Shumow, L. (August, 2018). *Agency in summer STEM programs predicts interest and career aspirations*. Poster presented at the annual meeting of the American Psychological Association, San Francisco, CA.
+
+Schmidt, J. A., Beymer, P. N., Rosenberg, J. M., Naftzger, N. J., & Shumow, L. (August, 2018). *Examining the development of interest in summer STEM programs*. Poster presented at the annual meeting of the American Psychological Association, San Francisco, CA.    
 
 Beymer, P. N., Rosenberg, J.M.,  & Schmidt, J. A. (2018, April). *Investigating the effects of interest and choice: An experience sampling approach*. Paper presented at the Annual Meeting of the American Educational Research Association, New York, NY.
 
@@ -399,8 +421,6 @@ Rosenberg, J. M., Xu, R., & Frank, K. A. (2018). Konfound-It!: Quantify the Robu
 
 ### Teaching Awards
 
-**Michigan State University**
-
 MSU-AT&T Instructional Technology Award: Best Online Course, 2014
 
 MSU-AT&T Instructional Technology Award (Honorable Mention): Best Online Course, 2013  
@@ -475,19 +495,28 @@ Reviewer, Proposals from Knox County Schools students for theNASA Student Spacef
 
 ### Ad-hoc Journal Article Reviews
 
-AERA Open, Education Sciences (2), Journal of Open Source Education, Journal of Research in Science Teaching, TechTrends, 2019
-
-Contemporary Educational Psychology, Computers & Education, Australasian Journal of Educational Technology (2), Journal of Open Source Software, Asia-Pacific Education Researcher, 2018
-
-Computers & Education, Journal of Educational Technology & Society, 2017
-
-Computers & Education, British Journal of Educational Technology, E-Learning and Digital Media (2), 2016
-
-Contemporary Issues in Technology and Teacher Education, 2015
+- AERA Open, 2019  
+- Asia-Pacific Education Researcher, 2018  
+- Australasian Journal of Educational Technology (2), 2018  
+- British Journal of Educational Technology, 2016  
+- Computers & Education, 2016, 2017, 2018  
+- Contemporary Educational Psychology, 2018  
+- Contemporary Issues in Technology and Teacher Education, 2015  
+- Education Sciences, 2019 (2)  
+- E-Learning and Digital Media (2), 2016  
+- Journal of Educational Technology & Society, 2017  
+- Journal of the Learning Sciences, 2019  
+- Journal of Open Source Education, 2019  
+- Journal of Open Source Software, 2018  
+- Journal of Research in Science Teaching, 2019  
+- Journal of Science Education and Technology, 2019  
+- TechTrends, 2019 (2)  
 
 ### Departmental Service 
 
 *University of Tennessee, Knoxville*
+
+Mentor in AERA Bootcamp (2019)
 
 Committee member for one Ph.D student (2019)
 
@@ -508,6 +537,8 @@ Provided enrichment activities related to data science to two classes, Knox Coun
 ### Workshops and Outreach
 
 Rosenberg, J. M., Staudt Willet, K. B., & Greenhalgh, S. P. (2019, October). Online data and open source tools: Analyzing educational internet data Using R. Workshop carried out at the Association for Educational Communications and Technology, Las Vegas, NV.
+
+Rosenberg, J. M. (2019, June). The use of mixed effects models for analyzing complex data. Presentation for the KnoxData group, Knoxville, TN. <a href = "https://github.com/jrosen48/data-science-ish"><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
 Rosenberg, J. M. (2019, May). Working with data in education: Using data and supporting students to use data. Workshop carried out for teachers at Knoxville Jewish Day School. https://docs.google.com/presentation/d/1uSdRvF2GjhUpO2fCHZIUdXmf0texzczGGlbzmZBgggw/edit?usp=sharing 
 
@@ -556,6 +587,10 @@ Ke, L., Lee, M., Rosenberg, J. M., & Schwarz, C.V. (2014, February). Modeling ac
 Rosenberg, J. M., Rapa, L., & Wolf, L. G. (2013, February). CEP 815 and the transition from ANGEL to Desire2Learn. Poster presented at the 6th Annual Faculty Technology Showcase.
 
 Rosenberg, J. M. (2012, November). Mobile learning for teachers. Presentation at the Michigan State University Educational Technology Conference, East Lansing, MI. 
+
+## Podcast
+
+Co-host of the [*Impodster Syndrome* podcast](http://impodstersyndrome.libsyn.com/). 
 
 ## Consulting
 

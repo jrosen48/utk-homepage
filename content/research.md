@@ -20,6 +20,10 @@ Visit this page [here](https://www.joshuamrosenberg.com/about/) for information 
 
 Here is a sample of ongoing research projects. 
 
+**Planting the Seeds for Computer Science Education**
+
+I am presently PI for the University of Tennesee, Knoxville, Community Engaged Research Seed Program-supported project *Planting the seeds for computer science education in East Tennessee through a research-practice partnership*.
+
 **Profiles of Science Engagement**
 
 I am presently a consultant for a project with [Jennifer Schmidt (Michigan State University)](http://education.msu.edu/search/FormView.aspx?email=jaschmid%40msu.edu) with the following aims:
