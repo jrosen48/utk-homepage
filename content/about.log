@@ -2,8 +2,8 @@ This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**rosenberg-cv.tex
-(./rosenberg-cv.tex
+**about.tex
+(./about.tex
 LaTeX2e <2018-04-01> patch level 5
 (/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
@@ -488,8 +488,8 @@ Package: titling 2009/09/04 v2.1d maketitle typesetting
 LaTeX Warning: Unused global option(s):
     [14].
 
-(./rosenberg-cv.aux)
-\openout1 = `rosenberg-cv.aux'.
+(./about.aux)
+\openout1 = `about.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 85.
 LaTeX Font Info:    ... okay on input line 85.
@@ -579,9 +579,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 85.
 LaTeX Info: Redefining \pageref on input line 85.
 LaTeX Info: Redefining \nameref on input line 85.
-(./rosenberg-cv.out) (./rosenberg-cv.out)
+(./about.out) (./about.out)
 \@outlinefile=\write3
-\openout3 = `rosenberg-cv.out'.
+\openout3 = `about.out'.
 
 
 (/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/oberdiek/epstopdf-base.st
@@ -601,40 +601,36 @@ G,.JBIG2,.JB2,.eps]
 cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
-))
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 100.
-
+)) (./about.toc
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 1.
 (/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 100.
-
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 1.
 (/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 100
-.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 1.
 (/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 100
-.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 1.
 (/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 100.
+(Font)              <10> on input line 1.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 100.
+(Font)              <7> on input line 1.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 100.
-LaTeX Font Info:    Try loading font information for U+msa on input line 100.
+(Font)              <5> on input line 1.
+LaTeX Font Info:    Try loading font information for U+msa on input line 1.
 (/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ) (/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 100.
+LaTeX Font Info:    Try loading font information for U+msb on input line 1.
 (/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/microtype/mt-msb.cfg
@@ -642,136 +638,136 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 ) [1
 
 {/Users/jrosenb8/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-[2] [3] [4]
-Underfull \hbox (badness 1292) in paragraph at lines 452--457
-[]\T1/lmr/m/n/10 (+20) Rosenberg, J. M., & Ranel-lucci, J. (2017). Stu-dent mo-
-ti-va-tion in on-line sci-ence courses: A
- []
+)
+\tf@toc=\write4
+\openout4 = `about.toc'.
 
-
-Underfull \hbox (badness 1596) in paragraph at lines 452--457
-\T1/lmr/m/it/10 (+20) Re-search In-sti-tute Blog: Re-search, Pol-icy, In-no-va-
-tion & Net-works\T1/lmr/m/n/10 (+20) . []$https : / / mvlri . org / blog /
- []
-
-
-Overfull \hbox (28.91351pt too wide) in paragraph at lines 452--457
-\T1/lmr/m/n/10 (-20) student-[]motivation-[]in-[]online-[]science-[]courses-[]a
--[]path-[]to-[]spending-[]more-[]time-[]on-[]course-[]and-[]higher-[]achievemen
-t/$[] 
- []
-
-[5] [6] [7] [8] [9] [10] [11] [12] [13]
-LaTeX Font Info:    Try loading font information for TS1+lmr on input line 1201
-.
+LaTeX Font Info:    Try loading font information for TS1+lmr on input line 99.
 (/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-Underfull \hbox (badness 10000) in paragraph at lines 1201--1203
+) [2] [3] [4] [5] [6]
+Overfull \hbox (246.39156pt too wide) in paragraph at lines 568--573
+\T1/lmr/m/it/10 (-20) Pol-icy, In-no-va-tion & Net-works\T1/lmr/m/n/10 (-20) . 
+[]$https : / / mvlri . org / blog / student-[]motivation-[]in-[]online-[]scienc
+e-[]courses-[]a-[]path-[]to-[]spending-[]more-[]time-[]on-[]course-[]and-[]high
+er-[]achievement/$[] 
+ []
+
+[7] [8] [9] [10] [11] [12] [13] [14] [15]
+Underfull \hbox (badness 10000) in paragraph at lines 1304--1306
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1203--1205
+Underfull \hbox (badness 10000) in paragraph at lines 1306--1308
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1205--1207
+Underfull \hbox (badness 10000) in paragraph at lines 1308--1310
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1207--1209
+Underfull \hbox (badness 10000) in paragraph at lines 1310--1312
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1209--1211
+Underfull \hbox (badness 10000) in paragraph at lines 1312--1314
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1211--1213
-
- []
-
-[14]
-Underfull \hbox (badness 10000) in paragraph at lines 1213--1215
+Underfull \hbox (badness 10000) in paragraph at lines 1314--1316
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1215--1217
+Underfull \hbox (badness 10000) in paragraph at lines 1316--1318
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1217--1219
+Underfull \hbox (badness 10000) in paragraph at lines 1318--1320
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1219--1221
+Underfull \hbox (badness 10000) in paragraph at lines 1320--1322
+
+ []
+
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 1322--1324
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1221--1223
+Underfull \hbox (badness 10000) in paragraph at lines 1324--1326
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1223--1225
+Underfull \hbox (badness 10000) in paragraph at lines 1326--1328
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1225--1227
+Underfull \hbox (badness 10000) in paragraph at lines 1328--1330
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1227--1229
+Underfull \hbox (badness 10000) in paragraph at lines 1330--1332
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1229--1231
+Underfull \hbox (badness 10000) in paragraph at lines 1332--1334
 
  []
 
-[15] [16]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1427.
-[17]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1427.
-(./rosenberg-cv.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1427.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1427.
+[17] [18]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1525.
+[19]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1525.
+(./about.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1525.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1525.
 
-Package rerunfilecheck Info: File `rosenberg-cv.out' has not changed.
-(rerunfilecheck)             Checksum: 0F35BC7F82E1B23E1E4A23CAC90EAE61;6841.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1427.
+Package rerunfilecheck Info: File `about.out' has not changed.
+(rerunfilecheck)             Checksum: 13C68C741B8F52AE4B87E3662F1E7337;6842.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1525.
  ) 
 Here is how much of TeX's memory you used:
- 11956 strings out of 494587
- 176870 string characters out of 6176888
- 276121 words of memory out of 5000000
- 15188 multiletter control sequences out of 15000+600000
- 44501 words of font info for 117 fonts, out of 8000000 for 9000
+ 11972 strings out of 494587
+ 177072 string characters out of 6176888
+ 277087 words of memory out of 5000000
+ 15193 multiletter control sequences out of 15000+600000
+ 50628 words of font info for 120 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 32i,5n,38p,393b,400s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/Users/jrosenb8/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{/U
-sers/jrosenb8/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</Users/j
-rosenb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></Users/jro
-senb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></Users/jrose
-nb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/jrosenb8
-/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.pfb></Users/jrosenb8/Li
-brary/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb>
-Output written on rosenberg-cv.pdf (17 pages, 206464 bytes).
+ 32i,5n,38p,386b,464s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{r-packages-on-comprehensive-r-archive-network-ux2
+8cranux29} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{unpublished-manuscripts-} has been referenced but d
+oes not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{related-ux28k-12-teachingux29-professional-experien
+ce} has been referenced but does not exist, replaced by a fixed one
+
+{/Users/jrosenb8/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/User
+s/jrosenb8/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}</Users/jro
+senb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></Users/jrose
+nb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></Users/jrosenb
+8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/jrosenb8/L
+ibrary/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.pfb></Users/jrosenb8/Libr
+ary/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb>
+Output written on about.pdf (19 pages, 211642 bytes).
 PDF statistics:
- 400 PDF objects out of 1000 (max. 8388607)
- 372 compressed objects within 4 object streams
- 104 named destinations out of 1000 (max. 500000)
+ 500 PDF objects out of 1000 (max. 8388607)
+ 469 compressed objects within 5 object streams
+ 110 named destinations out of 1000 (max. 500000)
  8537 words of extra memory for PDF output out of 10000 (max. 10000000)
 

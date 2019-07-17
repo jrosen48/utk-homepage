@@ -21,6 +21,8 @@ The University of Tennessee, Knoxville
 420 Claxton, 1122 Volunteer Blvd., Knoxville, TN 37996  
 865-974-5973 | jmrosenberg@utk.edu | http://joshuamrosenberg.com  
 
+render_toc("about-source.md")
+
 ## Research Interests
 
 Science education, data science education, quantitative and computational research methods, educational technology
@@ -59,6 +61,10 @@ Shelby High School, Shelby, NC
 C.D. Owen High School, Swannanoa, NC  
 
 ## Publications
+
+### Book
+
+Bovee, E. A., Estrellado, R. A., Motsipak, J., Rosenberg, J. M., & Velásquez, I. C. (under contract). Data science in education using R. London, England: Routledge. *Nb.* All authors contributed equally. Repository available via https://github.com/data-edu/data-science-in-education. 
 
 ### Peer-Reviewed Journal Articles
 
