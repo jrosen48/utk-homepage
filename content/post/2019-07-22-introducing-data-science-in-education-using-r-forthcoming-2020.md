@@ -1,5 +1,5 @@
 ---
-title: Introducing Data Science in Education Using R (forthcoming 2020)!
+title: Introducing Data Science in Education Using R (forthcoming 2020)
 author: ''
 date: '2019-07-22'
 slug: introducing-data-science-in-education-using-r-forthcoming-2020
@@ -13,7 +13,7 @@ I'm super excited to share that I will be writing a book, *Data Science in Educa
 
 The book will be published with an amazing group of co-authors: [Emily Bovee](https://www.emilybovee.com/), [Ryan Estrellado](https://ryanestrellado.netlify.com/), [Jesse Motsipak](https://www.jessemaegan.com/), me, and [Isabella Velásquez](https://ivelasq.rbind.io). While the aims of the book may be ambitious (trying to speak to the role of data science across education roles), I know we have the right people (I'll leave it to you to decide about *this* co-author) to do it.
 
-## Thanks!
+## Some Thanks
 
 We started writing this book in the open, on GitHub (see the link at the bottom), and, as a result, this work was supported by many individuals it the [Data Edu Slack channel](https://dataedu.slack.com/) in which this book took form. On behalf of my co-authors, thank you to everyone who contributed code, suggested changes, asked questions and filed issues, and even designed a logo for us: [Abi Aryan](http://www.abiaryan.com/), [Jason Becker](https://www.linkedin.com/in/jsonbecker/), [William Bork](http://www.williambork.com/), [Erin Grande](http://eringrand.github.io/), [Jake Kaupp](http://www.jakekaupp.com/), [Ludmila Janda](https://www.linkedin.com/in/ludmila-janda-866259119/), [Kris Stevens](https://www.linkedin.com/in/kristopherdelanestevens/), [David Ranzolin](https://github.com/daranzolin), and [Bret Staudt Willet](http://bretsw.com/). Thank you, too, to [Enilda Romero-Hall](https://www.enildaromero.net/) and [Mark Warschauer](http://education.uci.edu/markw-bio.html) for sharing valuable advice on the book publishing process, as well as to folks on social media who have shared their excitement as well as writing tips with us. Finally, thanks to Hannah Shakespeare, our editor at Routledge, for interest in this work and for pursuing and eventually supporting us to publish a web-based version of the book.
 
