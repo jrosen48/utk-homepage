@@ -7,7 +7,7 @@ categories: []
 tags: []
 ---
 
-## Announcing Data Science in Education Using R
+## Data Science in Education Using R
 
 I'm super excited to share that I will be writing a book, *Data Science in Education Using R*. The book will be published by [Routledge](https://www.routledge.com) sometime in mid-to-late 2020, and, importantly to us, Routledge agreed to let us keep the copyright for a web-version of the book, meaning that we will publish the entire contents of the book in an open and freely-available format (along with the print and e-book versions, which will be available for sale). The project has been a bit of a labor of love and so it is very rewarding to be able to (finally) announce that the book will be published.
 
