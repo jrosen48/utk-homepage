@@ -15,7 +15,7 @@ The project has been a bit of a labor of love and so it is very rewarding to be 
 
 The book will be published with an amazing group of co-authors: [Emily Bovee](https://www.emilybovee.com/), [Ryan Estrellado](https://ryanestrellado.netlify.com/), [Jesse Motsipak](https://www.jessemaegan.com/), me, and [Isabella Velásquez](https://ivelasq.rbind.io). While the aims of the book (trying to speak to the role of data science across education roles) may be ambitious, I know we have the right people (I'll leave it to you to decide about *this* co-author) to do it.
 
-Here's a short description:
+Here's a short description from the proposal:
 
 > This book aims to give data science in education a common language and set of skills so that the community around this topic can grow and learn more together. It is a friendly welcome to educators who are interested in exploring techniques for data analysis in education. It adds to the growing body of data science books by demonstrating data science using the language, datasets, problems, and workflows that are specific to education. It aims to help educators move from “knowing about” data analysis tools to “knowing how to” conduct meaningful data analyses in their work. This book is ideal for educators at all grade levels looking to start exploring how to use data science in their everyday work, educators who are looking to level up their use of data by learning about programming and machine learning, data-savvy consultants who help educators meet their goals, or experienced data scientists looking for hands on examples that are directly from the education field.
 
