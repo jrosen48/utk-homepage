@@ -6,10 +6,18 @@
     <description>Recent content in Categories on Joshua M. Rosenberg, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>personal</title>
+      <link>/categories/personal/</link>
+      <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/personal/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>presentation</title>
@@ -17,33 +25,6 @@
       <pubDate>Sun, 19 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/presentation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>r</title>
-      <link>/categories/r/</link>
-      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>walkthrough</title>
-      <link>/categories/walkthrough/</link>
-      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/walkthrough/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>teaching</title>
-      <link>/categories/teaching/</link>
-      <pubDate>Wed, 29 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/teaching/</guid>
       <description></description>
     </item>
     
@@ -57,11 +38,11 @@
     </item>
     
     <item>
-      <title>personal</title>
-      <link>/categories/personal/</link>
-      <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
+      <title>r</title>
+      <link>/categories/r/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>/categories/personal/</guid>
+      <guid>/categories/r/</guid>
       <description></description>
     </item>
     
@@ -71,6 +52,24 @@
       <pubDate>Thu, 12 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/categories/r-package/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>teaching</title>
+      <link>/categories/teaching/</link>
+      <pubDate>Wed, 29 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>walkthrough</title>
+      <link>/categories/walkthrough/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/walkthrough/</guid>
       <description></description>
     </item>
     
