@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.5.31)  17 JUL 2019 12:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.5.31)  22 JUL 2019 12:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -641,113 +641,113 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 
 {/Users/jrosenb8/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 [2] [3] [4]
-Overfull \hbox (246.39156pt too wide) in paragraph at lines 435--440
+Overfull \hbox (246.39156pt too wide) in paragraph at lines 431--436
 \T1/lmr/m/it/10 (-20) Pol-icy, In-no-va-tion & Net-works\T1/lmr/m/n/10 (-20) . 
 []$https : / / mvlri . org / blog / student-[]motivation-[]in-[]online-[]scienc
 e-[]courses-[]a-[]path-[]to-[]spending-[]more-[]time-[]on-[]course-[]and-[]high
 er-[]achievement/$[] 
  []
 
-[5] [6] [7] [8] [9] [10] [11] [12] [13]
-LaTeX Font Info:    Try loading font information for TS1+lmr on input line 1171
+[5] [6] [7] [8] [9] [10] [11] [12]
+LaTeX Font Info:    Try loading font information for TS1+lmr on input line 1123
 .
 (/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-Underfull \hbox (badness 10000) in paragraph at lines 1171--1173
+Underfull \hbox (badness 10000) in paragraph at lines 1123--1125
+
+ []
+
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 1125--1127
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1173--1175
+Underfull \hbox (badness 10000) in paragraph at lines 1127--1129
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1175--1177
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1131
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1177--1179
+Underfull \hbox (badness 10000) in paragraph at lines 1131--1133
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1179--1181
+Underfull \hbox (badness 10000) in paragraph at lines 1133--1135
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1181--1183
+Underfull \hbox (badness 10000) in paragraph at lines 1135--1137
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1183--1185
+Underfull \hbox (badness 10000) in paragraph at lines 1137--1139
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1185--1187
+Underfull \hbox (badness 10000) in paragraph at lines 1139--1141
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1187--1189
+Underfull \hbox (badness 10000) in paragraph at lines 1141--1143
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1189--1191
+Underfull \hbox (badness 10000) in paragraph at lines 1143--1145
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1191--1193
+Underfull \hbox (badness 10000) in paragraph at lines 1145--1147
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1193--1195
+Underfull \hbox (badness 10000) in paragraph at lines 1147--1149
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1195--1197
+Underfull \hbox (badness 10000) in paragraph at lines 1149--1151
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1197--1199
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1199--1201
+Underfull \hbox (badness 10000) in paragraph at lines 1151--1153
 
  []
 
 [14] [15] [16]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1392.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1344.
 [17]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1392.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1344.
 (./rosenberg-cv-for-word.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1392.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1392.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1344.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1344.
 
 Package rerunfilecheck Info: File `rosenberg-cv-for-word.out' has not changed.
-(rerunfilecheck)             Checksum: 0F35BC7F82E1B23E1E4A23CAC90EAE61;6841.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1392.
+(rerunfilecheck)             Checksum: 93DBD06FF97ED40828D864F8D17DD856;6626.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1344.
  ) 
 Here is how much of TeX's memory you used:
- 11958 strings out of 494587
- 177009 string characters out of 6176888
- 276166 words of memory out of 5000000
- 15188 multiletter control sequences out of 15000+600000
+ 11954 strings out of 494587
+ 176923 string characters out of 6176888
+ 277112 words of memory out of 5000000
+ 15186 multiletter control sequences out of 15000+600000
  44631 words of font info for 118 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 32i,5n,38p,402b,338s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 32i,5n,38p,402b,398s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/Users/jrosenb8/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{/U
 sers/jrosenb8/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</Users/j
 rosenb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></Users/jro
@@ -755,10 +755,10 @@ senb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></Users/jrose
 nb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/jrosenb8
 /Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.pfb></Users/jrosenb8/Li
 brary/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb>
-Output written on rosenberg-cv-for-word.pdf (17 pages, 205369 bytes).
+Output written on rosenberg-cv-for-word.pdf (17 pages, 203444 bytes).
 PDF statistics:
- 398 PDF objects out of 1000 (max. 8388607)
- 370 compressed objects within 4 object streams
- 104 named destinations out of 1000 (max. 500000)
- 8537 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 391 PDF objects out of 1000 (max. 8388607)
+ 363 compressed objects within 4 object streams
+ 102 named destinations out of 1000 (max. 500000)
+ 8529 words of extra memory for PDF output out of 10000 (max. 10000000)
 

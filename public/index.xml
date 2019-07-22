@@ -6,10 +6,19 @@
     <description>Recent content in Home on Joshua M. Rosenberg, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Introducing Data Science in Education Using R (forthcoming 2020)</title>
+      <link>/post/2019/07/22/introducing-data-science-in-education-using-r-forthcoming-2020/</link>
+      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019/07/22/introducing-data-science-in-education-using-r-forthcoming-2020/</guid>
+      <description>Data Science in Education Using R I&amp;rsquo;m super excited to share that I will be writing a book, Data Science in Education Using R. The book will be published by Routledge sometime in mid-to-late 2020, and, importantly to us, Routledge agreed to let us keep the copyright for a web-version of the book, meaning that we will publish the entire contents of the book in an open and freely-available format (along with the print and e-book versions, which will be available for sale).</description>
+    </item>
     
     <item>
       <title>Presentation on the use of mixed effects models to the KnoxData group</title>
@@ -695,12 +704,12 @@ Department of Theory and Practice in Teacher Education
 The University of Tennessee, Knoxville
 420 Claxton, 1122 Volunteer Blvd., Knoxville, TN 37996
 865-974-5973 | jmrosenberg@utk.edu | http://joshuamrosenberg.com
-render_toc(&amp;ldquo;about-source.md&amp;rdquo;)
 Research Interests Science education, data science education, quantitative and computational research methods, educational technology
 Education 2018, PhD, Educational Psychology &amp;amp; Educational Technology
 Michigan State University
 2016, Graduate Certificate, Science Education
-Michigan State University</description>
+Michigan State University
+2012, MA, Education</description>
     </item>
     
     <item>
@@ -716,7 +725,6 @@ The University of Tennessee, Knoxville
 420 Claxton, 1122 Volunteer Blvd., Knoxville, TN 37996
 865-974-5973 | jmrosenberg@utk.edu | http://joshuamrosenberg.com
 \endgroup
-render_toc(&amp;ldquo;about-source.md&amp;rdquo;)
 Research Interests Science education, data science education, quantitative and computational research methods, educational technology
 Education 2018, PhD, Educational Psychology &amp;amp; Educational Technology
 Michigan State University
@@ -737,12 +745,12 @@ Department of Theory and Practice in Teacher Education
 The University of Tennessee, Knoxville
 420 Claxton, 1122 Volunteer Blvd., Knoxville, TN 37996
 865-974-5973 | jmrosenberg@utk.edu | http://joshuamrosenberg.com
-render_toc(&amp;ldquo;about-source.md&amp;rdquo;)
 Research Interests Science education, data science education, quantitative and computational research methods, educational technology
 Education 2018, PhD, Educational Psychology &amp;amp; Educational Technology
 Michigan State University
 2016, Graduate Certificate, Science Education
-Michigan State University</description>
+Michigan State University
+2012, MA, Education</description>
     </item>
     
     <item>

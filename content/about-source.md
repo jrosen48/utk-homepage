@@ -25,8 +25,6 @@ The University of Tennessee, Knoxville
 865-974-5973 | jmrosenberg@utk.edu | http://joshuamrosenberg.com  
 \endgroup
 
-render_toc("about-source.md")
-
 ## Research Interests
 
 Science education, data science education, quantitative and computational research methods, educational technology
@@ -68,7 +66,7 @@ C.D. Owen High School, Swannanoa, NC
 
 ### Book
 
-Bovee, E. A., Estrellado, R. A., Motsipak, J., Rosenberg, J. M., & Velásquez, I. C. (under contract). Data science in education using R. London, England: Routledge. *Nb.* All authors contributed equally. Repository available via https://github.com/data-edu/data-science-in-education. 
+Bovee, E. A., Estrellado, R. A., Motsipak, J., Rosenberg, J. M., & Velásquez, I. C. (under contract). Data science in education using R. London, England: Routledge. *Nb.* All authors contributed equally.
 
 ### Peer-Reviewed Journal Articles
 
@@ -210,35 +208,6 @@ Phillips, M., Harris, J., Rosenberg, J. M., & Koehler, M. J. (2017). TPCK/TPACK 
 
 \hangindent=2em
 Rosenberg, J. M., & Ranellucci, J. (2017). Student motivation in online science courses: A path to spending more time on course and higher achievement. *Michigan Virtual Learning Research Institute Blog: Research, Policy, Innovation & Networks*. https://mvlri.org/blog/student-motivation-in-online-science-courses-a-path-to-spending-more-time-on-course-and-higher-achievement/
-
-### Journal Articles in Submission
-
-\hangindent=2em
-Ranellucci, J., Rosenberg, J. M., & Poitras, E. (accepted registered report). Exploring pre-service teachers’ use of technology: The technology acceptance model and expectancy-value theory. *Journal of Computer Assisted Learning*. <a href = "https://osf.io/rgpeh/"><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
-
-\hangindent=2em
-Beymer, P. N., Rosenberg, J. M., & Schmidt, J. A. (revise and resubmit). Investigating the effects of interest and choice in education: An experience sampling approach in high school science classes.
-
-\hangindent=2em
-Rosenberg, J. M., Schmidt, J. A., & Koehler, M. J. (under review). How youth experience work with data in summer STEM programs: Findings from an experience sampling approach. <a href = "https://osf.io/65ckh/"><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> 
-
-\hangindent=2em
-Krist, S., & Rosenberg, J. M. (under review). Incremental refinement in learners’ epistemic considerations of generality in science over three years: A computational grounded theory analysis.
-
-\hangindent=2em
-Carpenter, J., Rosenberg, J. M., Dousay, T., Romero-Hall, E., Trust, T., Kessler, A., Phillips, M., Fischer, C., Morrison, S., & Krutka, D. (under review). Understanding teacher educator technology competencies: findings and perspectives from a cross-disciplinary sample.
-
-\hangindent=2em
-Schmidt, J. A., Beymer, P. N., Rosenberg, J. M., Naftzger, N., & Shumow, L. (under review). Experiences, activities, and personal characteristics as predictors of engagement in STEM-focused summer programs.
-
-\hangindent=2em
-Anderson, D., Rowlew, B., Irvin, P. S., Rosenberg, J. M., & Stegenga, S. (under review). Evaluating content-related validity evidence using a text-based, machine learning procedure.
-
-\hangindent=2em
-Akcaoglu, M., Rosenberg, J. M., Hodges, C., & Hilpert, J. (under review). An exploration of factors impacting middle school students’ attitudes toward computer programming.
-
-\hangindent=2em
-Rosenberg, J. M., Edwards, A., & Chen, B. (under review). Tools and strategies for engaging students in analyzing and interpreting complex data sources.
 
 ### Working papers
 
