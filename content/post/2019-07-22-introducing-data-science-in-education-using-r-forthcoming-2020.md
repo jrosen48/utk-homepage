@@ -11,7 +11,7 @@ tags: []
 
 I'm super excited to share that I will be writing a book, *Data Science in Education Using R*. The book will be published by [Routledge](https://www.routledge.com) sometime in mid-to-late 2020, and, importantly to us, Routledge agreed to let us keep the copyright for a web-version of the book, meaning that we will publish the entire contents of the book in an open and freely-available format (along with the print and e-book versions, which will be available for sale). The project has been a bit of a labor of love and so it is very rewarding to be able to (finally) announce that the book will be published.
 
-The book will be published with an amazing group of co-authors: [Emily Bovee](https://www.emilybovee.com/), [Ryan Estrellado](https://ryanestrellado.netlify.com/), [Jesse Motsipak](https://www.jessemaegan.com/), me, and [Isabella Velásquez](https://ivelasq.rbind.io). While the aims of the book may be ambitious (trying to speak to the role of data science across education roles), I know we have the right people (I'll leave it to you to decide about *this* co-author) to do it.
+The book will be published with an amazing group of co-authors: [Emily Bovee](https://www.emilybovee.com/), [Ryan Estrellado](https://ryanestrellado.netlify.com/), [Jesse Motstipak](https://www.jessemaegan.com/), me, and [Isabella Velásquez](https://ivelasq.rbind.io). While the aims of the book may be ambitious (trying to speak to the role of data science across education roles), I know we have the right people (I'll leave it to you to decide about *this* co-author) to do it.
 
 ## Some Thanks
 
