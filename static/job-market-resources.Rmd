@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Resources from my experience applying for academic positions. I applied to positions in science education, educational technology, and the learning sciences/educational psychology. I am presently fortunate to be an Assistant Professor of STEM Education at the University of Tennessee, Knoxville.
+Resources from my experience applying for academic positions in science education and teacher education, educational technology, and the learning sciences/educational psychology.
 
 ## Posts for the NARST Graduate Student Resources blog
 
