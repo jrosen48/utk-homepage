@@ -181,6 +181,8 @@ Rosenberg, J. M. (2018). *Understanding work with data in summer STEM programs: 
 
 ### Funded Grants
 
+2020, Southeastern Conference (SEC) Visiting Faculty Travel Grant Program to collaborate with Annelise Russell and Spencer Greenhalgh ($711)
+
 2017-2020, Consultant, Profiles of science engagement: Broadening participation by understanding individual and contextual influences ($499,927). National Science Foundation (PI: Jennifer Schmidt)
 
 2019-2020, PI, Planting the seeds for computer science education in East Tennessee through a research-practice partnership. ($13,200). Community Engaged Research Seed Program, University of Tennessee, Knoxville
