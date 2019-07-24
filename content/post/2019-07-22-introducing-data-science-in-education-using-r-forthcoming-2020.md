@@ -20,7 +20,6 @@ The book will be published with an amazing group of co-authors: [Emily Bovee](ht
 Here's a short description from the proposal:
 
 > This book aims to give data science in education a common language and set of skills so that the community around this topic can grow and learn more together. It is a friendly welcome to educators who are interested in exploring techniques for data analysis in education. It adds to the growing body of data science books by demonstrating data science using the language, datasets, problems, and workflows that are specific to education. It aims to help educators move from “knowing about” data analysis tools to “knowing how to” conduct meaningful data analyses in their work. This book is ideal for educators at all grade levels looking to start exploring how to use data science in their everyday work, educators who are looking to level up their use of data by learning about programming and machine learning, data-savvy consultants who help educators meet their goals, or experienced data scientists looking for hands on examples that are directly from the education field.
->>>>>>> 572bb5eeed30e7346dd5e7eaf918a268e6aaf942
 
 ## Some Thanks
 
