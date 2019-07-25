@@ -181,7 +181,7 @@ Rosenberg, J. M. (2018). *Understanding work with data in summer STEM programs: 
 
 ### Funded Grants
 
-2020, Southeastern Conference (SEC) Visiting Faculty Travel Grant Program
+2020, Southeastern Conference (SEC) Visiting Faculty Travel Grant Program ($702)
 
 2017-2020, Consultant, Profiles of science engagement: Broadening participation by understanding individual and contextual influences ($499,927). National Science Foundation (PI: Jennifer Schmidt)
 

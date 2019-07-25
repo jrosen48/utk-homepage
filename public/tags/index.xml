@@ -6,17 +6,17 @@
     <description>Recent content in Tags on Joshua M. Rosenberg, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2015 15:27:57 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>r</title>
-      <link>/tags/r/</link>
-      <pubDate>Sun, 19 May 2019 00:00:00 +0000</pubDate>
+      <title>AECT</title>
+      <link>/tags/aect/</link>
+      <pubDate>Fri, 06 Nov 2015 15:27:57 +0000</pubDate>
       
-      <guid>/tags/r/</guid>
+      <guid>/tags/aect/</guid>
       <description></description>
     </item>
     
@@ -30,6 +30,15 @@
     </item>
     
     <item>
+      <title>MCMC</title>
+      <link>/tags/mcmc/</link>
+      <pubDate>Mon, 26 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/mcmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>NARST</title>
       <link>/tags/narst/</link>
       <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
@@ -39,83 +48,11 @@
     </item>
     
     <item>
-      <title>tpack</title>
-      <link>/tags/tpack/</link>
-      <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
+      <title>SITE</title>
+      <link>/tags/site/</link>
+      <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/tpack/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>east-tn-stem-hub</title>
-      <link>/tags/east-tn-stem-hub/</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/east-tn-stem-hub/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>aste</title>
-      <link>/tags/aste/</link>
-      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/aste/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cv</title>
-      <link>/tags/cv/</link>
-      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/cv/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>data-science-ed</title>
-      <link>/tags/data-science-ed/</link>
-      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/data-science-ed/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>edu-data-science</title>
-      <link>/tags/edu-data-science/</link>
-      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/edu-data-science/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>latex</title>
-      <link>/tags/latex/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/latex/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>r-markdown</title>
-      <link>/tags/r-markdown/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/r-markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>science-education</title>
-      <link>/tags/science-education/</link>
-      <pubDate>Wed, 29 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/science-education/</guid>
+      <guid>/tags/site/</guid>
       <description></description>
     </item>
     
@@ -129,11 +66,56 @@
     </item>
     
     <item>
-      <title>web-scraping</title>
-      <link>/tags/web-scraping/</link>
-      <pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
+      <title>aste</title>
+      <link>/tags/aste/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/web-scraping/</guid>
+      <guid>/tags/aste/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>clustRcompaR</title>
+      <link>/tags/clustrcompar/</link>
+      <pubDate>Sat, 07 Jan 2017 10:16:00 -0500</pubDate>
+      
+      <guid>/tags/clustrcompar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cross-validation</title>
+      <link>/tags/cross-validation/</link>
+      <pubDate>Sun, 02 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/cross-validation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cv</title>
+      <link>/tags/cv/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/cv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cycling</title>
+      <link>/tags/cycling/</link>
+      <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/cycling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data-science-ed</title>
+      <link>/tags/data-science-ed/</link>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/data-science-ed/</guid>
       <description></description>
     </item>
     
@@ -156,20 +138,38 @@
     </item>
     
     <item>
+      <title>east-tn-stem-hub</title>
+      <link>/tags/east-tn-stem-hub/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/east-tn-stem-hub/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>edu-data-science</title>
+      <link>/tags/edu-data-science/</link>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/edu-data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>education policy</title>
+      <link>/tags/education-policy/</link>
+      <pubDate>Thu, 16 Mar 2017 16:32:00 -0500</pubDate>
+      
+      <guid>/tags/education-policy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>getting-started-with-r</title>
       <link>/tags/getting-started-with-r/</link>
       <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/getting-started-with-r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cycling</title>
-      <link>/tags/cycling/</link>
-      <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/cycling/</guid>
       <description></description>
     </item>
     
@@ -183,11 +183,11 @@
     </item>
     
     <item>
-      <title>MCMC</title>
-      <link>/tags/mcmc/</link>
-      <pubDate>Mon, 26 Mar 2018 00:00:00 +0000</pubDate>
+      <title>latex</title>
+      <link>/tags/latex/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/mcmc/</guid>
+      <guid>/tags/latex/</guid>
       <description></description>
     </item>
     
@@ -201,6 +201,24 @@
     </item>
     
     <item>
+      <title>mixture-models</title>
+      <link>/tags/mixture-models/</link>
+      <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/mixture-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mplus</title>
+      <link>/tags/mplus/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/mplus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>multi-level-models</title>
       <link>/tags/multi-level-models/</link>
       <pubDate>Thu, 22 Feb 2018 00:00:00 +0000</pubDate>
@@ -210,38 +228,11 @@
     </item>
     
     <item>
-      <title>rail-trails</title>
-      <link>/tags/rail-trails/</link>
-      <pubDate>Thu, 22 Feb 2018 00:00:00 +0000</pubDate>
+      <title>newsflash</title>
+      <link>/tags/newsflash/</link>
+      <pubDate>Sat, 11 Mar 2017 01:28:00 -0500</pubDate>
       
-      <guid>/tags/rail-trails/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tidyLPA</title>
-      <link>/tags/tidylpa/</link>
-      <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/tidylpa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SITE</title>
-      <link>/tags/site/</link>
-      <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/site/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>shiny</title>
-      <link>/tags/shiny/</link>
-      <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/shiny/</guid>
+      <guid>/tags/newsflash/</guid>
       <description></description>
     </item>
     
@@ -264,33 +255,6 @@
     </item>
     
     <item>
-      <title>mplus</title>
-      <link>/tags/mplus/</link>
-      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/mplus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mixture-models</title>
-      <link>/tags/mixture-models/</link>
-      <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/mixture-models/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cross-validation</title>
-      <link>/tags/cross-validation/</link>
-      <pubDate>Sun, 02 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/cross-validation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>prcr</title>
       <link>/tags/prcr/</link>
       <pubDate>Sun, 02 Jul 2017 00:00:00 +0000</pubDate>
@@ -300,38 +264,74 @@
     </item>
     
     <item>
-      <title>education policy</title>
-      <link>/tags/education-policy/</link>
-      <pubDate>Thu, 16 Mar 2017 16:32:00 -0500</pubDate>
+      <title>r</title>
+      <link>/tags/r/</link>
+      <pubDate>Sun, 19 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/education-policy/</guid>
+      <guid>/tags/r/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>newsflash</title>
-      <link>/tags/newsflash/</link>
-      <pubDate>Sat, 11 Mar 2017 01:28:00 -0500</pubDate>
+      <title>r-markdown</title>
+      <link>/tags/r-markdown/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/newsflash/</guid>
+      <guid>/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>clustRcompaR</title>
-      <link>/tags/clustrcompar/</link>
-      <pubDate>Sat, 07 Jan 2017 10:16:00 -0500</pubDate>
+      <title>rail-trails</title>
+      <link>/tags/rail-trails/</link>
+      <pubDate>Thu, 22 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/clustrcompar/</guid>
+      <guid>/tags/rail-trails/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>AECT</title>
-      <link>/tags/aect/</link>
-      <pubDate>Fri, 06 Nov 2015 15:27:57 +0000</pubDate>
+      <title>science-education</title>
+      <link>/tags/science-education/</link>
+      <pubDate>Wed, 29 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/aect/</guid>
+      <guid>/tags/science-education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shiny</title>
+      <link>/tags/shiny/</link>
+      <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/shiny/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tidyLPA</title>
+      <link>/tags/tidylpa/</link>
+      <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/tidylpa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tpack</title>
+      <link>/tags/tpack/</link>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/tpack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web-scraping</title>
+      <link>/tags/web-scraping/</link>
+      <pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/web-scraping/</guid>
       <description></description>
     </item>
     
