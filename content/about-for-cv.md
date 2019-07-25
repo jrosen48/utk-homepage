@@ -68,7 +68,7 @@ Bovee, E. A., Estrellado, R. A., Motsipak, J., Rosenberg, J. M., & Velásquez, I
 
 Xu, R., Frank, K. A., Maroulis, S., & Rosenberg, J. M. (in press). Konfound: A Stata module to quantify robustness of causal inferences. *The Stata Journal*. https://www.stata-journal.com/ (*Nb. Software-related publication*)
 
-Blondel, D. V., Sansone, A., Rosenberg, J. M., Yang, B. W., Linennbrink-Garcia, L., & Schwarz-Bloom, R. D. (advance online publication). Development of an online experiment platform (Rex) for high school biology. *Journal of Formative Design for Learning*. https://link.springer.com/article/10.1007/s41686-019-00030-5
+Blondel, D. V., Sansone, A., Rosenberg, J. M., Yang, B. W., Linennbrink-Garcia, L., & Schwarz-Bloom, R. D. (2019). Development of an online experiment platform (Rex) for high school biology. *Journal of Formative Design for Learning, 3*(1), 62-81. https://link.springer.com/article/10.1007/s41686-019-00030-5
 
 Henriksen, D., Mehta, R. & Rosenberg, J. (2019). Supporting a creatively focused technology fluent mindset among educators: survey results from a five-year inquiry into teachers’ confidence in using technology. *Journal of Technology and Teacher Education, 27*(1), 63-95. https://www.learntechlib.org/primary/p/184724/ <a href = "https://www.researchgate.net/publication/333405313_Supporting_A_Creatively_Focused_Technology_Fluent_Mindset_Among_Educators_A_Five-Year_Inquiry_Into_Teachers'_Confidence_With_Technology"><img src="/logos/research-gate.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"/></a>
 
