@@ -4,15 +4,21 @@ title: Research
 permalink: /research/
 ---
 
-# Research Interests
+# Research
 
-*Joshua M. Rosenberg (PhD, Michigan State University) is an Assistant Professor of STEM Education at the University of Tennessee, Knoxville. His research focuses on how learners think of and with data, particularly in science education settings. Dr. Rosenberg tries to understand how practices such as creating, representing, and modeling data create new opportunities for learning how to use data to pose and answer questions about scientific phenomena.*
+## Research Statement
 
-*Dr. Rosenberg is also interested in student engagement across a range of STEM learning environments and the use of technology in education, particularly for teacher professional development. As a part of this work, Dr. Rosenberg makes use of quantitative methods, such as multi-level models for analyzing data collected through the experience sampling method, and newer approaches, such as social network analysis to analyze teachers’ conversations on social media. Dr. Rosenberg’s research has been published in journals such as the Journal of Research on Science Teaching, the Journal of Youth and Adolescence and the Journal of Technology and Teacher Education.*
+Data science is commonly characterized as a field that integrates disciplinary expertise, statistics, and advanced computational techniques to answer questions or solve problems.  In education, data science education has potential as a set of ideas and practices that cut across STEM content areas and can also be meaningful to learners, but the potential for data in education has not yet been fully realized. My research focuses on how learners think of and with data, particularly in science education settings. I have pursued this research interest through:
+- developing new pedagogical approaches to support students to participate in aspects of data science that are critical but under-emphasized, such as structuring data and combining data from different sources;
+- exploring how students engage in foundational aspects of data science, especially recognizing, modeling, and visualizing variability in data;
+- and, adapting existing pedagogical approaches and technological tools, such as science simulations, to output complex, quantitative data for students to model.
 
-This page contains information about my research as well as information about ongoing research projects. 
+New approaches to research such as data science allow researchers to study learning in innovative ways, but, most of the time, these approaches are used to make research more efficient or to augment existing approaches, instead of transforming how research is carried out. Following from my interest in how learners think of and with data, my second research interest concerns how researchers can leverage data science-related capabilities and techniques in their own work, especially to study learning in the context in which teaching and learning actually take place. I have pursued this research interest through:
+- making use of a novel experience sampling method to understand how students and youth experience learning science in-the-moment and in authentic classroom contexts;
+- advancing new research approaches, such as social network analysis to analyze teachers’ conversations on social media;
+- and, building the capacity of educational researchers and other education stakeholders through writing about data science and computational social science research methodologies.
 
-# Publications and Other Products
+## Publications and Other Products
 
 Visit this page [here](https://www.joshuamrosenberg.com/about/) for information about and links to pre-prints and other resources associated with publications (peer-reviewed journal articles, book chapters, and conference proceedings) and other products (R packages and simulations for learners).
 
