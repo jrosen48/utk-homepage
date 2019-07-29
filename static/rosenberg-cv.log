@@ -1,13 +1,13 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.30)  24 JUL 2019 20:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.7.29)  29 JUL 2019 11:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **rosenberg-cv.tex
 (./rosenberg-cv.tex
 LaTeX2e <2018-12-01>
-(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/base/article.cls
+(/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
-(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/base/size10.clo
+(/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 )
 \c@part=\count80
@@ -21,7 +21,7 @@ File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
-) (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/lm/lmodern.sty
+) (/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/lm/lmodern.sty
 Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
@@ -55,40 +55,29 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
-)
-(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/amssymb.s
-ty
+) (/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
-
-(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/amsfonts.
-sty
+(/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks14
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-))
-(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsmath.st
-y
+)) (/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2018/12/01 v2.17b AMS math features
 \@mathmargin=\skip43
 For additional information on amsmath, use the `?' option.
-
-(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amstext.st
-y
+(/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
-
-(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsgen.sty
+(/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks15
 \ex@=\dimen103
-))
-(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsbsy.sty
+)) (/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen104
-)
-(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsopn.sty
+) (/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count88
@@ -128,17 +117,12 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
 \mathdisplay@stack=\toks19
 LaTeX Info: Redefining \[ on input line 2844.
 LaTeX Info: Redefining \] on input line 2845.
-)
-(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/generic/ifxetex/ifxetex.
-sty
+) (/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
-)
-(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/generic/oberdiek/ifluate
-x.sty
+) (/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
-) (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/base/fixltx2e.st
-y
+) (/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/base/fixltx2e.sty
 Package: fixltx2e 2016/12/29 v2.1a fixes to LaTeX (obsolete)
 Applying: [2015/01/01] Old fixltx2e package on input line 46.
 
@@ -147,22 +131,19 @@ Package fixltx2e Warning: fixltx2e is not required with releases after 2015
 (fixltx2e)                See the latexrelease package for details.
 
 Already applied: [0000/00/00] Old fixltx2e package on input line 53.
-) (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
+) (/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
-(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/base/t1enc.def
+(/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/base/t1enc.def
 File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
-)) (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/base/inputenc.s
-ty
+)) (/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2018/08/11 v1.3c Input encoding file
 \inpenc@prehook=\toks20
 \inpenc@posthook=\toks21
-)
-(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/upquote/upquote.st
-y
+) (/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/upquote/upquote.sty
 Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
 tim
-(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/base/textcomp.sty
+(/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2018/08/11 v2.0j Standard LaTeX package
 Package textcomp Info: Sub-encoding information:
 (textcomp)               5 = only ISO-Adobe without \textcurrency
@@ -176,11 +157,11 @@ Package textcomp Info: Sub-encoding information:
 (textcomp)             Family '?' is the default used for unknown fonts.
 (textcomp)             See the documentation for details.
 Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
-(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/base/ts1enc.def
+(/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/base/ts1enc.def
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 Now handling font encoding TS1 ...
 ... processing UTF-8 mapping file for font encoding TS1
-(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/base/ts1enc.dfu
+(/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/base/ts1enc.dfu
 File: ts1enc.dfu 2018/10/05 v1.2f UTF-8 support for inputenc
    defining Unicode char U+00A2 (decimal 162)
    defining Unicode char U+00A3 (decimal 163)
@@ -316,22 +297,14 @@ Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
 Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
 Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
 Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
-))
-(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/geometry/geometry.
-sty
+)) (/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2018/04/16 v5.8 Page Geometry
-
-(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/graphics/keyval.st
-y
+(/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks22
-)
-(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/generic/oberdiek/ifpdf.s
-ty
+) (/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
-)
-(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/generic/oberdiek/ifvtex.
-sty
+) (/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/generic/oberdiek/ifvtex.sty
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
@@ -347,18 +320,16 @@ Package ifvtex Info: VTeX not detected.
 \Gm@layouthoffset=\dimen118
 \Gm@layoutvoffset=\dimen119
 \Gm@dimlist=\toks23
-)
-(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.
-sty
-Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
+) (/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2019/06/12 v6.88h Hypertext links for LaTeX
 
-(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/generic/oberdiek/hobsub-
-hyperref.sty
+(/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/generic/oberdiek/hobsub-hyperre
+f.sty
 Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
 
 
-(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/generic/oberdiek/hobsub-
-generic.sty
+(/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/generic/oberdiek/hobsub-generic
+.sty
 Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
@@ -370,7 +341,7 @@ Package hobsub Info: Skipping package `ifpdf' (already loaded).
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -391,71 +362,61 @@ Package atveryend Info: \enddocument detected (standard20110627).
 Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
 Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
-)
-(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/oberdiek/auxhook.s
-ty
+) (/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/oberdiek/auxhook.sty
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
-)
-(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/oberdiek/kvoptions
-.sty
+) (/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
 \@linkdim=\dimen120
 \Hy@linkcounter=\count103
 \Hy@pagecounter=\count104
-
-(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.de
-f
-File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
+(/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2019/06/12 v6.88h Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
 \Hy@SavedSpaceFactor=\count105
-
-(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/latexconfig/hyperr
-ef.cfg
+(/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
-Package hyperref Info: Hyper figures OFF on input line 4519.
-Package hyperref Info: Link nesting OFF on input line 4524.
-Package hyperref Info: Hyper index ON on input line 4527.
-Package hyperref Info: Plain pages OFF on input line 4534.
-Package hyperref Info: Backreferencing OFF on input line 4539.
+Package hyperref Info: Hyper figures OFF on input line 4550.
+Package hyperref Info: Link nesting OFF on input line 4555.
+Package hyperref Info: Hyper index ON on input line 4558.
+Package hyperref Info: Plain pages OFF on input line 4565.
+Package hyperref Info: Backreferencing OFF on input line 4570.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4772.
+Package hyperref Info: Bookmarks ON on input line 4803.
 \c@Hy@tempcnt=\count106
-(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/url/url.sty
+(/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip11
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 5125.
+LaTeX Info: Redefining \url on input line 5156.
 \XeTeXLinkMargin=\dimen121
 \Fld@menulength=\count107
 \Field@Width=\dimen122
 \Fld@charsize=\dimen123
-Package hyperref Info: Hyper figures OFF on input line 6380.
-Package hyperref Info: Link nesting OFF on input line 6385.
-Package hyperref Info: Hyper index ON on input line 6388.
-Package hyperref Info: backreferencing OFF on input line 6395.
-Package hyperref Info: Link coloring OFF on input line 6400.
-Package hyperref Info: Link coloring with OCG OFF on input line 6405.
-Package hyperref Info: PDF/A mode OFF on input line 6410.
-LaTeX Info: Redefining \ref on input line 6450.
-LaTeX Info: Redefining \pageref on input line 6454.
+Package hyperref Info: Hyper figures OFF on input line 6411.
+Package hyperref Info: Link nesting OFF on input line 6416.
+Package hyperref Info: Hyper index ON on input line 6419.
+Package hyperref Info: backreferencing OFF on input line 6426.
+Package hyperref Info: Link coloring OFF on input line 6431.
+Package hyperref Info: Link coloring with OCG OFF on input line 6436.
+Package hyperref Info: PDF/A mode OFF on input line 6441.
+LaTeX Info: Redefining \ref on input line 6481.
+LaTeX Info: Redefining \pageref on input line 6485.
 \Hy@abspage=\count108
 \c@Item=\count109
 \c@Hfootnote=\count110
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
-
-(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hpdftex.d
-ef
-File: hpdftex.def 2018/11/30 v6.88e Hyperref driver for pdfTeX
+(/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2019/06/12 v6.88h Hyperref driver for pdfTeX
 \Fld@listcount=\count111
 \c@bookmark@seq@number=\count112
 
-(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/oberdiek/rerunfile
-check.sty
+(/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/oberdiek/rerunfilecheck.s
+ty
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
@@ -463,47 +424,35 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 \Hy@SectionHShift=\skip46
 )
 Package hyperref Info: Option `unicode' set `true' on input line 29.
-
-(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2018/11/30 v6.88e Hyperref: PDF Unicode definition (HO)
+(/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2019/06/12 v6.88h Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
 Package hyperref Info: Option `breaklinks' set `true' on input line 29.
-
-(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/graphics/graphicx.
-sty
+(/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
-
-(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/graphics/graphics.
-sty
+(/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
-(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/graphics/trig.sty
+(/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/graphics-cfg/graph
-ics.cfg
+(/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
-
-(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/graphics-def/pdfte
-x.def
+(/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen124
 \Gin@req@width=\dimen125
-)
-(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/oberdiek/grffile.s
-ty
+) (/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/oberdiek/grffile.sty
 Package: grffile 2017/06/30 v1.18 Extended file name support for graphics (HO)
 Package grffile Info: Option `multidot' is set to `true'.
 Package grffile Info: Option `extendedchars' is set to `false'.
 Package grffile Info: Option `space' is set to `true'.
 Package grffile Info: \Gin@ii of package `graphicx' fixed on input line 494.
-)
-(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/titling/titling.st
-y
+) (/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/titling/titling.sty
 Package: titling 2009/09/04 v2.1d maketitle typesetting
 \thanksmarkwidth=\skip47
 \thanksmargin=\skip48
@@ -530,7 +479,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 85.
 LaTeX Font Info:    ... okay on input line 85.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 85.
 LaTeX Font Info:    Try loading font information for TS1+cmr on input line 85.
-(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/base/ts1cmr.fd
+(/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 85.
@@ -539,7 +488,7 @@ LaTeX Font Info:    ... okay on input line 85.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 85.
 LaTeX Font Info:    ... okay on input line 85.
 LaTeX Font Info:    Try loading font information for T1+lmr on input line 85.
-(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/lm/t1lmr.fd
+(/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 *geometry* driver: auto-detecting
@@ -578,13 +527,11 @@ File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 
 \AtBeginShipoutBox=\box29
 Package hyperref Info: Link coloring OFF on input line 85.
-
-(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/hyperref/nameref.s
-ty
+(/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
-(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/generic/oberdiek/gettitl
-estring.sty
+(/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/generic/oberdiek/gettitlestring
+.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count113
@@ -597,12 +544,10 @@ LaTeX Info: Redefining \nameref on input line 85.
 \openout3 = `rosenberg-cv.out'.
 
 
-(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/oberdiek/epstopdf-
-base.sty
-Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
-
-(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/oberdiek/grfext.st
+(/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/oberdiek/epstopdf-base.st
 y
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+(/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 )
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -612,29 +557,29 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 
-(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/latexconfig/epstop
-df-sys.cfg
+(/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/latexconfig/epstopdf-sys.
+cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 LaTeX Font Info:    Try loading font information for OT1+lmr on input line 100.
 
-(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/lm/ot1lmr.fd
+(/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Try loading font information for OML+lmm on input line 100.
 
-(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/lm/omllmm.fd
+(/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 100
 .
-(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/lm/omslmsy.fd
+(/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Try loading font information for OMX+lmex on input line 100
 .
-(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/lm/omxlmex.fd
+(/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -644,16 +589,16 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 100.
 LaTeX Font Info:    Try loading font information for U+msa on input line 100.
-(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
+(/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 100.
-(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
+(/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
-{/Users/joshuarosenberg/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdfte
-x.map}] [2] [3] [4]
+{/Users/jrosenb8/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+[2] [3] [4]
 Underfull \hbox (badness 1728) in paragraph at lines 448--453
 []\T1/lmr/m/n/10 Rosenberg, J. M., & Ranel-lucci, J. (2017). Stu-dent mo-ti-va-
 tion in on-line sci-ence courses: A
@@ -673,11 +618,16 @@ h-[]to-[]spending-[]more-[]time-[]on-[]course-[]and-[]higher-[]achievement/$[]
  []
 
 [5] [6] [7] [8] [9] [10] [11] [12] [13]
-LaTeX Font Info:    Try loading font information for TS1+lmr on input line 1154
+LaTeX Font Info:    Try loading font information for TS1+lmr on input line 1152
 .
-(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/lm/ts1lmr.fd
+(/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
+Underfull \hbox (badness 10000) in paragraph at lines 1152--1154
+
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 1154--1156
 
  []
@@ -747,11 +697,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 1180--1182
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 1182--1184
-
- []
-
 [14] [15] [16]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1380.
 [17]
@@ -765,22 +710,21 @@ Package rerunfilecheck Info: File `rosenberg-cv.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1380.
  ) 
 Here is how much of TeX's memory you used:
- 10290 strings out of 494553
- 147486 string characters out of 6175978
- 215380 words of memory out of 5000000
- 13739 multiletter control sequences out of 15000+600000
+ 10308 strings out of 494553
+ 147061 string characters out of 6174236
+ 215689 words of memory out of 5000000
+ 13755 multiletter control sequences out of 15000+600000
  36283 words of font info for 38 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  28i,5n,33p,393b,328s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ts1.
-enc}{/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec
-.enc}</Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/l
-mbx10.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/public
-/lm/lmbx12.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/p
-ublic/lm/lmr10.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/typ
-e1/public/lm/lmr17.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts
-/type1/public/lm/lmri10.pfb>
-Output written on rosenberg-cv.pdf (17 pages, 200241 bytes).
+{/Users/jrosenb8/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{/U
+sers/jrosenb8/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</Users/j
+rosenb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></Users/jro
+senb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></Users/jrose
+nb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/jrosenb8
+/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.pfb></Users/jrosenb8/Li
+brary/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb>
+Output written on rosenberg-cv.pdf (17 pages, 200097 bytes).
 PDF statistics:
  395 PDF objects out of 1000 (max. 8388607)
  367 compressed objects within 4 object streams

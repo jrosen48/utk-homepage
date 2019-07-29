@@ -6,18 +6,10 @@
     <description>Recent content in Categories on Joshua M. Rosenberg, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 19 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>personal</title>
-      <link>/categories/personal/</link>
-      <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/personal/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>presentation</title>
@@ -25,15 +17,6 @@
       <pubDate>Sun, 19 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/presentation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>publication</title>
-      <link>/categories/publication/</link>
-      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/publication/</guid>
       <description></description>
     </item>
     
@@ -47,11 +30,11 @@
     </item>
     
     <item>
-      <title>r-package</title>
-      <link>/categories/r-package/</link>
-      <pubDate>Thu, 12 Apr 2018 00:00:00 +0000</pubDate>
+      <title>walkthrough</title>
+      <link>/categories/walkthrough/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>/categories/r-package/</guid>
+      <guid>/categories/walkthrough/</guid>
       <description></description>
     </item>
     
@@ -65,11 +48,29 @@
     </item>
     
     <item>
-      <title>walkthrough</title>
-      <link>/categories/walkthrough/</link>
-      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      <title>publication</title>
+      <link>/categories/publication/</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/categories/walkthrough/</guid>
+      <guid>/categories/publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>personal</title>
+      <link>/categories/personal/</link>
+      <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>r-package</title>
+      <link>/categories/r-package/</link>
+      <pubDate>Thu, 12 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/r-package/</guid>
       <description></description>
     </item>
     

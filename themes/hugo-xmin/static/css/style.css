@@ -22,12 +22,7 @@ hr {
   color: #ddd;
 }
 
-
-/* pagination */
-.pagination { text-align: center; }
-.pagination li { display: inline; }
-.pagination a { padding: 0 .2em; }
-
+/* code */
 pre {
   border: 1px solid #ddd;
   box-shadow: 5px 5px 5px #eee;
@@ -53,4 +48,4 @@ table {
 }
 table thead th { border-bottom: 1px solid #ddd; }
 th, td { padding: 5px; }
-thead, tfoot, tr:nth-child(even) { background: #eee }
+thead, tfoot, tr:nth-child(even) { background: #eee; }
