@@ -12,11 +12,11 @@ tags: []
 
 This past week, I submitted a proposal for a grant independently. I thought that there would be no better time than now to just down some thoughts, reflections, and perhaps a few lessons learned from the process of submitting a grant independently, as follows.
 
-# Learn about the process
+## Learn about the process
 
 In the past year, I submitted proposals as a ‘co’-submitter/investigator, first, through being involved in a very small capacity (constructing a measure), and, later, in a proposal with skilled 'principle' investigators in a more integral way. This was a great way to learn from colleagues about how to craft an argument for a project through a grant proposal. Less about the conceptual and more on a practical level, it was also a chance to get down some of the logistical elements of a grant proposal (i.e., how to craft a budget, format a narrative, and work within a timeline). 
 
-# Get a one-pager/a blurb as early as possible
+## Get a one-pager/a blurb as early as possible
 
 For the proposal, I developed (and received feedback about) the idea for the project over a few months. Having a one-pager (or a *blurb*, as my friend and colleague Teya Rutherford describes [here](https://rutherfordlab.wordpress.com/nsf-career-app-reflections/)) was invaluable to this process. 
 
@@ -28,7 +28,7 @@ After beginning to reach out to administrators in the school district in which I
 
 If I had started to write an entire project narrative before getting all of my ducks in a row, it would have had to change a lot; if I had not written a one-pager/a blurb, then I wouldn't have had enough of a concrete plan to receive feedback and to realize that the project - as initially planned - would not have worked. 
 
-# Work on supplementary documents along the way
+## Work on supplementary documents along the way
 
 There were *a lot* of documents in addition to the project narrative; I may be missing one or more, but, for my proposal, I know the following were required:
 
@@ -44,28 +44,29 @@ There were *a lot* of documents in addition to the project narrative; I may be m
 - Letter of support template  
 - Biosketch  
 
-These can take a lot of time - but, they're also relatively less demanding (in terms of time as well as effort) to write, and so can be worked on along the way. I worked on these when I was not able to work any longer on the narrative or when I had limited time. Also, I had worked on some of these (particularly the biosketch, current and pending support, and collaborators and co-authors forms) as a part of earlier proposals, and so could spend a little time updating them to feel like I had made progress, even if on a part of the proposal that is ancillary to the primary task of justifying and describing a project. 
+These can take a lot of time - but, they're also relatively less demanding (in terms of time as well as effort) to write, and so can be worked on along the way. I worked on these when I was not able to work any longer on the narrative or when I had limited time. Also, I had worked on some of these (particularly the biosketch, current and pending support, and collaborators and co-authors forms) as a part of earlier proposals, and so could spend a little time updating them to feel like I had made progress, even if for a part of the proposal that is ancillary to the primary task of justifying and describing a project. 
 
-# Make it good, but not perfect
+## Make it good, but not perfect
 
-There were a number of times throughout the process when I wanted to stop because it was challenging to come up with a product I was proud of. I would not have submitted the proposal if it had to be perfect - or as polished as work that I had poured over more (such as my dissertation). Especially for a solo project, having the goal of a good, but not perfect, proposal, made the process seem more managable. 
+There were a number of times throughout the process when I wanted to stop because it was challenging to come up with a product I was proud of. I would not have submitted the proposal if it had to be perfect - or as polished as work that I had poured over more (such as my dissertation). Especially for a solo project, having the goal of a good, but not perfect, proposal, made the process seem more manageable. 
 
-# Work closely with your grants officer 
+## Work closely with your grants officer 
 
 There were (and still are) so many things I don't know about submitting a proposal, but being able to ask questions of the grants officer was valuable, especially in the days ahead of the deadline. I'll mention that how things work in my college is that we have an office of external funding to help to prepare the proposal for submission to the sponsored programs office, within which a grants officer reviews the entire proposal and then submits the grant. The director of external funding for my college was particularly helpful to be able to turn to with big-picture questions, like those about what is allowed in the grant and whether (or how) to ask for letters of support from advisors or collaborators.
 
-# Ask early but don’t worry (too much) about the advisory board
+## Ask early but don’t worry (too much) about the advisory board
 
-I worried so much about whether potential advisory board members would agree to being an advisory board member - and whether they would write a letter of support for me to include in the proposal. I think that while it is important to ask as early as possible, in most cases, those you ask want to help - including suggesting someone else who may be able to be involved when they are unable to. 
+I worried so much about whether potential advisory board members would agree to be an advisory board member - and whether they would write a letter of support for me to include in the proposal. I think that while it is important to ask as early as possible, in most cases, those you ask want to help you - including suggesting someone else who may be able to be involved if and when they are unable to. 
 
-# Use figures, tables, and formatting creatively
+## Use figures, tables, and formatting creatively
 
-Using figures (including 'models' and conceptual frameworks) and tables takes up space in the narrative but can provide a helpful focal point for readers attention. In particular, I found it helpful to include a logic model (with research questions) and a table for the study timeline. If I were writing the narrative again, I would consider adding an image that made a distinctive aspect of the data collection more apparent to readers. I also found it useful to format the document in a more creative way than I would format a manuscript to submit for publication: I used all caps for section headers and included numbers in them, too. 
+Using figures (including 'models' and conceptual frameworks) and tables take up space in the narrative but can provide a helpful focal point for readers attention. In particular, I found it beneficial to include a logic model (with research questions) and a table for the study timeline. If I were writing the narrative again, I would consider adding an image that made a distinctive aspect of the data collection more apparent to readers. 
 
-## Fin
+I also found it useful to format the document in a different way than I would format a manuscript to submit for publication: I used all caps for section headers and included numbers in them, too. More generally, what *order* the sections are in (and, apart from required sections, *which* are included) is less structured (and requires more creativity) than I first thought.
 
-Having the opportunity to submit proposals as a 'co'-investigator made it seem more feasible to submit. Having good support from others, receiving feedback multiple times, and making sure that I submitted something complete (but not something that was perfect) made it possible for me to finish it (right in the nick of time - a story not in this post!).
+#### *Fin*
 
-The solicitation I submitted to was this one (NSF 19-565), [here](https://www.nsf.gov/pubs/2019/nsf19565/nsf19565.htm).
+These were some thoughts from submitting an independent grant proposal for the first time. In sum, having the opportunity to submit proposals as a 'co'-investigator made it seem more feasible to submit. Having good support from others, receiving feedback multiple times, and making sure that I submitted something complete (but not something that was perfect) made it possible for me to finish it (right in the nick of time - a story not in this post!).
 
-Also, if this is of any interest, a pre-print of the narrative for my proposal is [here](https://osf.io/9mg5y/).
+* The solicitation I submitted to was this one [NSF 19-565](https://www.nsf.gov/pubs/2019/nsf19565/nsf19565.htm).  
+* Also, if this is of any interest, the narrative for my proposal is posted as a pre-print [here](https://osf.io/9mg5y/).  
