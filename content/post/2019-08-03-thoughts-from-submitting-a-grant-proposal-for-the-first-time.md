@@ -60,7 +60,7 @@ I worried so much about whether potential advisory board members would agree to 
 
 ## Use figures, tables, and formatting creatively
 
-Using figures (including 'models' and conceptual frameworks) and tables take up space in the narrative but can provide a helpful focal point for readers attention. In particular, I found it beneficial to include a logic model (with research questions) and a table for the study timeline. If I were writing the narrative again, I would consider adding an image that made a distinctive aspect of the data collection more apparent to readers. 
+Using figures (including 'models' and conceptual frameworks) and tables take up space in the narrative but can provide a helpful focal point for readers' attention. In particular, I found it beneficial to include a logic model (with research questions) and a table for the study timeline. If I were writing the narrative again, I would consider adding an image that made a distinctive aspect of the data collection more apparent to readers. 
 
 I also found it useful to format the document in a different way than I would format a manuscript to submit for publication: I used all caps for section headers and included numbers in them, too. More generally, what *order* the sections are in (and, apart from required sections, *which* are included) is less structured (and requires more creativity) than I first thought.
 
