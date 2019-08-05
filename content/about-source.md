@@ -563,8 +563,6 @@ Special Issue Editor, *Australasian Journal of Educational Technology*, 2017
 
 American Educational Research Association, Division C, Section 1D: Science Program Co-Chair, 2019-2020
 
-National Science Foundation, STEM+C review planel, 2019
-
 Member, Technological Pedagogical Content Knowledge (TPACK) Special Interest Group (SIG) Award Committee, 2019
 
 Co-chair, TPACK SIG, Society for Information Technology and Teacher Education , 2015-2017
