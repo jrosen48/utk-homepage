@@ -353,7 +353,7 @@ Koehler, M. J., Rosenberg, J. M., Greenhalgh, S., Zellner, A. L., & Mishra, P. (
 
 ### Invited Talks
 
-Rosenberg, J.M. (September, 2019). *Data science and STEM education*. Presentation at the Middle Tennessee State University Mathematics and Science Education Doctoral Seminar series. Middle Tennessee State University, Murfreesboro, TN.
+Rosenberg, J.M. (September, 2019). *Making data science education count: Exploring the integration of data science into education*. Presentation at the Middle Tennessee State University Mathematics and Science Education Doctoral Seminar series. Middle Tennessee State University, Murfreesboro, TN.
 
 Rosenberg, J. M. (February, 2019). *Making sense of recent advances in the Technological Pedagogical Content Knowledge framework*. English International Congress at the Universidad Tecnical de Norte, Ibarra, Ecuador.
 
@@ -497,21 +497,34 @@ Reviewer, Proposals from Knox County Schools students for theNASA Student Spacef
 - Journal of STEM Education Research, 2019
 - TechTrends, 2019 (2)  
 
+### College Service 
+
+Member, Online Academic Programs Investment and Growth Plan ad-hoc committee
+
+Organizer, Quantitative Methods Research Group
+
 ### Departmental Service 
 
 *University of Tennessee, Knoxville*
 
 Mentor in AERA Bootcamp (2019)
 
-Committee member for one Ph.D student (2019)
+*Michigan State University*
 
-Committee member for five Master's degree students (2019)
+
+Search Committee Member, Program Specialist, Master of Arts in Educational Technology Program, Michigan State University, 2015
+
+### Program Service and Service on Student Committees
+
+*University of Tennessee, Knoxville*
+
+Committee member for a Doctoral student: Shande King (2019-)
+
+Committee member for Master's degree students: Zachary Clark, Lauren Dukes, Alex Edwards, Ana Michaelis, and Jessica Murphy (2018-2019)
 
 *Michigan State University*
 
 Member of two practicum committees for Educational Psychology and Educational Technology program Ph.D. students, Michigan State University, 2014-2018
-
-Search Committee Member, Program Specialist, Master of Arts in Educational Technology Program, Michigan State University, 2015
 
 ### Service to the Community
 
@@ -521,7 +534,9 @@ Provided enrichment activities related to data science to two classes, Knox Coun
 
 ### Workshops and Outreach
 
-Rosenberg, J. M., Staudt Willet, K. B., & Greenhalgh, S. P. (2019, October). Online data and open source tools: Analyzing educational internet data Using R. Workshop carried out at the Association for Educational Communications and Technology, Las Vegas, NV.
+Rosenberg, J. M., Staudt Willet, K. B., & Greenhalgh, S. P. (2019, October). *Online data and open source tools: Analyzing educational internet data Using R*. Workshop carried out at the Association for Educational Communications and Technology, Las Vegas, NV.
+
+Rosenberg, J.M. (September, 2019). *An introduction to data science in education using R*. Workshop at Middle Tennessee State University. Middle Tennessee State University, Murfreesboro, TN.
 
 Rosenberg, J. M. (2019, June). The use of mixed effects models for analyzing complex data. Presentation for the KnoxData group, Knoxville, TN. <a href = "https://github.com/jrosen48/data-science-ish"><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
