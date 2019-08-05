@@ -6,10 +6,20 @@
     <description>Recent content in Home on Joshua M. Rosenberg, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Thoughts from submitting a grant proposal for the first time</title>
+      <link>/post/2019/08/03/thoughts-from-submitting-a-grant-proposal-for-the-first-time/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019/08/03/thoughts-from-submitting-a-grant-proposal-for-the-first-time/</guid>
+      <description>Note. I drafted this right after submitting the proposal but didn&amp;rsquo;t get around to finishing it until now - almost two months later! I kept the language (around time timing) the same, as, there is still no better time than now to share though&amp;ndash;though, earlier would have likely been better as the process was more fresh on my mind.
+This past week, I submitted a proposal for a grant independently.</description>
+    </item>
     
     <item>
       <title>Introducing Data Science in Education Using R (forthcoming 2020)</title>
@@ -361,7 +371,7 @@ A benefit of the data being in an R package is that it is even easier to access 
       
       <guid>/blog/mvlri-webinar/</guid>
       <description>I will be hosting a webinar on Engaging students in authentic “data practices” in online science classes with Michigan Virtual Learning Research Institute, the research organization associated with Michigan’s state-wide online school. The webinar is today (10/18) at 2pm EDT and is available via https://connect.mivu.org/mvlri
- Here is a bit more information on the webinar:
+Here is a bit more information on the webinar:
  Not only in science and science education but also our everyday lives, data are powerful, but opportunities for students to think of and with data as part of their learning are limited.</description>
     </item>
     
@@ -759,7 +769,7 @@ Michigan State University
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/research/</guid>
-      <description>Research Interests Joshua M. Rosenberg (PhD, Michigan State University) is an Assistant Professor of STEM Education at the University of Tennessee, Knoxville. His research focuses on how learners think of and with data, particularly in science education settings. Dr. Rosenberg tries to understand how practices such as creating, representing, and modeling data create new opportunities for learning how to use data to pose and answer questions about scientific phenomena.</description>
+      <description>Research Research Statement Data science is commonly characterized as a field that integrates disciplinary expertise, statistics, and advanced computational techniques to answer questions or solve problems. In education, data science education has potential as a set of ideas and practices that cut across STEM content areas and can also be meaningful to learners, but the potential for data in education has not yet been fully realized. My research focuses on how learners think of and with data, particularly in science education settings.</description>
     </item>
     
     <item>

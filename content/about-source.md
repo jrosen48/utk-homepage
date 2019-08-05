@@ -517,7 +517,7 @@ Rosenberg, J. M., & Lishinski, A. (2018). clustRcompaR: Easy interface for clust
 
 ### Interactive Web Applications
 
-Rosenberg, J. M., Xu, R., & Frank, K. A. (2018). Konfound-It!: Quantify the Robustness of Causal Inferences. http://konfound-it.com.
+Rosenberg, J. M., Xu, R., & Frank, K. A. (2019). Konfound-It!: Quantify the robustness of causal inferences. http://konfound-it.com.
 
 ## Teaching
 
@@ -610,6 +610,7 @@ Reviewer, Proposals from Knox County Schools students for theNASA Student Spacef
 - Journal of Open Source Software, 2018  
 - Journal of Research in Science Teaching, 2019  
 - Journal of Science Education and Technology, 2019  
+- Journal of STEM Education Research, 2019
 - TechTrends, 2019 (2)  
 
 ### Departmental Service 
