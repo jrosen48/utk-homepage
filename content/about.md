@@ -183,19 +183,19 @@ Rosenberg, J. M. (2018). *Understanding work with data in summer STEM programs: 
 
 2020, Southeastern Conference (SEC) Visiting Faculty Travel Grant Program ($702)
 
-2017-2020, Consultant, Profiles of science engagement: Broadening participation by understanding individual and contextual influences ($499,927). National Science Foundation (PI: Jennifer Schmidt)
+2020-2022, PI, *Understanding the development of interest in computer science: An experience sampling approach* ($346,688). National Science Foundation.
 
-2019-2020, PI, Planting the seeds for computer science education in East Tennessee through a research-practice partnership. ($13,200). Community Engaged Research Seed Program, University of Tennessee, Knoxville
+2017-2020, Consultant, *Profiles of science engagement: Broadening participation by understanding individual and contextual influences* ($499,927). National Science Foundation (PI: Jennifer Schmidt)
 
-2018-2019, Co-PI, Exploring how beginning elementary mathematics teachers seek out resources through social media ($8,820), Herman and Rasiej Math Initiative at the University of Southern California (PI: Stephen Aguilar)
+2019-2020, PI, *Planting the seeds for computer science education in East Tennessee through a research-practice partnership*. ($13,200). Community Engaged Research Seed Program, University of Tennessee, Knoxville
 
-2013, PI, Basic Biology for Everyone ($2,000), Versal Foundation Grant
+2018-2019, Co-PI, *Exploring how beginning elementary mathematics teachers seek out resources through social media* ($8,820), Herman and Rasiej Math Initiative at the University of Southern California (PI: Stephen Aguilar)
+
+2013, PI, *Basic biology for bveryone* ($2,000), Versal Foundation Grant
 
 ### Pending Grants
 
 2020-2024, Co-PI, Imagining possibilities in post-secondary education and STEMM in rural Appalachia. National Institutes of Health.
-
-2020-2022, PI, Understanding the development of interest in computer science: An experience sampling approach. National Science Foundation.
 
 2019-2021, Co-PI, CS for Appalachia: A research-practice partnership for integrating computer science into East Tennessee schools. National Science Foundation.
 
