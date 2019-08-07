@@ -2,8 +2,8 @@ This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**rosenberg-cv.tex
-(./rosenberg-cv.tex
+**rosenberg-cv-for-word.tex
+(./rosenberg-cv-for-word.tex
 LaTeX2e <2018-12-01>
 (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
@@ -513,8 +513,8 @@ Package: titling 2009/09/04 v2.1d maketitle typesetting
 LaTeX Warning: Unused global option(s):
     [14].
 
-(./rosenberg-cv.aux)
-\openout1 = `rosenberg-cv.aux'.
+(./rosenberg-cv-for-word.aux)
+\openout1 = `rosenberg-cv-for-word.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 85.
 LaTeX Font Info:    ... okay on input line 85.
@@ -592,9 +592,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 85.
 LaTeX Info: Redefining \pageref on input line 85.
 LaTeX Info: Redefining \nameref on input line 85.
-(./rosenberg-cv.out) (./rosenberg-cv.out)
+(./rosenberg-cv-for-word.out) (./rosenberg-cv-for-word.out)
 \@outlinefile=\write3
-\openout3 = `rosenberg-cv.out'.
+\openout3 = `rosenberg-cv-for-word.out'.
 
 
 (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/oberdiek/epstopdf-
@@ -617,161 +617,148 @@ df-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 100.
-
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 97.
 (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 100.
-
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 97.
 (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 100
-.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 97.
+
 (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 100
-.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 97.
+
 (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 100.
+(Font)              <10> on input line 97.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 100.
+(Font)              <7> on input line 97.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 100.
-LaTeX Font Info:    Try loading font information for U+msa on input line 100.
+(Font)              <5> on input line 97.
+LaTeX Font Info:    Try loading font information for U+msa on input line 97.
 (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 100.
+LaTeX Font Info:    Try loading font information for U+msb on input line 97.
 (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
 {/Users/joshuarosenberg/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdfte
 x.map}] [2] [3] [4]
-Underfull \hbox (badness 1728) in paragraph at lines 446--451
-[]\T1/lmr/m/n/10 Rosenberg, J. M., & Ranel-lucci, J. (2017). Stu-dent mo-ti-va-
-tion in on-line sci-ence courses: A
+Overfull \hbox (262.7334pt too wide) in paragraph at lines 430--435
+\T1/lmr/m/it/10 Pol-icy, In-no-va-tion & Net-works\T1/lmr/m/n/10 . []$https : /
+ / mvlri . org / blog / student-[]motivation-[]in-[]online-[]science-[]courses-
+[]a-[]path-[]to-[]spending-[]more-[]time-[]on-[]course-[]and-[]higher-[]achieve
+ment/$[] 
  []
 
-
-Underfull \hbox (badness 2027) in paragraph at lines 446--451
-\T1/lmr/m/n/10 path to spend-ing more time on course and higher achieve-ment. \
-T1/lmr/m/it/10 Michi-gan Vir-tual Learn-
- []
-
-
-Overfull \hbox (40.07797pt too wide) in paragraph at lines 446--451
-\T1/lmr/m/n/10 student-[]motivation-[]in-[]online-[]science-[]courses-[]a-[]pat
-h-[]to-[]spending-[]more-[]time-[]on-[]course-[]and-[]higher-[]achievement/$[] 
-
- []
-
-[5] [6] [7] [8] [9] [10] [11] [12] [13]
-LaTeX Font Info:    Try loading font information for TS1+lmr on input line 1154
+[5] [6] [7] [8] [9] [10] [11] [12]
+LaTeX Font Info:    Try loading font information for TS1+lmr on input line 1127
 .
 (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-Underfull \hbox (badness 10000) in paragraph at lines 1154--1156
+Underfull \hbox (badness 10000) in paragraph at lines 1127--1129
+
+ []
+
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1131
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1156--1158
+Underfull \hbox (badness 10000) in paragraph at lines 1131--1133
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1158--1160
+Underfull \hbox (badness 10000) in paragraph at lines 1133--1135
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1160--1162
+Underfull \hbox (badness 10000) in paragraph at lines 1135--1137
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1162--1164
+Underfull \hbox (badness 10000) in paragraph at lines 1137--1139
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1164--1166
+Underfull \hbox (badness 10000) in paragraph at lines 1139--1141
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1166--1168
+Underfull \hbox (badness 10000) in paragraph at lines 1141--1143
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1168--1170
+Underfull \hbox (badness 10000) in paragraph at lines 1143--1145
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1170--1172
+Underfull \hbox (badness 10000) in paragraph at lines 1145--1147
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1172--1174
+Underfull \hbox (badness 10000) in paragraph at lines 1147--1149
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1174--1176
+Underfull \hbox (badness 10000) in paragraph at lines 1149--1151
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1176--1178
+Underfull \hbox (badness 10000) in paragraph at lines 1151--1153
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1178--1180
+Underfull \hbox (badness 10000) in paragraph at lines 1153--1155
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1180--1182
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1182--1184
+Underfull \hbox (badness 10000) in paragraph at lines 1155--1157
 
  []
 
 [14] [15] [16]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1403.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1371.
 [17]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1403.
-(./rosenberg-cv.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1403.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1403.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1371.
+(./rosenberg-cv-for-word.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1371.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1371.
 
-Package rerunfilecheck Info: File `rosenberg-cv.out' has not changed.
+Package rerunfilecheck Info: File `rosenberg-cv-for-word.out' has not changed.
 (rerunfilecheck)             Checksum: E49C9A59730B8352810FA319B7846EC3;7081.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1403.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1371.
  ) 
 Here is how much of TeX's memory you used:
  10298 strings out of 494553
- 147666 string characters out of 6175978
- 215495 words of memory out of 5000000
+ 147783 string characters out of 6175978
+ 215531 words of memory out of 5000000
  13743 multiletter control sequences out of 15000+600000
  36283 words of font info for 38 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 28i,5n,33p,393b,329s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 28i,5n,33p,402b,388s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ts1.
 enc}{/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec
 .enc}</Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/l
@@ -780,7 +767,7 @@ mbx10.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/public
 ublic/lm/lmr10.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/typ
 e1/public/lm/lmr17.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts
 /type1/public/lm/lmri10.pfb>
-Output written on rosenberg-cv.pdf (17 pages, 200862 bytes).
+Output written on rosenberg-cv-for-word.pdf (17 pages, 200376 bytes).
 PDF statistics:
  404 PDF objects out of 1000 (max. 8388607)
  376 compressed objects within 4 object streams

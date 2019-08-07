@@ -62,19 +62,19 @@ C.D. Owen High School, Swannanoa, NC
 
 ### Book
 
-Bovee, E. A., Estrellado, R. A., Motsipak, J., Rosenberg, J. M., & Velásquez, I. C. (under contract). Data science in education using R. London, England: Routledge. *Nb.* All authors contributed equally.
+Bovee, E. A., Estrellado, R. A., Motsipak, J., Rosenberg, J. M., & Velásquez, I. C. (under contract). *Data science in education using R*. London, England: Routledge. *Nb.* All authors contributed equally.
 
 ### Peer-Reviewed Journal Articles
 
-Xu, R., Frank, K. A., Maroulis, S., & Rosenberg, J. M. (in press). Konfound: A Stata module to quantify robustness of causal inferences. *The Stata Journal*. https://www.stata-journal.com/ (*Nb. Software-related publication*)
+Xu, R., Frank, K. A., Maroulis, S., & Rosenberg, J. M. (in press). Konfound: A Stata module to quantify robustness of causal inferences. *The Stata Journal*.
 
-Blondel, D. V., Sansone, A., Rosenberg, J. M., Yang, B. W., Linennbrink-Garcia, L., & Schwarz-Bloom, R. D. (advance online publication). Development of an online experiment platform (Rex) for high school biology. *Journal of Formative Design for Learning*. https://link.springer.com/article/10.1007/s41686-019-00030-5
+Blondel, D. V., Sansone, A., Rosenberg, J. M., Yang, B. W., Linennbrink-Garcia, L., & Schwarz-Bloom, R. D. (2019). Development of an online experiment platform (Rex) for high school biology. *Journal of Formative Design for Learning, 3*(1) 62-81. https://link.springer.com/article/10.1007/s41686-019-00030-5
 
 Henriksen, D., Mehta, R. & Rosenberg, J. (2019). Supporting a creatively focused technology fluent mindset among educators: survey results from a five-year inquiry into teachers’ confidence in using technology. *Journal of Technology and Teacher Education, 27*(1), 63-95. https://www.learntechlib.org/primary/p/184724/ <a href = "https://www.researchgate.net/publication/333405313_Supporting_A_Creatively_Focused_Technology_Fluent_Mindset_Among_Educators_A_Five-Year_Inquiry_Into_Teachers'_Confidence_With_Technology"><img src="/logos/research-gate.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"/></a>
 
 Rosenberg, J. M., & Lawson, M. J. (2019). An investigation of students’ use of a computational science simulation in an online high school physics class. *Education Sciences, 9*(49), 1-19. https://www.mdpi.com/2227-7102/9/1/49 <a href = "https://osf.io/y925f/"><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> <a href = "/pre-prints/Rosenberg-Lawson-2019-es.pdf"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
-Rosenberg, J. M., Beymer, P. N., Anderson, D. J., & Schmidt, J. A. (2018). tidyLPA: An R package to easily carry out Latent Profile Analysis (LPA) using open-source or commercial software. *Journal of Open Source Software, 3*(30), 978. https://doi.org/10.21105/joss.00978 <a href = "/pre-prints/rosenberg-et-al-2018-joss.pdf"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> (*Nb. Software-related publication*)
+Rosenberg, J. M., Beymer, P. N., Anderson, D. J., & Schmidt, J. A. (2018). tidyLPA: An R package to easily carry out Latent Profile Analysis (LPA) using open-source or commercial software. *Journal of Open Source Software, 3*(30), 978. https://doi.org/10.21105/joss.00978 <a href = "/pre-prints/rosenberg-et-al-2018-joss.pdf"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
 Greenhalgh, S. P., Staudt Willet, K. B., Rosenberg, J. M., & Koehler, M. J. (2018). Tweet, and we shall find: Using digital methods to locate participants in educational hashtags. *TechTrends, 62*(5), 501-508. https://doi.org/10.1007/s11528-018-0313-6 <a href = "https://bretsw.github.io/files/Greenhalgh_StaudtWillet_Rosenberg_Koehler_preprint.pdf"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
@@ -183,19 +183,19 @@ Rosenberg, J. M. (2018). *Understanding work with data in summer STEM programs: 
 
 2020, Southeastern Conference (SEC) Visiting Faculty Travel Grant Program ($702)
 
-2017-2020, Consultant, Profiles of science engagement: Broadening participation by understanding individual and contextual influences ($499,927). National Science Foundation (PI: Jennifer Schmidt)
+2020-2022, PI, *Understanding the development of interest in computer science: An experience sampling approach* ($346,688). National Science Foundation.
 
-2019-2020, PI, Planting the seeds for computer science education in East Tennessee through a research-practice partnership. ($13,200). Community Engaged Research Seed Program, University of Tennessee, Knoxville
+2017-2020, Consultant, *Profiles of science engagement: Broadening participation by understanding individual and contextual influences* ($499,927). National Science Foundation (PI: Jennifer Schmidt)
 
-2018-2019, Co-PI, Exploring how beginning elementary mathematics teachers seek out resources through social media ($8,820), Herman and Rasiej Math Initiative at the University of Southern California (PI: Stephen Aguilar)
+2019-2020, PI, *Planting the seeds for computer science education in East Tennessee through a research-practice partnership*. ($13,200). Community Engaged Research Seed Program, University of Tennessee, Knoxville
 
-2013, PI, Basic Biology for Everyone ($2,000), Versal Foundation Grant
+2018-2019, Co-PI, *Exploring how beginning elementary mathematics teachers seek out resources through social media* ($8,820), Herman and Rasiej Math Initiative at the University of Southern California (PI: Stephen Aguilar)
+
+2013, PI, *Basic biology for bveryone* ($2,000), Versal Foundation Grant
 
 ### Pending Grants
 
 2020-2024, Co-PI, Imagining possibilities in post-secondary education and STEMM in rural Appalachia. National Institutes of Health.
-
-2020-2022, PI, Understanding the development of interest in computer science: An experience sampling approach. National Science Foundation.
 
 2019-2021, Co-PI, CS for Appalachia: A research-practice partnership for integrating computer science into East Tennessee schools. National Science Foundation.
 
@@ -353,7 +353,7 @@ Koehler, M. J., Rosenberg, J. M., Greenhalgh, S., Zellner, A. L., & Mishra, P. (
 
 ### Invited Talks
 
-Rosenberg, J.M. (September, 2019). *Data science and STEM education*. Presentation at the Middle Tennessee State University Mathematics and Science Education Doctoral Seminar series. Middle Tennessee State University, Murfreesboro, TN.
+Rosenberg, J.M. (September, 2019). *Making data science education count: Exploring the integration of data science into education*. Presentation at the Middle Tennessee State University Mathematics and Science Education Doctoral Seminar series. Middle Tennessee State University, Murfreesboro, TN.
 
 Rosenberg, J. M. (February, 2019). *Making sense of recent advances in the Technological Pedagogical Content Knowledge framework*. English International Congress at the Universidad Tecnical de Norte, Ibarra, Ecuador.
 
@@ -401,7 +401,7 @@ Rosenberg, J. M., & Lishinski, A. (2018). clustRcompaR: Easy interface for clust
 
 ### Interactive Web Applications
 
-Rosenberg, J. M., Xu, R., & Frank, K. A. (2018). Konfound-It!: Quantify the Robustness of Causal Inferences. http://konfound-it.com.
+Rosenberg, J. M., Xu, R., & Frank, K. A. (2019). Konfound-It!: Quantify the robustness of causal inferences. http://konfound-it.com.
 
 ## Teaching
 
@@ -446,8 +446,6 @@ Special Issue Editor, *Australasian Journal of Educational Technology*, 2017
 ### Service to the Profession
 
 American Educational Research Association, Division C, Section 1D: Science Program Co-Chair, 2019-2020
-
-National Science Foundation, STEM+C review planel, 2019
 
 Member, Technological Pedagogical Content Knowledge (TPACK) Special Interest Group (SIG) Award Committee, 2019
 
@@ -496,7 +494,14 @@ Reviewer, Proposals from Knox County Schools students for theNASA Student Spacef
 - Journal of Open Source Software, 2018  
 - Journal of Research in Science Teaching, 2019  
 - Journal of Science Education and Technology, 2019  
+- Journal of STEM Education Research, 2019
 - TechTrends, 2019 (2)  
+
+### College Service 
+
+Member, Online Academic Programs Investment and Growth Plan ad-hoc committee
+
+Organizer, Quantitative Methods Research Group
 
 ### Departmental Service 
 
@@ -504,15 +509,22 @@ Reviewer, Proposals from Knox County Schools students for theNASA Student Spacef
 
 Mentor in AERA Bootcamp (2019)
 
-Committee member for one Ph.D student (2019)
+*Michigan State University*
 
-Committee member for five Master's degree students (2019)
+
+Search Committee Member, Program Specialist, Master of Arts in Educational Technology Program, Michigan State University, 2015
+
+### Program Service and Service on Student Committees
+
+*University of Tennessee, Knoxville*
+
+Committee member for a Doctoral student: Shande King (2019-)
+
+Committee member for Master's degree students: Zachary Clark, Lauren Dukes, Alex Edwards, Ana Michaelis, and Jessica Murphy (2018-2019)
 
 *Michigan State University*
 
 Member of two practicum committees for Educational Psychology and Educational Technology program Ph.D. students, Michigan State University, 2014-2018
-
-Search Committee Member, Program Specialist, Master of Arts in Educational Technology Program, Michigan State University, 2015
 
 ### Service to the Community
 
@@ -522,7 +534,9 @@ Provided enrichment activities related to data science to two classes, Knox Coun
 
 ### Workshops and Outreach
 
-Rosenberg, J. M., Staudt Willet, K. B., & Greenhalgh, S. P. (2019, October). Online data and open source tools: Analyzing educational internet data Using R. Workshop carried out at the Association for Educational Communications and Technology, Las Vegas, NV.
+Rosenberg, J. M., Staudt Willet, K. B., & Greenhalgh, S. P. (2019, October). *Online data and open source tools: Analyzing educational internet data Using R*. Workshop carried out at the Association for Educational Communications and Technology, Las Vegas, NV.
+
+Rosenberg, J.M. (September, 2019). *An introduction to data science in education using R*. Workshop at Middle Tennessee State University. Middle Tennessee State University, Murfreesboro, TN.
 
 Rosenberg, J. M. (2019, June). The use of mixed effects models for analyzing complex data. Presentation for the KnoxData group, Knoxville, TN. <a href = "https://github.com/jrosen48/data-science-ish"><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 

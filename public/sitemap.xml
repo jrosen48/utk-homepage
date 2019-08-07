@@ -3,6 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/categories/</loc>
+    <lastmod>2019-08-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-08-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-08-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/2019/08/03/thoughts-from-submitting-a-grant-proposal-for-the-first-time/</loc>
+    <lastmod>2019-08-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/grant/</loc>
+    <lastmod>2019-08-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/post/2019/07/22/introducing-data-science-in-education-using-r-forthcoming-2020/</loc>
     <lastmod>2019-07-22T00:00:00+00:00</lastmod>
   </url>
@@ -23,13 +51,43 @@
   </url>
   
   <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-05-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/presentation/</loc>
+    <lastmod>2019-05-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/r/</loc>
+    <lastmod>2019-05-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/post/2019/04/18/little-bitty-steps-toward-more-open-educational-research/</loc>
     <lastmod>2019-04-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>/tags/aera/</loc>
+    <lastmod>2019-04-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/post/2019/04/04/presentations-at-aera-2019/</loc>
     <lastmod>2019-04-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/narst/</loc>
+    <lastmod>2019-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -43,8 +101,20 @@
   </url>
   
   <url>
+    <loc>/tags/tpack/</loc>
+    <lastmod>2019-02-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/post/2019/02/01/presentation-on-engaging-students-in-science-at-the-crossing-boundaries-for-stem-education-regional-meeting/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/east-tn-stem-hub/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -53,8 +123,38 @@
   </url>
   
   <url>
+    <loc>/tags/aste/</loc>
+    <lastmod>2019-01-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/</loc>
+    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/blog/creating-a-cv-while-using-blogdown-pdf-html-and-word-doc-oh-my/</loc>
     <lastmod>2018-10-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/cv/</loc>
+    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/r/</loc>
+    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/walkthrough/</loc>
+    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -63,8 +163,32 @@
   </url>
   
   <url>
+    <loc>/tags/data-science-ed/</loc>
+    <lastmod>2018-10-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/edu-data-science/</loc>
+    <lastmod>2018-10-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/blog/using-r-markdown-with-a-latex-class-a-few-notes/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/latex/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/r-markdown/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -73,8 +197,26 @@
   </url>
   
   <url>
+    <loc>/tags/science-education/</loc>
+    <lastmod>2018-08-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/teaching/</loc>
+    <lastmod>2018-08-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/blog/social-network-analysis-model-for-influence/</loc>
     <lastmod>2018-08-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/sna/</loc>
+    <lastmod>2018-08-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -83,8 +225,20 @@
   </url>
   
   <url>
+    <loc>/tags/web-scraping/</loc>
+    <lastmod>2018-06-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/blog/an-evolving-data-visualization/</loc>
     <lastmod>2018-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/data-viz/</loc>
+    <lastmod>2018-06-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -93,8 +247,26 @@
   </url>
   
   <url>
+    <loc>/tags/dissertation/</loc>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/publication/</loc>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/blog/learning-r-where-to-start-crowdsourced-recommendations/</loc>
     <lastmod>2018-06-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/getting-started-with-r/</loc>
+    <lastmod>2018-06-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -105,6 +277,18 @@
   <url>
     <loc>/blog/getting-started-bike-commuting/</loc>
     <lastmod>2018-05-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/cycling/</loc>
+    <lastmod>2018-05-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/personal/</loc>
+    <lastmod>2018-05-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -123,8 +307,32 @@
   </url>
   
   <url>
+    <loc>/tags/konfound/</loc>
+    <lastmod>2018-04-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/r-package/</loc>
+    <lastmod>2018-04-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/blog/explorations-in-markov-chain-monte-carlo-mcmc/</loc>
     <lastmod>2018-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/mcmc/</loc>
+    <lastmod>2018-03-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/lme4/</loc>
+    <lastmod>2018-03-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -133,8 +341,32 @@
   </url>
   
   <url>
+    <loc>/tags/multi-level-models/</loc>
+    <lastmod>2018-02-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/rail-trails/</loc>
+    <lastmod>2018-02-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/blog/introducing-tidylpa-an-r-package-for-carrying-out-latent-profile-analysis/</loc>
     <lastmod>2018-02-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/tidylpa/</loc>
+    <lastmod>2018-02-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/site/</loc>
+    <lastmod>2018-01-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -145,6 +377,12 @@
   <url>
     <loc>/blog/a-shiny-interactive-web-application-to-quantify-how-robust-inferences-are-to-potential-sources-of-bias-sensitivity-analysis/</loc>
     <lastmod>2018-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/shiny/</loc>
+    <lastmod>2018-01-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -173,6 +411,12 @@
   </url>
   
   <url>
+    <loc>/tags/open-science/</loc>
+    <lastmod>2017-10-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/blog/mvlri-webinar/</loc>
     <lastmod>2017-10-18T00:00:00+00:00</lastmod>
   </url>
@@ -193,13 +437,31 @@
   </url>
   
   <url>
+    <loc>/tags/podcast/</loc>
+    <lastmod>2017-09-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/blog/using-mplus-from-r/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>/tags/mplus/</loc>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/blog/lpa-in-r-using-mclust/</loc>
     <lastmod>2017-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/mixture-models/</loc>
+    <lastmod>2017-08-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -228,6 +490,18 @@
   </url>
   
   <url>
+    <loc>/tags/cross-validation/</loc>
+    <lastmod>2017-07-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/prcr/</loc>
+    <lastmod>2017-07-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/blog/24-months-on-two-wheels/</loc>
     <lastmod>2017-06-20T00:00:00+00:00</lastmod>
   </url>
@@ -248,6 +522,12 @@
   </url>
   
   <url>
+    <loc>/tags/education-policy/</loc>
+    <lastmod>2017-03-16T16:32:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/blog/what-the-world-is-data-science-education-looking-back-on-dsetonline/</loc>
     <lastmod>2017-03-13T00:00:00+00:00</lastmod>
   </url>
@@ -255,6 +535,12 @@
   <url>
     <loc>/blog/2017-03-11-rock-climbing-internet-television-news-archive/</loc>
     <lastmod>2017-03-11T01:28:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/newsflash/</loc>
+    <lastmod>2017-03-11T01:28:00-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -278,6 +564,12 @@
   </url>
   
   <url>
+    <loc>/tags/clustrcompar/</loc>
+    <lastmod>2017-01-07T10:16:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/blog/2017-01-07-wordpress-archive/</loc>
     <lastmod>2017-01-07T09:50:40-05:00</lastmod>
   </url>
@@ -295,6 +587,12 @@
   <url>
     <loc>/blog/20160322-presentation-on-state-educational-twitter-hashtags-at-siteconf/</loc>
     <lastmod>2016-03-22T23:09:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/aect/</loc>
+    <lastmod>2015-11-06T15:27:57+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -318,35 +616,7 @@
   </url>
   
   <url>
-    <loc>/tags/aect/</loc>
-    <lastmod>2015-11-06T15:27:57+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/aera/</loc>
-    <lastmod>2019-04-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/blog/</loc>
-    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/code/</loc>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2019-07-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -370,269 +640,11 @@
   </url>
   
   <url>
-    <loc>/tags/mcmc/</loc>
-    <lastmod>2018-03-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/narst/</loc>
-    <lastmod>2019-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2019-07-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/research/</loc>
   </url>
   
   <url>
-    <loc>/tags/site/</loc>
-    <lastmod>2018-01-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/sna/</loc>
-    <lastmod>2018-08-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2015-11-06T15:27:57+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/teaching/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/aste/</loc>
-    <lastmod>2019-01-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/clustrcompar/</loc>
-    <lastmod>2017-01-07T10:16:00-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/cross-validation/</loc>
-    <lastmod>2017-07-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/cv/</loc>
-    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/cycling/</loc>
-    <lastmod>2018-05-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/data-science-ed/</loc>
-    <lastmod>2018-10-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/data-viz/</loc>
-    <lastmod>2018-06-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/dissertation/</loc>
-    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/east-tn-stem-hub/</loc>
-    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/edu-data-science/</loc>
-    <lastmod>2018-10-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/education-policy/</loc>
-    <lastmod>2017-03-16T16:32:00-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/getting-started-with-r/</loc>
-    <lastmod>2018-06-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/konfound/</loc>
-    <lastmod>2018-04-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/latex/</loc>
-    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/lme4/</loc>
-    <lastmod>2018-03-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/mixture-models/</loc>
-    <lastmod>2017-08-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/mplus/</loc>
-    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/multi-level-models/</loc>
-    <lastmod>2018-02-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/newsflash/</loc>
-    <lastmod>2017-03-11T01:28:00-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/open-science/</loc>
-    <lastmod>2017-10-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/personal/</loc>
-    <lastmod>2018-05-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/podcast/</loc>
-    <lastmod>2017-09-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/prcr/</loc>
-    <lastmod>2017-07-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/presentation/</loc>
-    <lastmod>2019-05-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/publication/</loc>
-    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/r/</loc>
-    <lastmod>2019-05-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/r/</loc>
-    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/r-markdown/</loc>
-    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/r-package/</loc>
-    <lastmod>2018-04-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/rail-trails/</loc>
-    <lastmod>2018-02-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/science-education/</loc>
-    <lastmod>2018-08-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/shiny/</loc>
-    <lastmod>2018-01-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/teaching/</loc>
-    <lastmod>2018-08-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/tidylpa/</loc>
-    <lastmod>2018-02-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/tpack/</loc>
-    <lastmod>2019-02-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/walkthrough/</loc>
-    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/web-scraping/</loc>
-    <lastmod>2018-06-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
 </urlset>
