@@ -237,7 +237,9 @@ Rosenberg, J. M. (2018). *Understanding work with data in summer STEM programs: 
 
 2019-2021, PI, *Understanding the development of interest in computer science: An experience sampling approach* ($346,688). National Science Foundation.
 
-2019-2021, Co-PI, *CS for Appalachia: A research-practice partnership for integrating computer science into East Tennessee schools* ($252,453; *PI*: Lynn Hodge). National Science Foundation.
+2019-2021, Co-PI, *CS for Appalachia: A research-practice partnership for integrating computer science into East Tennessee schools* ($252,453; *PI*: Lynn Hodge, University of Tennessee, Knoxville). National Science Foundation.
+
+2019-2022, Co-PI, *Advancing computational grounded theory for audiovisual data from STEM classrooms* (1,313,855; *PI* Christina Krist, University of Illinois Urbana-Champaign; University of Knoxville, Tennessee subcontract: $101,469). National Science Foundation.
 
 2020, Southeastern Conference (SEC) Visiting Faculty Travel Grant Program ($702)
 
@@ -252,8 +254,6 @@ Rosenberg, J. M. (2018). *Understanding work with data in summer STEM programs: 
 ### Pending Grants
 
 2020-2024, Co-PI, Imagining possibilities in post-secondary education and STEMM in rural Appalachia. National Institutes of Health.
-
-2019-2022, Co-PI, Advancing computational grounded theory for audiovisual data from STEM classrooms. National Science Foundation.
 
 2019-2021, Co-PI, Exploring informal STEM learning: Analyzing youth autonomous motivation and adult mentor instructional practices within a badging framework. National Science Foundation.
 
