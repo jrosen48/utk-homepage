@@ -22,7 +22,7 @@ For the proposal, I developed (and received feedback about) the idea for the pro
 
 This blurb started over with a not-so-well articulated idea about studying changes in learning over time (how is that for vague?). That idea developed out of two AERA presentations ([2018](https://joshuamrosenberg.com/blog/aera-presentation-how-engagement-during-out-of-school-stem-programs-promotes-the-development-of-interest/) and [2019](https://joshuamrosenberg.com/post/2019/04/04/presentations-at-aera-2019/)) in which I presented the results from trying to figure out how to study how moment-to-moment learning experiences relate to sustained interest (or future goals and plans) in the context of STEM education. 
 
-After meeting with the director of external funding for the college, I decided to pursue studying the different experiences of students who, through a lottery, enrolled in and attended a magnet school here in town (and those who were not enrolled in the magnet school and instead another high school, probably one near where they live). I wrote this down in a one-page project summary, received some feedback (through sharing it and talking about it), and revised 
+After meeting with the director of external funding for the college, I decided to pursue studying the different experiences of students who, through a lottery, enrolled in and attended a magnet school here in town (and those who were not enrolled in the magnet school and instead another high school, probably one near where they live). I wrote this down in a one-page project summary, received some feedback (through sharing it and talking about it), and revised.
 
 After beginning to reach out to administrators in the school district in which I planned to work, I realized the timing was tight - too tight - and, so, I started to think about other settings and collaborations. I had been working with a faculty (who then became the department chair) of the computer science department here as a result of a collaboration with my science education colleague (and mentor), and, I took elements from the one-page project summary and adapted (and developed) it based on what seemed possible to do. I received feedback on the blurb, again, and started to tighten up the proposal. This provided a basis for officially starting the proposal process at my institution (as I needed a short summary to obtain approval to write the proposal) and to think about and begin to reach out to potential advisory board members (and mentors, as this proposal involved; more on this at the end of the post).
 
@@ -33,9 +33,9 @@ If I had started to write an entire project narrative before getting all of my d
 There were *a lot* of documents in addition to the project narrative; I may be missing one or more, but, for my proposal, I know the following were required:
 
 - Project Summary (similar to the one-pager)  
-- Narrative References  
+- Narrative references  
 - Budget  
-- Budget Justification  
+- Budget justification  
 - Collaborators and co-authors  
 - Current and pending support  
 - Data management plan  
