@@ -19,7 +19,7 @@ Here's an excerpt from NSF's summary (a bit more is [here]
 In light of proposing the study, responding to questions from the program officer, and reflecting, I see the following as some of the goals for the project (blending my personal goals with the more research-related aims of the project), building on some of the past work I've done and some areas of need for more attention more generally:
 
 1. Start to develop expertise in computer science education (particularly as it is the part of the [traditionally/perhaps not accurately defined] three areas underlying data science, computer science, statistics, and knowledge about a discipline and is the one about which I know the least)
-1. Learn how to use the experience sampling method (or ESM) to study the variation on students' experiences (in a large, undergraduate course)
+1. Learn how to use the experience sampling method (or ESM) to study the variation in students' experiences and to try to study contextual differences using ESM better (in a large, introductory undergraduate course)
 1. Become better at using multivariate, multi-level models - especially those that involve Markov Chain Monte Carlo estimation techniques (which have a lot of potential for educational research)
 1. Provide opportunities for students to develop expertise in these areas (and provide an opportunity for me to start to mentor students as a part of a team)
 1. Focus on how to study students' self-reported gender and self-identification with a particular social group in a way that is true to students' experiences (and doesn't lead to making inaccurate or not helpful generalizations about students' experiences in the domain that we will be studying)
