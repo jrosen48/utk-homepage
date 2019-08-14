@@ -22,7 +22,7 @@ In light of proposing the study, responding to questions from the program office
 1. Learn how to use the experience sampling method (or ESM) to study the variation on students' experiences (in a large, undergraduate course)
 1. Become better at using multivariate, multi-level models - especially those that involve Markov Chain Monte Carlo estimation techniques (which have a lot of potential for educational research)
 1. Provide opportunities for students to develop expertise in these areas (and provide an opportunity for me to start to mentor students as a part of a team)
-1. Focus on how to study students' lf-reported gender and self-identification with a particular social group in a way that is true to students' experiences (and doesn't lead to making inaccurate or not helpful generalizations about students' experiences in the domain that we will be studying)
+1. Focus on how to study students' self-reported gender and self-identification with a particular social group in a way that is true to students' experiences (and doesn't lead to making inaccurate or not helpful generalizations about students' experiences in the domain that we will be studying)
 
 In addition to being excited, I'm nervous about beginning the project. My next immediate step is to start to develop a team - probably a post-doctoral scholar and a graduate research assistant. I'll be sure to share more (and who these folks are) as soon as things are firmed up.
 
