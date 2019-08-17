@@ -8,7 +8,7 @@ categories:
 tags: []
 ---
 
-*Note. I drafted this right after submitting the proposal but didn't get around to finishing it until now - almost two months later! I kept the language (around time timing) the same, as, there is still no better time than now to share though--though, earlier would have likely been better as the process was more fresh on my mind.*
+*Note. I drafted this right after submitting the proposal but didn't get around to finishing it until now - almost two months later! I kept the language (around the timing) the same, as, there is still no better time than now to share--though, earlier would have likely been better as the process was more fresh on my mind.*
 
 This past week, I submitted a proposal for a grant independently. I thought that there would be no better time than now to just down some thoughts, reflections, and perhaps a few lessons learned from the process of submitting a grant independently, as follows.
 
