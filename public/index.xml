@@ -6,10 +6,23 @@
     <description>Recent content in Home on Joshua M. Rosenberg, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>test</title>
+      <link>/post/2019/08/15/test/</link>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019/08/15/test/</guid>
+      <description>  test test2   test d
+ test2 df
+#test3
+dfds
+ </description>
+    </item>
     
     <item>
       <title>New project! Understanding the development of interest in computer science - an experience sampling approach</title>
