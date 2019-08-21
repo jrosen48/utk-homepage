@@ -181,11 +181,11 @@ Rosenberg, J. M. (2018). *Understanding work with data in summer STEM programs: 
 
 ### Funded Grants
 
-2019-2021, PI, *Understanding the development of interest in computer science: An experience sampling approach* ($346,688). National Science Foundation.
+2019-2021, PI, *Understanding the development of interest in computer science: An experience sampling approach* ($346,688). National Science Foundation. (National Science Foundation Grant No. [1937700](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1937700&HistoricalAwards=false))
 
-2019-2021, Co-PI, *CS for Appalachia: A research-practice partnership for integrating computer science into East Tennessee schools* ($252,453; *PI*: Lynn Hodge, University of Tennessee, Knoxville). National Science Foundation.
+2019-2021, Co-PI, *CS for Appalachia: A research-practice partnership for integrating computer science into East Tennessee schools* ($252,453; *PI*: Lynn Hodge, University of Tennessee, Knoxville). National Science Foundation. (National Science Foundation Grant No. [1923509](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1923509&HistoricalAwards=false))
 
-2019-2022, Co-PI, *Advancing computational grounded theory for audiovisual data from STEM classrooms* (1,313,855; *PI* Christina Krist, University of Illinois Urbana-Champaign; University of Knoxville, Tennessee subcontract: $101,469). National Science Foundation.
+2019-2022, Co-PI, *Advancing computational grounded theory for audiovisual data from STEM classrooms* (1,313,855; *PI* Christina Krist, University of Illinois Urbana-Champaign; University of Knoxville, Tennessee subcontract: $101,469). National Science Foundation. (National Science Foundation Grant No. [1920796](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1920796&HistoricalAwards=false))
 
 2020, Southeastern Conference (SEC) Visiting Faculty Travel Grant Program ($702)
 
@@ -493,7 +493,7 @@ Reviewer, Proposals from Knox County Schools students for theNASA Student Spacef
 - Journal of Open Source Education, 2019  
 - Journal of Open Source Software, 2018  
 - Journal of Research in Science Teaching, 2019  
-- Journal of Science Education and Technology, 2019  
+- Journal of Science Education and Technology, 2019 (2)
 - Journal of STEM Education Research, 2019
 - TechTrends, 2019 (2)  
 
@@ -510,7 +510,6 @@ Organizer, Quantitative Methods Research Group
 Mentor in AERA Bootcamp (2019)
 
 *Michigan State University*
-
 
 Search Committee Member, Program Specialist, Master of Arts in Educational Technology Program, Michigan State University, 2015
 
