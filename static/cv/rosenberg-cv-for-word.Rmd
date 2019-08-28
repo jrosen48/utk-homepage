@@ -205,6 +205,8 @@ Rosenberg, J. M. (2018). *Understanding work with data in summer STEM programs: 
 
 ## Fellowships and Awards
 
+2019-2020, Initiative for the Future Faculty Development Program, University of Tennessee, Knoxville
+
 2019, Open Publishing Support Fund, University of Tennessee Libraries and Office of Research and Engagement, University of Tennessee, Knoxville
 
 2018, Foreign Travel Award, Office of Research and Engagement, University of Tennessee, Knoxville (UTK) 
