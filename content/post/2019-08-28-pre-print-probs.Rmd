@@ -1,5 +1,5 @@
 ---
-title: Pre-{rint Probs - Some thoughts from submitting a pre-print
+title: Pre-Print Probs - Some thoughts from submitting a pre-print
 author: ''
 date: '2019-08-28'
 slug: pre-print-probs
