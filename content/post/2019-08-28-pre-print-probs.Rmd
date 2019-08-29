@@ -1,5 +1,5 @@
 ---
-title: Pre-Print Probs - Some thoughts from submitting a pre-print
+title: Pre-print probs - Some thoughts after posting a pre-print of an article
 author: ''
 date: '2019-08-28'
 slug: pre-print-probs
@@ -13,17 +13,21 @@ I [shared my grant proposal I wrote as a pre-print](https://joshuamrosenberg.com
 - I didn't face any risk of unblinding the review process (as the NSF review process already is)
 - I was the only author, and, so, I felt like there was less risk if I made a mistake: I was the one who would face the consequences!
 
+# Pre-print "pro"s
+
 Recently, I became curious about sharing a pre-print of a paper. I wanted to share it for a few reasons: the most proximal is that I am sharing the paper with others as a part of a presentation. I reasoned that if they were reading the copy that was presently under review, then, it might be beneficial for those reading it and for me to formalize the process through which they could share ideas or feedback - through the pre-print. Also, the journal to which we submitted the paper has a policy which encourages the submissions of pre-prints. Here was the policy:
 
 > *Journal* will consider for review articles previously available as preprints on non-commercial servers akin to ArXiv, bioRxiv, psyArXiv, SocArXiv, engrXiv. Authors are requested to update any pre-publication versions with a link to the final published article.
 
-Finally, after a conversation with a colleague, I came across [a nice FAQ on the pre-print process](https://help.osf.io/hc/en-us/articles/360019930493-Preprint-FAQs). And, so, I started to think about posting the paper on a pre-print server. 
+Finally, after a conversation with a colleague, I came across [a nice FAQ on the pre-print process](https://help.osf.io/hc/en-us/articles/360019930493-Preprint-FAQs). This encouraged me to post the pre-print.
+
+And, so, I started to think about posting the paper on a pre-print server. 
+
+# Pre-print "con"s
 
 On the other hand, the paper was already submitted for review, and, so, my co-authors and I would not benefit as much from feedback now relative to feedback prior to our submitting the paper for review. Did it make a difference that the paper was already submitted for review? According to the policy, that didn't seem to be an issue (though - I agree - it would have been more ideal to post the pre-print well before submitting the article for publication). Would posting the pre-print potentially unblind the review? I don't have a good answer to this question - or the implications of posting a pre-print for the anonymity of reviews. So, I was just a bit anxious about the process. I had also recently come across stories about folks having papers rejected because they were initially shared as pre-prints: in one case, [the journal had a policy encouraging pre-prints!](https://www.insidehighered.com/news/2019/08/26/sociologist-says-journal-rejected-her-paper-because-shes-shared-it-elsewhere).
 
-After weighing the pro's and con's, I posted the pre-print; maybe I should have weighed them longer. I actually posted it and then didn't share it (with anyone!). 
-
-It's [here](https://osf.io/uwza6/). 
+After weighing the pro's and con's, I posted the pre-print; maybe I should have weighed them longer. I actually posted it and then didn't share it (with anyone!). It's [here](https://osf.io/uwza6/). 
 
 The cause for this post - was that Google Scholar picked up on the paper. A friend and colleague mentioned it after Google Scholar recommended it. This made me think (and have a conversation with another colleague) about some of the unanticipated parts of sharing work via pre-prints or in more open ways, more generally. A drawback of publishing in "closed" journals is that they're not available to those who want to read the article. Indeed, within a short time of posting the pre-print, an individual who was involved in the community we reported on in the study (and who I do not think is a researcher) commented about it was great to read about the work because of the resources and ideas she encountered from being involved in it. But, a positive aspect of publishing in "closed" journals and publications is that it's easier to anticipate and understand who will be reading the work - and how they will read it. I did not expect, for example, that quietly posting the paper on a pre-print server would lead to Google recommending this paper (which is not reviewed yet and, more generally, does not seem quite ready to share widely) to close colleagues and friends - and, ostensibly, those who I know less well, too. This concerns me a bit; I'm more concerned now about unblinding the review process and what implications that may have for the paper and for how trustworthy the research is.
 

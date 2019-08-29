@@ -12,7 +12,7 @@ I have the opportunity to speak with [Dr. Courtney Faber's](http://cbe.utk.edu/e
 
 In this course, my understanding is that students tackle a design challenge. I was asked to come to class to speak for around 30-minutes around adapting and designing activities for an engineering after school program for elementary-aged students. So, the design challenge is to teach engineering to elementary students about engineering. Cool!
 
-But, I dont' have expertise in engineering or elementary education. So, I reached out to a colleague, who equipped me well, and also did a bit of noodling on just a few things that I could and would want to share. This post includes a short description of what I hoped to share.
+But, I don't' have expertise in engineering or elementary education. So, I reached out to a colleague, who equipped me well, and also did a bit of noodling on just a few things that I could and would want to share. This post includes a short description of what I hoped to share.
 
 Teaching and learning are complex and so having a "model" for them can be useful. 
 
@@ -33,4 +33,4 @@ Here are a few things I'd recommend considering with respect to each of these.
 **Tools**
 
 - Simple ideas or frameworks can help to guide students' work; for example, in a project designed to engage students in developing scientific "models" of phenomena, we used the framework of GAME, or Generality, Audience, Mechanism, and Evidence as a way to guide students to consider these aspects of their scientific models
-- With the right task, worksheets can serve as scaffolds for students' work; consider worksheets that focus on an open-ended task, but provide students' with resources (such asz examples that provide an end-goal) that can serve as tools
+- With the right task, worksheets can serve as scaffolds for students' work; consider worksheets that focus on an open-ended task, but provide students' with resources (such as examples that provide an end-goal) that can serve as tools
