@@ -17,8 +17,7 @@ This list accumulated over the course of two classes and so I thought to start t
 - https://ngss.nsta.org/Classroom-Resources.aspx (over 800 vetted lesson plans)
 - https://www.ngssphenomena.com/ (phenomena for planning for NGSS-aligned teaching and learning)
 - https://orise.orau.gov/stem/k-12/curriculum-for-the-classroom.html#lesson-plans (resources from an organization related to the Oak Ridge National Laboratory)
-- http://blog.mrmeyer.com/2011/the-three-acts-of-a-mathematical-story/ (three-act math-related resources; may be relevant to science)
-- https://docs.google.com/spreadsheets/d/1jXSt_CoDzyDFeJimZxnhgwOVsWkTQEsfqouLWNNC6Z4/edit#gid=0 (more three-act math-related resources)
+- https://www.openscied.org/?sf107982674=1 (open science ed instructional materials)
 
 # Tools and digital platforms for learning
 
@@ -38,3 +37,8 @@ This list accumulated over the course of two classes and so I thought to start t
 - https://www.teachingchannel.org/home (helpful videos, many related to science education) 
 - https://www.ted.com/talks/rita_pierson_every_kid_needs_a_champion (a talk on the impact teachers can have)
 - https://www.thisamericanlife.org/487/harper-high-school-part-one (part one of two episode of a podcast)
+
+# Math-related resources 
+
+- http://blog.mrmeyer.com/2011/the-three-acts-of-a-mathematical-story/ (three-act math-related resources; may be relevant to science)
+- https://docs.google.com/spreadsheets/d/1jXSt_CoDzyDFeJimZxnhgwOVsWkTQEsfqouLWNNC6Z4/edit#gid=0 (more three-act math-related resources)
