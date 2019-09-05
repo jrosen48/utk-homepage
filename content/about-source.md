@@ -62,6 +62,57 @@ Shelby High School, Shelby, NC
 2009-2010, Science Teacher Intern (Biology and Chemistry)  
 C.D. Owen High School, Swannanoa, NC  
 
+
+## Grants
+
+2019-2021, PI, *Understanding the development of interest in computer science: An experience sampling approach* ($346,688). National Science Foundation. (National Science Foundation Grant No. [1937700](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1937700&HistoricalAwards=false))
+
+2019-2021, Co-PI, *CS for Appalachia: A research-practice partnership for integrating computer science into East Tennessee schools* ($252,453; *PI*: Lynn Hodge, University of Tennessee, Knoxville). National Science Foundation. (National Science Foundation Grant No. [1923509](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1923509&HistoricalAwards=false))
+
+2019-2022, Co-PI, *Advancing computational grounded theory for audiovisual data from STEM classrooms* (1,313,855; *PI* Christina Krist, University of Illinois Urbana-Champaign; University of Knoxville, Tennessee subcontract: $101,469). National Science Foundation. (National Science Foundation Grant No. [1920796](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1920796&HistoricalAwards=false))
+
+2020, Southeastern Conference (SEC) Visiting Faculty Travel Grant Program ($702)
+
+2017-2020, Consultant, *Profiles of science engagement: Broadening participation by understanding individual and contextual influences* ($499,927; *PI*: Jennifer Schmidt). National Science Foundation.
+
+2019-2020, PI, *Planting the seeds for computer science education in East Tennessee through a research-practice partnership*. ($13,200). Community Engaged Research Seed Program, University of Tennessee, Knoxville
+
+2018-2019, Co-PI, *Exploring how beginning elementary mathematics teachers seek out resources through social media* ($8,820), Herman and Rasiej Math Initiative at the University of Southern California (PI: Stephen Aguilar)
+
+2013, PI, *Basic biology for bveryone* ($2,000), Versal Foundation Grant
+
+## Fellowships and Awards
+
+2019-2020, Initiative for the Future Faculty Development Program, University of Tennessee, Knoxville
+
+2019, Open Publishing Support Fund, University of Tennessee Libraries and Office of Research and Engagement, University of Tennessee, Knoxville
+
+2019, Finalist, Association for Science Teacher Education John C. Park National Technology Leadership Institute Fellowship
+
+2018, Foreign Travel Award, Office of Research and Engagement, University of Tennessee, Knoxville (UTK) 
+
+2017, Delia Koo Global Travel Fellowship, Michigan State University (MSU)
+
+2017, Michigan Virtual Learning Research Institute Dissertation Fellowship ($1,500)
+
+2017, Concord Consortium Data Science Educational Technology Fellowship ($1,000)
+
+2017, Council of Graduate Students Disciplinary Leadership Award, Michigan State University
+
+2017, Research Expenses Fellowship ($3,250), MSU
+
+2016, College of Education Alumni Fellowship ($5,500), MSU
+
+2016, Best Paper Award, TPACK SIG, SITE International Conference
+
+2015, Cotterman Family Endowment for Education Summer Research Fellowship ($6,000), MSU
+
+2014, Outstanding Paper Award, Society for Information Technology and Teacher Education International Conference
+
+2013, Massive Open Online Course Research and Development Fellowship ($1,000), MSU
+
+2009-2012, Burroughs Wellcome Fund Scholar, University of North Carolina Asheville
+
 ## Publications
 
 ### Book
@@ -230,66 +281,6 @@ Rosenberg, J. M. (2018). *Context and Technological Pedagogical Content Knowledg
 
 \hangindent=2em
 Rosenberg, J. M. (2018). *Understanding work with data in summer STEM programs: An experience sampling method approach* (Doctoral dissertation). Retrieved from Proquest Dissertations and Theses. (Proquest No. 10747232) <a href = "/publications/Rosenberg-2018-Dissertation.pdf"><img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> <a href = "https://osf.io/65ckh/"><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
-
-## Grants
-
-### Funded Grants
-
-2019-2021, PI, *Understanding the development of interest in computer science: An experience sampling approach* ($346,688). National Science Foundation. (National Science Foundation Grant No. [1937700](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1937700&HistoricalAwards=false))
-
-2019-2021, Co-PI, *CS for Appalachia: A research-practice partnership for integrating computer science into East Tennessee schools* ($252,453; *PI*: Lynn Hodge, University of Tennessee, Knoxville). National Science Foundation. (National Science Foundation Grant No. [1923509](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1923509&HistoricalAwards=false))
-
-2019-2022, Co-PI, *Advancing computational grounded theory for audiovisual data from STEM classrooms* (1,313,855; *PI* Christina Krist, University of Illinois Urbana-Champaign; University of Knoxville, Tennessee subcontract: $101,469). National Science Foundation. (National Science Foundation Grant No. [1920796](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1920796&HistoricalAwards=false))
-
-2020, Southeastern Conference (SEC) Visiting Faculty Travel Grant Program ($702)
-
-2017-2020, Consultant, *Profiles of science engagement: Broadening participation by understanding individual and contextual influences* ($499,927; *PI*: Jennifer Schmidt). National Science Foundation.
-
-2019-2020, PI, *Planting the seeds for computer science education in East Tennessee through a research-practice partnership*. ($13,200). Community Engaged Research Seed Program, University of Tennessee, Knoxville
-
-2018-2019, Co-PI, *Exploring how beginning elementary mathematics teachers seek out resources through social media* ($8,820), Herman and Rasiej Math Initiative at the University of Southern California (PI: Stephen Aguilar)
-
-2013, PI, *Basic biology for bveryone* ($2,000), Versal Foundation Grant
-
-### Pending Grants
-
-2020-2024, Co-PI, Imagining possibilities in post-secondary education and STEMM in rural Appalachia. National Institutes of Health.
-
-2019-2021, Co-PI, Exploring informal STEM learning: Analyzing youth autonomous motivation and adult mentor instructional practices within a badging framework. National Science Foundation.
-
-## Fellowships and Awards
-
-2019-2020, Initiative for the Future Faculty Development Program, University of Tennessee, Knoxville
-
-2019, Open Publishing Support Fund, University of Tennessee Libraries and Office of Research and Engagement, University of Tennessee, Knoxville
-
-2018, Foreign Travel Award, Office of Research and Engagement, University of Tennessee, Knoxville (UTK) 
-
-2017, Delia Koo Global Travel Fellowship, Michigan State University (MSU)
-
-2017, Michigan Virtual Learning Research Institute Dissertation Fellowship ($1,500)
-
-2017, Concord Consortium Data Science Educational Technology Fellowship ($1,000)
-
-2017, Research Expenses Fellowship ($3,250), MSU
-
-2016, College of Education Alumni Fellowship ($5,500), MSU
-
-2015, Cotterman Family Endowment for Education Summer Research Fellowship ($6,000), MSU
-
-2013, Massive Open Online Course Research and Development Fellowship ($1,000), MSU
-
-2009-2012, Burroughs Wellcome Fund Scholar, University of North Carolina Asheville
-
-## Awards
-
-2019, Finalist, Association for Science Teacher Education John C. Park National Technology Leadership Institute Fellowship
-
-2017, Council of Graduate Students Disciplinary Leadership Award, Michigan State University
-
-2016, Best Paper Award, TPACK SIG, SITE International Conference
-
-2014, Outstanding Paper Award, Society for Information Technology and Teacher Education International Conference
 
 ## Presentations 
 
@@ -471,9 +462,6 @@ Rosenberg, J.M. (September, 2019). *Making data science education count: Explori
 \hangindent=2em
 Rosenberg, J. M. (February, 2019). *Making sense of recent advances in the Technological Pedagogical Content Knowledge framework*. English International Congress at the Universidad Tecnical de Norte, Ibarra, Ecuador.
 
-\hangindent=2em
-Rosenberg, J. M. (March, 2016). *An introduction to R for programming and statistical analysis in education*. Georgia Southern University College of Education, Statesboro, GA.
-
 ### Other Presentations
 
 \hangindent=2em
@@ -491,19 +479,9 @@ New Faculty Mentoring Program, AERA Division C, 2019
 
 Graduate Student Seminar, AERA Division C, 2016
 
-Early Career Seminar, National Science Foundation and AECT, 2015
+Early Career Seminar, Association for Educational Communications and Technology, 2015
 
-Advanced Training Institute on Research Methods with Diverse Groups, American Psychological Association, 2014
-
-## Research Experience
-
-Research Assistant, Profiles of Science Engagement, Jennifer Schmidt (PI), 2017-2018
-
-Research Assistant, Self-Generated Research Experiences to Support Biomedical/Behavioral Research Careers, Lisa Linnenbrink-Garcia (PI), 2017
-
-Research Assistant, STEM Interest and Engagement, Jennifer Schmidt (PI), 2016-2018
-
-Research Assistant, Supporting scientific practices in elementary and middle school classrooms, Christina Schwarz (MSU PI), 2013-2017
+Research Methods with Diverse Groups Advanced Training Institute, American Psychological Association, 2014
 
 ## Software Developed
 
@@ -535,6 +513,7 @@ Instructor at the University of Tennessee, Knoxville
 
 *Nature of Mathematics and Science Education* (SCED 572,  M.A. and Ph.D. class)  
 *Teaching Science in Grades 7-12* (TPTE 495, SCED 496, & SCED 543,  B.S. & M.A. class)  
+*VolsTeach Step 1 and Step 2* (TPTE 110 & TPTE 120, undergraduate-level class)
 
 Instructor at Michigan State University:
 
@@ -593,7 +572,7 @@ Reviewer, American Psychological Association (APA) Convention, 2015
 
 ### Service to the Community
 
-Reviewer, Proposals from Knox County Schools students for theNASA Student Spaceflight Experiment Program
+Reviewer, Proposals from Knox County Schools students for the NASA Student Spaceflight Experiment Program
 
 ### Ad-hoc Journal Article Reviews
 
@@ -643,12 +622,6 @@ Committee member for Master's degree students: Zachary Clark, Lauren Dukes, Alex
 
 Member of two practicum committees for Educational Psychology and Educational Technology program Ph.D. students, Michigan State University, 2014-2018
 
-### Service to the Community
-
-Reviewer, Proposals from Knox County Schools students to the NASA Student Spaceflight Experiment Program, 2018
-
-Provided enrichment activities related to data science to two classes, Knox County Schools, Private School in Knox County, 2018
-
 ### Workshops and Outreach
 
 \hangindent=2em
@@ -671,6 +644,9 @@ Anderson, D. J., and Rosenberg, J. M. (2019, April). Transparent and reproducibl
 
 \hangindent=2em
 Rosenberg, J. M. (2017, April). Introduction to R for Data Analysis. Presentation at the School of Criminal Justice, Michigan State University. 
+
+\hangindent=2em
+Rosenberg, J. M. (March, 2016). *An introduction to R for programming and statistical analysis in education*. Georgia Southern University College of Education, Statesboro, GA.
 
 \hangindent=2em
 Ranellucci, J., & Rosenberg, J. M. (2016, February). Motivating our students: A partnership between Michigan Virtual Schools and Michigan State University. Workshop at Michigan Virtual University, East Lansing, MI.
@@ -733,7 +709,7 @@ Rosenberg, J. M. (2012, November). Mobile learning for teachers. Presentation at
 
 ## Podcast
 
-Co-host of the [*Impodster Syndrome* podcast](http://impodstersyndrome.libsyn.com/). 
+Co-host, the [*Impodster Syndrome* podcast](http://impodstersyndrome.libsyn.com/). 
 
 ## Consulting
 
