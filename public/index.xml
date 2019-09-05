@@ -6,10 +6,19 @@
     <description>Recent content in Home on Joshua M. Rosenberg, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Presentation at Middle Tennessee State University: Making Data Science Count</title>
+      <link>/post/2019/09/05/presentation-at-middle-tennessee-state-university-making-data-science-count/</link>
+      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019/09/05/presentation-at-middle-tennessee-state-university-making-data-science-count/</guid>
+      <description>A link to the presentation is here.</description>
+    </item>
     
     <item>
       <title>Pre-print probs - Some thoughts after posting a pre-print of an article</title>
