@@ -606,6 +606,8 @@ Organizer, Quantitative Methods Research Group
 
 Mentor in AERA Bootcamp (2019)
 
+VolsTeach major ad-hoc committee (2019-)
+
 *Michigan State University*
 
 Search Committee Member, Program Specialist, Master of Arts in Educational Technology Program, Michigan State University, 2015
