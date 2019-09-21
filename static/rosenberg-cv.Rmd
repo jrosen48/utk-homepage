@@ -122,7 +122,7 @@ Bovee, E. A., Estrellado, R. A., Motsipak, J., Rosenberg, J. M., & Velásquez, I
 ### Peer-Reviewed Journal Articles
 
 \hangindent=2em
-Xu, R., Frank, K. A., Maroulis, S., & Rosenberg, J. M. (in press). Konfound: A Stata module to quantify robustness of causal inferences. *The Stata Journal*.
+Xu, R., Frank, K. A., Maroulis, S., & Rosenberg, J. M. (2019). konfound: Command to quantify robustness of causal inferences. *The Stata Journal, 19*(3), 523-550. https://journals.sagepub.com/doi/full/10.1177/1536867X19874223
 
 \hangindent=2em
 Blondel, D. V., Sansone, A., Rosenberg, J. M., Yang, B. W., Linennbrink-Garcia, L., & Schwarz-Bloom, R. D. (2019). Development of an online experiment platform (Rex) for high school biology. *Journal of Formative Design for Learning, 3*(1) 62-81. https://link.springer.com/article/10.1007/s41686-019-00030-5
@@ -605,6 +605,8 @@ Organizer, Quantitative Methods Research Group
 *University of Tennessee, Knoxville*
 
 Mentor in AERA Bootcamp (2019)
+
+VolsTeach major ad-hoc committee (2019-)
 
 *Michigan State University*
 

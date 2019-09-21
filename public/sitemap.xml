@@ -681,11 +681,28 @@
   </url>
   
   <url>
+    <loc>/personal-statements/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/research/</loc>
   </url>
   
   <url>
+    <loc>/personal-statements/research-statement/</loc>
+  </url>
+  
+  <url>
+    <loc>/personal-statements/service-statement/</loc>
+  </url>
+  
+  <url>
     <loc>/teaching/</loc>
+  </url>
+  
+  <url>
+    <loc>/personal-statements/teaching-statement/</loc>
   </url>
   
 </urlset>
