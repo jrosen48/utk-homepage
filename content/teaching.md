@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-*Dr. Rosenberg teaches classes in science and STEM education, educational technology, and research methods. In his classes, Dr. Rosenberg aims to involve students in authentic practices from the field of study. For example, in teacher education classes, this plays out through giving students opportunities to both participate in as well as plan and enact activities focused upon engaging in scientific and engineering practices. In graduate-level classes, Dr. Rosenberg focuses on scholarly practices, particularly critiquing and contributing to ongoing conversations about educational policy and practice.*
+My teaching statement is available [here](https://joshuamrosenberg.com/personal-statements/teaching-statement/)
 
 This page contains: a list of courses I have taught, including course descriptions and links to course websites (when available); information on workshops and outreach.
 
