@@ -212,22 +212,6 @@ Phillips, M., Harris, J., Rosenberg, J. M., & Koehler, M. J. (2017). TPCK/TPACK 
 
 Rosenberg, J. M., & Ranellucci, J. (2017). Student motivation in online science courses: A path to spending more time on course and higher achievement. *Michigan Virtual Learning Research Institute Blog: Research, Policy, Innovation & Networks*. https://mvlri.org/blog/student-motivation-in-online-science-courses-a-path-to-spending-more-time-on-course-and-higher-achievement/
 
-### Working papers
-
-Rosenberg, J. M., Schwarz, C. V., & Akcaoglu, M. (in preparation). Learning to teach scientific modeling: A longitudinal case study of two teachers' instructional practice.
-
-Rosenberg, J. M., Reid, J., Koehler, M. J., Fischer, C., & McKenna, T. J. (in preparation). The roles of the Twitter hashtag #NGSSchat in the context of science education reform efforts. <a href = "https://osf.io/9ex7k/"><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
-
-Schmidt, J. A., Beymer, P. N., & Rosenberg, J. M. (in preparation). Experiences, activities, and personal characteristics as predictors of engagement in STEM-focused summer programs.
-
-Greenhalgh, S. P., Rosenberg, J. M., Staudt-Willet, B., Koehler, M. J., & Akcaoglu, M. (in preparation). Timing is everything: Comparing synchronous and asynchronous modes of Twitter for teacher professional learning.
-
-### Unpublished Manuscripts  
-
-Rosenberg, J. M. (2018). *Context and Technological Pedagogical Content Knowledge: An initial survey of teachers and validation data*. <a href = "https://osf.io/hc9fq/"><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
-
-Rosenberg, J. M. (2018). *Understanding work with data in summer STEM programs: An experience sampling method approach* (Doctoral dissertation). Retrieved from Proquest Dissertations and Theses. (Proquest No. 10747232) <a href = "/publications/Rosenberg-2018-Dissertation.pdf"><img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> <a href = "https://osf.io/65ckh/"><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
-
 ## Presentations 
 
 ### Peer-Reviewed Conference Presentations
@@ -426,6 +410,8 @@ Editorial Review Board Member, *Journal of Research on Technology in Education*,
 Special Issue Editor, *Australasian Journal of Educational Technology*, 2017
 
 ### Service to the Profession
+
+Panelist, National Science Foundation, 2020
 
 American Educational Research Association, Division C, Section 1D: Science Program Co-Chair, 2019-2020
 
