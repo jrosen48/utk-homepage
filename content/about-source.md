@@ -249,6 +249,8 @@ Rosenberg, J. M. (2018). *Understanding work with data in summer STEM programs: 
 
 2018-2019, Co-PI, *Exploring how beginning elementary mathematics teachers seek out resources through social media* ($8,820), Herman and Rasiej Math Initiative at the University of Southern California (PI: Stephen Aguilar)
 
+### Completed Grants
+
 2013, PI, *Basic biology for bveryone* ($2,000), Versal Foundation Grant
 
 ### Pending Grants
@@ -372,9 +374,6 @@ Roseth, C. J., Linnenbrink-Garcia, L., Saltarelli, W., Lee, Y-K., Rosenberg, J. 
 
 \hangindent=2em
 Galey, S., Ferrare, J., & Rosenberg, J. M. (2017, April). *Idea brokers, policy convergence, and paradigm shifts: The co-evolution of school choice and alternative certification issue networks in the national educational policy discourse, 2000-2015*. Paper presented at the Annual Meeting of the American Educational Research Association, San Antonio, TX.
-
-\hangindent=2em
-Wright, E., Hao, Q., & Rosenberg, J. M. (2017, April). *What are the most important predictors of the earnings of college graduates? Data from the college scorecard*. Paper presented at the Annual Meeting of the American Educational Research Association, San Antonio, TX.
 
 \hangindent=2em
 Mikeska, J. N., Rosenberg, J. M., Holtzman, S., & McCaffrey, D. (2017, April). *Comparing the alignment between two observational measures of science teachers’ instructional practice*. Poster presented at the National Association for Research in Science Teaching Annual International Conference, San Antonio, TX. <a href = "/pre-prints/mikeska-et-al-2017-narst.pdf"><img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
