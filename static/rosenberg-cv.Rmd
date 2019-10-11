@@ -62,6 +62,57 @@ Shelby High School, Shelby, NC
 2009-2010, Science Teacher Intern (Biology and Chemistry)  
 C.D. Owen High School, Swannanoa, NC  
 
+
+## Grants
+
+2019-2021, PI, *Understanding the development of interest in computer science: An experience sampling approach* ($346,688). National Science Foundation. (National Science Foundation Grant No. [1937700](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1937700&HistoricalAwards=false))
+
+2019-2021, Co-PI, *CS for Appalachia: A research-practice partnership for integrating computer science into East Tennessee schools* ($252,453; *PI*: Lynn Hodge, University of Tennessee, Knoxville). National Science Foundation. (National Science Foundation Grant No. [1923509](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1923509&HistoricalAwards=false))
+
+2019-2022, Co-PI, *Advancing computational grounded theory for audiovisual data from STEM classrooms* ($1,313,855; *PI*: Christina Krist, University of Illinois Urbana-Champaign; University of Tennessee, Knoxville subcontract: $101,469)). National Science Foundation. (National Science Foundation Grant No. [1920796](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1920796&HistoricalAwards=false))
+
+2020, Southeastern Conference (SEC) Visiting Faculty Travel Grant Program ($702)
+
+2017-2020, Consultant, *Profiles of science engagement: Broadening participation by understanding individual and contextual influences* ($499,927; *PI*: Jennifer Schmidt). National Science Foundation.
+
+2019-2020, PI, *Planting the seeds for computer science education in East Tennessee through a research-practice partnership*. ($13,200). Community Engaged Research Seed Program, University of Tennessee, Knoxville
+
+2018-2019, Co-PI, *Exploring how beginning elementary mathematics teachers seek out resources through social media* ($8,820), Herman and Rasiej Math Initiative at the University of Southern California (PI: Stephen Aguilar)
+
+2013, PI, *Basic biology for bveryone* ($2,000), Versal Foundation Grant
+
+## Fellowships and Awards
+
+2019-2020, Initiative for the Future Faculty Development Program, University of Tennessee, Knoxville
+
+2019, Open Publishing Support Fund, University of Tennessee Libraries and Office of Research and Engagement, University of Tennessee, Knoxville
+
+2019, Finalist, Association for Science Teacher Education John C. Park National Technology Leadership Institute Fellowship
+
+2018, Foreign Travel Award, Office of Research and Engagement, University of Tennessee, Knoxville (UTK) 
+
+2017, Delia Koo Global Travel Fellowship, Michigan State University (MSU)
+
+2017, Michigan Virtual Learning Research Institute Dissertation Fellowship ($1,500)
+
+2017, Concord Consortium Data Science Educational Technology Fellowship ($1,000)
+
+2017, Council of Graduate Students Disciplinary Leadership Award, Michigan State University
+
+2017, Research Expenses Fellowship ($3,250), MSU
+
+2016, College of Education Alumni Fellowship ($5,500), MSU
+
+2016, Best Paper Award, TPACK SIG, SITE International Conference
+
+2015, Cotterman Family Endowment for Education Summer Research Fellowship ($6,000), MSU
+
+2014, Outstanding Paper Award, Society for Information Technology and Teacher Education International Conference
+
+2013, Massive Open Online Course Research and Development Fellowship ($1,000), MSU
+
+2009-2012, Burroughs Wellcome Fund Scholar, University of North Carolina Asheville
+
 ## Publications
 
 ### Book
@@ -71,7 +122,7 @@ Bovee, E. A., Estrellado, R. A., Motsipak, J., Rosenberg, J. M., & Velásquez, I
 ### Peer-Reviewed Journal Articles
 
 \hangindent=2em
-Xu, R., Frank, K. A., Maroulis, S., & Rosenberg, J. M. (in press). Konfound: A Stata module to quantify robustness of causal inferences. *The Stata Journal*.
+Xu, R., Frank, K. A., Maroulis, S., & Rosenberg, J. M. (2019). konfound: Command to quantify robustness of causal inferences. *The Stata Journal, 19*(3), 523-550. https://journals.sagepub.com/doi/full/10.1177/1536867X19874223
 
 \hangindent=2em
 Blondel, D. V., Sansone, A., Rosenberg, J. M., Yang, B. W., Linennbrink-Garcia, L., & Schwarz-Bloom, R. D. (2019). Development of an online experiment platform (Rex) for high school biology. *Journal of Formative Design for Learning, 3*(1) 62-81. https://link.springer.com/article/10.1007/s41686-019-00030-5
@@ -189,7 +240,7 @@ Rosenberg, J. (2013). Review of mobile device use policies in public high school
 ### Editor-Reviewed Publications
 
 \hangindent=2em
-Naftzger, N., Schmidt, J. A., Shumow, L., Beymer, P. N., & Rosenberg, J. M. (2019). *Exploring the link between STEM activity leader practice and youth engagement: Findings from the STEM IE study*. Washington, DC: American Institutes for Research.
+Naftzger, N., Schmidt, J. A., Shumow, L., Beymer, P. N., & Rosenberg, J. M. (2019). *Exploring the link between STEM activity leader practice and youth engagement: Findings from the STEM IE study*. Washington, DC: American Institutes for Research. https://www.informalscience.org/exploring-link-between-stem-activity-leader-practice-and-youth-engagement-findings-stem-ie-study
 
 \hangindent=2em
 Mehta, R., Henriksen, D., & Rosenberg, J. M. (2019). It's not about the tools. *Educational Leadership, 76*(5), 64-69. Retrieved from http://www.ascd.org/publications/educational-leadership/feb19/vol76/num05/It's-Not-About-the-Tools.aspx
@@ -208,20 +259,6 @@ Phillips, M., Harris, J., Rosenberg, J. M., & Koehler, M. J. (2017). TPCK/TPACK 
 
 \hangindent=2em
 Rosenberg, J. M., & Ranellucci, J. (2017). Student motivation in online science courses: A path to spending more time on course and higher achievement. *Michigan Virtual Learning Research Institute Blog: Research, Policy, Innovation & Networks*. https://mvlri.org/blog/student-motivation-in-online-science-courses-a-path-to-spending-more-time-on-course-and-higher-achievement/
-
-### Working papers
-
-\hangindent=2em
-Rosenberg, J. M., Schwarz, C. V., & Akcaoglu, M. (in preparation). Learning to teach scientific modeling: A longitudinal case study of two teachers' instructional practice.
-
-\hangindent=2em
-Rosenberg, J. M., Reid, J., Koehler, M. J., Fischer, C., & McKenna, T. J. (in preparation). The roles of the Twitter hashtag #NGSSchat in the context of science education reform efforts. <a href = "https://osf.io/9ex7k/"><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
-
-\hangindent=2em
-Schmidt, J. A., Beymer, P. N., & Rosenberg, J. M. (in preparation). Experiences, activities, and personal characteristics as predictors of engagement in STEM-focused summer programs.
-
-\hangindent=2em
-Greenhalgh, S. P., Rosenberg, J. M., Staudt-Willet, B., Koehler, M. J., & Akcaoglu, M. (in preparation). Timing is everything: Comparing synchronous and asynchronous modes of Twitter for teacher professional learning.
 
 ### Unpublished Manuscripts  
 
@@ -249,13 +286,9 @@ Rosenberg, J. M. (2018). *Understanding work with data in summer STEM programs: 
 
 2018-2019, Co-PI, *Exploring how beginning elementary mathematics teachers seek out resources through social media* ($8,820), Herman and Rasiej Math Initiative at the University of Southern California (PI: Stephen Aguilar)
 
+### Completed Grants
+
 2013, PI, *Basic biology for bveryone* ($2,000), Versal Foundation Grant
-
-### Pending Grants
-
-2020-2024, Co-PI, Imagining possibilities in post-secondary education and STEMM in rural Appalachia. National Institutes of Health.
-
-2019-2021, Co-PI, Exploring informal STEM learning: Analyzing youth autonomous motivation and adult mentor instructional practices within a badging framework. National Science Foundation.
 
 ## Fellowships and Awards
 
@@ -271,13 +304,13 @@ Rosenberg, J. M. (2018). *Understanding work with data in summer STEM programs: 
 
 2017, Concord Consortium Data Science Educational Technology Fellowship ($1,000)
 
-2017, Research Expenses Fellowship ($3,250), MSU
+2017, Research Expenses Fellowship, MSU
 
-2016, College of Education Alumni Fellowship ($5,500), MSU
+2016, College of Education Alumni Fellowship, MSU
 
-2015, Cotterman Family Endowment for Education Summer Research Fellowship ($6,000), MSU
+2015, Cotterman Family Endowment for Education Summer Research Fellowship, MSU
 
-2013, Massive Open Online Course Research and Development Fellowship ($1,000), MSU
+2013, Massive Open Online Course Research and Development Fellowship, MSU
 
 2009-2012, Burroughs Wellcome Fund Scholar, University of North Carolina Asheville
 
@@ -369,12 +402,6 @@ Schmidt, J. A., Rosenberg, J. M., & Beymer, P. N. (2017, April). *Momentary enga
 
 \hangindent=2em
 Roseth, C. J., Linnenbrink-Garcia, L., Saltarelli, W., Lee, Y-K., Rosenberg, J. M. … & Beymer, P. N. (2017, April). *A design-based intervention on flipped instruction: Longitudinal effects on undergraduates’ engagement and achievement*. Paper presented at the Annual Meeting of the American Educational Research Association, San Antonio, TX.
-
-\hangindent=2em
-Galey, S., Ferrare, J., & Rosenberg, J. M. (2017, April). *Idea brokers, policy convergence, and paradigm shifts: The co-evolution of school choice and alternative certification issue networks in the national educational policy discourse, 2000-2015*. Paper presented at the Annual Meeting of the American Educational Research Association, San Antonio, TX.
-
-\hangindent=2em
-Wright, E., Hao, Q., & Rosenberg, J. M. (2017, April). *What are the most important predictors of the earnings of college graduates? Data from the college scorecard*. Paper presented at the Annual Meeting of the American Educational Research Association, San Antonio, TX.
 
 \hangindent=2em
 Mikeska, J. N., Rosenberg, J. M., Holtzman, S., & McCaffrey, D. (2017, April). *Comparing the alignment between two observational measures of science teachers’ instructional practice*. Poster presented at the National Association for Research in Science Teaching Annual International Conference, San Antonio, TX. <a href = "/pre-prints/mikeska-et-al-2017-narst.pdf"><img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
@@ -471,9 +498,6 @@ Rosenberg, J.M. (September, 2019). *Making data science education count: Explori
 \hangindent=2em
 Rosenberg, J. M. (February, 2019). *Making sense of recent advances in the Technological Pedagogical Content Knowledge framework*. English International Congress at the Universidad Tecnical de Norte, Ibarra, Ecuador.
 
-\hangindent=2em
-Rosenberg, J. M. (March, 2016). *An introduction to R for programming and statistical analysis in education*. Georgia Southern University College of Education, Statesboro, GA.
-
 ### Other Presentations
 
 \hangindent=2em
@@ -491,19 +515,9 @@ New Faculty Mentoring Program, AERA Division C, 2019
 
 Graduate Student Seminar, AERA Division C, 2016
 
-Early Career Seminar, National Science Foundation and AECT, 2015
+Early Career Seminar, Association for Educational Communications and Technology, 2015
 
-Advanced Training Institute on Research Methods with Diverse Groups, American Psychological Association, 2014
-
-## Research Experience
-
-Research Assistant, Profiles of Science Engagement, Jennifer Schmidt (PI), 2017-2018
-
-Research Assistant, Self-Generated Research Experiences to Support Biomedical/Behavioral Research Careers, Lisa Linnenbrink-Garcia (PI), 2017
-
-Research Assistant, STEM Interest and Engagement, Jennifer Schmidt (PI), 2016-2018
-
-Research Assistant, Supporting scientific practices in elementary and middle school classrooms, Christina Schwarz (MSU PI), 2013-2017
+Research Methods with Diverse Groups Advanced Training Institute, American Psychological Association, 2014
 
 ## Software Developed
 
@@ -535,6 +549,7 @@ Instructor at the University of Tennessee, Knoxville
 
 *Nature of Mathematics and Science Education* (SCED 572,  M.A. and Ph.D. class)  
 *Teaching Science in Grades 7-12* (TPTE 495, SCED 496, & SCED 543,  B.S. & M.A. class)  
+*VolsTeach Step 1 and Step 2* (TPTE 110 & TPTE 120, undergraduate-level class)
 
 Instructor at Michigan State University:
 
@@ -562,6 +577,8 @@ Editorial Review Board Member, *Journal of Research on Technology in Education*,
 Special Issue Editor, *Australasian Journal of Educational Technology*, 2017
 
 ### Service to the Profession
+
+Panelist, National Science Foundation, 2020
 
 American Educational Research Association, Division C, Section 1D: Science Program Co-Chair, 2019-2020
 
@@ -593,7 +610,7 @@ Reviewer, American Psychological Association (APA) Convention, 2015
 
 ### Service to the Community
 
-Reviewer, Proposals from Knox County Schools students for theNASA Student Spaceflight Experiment Program
+Reviewer, Proposals from Knox County Schools students for the NASA Student Spaceflight Experiment Program
 
 ### Ad-hoc Journal Article Reviews
 
@@ -627,6 +644,8 @@ Organizer, Quantitative Methods Research Group
 
 Mentor in AERA Bootcamp (2019)
 
+VolsTeach major ad-hoc committee (2019-)
+
 *Michigan State University*
 
 Search Committee Member, Program Specialist, Master of Arts in Educational Technology Program, Michigan State University, 2015
@@ -642,12 +661,6 @@ Committee member for Master's degree students: Zachary Clark, Lauren Dukes, Alex
 *Michigan State University*
 
 Member of two practicum committees for Educational Psychology and Educational Technology program Ph.D. students, Michigan State University, 2014-2018
-
-### Service to the Community
-
-Reviewer, Proposals from Knox County Schools students to the NASA Student Spaceflight Experiment Program, 2018
-
-Provided enrichment activities related to data science to two classes, Knox County Schools, Private School in Knox County, 2018
 
 ### Workshops and Outreach
 
@@ -671,6 +684,9 @@ Anderson, D. J., and Rosenberg, J. M. (2019, April). Transparent and reproducibl
 
 \hangindent=2em
 Rosenberg, J. M. (2017, April). Introduction to R for Data Analysis. Presentation at the School of Criminal Justice, Michigan State University. 
+
+\hangindent=2em
+Rosenberg, J. M. (March, 2016). *An introduction to R for programming and statistical analysis in education*. Georgia Southern University College of Education, Statesboro, GA.
 
 \hangindent=2em
 Ranellucci, J., & Rosenberg, J. M. (2016, February). Motivating our students: A partnership between Michigan Virtual Schools and Michigan State University. Workshop at Michigan Virtual University, East Lansing, MI.
@@ -733,7 +749,7 @@ Rosenberg, J. M. (2012, November). Mobile learning for teachers. Presentation at
 
 ## Podcast
 
-Co-host of the [*Impodster Syndrome* podcast](http://impodstersyndrome.libsyn.com/). 
+Co-host, the [*Impodster Syndrome* podcast](http://impodstersyndrome.libsyn.com/). 
 
 ## Consulting
 

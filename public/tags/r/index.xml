@@ -6,10 +6,22 @@
     <description>Recent content in r on Joshua M. Rosenberg, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/r/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Presentation at Middle Tennessee State University: Making Data Science Count</title>
+      <link>/post/2019/09/05/presentation-at-middle-tennessee-state-university-making-data-science-count/</link>
+      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019/09/05/presentation-at-middle-tennessee-state-university-making-data-science-count/</guid>
+      <description>I was lucky to have the chance to present at the Middle Tennessee State University Math and Science Education Seminar Series.
+Presentation My presentation was on Making data science count: Exploring the integration of data science into education.
+A link to the presentation is here.
+Workshop I also carried out a two-hour workshop on An introduction to data science in education using R. A repository for the workshop, including a link to slides, code, and data, is here: https://github.</description>
+    </item>
     
     <item>
       <title>Presentation on &#39;Won’t you be my neighboR? An introduction to R for data science in education&#39;</title>

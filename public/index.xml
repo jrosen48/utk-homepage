@@ -6,10 +6,22 @@
     <description>Recent content in Home on Joshua M. Rosenberg, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Presentation at Middle Tennessee State University: Making Data Science Count</title>
+      <link>/post/2019/09/05/presentation-at-middle-tennessee-state-university-making-data-science-count/</link>
+      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019/09/05/presentation-at-middle-tennessee-state-university-making-data-science-count/</guid>
+      <description>I was lucky to have the chance to present at the Middle Tennessee State University Math and Science Education Seminar Series.
+Presentation My presentation was on Making data science count: Exploring the integration of data science into education.
+A link to the presentation is here.
+Workshop I also carried out a two-hour workshop on An introduction to data science in education using R. A repository for the workshop, including a link to slides, code, and data, is here: https://github.</description>
+    </item>
     
     <item>
       <title>Pre-print probs - Some thoughts after posting a pre-print of an article</title>
@@ -831,7 +843,28 @@ Michigan State University
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/research/</guid>
-      <description>Research Research Statement Data science is commonly characterized as a field that integrates disciplinary expertise, statistics, and advanced computational techniques to answer questions or solve problems. In education, data science education has potential as a set of ideas and practices that cut across STEM content areas and can also be meaningful to learners, but the potential for data in education has not yet been fully realized. My research focuses on how learners think of and with data, particularly in science education settings.</description>
+      <description>Research Research Statement My research statement is available here.
+Publications and Other Products Visit this page here for information about and links to pre-prints and other resources associated with publications (peer-reviewed journal articles, book chapters, and conference proceedings) and other products (R packages and simulations for learners).
+National Science Foundation-funded projects PI, Understanding the development of interest in computer science: An experience sampling approach ($346,688). National Science Foundation. (National Science Foundation Grant No.</description>
+    </item>
+    
+    <item>
+      <title>Research Statement</title>
+      <link>/personal-statements/research-statement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personal-statements/research-statement/</guid>
+      <description>Data Science in Educational Research Data science is commonly characterized as a field that integrates disciplinary expertise, statistics, and advanced computational techniques to answer questions or solve problems. In education, data science education has potential as a set of ideas and practices that cut across STEM content areas and can also be meaningful to learners, but the potential for data in education has not yet been fully realized. My research focuses on how learners think of and with data, particularly in science education settings.</description>
+    </item>
+    
+    <item>
+      <title>Service Statement</title>
+      <link>/personal-statements/service-statement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personal-statements/service-statement/</guid>
+      <description>My service focuses on activities at the department and college level and in my discipline and local community. Collectively, this service serves a role in the organizations at each of these levels. In addition, most of this service is also complimentary with my aims as a scholar and teacher, as I describe in this statement.
+At the department and college level, as a beginning faculty member, thus far, I have been involved in admissions panels for the science education program.</description>
     </item>
     
     <item>
@@ -840,7 +873,18 @@ Michigan State University
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/teaching/</guid>
-      <description>Dr. Rosenberg teaches classes in science and STEM education, educational technology, and research methods. In his classes, Dr. Rosenberg aims to involve students in authentic practices from the field of study. For example, in teacher education classes, this plays out through giving students opportunities to both participate in as well as plan and enact activities focused upon engaging in scientific and engineering practices. In graduate-level classes, Dr. Rosenberg focuses on scholarly practices, particularly critiquing and contributing to ongoing conversations about educational policy and practice.</description>
+      <description>My teaching statement is available here
+This page contains: a list of courses I have taught, including course descriptions and links to course websites (when available); information on workshops and outreach.
+TPTE 110/TPTE 120 (Combo)  Step 1 and Step 2 are highly collaborative, hands-on classes in which you learn about teaching through observation, practice, and professional mentoring. Each course consists of (a) classes at UTK and (b) field experiences at a local elementary or middle school.</description>
+    </item>
+    
+    <item>
+      <title>Teaching Statement</title>
+      <link>/personal-statements/teaching-statement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personal-statements/teaching-statement/</guid>
+      <description>Teaching Philosophy As a former high school science teacher, I know that teaching science is challenging. My teaching philosophy for educating future teachers (and students at any level) is to involve them in what Grossman et al. (2009) describe as an approximation of practice, reflecting a view of teaching and learning as participating in the practices of the field. Accordingly, I aim to involve students in authentic practices from the field of study.</description>
     </item>
     
   </channel>
