@@ -218,7 +218,7 @@ Rosenberg, J. M., & Ranellucci, J. (2017). Student motivation in online science 
 
 Schmidt, J. A., Rosenberg, J. M., & Beymer, P. N. (August, 2019). *Sources of Variability in Engagement: Exploring Situational, Personal, and Classroom Influences*. Poster presented at the annual meeting of the American Psychological Association, Chicago, IL.
 
-Greenhalgh, S. P., Huang, K., & Rosenberg, J. M. (2019, October). Understanding gaming communities and exploring learning opportunities: A computational grounded theory approach. Paper to be presented at the meeting of the Association for Educational Communications and Technology International Convention, Las Vegas, NV.
+Greenhalgh, S. P., Huang, K., & Rosenberg, J. M. (2019, October). *Understanding gaming communities and exploring learning opportunities: A computational grounded theory approach*. Paper to be presented at the meeting of the Association for Educational Communications and Technology International Convention, Las Vegas, NV.
 
 Rosenberg, J. M, Beymer, P. N., Houslay, T. M., & Schmidt, J. A. (2019, April). Using a multivariate, multi-level model to understand how youths’ in-the-moment engagement predicts changes in youths’ interest. In M. Bernacki, A. Kaplan, and L. Linnenbrink-Garcia (Chairs), *Embracing and modeling the complex dynamics of motivation and engagement: Contextual, temporal, dynamic, and systematic*. Symposium conducted at the Annual Meeting of the American Educational Research Association, Toronto, CA. <a href = "https://osf.io/tk3dn/ "><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 

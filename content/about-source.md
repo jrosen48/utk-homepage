@@ -65,6 +65,8 @@ C.D. Owen High School, Swannanoa, NC
 
 ## Grants
 
+### Funded (Principal Investigator [PI] or Co-PI)
+
 2019-2021, PI, *Understanding the development of interest in computer science: An experience sampling approach* ($346,688). National Science Foundation. (National Science Foundation Grant No. [1937700](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1937700&HistoricalAwards=false))
 
 2019-2021, Co-PI, *CS for Appalachia: A research-practice partnership for integrating computer science into East Tennessee schools* ($252,453; *PI*: Lynn Hodge, University of Tennessee, Knoxville). National Science Foundation. (National Science Foundation Grant No. [1923509](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1923509&HistoricalAwards=false))
@@ -73,11 +75,18 @@ C.D. Owen High School, Swannanoa, NC
 
 2020, Southeastern Conference (SEC) Visiting Faculty Travel Grant Program ($702)
 
-2017-2020, Consultant, *Profiles of science engagement: Broadening participation by understanding individual and contextual influences* ($499,927; *PI*: Jennifer Schmidt). National Science Foundation.
-
 2019-2020, PI, *Planting the seeds for computer science education in East Tennessee through a research-practice partnership*. ($13,200). Community Engaged Research Seed Program, University of Tennessee, Knoxville
 
 2018-2019, Co-PI, *Exploring how beginning elementary mathematics teachers seek out resources through social media* ($8,820), Herman and Rasiej Math Initiative at the University of Southern California (PI: Stephen Aguilar)
+
+### Funded (Senior Personnel or Consultant)
+
+2019-2022, Senior Personnel, *Bringing innovation to teacher education and surveillance studies*, United States Department of Agriculture - Agriculture and Food Research Initiative (*PI*: Rebecca Trout Fryxell)
+
+2017-2020, Consultant, *Profiles of science engagement: Broadening participation by understanding individual and contextual influences* ($499,927; *PI*: Jennifer Schmidt). National Science Foundation.
+
+
+### Completed
 
 2013, PI, *Basic biology for bveryone* ($2,000), Versal Foundation Grant
 
@@ -268,7 +277,7 @@ Rosenberg, J. M., & Ranellucci, J. (2017). Student motivation in online science 
 Schmidt, J. A., Rosenberg, J. M., & Beymer, P. N. (August, 2019). *Sources of Variability in Engagement: Exploring Situational, Personal, and Classroom Influences*. Poster presented at the annual meeting of the American Psychological Association, Chicago, IL.
 
 \hangindent=2em
-Greenhalgh, S. P., Huang, K., & Rosenberg, J. M. (2019, October). Understanding gaming communities and exploring learning opportunities: A computational grounded theory approach. Paper to be presented at the meeting of the Association for Educational Communications and Technology International Convention, Las Vegas, NV.
+Greenhalgh, S. P., Huang, K., & Rosenberg, J. M. (2019, October). *Understanding gaming communities and exploring learning opportunities: A computational grounded theory approach*. Paper to be presented at the meeting of the Association for Educational Communications and Technology International Convention, Las Vegas, NV.
 
 \hangindent=2em
 Rosenberg, J. M, Beymer, P. N., Houslay, T. M., & Schmidt, J. A. (2019, April). Using a multivariate, multi-level model to understand how youths’ in-the-moment engagement predicts changes in youths’ interest. In M. Bernacki, A. Kaplan, and L. Linnenbrink-Garcia (Chairs), *Embracing and modeling the complex dynamics of motivation and engagement: Contextual, temporal, dynamic, and systematic*. Symposium conducted at the Annual Meeting of the American Educational Research Association, Toronto, CA. <a href = "https://osf.io/tk3dn/ "><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
