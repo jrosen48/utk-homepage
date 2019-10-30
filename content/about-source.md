@@ -337,7 +337,19 @@ Rosenberg, J. M. (2018). *Understanding work with data in summer STEM programs: 
 ### Peer-Reviewed Conference Presentations
 
 \hangindent=2em
-Schmidt, J. A., Rosenberg, J. M., & Beymer, P. N. (August, 2019). *Sources of Variability in Engagement: Exploring Situational, Personal, and Classroom Influences*. Poster presented at the annual meeting of the American Psychological Association, Chicago, IL.
+Rosenberg, J. M., Reid, J., Dyer, E., Koehler, M. J., Fischer, C., & McKenna, T. J. (2020, April). A new context for professional networks: Understanding the social structure of #NGSSChat through social network analysis. In K. A. Frank, K., Torphy, K., Daly, A., & Greenhow, C. (Chairs), *Educators meet the fifth estate: Social media in education.* Symposium to be conducted at the American Educational Research Association Annual Meeting, San Francisco, CA. 
+
+\hangindent=2em
+Rosenberg, J. M., Hodge, L., Bertling, J., & King, S. (2020, April). Art as a context for data science: Explring fourth-grade students' data visualization practices. In J. M. Rosenberg & B. D. Chen (Chairs), *Exploring data science across the curriculum and across grade levels*. Symposium to be conducted at the American Educational Research Association Annual Meeting, San Francisco, CA. 
+
+\hangindent=2em
+Rosenberg, J. M., Carpenter, J. P., Romero-Hall, E., & Kessler, A. (2020, April). *Teacher educators' technology competencies and the importance of context*. Paper to be presented at the American Educational Research Association Annual Meeting, San Francisco, CA.
+
+\hangindent=2em
+Rosenberg, J. M., Beymer, P. N., Phun, V., Schmidt, J. A. (2020, April). Sources of variability for students' engagement in science: Findings from a cross-classified, multivariate modeling approach. In P. N. Beymer, D. K. Benden, & M. L. Bernacki (Chairs), *Affordances and modeling of intensive data*. Symposium to be conducted at the American Educational Research Association Annual Meeting, San Francisco, CA.
+
+\hangindent=2em
+Schmidt, J. A., Rosenberg, J. M., & Beymer, P. N. (August, 2019). *Sources of variability in engagement: Exploring situational, personal, and classroom influences*. Poster presented at the annual meeting of the American Psychological Association, Chicago, IL.
 
 \hangindent=2em
 Greenhalgh, S. P., Huang, K., & Rosenberg, J. M. (2019, October). *Understanding gaming communities and exploring learning opportunities: A computational grounded theory approach*. Paper to be presented at the meeting of the Association for Educational Communications and Technology International Convention, Las Vegas, NV.
