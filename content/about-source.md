@@ -89,7 +89,7 @@ C.D. Owen High School, Swannanoa, NC
 
 2013, PI, *Basic biology for everyone* ($2,000), Versal Foundation Grant
 
-## Fellowships and Awards
+## Fellowships and 
 
 2019-2020, Initiative for the Future Faculty Development Program, University of Tennessee, Knoxville
 
@@ -275,62 +275,6 @@ Rosenberg, J. M. (2018). *Context and Technological Pedagogical Content Knowledg
 
 \hangindent=2em
 Rosenberg, J. M. (2018). *Understanding work with data in summer STEM programs: An experience sampling method approach* (Doctoral dissertation). Retrieved from Proquest Dissertations and Theses. (Proquest No. 10747232) <a href = "/publications/Rosenberg-2018-Dissertation.pdf"><img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> <a href = "https://osf.io/65ckh/"><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
-
-## Grants
-
-### Funded Grants
-
-2019-2021, PI, *Understanding the development of interest in computer science: An experience sampling approach* ($346,688). National Science Foundation. (National Science Foundation Grant No. [1937700](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1937700&HistoricalAwards=false))
-
-2019-2021, Co-PI, *CS for Appalachia: A research-practice partnership for integrating computer science into East Tennessee schools* ($252,453; *PI*: Lynn Hodge, University of Tennessee, Knoxville). National Science Foundation. (National Science Foundation Grant No. [1923509](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1923509&HistoricalAwards=false))
-
-2019-2022, Co-PI, *Advancing computational grounded theory for audiovisual data from STEM classrooms* (1,313,855; *PI* Christina Krist, University of Illinois Urbana-Champaign; University of Knoxville, Tennessee subcontract: $101,469). National Science Foundation. (National Science Foundation Grant No. [1920796](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1920796&HistoricalAwards=false))
-
-2020, Southeastern Conference (SEC) Visiting Faculty Travel Grant Program ($702)
-
-2017-2020, Consultant, *Profiles of science engagement: Broadening participation by understanding individual and contextual influences* ($499,927; *PI*: Jennifer Schmidt). National Science Foundation.
-
-2019-2020, PI, *Planting the seeds for computer science education in East Tennessee through a research-practice partnership*. ($13,200). Community Engaged Research Seed Program, University of Tennessee, Knoxville
-
-2018-2019, Co-PI, *Exploring how beginning elementary mathematics teachers seek out resources through social media* ($8,820), Herman and Rasiej Math Initiative at the University of Southern California (PI: Stephen Aguilar)
-
-### Completed Grants
-
-2013, PI, *Basic biology for bveryone* ($2,000), Versal Foundation Grant
-
-## Fellowships and Awards
-
-2019-2020, Initiative for the Future Faculty Development Program, University of Tennessee, Knoxville
-
-2019, Open Publishing Support Fund, University of Tennessee Libraries and Office of Research and Engagement, University of Tennessee, Knoxville
-
-2018, Foreign Travel Award, Office of Research and Engagement, University of Tennessee, Knoxville (UTK) 
-
-2017, Delia Koo Global Travel Fellowship, Michigan State University (MSU)
-
-2017, Michigan Virtual Learning Research Institute Dissertation Fellowship ($1,500)
-
-2017, Concord Consortium Data Science Educational Technology Fellowship ($1,000)
-
-2017, Research Expenses Fellowship, MSU
-
-2016, College of Education Alumni Fellowship, MSU
-
-2015, Cotterman Family Endowment for Education Summer Research Fellowship, MSU
-
-2013, Massive Open Online Course Research and Development Fellowship, MSU
-
-2009-2012, Burroughs Wellcome Fund Scholar, University of North Carolina Asheville
-
-## Awards
-
-2019, Finalist, Association for Science Teacher Education John C. Park National Technology Leadership Institute Fellowship
-
-2017, Council of Graduate Students Disciplinary Leadership Award, Michigan State University
-
-2016, Best Paper Award, TPACK SIG, SITE International Conference
-
-2014, Outstanding Paper Award, Society for Information Technology and Teacher Education International Conference
 
 ## Presentations 
 
