@@ -85,10 +85,9 @@ C.D. Owen High School, Swannanoa, NC
 
 2017-2020, Consultant, *Profiles of science engagement: Broadening participation by understanding individual and contextual influences* ($499,927; *PI*: Jennifer Schmidt). National Science Foundation.
 
-
 ### Completed
 
-2013, PI, *Basic biology for bveryone* ($2,000), Versal Foundation Grant
+2013, PI, *Basic biology for everyone* ($2,000), Versal Foundation Grant
 
 ## Fellowships and Awards
 
