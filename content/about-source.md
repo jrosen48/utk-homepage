@@ -77,11 +77,9 @@ C.D. Owen High School, Swannanoa, NC
 
 2019-2020, PI, *Planting the seeds for computer science education in East Tennessee through a research-practice partnership*. ($13,200). Community Engaged Research Seed Program, University of Tennessee, Knoxville
 
-2018-2019, Co-PI, *Exploring how beginning elementary mathematics teachers seek out resources through social media* ($8,820), Herman and Rasiej Math Initiative at the University of Southern California (PI: Stephen Aguilar)
-
 ### Funded (Senior Personnel or Consultant)
 
-2019-2022, Senior Personnel, *Bringing innovation to teacher education and surveillance studies*, United States Department of Agriculture - Agriculture and Food Research Initiative (*PI*: Rebecca Trout Fryxell)
+2019-2022, Senior Personnel, *Bringing innovation to teacher education and surveillance studies*, United States Department of Agriculture - Agriculture and Food Research Initiative ($149,611; *PI*: Rebecca Trout Fryxell)
 
 2017-2020, Consultant, *Profiles of science engagement: Broadening participation by understanding individual and contextual influences* ($499,927; *PI*: Jennifer Schmidt). National Science Foundation.
 
