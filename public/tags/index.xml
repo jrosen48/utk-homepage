@@ -183,20 +183,20 @@
     </item>
     
     <item>
-      <title>MCMC</title>
-      <link>/tags/mcmc/</link>
-      <pubDate>Mon, 26 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/mcmc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>lme4</title>
       <link>/tags/lme4/</link>
       <pubDate>Mon, 26 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/lme4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MCMC</title>
+      <link>/tags/mcmc/</link>
+      <pubDate>Mon, 26 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/mcmc/</guid>
       <description></description>
     </item>
     
