@@ -158,11 +158,6 @@
   </url>
   
   <url>
-    <loc>/blog/</loc>
-    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/cv/</loc>
     <lastmod>2018-10-25T00:00:00+00:00</lastmod>
   </url>
@@ -178,7 +173,7 @@
   </url>
   
   <url>
-    <loc>/blog/creating-a-cv-while-using-blogdown-pdf-html-and-word-doc-oh-my/</loc>
+    <loc>/post/2018/10/25/creating-a-cv-while-using-blogdown-pdf-html-and-word-doc-oh-my/</loc>
     <lastmod>2018-10-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -193,7 +188,7 @@
   </url>
   
   <url>
-    <loc>/blog/presentation-data-science-education-dilemmas-and-opportunities/</loc>
+    <loc>/post/2018/10/16/presentation-data-science-education-dilemmas-and-opportunities/</loc>
     <lastmod>2018-10-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -208,12 +203,12 @@
   </url>
   
   <url>
-    <loc>/blog/using-r-markdown-with-a-latex-class-a-few-notes/</loc>
+    <loc>/post/2018/10/01/using-r-markdown-with-a-latex-class-a-few-notes/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/a-few-notes-on-the-first-day-of-class/</loc>
+    <loc>/post/2018/08/29/a-few-notes-on-the-first-day-of-class/</loc>
     <lastmod>2018-08-29T00:00:00+00:00</lastmod>
   </url>
   
@@ -228,7 +223,7 @@
   </url>
   
   <url>
-    <loc>/blog/social-network-analysis-model-for-influence/</loc>
+    <loc>/post/2018/08/02/social-network-analysis-model-for-influence/</loc>
     <lastmod>2018-08-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -238,7 +233,7 @@
   </url>
   
   <url>
-    <loc>/blog/in-what-months-are-educational-psychology-jobs-posted-an-update/</loc>
+    <loc>/post/2018/06/29/in-what-months-are-educational-psychology-jobs-posted-an-update/</loc>
     <lastmod>2018-06-29T00:00:00+00:00</lastmod>
   </url>
   
@@ -253,7 +248,7 @@
   </url>
   
   <url>
-    <loc>/blog/an-evolving-data-visualization/</loc>
+    <loc>/post/2018/06/25/an-evolving-data-visualization/</loc>
     <lastmod>2018-06-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -263,7 +258,7 @@
   </url>
   
   <url>
-    <loc>/blog/an-open-ish-dissertation/</loc>
+    <loc>/post/2018/06/21/an-open-ish-dissertation/</loc>
     <lastmod>2018-06-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -278,12 +273,12 @@
   </url>
   
   <url>
-    <loc>/blog/learning-r-where-to-start-crowdsourced-recommendations/</loc>
+    <loc>/post/2018/06/04/learning-r-where-to-start-crowdsourced-recommendations/</loc>
     <lastmod>2018-06-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/some-resources-on-science-teaching-and-learning/</loc>
+    <loc>/post/2018/05/09/some-resources-on-science-teaching-and-learning/</loc>
     <lastmod>2018-05-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -298,22 +293,22 @@
   </url>
   
   <url>
-    <loc>/blog/getting-started-bike-commuting/</loc>
+    <loc>/post/2018/05/03/getting-started-bike-commuting/</loc>
     <lastmod>2018-05-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/aera-presentation-patterns-of-engagement-in-a-flipped-undergraduate-class-antecedents-and-outcomes-information-slides-paper-code/</loc>
+    <loc>/post/2018/04/15/aera-presentation-patterns-of-engagement-in-a-flipped-undergraduate-class-antecedents-and-outcomes-information-slides-paper-code/</loc>
     <lastmod>2018-04-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/aera-presentation-how-engagement-during-out-of-school-stem-programs-promotes-the-development-of-interest/</loc>
+    <loc>/post/2018/04/14/aera-presentation-how-engagement-during-out-of-school-stem-programs-promotes-the-development-of-interest/</loc>
     <lastmod>2018-04-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/an-r-package-for-sensitivity-analysis-konfound/</loc>
+    <loc>/post/2018/04/12/an-r-package-for-sensitivity-analysis-konfound/</loc>
     <lastmod>2018-04-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -328,7 +323,7 @@
   </url>
   
   <url>
-    <loc>/blog/explorations-in-markov-chain-monte-carlo-mcmc/</loc>
+    <loc>/post/2018/03/26/explorations-in-markov-chain-monte-carlo-mcmc/</loc>
     <lastmod>2018-03-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -343,7 +338,7 @@
   </url>
   
   <url>
-    <loc>/blog/find-the-top-rail-trails-in-each-state/</loc>
+    <loc>/post/2018/02/22/find-the-top-rail-trails-in-each-state/</loc>
     <lastmod>2018-02-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -358,7 +353,7 @@
   </url>
   
   <url>
-    <loc>/blog/introducing-tidylpa-an-r-package-for-carrying-out-latent-profile-analysis/</loc>
+    <loc>/post/2018/02/14/introducing-tidylpa-an-r-package-for-carrying-out-latent-profile-analysis/</loc>
     <lastmod>2018-02-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -373,12 +368,12 @@
   </url>
   
   <url>
-    <loc>/blog/upcoming-presentations-at-aera-and-narst/</loc>
+    <loc>/post/2018/01/25/upcoming-presentations-at-aera-and-narst/</loc>
     <lastmod>2018-01-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/a-shiny-interactive-web-application-to-quantify-how-robust-inferences-are-to-potential-sources-of-bias-sensitivity-analysis/</loc>
+    <loc>/post/2018/01/17/a-shiny-interactive-web-application-to-quantify-how-robust-inferences-are-to-potential-sources-of-bias-sensitivity-analysis/</loc>
     <lastmod>2018-01-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -388,22 +383,22 @@
   </url>
   
   <url>
-    <loc>/blog/new-article-on-a-utility-value-intervention-in-ijer/</loc>
+    <loc>/post/2017/12/30/new-article-on-a-utility-value-intervention-in-ijer/</loc>
     <lastmod>2017-12-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/modifying-an-r-function-to-use-non-standard-evaluation/</loc>
+    <loc>/post/2017/12/17/modifying-an-r-function-to-use-non-standard-evaluation/</loc>
     <lastmod>2017-12-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/mvlri-blog-post-on-data-practices/</loc>
+    <loc>/post/2017/11/21/mvlri-blog-post-on-data-practices/</loc>
     <lastmod>2017-11-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/review-of-what-s-worth-teaching-rethinking-curriculum-in-the-age-of-technology/</loc>
+    <loc>/post/2017/11/07/review-of-what-s-worth-teaching-rethinking-curriculum-in-the-age-of-technology/</loc>
     <lastmod>2017-11-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -413,27 +408,27 @@
   </url>
   
   <url>
-    <loc>/blog/two-open-datasets-rail-trails-and-an-assessment-of-student-achievement/</loc>
+    <loc>/post/2017/10/25/two-open-datasets-rail-trails-and-an-assessment-of-student-achievement/</loc>
     <lastmod>2017-10-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/mvlri-webinar/</loc>
+    <loc>/post/2017/10/18/mvlri-webinar/</loc>
     <lastmod>2017-10-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/getting-started-with-open-science-through-blogging/</loc>
+    <loc>/post/2017/10/01/getting-started-with-open-science-through-blogging/</loc>
     <lastmod>2017-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/a-person-in-context-approach-to-student-engagement-in-science-article-in-jrst/</loc>
+    <loc>/post/2017/09/29/a-person-in-context-approach-to-student-engagement-in-science-article-in-jrst/</loc>
     <lastmod>2017-09-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/podcasts-i-do-not-miss/</loc>
+    <loc>/post/2017/09/05/podcasts-i-do-not-miss/</loc>
     <lastmod>2017-09-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -448,12 +443,12 @@
   </url>
   
   <url>
-    <loc>/blog/using-mplus-from-r/</loc>
+    <loc>/post/2017/09/01/using-mplus-from-r/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/lpa-in-r-using-mclust/</loc>
+    <loc>/post/2017/08/22/lpa-in-r-using-mclust/</loc>
     <lastmod>2017-08-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -463,22 +458,22 @@
   </url>
   
   <url>
-    <loc>/blog/comparing-mixed-effects-and-linear-models/</loc>
+    <loc>/post/2017/08/15/comparing-mixed-effects-and-linear-models/</loc>
     <lastmod>2017-08-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/when-are-ed-psych-jobs-posted/</loc>
+    <loc>/post/2017/08/15/when-are-ed-psych-jobs-posted/</loc>
     <lastmod>2017-08-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/characteristics-of-rail-trails/</loc>
+    <loc>/post/2017/08/02/characteristics-of-rail-trails/</loc>
     <lastmod>2017-08-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/michigan-rail-trails-and-pathways-through-data/</loc>
+    <loc>/post/2017/07/24/michigan-rail-trails-and-pathways-through-data/</loc>
     <lastmod>2017-07-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -488,7 +483,7 @@
   </url>
   
   <url>
-    <loc>/blog/how-many-groups-of-star-wars-characters-are-there-r-squared-and-cross-validation-approaches/</loc>
+    <loc>/post/2017/07/02/how-many-groups-of-star-wars-characters-are-there-r-squared-and-cross-validation-approaches/</loc>
     <lastmod>2017-07-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -498,22 +493,22 @@
   </url>
   
   <url>
-    <loc>/blog/24-months-on-two-wheels/</loc>
+    <loc>/post/2017/06/20/24-months-on-two-wheels/</loc>
     <lastmod>2017-06-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/2017-05-17-prcr-update/</loc>
+    <loc>/post/2017/05/17/prcr-update/</loc>
     <lastmod>2017-05-17T13:48:00+05:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/2017-04-15-introduction-to-r-presentation/</loc>
+    <loc>/post/2017/04/14/presentation-on-an-introduction-to-r-for-data-analysis/</loc>
     <lastmod>2017-04-14T11:54:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/2017-03-16-education-policy/</loc>
+    <loc>/post/2017/03/16/common-core-and-ngss-are-not-on-the-news/</loc>
     <lastmod>2017-03-16T16:32:00-05:00</lastmod>
   </url>
   
@@ -523,7 +518,7 @@
   </url>
   
   <url>
-    <loc>/blog/what-the-world-is-data-science-education-looking-back-on-dsetonline/</loc>
+    <loc>/post/2017/03/13/what-the-world-is-data-science-education-looking-back-on-dsetonline/</loc>
     <lastmod>2017-03-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -533,27 +528,27 @@
   </url>
   
   <url>
-    <loc>/blog/2017-03-11-rock-climbing-internet-television-news-archive/</loc>
+    <loc>/post/2017/03/11/the-internet-archives-television-news-archive-and-newsflash/</loc>
     <lastmod>2017-03-11T01:28:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/2017-02-28-comparing-cdc-data/</loc>
+    <loc>/post/2017/02/28/is-the-flu-really-worse-this-year-comparing-the-ongoing-2016-17-and-2015-16-flu-seasons/</loc>
     <lastmod>2017-02-28T09:28:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/2017-02-17-introducing-prcr/</loc>
+    <loc>/post/2017/02/17/prcr-an-r-package-for-person-centered-analysis/</loc>
     <lastmod>2017-02-17T16:59:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/2017-01-17-exploring-mint-r/</loc>
+    <loc>/post/2017/01/17/how-much-do-we-spend-weekly-on-groceries-figuring-out-using-r-and-mint-updated/</loc>
     <lastmod>2017-01-17T05:16:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/2017-01-07-clustrcompar-0.1.0/</loc>
+    <loc>/post/2017/01/07/announcing-clustrcompar-v.0.1.0/</loc>
     <lastmod>2017-01-07T10:16:00-05:00</lastmod>
   </url>
   
@@ -563,22 +558,22 @@
   </url>
   
   <url>
-    <loc>/blog/2017-01-07-wordpress-archive/</loc>
+    <loc>/post/2017/01/07/wordpress-archive/</loc>
     <lastmod>2017-01-07T09:50:40-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/20160415-an-examination-of-students-epistemic-considerations-with-an-automated-approach-at-narst2016/</loc>
+    <loc>/post/2016/04/15/an-examination-of-students/</loc>
     <lastmod>2016-04-15T09:31:38+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/20160323-presentation-on-an-introduction-to-r-for-programming-and-statistical-analysis-in-education/</loc>
+    <loc>/post/2016/03/23/presentation-on-an-introduction-to-r-for-programming-and-statistical-analysis-in-education/</loc>
     <lastmod>2016-03-23T08:10:46+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/20160322-presentation-on-state-educational-twitter-hashtags-at-siteconf/</loc>
+    <loc>/post/2016/03/22/presentation-on-state-educational-twitter-hashtags-at/</loc>
     <lastmod>2016-03-22T23:09:48+00:00</lastmod>
   </url>
   
@@ -588,22 +583,22 @@
   </url>
   
   <url>
-    <loc>/blog/20151106-slides-for-what-teachers-and-researchers-discuss-at-science-education-conferences-at-aect15/</loc>
+    <loc>/post/2015/11/06/slides-for-what-teachers-and-researchers-discuss-at-science-education-conferences-at/</loc>
     <lastmod>2015-11-06T15:27:57+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/20151106-slides-for-an-examination-of-state-educational-twitter-hashtags/</loc>
+    <loc>/post/2015/11/06/slides-for-an-examination-of-state-educational-twitter-hashtags-at/</loc>
     <lastmod>2015-11-06T10:03:06+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/20150804-first-article-in-jrte/</loc>
+    <loc>/post/2015/08/04/new-article-in-the-journal-of-research-on-technology-in-education/</loc>
     <lastmod>2015-08-04T19:37:29+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/20150302-presentations-at-site-2015/</loc>
+    <loc>/post/2015/03/02/presentations-at-site-2015/</loc>
     <lastmod>2015-03-02T17:05:10+05:00</lastmod>
   </url>
   

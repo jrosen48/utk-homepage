@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.7.29)  3 NOV 2019 13:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.7.29)  11 NOV 2019 06:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -462,23 +462,267 @@ Package: titling 2009/09/04 v2.1d maketitle typesetting
 LaTeX Warning: Unused global option(s):
     [14].
 
-(./rosenberg-cv.aux
+(./rosenberg-cv.aux)
+\openout1 = `rosenberg-cv.aux'.
 
-! LaTeX Error: Missing \begin{document}.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 85.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 85.
+(/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 85.
+(/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.29 <
-      <<<<<< HEAD 
+\AtBeginShipoutBox=\box29
+Package hyperref Info: Link coloring OFF on input line 85.
+(/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+(/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/generic/oberdiek/gettitlestring
+.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count113
+)
+LaTeX Info: Redefining \ref on input line 85.
+LaTeX Info: Redefining \pageref on input line 85.
+LaTeX Info: Redefining \nameref on input line 85.
+(./rosenberg-cv.out) (./rosenberg-cv.out)
+\@outlinefile=\write3
+\openout3 = `rosenberg-cv.out'.
+
+
+(/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/oberdiek/epstopdf-base.st
+y
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+(/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/latexconfig/epstopdf-sys.
+cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 100.
+
+(/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 100.
+
+(/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 100
+.
+(/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 100
+.
+(/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 100.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 100.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 100.
+LaTeX Font Info:    Try loading font information for U+msa on input line 100.
+(/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 100.
+(/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+{/Users/jrosenb8/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+[2] [3] [4] [5]
+Underfull \hbox (badness 1728) in paragraph at lines 552--557
+[]\T1/lmr/m/n/10 Rosenberg, J. M., & Ranel-lucci, J. (2017). Stu-dent mo-ti-va-
+tion in on-line sci-ence courses: A
+ []
+
+
+Underfull \hbox (badness 2027) in paragraph at lines 552--557
+\T1/lmr/m/n/10 path to spend-ing more time on course and higher achieve-ment. \
+T1/lmr/m/it/10 Michi-gan Vir-tual Learn-
+ []
+
+
+Overfull \hbox (40.07797pt too wide) in paragraph at lines 552--557
+\T1/lmr/m/n/10 student-[]motivation-[]in-[]online-[]science-[]courses-[]a-[]pat
+h-[]to-[]spending-[]more-[]time-[]on-[]course-[]and-[]higher-[]achievement/$[] 
+
+ []
+
+[6] [7] [8] [9] [10] [11] [12]
+LaTeX Font Info:    Try loading font information for TS1+lmr on input line 1148
+.
+(/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/lm/ts1lmr.fd
+File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Underfull \hbox (badness 10000) in paragraph at lines 1148--1150
+
+ []
+
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 1150--1152
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1152--1154
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1154--1156
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1156--1158
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1158--1160
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1160--1162
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1162--1164
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1164--1166
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1166--1168
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1168--1170
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1170--1172
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1172--1174
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1174--1176
+
+ []
+
+[14] [15] [16]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1392.
+[17]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1392.
+(./rosenberg-cv.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1392.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1392.
+
+Package rerunfilecheck Info: File `rosenberg-cv.out' has not changed.
+(rerunfilecheck)             Checksum: B7BBE8DAF6F2D247D84B967A5A254387;6931.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1392.
+ ) 
 Here is how much of TeX's memory you used:
- 9678 strings out of 494553
- 134829 string characters out of 6174236
- 202117 words of memory out of 5000000
- 13302 multiletter control sequences out of 15000+600000
- 4403 words of font info for 15 fonts, out of 8000000 for 9000
+ 10304 strings out of 494553
+ 147139 string characters out of 6174236
+ 216730 words of memory out of 5000000
+ 13753 multiletter control sequences out of 15000+600000
+ 36283 words of font info for 38 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 28i,0n,32p,237b,270s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 28i,5n,33p,393b,388s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/Users/jrosenb8/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{/U
+sers/jrosenb8/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</Users/j
+rosenb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></Users/jro
+senb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></Users/jrose
+nb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/jrosenb8
+/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.pfb></Users/jrosenb8/Li
+brary/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb>
+Output written on rosenberg-cv.pdf (17 pages, 201358 bytes).
+PDF statistics:
+ 395 PDF objects out of 1000 (max. 8388607)
+ 367 compressed objects within 4 object streams
+ 100 named destinations out of 1000 (max. 500000)
+ 329 words of extra memory for PDF output out of 10000 (max. 10000000)
 
-!  ==> Fatal error occurred, no output PDF file produced!

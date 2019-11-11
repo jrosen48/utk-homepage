@@ -36,10 +36,10 @@ Here is the description:
     
     <item>
       <title>Using MPlus from R with MPlusAutomation</title>
-      <link>/blog/using-mplus-from-r/</link>
+      <link>/post/2017/09/01/using-mplus-from-r/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/blog/using-mplus-from-r/</guid>
+      <guid>/post/2017/09/01/using-mplus-from-r/</guid>
       <description>Note that due to version-related issues the code in this post is displayed but is not excecuted/run.
 According to the MPlus website, the R package MPlusAutomation serves three purposes:
 Creating related groups of models Running batches Extracting and tabulating model parameters and test statistics.  Because modeling involves comparing related models, (partially) automating these is compelling. It can make it easier to use model results in subsequent analyses and can cut down on copy and pasting output or results between programs.</description>
@@ -47,10 +47,10 @@ Creating related groups of models Running batches Extracting and tabulating mode
     
     <item>
       <title>Common Core and NGSS are not on the news</title>
-      <link>/blog/2017-03-16-education-policy/</link>
+      <link>/post/2017/03/16/common-core-and-ngss-are-not-on-the-news/</link>
       <pubDate>Thu, 16 Mar 2017 16:32:00 -0500</pubDate>
       
-      <guid>/blog/2017-03-16-education-policy/</guid>
+      <guid>/post/2017/03/16/common-core-and-ngss-are-not-on-the-news/</guid>
       <description>How often are curricular standards mentioned on TV news? With my friend Patrick, I was curious about using the newsflash package for something education-related. We came up with the idea of looking at mentions of the Common Core State Standards (for Mathematics and English Language Arts / Literacy) and the Next Generation Science Standards (for Science and Engineering).
  On broadcast channels We first looked at mentions across ABC, CBS, FOX, NBC, and PBS (the way newsflash works is to keyword search the closed captioning streams from the Internet Archive’s Television News Archive):</description>
     </item>

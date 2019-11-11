@@ -61,23 +61,29 @@ C.D. Owen High School, Swannanoa, NC
 
 ## Grants
 
+### Funded (Principal Investigator [PI] or Co-PI)
+
 2019-2021, PI, *Understanding the development of interest in computer science: An experience sampling approach* ($346,688). National Science Foundation. (National Science Foundation Grant No. [1937700](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1937700&HistoricalAwards=false))
 
 2019-2021, Co-PI, *CS for Appalachia: A research-practice partnership for integrating computer science into East Tennessee schools* ($252,453; *PI*: Lynn Hodge, University of Tennessee, Knoxville). National Science Foundation. (National Science Foundation Grant No. [1923509](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1923509&HistoricalAwards=false))
 
-2019-2022, Co-PI, *Advancing computational grounded theory for audiovisual data from STEM classrooms* ($1,313,855; *PI*: Christina Krist, University of Illinois Urbana-Champaign; University of Tennessee, Knoxville subcontract: $101,469)). National Science Foundation. (National Science Foundation Grant No. [1920796](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1920796&HistoricalAwards=false))
+2019-2022, Co-PI, *Advancing computational grounded theory for audiovisual data from STEM classrooms* ($1,313,855; *PI*: Christina Krist, University of Illinois Urbana-Champaign; University of Tennessee, Knoxville subcontract: $101,469). National Science Foundation. (National Science Foundation Grant No. [1920796](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1920796&HistoricalAwards=false))
 
 2020, Southeastern Conference (SEC) Visiting Faculty Travel Grant Program ($702)
 
-2017-2020, Consultant, *Profiles of science engagement: Broadening participation by understanding individual and contextual influences* ($499,927; *PI*: Jennifer Schmidt). National Science Foundation.
-
 2019-2020, PI, *Planting the seeds for computer science education in East Tennessee through a research-practice partnership*. ($13,200). Community Engaged Research Seed Program, University of Tennessee, Knoxville
 
-2018-2019, Co-PI, *Exploring how beginning elementary mathematics teachers seek out resources through social media* ($8,820), Herman and Rasiej Math Initiative at the University of Southern California (PI: Stephen Aguilar)
+### Funded (Senior Personnel or Consultant)
 
-2013, PI, *Basic biology for bveryone* ($2,000), Versal Foundation Grant
+2019-2022, Senior Personnel, *Medical entomology and geospatial analyses: Bringing innovation to teacher education and surveillance studies* ($149,611; *PI*: Rebecca Trout Fryxell). United States Department of Agriculture - Agriculture and Food Research Initiative. (USDA Grant No. 2019-68010-29119)
 
-## Fellowships and Awards
+2017-2020, Consultant, *Profiles of science engagement: Broadening participation by understanding individual and contextual influences* ($499,927; *PI*: Jennifer Schmidt). National Science Foundation.
+
+### Completed
+
+2013, PI, *Basic biology for everyone* ($2,000), Versal Foundation Grant
+
+## Fellowships and 
 
 2019-2020, Initiative for the Future Faculty Development Program, University of Tennessee, Knoxville
 
@@ -116,6 +122,8 @@ C.D. Owen High School, Swannanoa, NC
 Bovee, E. A., Estrellado, R. A., Motsipak, J., Rosenberg, J. M., & Velásquez, I. C. (under contract). *Data science in education using R*. London, England: Routledge. *Nb.* All authors contributed equally.
 
 ### Peer-Reviewed Journal Articles
+
+Rosenberg, J. M., Edwards, A., & Chen, B. (in press). Tools and strategies for engaging students in analyzing and interpreting complex data sources. *The Science Teacher*. <a href = "https://joshuamrosenberg.com/publications/rosenberg-edwards-chen-tst.pdf"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> 
 
 Xu, R., Frank, K. A., Maroulis, S., & Rosenberg, J. M. (2019). konfound: Command to quantify robustness of causal inferences. *The Stata Journal, 19*(3), 523-550. https://journals.sagepub.com/doi/full/10.1177/1536867X19874223
 
@@ -212,11 +220,25 @@ Phillips, M., Harris, J., Rosenberg, J. M., & Koehler, M. J. (2017). TPCK/TPACK 
 
 Rosenberg, J. M., & Ranellucci, J. (2017). Student motivation in online science courses: A path to spending more time on course and higher achievement. *Michigan Virtual Learning Research Institute Blog: Research, Policy, Innovation & Networks*. https://mvlri.org/blog/student-motivation-in-online-science-courses-a-path-to-spending-more-time-on-course-and-higher-achievement/
 
+### Unpublished Manuscripts  
+
+Rosenberg, J. M. (2018). *Context and Technological Pedagogical Content Knowledge: An initial survey of teachers and validation data*. <a href = "https://osf.io/hc9fq/"><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
+
+Rosenberg, J. M. (2018). *Understanding work with data in summer STEM programs: An experience sampling method approach* (Doctoral dissertation). Retrieved from Proquest Dissertations and Theses. (Proquest No. 10747232) <a href = "/publications/Rosenberg-2018-Dissertation.pdf"><img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> <a href = "https://osf.io/65ckh/"><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
+
 ## Presentations 
 
 ### Peer-Reviewed Conference Presentations
 
-Schmidt, J. A., Rosenberg, J. M., & Beymer, P. N. (August, 2019). *Sources of Variability in Engagement: Exploring Situational, Personal, and Classroom Influences*. Poster presented at the annual meeting of the American Psychological Association, Chicago, IL.
+Rosenberg, J. M., Reid, J., Dyer, E., Koehler, M. J., Fischer, C., & McKenna, T. J. (2020, April). A new context for professional networks: Understanding the social structure of #NGSSChat through social network analysis. In K. A. Frank, K., Torphy, K., Daly, A., & Greenhow, C. (Chairs), *Educators meet the fifth estate: Social media in education.* Symposium to be conducted at the American Educational Research Association Annual Meeting, San Francisco, CA. 
+
+Rosenberg, J. M., Hodge, L., Bertling, J., & King, S. (2020, April). Art as a context for data science: Explring fourth-grade students' data visualization practices. In J. M. Rosenberg & B. D. Chen (Chairs), *Exploring data science across the curriculum and across grade levels*. Symposium to be conducted at the American Educational Research Association Annual Meeting, San Francisco, CA. 
+
+Rosenberg, J. M., Carpenter, J. P., Romero-Hall, E., & Kessler, A. (2020, April). *Teacher educators' technology competencies and the importance of context*. Paper to be presented at the American Educational Research Association Annual Meeting, San Francisco, CA.
+
+Rosenberg, J. M., Beymer, P. N., Phun, V., Schmidt, J. A. (2020, April). Sources of variability for students' engagement in science: Findings from a cross-classified, multivariate modeling approach. In P. N. Beymer, D. K. Benden, & M. L. Bernacki (Chairs), *Affordances and modeling of intensive data*. Symposium to be conducted at the American Educational Research Association Annual Meeting, San Francisco, CA.
+
+Schmidt, J. A., Rosenberg, J. M., & Beymer, P. N. (August, 2019). *Sources of variability in engagement: Exploring situational, personal, and classroom influences*. Poster presented at the annual meeting of the American Psychological Association, Chicago, IL.
 
 Greenhalgh, S. P., Huang, K., & Rosenberg, J. M. (2019, October). *Understanding gaming communities and exploring learning opportunities: A computational grounded theory approach*. Paper to be presented at the meeting of the Association for Educational Communications and Technology International Convention, Las Vegas, NV.
 
@@ -265,10 +287,6 @@ Greenhalgh, S. P., Rosenberg, J. M., & Koehler, M. J. (2017, April). *Combining 
 Schmidt, J. A., Rosenberg, J. M., & Beymer, P. N. (2017, April). *Momentary engagement profiles: A person-in-context approach to studying student engagement using experience sampling data*. Paper presented at the Annual Meeting of the American Educational Research Association, San Antonio, TX.
 
 Roseth, C. J., Linnenbrink-Garcia, L., Saltarelli, W., Lee, Y-K., Rosenberg, J. M. … & Beymer, P. N. (2017, April). *A design-based intervention on flipped instruction: Longitudinal effects on undergraduates’ engagement and achievement*. Paper presented at the Annual Meeting of the American Educational Research Association, San Antonio, TX.
-
-Galey, S., Ferrare, J., & Rosenberg, J. M. (2017, April). *Idea brokers, policy convergence, and paradigm shifts: The co-evolution of school choice and alternative certification issue networks in the national educational policy discourse, 2000-2015*. Paper presented at the Annual Meeting of the American Educational Research Association, San Antonio, TX.
-
-Wright, E., Hao, Q., & Rosenberg, J. M. (2017, April). *What are the most important predictors of the earnings of college graduates? Data from the college scorecard*. Paper presented at the Annual Meeting of the American Educational Research Association, San Antonio, TX.
 
 Mikeska, J. N., Rosenberg, J. M., Holtzman, S., & McCaffrey, D. (2017, April). *Comparing the alignment between two observational measures of science teachers’ instructional practice*. Poster presented at the National Association for Research in Science Teaching Annual International Conference, San Antonio, TX. <a href = "/pre-prints/mikeska-et-al-2017-narst.pdf"><img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
