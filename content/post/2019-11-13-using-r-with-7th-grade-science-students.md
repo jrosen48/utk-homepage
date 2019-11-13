@@ -13,14 +13,16 @@ Sparked by a collaboration with Bodong Chen, I've been working with a 7th-grade
 science teacher, Alex Edwards, at a local school. We recently wrote about some 
 of the take-aways from our work last year in a publication on "Tools and 
 strategies for engaging students in analyzing and interpreting complex data 
-sources" is going to be published in NSTA's *The Science Teacher* journal 
-(a pre-print, of the article is[here](https://joshuamrosenberg.com/publications/rosenberg-edwards-chen-tst.pdf).
+sources." 
+
+The article is going to be published in NSTA's *The Science Teacher* journal 
+(a pre-print, of the article is [here](https://joshuamrosenberg.com/publications/rosenberg-edwards-chen-tst.pdf).
 
 I haven't been to Alex's since last year but worked today to use R with his 7th-
 grade science students. When we discussed what we wanted to do, we came to the 
 conclusion that with the right support and tools, using R was not out of the 
 question. We planned an activity that was focused on getting his students, who 
-had used [CODAP](https://codap.concord.org/) with success, to use R. We tried a 
+had used [CODAP](https://codap.concord.org/) with success, to try R. We tried a 
 few things which, together, seemed to work well, or at least served as a first 
 step. This post is a brief documentation of those things (and some ideas about) 
 where to go next.
@@ -74,4 +76,9 @@ for students to be able to analyze data that they collect (and
 already-collected scientific data). As one encouraging piece of information, at 
 the end of the class, a student asked when we would be using R again. When we 
 do, I'll plan to write another post to serve as documentation of what we do
-next that works well - and what does not.
+next that works well - and what does not. 
+
+## fin 
+
+If my assumption coming in to this activty was, "What can 7th-grade students 
+do using R?", I think it now is "What can 7th-grade students *not* do with R?".
