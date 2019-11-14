@@ -9,7 +9,7 @@ tags:
   - data-science-ed
 ---
 
-Sparked by a collaboration with Bodong Chen, I've been working with a 7th-grade
+Sparked by a collaboration with [Bodong Chen](https://bodong.me/), I've been working with a 7th-grade
 science teacher, Alex Edwards, at a local school. We recently wrote about some 
 of the take-aways from our work last year in a publication on "Tools and 
 strategies for engaging students in analyzing and interpreting complex data 
@@ -80,5 +80,5 @@ next that works well - and what does not.
 
 ## fin 
 
-If my assumption coming in to this activty was, "What can 7th-grade students 
+If my assumption coming in to this activity was, "What can 7th-grade students 
 do using R?", I think it now is "What can 7th-grade students *not* do with R?".
