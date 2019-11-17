@@ -16,7 +16,8 @@ of this discussion.
 
 I'll lay out my argument in advance, in part because it is simple:
 
-Hazari wrote with a *job post* on a mailing list. Here is the *job post*:
+Hazari wrote with a *job post* on a mailing list. It was not a blog post, and 
+it certainly was not a blog post on the NARST blog. Here is the *job post*:
 
 > Just wanted to reach out to the community to let you know that we are 
 looking to add a postdoc to help support the STEP UP Project 
@@ -57,11 +58,11 @@ make an out-of-place critism (nay, attack). Critique is central to science and
 to an open culture. But, it has a place; for scientists like Hazari and Mintzes,
 such a critique (from Mintzes to Hazari, in this case) could come in a blog; it
 could come in a presentation or a publication; or it could come in direct 
-communication. It should not, though, come the way it did; it was inappropriate, 
-jarring, and disturbing. It seemed to come from a place of anger; it made me 
-uncomfortable, and I can only imagine how it made others - especially Hazari - 
-feel, *particularly* as Hazari was sharing good news and a job post for a 
-project which met [the National Science Foundation's merit review criteria](https://nsf.gov/awardsearch/showAward?AWD_ID=1721021&HistoricalAwards=false). 
+communication. It should not, though, come in the way it did; it seemed to come 
+from a place of anger; it made me uncomfortable, and I can only imagine how it 
+made others - especially Hazari - feel, *particularly* as Hazari was sharing 
+good news and a job post for a project which met [the National Science 
+Foundation's merit review criteria](https://nsf.gov/awardsearch/showAward?AWD_ID=1721021&HistoricalAwards=false). 
 
 *tl;dr*: Mintzes misunderstood the medium, and had a heckuva inciting message 
 (and set of responses which followed and which, oddest of all, focused on issues
@@ -75,3 +76,16 @@ being civil, fair, and right. Mintzes missed the mark on these criteria and
 should apologize for doing so; I think that would be the responsible thing to do
 as a member of the NARST organization - and as an adult who can surely recognize
 when one has clearly missed the mark.
+
+*addendum*
+
+I want to mention that others will critique Mintzes stronger on the substance 
+of Mintzes' initial post and responses. I think they should. This - the fact 
+that Hazari share a job post, and not, in any way, shape, or form, a blog post
+on the NARST blog - was the thing that stuck out to me as what was wrong about
+the process. I don't think, though, that what Minztes said did not also warrant 
+push back, it's just that I chose to focus on the process as the simplest issue.
+
+Other issues - like why Mintzes thinks "mobilizing thousands of 
+high school physics teachers around the country to support and inspire 
+young women in physics" is abrasive - are more important.
