@@ -61,12 +61,15 @@ communication. It should not, though, come the way it did; it was inappropriate,
 jarring, and disturbing. It seemed to come from a place of anger; it made me 
 uncomfortable, and I can only imagine how it made others - especially Hazari - 
 feel, *particularly* as Hazari was sharing a job post for a project which met 
-the National Science Foundation's merit review criteria. 
+[the National Science Foundation's merit review criteria](https://nsf.gov/awardsearch/showAward?AWD_ID=1721021&HistoricalAwards=false). 
 
-*tl;dr*: Mintzes misunderstood the medium, and had a heckuva message. Critique, 
-disruption, and the link are a part of science; knowing the time, knowing the 
-medium, and being aware of the way a message at the wrong time and via the 
-wrong medium would be received are a part of being civil, fair, and right. 
+*tl;dr*: Mintzes misunderstood the medium, and had a heckuva inciting message. 
+Critique, disruption, and the link are a part of science; knowing the time, 
+knowing the medium, and being aware of the way a message at the wrong time and via the 
+wrong medium (and, maybe, from, a person who seemed to have an axe to grind, and
+who took this out on a person who not only seems un-deserving it, but who seems
+to be doing impressive work) would be received are a part of being civil, fair, 
+and right. 
 
 Mintzes missed the mark on these criteria and should apologize for doing so; I 
 think that would be the responsible thing to do as a member of the NARST 
