@@ -77,7 +77,7 @@ should apologize for doing so; I think that would be the responsible thing to do
 as a member of the NARST organization - and as an adult who can surely recognize
 when one has clearly missed the mark.
 
-*addendum*
+## Addendum
 
 I want to mention that others will critique Mintzes stronger on the substance 
 of Mintzes' initial post and responses. I think they should. This - the fact 
@@ -88,4 +88,5 @@ push back, it's just that I chose to focus on the process as the simplest issue.
 
 Other issues - like why Mintzes thinks "mobilizing thousands of 
 high school physics teachers around the country to support and inspire 
-young women in physics" is abrasive - are more important.
+young women in physics" is abrasive - are more important than the simpler issue 
+I tried to address.
