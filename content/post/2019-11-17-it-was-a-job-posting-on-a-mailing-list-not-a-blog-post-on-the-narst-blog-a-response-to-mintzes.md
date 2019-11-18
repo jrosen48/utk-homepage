@@ -60,18 +60,20 @@ could come in a presentation or a publication; or it could come in direct
 communication. It should not, though, come in the way it did; it seemed to come 
 from a place of anger; it made me uncomfortable, and I can only imagine how it 
 made others - especially Hazari - feel, *particularly* as Hazari was sharing 
-good news and a job post for a project which met [the National Science 
-Foundation's merit review criteria](https://nsf.gov/awardsearch/showAward?AWD_ID=1721021&HistoricalAwards=false). 
+good news and a job post for a new project - one which met the [National Science 
+Foundation's review criteria](https://nsf.gov/awardsearch/showAward?AWD_ID=1721021&HistoricalAwards=false) for intellectual merit and broader impacts.
 
 *tl;dr*: Mintzes misunderstood the medium, and had a heckuva inciting message 
 (and set of responses which followed and which, oddest of all, focused on issues
 with the term disrupting in the job post, though Mintzes had co-opted a mailing 
-list post). Critique, disruption, and the link are a part of science; knowing 
+list post). Critique, disruption, and the like are a part of science; knowing 
 the time, knowing the medium, and being aware of the way a message at the wrong 
 time and via the wrong medium (and, maybe, from, a person who seemed to have an 
 axe to grind, and who took this out on a person who not only seems undeserving 
 it, but who seems to be doing impressive work) would be received are a part of 
-being civil, fair, and right. Mintzes missed the mark on these criteria and 
+being civil, fair, and right. 
+
+Mintzes missed the mark on these criteria and 
 should apologize for doing so; I think that would be the responsible thing to do
 as a member of the NARST organization - and as an adult who can surely recognize
 when one has clearly missed the mark.
@@ -83,9 +85,7 @@ of Mintzes' initial post and responses. I think they should. This - the fact
 that Hazari share a job post, and not, in any way, shape, or form, a blog post
 on the NARST blog - was the thing that stuck out to me as what was wrong about
 the process. I don't think, though, that what Minztes said did not also warrant 
-push back, it's just that I chose to focus on the process as the simplest issue.
-
-Other issues - like why Mintzes thinks "mobilizing thousands of 
-high school physics teachers around the country to support and inspire 
-young women in physics" is abrasive - are more important than the simpler issue 
-I tried to address.
+push back, it's just that I chose to focus on the process as the simplest issue. 
+Other issues - like why Mintzes thinks "mobilizing thousands of  high school physics 
+teachers around the country to support and inspire young women in physics" is 
+abrasive - are more important than the simpler issue I tried to address.
