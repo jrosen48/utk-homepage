@@ -9,10 +9,9 @@ tags: []
 ---
 
 Since mid-morning this past Friday, members of [NARST](https://narst.org/) have 
-been discussing a post and a response. I've written before about [how I use my 
-blog to communicate with the world](https://joshuamrosenberg.com/post/2019/08/21/responding-to-the-president-s-comments/);
-this is an attempt to do that in the context 
-of this discussion.
+been discussing a post and a response to the organization's mailing list. 
+
+I've written before about [how I use my blog to communicate](https://joshuamrosenberg.com/post/2019/08/21/responding-to-the-president-s-comments/); this is an attempt to do that in the context of that discussion.
 
 I'll lay out my argument in advance, in part because it is simple:
 
