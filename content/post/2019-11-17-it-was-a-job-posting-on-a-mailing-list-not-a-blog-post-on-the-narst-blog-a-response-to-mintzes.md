@@ -76,7 +76,7 @@ should apologize for doing so; I think that would be the responsible thing to do
 as a member of the NARST organization - and as an adult who can surely recognize
 when one has clearly missed the mark.
 
-## Addendum
+*Addendum*
 
 I want to mention that others will critique Mintzes stronger on the substance 
 of Mintzes' initial post and responses. I think they should. This - the fact 
