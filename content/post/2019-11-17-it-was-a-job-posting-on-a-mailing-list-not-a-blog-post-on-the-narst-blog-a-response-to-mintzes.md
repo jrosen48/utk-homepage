@@ -39,7 +39,7 @@ criticism:
 > "....disrupting normative cultural narratives" reeks of a political discourse that favors women over men and minority ethnic groups over Whites.  Why is it necessary to push your political agenda in the NARST blog?  I agree that women and non-Whites have been at a disadvantage in science and science education, but your abrasive language does little to mitigate these circumstances.  I hope your "STEP Up" project is open to discourse even with those whose "narratives" you wish to disrupt.
 
 Reading this makes me uncomfortable, and I said as much in a message to Mintzes,
-but, that isn't central to my argument, which is that Hazari wrote with a *job 
+but, that isn't central to my (simple) argument, which is that Hazari wrote with a *job 
 post* on a mailing list. Mintzes responded responded with a criticism (which I 
 think may read to an observer as aggressive and as a personal attack). The 
 criticism stood out to me because in all of the time I've subscribed to the NARST 
