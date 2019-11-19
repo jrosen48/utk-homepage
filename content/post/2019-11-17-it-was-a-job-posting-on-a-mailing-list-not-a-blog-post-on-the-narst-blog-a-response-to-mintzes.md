@@ -15,7 +15,7 @@ I've written before about [how I use my blog to communicate](https://joshuamrose
 
 I'll lay out my argument in advance, in part because it is simple:
 
-Hazari wrote with a *job post* on a mailing list. It was not a blog post, and 
+Hazari shared a *job post* on a mailing list. It was not a blog post, and 
 it certainly was not a blog post on the NARST blog. Here is the *job post*:
 
 > Just wanted to reach out to the community to let you know that we are 
@@ -81,9 +81,7 @@ when one has clearly missed the mark.
 *Addendum*
 
 I want to mention that others will critique Mintzes stronger on the substance 
-of Mintzes' initial post and responses. I think they should. This - the fact 
-that Hazari share a job post, and not, in any way, shape, or form, a blog post
-on the NARST blog - was the thing that stuck out to me as what was wrong about
+of Mintzes' initial post and responses. I think they should. This was the thing that stuck out to me as what was wrong about
 the process. I don't think, though, that what Minztes said did not also warrant 
 push back, it's just that I chose to focus on the process as the simplest issue. 
 Other issues - like why Mintzes thinks "mobilizing thousands of  high school physics 
