@@ -19,7 +19,7 @@ math = true
     url = "/"
     weight = 1
     [[menu.main]]
-    name = "Posts"
+    name = "Blog"
     url = "/posts/"
     weight = 2
 [[menu.main]]
