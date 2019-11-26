@@ -16,7 +16,7 @@ strategies for engaging students in analyzing and interpreting complex data
 sources." 
 
 The article is going to be published in NSTA's *The Science Teacher* journal 
-(a pre-print, of the article is [here](https://joshuamrosenberg.com/publications/rosenberg-edwards-chen-tst.pdf).
+(a pre-print of the article is [here](https://joshuamrosenberg.com/publications/rosenberg-edwards-chen-tst.pdf)).
 
 I haven't been to Alex's since last year but worked today to use R with his 7th-
 grade science students. When we discussed what we wanted to do, we came to the 
