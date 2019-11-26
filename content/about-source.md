@@ -87,7 +87,7 @@ C.D. Owen High School, Swannanoa, NC
 
 2013, PI, *Basic biology for everyone* ($2,000), Versal Foundation Grant
 
-## Fellowships and 
+## Fellowships and Awards
 
 2019-2020, Initiative for the Future Faculty Development Program, University of Tennessee, Knoxville
 
@@ -280,6 +280,12 @@ Rosenberg, J. M. (2018). *Understanding work with data in summer STEM programs: 
 ## Presentations 
 
 ### Peer-Reviewed Conference Presentations
+
+\hangindent=2em
+Rosenberg, J. M., & Lishinski, A. (2020, March). *Accruing Interest: What experiences contribute to students developing a sustained interest in computer science over time?* Lightning talk at the Special Interest Group on Computer Science Education Technical Sympsosium, Portland, OR.
+
+\hangindent=2em
+Lishinski, A., & Rosenberg, J. M. (2020, March). *Variable interest rate: What experiences explain differences in interest in computer science among students?* Birds of a feather presentation at the Special Interest Group on Computer Science Education Technical Sympsosium, Portland, OR.
 
 \hangindent=2em
 Rosenberg, J. M., Reid, J., Dyer, E., Koehler, M. J., Fischer, C., & McKenna, T. J. (2020, April). A new context for professional networks: Understanding the social structure of #NGSSChat through social network analysis. In K. A. Frank, K., Torphy, K., Daly, A., & Greenhow, C. (Chairs), *Educators meet the fifth estate: Social media in education.* Symposium to be conducted at the American Educational Research Association Annual Meeting, San Francisco, CA. 
