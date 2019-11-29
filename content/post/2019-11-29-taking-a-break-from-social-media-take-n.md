@@ -17,4 +17,4 @@ Some, I know, are better about moderating their use, but I'm not. I don't have
 anything profound to say; I just can't seem to use social media moderately. So, 
 I'm going to take a longer break from social media. I know there are folks who 
 I will want to stay in touch with; I'll be sure to stay in touch (but reach out 
-vi text, or email, carrier pigeon, or some other messaging service or means!).
+vi text, or email, carrier pigeon, or some other messaging service or means).
