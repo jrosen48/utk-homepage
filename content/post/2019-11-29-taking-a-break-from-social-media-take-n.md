@@ -12,7 +12,7 @@ tried a number of strategies (like limiting the amount of time I spend each day)
 but none have been very effective, apart from a fairly dramatic step, 
 deactivating my accounts, which was (until I got back on). While my accounts 
 were deactivated, I missed keeping up with and being in touch with friends and 
-family, but I found other ways to communciate.
+family, but I found other ways to communciate (I actually had two phone calls!).
 
 Some, I know, are better about moderating their use, but I'm not. I don't have 
 anything profound to say; I just can't seem to use social media moderately. So, 
