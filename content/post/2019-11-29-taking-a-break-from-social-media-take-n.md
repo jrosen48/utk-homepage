@@ -10,9 +10,10 @@ tags: []
 Since this past summer, I've tried to moderate my use of social media. I've 
 tried a number of strategies (like limiting the amount of time I spend each day),
 but none have been very effective, apart from a fairly dramatic step, 
-deactivating my accounts, which was (until I got back on). While my accounts 
-were deactivated, I missed keeping up with and being in touch with friends and 
-family, but I found other ways to communciate (I actually had two phone calls!).
+deactivating my accounts, which was effective (until I got back on). 
+While my accounts were deactivated, I missed keeping up with and being in touch
+with friends and family, but I found other ways to communciate (I actually had 
+two phone calls!).
 
 Social media is immensely powerful. I met (all but one of) the co-authors of the
 data science-related book I am writing through Twitter. A Facebook-based group 
