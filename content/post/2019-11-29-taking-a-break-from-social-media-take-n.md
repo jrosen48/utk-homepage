@@ -15,10 +15,8 @@ While my accounts were deactivated, I missed keeping up with and being in touch
 with friends and family, but I found other ways to communciate (I actually had 
 two phone calls!).
 
-Social media is immensely powerful. I met (all but one of) the co-authors of the
-data science-related book I am writing through Twitter. A Facebook-based group 
-(which I learned about through a local bike shop) for mountain biking around
-Lansing was the source of some of my favorite memories during my last year in 
+Social media is immensely powerful. I met  through Twitter all (but one of) the co-authors of the
+data science-related book I am writing A Facebook-based groug (which I learned about through a local bike shop) for mountain biking around Lansing was the source of some of my favorite memories during my last year in 
 Michigan. These are just a few examples.
 
 Some, I know, are better about moderating their use, but I'm not. I don't have 

@@ -61,7 +61,7 @@ C.D. Owen High School, Swannanoa, NC
 
 ## Grants
 
-### Funded (Principal Investigator [PI] or Co-PI)
+### Ongoing (Principal Investigator [PI] or Co-PI)
 
 2019-2021, PI, *Understanding the development of interest in computer science: An experience sampling approach* ($346,688). National Science Foundation. (National Science Foundation Grant No. [1937700](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1937700&HistoricalAwards=false))
 
@@ -73,7 +73,7 @@ C.D. Owen High School, Swannanoa, NC
 
 2019-2020, PI, *Planting the seeds for computer science education in East Tennessee through a research-practice partnership*. ($13,200). Community Engaged Research Seed Program, University of Tennessee, Knoxville
 
-### Funded (Senior Personnel or Consultant)
+### Ongoing (Senior Personnel or Consultant)
 
 2019-2022, Senior Personnel, *Medical entomology and geospatial analyses: Bringing innovation to teacher education and surveillance studies* ($149,611; *PI*: Rebecca Trout Fryxell). United States Department of Agriculture - Agriculture and Food Research Initiative. (USDA Grant No. 2019-68010-29119)
 
@@ -87,11 +87,7 @@ C.D. Owen High School, Swannanoa, NC
 
 2019-2020, Initiative for the Future Faculty Development Program, University of Tennessee, Knoxville
 
-2019, Open Publishing Support Fund, University of Tennessee Libraries and Office of Research and Engagement, University of Tennessee, Knoxville
-
 2019, Finalist, Association for Science Teacher Education John C. Park National Technology Leadership Institute Fellowship
-
-2018, Foreign Travel Award, Office of Research and Engagement, University of Tennessee, Knoxville (UTK) 
 
 2017, Delia Koo Global Travel Fellowship, Michigan State University (MSU)
 
@@ -160,11 +156,11 @@ Rosenberg, J. M., & Koehler, M. J. (2015). Context and Technological Pedagogical
 
 ### Book Chapters
 
-Rosenberg, J. M., Lawson, M. A., Anderson, D. J., & Rutherford, T. (forthcoming). In E. Romero-Hall (Ed.), *Research Methods in Learning Design & Technology.*, Data science dilemmas for teaching research methods in learning design and technology. Routledge: New York, NY.
+Rosenberg, J. M., Lawson, M. A., Anderson, D. J., & Rutherford, T. (accepted pending minor revisions). In E. Romero-Hall (Ed.), *Research Methods in Learning Design & Technology.*, Data science dilemmas for teaching research methods in learning design and technology. Routledge: New York, NY.
 
-Greenhalgh, S. P., Staudt Willet, B., Rosenberg, J. M., & Koehler, M. J. (forthcoming). In E. Romero-Hall (Ed.), *Research Methods in Learning Design & Technology.*, Lessons learned from applying Twitter research methods to educational technology phenomena. Routledge: New York, NY.
+Greenhalgh, S. P., Staudt Willet, B., Rosenberg, J. M., & Koehler, M. J. (accepted pending minor revisions). In E. Romero-Hall (Ed.), *Research Methods in Learning Design & Technology.*, Lessons learned from applying Twitter research methods to educational technology phenomena. Routledge: New York, NY.
 
-Dai, T., Rosenberg, J. M., & Lawson, M. A. (forthcoming). Data representation. In T. L. Good & M. McCaslin (*Eds.*), Educational Psychology Section; D. Fisher (*Ed.*), Routledge Encyclopedia of Education (Online). Taylor & Francis: New York, NY.
+Dai, T., Rosenberg, J. M., & Lawson, M. A. (in press). Data representation. In T. L. Good & M. McCaslin (*Eds.*), Educational Psychology Section; D. Fisher (*Ed.*), Routledge Encyclopedia of Education (Online). Taylor & Francis: New York, NY.
 
 Eidelman, R., Rosenberg, J. M. ,& Shwartz, Y. (2019). Assessing the interaction between self-regulated learning (SRL) profiles and actual learning in the chemistry online blended learning environment (COBLE). In Sampson, D., D. Ifenthaler, M. Spector, P. Isafas, & S. Sergis (Eds), *Learning technologies for transforming teaching, learning and assessment at large scale* (pp. 231-255). Berlin, Germany: Springer.  
 
@@ -480,7 +476,7 @@ Reviewer, Proposals from Knox County Schools students for the NASA Student Space
 - E-Learning and Digital Media (2), 2016  
 - Journal of Educational Technology & Society, 2017  
 - Journal of the Learning Sciences, 2019  
-- Journal of Open Source Education, 2019  
+- Journal of Open Source Education, 2019 (2)
 - Journal of Open Source Software, 2018  
 - Journal of Research in Science Teaching, 2019  
 - Journal of Science Education and Technology, 2019 (2)
