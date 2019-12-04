@@ -10,7 +10,7 @@ tags:
 ---
 
 Sparked by a collaboration with [Bodong Chen](https://bodong.me/), I've been working with a 7th-grade
-science teacher, Alex Edwards, at a local school. We recently wrote about some 
+science teacher, Alex Edwards, at [Tate's School](http://www.tatesschool.com/). We recently wrote about some 
 of the take-aways from our work last year in a publication on "Tools and 
 strategies for engaging students in analyzing and interpreting complex data 
 sources." 
