@@ -3,7 +3,7 @@ title: Outcomes from a self-generated utility value intervention in science (in 
 author: ~
 date: '2017-12-30'
 slug: new-article-on-a-utility-value-intervention-in-ijer
-categories: []
+categories: [publication]
 tags: []
 description: Desc
 meta_img: /images/image.jpg

@@ -3,8 +3,8 @@ title: A person-in-context approach to student engagement in science (article in
 author: ~
 date: '2017-09-29'
 slug: a-person-in-context-approach-to-student-engagement-in-science-article-in-jrst
-categories: []
-tags: []
+categories: [publication]
+tags: [science-education]
 description: Desc
 meta_img: /images/image.jpg
 ---

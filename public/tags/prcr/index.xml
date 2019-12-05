@@ -13,30 +13,30 @@
     
     <item>
       <title>How many groups of Star Wars characters are there? R-squared and cross-validation approaches</title>
-      <link>/post/2017/07/02/how-many-groups-of-star-wars-characters-are-there-r-squared-and-cross-validation-approaches/</link>
+      <link>/posts/how-many-groups-of-star-wars-characters-are-there-r-squared-and-cross-validation-approaches/</link>
       <pubDate>Sun, 02 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/2017/07/02/how-many-groups-of-star-wars-characters-are-there-r-squared-and-cross-validation-approaches/</guid>
+      <guid>/posts/how-many-groups-of-star-wars-characters-are-there-r-squared-and-cross-validation-approaches/</guid>
       <description>Background How many groups, or types, of Star Wars characters are there? I’ve been wanting to use the starwars dataset built-in to the dplyr package, and at the same time, have been working hard on an R package to carry out an analysis suited to doing this. Part of the challenge of using the approach in this R package is determining how groups groups there are.
 Many approaches (Latent Profile Analysis, for example) use Maximum Likelihood estimation (while the approach I’ve developed uses a two-step cluster analysis based around the geometric (and algebraic) idea of “distance”, or how close (similar) observations are).</description>
     </item>
     
     <item>
       <title>prcr update</title>
-      <link>/post/2017/05/17/prcr-update/</link>
+      <link>/posts/2017-05-17-prcr-update/</link>
       <pubDate>Wed, 17 May 2017 13:48:00 +0500</pubDate>
       
-      <guid>/post/2017/05/17/prcr-update/</guid>
+      <guid>/posts/2017-05-17-prcr-update/</guid>
       <description>The R package for person-oriented analysis (prcr) is updated (it’s now version 0.1.4).
 In particular, it was not clear how to use the profile assignments (i.e., what cluster each response is in) in subsequent analyses. So, the update now returns two different representations of the profile assignments, or which profile is associated with each observation: a) the original “data.frame” with the profile assignment added in one variable and b) the original “data.</description>
     </item>
     
     <item>
       <title>prcr: An R Package for Person-Centered Analysis</title>
-      <link>/post/2017/02/17/prcr-an-r-package-for-person-centered-analysis/</link>
+      <link>/posts/2017-02-17-introducing-prcr/</link>
       <pubDate>Fri, 17 Feb 2017 16:59:00 -0500</pubDate>
       
-      <guid>/post/2017/02/17/prcr-an-r-package-for-person-centered-analysis/</guid>
+      <guid>/posts/2017-02-17-introducing-prcr/</guid>
       <description>I’m excited to share that prcr (0.1.0), an R package for person-centered analysis, is now available on CRAN via install.packages(&amp;quot;prcr&amp;quot;).
 Person-centered analyses focus on clusters, or profiles, of observations, and their change over time or differences across factors.
 The package is designed to be “low threshold but high ceiling”, in that you can do all of the analysis with one function, create_profiles(df, n_clusters), where dfis a data.frame of the variables to cluster, and n_clusters is the specified number of clusters.</description>

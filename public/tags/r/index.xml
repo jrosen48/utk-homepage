@@ -13,10 +13,10 @@
     
     <item>
       <title>Presentation at Middle Tennessee State University: Making Data Science Count</title>
-      <link>/post/2019/09/05/presentation-at-middle-tennessee-state-university-making-data-science-count/</link>
+      <link>/posts/presentation-at-middle-tennessee-state-university-making-data-science-count/</link>
       <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/2019/09/05/presentation-at-middle-tennessee-state-university-making-data-science-count/</guid>
+      <guid>/posts/presentation-at-middle-tennessee-state-university-making-data-science-count/</guid>
       <description>I was lucky to have the chance to present at the Middle Tennessee State University Math and Science Education Seminar Series.
 Presentation My presentation was on Making data science count: Exploring the integration of data science into education.
 A link to the presentation is here.
@@ -25,10 +25,10 @@ Workshop I also carried out a two-hour workshop on An introduction to data scien
     
     <item>
       <title>Presentation on &#39;Won’t you be my neighboR? An introduction to R for data science in education&#39;</title>
-      <link>/post/2019/05/19/presentation-on-won-t-you-be-my-neighbor-an-introduction-to-r-for-data-science-in-education/</link>
+      <link>/posts/presentation-on-won-t-you-be-my-neighbor-an-introduction-to-r-for-data-science-in-education/</link>
       <pubDate>Sun, 19 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/2019/05/19/presentation-on-won-t-you-be-my-neighbor-an-introduction-to-r-for-data-science-in-education/</guid>
+      <guid>/posts/presentation-on-won-t-you-be-my-neighbor-an-introduction-to-r-for-data-science-in-education/</guid>
       <description>This past week, I presented a workshop, Won’t you be my neighboR? An introduction to R for data science in education. for Educational Psychology and Educational Technology PhD students (and a few others) with Emily Bovee.
 Here is the description:
  R is a freely-available, cross-platform, open-source programming language and statistical software environment that is well-suited to data analysis and data science, but, can have an high barrier to entry. This workshop provides an introduction to R in education, with a focus on developing a foundation in capabilities (and confidence!</description>
@@ -36,10 +36,10 @@ Here is the description:
     
     <item>
       <title>Using MPlus from R with MPlusAutomation</title>
-      <link>/post/2017/09/01/using-mplus-from-r/</link>
+      <link>/posts/using-mplus-from-r/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/2017/09/01/using-mplus-from-r/</guid>
+      <guid>/posts/using-mplus-from-r/</guid>
       <description>Note that due to version-related issues the code in this post is displayed but is not excecuted/run.
 According to the MPlus website, the R package MPlusAutomation serves three purposes:
 Creating related groups of models Running batches Extracting and tabulating model parameters and test statistics.  Because modeling involves comparing related models, (partially) automating these is compelling. It can make it easier to use model results in subsequent analyses and can cut down on copy and pasting output or results between programs.</description>
@@ -47,10 +47,10 @@ Creating related groups of models Running batches Extracting and tabulating mode
     
     <item>
       <title>Common Core and NGSS are not on the news</title>
-      <link>/post/2017/03/16/common-core-and-ngss-are-not-on-the-news/</link>
+      <link>/posts/2017-03-16-education-policy/</link>
       <pubDate>Thu, 16 Mar 2017 16:32:00 -0500</pubDate>
       
-      <guid>/post/2017/03/16/common-core-and-ngss-are-not-on-the-news/</guid>
+      <guid>/posts/2017-03-16-education-policy/</guid>
       <description>How often are curricular standards mentioned on TV news? With my friend Patrick, I was curious about using the newsflash package for something education-related. We came up with the idea of looking at mentions of the Common Core State Standards (for Mathematics and English Language Arts / Literacy) and the Next Generation Science Standards (for Science and Engineering).
  On broadcast channels We first looked at mentions across ABC, CBS, FOX, NBC, and PBS (the way newsflash works is to keyword search the closed captioning streams from the Internet Archive’s Television News Archive):</description>
     </item>

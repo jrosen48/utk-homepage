@@ -10,6 +10,8 @@ comment_status: closed
 post_name: first-article-in-jrte
 status: publish
 post_type: post
+categories: [presentation]
+tags: []
 ---
 
 # New article in the Journal of Research on Technology in Education

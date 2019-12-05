@@ -20,32 +20,20 @@ math = true
     weight = 1
 [[menu.main]]
     name = "Blog"
-    url = "/post/"
-    weight = 2
+    url = "/posts/"
+    weight = 3
 [[menu.main]]
     name = "CV"
     url = "/about/"
-    weight = 3
+    weight = 2
 [[menu.main]]
-    name = "Research"
-    url = "/research/"
-    weight = 4
-[[menu.main]]
-    name = "Teaching"
-    url = "/teaching/"
-    weight = 5
-[[menu.main]]
-    name = "Code"
-    url = "/code/"
-    weight = 6
-[[menu.main]]
-    name = "Categories"
-    url = "/categories/"
+    name = "Research Group Website"
+    url = "https://makingdatasciencecount.com"
     weight = 7
 [[menu.main]]
-    name = "Tags"
-    url = "/tags/"
-    weight = 8
+    name = "Blog Categories"
+    url = "/categories/"
+    weight = 4
 
 [params]
     description = "Joshua M. Rosenberg's Homepage"

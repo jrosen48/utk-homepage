@@ -7,8 +7,6 @@
 {{ .Content }}
 
 <ul>
-  {{ $pages := .Pages }}
-  {{ if .IsHome }}{{ $pages = .Site.RegularPages }}{{ end }}
   {{ $paginator := .Paginate (where .Data.Pages "Section" "!=" "") }}
   {{ range $paginator.Pages }}
   <li>
@@ -17,5 +15,6 @@
   </li>
   {{ end }}
 </ul>
+{{ template "_internal/pagination.html" . }}
 
 {{ partial "footer.html" . }}

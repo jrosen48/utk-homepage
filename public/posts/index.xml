@@ -1,15 +1,263 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Joshua M. Rosenberg</title>
+    <title>Posts on Joshua M. Rosenberg, Ph.D.</title>
     <link>/posts/</link>
-    <description>Recent content in Posts on Joshua M. Rosenberg</description>
+    <description>Recent content in Posts on Joshua M. Rosenberg, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Research group website</title>
+      <link>/posts/research-group-website/</link>
+      <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/research-group-website/</guid>
+      <description>I created a research group website, Making Data Science Count. I intend to use that website for updates on research projects and research-related updates, and this website for information about me (my teaching, CV, etc.).</description>
+    </item>
+    
+    <item>
+      <title>Taking a break from social media</title>
+      <link>/posts/taking-a-break-from-social-media-take-n/</link>
+      <pubDate>Fri, 29 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/taking-a-break-from-social-media-take-n/</guid>
+      <description>Since this past summer, I&amp;rsquo;ve tried to moderate my use of social media. I&amp;rsquo;ve tried a number of strategies (like limiting the amount of time I spend each day), but none have been very effective, apart from a fairly dramatic step, deactivating my accounts, which was effective (until I got back on). While my accounts were deactivated, I missed keeping up with and being in touch with friends and family, but I found other ways to communciate (I actually had two phone calls!</description>
+    </item>
+    
+    <item>
+      <title>It was a job posting on a mailing list, not a blog post on the NARST blog: A response to Mintzes</title>
+      <link>/posts/it-was-a-job-posting-on-a-mailing-list-not-a-blog-post-on-the-narst-blog-a-response-to-mintzes/</link>
+      <pubDate>Sun, 17 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/it-was-a-job-posting-on-a-mailing-list-not-a-blog-post-on-the-narst-blog-a-response-to-mintzes/</guid>
+      <description>Since mid-morning this past Friday, members of NARST have been discussing a post and a response to the organization&amp;rsquo;s mailing list.
+I&amp;rsquo;ve written before about how I use my blog to communicate; this is an attempt to do that in the context of that discussion.
+I&amp;rsquo;ll lay out my argument in advance, in part because it is simple:
+Hazari shared a job post on a mailing list. It was not a blog post, and it certainly was not a blog post on the NARST blog.</description>
+    </item>
+    
+    <item>
+      <title>Using R with 7th-grade science students</title>
+      <link>/posts/using-r-with-7th-grade-science-students/</link>
+      <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/using-r-with-7th-grade-science-students/</guid>
+      <description>Sparked by a collaboration with Bodong Chen, I&amp;rsquo;ve been working with a 7th-grade science teacher, Alex Edwards, at Tate&amp;rsquo;s School. We recently wrote about some of the take-aways from our work last year in a publication on &amp;ldquo;Tools and strategies for engaging students in analyzing and interpreting complex data sources.&amp;rdquo;
+The article is going to be published in NSTA&amp;rsquo;s The Science Teacher journal (a pre-print of the article is here).</description>
+    </item>
+    
+    <item>
+      <title>Presentation at Middle Tennessee State University: Making Data Science Count</title>
+      <link>/posts/presentation-at-middle-tennessee-state-university-making-data-science-count/</link>
+      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/presentation-at-middle-tennessee-state-university-making-data-science-count/</guid>
+      <description>I was lucky to have the chance to present at the Middle Tennessee State University Math and Science Education Seminar Series.
+Presentation My presentation was on Making data science count: Exploring the integration of data science into education.
+A link to the presentation is here.
+Workshop I also carried out a two-hour workshop on An introduction to data science in education using R. A repository for the workshop, including a link to slides, code, and data, is here: https://github.</description>
+    </item>
+    
+    <item>
+      <title>Pre-print probs - Some thoughts after posting a pre-print of an article</title>
+      <link>/posts/pre-print-probs/</link>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/pre-print-probs/</guid>
+      <description>I shared my grant proposal I wrote as a pre-print for a number of reasons:
+ The not-very-proprietary nature of this project (with its focus on individual investigator development) I didn’t face any risk of unblinding the review process (as the NSF review process already is) I was the only author, and, so, I felt like there was less risk if I made a mistake: I was the one who would face the consequences!</description>
+    </item>
+    
+    <item>
+      <title>Resources and ideas for engineers working on the design challenge of teaching elementary students about engineering</title>
+      <link>/posts/resources-and-ideas-for-engineers-working-on-the-design-challenge-of-teaching-elementary-students-about-engineering/</link>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/resources-and-ideas-for-engineers-working-on-the-design-challenge-of-teaching-elementary-students-about-engineering/</guid>
+      <description>I have the opportunity to speak with Dr. Courtney Faber&amp;rsquo;s engineering service-learning course.
+In this course, my understanding is that students tackle a design challenge. I was asked to come to class to speak for around 30-minutes around adapting and designing activities for an engineering after school program for elementary-aged students. So, the design challenge is to teach engineering to elementary students about engineering. Cool!
+But, I don&amp;rsquo;t&amp;rsquo; have expertise in engineering or elementary education.</description>
+    </item>
+    
+    <item>
+      <title>Base group check-in questions</title>
+      <link>/posts/base-group-check-in-questions/</link>
+      <pubDate>Thu, 22 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/base-group-check-in-questions/</guid>
+      <description>Note. I am adding to this list throughout the Fall, 2019 semester!
+Check-out/Exit ticket questions In many classes I teach, I assign students to base groups, groups of around three or four students who sit together (for most of the time) and &amp;ldquo;check-in&amp;rdquo; and &amp;ldquo;check-out&amp;rdquo; of class. The goal of base groups is to foster a kind of positive interdependence among students.
+The check out questions are typically the same:</description>
+    </item>
+    
+    <item>
+      <title>Science education resources</title>
+      <link>/posts/science-education-resources/</link>
+      <pubDate>Thu, 22 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/science-education-resources/</guid>
+      <description>This list accumulated over the course of two classes and so I thought to start to archive resources here for posterity. Right now, these are unordered and have come from student recommendations and other sources:
+Lessons and related resources  https://nextgenscience.org/resources/examples-quality-ngss-design (examples of NGSS-aligned units and lessons) http://datanuggets.org/ (datasets from scientists for use by learners) https://www.scientificamerican.com/education/bring-science-home/?page=1 (ideas and resources for investigations) https://ngss.nsta.org/Classroom-Resources.aspx (over 800 vetted lesson plans) https://www.ngssphenomena.com/ (phenomena for planning for NGSS-aligned teaching and learning) https://orise.</description>
+    </item>
+    
+    <item>
+      <title>Responding to the President&#39;s comments </title>
+      <link>/posts/responding-to-the-president-s-comments/</link>
+      <pubDate>Wed, 21 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/responding-to-the-president-s-comments/</guid>
+      <description>I love Israel. My spouse can testify to this: After my last trip, with a group of doctoral students and faculty from Michigan State University, I talked about it (and especially the hummus) for months after. I want to go back. Just yesterday, I put mint I cut from my yard into my water bottle, like I saw Israelis do. I have a camp stove that I bought when I first traveled to Israel, when I was 18, that I used less than a month ago on a camping trip.</description>
+    </item>
+    
+    <item>
+      <title>New project on understanding the development of interest in computer science</title>
+      <link>/posts/new-project-understanding-the-development-of-interest-in-computer-science/</link>
+      <pubDate>Mon, 12 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/new-project-understanding-the-development-of-interest-in-computer-science/</guid>
+      <description>I am excited to share that I was recently awarded funding to carry out a new project, Understanding the development of interest in computer science - an experience sampling approach. This is for the project I wrote about here.
+Here&amp;rsquo;s an excerpt from NSF&amp;rsquo;s summary (a bit more is here):
+ This project explores STEM interest development at the undergraduate level in computer science. It is a study of national importance that will focus on substantial differences in who pursues an interest, a major, or an occupation in computer science.</description>
+    </item>
+    
+    <item>
+      <title>Thoughts from submitting a grant proposal for the first time</title>
+      <link>/posts/thoughts-from-submitting-a-grant-proposal-for-the-first-time/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/thoughts-from-submitting-a-grant-proposal-for-the-first-time/</guid>
+      <description>Note. I drafted this right after submitting the proposal but didn&amp;rsquo;t get around to finishing it until now - almost two months later! I kept the language (around the timing) the same, as, there is still no better time than now to share&amp;ndash;though, earlier would have likely been better as the process was more fresh on my mind.
+This past week, I submitted a proposal for a grant independently. I thought that there would be no better time than now to just down some thoughts, reflections, and perhaps a few lessons learned from the process of submitting a grant independently, as follows.</description>
+    </item>
+    
+    <item>
+      <title>Introducing Data Science in Education Using R (forthcoming 2020)</title>
+      <link>/posts/introducing-data-science-in-education-using-r-forthcoming-2020/</link>
+      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/introducing-data-science-in-education-using-r-forthcoming-2020/</guid>
+      <description>Data Science in Education Using R I&amp;rsquo;m super excited to share that I will be writing a book, Data Science in Education Using R. The book will be published by Routledge sometime in mid-to-late 2020, and, importantly to us, Routledge agreed to let us keep the copyright for a web-version of the book, meaning that we will publish the entire contents of the book in an open and freely-available format (along with the print and e-book versions, which will be available for sale).</description>
+    </item>
+    
+    <item>
+      <title>Presentation on the use of mixed effects models to the KnoxData group</title>
+      <link>/posts/presentation-on-the-use-of-mixed-effects-models-to-the-knoxdata-group/</link>
+      <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/presentation-on-the-use-of-mixed-effects-models-to-the-knoxdata-group/</guid>
+      <description>data-science-ish I presented yesterday on Data Science-Ish: The Use of Mixed Effects Models for Analyzing Complex Data at the KnoxData group.
+Abstract Here is an abstract for the talk:
+ Mixed effects (or multilevel) models are extensions of linear models (regressions) that are commonly used in experimental research and policy and evaluation contexts, but are less widely-used by data scientists. In this talk, I aim to introduce mixed effects model as a data science-ish statistical method that can be useful and is easy to estimate and interpret.</description>
+    </item>
+    
+    <item>
+      <title>Recent publications on an online experiment platform, creatively focused technology fluency, and a computational science simulation</title>
+      <link>/posts/recent-publications-a-virtual-experiment-platform-a-creatively-focused-technology-mindset-and-students-use-of-a-computationa-science-simulation/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/recent-publications-a-virtual-experiment-platform-a-creatively-focused-technology-mindset-and-students-use-of-a-computationa-science-simulation/</guid>
+      <description>I realized I haven&amp;rsquo;t written about a few exciting manuscripts that I have co-authored or authored that have been published in the past year! The following pubications are on the design of virtual experiment platform, a creatively focused technology mindset, and students’ use of a computational science simulation, respectively.
+ Blondel, D. V., Sansone, A., Rosenberg, J. M., Yang, B. W., Linennbrink-Garcia, L., &amp;amp; Schwarz-Bloom, R. D. (advance online publication). Development of an online experiment platform (Rex) for high school biology.</description>
+    </item>
+    
+    <item>
+      <title>Presentation on &#39;Won’t you be my neighboR? An introduction to R for data science in education&#39;</title>
+      <link>/posts/presentation-on-won-t-you-be-my-neighbor-an-introduction-to-r-for-data-science-in-education/</link>
+      <pubDate>Sun, 19 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/presentation-on-won-t-you-be-my-neighbor-an-introduction-to-r-for-data-science-in-education/</guid>
+      <description>This past week, I presented a workshop, Won’t you be my neighboR? An introduction to R for data science in education. for Educational Psychology and Educational Technology PhD students (and a few others) with Emily Bovee.
+Here is the description:
+ R is a freely-available, cross-platform, open-source programming language and statistical software environment that is well-suited to data analysis and data science, but, can have an high barrier to entry. This workshop provides an introduction to R in education, with a focus on developing a foundation in capabilities (and confidence!</description>
+    </item>
+    
+    <item>
+      <title>Little Bitty Steps Toward a More Open Education Research</title>
+      <link>/posts/little-bitty-steps-toward-more-open-educational-research/</link>
+      <pubDate>Thu, 18 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/little-bitty-steps-toward-more-open-educational-research/</guid>
+      <description>There has been a lot of productive discussion around open education research (or science).
+Lately, I&amp;rsquo;ve noticed some examples of what I think are good open education research.
+Though I think of these as good examples and models for the rest of us to follow, I think some of them are not always appreciated as such. This matters because open education research can then seem like something that is not relevant or too onerous.</description>
+    </item>
+    
+    <item>
+      <title>Presentations at AERA 2019 - Understanding changes in interest in STEM, student engagement profiles in science, and transparent and reproducible research</title>
+      <link>/posts/presentations-at-aera-2019/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/presentations-at-aera-2019/</guid>
+      <description>I am excited to be presenting this week (and early next week) on some ongoing work at the American Educational Research Association (AERA) 2019 Annual Meeting in Toronto, Canada.
+Predictors of Momentary Student Engagement Profiles in High School Science Classrooms Sat, April 6, 10:25 to 11:55am, Sheraton Centre Toronto Hotel, Second Floor, Provincial Ballroom North
+ Schell, M. J., Beymer, P. N. Albert, K. M., Rosenberg, J. M., &amp;amp; Schmidt, J.</description>
+    </item>
+    
+    <item>
+      <title>Presentation at NARST 2019 - An exploration of NGSSchat through social network analysis</title>
+      <link>/posts/presentation-at-narst-2019/</link>
+      <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/presentation-at-narst-2019/</guid>
+      <description>Joshua Reid presented An exploration of #NGSSchat through social network analysis on behalf of myself and our co-authors at the NARST 2019 conference (in Baltimore, MD).
+The presentation is available here. A repository with the code to reproduce the analysis presented at NARST, as well as a copy of our in-progress paper, is available here.</description>
+    </item>
+    
+    <item>
+      <title>Presentation on &#39;Making Sense of Recent Advances in the TPACK Framework&#39; at the English International Congress (at UTN in Ibarra, Ecuador)</title>
+      <link>/posts/presentation-on-making-sense-of-recent-advances-in-the-tpack-framework-at-the-english-international-congress-at-utn-in-ibarra-ecuador/</link>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/presentation-on-making-sense-of-recent-advances-in-the-tpack-framework-at-the-english-international-congress-at-utn-in-ibarra-ecuador/</guid>
+      <description>I had the opportunity to present at the English International Congress at the Universidad Tecnical de Norte in Ibarra, Ecuador.
+Presenting at the Congress was a great, fun experience and I&amp;rsquo;m thankful for the opportunity.
+Resources My presentation was on Making Sense of Recent Advances in the Technological Pedagogical Content Knowledge Framework and is available here.
+The special issue on TPCK/TPACK Research and Development: Past, Present, and Future Directions that I was involved in as a guest editor is available here.</description>
+    </item>
+    
+    <item>
+      <title>Presentation on engaging students in science at the ‘Crossing Boundaries for STEM Education’ regional meeting and mini-conference</title>
+      <link>/posts/presentation-on-engaging-students-in-science-at-the-crossing-boundaries-for-stem-education-regional-meeting/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/presentation-on-engaging-students-in-science-at-the-crossing-boundaries-for-stem-education-regional-meeting/</guid>
+      <description>I was excited to have the opportunity to present on Engaging students in science: Findings from an experience sampling method approach at the East TN STEM Hub &amp;lsquo;Crossing Boundaries for STEM Education&amp;rsquo; regional meeting and mini-conference. I liked presenting there, alongside colleagues in biology, engineering, computer science, and my home department at UTK. It reminded me of one of my favorite events at Michigan State University&amp;ndash;the Create for STEM mini-conference.</description>
+    </item>
+    
+    <item>
+      <title>Presentation on The Role of the Twitter Hashtag #NGSSchat in the Context of Science Education Reform Efforts at ASTE 2019</title>
+      <link>/posts/presentation-on-the-role-of-the-twitter-hashtag-ngsschat-in-the-context-of-science-education-reform-efforts-at-aste-2019/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/presentation-on-the-role-of-the-twitter-hashtag-ngsschat-in-the-context-of-science-education-reform-efforts-at-aste-2019/</guid>
+      <description>With Joshua Reid, Matthew Koehler, Christian Fischer, and T.J. McKenna, I presented on The Role of the Twitter Hashtag #NGSSchat in the Context of Science Education Reform Efforts at ASTE 2019.
+ The presentation is here: https://joshuamrosenberg.com/aste-19.html And a pre-print and link to the data (and code for the analysis and a whole lot more) is here: https://osf.io/9ex7k/  </description>
+    </item>
+    
+    <item>
+      <title>Writing a CV in markdown so it can be rendered as HTML, a PDF, and a Word document</title>
+      <link>/posts/creating-a-cv-while-using-blogdown-pdf-html-and-word-doc-oh-my/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/creating-a-cv-while-using-blogdown-pdf-html-and-word-doc-oh-my/</guid>
+      <description>My goal: To write a CV in one format and in a way so that it can be rendered in multiple formats I have been trying to write my CV once and have it be displayed/rendered as HTML (for this website), a PDF (for sharing), and a Word document (also for sharing - as some folks require it to be in this format).
+I have something that seems to work and so thought I would share what I did as a first attempt.</description>
+    </item>
+    
+    <item>
+      <title>Presentation on Data Science Education Dilemmas (and Opportunities)</title>
+      <link>/posts/presentation-data-science-education-dilemmas-and-opportunities/</link>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/presentation-data-science-education-dilemmas-and-opportunities/</guid>
+      <description>I had the opportunity to present on Data Science Education Dilemmas (and Opportunities) to STEM Education faculty at UT. It was a short, informal presentation, but served as a chance to pull together some ideas.
+A link to the presentation is here.</description>
+    </item>
     
     <item>
       <title>Using R Markdown and papaja with a LaTeX class to submit a conference proposal: A few notes</title>
@@ -106,8 +354,7 @@ The most important thing - a safe route! The most important thing is a safe rout
       <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/posts/aera-presentation-patterns-of-engagement-in-a-flipped-undergraduate-class-antecedents-and-outcomes-information-slides-paper-code/</guid>
-      <description>I’m presenting a second paper at AERA on patterns of (outside of class) engagement in a flipped undergraduate class with my colleagues You-kyung Lee, Kristy Robinson, John Ranellucci, Cary Roseth, and Lisa Linnenbrink-Garcia. The presentation is at 8:15 am (Sunday, 4/15) in the Millenium Broadway Hotel (Room 7.04) and is on a session on emotions, engagement, and technology (with some very interesting papers presented by co-presenters in the session!).
- Slides here Paper here Code  </description>
+      <description>I’m presenting a second paper at AERA on patterns of (outside of class) engagement in a flipped undergraduate class with my colleagues You-kyung Lee, Kristy Robinson, John Ranellucci, Cary Roseth, and Lisa Linnenbrink-Garcia. The presentation is at 8:15 am (Sunday, 4/15) in the Millenium Broadway Hotel (Room 7.04) and is on a session on emotions, engagement, and technology (with some very interesting papers presented by co-presenters in the session!).</description>
     </item>
     
     <item>
@@ -128,8 +375,7 @@ The paper is in the session “Data-Intensive Approaches to Studying Engagement 
       <guid>/posts/an-r-package-for-sensitivity-analysis-konfound/</guid>
       <description>knitr::opts_chunk$set( comment = &amp;quot;#&amp;gt;&amp;quot;, collapse = TRUE ) With Ran Xu and Ken Frank, I have worked on a Shiny interactive web application for sensitivity analysis as well as an R package for carrying out sensitivity analysis using R.
 That R package is now available on CRAN! A link to the CRAN page for it is here and the website for the package is here.
-Here is the description:
- Statistical methods that quantify the conditions necessary to alter inferences, also known as sensitivity analysis, are becoming increasingly important to a variety of quantitative sciences.</description>
+Here is the description:</description>
     </item>
     
     <item>
@@ -138,8 +384,8 @@ Here is the description:
       <pubDate>Mon, 26 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/posts/explorations-in-markov-chain-monte-carlo-mcmc/</guid>
-      <description>Introduction I’ve been interested in Markov Chain Monte Carlo (MCMC) for a little while, in part because of a paper by Tom Houslay and Alastair Wilson (2017) that shows how using output from models the way I have been can lead to results that overstate the impact of effects.
-In particular, I’m working on a project with colleagues in which we try to figure out how students’ engagement in summer STEM programs relates to changes in their interest (in STEM), controlling for their initial levels of interest.</description>
+      <description>Note that due to version-related issues the code in this post is displayed but is not excecuted/run. If you run this code, parts may not work (depending upon the version of the packages used and, potentially, other factors).
+Introduction I’ve been interested in Markov Chain Monte Carlo (MCMC) for a little while, in part because of a paper by Tom Houslay and Alastair Wilson (2017) that shows how using output from models the way I have been can lead to results that overstate the impact of effects.</description>
     </item>
     
     <item>
@@ -159,7 +405,7 @@ In a side-project (and because the data source can be used for teaching and lear
       
       <guid>/posts/introducing-tidylpa-an-r-package-for-carrying-out-latent-profile-analysis/</guid>
       <description>I’m excited to introduce tidyLPA, an R package for carrying out Latent Profile Analysis (LPA). This is the result of a collaborative project with Jennifer Schmidt, Patrick Beymer, and Rebecca Steingut, and is the result of a long period of learning about cluster analysis (see here) and, recently, model-based cluster analysis. Here, I introduce and describe LPA as a particular type of model-based cluster analysis.
-Background Latent Profile Analysis (LPA) is a statistical modeling approach for estimating distinct profiles, or groups, of variables.</description>
+Note: This post has been updated to reflect the latest version of tidyLPA</description>
     </item>
     
     <item>
@@ -198,7 +444,8 @@ In this paper published in the International Journal of Educational Research wit
       <pubDate>Sun, 17 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>/posts/modifying-an-r-function-to-use-non-standard-evaluation/</guid>
-      <description>Background Research in classrooms and schools can be complex because of all of the factors that matter. A question that often comes up when we say that we observed some pattern in data is, but did you control for X?
+      <description>Note that due to version-related issues the code in this post is displayed but is not excecuted/run.
+Background Research in classrooms and schools can be complex because of all of the factors that matter. A question that often comes up when we say that we observed some pattern in data is, but did you control for X?
 In the context of working on an approach to find out how impactful an omitted variable would need to be to invalidate an inference, we had to modify a function that worked for a single sensitivity analysis to work for many and to be easier to use.</description>
     </item>
     
@@ -209,8 +456,7 @@ In the context of working on an approach to find out how impactful an omitted va
       
       <guid>/posts/mvlri-blog-post-on-data-practices/</guid>
       <description>I have worked to design activities for students to work with authentic data sources in their science classes through a collaboration with Michigan Virtual School and the Michigan Virtual Learning Research Institute.
-As a part of this project, which was supported by their dissertation research fellowship, I hosted a webinar. I also wrote a post for the Michigan Virtual Learning Research Institute Blog: Research, Policy, Innovation &amp;amp; Networks blog.
-Here is an excerpt of the post:</description>
+As a part of this project, which was supported by their dissertation research fellowship, I hosted a webinar. I also wrote a post for the Michigan Virtual Learning Research Institute Blog: Research, Policy, Innovation &amp;amp; Networks blog.</description>
     </item>
     
     <item>
@@ -239,7 +485,7 @@ A benefit of the data being in an R package is that it is even easier to access 
       
       <guid>/posts/mvlri-webinar/</guid>
       <description>I will be hosting a webinar on Engaging students in authentic “data practices” in online science classes with Michigan Virtual Learning Research Institute, the research organization associated with Michigan’s state-wide online school. The webinar is today (10/18) at 2pm EDT and is available via https://connect.mivu.org/mvlri
- Here is a bit more information on the webinar:
+Here is a bit more information on the webinar:
  Not only in science and science education but also our everyday lives, data are powerful, but opportunities for students to think of and with data as part of their learning are limited.</description>
     </item>
     
@@ -271,7 +517,7 @@ We examine how common these profiles are in laboratory activities and on the bas
       <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>/posts/podcasts-i-do-not-miss/</guid>
-      <description>Between commuting by bicycle and working, I listen to a lot of podcasts. I listen to podcasts to learn something new, keep up with the news, and, occasionally, hear other viewpoints. I thought it would be worth sharing a few that I (almost) never miss downloading and listening to, especially those that others may not regularly hear about, are new, or are sort of niche in terms of the audience. For what it’s worth, I use Pocket Casts both on my computer and phone, as it syncs easily between them and has an easy to use interface.</description>
+      <description>Between commuting by bicycle and working, I listen to a lot of podcasts. I listen to podcasts to learn something new, keep up with the news, and, occasionally, hear other viewpoints. I thought it would be worth sharing a few that I (almost) never miss downloading and listening to, especially those that others may not regularly hear about, are new, or are sort of niche in terms of the audience.</description>
     </item>
     
     <item>
@@ -280,9 +526,9 @@ We examine how common these profiles are in laboratory activities and on the bas
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>/posts/using-mplus-from-r/</guid>
-      <description>According to the MPlus website, the R package MPlusAutomation serves three purposes:
-Creating related groups of models Running batches Extracting and tabulating model parameters and test statistics.  Because modeling involves comparing related models, (partially) automating these is compelling. It can make it easier to use model results in subsequent analyses and can cut down on copy and pasting output or results between programs.
-So I tried it and liked it; it’s well-designed.</description>
+      <description>Note that due to version-related issues the code in this post is displayed but is not excecuted/run.
+According to the MPlus website, the R package MPlusAutomation serves three purposes:
+Creating related groups of models Running batches Extracting and tabulating model parameters and test statistics.  Because modeling involves comparing related models, (partially) automating these is compelling. It can make it easier to use model results in subsequent analyses and can cut down on copy and pasting output or results between programs.</description>
     </item>
     
     <item>
@@ -444,7 +690,7 @@ I listened to an episode of the Not So Standard Deviations, in which the hosts P
       <description>Alex Lishinski and I worked on an R package over the last year or so. We are excited that it’s now available on CRAN.
 You can install the package using install.packages(&#39;clustRcompaR&#39;) (only needed first time) and load it (more on its two functions below) using library(clustRcompaR).
 Here’s a description:
- Provides an interface to perform cluster analysis on a corpus of text. Interfaces to Quanteda to assemble text corpuses easily. Deviationalizes text vectors prior to clustering using technique described by Sherin (Sherin, B.</description>
+ Provides an interface to perform cluster analysis on a corpus of text. Interfaces to Quanteda to assemble text corpuses easily.</description>
     </item>
     
     <item>
@@ -457,33 +703,12 @@ Here’s a description:
     </item>
     
     <item>
-      <title>From Wordpress to GitHub Pages</title>
-      <link>/posts/2017-01-04-from-wordpress-to-github-pages/</link>
-      <pubDate>Wed, 04 Jan 2017 11:32:40 -0500</pubDate>
-      
-      <guid>/posts/2017-01-04-from-wordpress-to-github-pages/</guid>
-      <description>I have used Wordpress for more than seven years. Over that time, I’ve used multiple shared servers, and have had a myriad of domain names.
-Most recently, my shared server at Lansing, MI-based Liquid Web ended, due to Liquid Web leaving the shared hosting business to focus only on dedicated and virtual private servers.
-I started to look for a new hosting company, and slowly started to coalesce around the idea of, well, not having one, and using GitHub Pages instead.</description>
-    </item>
-    
-    <item>
-      <title>Git what? Contributing to an open-source software project [updated]</title>
-      <link>/posts/20160818-git-what-contributing-to-an-open-source-software-project/</link>
-      <pubDate>Thu, 18 Aug 2016 16:10:05 +0000</pubDate>
-      
-      <guid>/posts/20160818-git-what-contributing-to-an-open-source-software-project/</guid>
-      <description>Git what? Contributing to an open-source software project [updated] Over the past month, I have struggled to contribute (a super small contribution - only an adaptation of an already-existing part) to an open-source software project. The process has been hard, but a good experience nonetheless with a lot of help along the way.
- </description>
-    </item>
-    
-    <item>
       <title>An examination of students</title>
       <link>/posts/20160415-an-examination-of-students-epistemic-considerations-with-an-automated-approach-at-narst2016/</link>
       <pubDate>Fri, 15 Apr 2016 09:31:38 +0000</pubDate>
       
       <guid>/posts/20160415-an-examination-of-students-epistemic-considerations-with-an-automated-approach-at-narst2016/</guid>
-      <description>An examination of students With Christina Schwarz, I presented on an examination of students’ epistemic considerations with an automated approach at the National Association for Research in Science Teaching Annual International Conference. Slides from the presentation are available here (PDF).
+      <description> An examination of students With Christina Schwarz, I presented on an examination of students’ epistemic considerations with an automated approach at the National Association for Research in Science Teaching Annual International Conference. Slides from the presentation are available here (PDF).
  </description>
     </item>
     
@@ -493,7 +718,7 @@ I started to look for a new hosting company, and slowly started to coalesce arou
       <pubDate>Wed, 23 Mar 2016 08:10:46 +0000</pubDate>
       
       <guid>/posts/20160323-presentation-on-an-introduction-to-r-for-programming-and-statistical-analysis-in-education/</guid>
-      <description>Presentation on an Introduction to R for Programming and Statistical Analysis in Education I had the opportunity to present an Introduction to R for Programming and Statistical Analysis in Education on the invitation of my colleague Mete Akcaoglu at Georgia Southern University’s College of Education. The presentation is available here.
+      <description> Presentation on an Introduction to R for Programming and Statistical Analysis in Education I had the opportunity to present an Introduction to R for Programming and Statistical Analysis in Education on the invitation of my colleague Mete Akcaoglu at Georgia Southern University’s College of Education. The presentation is available here.
  </description>
     </item>
     
@@ -503,7 +728,7 @@ I started to look for a new hosting company, and slowly started to coalesce arou
       <pubDate>Tue, 22 Mar 2016 23:09:48 +0000</pubDate>
       
       <guid>/posts/20160322-presentation-on-state-educational-twitter-hashtags-at-siteconf/</guid>
-      <description>Presentation on State Educational Twitter Hashtags at #siteconf With Matthew Koehler, Mete Akcaoglu, Spencer Greenhalgh, and Erica Hamilton, I presented on State Educational Twitter Hashtags at the Society for Information Technology and Teacher Education conference. We created an interactive web application to share the findings using R and Shiny that is available here. If you check it out then please let us know what you think.
+      <description> Presentation on State Educational Twitter Hashtags at #siteconf With Matthew Koehler, Mete Akcaoglu, Spencer Greenhalgh, and Erica Hamilton, I presented on State Educational Twitter Hashtags at the Society for Information Technology and Teacher Education conference. We created an interactive web application to share the findings using R and Shiny that is available here. If you check it out then please let us know what you think.
  </description>
     </item>
     
@@ -513,7 +738,7 @@ I started to look for a new hosting company, and slowly started to coalesce arou
       <pubDate>Fri, 06 Nov 2015 15:27:57 +0000</pubDate>
       
       <guid>/posts/20151106-slides-for-what-teachers-and-researchers-discuss-at-science-education-conferences-at-aect15/</guid>
-      <description>Slides for What Teachers and Researchers Discuss at Science Education Conferences at #AECT15 Slides for my presentation at AECT in the graduate student panel discussion on learning analytics on what teachers and researchers discuss at science education conferences are available here (in a Google Presentation).
+      <description> Slides for What Teachers and Researchers Discuss at Science Education Conferences at #AECT15 Slides for my presentation at AECT in the graduate student panel discussion on learning analytics on what teachers and researchers discuss at science education conferences are available here (in a Google Presentation).
  </description>
     </item>
     
@@ -523,7 +748,7 @@ I started to look for a new hosting company, and slowly started to coalesce arou
       <pubDate>Fri, 06 Nov 2015 10:03:06 +0000</pubDate>
       
       <guid>/posts/20151106-slides-for-an-examination-of-state-educational-twitter-hashtags/</guid>
-      <description>Slides for An Examination of State Educational Twitter Hashtags at #AECT15 Slides for my presentation with Meta Akcaoglu, Erica Hamilton, Spencer Greenhalgh, and Matthew Koehler at AECT on State Educational Twitter Hashtags are available here (in a Google Presentation).
+      <description> Slides for An Examination of State Educational Twitter Hashtags at #AECT15 Slides for my presentation with Meta Akcaoglu, Erica Hamilton, Spencer Greenhalgh, and Matthew Koehler at AECT on State Educational Twitter Hashtags are available here (in a Google Presentation).
  </description>
     </item>
     
@@ -533,8 +758,7 @@ I started to look for a new hosting company, and slowly started to coalesce arou
       <pubDate>Tue, 04 Aug 2015 19:37:29 +0000</pubDate>
       
       <guid>/posts/20150804-first-article-in-jrte/</guid>
-      <description>New article in the Journal of Research on Technology in Education My first article (in the Journal of Research on Technology in Education, JRTE) by me and Matthew J. Koehler is available as an advance online publication. If you’re interested in TPACK and want to see what I’ve been up to, then please check it out (or send me an email so I can send a copy your way).
- </description>
+      <description>New article in the Journal of Research on Technology in Education My first article (in the Journal of Research on Technology in Education, JRTE) by me and Matthew J. Koehler is available as an advance online publication. If you’re interested in TPACK and want to see what I’ve been up to, then please check it out (or send me an email so I can send a copy your way).</description>
     </item>
     
     <item>
@@ -543,7 +767,7 @@ I started to look for a new hosting company, and slowly started to coalesce arou
       <pubDate>Mon, 02 Mar 2015 17:05:10 +0500</pubDate>
       
       <guid>/posts/20150302-presentations-at-site-2015/</guid>
-      <description>Presentations at SITE 2015 I will be attending the Society for Information at Information Technology and Teacher Education 2015 Conference(SITE) this week in Las Vegas, NV. If curious, here is a list of presentations compiled by Spencer Greenhalgh and posted on Punya Mishra’s blog.
+      <description> Presentations at SITE 2015 I will be attending the Society for Information at Information Technology and Teacher Education 2015 Conference(SITE) this week in Las Vegas, NV. If curious, here is a list of presentations compiled by Spencer Greenhalgh and posted on Punya Mishra’s blog.
  </description>
     </item>
     
