@@ -61,7 +61,7 @@ C.D. Owen High School, Swannanoa, NC
 
 ## Grants
 
-### Funded (Principal Investigator [PI] or Co-PI)
+### Ongoing (Principal Investigator [PI] or Co-PI)
 
 2019-2021, PI, *Understanding the development of interest in computer science: An experience sampling approach* ($346,688). National Science Foundation. (National Science Foundation Grant No. [1937700](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1937700&HistoricalAwards=false))
 
@@ -73,7 +73,7 @@ C.D. Owen High School, Swannanoa, NC
 
 2019-2020, PI, *Planting the seeds for computer science education in East Tennessee through a research-practice partnership*. ($13,200). Community Engaged Research Seed Program, University of Tennessee, Knoxville
 
-### Funded (Senior Personnel or Consultant)
+### Ongoing (Senior Personnel or Consultant)
 
 2019-2022, Senior Personnel, *Medical entomology and geospatial analyses: Bringing innovation to teacher education and surveillance studies* ($149,611; *PI*: Rebecca Trout Fryxell). United States Department of Agriculture - Agriculture and Food Research Initiative. (USDA Grant No. 2019-68010-29119)
 

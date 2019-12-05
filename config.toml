@@ -18,9 +18,9 @@ math = true
     name = "Home"
     url = "/"
     weight = 1
-    [[menu.main]]
+[[menu.main]]
     name = "Blog"
-    url = "/posts/"
+    url = "/post/"
     weight = 2
 [[menu.main]]
     name = "CV"
