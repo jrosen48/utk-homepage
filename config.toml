@@ -27,7 +27,7 @@ math = true
     url = "/about/"
     weight = 2
 [[menu.main]]
-    name = "Research Group Website"
+    name = "Making Data Science Count (Research Group Website)"
     url = "https://makingdatasciencecount.com"
     weight = 7
 [[menu.main]]
