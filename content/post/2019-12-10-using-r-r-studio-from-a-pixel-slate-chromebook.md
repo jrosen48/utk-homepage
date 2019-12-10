@@ -12,7 +12,7 @@ I've had a [Pixel Slate](https://store.google.com/us/product/pixel_slate?gclid=C
 This was pretty easy to do (see [here](https://support.google.com/chromebook/answer/9145439?hl=en)). After doing it (it took a few minutes to download Linux, but was otherwise super straightforward), I opened up the command line interface and saw this:
 
 ```
-> 
+
 ```
 
 There are a few things I know how to do through a command line interface; one is to list all of the files and directories available, so I ran the following:
