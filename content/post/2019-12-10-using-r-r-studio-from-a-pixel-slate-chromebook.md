@@ -73,7 +73,7 @@ The tutorial notes that one shared library has to be installed, before you can r
 sudo apt-get install libxslt1-dev
 ```
 
-I *also* had to run the following, to install another shared library (h/t to [this forum answer](https://community.rstudio.com/t/installation-error-cannot-find-libsmime3-so/30646):
+I *also* had to run the following, to install another shared library (h/t to [this forum answer](https://community.rstudio.com/t/installation-error-cannot-find-libsmime3-so/30646)):
 
 ```
 sudo apt install libnss3
@@ -85,7 +85,7 @@ Now, type `rstudio` in the command line interface:
 rstudio
 ```
 
-Amazingly (to me), the R Studio application should open on your Chromebook - and be pretty snappy (so far, the functionality seems comparable to that on my Chromebook, including the ability to use git/GitHub)!
+Amazingly (to me), the R Studio application should open on your Chromebook - and be pretty snappy (so far, the functionality seems comparable to that on my Chromebook, including the ability to use git/GitHub - though that has more to do with Linux, I think, than R Studio)!
 
 You'll have to keep your Linux terminal/the command line interface open while running RStudio.
 
@@ -99,10 +99,6 @@ sudo apt-get install r-base-dev xml2 libxml2-dev libssl-dev libcurl4-openssl-dev
 
 ## fin
 
-To what end? Chromebooks can be less expensive than computers, and their operating system can be easy to use, although Chromebooks are limited by their inability to install other applications. Being able to install R and R Studio is useful (to me), but I am sure that being able to install other applications may be more useful. I am compelled by the idea of not only the Internet, but also operating systems, being able to more flexibly run a variety of applications, especially for learners, and particularly for learners to be able to do more with existing technology. 
+To what end? Chromebooks can be less expensive than (Mac or Windows) computers, and their operating system can be easy to use, although Chromebooks are limited by their inability to install other applications. Being able to install R and R Studio is useful (to me), but I am sure that being able to install other applications may be more useful. I am compelled by the idea of not only the Internet, but also operating systems, being able to more flexibly run a variety of applications, especially for learners, and particularly for learners to be able to do more with existing technology. 
 
-<<<<<<< HEAD
 *Note*: I wrote this blog post through R Studio (via blogdown) on my Chromebook!
-=======
-*Note*: I wrote this blog post through R Studio on my Chromebook!
->>>>>>> 0796a6eef80e712f670553b5c9b01e4f9bb2f7b3
