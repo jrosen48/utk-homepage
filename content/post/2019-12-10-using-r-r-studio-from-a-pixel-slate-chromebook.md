@@ -101,4 +101,4 @@ sudo apt-get install r-base-dev xml2 libxml2-dev libssl-dev libcurl4-openssl-dev
 
 To what end? Chromebooks can be less expensive than computers, and their operating system can be easy to use, although Chromebooks are limited by their inability to install other applications. Being able to install R and R Studio is useful (to me), but I am sure that being able to install other applications may be more useful. I am compelled by the idea of not only the Internet, but also operating systems, being able to more flexibly run a variety of applications, especially for learners, and particularly for learners to be able to do more with existing technology. 
 
-*Note*: I wrote this blog post through R Studio on my Chromebook!
+*Note*: I wrote this blog post through R Studio (via blogdown) on my Chromebook!
