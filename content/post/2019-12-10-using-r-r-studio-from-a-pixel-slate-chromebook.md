@@ -49,7 +49,7 @@ R
 
 You should see some text and then what looks like (and is) an R Console. Run a command or two (I ran `josh <- 4`). Quit by running the command `quit()`.
 
-# Install R Studio
+## Install R Studio
 
 First, download the **Debian 9+** version of R Studio [from R Studio's website](https://rstudio.com/products/rstudio/download/). Save it to the Linux partition, which is helpfully available/viewable directly in the file viewer for Chromebook.
 
@@ -97,7 +97,7 @@ One addition: When I tried to install the tidyverse package, I ran into an issue
 sudo apt-get install r-base-dev xml2 libxml2-dev libssl-dev libcurl4-openssl-dev unixodbc-dev
 ```
 
-## fin
+## *fin*
 
 To what end? Chromebooks can be less expensive than (Mac or Windows) computers, and their operating system can be easy to use, although Chromebooks are limited by their inability to install other applications. Being able to install R and R Studio is useful (to me), but I am sure that being able to install other applications may be more useful. 
 
