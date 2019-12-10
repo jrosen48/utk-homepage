@@ -19,30 +19,22 @@ math = true
     url = "/"
     weight = 1
 [[menu.main]]
+    name = "Blog"
+    url = "/posts/"
+    weight = 3
+[[menu.main]]
     name = "CV"
     url = "/about/"
     weight = 2
 [[menu.main]]
-    name = "Research"
-    url = "/research/"
-    weight = 3
-[[menu.main]]
-    name = "Teaching"
-    url = "/teaching/"
-    weight = 4
-[[menu.main]]
-    name = "Code"
-    url = "/code/"
-    weight = 5
-[[menu.main]]
-    name = "Categories"
-    url = "/categories/"
-    weight = 6
-[[menu.main]]
-    name = "Tags"
-    url = "/tags/"
+    name = "Making Data Science Count (Research Group Website)"
+    url = "https://makingdatasciencecount.com"
     weight = 7
+[[menu.main]]
+    name = "Blog Categories"
+    url = "/categories/"
+    weight = 4
 
 [params]
     description = "Joshua M. Rosenberg's Homepage"
-    footer = "&copy; [Joshua M. Rosenberg](https://joshuamrosenberg.com) 2015 -- 2019 | [Google Scholar](https://scholar.google.com/citations?user=nxVowRQAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Joshua_Rosenberg2) | [GitHub](https://github.com/jrosen48) | [Twitter](https://twitter.com/jrosenberg6432) | [ORCID](http://orcid.org/0000-0003-2170-0447) | [OSF](https://osf.io/xzqbc/)"
+    footer = "&copy; [Joshua M. Rosenberg](https://joshuamrosenberg.com) 2015 -- 2019 | [Google Scholar](https://scholar.google.com/citations?user=nxVowRQAAAAJ&hl=en) | [GitHub](https://github.com/jrosen48) | [ORCID](http://orcid.org/0000-0003-2170-0447) | [OSF](https://osf.io/xzqbc/)"

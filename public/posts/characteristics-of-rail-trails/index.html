@@ -3,10 +3,10 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Using characteristics of rail-trails to predict how they are rated | Joshua M. Rosenberg</title>
+    <title>Using characteristics of rail-trails to predict how they are rated | Joshua M. Rosenberg, Ph.D.</title>
     <link rel="stylesheet" href="/css/style.css" />
     <link rel="stylesheet" href="/css/fonts.css" />
-    <link href="//YOUR-CDN-LINK/styles/github.min.css" rel="stylesheet">
+    
   </head>
 
   <body>
@@ -15,13 +15,13 @@
       
       <li><a href="/">Home</a></li>
       
-      <li><a href="/blog/">Blog</a></li>
+      <li><a href="/about/">CV</a></li>
       
-      <li><a href="/about/">About and CV</a></li>
+      <li><a href="/posts/">Blog</a></li>
       
-      <li><a href="/research/">Research</a></li>
+      <li><a href="/categories/">Blog Categories</a></li>
       
-      <li><a href="/teaching/">Teaching</a></li>
+      <li><a href="https://makingdatasciencecount.com">Making Data Science Count (Research Group Website)</a></li>
       
     </ul>
     <hr/>
@@ -34,6 +34,9 @@
 </div>
 
 <main>
+
+
+
 <div id="catching-up" class="section level1">
 <h1>Catching up</h1>
 <p>I wrote a blog post (one that, to be honest, I liked a lot) on what the best rail-trails are in Michigan (<a href="https://jrosen48.github.io/2017/07/24/michigan-rail-trails-and-pathways-through-data/">here</a>). A friend and colleague at MSU, Andy, noticed that paved trails seemed to be rated higher, and this as well as my cfriend and colleague Kristy’s comment about how we can use the output of the the previous post sparked my curiosity in trying to figure out what characteristics predict how highly (or not highly) rated trails are.</p>
@@ -44,7 +47,8 @@ library(stringr)
 library(sjPlot)
 library(forcats)
 
-df &lt;- read_rds(&quot;/Users/joshuarosenberg/Dropbox/1_Research/railtrail/data-raw/rds_files/mi.rds&quot;) # this is a file with the rail-trail data - you can get it from here: https://github.com/jrosen48/railtrail
+f &lt;- here::here(&quot;static&quot;, &quot;data&quot;, &quot;mi.rds&quot;)
+df &lt;- read_rds(f) # this is a file with the rail-trail data - you can get it from here: https://github.com/jrosen48/railtrail
 
 df &lt;- df %&gt;% 
     unnest(raw_reviews) %&gt;% 
@@ -93,175 +97,39 @@ df$surface_rc &lt;- fct_relevel(df$surface_rc,
 <p>Similarly, the <code>B</code> for rail-trail compared to greenways is small (and the <code>p</code> is far greater than <code>0.05</code>) as is the case for other surfaces compared to crushed stone (<code>B</code> = <code>-0.35</code>, <code>p</code> = <code>0.318</code>), but paved surfaces do seem different. They are associated with a rating almost half a point (<code>B</code> = <code>0.37</code>, <code>p</code> = <code>0.037</code>) higher than other trails, and almost a whole point (<code>0.72</code>) higher than other surfaces.</p>
 <pre class="r"><code>m2 &lt;- lmer(raw_review ~ 1 + distance + category + surface_rc + (1|trail_name), data = df)
 
-sjt.lmer(m2, p.kr = F, show.re.var = F, show.ci = F, show.se = T)</code></pre>
-<table style="border-collapse:collapse; border:none;border-bottom:double;">
-<td style="padding:0.2cm; border-top:double;">
- 
-</td>
-<td style="border-bottom:1px solid; padding-left:0.5em; padding-right:0.5em; border-top:double;">
- 
-</td>
-<td style="padding:0.2cm; text-align:center; border-bottom:1px solid; border-top:double;" colspan="3">
-raw_review
-</td>
-</tr>
-<tr>
-<td style="padding:0.2cm; font-style:italic;">
- 
-</td>
-<td style="padding-left:0.5em; padding-right:0.5em; font-style:italic;">
- 
-</td>
-<td style="padding:0.2cm; text-align:center; font-style:italic; ">
-B
-</td>
-<td style="padding:0.2cm; text-align:center; font-style:italic; ">
-std. Error
-</td>
-<td style="padding:0.2cm; text-align:center; font-style:italic; ">
-p
-</td>
-</tr>
-<tr>
-<td colspan="5" style="padding:0.2cm; text-align:left; border-top:1px solid; font-weight:bold; text-align:left;">
-Fixed Parts
-</td>
-</tr>
-<tr>
-<td style="padding:0.2cm; text-align:left;">
-(Intercept)
-</td>
-<td style="padding-left:0.5em; padding-right:0.5em; ">
- 
-</td>
-<td style="padding:0.2cm; text-align:center; ">
-3.82
-</td>
-<td style="padding:0.2cm; text-align:center; ">
-0.22
-</td>
-<td style="padding:0.2cm; text-align:center; ">
-&lt;.001
-</td>
-</tr>
-<tr>
-<td style="padding:0.2cm; text-align:left;">
-distance
-</td>
-<td style="padding-left:0.5em; padding-right:0.5em;">
- 
-</td>
-<td style="padding:0.2cm; text-align:center; ">
--0.00
-</td>
-<td style="padding:0.2cm; text-align:center; ">
-0.01
-</td>
-<td style="padding:0.2cm; text-align:center; ">
-.970
-</td>
-</tr>
-<tr>
-<td style="padding:0.2cm; text-align:left;">
-category (Rail-Trail)
-</td>
-<td style="padding-left:0.5em; padding-right:0.5em;">
- 
-</td>
-<td style="padding:0.2cm; text-align:center; ">
--0.04
-</td>
-<td style="padding:0.2cm; text-align:center; ">
-0.17
-</td>
-<td style="padding:0.2cm; text-align:center; ">
-.794
-</td>
-</tr>
-<tr>
-<td style="padding:0.2cm; text-align:left;">
-surface_rc (Other)
-</td>
-<td style="padding-left:0.5em; padding-right:0.5em;">
- 
-</td>
-<td style="padding:0.2cm; text-align:center; ">
--0.25
-</td>
-<td style="padding:0.2cm; text-align:center; ">
-0.34
-</td>
-<td style="padding:0.2cm; text-align:center; ">
-.469
-</td>
-</tr>
-<tr>
-<td style="padding:0.2cm; text-align:left;">
-surface_rc (Paved)
-</td>
-<td style="padding-left:0.5em; padding-right:0.5em;">
- 
-</td>
-<td style="padding:0.2cm; text-align:center; ">
-0.41
-</td>
-<td style="padding:0.2cm; text-align:center; ">
-0.18
-</td>
-<td style="padding:0.2cm; text-align:center; ">
-.023
-</td>
-</tr>
-<tr>
-<td colspan="5" style="padding:0.2cm; padding-top:0.1cm; padding-bottom:0.1cm; text-align:left; font-weight:bold; text-align:left; padding-top:0.5em;">
-Random Parts
-</td>
-</tr>
-<tr>
-<td style="padding:0.2cm; padding-top:0.1cm; padding-bottom:0.1cm; text-align:left;">
-N<sub>trail_name</sub>
-</td>
-<td style="padding-left:0.5em; padding-right:0.5em;">
- 
-</td>
-<td style="padding:0.2cm; text-align:center; padding-top:0.1cm; padding-bottom:0.1cm;" colspan="3">
-116
-</td>
-</tr>
-<tr>
-<td style="padding:0.2cm; text-align:left; padding-top:0.1cm; padding-bottom:0.1cm;">
-ICC<sub>trail_name</sub>
-</td>
-<td style="padding-left:0.5em; padding-right:0.5em;">
- 
-</td>
-<td style="padding:0.2cm; text-align:center; padding-top:0.1cm; padding-bottom:0.1cm;" colspan="3">
-0.399
-</td>
-</tr>
-<tr>
-<td style="padding:0.2cm; padding-top:0.1cm; padding-bottom:0.1cm; text-align:left; border-top:1px solid;">
-Observations
-</td>
-<td style="padding-left:0.5em; padding-right:0.5em; border-top:1px solid;">
- 
-</td>
-<td style="padding:0.2cm; padding-top:0.1cm; padding-bottom:0.1cm; text-align:center; border-top:1px solid;" colspan="3">
-2649
-</td>
-</tr>
-<tr>
-<td style="padding:0.2cm; text-align:left; padding-top:0.1cm; padding-bottom:0.1cm;">
-R<sup>2</sup> / Ω<sub>0</sub><sup>2</sup>
-</td>
-<td style="padding-left:0.5em; padding-right:0.5em;">
- 
-</td>
-<td style="padding:0.2cm; text-align:center; padding-top:0.1cm; padding-bottom:0.1cm;" colspan="3">
-.344 / .342
-</td>
-</tr>
-</table>
+summary(m2)</code></pre>
+<pre><code>## Linear mixed model fit by REML [&#39;lmerMod&#39;]
+## Formula: 
+## raw_review ~ 1 + distance + category + surface_rc + (1 | trail_name)
+##    Data: df
+## 
+## REML criterion at convergence: 7599.3
+## 
+## Scaled residuals: 
+##     Min      1Q  Median      3Q     Max 
+## -4.2026 -0.4539  0.1829  0.6112  2.0698 
+## 
+## Random effects:
+##  Groups     Name        Variance Std.Dev.
+##  trail_name (Intercept) 0.5349   0.7314  
+##  Residual               0.8319   0.9121  
+## Number of obs: 2757, groups:  trail_name, 116
+## 
+## Fixed effects:
+##                      Estimate Std. Error t value
+## (Intercept)         3.8056858  0.2156471  17.648
+## distance           -0.0007626  0.0052627  -0.145
+## categoryRail-Trail -0.0171616  0.1662643  -0.103
+## surface_rcOther    -0.2437101  0.3393114  -0.718
+## surface_rcPaved     0.4144877  0.1815039   2.284
+## 
+## Correlation of Fixed Effects:
+##             (Intr) distnc ctgR-T srfc_O
+## distance    -0.488                     
+## ctgryRl-Trl -0.466 -0.267              
+## srfc_rcOthr -0.403  0.253 -0.007       
+## surfc_rcPvd -0.782  0.400  0.106  0.401</code></pre>
+<pre class="r"><code># sjt.lmer(m2, p.kr = F, show.re.var = F, show.ci = F, show.se = T)</code></pre>
 <p>Note that the arguments to <code>sjt.lmer()</code> only have to do with what output is produced.</p>
 </div>
 <div id="so-where-are-we-really-riding-next" class="section level1">
@@ -273,7 +141,7 @@ R<sup>2</sup> / Ω<sub>0</sub><sup>2</sup>
 
   <footer>
   
-<script>
+<script type="application/javascript">
 var doNotTrack = false;
 if (!doNotTrack) {
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -286,23 +154,9 @@ if (!doNotTrack) {
 }
 </script>
 
-
-<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/r.min.js"></script>
-
-<script>
-hljs.configure({languages: []});
-hljs.initHighlightingOnLoad();
-</script>
-
-<script src="//yihui.name/js/math-code.js"></script>
-<script async
-src="//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js">
-</script>
-
   
   <hr/>
-  &copy; <a href="https://joshuamrosenberg.com">Joshua M. Rosenberg</a> 2015 &ndash; 2018 | <a href="https://scholar.google.com/citations?user=nxVowRQAAAAJ&amp;hl=en">Google Scholar</a> | <a href="https://www.researchgate.net/profile/Joshua_Rosenberg2">ResearchGate</a> | <a href="https://github.com/jrosen48">Github</a> | <a href="https://twitter.com/jrosenberg6432">Twitter</a>
+  &copy; <a href="https://joshuamrosenberg.com">Joshua M. Rosenberg</a> 2015 &ndash; 2019 | <a href="https://scholar.google.com/citations?user=nxVowRQAAAAJ&amp;hl=en">Google Scholar</a> | <a href="https://www.researchgate.net/profile/Joshua_Rosenberg2">ResearchGate</a> | <a href="https://github.com/jrosen48">GitHub</a> | <a href="https://twitter.com/jrosenberg6432">Twitter</a> | <a href="http://orcid.org/0000-0003-2170-0447">ORCID</a> | <a href="https://osf.io/xzqbc/">OSF</a>
   
   </footer>
   </body>

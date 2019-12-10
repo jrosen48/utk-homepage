@@ -1,3 +1,6 @@
+\PassOptionsToPackage{unicode=true}{hyperref} % options for packages loaded elsewhere
+\PassOptionsToPackage{hyphens}{url}
+%
 \documentclass[14,]{article}
 \usepackage{lmodern}
 \usepackage{amssymb,amsmath}
@@ -6,28 +9,31 @@
 \ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provides euro and other symbols
 \else % if luatex or xelatex
-  \ifxetex
-    \usepackage{mathspec}
-  \else
-    \usepackage{fontspec}
-  \fi
+  \usepackage{unicode-math}
   \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
 \fi
 % use upquote if available, for straight quotes in verbatim environments
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
 % use microtype if available
 \IfFileExists{microtype.sty}{%
-\usepackage{microtype}
+\usepackage[]{microtype}
 \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
 }{}
-\usepackage[margin=1in]{geometry}
+\IfFileExists{parskip.sty}{%
+\usepackage{parskip}
+}{% else
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+}
 \usepackage{hyperref}
-\hypersetup{unicode=true,
+\hypersetup{
             pdftitle={Joshua M. Rosenberg},
             pdfborder={0 0 0},
             breaklinks=true}
 \urlstyle{same}  % don't use monospace font for urls
+\usepackage[margin=1in]{geometry}
 \usepackage{graphicx,grffile}
 \makeatletter
 \def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
@@ -37,12 +43,6 @@
 % margins by default, and it is still possible to overwrite the defaults
 % using explicit options in \includegraphics[width, height, ...]{}
 \setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
-\IfFileExists{parskip.sty}{%
-\usepackage{parskip}
-}{% else
-\setlength{\parindent}{0pt}
-\setlength{\parskip}{6pt plus 2pt minus 1pt}
-}
 \setlength{\emergencystretch}{3em}  % prevent overfull lines
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
@@ -57,30 +57,36 @@
 \renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
 \fi
 
-%%% Use protect on footnotes to avoid problems with footnotes in titles
+% set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\usepackage{etoolbox}
+\makeatletter
+\providecommand{\subtitle}[1]{% add subtitle to \maketitle
+  \apptocmd{\@title}{\par {\large #1 \par}}{}{}
+}
+\makeatother
+% https://github.com/rstudio/rmarkdown/issues/337
 \let\rmarkdownfootnote\footnote%
 \def\footnote{\protect\rmarkdownfootnote}
 
-%%% Change title format to be more compact
+% https://github.com/rstudio/rmarkdown/pull/252
 \usepackage{titling}
-
-% Create subtitle command for use in maketitle
-\providecommand{\subtitle}[1]{
-  \posttitle{
-    \begin{center}\large#1\end{center}
-    }
-}
-
 \setlength{\droptitle}{-2em}
 
-  \title{Joshua M. Rosenberg}
-    \pretitle{\vspace{\droptitle}\centering\huge}
-  \posttitle{\par}
-    \author{}
-    \preauthor{}\postauthor{}
-    \date{}
-    \predate{}\postdate{}
-  
+\pretitle{\vspace{\droptitle}\centering\huge}
+\posttitle{\par}
+
+\preauthor{\centering\large\emph}
+\postauthor{\par}
+
+\predate{\centering\large\emph}
+\postdate{\par}
+
+\title{Joshua M. Rosenberg}
+\date{}
 
 \begin{document}
 \maketitle
@@ -147,9 +153,9 @@ C.D. Owen High School, Swannanoa, NC
 \hypertarget{grants}{%
 \subsection{Grants}\label{grants}}
 
-\hypertarget{funded-principal-investigator-pi-or-co-pi}{%
-\subsubsection{Funded (Principal Investigator {[}PI{]} or
-Co-PI)}\label{funded-principal-investigator-pi-or-co-pi}}
+\hypertarget{ongoing-principal-investigator-pi-or-co-pi}{%
+\subsubsection{Ongoing (Principal Investigator {[}PI{]} or
+Co-PI)}\label{ongoing-principal-investigator-pi-or-co-pi}}
 
 2019-2021, PI, \emph{Understanding the development of interest in
 computer science: An experience sampling approach} (\$346,688). National
@@ -166,7 +172,7 @@ Grant No.
 2019-2022, Co-PI, \emph{Advancing computational grounded theory for
 audiovisual data from STEM classrooms} (\$1,313,855; \emph{PI}:
 Christina Krist, University of Illinois Urbana-Champaign; University of
-Tennessee, Knoxville subcontract: \$101,469)). National Science
+Tennessee, Knoxville subcontract: \$101,469). National Science
 Foundation. (National Science Foundation Grant No.
 \href{https://www.nsf.gov/awardsearch/showAward?AWD_ID=1920796\&HistoricalAwards=false}{1920796})
 
@@ -178,19 +184,15 @@ in East Tennessee through a research-practice partnership}. (\$13,200).
 Community Engaged Research Seed Program, University of Tennessee,
 Knoxville
 
-2018-2019, Co-PI, \emph{Exploring how beginning elementary mathematics
-teachers seek out resources through social media} (\$8,820), Herman and
-Rasiej Math Initiative at the University of Southern California (PI:
-Stephen Aguilar)
+\hypertarget{ongoing-senior-personnel-or-consultant}{%
+\subsubsection{Ongoing (Senior Personnel or
+Consultant)}\label{ongoing-senior-personnel-or-consultant}}
 
-\hypertarget{funded-senior-personnel-or-consultant}{%
-\subsubsection{Funded (Senior Personnel or
-Consultant)}\label{funded-senior-personnel-or-consultant}}
-
-2019-2022, Senior Personnel, \emph{Bringing innovation to teacher
-education and surveillance studies}, United States Department of
-Agriculture - Agriculture and Food Research Initiative (\$149,611;
-\emph{PI}: Rebecca Trout Fryxell)
+2019-2022, Senior Personnel, \emph{Medical entomology and geospatial
+analyses: Bringing innovation to teacher education and surveillance
+studies} (\$149,611; \emph{PI}: Rebecca Trout Fryxell). United States
+Department of Agriculture - Agriculture and Food Research Initiative.
+(USDA Grant No.~2019-68010-29119)
 
 2017-2020, Consultant, \emph{Profiles of science engagement: Broadening
 participation by understanding individual and contextual influences}
@@ -202,21 +204,14 @@ participation by understanding individual and contextual influences}
 2013, PI, \emph{Basic biology for everyone} (\$2,000), Versal Foundation
 Grant
 
-\hypertarget{fellowships-and}{%
-\subsection{Fellowships and}\label{fellowships-and}}
+\hypertarget{fellowships-and-awards}{%
+\subsection{Fellowships and Awards}\label{fellowships-and-awards}}
 
 2019-2020, Initiative for the Future Faculty Development Program,
 University of Tennessee, Knoxville
 
-2019, Open Publishing Support Fund, University of Tennessee Libraries
-and Office of Research and Engagement, University of Tennessee,
-Knoxville
-
 2019, Finalist, Association for Science Teacher Education John C. Park
 National Technology Leadership Institute Fellowship
-
-2018, Foreign Travel Award, Office of Research and Engagement,
-University of Tennessee, Knoxville (UTK)
 
 2017, Delia Koo Global Travel Fellowship, Michigan State University
 (MSU)
@@ -262,6 +257,10 @@ equally.
 \hypertarget{peer-reviewed-journal-articles}{%
 \subsubsection{Peer-Reviewed Journal
 Articles}\label{peer-reviewed-journal-articles}}
+
+\hangindent=2em Rosenberg, J. M., Edwards, A., \& Chen, B. (in press).
+Tools and strategies for engaging students in analyzing and interpreting
+complex data sources. \emph{The Science Teacher}.
 
 \hangindent=2em Xu, R., Frank, K. A., Maroulis, S., \& Rosenberg, J. M.
 (2019). konfound: Command to quantify robustness of causal inferences.
@@ -361,22 +360,21 @@ review. \emph{Journal of Research on Technology in Education, 47},
 \subsubsection{Book Chapters}\label{book-chapters}}
 
 \hangindent=2em Rosenberg, J. M., Lawson, M. A., Anderson, D. J., \&
-Rutherford, T. (forthcoming). In E. Romero-Hall (Ed.), \emph{Research
-Methods in Learning Design \& Technology.}, Data science dilemmas for
-teaching research methods in learning design and technology. Routledge:
-New York, NY.
+Rutherford, T. (accepted pending minor revisions). In E. Romero-Hall
+(Ed.), \emph{Research Methods in Learning Design \& Technology.}, Data
+science dilemmas for teaching research methods in learning design and
+technology. Routledge: New York, NY.
 
 \hangindent=2em Greenhalgh, S. P., Staudt Willet, B., Rosenberg, J. M.,
-\& Koehler, M. J. (forthcoming). In E. Romero-Hall (Ed.), \emph{Research
-Methods in Learning Design \& Technology.}, Lessons learned from
-applying Twitter research methods to educational technology phenomena.
-Routledge: New York, NY.
+\& Koehler, M. J. (accepted pending minor revisions). In E. Romero-Hall
+(Ed.), \emph{Research Methods in Learning Design \& Technology.},
+Lessons learned from applying Twitter research methods to educational
+technology phenomena. Routledge: New York, NY.
 
-\hangindent=2em Dai, T., Rosenberg, J. M., \& Lawson, M. A.
-(forthcoming). Data representation. In T. L. Good \& M. McCaslin
-(\emph{Eds.}), Educational Psychology Section; D. Fisher (\emph{Ed.}),
-Routledge Encyclopedia of Education (Online). Taylor \& Francis: New
-York, NY.
+\hangindent=2em Dai, T., Rosenberg, J. M., \& Lawson, M. A. (in press).
+Data representation. In T. L. Good \& M. McCaslin (\emph{Eds.}),
+Educational Psychology Section; D. Fisher (\emph{Ed.}), Routledge
+Encyclopedia of Education (Online). Taylor \& Francis: New York, NY.
 
 \hangindent=2em Eidelman, R., Rosenberg, J. M. ,\& Shwartz, Y. (2019).
 Assessing the interaction between self-regulated learning (SRL) profiles
@@ -573,6 +571,18 @@ Theses. (Proquest No.~10747232)
 \hypertarget{peer-reviewed-conference-presentations}{%
 \subsubsection{Peer-Reviewed Conference
 Presentations}\label{peer-reviewed-conference-presentations}}
+
+\hangindent=2em Rosenberg, J. M., \& Lishinski, A. (2020, March).
+\emph{Accruing Interest: What experiences contribute to students
+developing a sustained interest in computer science over time?}
+Lightning talk at the Special Interest Group on Computer Science
+Education Technical Sympsosium, Portland, OR.
+
+\hangindent=2em Lishinski, A., \& Rosenberg, J. M. (2020, March).
+\emph{Variable interest rate: What experiences explain differences in
+interest in computer science among students?} Birds of a feather
+presentation at the Special Interest Group on Computer Science Education
+Technical Sympsosium, Portland, OR.
 
 \hangindent=2em Rosenberg, J. M., Reid, J., Dyer, E., Koehler, M. J.,
 Fischer, C., \& McKenna, T. J. (2020, April). A new context for
@@ -1167,7 +1177,7 @@ Reviews}\label{ad-hoc-journal-article-reviews}}
 \item
   Journal of the Learning Sciences, 2019\\
 \item
-  Journal of Open Source Education, 2019\\
+  Journal of Open Source Education, 2019 (2)
 \item
   Journal of Open Source Software, 2018\\
 \item
@@ -1387,6 +1397,5 @@ Association for the Advancement of Computing in Education, 2012 -
 Present\\
 Association for Science Teacher Education, 2018 - Present\\
 National Association for Research in Science Teaching, 2015 - Present
-
 
 \end{document}

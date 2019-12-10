@@ -13,29 +13,29 @@
     
     <item>
       <title>Finding the top rail-trails in each state using mixed effects models</title>
-      <link>/blog/find-the-top-rail-trails-in-each-state/</link>
+      <link>/posts/find-the-top-rail-trails-in-each-state/</link>
       <pubDate>Thu, 22 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/blog/find-the-top-rail-trails-in-each-state/</guid>
+      <guid>/posts/find-the-top-rail-trails-in-each-state/</guid>
       <description>Outside of education, one of my interests is cycling, and one of my favorite ways to cycle is on rail-trails, pathways and greenways that are converted from former railroad tracks.
 In a side-project (and because the data source can be used for teaching and learning about complex, nested data), I collected information from the TrailLink website. I’ve blogged about this data here and here to find out what the best rail-trails in Michigan are and to find out what the characteristics of the best rail-trails are, respectively.</description>
     </item>
     
     <item>
       <title>Using characteristics of rail-trails to predict how they are rated</title>
-      <link>/blog/characteristics-of-rail-trails/</link>
+      <link>/posts/characteristics-of-rail-trails/</link>
       <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/blog/characteristics-of-rail-trails/</guid>
+      <guid>/posts/characteristics-of-rail-trails/</guid>
       <description>Catching up I wrote a blog post (one that, to be honest, I liked a lot) on what the best rail-trails are in Michigan (here). A friend and colleague at MSU, Andy, noticed that paved trails seemed to be rated higher, and this as well as my cfriend and colleague Kristy’s comment about how we can use the output of the the previous post sparked my curiosity in trying to figure out what characteristics predict how highly (or not highly) rated trails are.</description>
     </item>
     
     <item>
       <title>What are the best rail-trails in Michigan?</title>
-      <link>/blog/michigan-rail-trails-and-pathways-through-data/</link>
+      <link>/posts/michigan-rail-trails-and-pathways-through-data/</link>
       <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/blog/michigan-rail-trails-and-pathways-through-data/</guid>
+      <guid>/posts/michigan-rail-trails-and-pathways-through-data/</guid>
       <description>Background I was curious about what rail trails were the best in Michigan, and so to figure out an answer, I checked out the TrailLink website, sponsored by the Rails-to-Trails Conservancy. I had just purchased a copy of their book Rail-Trails Michigan and Wisconsin, and wanted to see whether I could learn more from the website.
 To start, I checked whether they had a way to access the reviews on the site through an API.</description>
     </item>

@@ -3,10 +3,10 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>prcr update | Joshua M. Rosenberg</title>
+    <title>prcr update | Joshua M. Rosenberg, Ph.D.</title>
     <link rel="stylesheet" href="/css/style.css" />
     <link rel="stylesheet" href="/css/fonts.css" />
-    <link href="//YOUR-CDN-LINK/styles/github.min.css" rel="stylesheet">
+    
   </head>
 
   <body>
@@ -15,13 +15,13 @@
       
       <li><a href="/">Home</a></li>
       
-      <li><a href="/blog/">Blog</a></li>
+      <li><a href="/about/">CV</a></li>
       
-      <li><a href="/about/">About and CV</a></li>
+      <li><a href="/posts/">Blog</a></li>
       
-      <li><a href="/research/">Research</a></li>
+      <li><a href="/categories/">Blog Categories</a></li>
       
-      <li><a href="/teaching/">Teaching</a></li>
+      <li><a href="https://makingdatasciencecount.com">Making Data Science Count (Research Group Website)</a></li>
       
     </ul>
     <hr/>
@@ -34,6 +34,9 @@
 </div>
 
 <main>
+
+
+
 <p>The R package for person-oriented analysis (<a href="https://github.com/jrosen48/prcr">prcr</a>) is updated (it’s now version 0.1.4).</p>
 <p>In particular, it was not clear how to use the profile assignments (i.e., what cluster each response is in) in subsequent analyses. So, the update now returns two different representations of the profile assignments, or which profile is associated with each observation: a) the original “data.frame” with the profile assignment added in one variable and b) the original “data.frame” with the profile assignments added in dummy-coded form (i.e., one variable for each profile which is “1” when the observation is associated with the profile and “0” otherwise).</p>
 <p>This required changing how the variables used to create the profiles are specified. While before every variable in the “data.frame” was used, so subsetting the “data.frame” before using it, now the whole “data.frame” is the first argument to “create_profiles()”, and variable used to create the profiles are named (unquoted).</p>
@@ -56,7 +59,7 @@ two_profile_solution$data_with_dummy_codes</code></pre>
 
   <footer>
   
-<script>
+<script type="application/javascript">
 var doNotTrack = false;
 if (!doNotTrack) {
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -69,23 +72,9 @@ if (!doNotTrack) {
 }
 </script>
 
-
-<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/r.min.js"></script>
-
-<script>
-hljs.configure({languages: []});
-hljs.initHighlightingOnLoad();
-</script>
-
-<script src="//yihui.name/js/math-code.js"></script>
-<script async
-src="//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js">
-</script>
-
   
   <hr/>
-  &copy; <a href="https://joshuamrosenberg.com">Joshua M. Rosenberg</a> 2015 &ndash; 2018 | <a href="https://scholar.google.com/citations?user=nxVowRQAAAAJ&amp;hl=en">Google Scholar</a> | <a href="https://www.researchgate.net/profile/Joshua_Rosenberg2">ResearchGate</a> | <a href="https://github.com/jrosen48">Github</a> | <a href="https://twitter.com/jrosenberg6432">Twitter</a>
+  &copy; <a href="https://joshuamrosenberg.com">Joshua M. Rosenberg</a> 2015 &ndash; 2019 | <a href="https://scholar.google.com/citations?user=nxVowRQAAAAJ&amp;hl=en">Google Scholar</a> | <a href="https://www.researchgate.net/profile/Joshua_Rosenberg2">ResearchGate</a> | <a href="https://github.com/jrosen48">GitHub</a> | <a href="https://twitter.com/jrosenberg6432">Twitter</a> | <a href="http://orcid.org/0000-0003-2170-0447">ORCID</a> | <a href="https://osf.io/xzqbc/">OSF</a>
   
   </footer>
   </body>

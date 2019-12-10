@@ -3,7 +3,7 @@ title: "Review of 'What’s Worth Teaching: Rethinking Curriculum in the Age of 
 author: ~
 date: '2017-11-07'
 slug: review-of-what-s-worth-teaching-rethinking-curriculum-in-the-age-of-technology
-categories: []
+categories: [publication]
 tags: []
 description: Desc
 meta_img: /images/image.jpg

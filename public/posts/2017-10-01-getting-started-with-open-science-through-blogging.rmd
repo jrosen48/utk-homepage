@@ -3,8 +3,8 @@ title: Getting started with 'open science' through blogging
 author: ~
 date: '2017-10-01'
 slug: getting-started-with-open-science-through-blogging
-categories: []
-tags: []
+categories: [r]
+tags: [open-science]
 description: Desc
 meta_img: /images/image.jpg
 ---

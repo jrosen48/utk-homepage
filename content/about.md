@@ -61,40 +61,33 @@ C.D. Owen High School, Swannanoa, NC
 
 ## Grants
 
-### Funded (Principal Investigator [PI] or Co-PI)
+### Ongoing (Principal Investigator [PI] or Co-PI)
 
 2019-2021, PI, *Understanding the development of interest in computer science: An experience sampling approach* ($346,688). National Science Foundation. (National Science Foundation Grant No. [1937700](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1937700&HistoricalAwards=false))
 
 2019-2021, Co-PI, *CS for Appalachia: A research-practice partnership for integrating computer science into East Tennessee schools* ($252,453; *PI*: Lynn Hodge, University of Tennessee, Knoxville). National Science Foundation. (National Science Foundation Grant No. [1923509](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1923509&HistoricalAwards=false))
 
-2019-2022, Co-PI, *Advancing computational grounded theory for audiovisual data from STEM classrooms* ($1,313,855; *PI*: Christina Krist, University of Illinois Urbana-Champaign; University of Tennessee, Knoxville subcontract: $101,469)). National Science Foundation. (National Science Foundation Grant No. [1920796](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1920796&HistoricalAwards=false))
+2019-2022, Co-PI, *Advancing computational grounded theory for audiovisual data from STEM classrooms* ($1,313,855; *PI*: Christina Krist, University of Illinois Urbana-Champaign; University of Tennessee, Knoxville subcontract: $101,469). National Science Foundation. (National Science Foundation Grant No. [1920796](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1920796&HistoricalAwards=false))
 
 2020, Southeastern Conference (SEC) Visiting Faculty Travel Grant Program ($702)
 
 2019-2020, PI, *Planting the seeds for computer science education in East Tennessee through a research-practice partnership*. ($13,200). Community Engaged Research Seed Program, University of Tennessee, Knoxville
 
-2018-2019, Co-PI, *Exploring how beginning elementary mathematics teachers seek out resources through social media* ($8,820), Herman and Rasiej Math Initiative at the University of Southern California (PI: Stephen Aguilar)
+### Ongoing (Senior Personnel or Consultant)
 
-### Funded (Senior Personnel or Consultant)
-
-2019-2022, Senior Personnel, *Bringing innovation to teacher education and surveillance studies*, United States Department of Agriculture - Agriculture and Food Research Initiative (*PI*: Rebecca Trout Fryxell)
+2019-2022, Senior Personnel, *Medical entomology and geospatial analyses: Bringing innovation to teacher education and surveillance studies* ($149,611; *PI*: Rebecca Trout Fryxell). United States Department of Agriculture - Agriculture and Food Research Initiative. (USDA Grant No. 2019-68010-29119)
 
 2017-2020, Consultant, *Profiles of science engagement: Broadening participation by understanding individual and contextual influences* ($499,927; *PI*: Jennifer Schmidt). National Science Foundation.
 
-
 ### Completed
 
-2013, PI, *Basic biology for bveryone* ($2,000), Versal Foundation Grant
+2013, PI, *Basic biology for everyone* ($2,000), Versal Foundation Grant
 
 ## Fellowships and Awards
 
 2019-2020, Initiative for the Future Faculty Development Program, University of Tennessee, Knoxville
 
-2019, Open Publishing Support Fund, University of Tennessee Libraries and Office of Research and Engagement, University of Tennessee, Knoxville
-
 2019, Finalist, Association for Science Teacher Education John C. Park National Technology Leadership Institute Fellowship
-
-2018, Foreign Travel Award, Office of Research and Engagement, University of Tennessee, Knoxville (UTK) 
 
 2017, Delia Koo Global Travel Fellowship, Michigan State University (MSU)
 
@@ -125,6 +118,8 @@ C.D. Owen High School, Swannanoa, NC
 Bovee, E. A., Estrellado, R. A., Motsipak, J., Rosenberg, J. M., & Velásquez, I. C. (under contract). *Data science in education using R*. London, England: Routledge. *Nb.* All authors contributed equally.
 
 ### Peer-Reviewed Journal Articles
+
+Rosenberg, J. M., Edwards, A., & Chen, B. (in press). Tools and strategies for engaging students in analyzing and interpreting complex data sources. *The Science Teacher*. <a href = "https://joshuamrosenberg.com/publications/rosenberg-edwards-chen-tst.pdf"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> 
 
 Xu, R., Frank, K. A., Maroulis, S., & Rosenberg, J. M. (2019). konfound: Command to quantify robustness of causal inferences. *The Stata Journal, 19*(3), 523-550. https://journals.sagepub.com/doi/full/10.1177/1536867X19874223
 
@@ -161,11 +156,11 @@ Rosenberg, J. M., & Koehler, M. J. (2015). Context and Technological Pedagogical
 
 ### Book Chapters
 
-Rosenberg, J. M., Lawson, M. A., Anderson, D. J., & Rutherford, T. (forthcoming). In E. Romero-Hall (Ed.), *Research Methods in Learning Design & Technology.*, Data science dilemmas for teaching research methods in learning design and technology. Routledge: New York, NY.
+Rosenberg, J. M., Lawson, M. A., Anderson, D. J., & Rutherford, T. (accepted pending minor revisions). In E. Romero-Hall (Ed.), *Research Methods in Learning Design & Technology.*, Data science dilemmas for teaching research methods in learning design and technology. Routledge: New York, NY.
 
-Greenhalgh, S. P., Staudt Willet, B., Rosenberg, J. M., & Koehler, M. J. (forthcoming). In E. Romero-Hall (Ed.), *Research Methods in Learning Design & Technology.*, Lessons learned from applying Twitter research methods to educational technology phenomena. Routledge: New York, NY.
+Greenhalgh, S. P., Staudt Willet, B., Rosenberg, J. M., & Koehler, M. J. (accepted pending minor revisions). In E. Romero-Hall (Ed.), *Research Methods in Learning Design & Technology.*, Lessons learned from applying Twitter research methods to educational technology phenomena. Routledge: New York, NY.
 
-Dai, T., Rosenberg, J. M., & Lawson, M. A. (forthcoming). Data representation. In T. L. Good & M. McCaslin (*Eds.*), Educational Psychology Section; D. Fisher (*Ed.*), Routledge Encyclopedia of Education (Online). Taylor & Francis: New York, NY.
+Dai, T., Rosenberg, J. M., & Lawson, M. A. (in press). Data representation. In T. L. Good & M. McCaslin (*Eds.*), Educational Psychology Section; D. Fisher (*Ed.*), Routledge Encyclopedia of Education (Online). Taylor & Francis: New York, NY.
 
 Eidelman, R., Rosenberg, J. M. ,& Shwartz, Y. (2019). Assessing the interaction between self-regulated learning (SRL) profiles and actual learning in the chemistry online blended learning environment (COBLE). In Sampson, D., D. Ifenthaler, M. Spector, P. Isafas, & S. Sergis (Eds), *Learning technologies for transforming teaching, learning and assessment at large scale* (pp. 231-255). Berlin, Germany: Springer.  
 
@@ -227,67 +222,23 @@ Rosenberg, J. M. (2018). *Context and Technological Pedagogical Content Knowledg
 
 Rosenberg, J. M. (2018). *Understanding work with data in summer STEM programs: An experience sampling method approach* (Doctoral dissertation). Retrieved from Proquest Dissertations and Theses. (Proquest No. 10747232) <a href = "/publications/Rosenberg-2018-Dissertation.pdf"><img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> <a href = "https://osf.io/65ckh/"><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
-## Grants
-
-### Funded Grants
-
-2019-2021, PI, *Understanding the development of interest in computer science: An experience sampling approach* ($346,688). National Science Foundation. (National Science Foundation Grant No. [1937700](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1937700&HistoricalAwards=false))
-
-2019-2021, Co-PI, *CS for Appalachia: A research-practice partnership for integrating computer science into East Tennessee schools* ($252,453; *PI*: Lynn Hodge, University of Tennessee, Knoxville). National Science Foundation. (National Science Foundation Grant No. [1923509](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1923509&HistoricalAwards=false))
-
-2019-2022, Co-PI, *Advancing computational grounded theory for audiovisual data from STEM classrooms* (1,313,855; *PI* Christina Krist, University of Illinois Urbana-Champaign; University of Knoxville, Tennessee subcontract: $101,469). National Science Foundation. (National Science Foundation Grant No. [1920796](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1920796&HistoricalAwards=false))
-
-2020, Southeastern Conference (SEC) Visiting Faculty Travel Grant Program ($702)
-
-2017-2020, Consultant, *Profiles of science engagement: Broadening participation by understanding individual and contextual influences* ($499,927; *PI*: Jennifer Schmidt). National Science Foundation.
-
-2019-2020, PI, *Planting the seeds for computer science education in East Tennessee through a research-practice partnership*. ($13,200). Community Engaged Research Seed Program, University of Tennessee, Knoxville
-
-2018-2019, Co-PI, *Exploring how beginning elementary mathematics teachers seek out resources through social media* ($8,820), Herman and Rasiej Math Initiative at the University of Southern California (PI: Stephen Aguilar)
-
-### Completed Grants
-
-2013, PI, *Basic biology for bveryone* ($2,000), Versal Foundation Grant
-
-## Fellowships and Awards
-
-2019-2020, Initiative for the Future Faculty Development Program, University of Tennessee, Knoxville
-
-2019, Open Publishing Support Fund, University of Tennessee Libraries and Office of Research and Engagement, University of Tennessee, Knoxville
-
-2018, Foreign Travel Award, Office of Research and Engagement, University of Tennessee, Knoxville (UTK) 
-
-2017, Delia Koo Global Travel Fellowship, Michigan State University (MSU)
-
-2017, Michigan Virtual Learning Research Institute Dissertation Fellowship ($1,500)
-
-2017, Concord Consortium Data Science Educational Technology Fellowship ($1,000)
-
-2017, Research Expenses Fellowship, MSU
-
-2016, College of Education Alumni Fellowship, MSU
-
-2015, Cotterman Family Endowment for Education Summer Research Fellowship, MSU
-
-2013, Massive Open Online Course Research and Development Fellowship, MSU
-
-2009-2012, Burroughs Wellcome Fund Scholar, University of North Carolina Asheville
-
-## Awards
-
-2019, Finalist, Association for Science Teacher Education John C. Park National Technology Leadership Institute Fellowship
-
-2017, Council of Graduate Students Disciplinary Leadership Award, Michigan State University
-
-2016, Best Paper Award, TPACK SIG, SITE International Conference
-
-2014, Outstanding Paper Award, Society for Information Technology and Teacher Education International Conference
-
 ## Presentations 
 
 ### Peer-Reviewed Conference Presentations
 
-Schmidt, J. A., Rosenberg, J. M., & Beymer, P. N. (August, 2019). *Sources of Variability in Engagement: Exploring Situational, Personal, and Classroom Influences*. Poster presented at the annual meeting of the American Psychological Association, Chicago, IL.
+Rosenberg, J. M., & Lishinski, A. (2020, March). *Accruing Interest: What experiences contribute to students developing a sustained interest in computer science over time?* Lightning talk at the Special Interest Group on Computer Science Education Technical Sympsosium, Portland, OR.
+
+Lishinski, A., & Rosenberg, J. M. (2020, March). *Variable interest rate: What experiences explain differences in interest in computer science among students?* Birds of a feather presentation at the Special Interest Group on Computer Science Education Technical Sympsosium, Portland, OR.
+
+Rosenberg, J. M., Reid, J., Dyer, E., Koehler, M. J., Fischer, C., & McKenna, T. J. (2020, April). A new context for professional networks: Understanding the social structure of #NGSSChat through social network analysis. In K. A. Frank, K., Torphy, K., Daly, A., & Greenhow, C. (Chairs), *Educators meet the fifth estate: Social media in education.* Symposium to be conducted at the American Educational Research Association Annual Meeting, San Francisco, CA. 
+
+Rosenberg, J. M., Hodge, L., Bertling, J., & King, S. (2020, April). Art as a context for data science: Explring fourth-grade students' data visualization practices. In J. M. Rosenberg & B. D. Chen (Chairs), *Exploring data science across the curriculum and across grade levels*. Symposium to be conducted at the American Educational Research Association Annual Meeting, San Francisco, CA. 
+
+Rosenberg, J. M., Carpenter, J. P., Romero-Hall, E., & Kessler, A. (2020, April). *Teacher educators' technology competencies and the importance of context*. Paper to be presented at the American Educational Research Association Annual Meeting, San Francisco, CA.
+
+Rosenberg, J. M., Beymer, P. N., Phun, V., Schmidt, J. A. (2020, April). Sources of variability for students' engagement in science: Findings from a cross-classified, multivariate modeling approach. In P. N. Beymer, D. K. Benden, & M. L. Bernacki (Chairs), *Affordances and modeling of intensive data*. Symposium to be conducted at the American Educational Research Association Annual Meeting, San Francisco, CA.
+
+Schmidt, J. A., Rosenberg, J. M., & Beymer, P. N. (August, 2019). *Sources of variability in engagement: Exploring situational, personal, and classroom influences*. Poster presented at the annual meeting of the American Psychological Association, Chicago, IL.
 
 Greenhalgh, S. P., Huang, K., & Rosenberg, J. M. (2019, October). *Understanding gaming communities and exploring learning opportunities: A computational grounded theory approach*. Paper to be presented at the meeting of the Association for Educational Communications and Technology International Convention, Las Vegas, NV.
 
@@ -525,7 +476,7 @@ Reviewer, Proposals from Knox County Schools students for the NASA Student Space
 - E-Learning and Digital Media (2), 2016  
 - Journal of Educational Technology & Society, 2017  
 - Journal of the Learning Sciences, 2019  
-- Journal of Open Source Education, 2019  
+- Journal of Open Source Education, 2019 (2)
 - Journal of Open Source Software, 2018  
 - Journal of Research in Science Teaching, 2019  
 - Journal of Science Education and Technology, 2019 (2)

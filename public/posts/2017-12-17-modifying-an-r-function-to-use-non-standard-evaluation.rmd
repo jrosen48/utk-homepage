@@ -5,9 +5,15 @@ date: '2017-12-17'
 description: Desc
 meta_img: /images/image.jpg
 slug: modifying-an-r-function-to-use-non-standard-evaluation
-tags: []
-categories: r
+categories: [r, walkthrough]
+tags: [konfound]
 ---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, eval = FALSE)
+```
+
+**Note that due to version-related issues the code in this post is displayed but is not excecuted/run.**
 
 #### Background
 
