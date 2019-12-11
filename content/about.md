@@ -77,7 +77,7 @@ C.D. Owen High School, Swannanoa, NC
 
 2019-2022, Senior Personnel, *Medical entomology and geospatial analyses: Bringing innovation to teacher education and surveillance studies* ($149,611; *PI*: Rebecca Trout Fryxell). United States Department of Agriculture - Agriculture and Food Research Initiative. (USDA Grant No. 2019-68010-29119)
 
-2017-2020, Consultant, *Profiles of science engagement: Broadening participation by understanding individual and contextual influences* ($499,927; *PI*: Jennifer Schmidt). National Science Foundation.
+2017-2020, Consultant (statistical software development and data analysis), *Profiles of science engagement: Broadening participation by understanding individual and contextual influences* ($499,927; *PI*: Jennifer Schmidt, Michigan State University). National Science Foundation.
 
 ### Completed
 
@@ -95,7 +95,7 @@ C.D. Owen High School, Swannanoa, NC
 
 2017, Concord Consortium Data Science Educational Technology Fellowship ($1,000)
 
-2017, Council of Graduate Students Disciplinary Leadership Award, Michigan State University
+2017, Council of Graduate Students Disciplinary Leadership Award, MSU
 
 2017, Research Expenses Fellowship ($3,250), MSU
 
@@ -115,9 +115,11 @@ C.D. Owen High School, Swannanoa, NC
 
 ### Book
 
-Bovee, E. A., Estrellado, R. A., Motsipak, J., Rosenberg, J. M., & Velásquez, I. C. (under contract). *Data science in education using R*. London, England: Routledge. *Nb.* All authors contributed equally.
+Bovee, E. A., Estrellado, R. A., Motsipak, J., Rosenberg, J. M., & Velásquez, I. C. (under contract). *Data science in education using R*. London, England: Routledge. *Nb.* All authors contributed equally. http://datascienceineducation.com
 
 ### Peer-Reviewed Journal Articles
+
+Beymer, P. N., Rosenberg, J. M., & Schmidt, J. A. (in press). Does choice matter or is it all about interest? An investigation using an experience sampling approach in high school science classrooms. *Learning and Individual Differences*.
 
 Rosenberg, J. M., Edwards, A., & Chen, B. (in press). Tools and strategies for engaging students in analyzing and interpreting complex data sources. *The Science Teacher*. <a href = "https://joshuamrosenberg.com/publications/rosenberg-edwards-chen-tst.pdf"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> 
 
@@ -445,9 +447,9 @@ Associate Chair, TPACK SIG, Society for Information Technology and Teacher Educa
 
 ### Conference Review Activity
 
-Reviewer, National Association for Research in Science Teaching Annual Conference, 2019
-
 Review Panel Member, American Educational Research Association (AERA) Annual Meeting, 2015-2019
+
+Reviewer, National Association for Research in Science Teaching Annual Conference, 2019
 
 Reviewer, Association for Science Teacher Education Annual Conference, 2019
 
@@ -483,7 +485,7 @@ Reviewer, Proposals from Knox County Schools students for the NASA Student Space
 - Journal of STEM Education Research, 2019
 - TechTrends, 2019 (2)  
 
-### College Service 
+### College-level Service 
 
 Member, Online Academic Programs Investment and Growth Plan ad-hoc committee
 
@@ -515,9 +517,9 @@ Member of two practicum committees for Educational Psychology and Educational Te
 
 ### Workshops and Outreach
 
-Rosenberg, J. M., Staudt Willet, K. B., & Greenhalgh, S. P. (2019, October). *Online data and open source tools: Analyzing educational internet data Using R*. Workshop carried out at the Association for Educational Communications and Technology, Las Vegas, NV.
+Rosenberg, J. M., Staudt Willet, K. B., & Greenhalgh, S. P. (2019, October). *Online data and open source tools: Analyzing educational internet data Using R*. Workshop carried out at the Association for Educational Communications and Technology, Las Vegas, NV. <a href = "https://github.com/bretsw/aect19-workshop"><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
-Rosenberg, J.M. (September, 2019). *An introduction to data science in education using R*. Workshop at Middle Tennessee State University. Middle Tennessee State University, Murfreesboro, TN.
+Rosenberg, J.M. (September, 2019). *An introduction to data science in education using R*. Workshop at Middle Tennessee State University. Middle Tennessee State University, Murfreesboro, TN. <a href = "https://github.com/jrosen48/mtsu-workshop"><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
 Rosenberg, J. M. (2019, June). The use of mixed effects models for analyzing complex data. Presentation for the KnoxData group, Knoxville, TN. <a href = "https://github.com/jrosen48/data-science-ish"><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
@@ -573,18 +575,15 @@ Rosenberg, J. M. (2012, November). Mobile learning for teachers. Presentation at
 
 ## Podcast
 
-Co-host, the [*Impodster Syndrome* podcast](http://impodstersyndrome.libsyn.com/). 
+Co-host, [*Impodster Syndrome* podcast](http://impodstersyndrome.libsyn.com/)
 
 ## Consulting
 
-2017-2019, Statistical software development
-Kenneth Frank, Michigan State University  
+2017-2019, Statistical software development, Kenneth Frank, Michigan State University  
 
-2017, Statistical analysis  
-Yael Shwartz, Weizmann Institute  
+2017, Statistical analysis, Yael Shwartz, Weizmann Institute  
 
-2016, Statistical analysis    
-Lara Kassab, San Jose State University  
+2016, Statistical analysis, Lara Kassab, San Jose State University  
 
 ## Professional Affiliations
 

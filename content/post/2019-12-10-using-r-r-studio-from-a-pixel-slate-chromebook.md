@@ -41,7 +41,7 @@ In short, here are the steps I followed that worked, with one from (and one addi
 sudo apt-get install r-base r-base-dev
 ```
 
-Run the following to check that R installed
+Run the following to check that R installed:
 
 ```
 R
