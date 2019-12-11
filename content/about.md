@@ -58,7 +58,6 @@ Shelby High School, Shelby, NC
 2009-2010, Science Teacher Intern (Biology and Chemistry)  
 C.D. Owen High School, Swannanoa, NC  
 
-
 ## Grants
 
 ### Ongoing (Principal Investigator [PI] or Co-PI)

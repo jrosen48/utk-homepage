@@ -62,7 +62,6 @@ Shelby High School, Shelby, NC
 2009-2010, Science Teacher Intern (Biology and Chemistry)  
 C.D. Owen High School, Swannanoa, NC  
 
-
 ## Grants
 
 ### Ongoing (Principal Investigator [PI] or Co-PI)
@@ -123,6 +122,7 @@ Bovee, E. A., Estrellado, R. A., Motsipak, J., Rosenberg, J. M., & Velásquez, I
 
 ### Peer-Reviewed Journal Articles
 
+\hangindent=2em
 Beymer, P. N., Rosenberg, J. M., & Schmidt, J. A. (in press). Does choice matter or is it all about interest? An investigation using an experience sampling approach in high school science classrooms. *Learning and Individual Differences*.
 
 \hangindent=2em
