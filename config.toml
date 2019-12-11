@@ -30,10 +30,6 @@ math = true
     name = "Making Data Science Count (Research Group Website)"
     url = "https://makingdatasciencecount.com"
     weight = 7
-[[menu.main]]
-    name = "Blog Categories"
-    url = "/categories/"
-    weight = 4
 
 [params]
     description = "Joshua M. Rosenberg's Homepage"
