@@ -62,7 +62,6 @@ Shelby High School, Shelby, NC
 2009-2010, Science Teacher Intern (Biology and Chemistry)  
 C.D. Owen High School, Swannanoa, NC  
 
-
 ## Grants
 
 ### Ongoing (Principal Investigator [PI] or Co-PI)
@@ -119,7 +118,7 @@ C.D. Owen High School, Swannanoa, NC
 
 ### Book
 
-Bovee, E. A., Estrellado, R. A., Motsipak, J., Rosenberg, J. M., & Velásquez, I. C. (under contract). *Data science in education using R*. London, England: Routledge. *Nb.* All authors contributed equally. http://datascienceineducation.com
+Bovee, E. A., Estrellado, R. A., Motsipak, J., Rosenberg, J. M., & Velásquez, I. C. (under contract). *Data science in education using R*. London, England: Routledge. *Nb.* All authors contributed equally. https://datascienceineducation.com
 
 ### Peer-Reviewed Journal Articles
 
