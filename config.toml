@@ -21,18 +21,14 @@ math = true
 [[menu.main]]
     name = "Blog"
     url = "/posts/"
-    weight = 3
+    weight = 2
 [[menu.main]]
     name = "CV"
     url = "/about/"
-    weight = 2
+    weight = 3
 [[menu.main]]
-    name = "Making Data Science Count (Research Group Website)"
+    name = "Research Group Website"
     url = "https://makingdatasciencecount.com"
-    weight = 7
-[[menu.main]]
-    name = "Blog Categories"
-    url = "/categories/"
     weight = 4
 
 [params]

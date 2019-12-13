@@ -72,8 +72,6 @@ C.D. Owen High School, Swannanoa, NC
 
 2019-2022, Co-PI, *Advancing computational grounded theory for audiovisual data from STEM classrooms* ($1,313,855; *PI*: Christina Krist, University of Illinois Urbana-Champaign; University of Tennessee, Knoxville subcontract: $101,469). National Science Foundation. (National Science Foundation Grant No. [1920796](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1920796&HistoricalAwards=false))
 
-2020, Southeastern Conference (SEC) Visiting Faculty Travel Grant Program ($702)
-
 2019-2020, PI, *Planting the seeds for computer science education in East Tennessee through a research-practice partnership*. ($13,200). Community Engaged Research Seed Program, University of Tennessee, Knoxville
 
 ### Ongoing (Senior Personnel or Consultant)
@@ -87,6 +85,8 @@ C.D. Owen High School, Swannanoa, NC
 2013, PI, *Basic biology for everyone* ($2,000), Versal Foundation Grant
 
 ## Fellowships and Awards
+
+2020, Southeastern Conference (SEC) Visiting Faculty Travel Grant Program ($702)
 
 2019-2020, Initiative for the Future Faculty Development Program, University of Tennessee, Knoxville
 
@@ -122,6 +122,7 @@ Bovee, E. A., Estrellado, R. A., Motsipak, J., Rosenberg, J. M., & Velásquez, I
 
 ### Peer-Reviewed Journal Articles
 
+\hangindent=2em
 Beymer, P. N., Rosenberg, J. M., & Schmidt, J. A. (in press). Does choice matter or is it all about interest? An investigation using an experience sampling approach in high school science classrooms. *Learning and Individual Differences*.
 
 \hangindent=2em
