@@ -8,7 +8,7 @@ categories: [r]
 tags: []
 ---
 
-The first, rough draft of the (web-based version) of the *Data Science in Education Using R* book written by Emily Bovee](https://www.emilybovee.com/), [Ryan Estrellado](https://ryanestrellado.netlify.com/), [Jesse Motstipak](https://www.jessemaegan.com/), me, and [Isabella Velásquez](https://ivelasq.rbind.io) is available from this URL: http://www.datascienceineducation.com/.
+The first, rough draft of the (web-based version) of the *Data Science in Education Using R* book written by [Emily Bovee](https://www.emilybovee.com/), [Ryan Estrellado](https://ryanestrellado.netlify.com/), [Jesse Motstipak](https://www.jessemaegan.com/), me, and [Isabella Velásquez](https://ivelasq.rbind.io) is available from this URL: http://www.datascienceineducation.com/.
 
 I mentioned in [an earlier post](https://joshuamrosenberg.com/posts/introducing-data-science-in-education-using-r-forthcoming-2020/) that the published, Routledge, allowed us to stipulate that we retain the copyright for the web-based version, even after the book is published in print (and e-book) format.
 
