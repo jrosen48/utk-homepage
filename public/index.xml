@@ -6,10 +6,20 @@
     <description>Recent content in Home on Joshua M. Rosenberg, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A tiny (Shiny) app: How Many (MCMC) Cores?</title>
+      <link>/post/2019/12/13/a-tiny-shiny-how-many-mcmc-cores/</link>
+      <pubDate>Fri, 13 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019/12/13/a-tiny-shiny-how-many-mcmc-cores/</guid>
+      <description>I made a tiny Shiny interactive web application to assist in choosing how many cores (chains) to specify for Markov Chain Monte Carlo (MCMC) estimation (like that available through the brms R package).
+I was interested in this beacuse I recently accessed the high-performance computing service through my university, and was wondering just how many cores (or processors) I could use, keeping in mind that while it seems that way, resources aren&amp;rsquo;t limitless (note: I actually have no idea what the limit is!</description>
+    </item>
     
     <item>
       <title>Using R/R Studio from a (Pixel Slate) Chromebook</title>
@@ -23,7 +33,7 @@ This was pretty easy to do (see here). After doing it (it took a few minutes to 
     </item>
     
     <item>
-      <title>Research group website</title>
+      <title>Research group website - Making data science count</title>
       <link>/posts/research-group-website/</link>
       <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
       

@@ -1,5 +1,5 @@
 ---
-title: Research group website: Making data science count
+title: Research group website - Making data science count
 author: ''
 date: '2019-11-30'
 slug: research-group-website
