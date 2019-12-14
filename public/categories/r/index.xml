@@ -6,10 +6,21 @@
     <description>Recent content in r on Joshua M. Rosenberg, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The first, rough (rough!) draft of the (web-based) version of Data Science in Education Using R is available</title>
+      <link>/post/2019/12/14/the-first-rough-draft-of-the-web-based-version-of-data-science-in-education-using-r-is-available/</link>
+      <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019/12/14/the-first-rough-draft-of-the-web-based-version-of-data-science-in-education-using-r-is-available/</guid>
+      <description>The first, rough draft of the (web-based version) of the Data Science in Education Using R book written by Emily Bovee](https://www.emilybovee.com/), Ryan Estrellado, Jesse Motstipak, me, and Isabella Velásquez is available from this URL: http://www.datascienceineducation.com/.
+I mentioned in an earlier post that the published, Routledge, allowed us to stipulate that we retain the copyright for the web-based version, even after the book is published in print (and e-book) format.
+This is definitely a first, rough (rough!</description>
+    </item>
     
     <item>
       <title>Writing a CV in markdown so it can be rendered as HTML, a PDF, and a Word document</title>

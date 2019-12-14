@@ -6,10 +6,21 @@
     <description>Recent content in Home on Joshua M. Rosenberg, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The first, rough (rough!) draft of the (web-based) version of Data Science in Education Using R is available</title>
+      <link>/post/2019/12/14/the-first-rough-draft-of-the-web-based-version-of-data-science-in-education-using-r-is-available/</link>
+      <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019/12/14/the-first-rough-draft-of-the-web-based-version-of-data-science-in-education-using-r-is-available/</guid>
+      <description>The first, rough draft of the (web-based version) of the Data Science in Education Using R book written by Emily Bovee](https://www.emilybovee.com/), Ryan Estrellado, Jesse Motstipak, me, and Isabella Velásquez is available from this URL: http://www.datascienceineducation.com/.
+I mentioned in an earlier post that the published, Routledge, allowed us to stipulate that we retain the copyright for the web-based version, even after the book is published in print (and e-book) format.
+This is definitely a first, rough (rough!</description>
+    </item>
     
     <item>
       <title>A tiny (Shiny) app: How Many (MCMC) Cores?</title>
@@ -17,8 +28,10 @@
       <pubDate>Fri, 13 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/2019/12/13/a-tiny-shiny-how-many-mcmc-cores/</guid>
-      <description>I made a tiny Shiny interactive web application to assist in choosing how many cores (chains) to specify for Markov Chain Monte Carlo (MCMC) estimation (like that available through the brms R package).
-I was interested in this beacuse I recently accessed the high-performance computing service through my university, and was wondering just how many cores (or processors) I could use, keeping in mind that while it seems that way, resources aren&amp;rsquo;t limitless (note: I actually have no idea what the limit is!</description>
+      <description>Here is a tiny (Shiny) application to help with selecting the number of cores in the context of MCMC estimation.
+How many cores? is here: https://jmichaelrosenberg.shinyapps.io/how-many-cores/
+Here is a screenshot:
+The source is here: https://github.com/jrosen48/how-many-cores</description>
     </item>
     
     <item>
@@ -790,6 +803,15 @@ Here’s a description:
       <guid>/posts/20150302-presentations-at-site-2015/</guid>
       <description> Presentations at SITE 2015 I will be attending the Society for Information at Information Technology and Teacher Education 2015 Conference(SITE) this week in Las Vegas, NV. If curious, here is a list of presentations compiled by Spencer Greenhalgh and posted on Punya Mishra’s blog.
  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/post/1/01/01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/1/01/01/</guid>
+      <description>The first, rough draft of the (web-based) version of Data Science in Education Using R is available /*! jQuery v1.11.3 | (c) 2005, 2015 jQuery Foundation, Inc. | jquery.org/license */ !function(a,b){&#34;object&#34;==typeof module&amp;&amp;&#34;object&#34;==typeof module.exports?module.exports=a.document?b(a,!0):function(a){if(!a.document)throw new Error(&#34;jQuery requires a window with a document&#34;);return b(a)}:b(a)}(&#34;undefined&#34;!=typeof window?window:this,function(a,b){var c=[],d=c.slice,e=c.concat,f=c.push,g=c.indexOf,h={},i=h.toString,j=h.hasOwnProperty,k={},l=&#34;1.11.3&#34;,m=function(a,b){return new m.fn.init(a,b)},n=/^[\s\uFEFF\xA0]+|[\s\uFEFF\xA0]+$/g,o=/^-ms-/,p=/-([\da-z])/gi,q=function(a,b){return b.toUpperCase()};m.fn=m.prototype={jquery:l,constructor:m,selector:&#34;&#34;,length:0,toArray:function(){return d.call(this)},get:function(a){return null!=a?0a?this[a+this.length]:this[a]:d.call(this)},pushStack:function(a){var b=m.merge(this.constructor(),a);return b.prevObject=this,b.context=this.context,b},each:function(a,b){return m.each(this,a,b)},map:function(a){return this.pushStack(m.map(this,function(b,c){return a.call(b,c,b)}))},slice:function(){return this.pushStack(d.apply(this,arguments))},first:function(){return this.eq(0)},last:function(){return this.eq(-1)},eq:function(a){var b=this.length,c=+a+(0a?b:0);return this.pushStack(c=0&amp;&amp;bc?[this[c]]:[])},end:function(){return this.prevObject||this.constructor(null)},push:f,sort:c.sort,splice:c.splice},m.extend=m.fn.extend=function(){var a,b,c,d,e,f,g=arguments[0]||{},h=1,i=arguments.length,j=!1;for(&#34;boolean&#34;==typeof g&amp;&amp;(j=g,g=arguments[h]||{},h++),&#34;object&#34;==typeof g||m.isFunction(g)||(g={}),h===i&amp;&amp;(g=this,h--);ih;h++)if(null!=(e=arguments[h]))for(d in e)a=g[d],c=e[d],g!==c&amp;&amp;(j&amp;&amp;c&amp;&amp;(m.isPlainObject(c)||(b=m.isArray(c)))?(b?(b=!1,f=a&amp;&amp;m.isArray(a)?a:[]):f=a&amp;&amp;m.isPlainObject(a)?a:{},g[d]=m.extend(j,f,c)):void 0!==c&amp;&amp;(g[d]=c));return g},m.extend({expando:&#34;jQuery&#34;+(l+Math.random()).replace(/\D/g,&#34;&#34;),isReady:!0,error:function(a){throw new Error(a)},noop:function(){},isFunction:function(a){return&#34;</description>
     </item>
     
     <item>
