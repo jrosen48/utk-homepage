@@ -1,5 +1,5 @@
 ---
-title: The first, rough draft of the (web-based) version of Data Science in Education
+title: The first, rough (rough!) draft of the (web-based) version of Data Science in Education
   Using R is available
 author: ''
 date: '2019-12-14'
