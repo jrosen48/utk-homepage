@@ -470,6 +470,9 @@ Rosenberg, J. M. (February, 2019). *Making sense of recent advances in the Techn
 ### Other Presentations
 
 \hangindent=2em
+Rosenberg, J. M., Hodge, L., Aydeniz, M., Schmidt, A. Lishinsli, A., Rich, K., Longnecker, J., Mann. M., & Sadovnik, A. (January, 2020). *A survey of teachers and administrators regarding the implementation of new K-8 computing education standards in Tennessee.* Presentation at the 14th Annual Tennessee STEM Education Research Conference. Cookeville, TN.
+
+\hangindent=2em
 Camponovo, M., Lawson, M. A., & Rosenberg, M. J. (July, 2019). Integrating geospatial tech with math and science pre-service teachers. 2019 Education Summit @ ESRI UC. San Diego, CA.
 
 \hangindent=2em
