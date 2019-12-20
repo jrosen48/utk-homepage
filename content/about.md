@@ -351,7 +351,7 @@ Koehler, M. J., Rosenberg, J. M., Greenhalgh, S., Zellner, A. L., & Mishra, P. (
 
 Rosenberg, J.M. (September, 2019). *Making data science education count: Exploring the integration of data science into education*. Presentation at the Middle Tennessee State University Mathematics and Science Education Doctoral Seminar series. Middle Tennessee State University, Murfreesboro, TN.
 
-Rosenberg, J. M. (February, 2019). *Making sense of recent advances in the Technological Pedagogical Content Knowledge framework*. English International Congress at the Universidad Tecnical de Norte, Ibarra, Ecuador.
+Rosenberg, J. M. (February, 2019). *Making sense of recent advances in the Technological Pedagogical Content Knowledge framework*. English International Congress at the Universidad Técnica del Norte, Ibarra, Ecuador.
 
 ### Other Presentations
 
