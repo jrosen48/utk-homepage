@@ -470,6 +470,9 @@ Rosenberg, J. M. (February, 2019). *Making sense of recent advances in the Techn
 ### Other Presentations
 
 \hangindent=2em
+Rosenberg, J. M.,& Lishinsli, A. (January, 2020). *Measuring what matters in-the-moment: An experience sampling approach to understanding the development of interest in computer science*. Presentation at the 14th Annual Tennessee STEM Education Research Conference. Cookeville, TN.
+
+\hangindent=2em
 Rosenberg, J. M., Hodge, L., Aydeniz, M., Schmidt, A. Lishinsli, A., Rich, K., Longnecker, J., Mann. M., & Sadovnik, A. (January, 2020). *A survey of teachers and administrators regarding the implementation of new K-8 computing education standards in Tennessee.* Presentation at the 14th Annual Tennessee STEM Education Research Conference. Cookeville, TN.
 
 \hangindent=2em
