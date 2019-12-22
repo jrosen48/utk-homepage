@@ -5,7 +5,7 @@ date: '2019-12-22'
 slug: using-bibtex-with-r-markdown
 categories: []
 tags: []
-bibliography: [using-bibtex.bib]
+bibliography: [../../static/references.bib]
 ---
 
 I'm just beginning to learn BibTeX, which is, according to Wikipedia -@wikipedia2020, "reference management software for formatting lists of references".
