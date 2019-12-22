@@ -73,8 +73,6 @@ This could then be added to the bibliography file, e.g.:
 
 `bibliography: [using-bibtex.bib, packages.bib]`
 
-## References
-
 References generate automatically. You can add a section heading, e.g., a level three heading for references (`### References`) (as the following heading before the references is).
 
 ### References
