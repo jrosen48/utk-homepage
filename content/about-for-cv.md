@@ -13,11 +13,13 @@ fontsize: 14
 ---
 PDF version: <a href = 'http://jmichaelrosenberg.com/rosenberg-cv.pdf'> <img src='/logos/pdf.png' style='width: 25px; height: 25px;'/></a>
 *Curriculum Vitae*
+
 Assistant Professor, STEM Education  
 Department of Theory and Practice in Teacher Education  
 The University of Tennessee, Knoxville  
 420 Claxton, 1122 Volunteer Blvd., Knoxville, TN 37996  
-865-974-5973 | jmrosenberg@utk.edu | http://joshuamrosenberg.com  
+865-974-5973 | jmrosenberg@utk.edu
+Homepage: https://joshuamrosenberg.com | Research Group: https://makingdatasciencecount.com
 
 ## Research Interests
 
