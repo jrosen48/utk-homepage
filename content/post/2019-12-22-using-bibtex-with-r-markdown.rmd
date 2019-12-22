@@ -6,6 +6,7 @@ slug: using-bibtex-with-r-markdown
 categories: []
 tags: []
 bibliography: [using-bibtex.bib]
+biblio-style: apalike
 ---
 
 I'm just beginning to learn BibTeX, which is, according to Wikipedia -@wikipedia2020, "reference management software for formatting lists of references".
