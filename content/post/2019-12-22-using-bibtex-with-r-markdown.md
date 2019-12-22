@@ -42,7 +42,7 @@ With a reference saved in the `.bib` file (and the `.bib` file referenced in the
 An aim of *Data science in education using R* is to help to equip those working in education, including teachers, data analysts and scientists, researchers, and administrators to solve problems and ask questions in the context of educational data and systems [@dsieur-under-contract.]
 ```
 
-(I'll leave it to my co-authors to summarize the aims of our book better, oye!).
+(Oye, I'll leave it to my co-authors to summarize the aims of our book better.)
 
 Would render as the following:
 
