@@ -13,11 +13,11 @@ I'm just beginning to learn BibTeX, which is, according to Wikipedia -@wikipedia
 
 It is useful for publishing formats such as R Markdown documents and books created with bookdown, like the [Data Science in Education Using R](https://en.wikipedia.org/wiki/BibTeX) book.
 
-I'm basically using this post to documenti what I'm learning.
+I'm basically using this post to document what I'm learning.
 
 ## Adding references
 
-I started with references, which are saved in plain text documents ending in `.bib`. So that R Markdown knows the file(s) to use, the filename is added to the front matter of the document. In R Markdown, for example, I can use the plain text file `references.bib`, im which I store references, by adding this line to the YAML front matter{
+I started with references, which are saved in plain text documents ending in `.bib`. Next, so that R Markdown knows the file(s) to use, you have to add the filename to the front matter of the document. In R Markdown, for example, I can use the plain text file `references.bib`, im which I store references, by adding this line to the YAML front matter{
 
 `bibliography: [references.bib]`
 
