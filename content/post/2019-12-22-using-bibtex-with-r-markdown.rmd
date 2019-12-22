@@ -75,7 +75,7 @@ This could then be added to the bibliography file, e.g.:
 
 ## References
 
-References generate automatically. You can add a section heading, e.g., a level three heading for references (`### References`), which would render as follows.
+References generate automatically. You can add a section heading, e.g., a level three heading for references (`### References`) (as the following heading before the references is).
 
 ### References
 
