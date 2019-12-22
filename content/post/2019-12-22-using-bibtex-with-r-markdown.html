@@ -1,5 +1,5 @@
 ---
-title: Getting a grip on using bibtex with R Markdown documents
+title: Getting a grip on using BibTeX with R Markdown documents
 author: ''
 date: '2019-12-22'
 slug: using-bibtex-with-r-markdown
@@ -14,8 +14,8 @@ biblio-style: apalike
 <p>I’m just beginning to learn BibTeX, which is, according to Wikipedia <span class="citation">(2020)</span>, “reference management software for formatting lists of references”.</p>
 <p>It is useful for publishing formats such as R Markdown documents and books created with bookdown, like the <a href="https://en.wikipedia.org/wiki/BibTeX">Data Science in Education Using R</a> book.</p>
 <p>I’m basically using this post to documenti what I’m learning.</p>
-<div id="adding-references" class="section level1">
-<h1>Adding references</h1>
+<div id="adding-references" class="section level2">
+<h2>Adding references</h2>
 <p>I started with references, which are saved in plain text documents ending in <code>.bib</code>. So that R Markdown knows the file(s) to use, the filename is added to the front matter of the document. In R Markdown, for example, I can use the plain text file <code>references.bib</code>, im which I store references, by adding this line to the YAML front matter{</p>
 <p><code>bibliography: [references.bib]</code></p>
 <p>References have a format which is a bit intuitive. Here is an example for our book:</p>
@@ -28,8 +28,8 @@ biblio-style: apalike
  }</code></pre>
 <p>The key parts are the <code>@book</code> (which can be replaced with <code>@article</code>, <code>@proceedings</code>, <a href="http://bib-it.sourceforge.net/help/fieldsAndEntryTypes.php#Entries">.etc</a>), the “key” (which, for us, is <code>dsieur-under-contract</code>), and the key-value pairs. In addition to those used above (for author, title, year, publisher, and url, <a href="http://bib-it.sourceforge.net/help/fieldsAndEntryTypes.php#Fields">others</a> are available, including volume, issue, chapter, and editor).</p>
 </div>
-<div id="adding-citations" class="section level1">
-<h1>Adding citations</h1>
+<div id="adding-citations" class="section level2">
+<h2>Adding citations</h2>
 <p>With a reference saved in the <code>.bib</code> file (and the <code>.bib</code> file referenced in the document or book front matter), it can be cited in text by referring to the citation key. For example, the following sentence:</p>
 <pre class="code"><code>An aim of *Data science in education using R* is to help to equip those working 
 in education, including teachers, data analysts and scientists, researchers, and
@@ -45,28 +45,28 @@ data and systems <span class="citation">(Bovee et al., n.d.)</span>.</p>
 </blockquote>
 <p>References can be cited in different way.</p>
 <ul>
-<li><code>[@dsieur-under-contract]</code> renders as <span class="citation">(Bovee et al., n.d.)</span> for parenthetical citations</li>
-<li><code>@dsieur-under-contract</code> renders as <span class="citation">Bovee et al. (n.d.)</span> for in-text citations</li>
-<li><code>-@dsieur-under-contract</code> renders as <span class="citation">(n.d.)</span> for only the year</li>
+<li>For parenthetical citations: <code>[@dsieur-under-contract]</code> renders as <span class="citation">(Bovee et al., n.d.)</span> -</li>
+<li>For in-text citations: <code>@dsieur-under-contract</code> renders as <span class="citation">Bovee et al. (n.d.)</span></li>
+<li>For only the year: <code>-@dsieur-under-contract</code> renders as <span class="citation">(n.d.)</span></li>
 </ul>
-<p>[<em>note</em>: this post is in-progress]</p>
 </div>
-<div id="other-notes" class="section level1">
-<h1>Other notes</h1>
+<div id="other-notes" class="section level2">
+<h2>Other notes</h2>
 <p>BibTeX only works with R Markdown documents saved as <code>.Rmd</code> files - it does not work with <code>.rmarkdown</code> (or with <code>.md</code>) documents.</p>
 <p>You can add citations to R packages used in a file with the following, wich creates a <code>.bib</code> file (called <code>packges.bib</code>, in this case):</p>
-<p><code>{knitr::write_bib(.packages(), &quot;packages.bib&quot;)</code></p>
+<p><code>knitr::write_bib(.packages(), &quot;packages.bib&quot;)</code></p>
 <p>This could then be added to the bibliography file, e.g.:</p>
 <p><code>bibliography: [using-bibtex.bib, packages.bib]</code></p>
-</div>
-<div id="references" class="section level1 unnumbered">
-<h1>References</h1>
+<p>References generate automatically. You can add a section heading, e.g., a level three heading for references (<code>### References</code>) (as the following heading before the references is).</p>
+<div id="references" class="section level3 unnumbered">
+<h3>References</h3>
 <div id="refs" class="references">
 <div id="ref-dsieur-under-contract">
 <p>Bovee, Emily A., Ryan A. Estrellado, Jesse Mostipak, Joshua M. Rosenberg, and Isabella C. Velásquez. n.d. <em>Data Science in Education Using R</em>. Routledge. <a href="https://datascienceineducation.com">https://datascienceineducation.com</a>.</p>
 </div>
 <div id="ref-wikipedia2020">
 <p>Wikipedia. 2020. “BibTeX.” <a href="https://en.wikipedia.org/wiki/BibTeX">https://en.wikipedia.org/wiki/BibTeX</a>.</p>
+</div>
 </div>
 </div>
 </div>
