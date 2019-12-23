@@ -19,7 +19,7 @@
       <guid>/post/2019/12/22/using-bibtex-with-r-markdown/</guid>
       <description>I’m just beginning to learn BibTeX, which is, according to Wikipedia (2020), “reference management software for formatting lists of references”.
 It is useful for publishing formats such as R Markdown documents and books created with bookdown, like the Data Science in Education Using R book.
-I’m basically using this post to documenti what I’m learning.
+I’m basically using this post to document what I’m learning.
 Adding references I started with references, which are saved in plain text documents ending in .</description>
     </item>
     
