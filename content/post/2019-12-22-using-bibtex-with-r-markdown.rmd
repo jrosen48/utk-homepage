@@ -33,7 +33,9 @@ References have a format which is a bit intuitive. Here is an example for our bo
  }
 ```
 
-The key parts are the `@book` (which can be replaced with `@article`, `@proceedings`, [.etc](http://bib-it.sourceforge.net/help/fieldsAndEntryTypes.php#Entries)), the "key" (which, for us, is `dsieur-under-contract`), and the key-value pairs. In addition to those used above (for author, title, year, publisher, and url, [others](http://bib-it.sourceforge.net/help/fieldsAndEntryTypes.php#Fields) are available, including volume, issue, chapter, and editor).
+The key parts are the `@book` (which can be replaced with `@article`, `@proceedings`, [.etc](http://bib-it.sourceforge.net/help/fieldsAndEntryTypes.php#Entries)), the "key" (which, for us, is `dsieur-under-contract`), and the various fields (e.g., for the title and authors). 
+
+In addition to those used above (for author, title, year, publisher, and url), [others](http://bib-it.sourceforge.net/help/fieldsAndEntryTypes.php#Fields) are also available, including volume, issue, chapter, and editor).
 
 ## Adding citations
 
