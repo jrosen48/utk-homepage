@@ -9,7 +9,7 @@ bibliography: [using-bibtex.bib]
 biblio-style: apalike
 ---
 
-I'm just beginning to learn BibTeX, which is, according to Wikipedia -@wikipedia2020, "reference management software for formatting lists of references".
+I'm just beginning to learn BibTeX, which is, according to Wikipedia -@wikipedia2019, "reference management software for formatting lists of references".
 
 It is useful for publishing formats such as R Markdown documents and books created with bookdown, like the [Data Science in Education Using R](https://en.wikipedia.org/wiki/BibTeX) book.
 
@@ -65,17 +65,18 @@ References can be cited in different way.
 
 ## Other notes
 
-BibTeX only works with R Markdown documents saved as `.Rmd` files - it does not work with `.rmarkdown` (or with `.md`) documents.
+- BibTeX only works with R Markdown documents saved as `.Rmd` files - it does not work with `.rmarkdown` (or with `.md`) documents.
 
-You can add citations to R packages used in a file with the following, wich creates a `.bib` file (called `packges.bib`, in this case):
+- You can add citations to R packages used in a file with the following, wich creates a `.bib` file (called `packges.bib`, in this case):
 
 `knitr::write_bib(.packages(), "packages.bib")`
 
-This could then be added to the bibliography file, e.g.:
+- This could then be added to the bibliography file, e.g.:
 
 `bibliography: [using-bibtex.bib, packages.bib]`
 
-References generate automatically. You can add a section heading, e.g., a level three heading for references (`### References`) (as the following heading before the references is).
+- References generate automatically. You can add a section heading, e.g., a level three heading for references (`### References`) (as the following heading before the references is).
+
+- The raw `.bib`. file is [here](https://raw.githubusercontent.com/jrosen48/utk-homepage/master/content/post/using-bibtex.bib)
 
 ### References
-
