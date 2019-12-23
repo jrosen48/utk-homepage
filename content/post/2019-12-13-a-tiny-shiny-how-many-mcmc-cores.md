@@ -3,7 +3,7 @@ title: 'A tiny (Shiny) app: How Many (MCMC) Cores?'
 author: ''
 date: '2019-12-13'
 slug: a-tiny-shiny-how-many-mcmc-cores
-categories: []
+categories: [r, shiny]
 tags: []
 ---
 

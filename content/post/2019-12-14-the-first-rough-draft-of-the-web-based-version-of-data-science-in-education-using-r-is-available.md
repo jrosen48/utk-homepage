@@ -4,7 +4,7 @@ title: The first, rough (rough!) draft of the (web-based) version of Data Scienc
 author: ''
 date: '2019-12-14'
 slug: the-first-rough-draft-of-the-web-based-version-of-data-science-in-education-using-r-is-available
-categories: [r]
+categories: [r, data-science]
 tags: []
 ---
 

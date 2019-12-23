@@ -3,15 +3,15 @@ title: Getting a grip on using BibTeX with R Markdown documents
 author: ''
 date: '2019-12-22'
 slug: using-bibtex-with-r-markdown
-categories: []
+categories: [r, bibtex]
 tags: []
-bibliography: [using-bibtex.bib]
+bibliography: [references.bib]
 biblio-style: apalike
 ---
 
 
 
-<p>I’m just beginning to learn BibTeX, which is, according to Wikipedia <span class="citation">(2020)</span>, “reference management software for formatting lists of references”.</p>
+<p>I’m just beginning to learn BibTeX, which is, according to Wikipedia <span class="citation">(<span class="citeproc-not-found" data-reference-id="wikipedia2019"><strong>???</strong></span>)</span>, “reference management software for formatting lists of references”.</p>
 <p>It is useful for publishing formats such as R Markdown documents and books created with bookdown, like the <a href="https://en.wikipedia.org/wiki/BibTeX">Data Science in Education Using R</a> book.</p>
 <p>I’m basically using this post to document what I’m learning.</p>
 <div id="adding-references" class="section level2">
@@ -53,20 +53,24 @@ data and systems <span class="citation">(Bovee et al., n.d.)</span>.</p>
 </div>
 <div id="other-notes" class="section level2">
 <h2>Other notes</h2>
-<p>BibTeX only works with R Markdown documents saved as <code>.Rmd</code> files - it does not work with <code>.rmarkdown</code> (or with <code>.md</code>) documents.</p>
-<p>You can add citations to R packages used in a file with the following, wich creates a <code>.bib</code> file (called <code>packges.bib</code>, in this case):</p>
+<ul>
+<li><p>BibTeX only works with R Markdown documents saved as <code>.Rmd</code> files - it does not work with <code>.rmarkdown</code> (or with <code>.md</code>) documents.</p></li>
+<li><p>You can add citations to R packages used in a file with the following, wich creates a <code>.bib</code> file (called <code>packges.bib</code>, in this case):</p></li>
+</ul>
 <p><code>knitr::write_bib(.packages(), &quot;packages.bib&quot;)</code></p>
-<p>This could then be added to the bibliography file, e.g.:</p>
+<ul>
+<li>This could then be added to the bibliography file, e.g.:</li>
+</ul>
 <p><code>bibliography: [using-bibtex.bib, packages.bib]</code></p>
-<p>References generate automatically. You can add a section heading, e.g., a level three heading for references (<code>### References</code>) (as the following heading before the references is).</p>
+<ul>
+<li><p>References generate automatically. You can add a section heading, e.g., a level three heading for references (<code>### References</code>) (as the following heading before the references is).</p></li>
+<li><p>The raw <code>.bib</code>. file is <a href="https://raw.githubusercontent.com/jrosen48/utk-homepage/master/content/post/using-bibtex.bib">here</a></p></li>
+</ul>
 <div id="references" class="section level3 unnumbered">
 <h3>References</h3>
 <div id="refs" class="references">
 <div id="ref-dsieur-under-contract">
 <p>Bovee, Emily A., Ryan A. Estrellado, Jesse Mostipak, Joshua M. Rosenberg, and Isabella C. Velásquez. n.d. <em>Data Science in Education Using R</em>. Routledge. <a href="https://datascienceineducation.com">https://datascienceineducation.com</a>.</p>
-</div>
-<div id="ref-wikipedia2020">
-<p>Wikipedia. 2020. “BibTeX.” <a href="https://en.wikipedia.org/wiki/BibTeX">https://en.wikipedia.org/wiki/BibTeX</a>.</p>
 </div>
 </div>
 </div>

@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/categories/bibtex/</loc>
+    <lastmod>2019-12-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2019-12-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/2019/12/22/using-bibtex-with-r-markdown/</loc>
     <lastmod>2019-12-22T00:00:00+00:00</lastmod>
   </url>
@@ -18,12 +28,12 @@
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2019-12-14T00:00:00+00:00</lastmod>
+    <loc>/categories/r/</loc>
+    <lastmod>2019-12-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/r/</loc>
+    <loc>/categories/data-science/</loc>
     <lastmod>2019-12-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -35,6 +45,21 @@
   <url>
     <loc>/post/2019/12/13/a-tiny-shiny-how-many-mcmc-cores/</loc>
     <lastmod>2019-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/shiny/</loc>
+    <lastmod>2019-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/bash/</loc>
+    <lastmod>2019-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/chromebook/</loc>
+    <lastmod>2019-12-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>

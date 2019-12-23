@@ -3,9 +3,9 @@ title: Getting a grip on using BibTeX with R Markdown documents
 author: ''
 date: '2019-12-22'
 slug: using-bibtex-with-r-markdown
-categories: []
+categories: [r, bibtex]
 tags: []
-bibliography: [using-bibtex.bib]
+bibliography: [references.bib]
 biblio-style: apalike
 ---
 

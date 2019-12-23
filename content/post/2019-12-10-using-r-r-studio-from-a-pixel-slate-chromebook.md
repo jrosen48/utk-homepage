@@ -3,7 +3,7 @@ title: Using R/R Studio from a (Pixel Slate) Chromebook
 author: ''
 date: '2019-12-10'
 slug: using-r-r-studio-from-a-pixel-slate-chromebook
-categories: []
+categories: [bash, r, chromebook]
 tags: []
 ---
 
