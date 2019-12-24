@@ -16,3 +16,5 @@ Inside Higher Ed has an article on AERA's (and other professional organization's
 Basically, this is wrong. I think AERA is on the wrong side of a trend - driven by access to information through the Internet - toward open access. Additionally, I'm pretty bummed that AERA took this stand. I don't think that they consulted with their members about this, as I would have opposed it - and I'm sure many others would have, too.
 
 I'm not leaving AERA over this, but I'm certainly not dropping this and moving on, either. 
+
+h/t [Daniel Anderson](https://datalorax.github.io/anderson-cv/) for making me aware of this.
