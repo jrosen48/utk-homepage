@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/post/2019/12/24/hey-aera-what-s-up-with-that/</loc>
+    <lastmod>2019-12-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-12-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-12-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/categories/bibtex/</loc>
     <lastmod>2019-12-22T00:00:00+00:00</lastmod>
   </url>
@@ -14,16 +29,6 @@
   
   <url>
     <loc>/post/2019/12/22/using-bibtex-with-r-markdown/</loc>
-    <lastmod>2019-12-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2019-12-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
     <lastmod>2019-12-22T00:00:00+00:00</lastmod>
   </url>
   
