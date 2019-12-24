@@ -11,12 +11,12 @@ biblio-style: apalike
 
 
 
-<p>I’m just beginning to learn BibTeX, which is, according to Wikipedia <span class="citation">(<span class="citeproc-not-found" data-reference-id="wikipedia2019"><strong>???</strong></span>)</span>, “reference management software for formatting lists of references”.</p>
+<p>I’m just beginning to learn BibTeX, which is, according to Wikipedia <span class="citation">(2019)</span>, “reference management software for formatting lists of references”.</p>
 <p>It is useful for publishing formats such as R Markdown documents and books created with bookdown, like the <a href="https://en.wikipedia.org/wiki/BibTeX">Data Science in Education Using R</a> book.</p>
 <p>I’m basically using this post to document what I’m learning.</p>
 <div id="adding-references" class="section level2">
 <h2>Adding references</h2>
-<p>I started with references, which are saved in plain text documents ending in <code>.bib</code>. Next, so that R Markdown knows the file(s) to use, you have to add the filename to the front matter of the document. In R Markdown, for example, I can use the plain text file <code>references.bib</code>, im which I store references, by adding this line to the YAML front matter{</p>
+<p>I started with references, which are saved in plain text documents ending in <code>.bib</code>. Next, so that R Markdown knows the file(s) to use, you have to add the filename to the front matter of the document. In R Markdown, for example, I can use the plain text file <code>references.bib</code>, im which I store references, by adding this line to the YAML front matter:</p>
 <p><code>bibliography: [references.bib]</code></p>
 <p>References have a format which is a bit intuitive. Here is an example for our book:</p>
 <pre class="code"><code>@book{dsieur-under-contract,
@@ -64,13 +64,16 @@ data and systems <span class="citation">(Bovee et al., n.d.)</span>.</p>
 <p><code>bibliography: [using-bibtex.bib, packages.bib]</code></p>
 <ul>
 <li><p>References generate automatically. You can add a section heading, e.g., a level three heading for references (<code>### References</code>) (as the following heading before the references is).</p></li>
-<li><p>The raw <code>.bib</code>. file is <a href="https://raw.githubusercontent.com/jrosen48/utk-homepage/master/content/post/using-bibtex.bib">here</a></p></li>
+<li><p>The raw <code>.bib</code>. file is <a href="https://raw.githubusercontent.com/jrosen48/utk-homepage/master/content/post/references.bib">here</a></p></li>
 </ul>
 <div id="references" class="section level3 unnumbered">
 <h3>References</h3>
 <div id="refs" class="references">
 <div id="ref-dsieur-under-contract">
 <p>Bovee, Emily A., Ryan A. Estrellado, Jesse Mostipak, Joshua M. Rosenberg, and Isabella C. Velásquez. n.d. <em>Data Science in Education Using R</em>. Routledge. <a href="https://datascienceineducation.com">https://datascienceineducation.com</a>.</p>
+</div>
+<div id="ref-wikipedia2019">
+<p>Wikipedia. 2019. “BibTeX.” <a href="https://en.wikipedia.org/wiki/BibTeX">https://en.wikipedia.org/wiki/BibTeX</a>.</p>
 </div>
 </div>
 </div>

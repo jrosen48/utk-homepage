@@ -17,7 +17,7 @@
       <pubDate>Sun, 22 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/2019/12/22/using-bibtex-with-r-markdown/</guid>
-      <description>I’m just beginning to learn BibTeX, which is, according to Wikipedia (???), “reference management software for formatting lists of references”.
+      <description>I’m just beginning to learn BibTeX, which is, according to Wikipedia (2019), “reference management software for formatting lists of references”.
 It is useful for publishing formats such as R Markdown documents and books created with bookdown, like the Data Science in Education Using R book.
 I’m basically using this post to document what I’m learning.
 Adding references I started with references, which are saved in plain text documents ending in .</description>
@@ -951,6 +951,15 @@ National Science Foundation-funded projects PI, Understanding the development of
       <guid>/personal-statements/service-statement/</guid>
       <description>My service focuses on activities at the department and college level and in my discipline and local community. Collectively, this service serves a role in the organizations at each of these levels. In addition, most of this service is also complimentary with my aims as a scholar and teacher, as I describe in this statement.
 At the department and college level, as a beginning faculty member, thus far, I have been involved in admissions panels for the science education program.</description>
+    </item>
+    
+    <item>
+      <title>Sundry</title>
+      <link>/sundry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sundry/</guid>
+      <description>Google Scholar BiBTeX: https://scholar.googleusercontent.com/citations?view_op=export_citations&amp;amp;user=nxVowRQAAAAJ&amp;amp;citsig=AMD79ooAAAAAXgJl-er18rHvDjfeA4IfaQKVbKm5ceFk&amp;amp;hl=en</description>
     </item>
     
     <item>

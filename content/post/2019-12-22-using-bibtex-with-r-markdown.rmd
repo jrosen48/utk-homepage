@@ -17,7 +17,7 @@ I'm basically using this post to document what I'm learning.
 
 ## Adding references
 
-I started with references, which are saved in plain text documents ending in `.bib`. Next, so that R Markdown knows the file(s) to use, you have to add the filename to the front matter of the document. In R Markdown, for example, I can use the plain text file `references.bib`, im which I store references, by adding this line to the YAML front matter{
+I started with references, which are saved in plain text documents ending in `.bib`. Next, so that R Markdown knows the file(s) to use, you have to add the filename to the front matter of the document. In R Markdown, for example, I can use the plain text file `references.bib`, im which I store references, by adding this line to the YAML front matter:
 
 `bibliography: [references.bib]`
 
@@ -77,6 +77,6 @@ References can be cited in different way.
 
 - References generate automatically. You can add a section heading, e.g., a level three heading for references (`### References`) (as the following heading before the references is).
 
-- The raw `.bib`. file is [here](https://raw.githubusercontent.com/jrosen48/utk-homepage/master/content/post/using-bibtex.bib)
+- The raw `.bib`. file is [here](https://raw.githubusercontent.com/jrosen48/utk-homepage/master/content/post/references.bib)
 
 ### References
