@@ -11,7 +11,7 @@ I like the [American Educational Research Association](https://aera.net); it's m
 
 I was pretty surprised to see [this letter](https://newsroom.publishers.org/researchers-and-publishers-oppose-immediate-free-distribution-of-peer-reviewed-journal-articles/), advocating *against* open access to educational research that is funded through federal agencies (i.e., the [Institute of Educational Sciences](https://ies.ed.gov), the [National Science Foundation](https://nsf.gov), etc.).
 
-Inside Higher Ed has an article on AERA's (and other professional organization's) opposition.
+Inside Higher Ed has [an article on AERA's (and other professional organization's) opposition](https://www.insidehighered.com/quicktakes/2019/12/20/concern-raised-over-white-house-open-access-policy).
 
 Basically, this is wrong. I think AERA is on the wrong side of a trend - driven by access to information through the Internet - toward open access. Additionally, I'm pretty bummed that AERA took this stand. I don't think that they consulted with their members about this, as I would have opposed it - and I'm sure many others would have, too.
 
