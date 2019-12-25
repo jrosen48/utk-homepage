@@ -18,8 +18,9 @@ Assistant Professor, STEM Education
 Department of Theory and Practice in Teacher Education  
 The University of Tennessee, Knoxville  
 420 Claxton, 1122 Volunteer Blvd., Knoxville, TN 37996  
-865-974-5973 | jmrosenberg@utk.edu
-Homepage: https://joshuamrosenberg.com | Research Group: https://makingdatasciencecount.com
+865-974-5973 | jmrosenberg@utk.edu  
+Homepage: https://joshuamrosenberg.com  
+Research Group: https://makingdatasciencecount.com  
 
 ## Research Interests
 
@@ -387,9 +388,19 @@ Rosenberg, J. M., Schmidt, J. A., Beymer, P. N., & Steingut, R. (2018). prcr: Pe
   
 Rosenberg, J. M., & Lishinski, A. (2018). clustRcompaR: Easy interface for clustering a set of documents and exploring group-based patterns [R package]. https://github.com/alishinski/clustRcompaR
 
-### Interactive Web Applications
+### R package on GitHub
+
+Bovee, E. A., Estrellado, R. A., Motsipak, J., Rosenberg, J. M., & Velásquez, I. C. (2019). dataedu: Package for Data Science in Education Using R. https://github.com/data-edu/dataedu
+
+Anderson, D. Heiss, A., and Rosenberg, J. M. (2019). equatiomatic: Transform Models into LaTeX Equations. https://github.com/datalorax/equatiomatic
+
+### Interactive Web Application
 
 Rosenberg, J. M., Xu, R., & Frank, K. A. (2019). Konfound-It!: Quantify the robustness of causal inferences. http://konfound-it.com.
+
+### Server-based Application
+
+Lishinski, A., & Rosenberg, J. M. (2019). Short message survey: An open-source, text-message based application for the experience sampling method. https://github.com/picsul/short-message-survey
 
 ## Teaching
 
