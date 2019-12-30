@@ -14,8 +14,8 @@ fontsize: 14
 \begin{center}
 \textit{Curriculum Vitae}
 \end{center}
-\begingroup
 
+\begingroup
 \center
 Assistant Professor, STEM Education  
 Department of Theory and Practice in Teacher Education  
@@ -28,7 +28,7 @@ Research Group: https://makingdatasciencecount.com
 
 ## Research Interests
 
-Science education, data science education, computer science education, computational research methods.
+Science education, data science education, computer science education, computational research methods
 
 ## Education
 

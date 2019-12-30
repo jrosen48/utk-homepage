@@ -24,7 +24,7 @@ Research Group: https://makingdatasciencecount.com
 
 ## Research Interests
 
-Science education, data science education, computer science education, computational research methods.
+Science education, data science education, computer science education, computational research methods
 
 ## Education
 
