@@ -24,7 +24,7 @@ Research Group: https://makingdatasciencecount.com
 
 ## Research Interests
 
-Science education, data science education, quantitative and computational research methods, educational technology
+Science education, data science education, computer science education, computational research methods.
 
 ## Education
 
@@ -83,9 +83,9 @@ C.D. Owen High School, Swannanoa, NC
 
 ## Fellowships and Awards
 
-2020, Southeastern Conference (SEC) Visiting Faculty Travel Grant Program ($702)
+2020, Southeastern Conference (SEC) Visiting Faculty Travel Grant Program
 
-2019-2020, Initiative for the Future Faculty Development Program, University of Tennessee, Knoxville
+2019-2020, Initiative for the Future Faculty Development Program, University of Tennessee, Knoxville (UTK)
 
 2019, Finalist, Association for Science Teacher Education John C. Park National Technology Leadership Institute Fellowship
 
@@ -101,7 +101,7 @@ C.D. Owen High School, Swannanoa, NC
 
 2016, College of Education Alumni Fellowship ($5,500), MSU
 
-2016, Best Paper Award, TPACK SIG, SITE International Conference
+2016, Best Paper Award, Technological Pedagogical Content Knowledge Special Interest Group (SIG), Society for Information Technology and Teacher Education International Conference
 
 2015, Cotterman Family Endowment for Education Summer Research Fellowship ($6,000), MSU
 
@@ -109,7 +109,7 @@ C.D. Owen High School, Swannanoa, NC
 
 2013, Massive Open Online Course Research and Development Fellowship ($1,000), MSU
 
-2009-2012, Burroughs Wellcome Fund Scholar, University of North Carolina Asheville
+2009-2012, Burroughs Wellcome Fund Scholar, University of North Carolina, Asheville
 
 ## Publications
 
@@ -412,7 +412,7 @@ MSU-AT&T Instructional Technology Award (Honorable Mention): Best Online Course,
 
 ### Courses Taught
 
-Instructor at the University of Tennessee, Knoxville
+Instructor at the University of Tennessee, Knoxville:
 
 *Nature of Mathematics and Science Education* (SCED 572,  M.A. and Ph.D. class)  
 *Teaching Science in Grades 7-12* (TPTE 495, SCED 496, & SCED 543,  B.S. & M.A. class)  
@@ -603,5 +603,5 @@ Co-host, [*Impodster Syndrome* podcast](http://impodstersyndrome.libsyn.com/)
 
 American Educational Research Association, 2012 - Present  
 Association for the Advancement of Computing in Education, 2012 - Present  
-Association for Science Teacher Education, 2018 - Present  
+International Society of the Learning Sciences, 2014 - Present  
 National Association for Research in Science Teaching, 2015 - Present  
