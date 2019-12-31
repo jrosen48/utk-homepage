@@ -604,7 +604,7 @@ Reviewer, Proposals from Knox County Schools students for the NASA Student Space
 
 AERA Open (2019), Asia-Pacific Education Researcher (2018), Australasian Journal of Educational Technology (2; 2018), British Journal of Educational Technology (2016), Computers & Education (2016, 2017, 2018), Contemporary Educational Psychology (2018), Contemporary Issues in Technology and Teacher Education (2015), Education Sciences (2; 2019), E-Learning and Digital Media (2; 2016), Journal of Educational Technology & Society (2017), Journal of the Learning Sciences (2019), Journal of Open Source Education (2; 2019), Journal of Open Source Software (2018), Journal of Research in Science Teaching (2019), Journal of Science Education and Technology (2; 2019), Journal of STEM Education Research (2019), TechTrends (2; 2018, 2019)  
 
-### College-level Service 
+### College-related Service 
 
 Member, Online Academic Programs Investment and Growth Plan ad-hoc committee
 
