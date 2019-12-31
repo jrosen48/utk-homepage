@@ -17,7 +17,7 @@ Related, when I taught a science teahcing methods class, I organized some of the
 
 ## Solo parent
 
-I can't imagine what it's like to solo parent for longer than short stretches of time. But, for short periods of, solo parenting has been valuable and rewarding to me. This may be especially important for folks who have partners or other folks in their lives (such as grandparents) involved with parenting.
+I can't imagine what it's like to solo parent for longer than short stretches of time. But, for short periods, solo parenting has been valuable and rewarding to me. This may be especially important for folks who have partners or other folks in their lives (such as grandparents) involved with parenting.
 
 ## Go for it
 
