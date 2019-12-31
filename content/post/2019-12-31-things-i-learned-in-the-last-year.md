@@ -11,11 +11,9 @@ Here are some things I learned in the last year. They are all unordered.
 
 ## Models and parenting and teaching
 
-A collabofriend shared ["the 5 S's" for soothing babies](https://www.happiestbaby.com/blogs/baby/the-5-s-s-for-soothing-babies) with me before our son was born, and this was super helpful to me. But, in the last year, our son became a toddler, and I didn't know what to do, and I struggled. I tried to find resources for how to parent (and discipline, something I haven't been very good at), and found that a simple idea from the authors of [No Drama Discipline](https://www.drdansiegel.com/pdf/Refrigerator%20Sheet--NDD.pdf) clicked with me. That simple idea was "connect and redirect." I thought of these two strategies ("5 S'" and "connect and redirect") as simple models for parenting. They're both super simplified but helpful.
+A collabofriend shared ["the 5 S's" for soothing babies](https://www.happiestbaby.com/blogs/baby/the-5-s-s-for-soothing-babies) with me before our son was born, and this was super helpful to me. But, in the last year, our son became a toddler, and I didn't know what to do, and I struggled. I tried to find resources for how to parent (and discipline, something I haven't been very good at), and found that a simple idea from the authors of [No Drama Discipline](https://www.drdansiegel.com/pdf/Refrigerator%20Sheet--NDD.pdf) clicked with me. That simple idea was "connect and redirect." I thought of these two strategies ("5 S's" and "connect and redirect") as simple models for parenting. They're both super simplified but helpful.
 
-Related, when I taught a science teahcing methods class, I organized some of the class around the [Ambitious Science Teaching](https://ambitiousscienceteaching.org/) model. I found this to to be helpful. 
-
-My takeaway: models that are good (even if they're not great) can be helpful for parenting and teaching.
+Related, when I taught a science teahcing methods class, I organized some of the class around the [Ambitious Science Teaching](https://ambitiousscienceteaching.org/) model. I found this to to be helpful. My takeaway: Models that are good (even if they're not great) can be helpful for parenting and teaching.
 
 ## Solo parent
 
@@ -27,7 +25,7 @@ Early in the spring, I was working on a book project with friends and colleagues
 
 Relatedly, for three National Science Foundation grant solicitations, I had conversations with colleagues about whether or not to submit. We proceeded with all three, and to my (and our) delight, they were awarded (within two days! after being notified about them possibly being awarded within roughly three weeks).
 
-At least regarding my contributions to these, I feel very lucky and surprised by these and other professional events. It was a crazy and exciting professional year, one I'm not taking for grant and certainly will not expect to be replicated. 
+At least regarding my contributions to these, I feel very lucky and surprised. It was a crazy and exciting professional year, one I'm not taking for granted and certainly will not expect to be replicated. 
 
 ## Know when to stop
 
@@ -39,7 +37,7 @@ I realized I'm still missing the rail-trail to the west of St. John's in Lansing
 
 ## Moving is hard
 
-It required some distance from the actual move (May, 2018) to realize this - moving is really hard! That's all I learned (as I'm still missing Lansing/Michigan).
+It required some distance from the actual move (May of last year) to realize this - moving is really hard! That's all I learned (as I'm still missing Lansing/Michigan).
 
 ## First impressions may be wrong 
 
