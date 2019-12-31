@@ -18,7 +18,7 @@ Assistant Professor, STEM Education
 Department of Theory and Practice in Teacher Education  
 The University of Tennessee, Knoxville  
 420 Claxton, 1122 Volunteer Blvd., Knoxville, TN 37996  
-865-974-5973 | jmrosenberg@utk.edu  
+865-974-5973 | [jmrosenberg@utk.edu](jmrosenberg@utk.edu)  
 Homepage: https://joshuamrosenberg.com  
 Research Group: https://makingdatasciencecount.com  
 
@@ -29,19 +29,21 @@ Science education, data science education, computer science education, computati
 ## Education
 
 2018, PhD, Educational Psychology & Educational Technology  
-Michigan State University
-
-2016, Graduate Certificate, Science Education  
-Michigan State University
+Michigan State University  
 
 2012, MA, Education  
-Michigan State University 
-
-2010, Teacher Licensure Program  
-University of North Carolina, Asheville
+Michigan State University  
 
 2010, BS, Biology  
-University of North Carolina, Asheville
+University of North Carolina, Asheville  
+
+## Additional Qualifications
+
+2016, Graduate Certificate, Science Education  
+Michigan State University  
+
+2010, Teacher Licensure Program  
+University of North Carolina, Asheville  
 
 ## Professional Experience
 
@@ -51,7 +53,7 @@ University of Tennessee, Knoxville
 2012-2018, Graduate Research and Teaching Assistant    
 Michigan State University  
 
-## Related (K-12 Teaching) Professional Experience 
+## Related Professional Experience
 
 2010-2012, Science Teacher (Biology and Earth Science)  
 Shelby High School, Shelby, NC  
