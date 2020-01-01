@@ -13,7 +13,7 @@ Here are some things I learned in the last year. They are all unordered.
 
 A collabofriend shared ["the 5 S's" for soothing babies](https://www.happiestbaby.com/blogs/baby/the-5-s-s-for-soothing-babies) with me before our son was born, and this was super helpful to me. But, in the last year, our son became a toddler, and I didn't know what to do, and I struggled. I tried to find resources for how to parent (and discipline, something I haven't been very good at), and found that a simple idea from the authors of [No Drama Discipline](https://www.drdansiegel.com/pdf/Refrigerator%20Sheet--NDD.pdf) clicked with me. That simple idea was "connect and redirect." I thought of these two strategies ("5 S's" and "connect and redirect") as simple models for parenting. They're both super simplified but helpful.
 
-Related, when I taught a science teahcing methods class, I organized some of the class around the [Ambitious Science Teaching](https://ambitiousscienceteaching.org/) model. I found this to to be helpful. My takeaway: Models that are good (even if they're not great) can be helpful for parenting and teaching.
+Related, when I taught a science teaching methods class, I organized some of the class around the [Ambitious Science Teaching](https://ambitiousscienceteaching.org/) model. I found this to to be helpful. My takeaway: Models that are good (even if they're not great) can be helpful for parenting and teaching.
 
 ## Solo parent
 
