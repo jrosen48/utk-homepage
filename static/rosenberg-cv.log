@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.12.8)  2 JAN 2020 09:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.12.8)  2 JAN 2020 09:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -593,29 +593,23 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 [1
 
 {/Users/jrosenb8/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-[2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12]
-Overfull \hbox (2.44449pt too wide) in paragraph at lines 1045--1048
-[]\T1/lmr/m/n/10 Rosenberg, J. M., & Krist, C. (2019). (Gen-er-al-ity em-bed-de
-d as-sess-ment clas-si-fier.* []$https : / / jmichaelrosenberg .
- []
-
-[13] [14] [15] [16] [17]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1412.
+[2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1413.
 [18]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1412.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1413.
 (./rosenberg-cv.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1412.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1412.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1413.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1413.
 
 Package rerunfilecheck Info: File `rosenberg-cv.out' has not changed.
-(rerunfilecheck)             Checksum: 5D75D955724A4DE4B9911DF9E0EBC40F;7774.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1412.
+(rerunfilecheck)             Checksum: 04F6AD2E74994CE33E0AFA4831EC9B6B;7582.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1413.
  ) 
 Here is how much of TeX's memory you used:
- 10251 strings out of 494553
- 145550 string characters out of 6176447
- 216257 words of memory out of 5000000
- 13696 multiletter control sequences out of 15000+600000
+ 10247 strings out of 494553
+ 145468 string characters out of 6176447
+ 216205 words of memory out of 5000000
+ 13694 multiletter control sequences out of 15000+600000
  50956 words of font info for 53 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  28i,5n,33p,393b,328s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -624,10 +618,10 @@ ers/jrosenb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></User
 s/jrosenb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/j
 rosenb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.pfb></Users/jros
 enb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb>
-Output written on rosenberg-cv.pdf (18 pages, 179072 bytes).
+Output written on rosenberg-cv.pdf (18 pages, 180233 bytes).
 PDF statistics:
- 438 PDF objects out of 1000 (max. 8388607)
- 409 compressed objects within 5 object streams
- 113 named destinations out of 1000 (max. 500000)
- 377 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 433 PDF objects out of 1000 (max. 8388607)
+ 404 compressed objects within 5 object streams
+ 111 named destinations out of 1000 (max. 500000)
+ 369 words of extra memory for PDF output out of 10000 (max. 10000000)
 

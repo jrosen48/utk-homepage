@@ -23,11 +23,8 @@ The University of Tennessee, Knoxville
 865-974-5973 | [jmrosenberg@utk.edu](jmrosenberg@utk.edu)  
 Homepage: https://joshuamrosenberg.com  
 Research Group: https://makingdatasciencecount.com  
+Research Interests: Science education, data science education, computer science education, computational research methods
 \endgroup
-
-# Research Interests
-
-Science education, data science education, computer science education, computational research methods
 
 # Education
 
@@ -489,37 +486,6 @@ Jones, R. S., & Rosenberg, J. M. (February, 2019). Latent class modeling of whol
 \hangindent=2em
 Lawson, M., Rosenberg, J. M., & Camponovo, M. (February, 2019). Better together? Findings from a combined, integrated STEM unit with pre-service mathematics and science teachers. Presentation at the 13th Annual Tennessee STEM Education Research Conference. Murfreesboro, TN.
 
-# Software Developed
-
-## R packages on Comprehensive R Archive Network (CRAN)
-
-Rosenberg, J. M., van Lissa, C. J., Beymer, P. N., Anderson, D. J., Schell, M. J. & Schmidt, J. A. (2019). tidyLPA: Easily carry out Latent Profile Analysis (LPA) using open-source or commercial software [R package]. https://data-edu.github.io/tidyLPA/
-
-Rosenberg, J. M., Xu, R., & Frank, K. A. (2019). konfound: Quantify the robustness of causal inferences [R package]. https://jrosen48.github.io/konfound/
-
-Rosenberg, J. M., Schmidt, J. A., Beymer, P. N., & Steingut, R. (2018). prcr: Person-Centered Analysis [R package]. https://CRAN.R-project.org/package=prcr
-  
-Rosenberg, J. M., & Lishinski, A. (2018). clustRcompaR: Easy interface for clustering a set of documents and exploring group-based patterns [R package]. https://github.com/alishinski/clustRcompaR
-
-## R packages on GitHub
-
-Bovee, E. A., Estrellado, R. A., Motsipak, J., Rosenberg, J. M., & Velásquez, I. C. (2019). dataedu: Package for Data Science in Education Using R. https://github.com/data-edu/dataedu
-
-Anderson, D. Heiss, A., and Rosenberg, J. M. (2019). equatiomatic: Transform Models into LaTeX Equations. https://github.com/datalorax/equatiomatic
-
-## Interactive Web Applications
-
-Rosenberg, J. M., Xu, R., & Frank, K. A. (2019). *Konfound-It!: Quantify the robustness of causal inferences.* http://konfound-it.com.
-
-Rosenberg, J. M., & Krist, C. (2019). (Generality embedded assessment classifier.* https://jmichaelrosenberg.shinyapps.io/generality-shiny/
-
-Rosenberg, J. M. (2019). *How many (MCMC) cores?* https://jmichaelrosenberg.shinyapps.io/how-many-cores/
-
-Rosenberg, J. M. (2016). *State Educational Twitter Hashtags (SETHs).* https://jmichaelrosenberg.shinyapps.io/SETHs/
-
-## Web Application
-
-Lishinski, A., & Rosenberg, J. M. (2019). Short message survey: An open-source, text-message based application for the experience sampling method. https://github.com/picsul/short-message-survey
 
 # Teaching
 
@@ -624,6 +590,8 @@ Search Committee Member, Program Specialist, Master of Arts in Educational Techn
 
 *University of Tennessee, Knoxville*
 
+Advisor for Doctoral students: Jennifer Longnecker (Co-advisor with Amy Broemmel), Michael Mann (co-advisor with Kristin Rearden), Omiya Sultana (co-advisor with Lynn Hodge)
+
 Committee member for a Doctoral student: Shande King (2019-)
 
 Committee member for Master's degree students: Zachary Clark, Lauren Dukes, Alex Edwards, Ana Michaelis, and Jessica Murphy (2018-2019)
@@ -641,34 +609,34 @@ Rosenberg, J. M., Staudt Willet, K. B., & Greenhalgh, S. P. (2019, October). *On
 Rosenberg, J.M. (September, 2019). *An introduction to data science in education using R*. Workshop at Middle Tennessee State University. Middle Tennessee State University, Murfreesboro, TN. <a href = "https://github.com/jrosen48/mtsu-workshop"><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
 \hangindent=2em
-Rosenberg, J. M. (2019, June). The use of mixed effects models for analyzing complex data. Presentation for the KnoxData group, Knoxville, TN. <a href = "https://github.com/jrosen48/data-science-ish"><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
+Rosenberg, J. M. (2019, June). *The use of mixed effects models for analyzing complex data*. Presentation for the KnoxData group, Knoxville, TN. <a href = "https://github.com/jrosen48/data-science-ish"><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
 \hangindent=2em
-Rosenberg, J. M. (2019, May). Working with data in education: Using data and supporting students to use data. Workshop carried out for teachers at Knoxville Jewish Day School. https://docs.google.com/presentation/d/1uSdRvF2GjhUpO2fCHZIUdXmf0texzczGGlbzmZBgggw/edit?usp=sharing 
+Rosenberg, J. M. (2019, May). *Working with data in education: Using data and supporting students to use data*. Workshop carried out for teachers at Knoxville Jewish Day School. https://docs.google.com/presentation/d/1uSdRvF2GjhUpO2fCHZIUdXmf0texzczGGlbzmZBgggw/edit?usp=sharing 
 
 \hangindent=2em
-Rosenberg, J. M. (2019, May). Won’t you be my neighboR? An introduction to R for data science in education. Workshop carried out for the Educational Psychology and Educational Technology program, Michigan State University. <a href = "https://github.com/jrosen48/MSU-workshop-2019"><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
+Rosenberg, J. M. (2019, May). *Won’t you be my neighboR? An introduction to R for data science in education*. Workshop carried out for the Educational Psychology and Educational Technology program, Michigan State University. <a href = "https://github.com/jrosen48/MSU-workshop-2019"><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
 \hangindent=2em
-Anderson, D. J., and Rosenberg, J. M. (2019, April). Transparent and reproducible research with R. Workshop carried out at the Annual Meeting of the American Educational Research Association, Toronto, Canada. <a href = "https://github.com/ResearchTransparency/rr_aera19 "><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
+Anderson, D. J., and Rosenberg, J. M. (2019, April). *Transparent and reproducible research with R*. Workshop carried out at the Annual Meeting of the American Educational Research Association, Toronto, Canada. <a href = "https://github.com/ResearchTransparency/rr_aera19 "><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
 \hangindent=2em
-Rosenberg, J. M. (2017, April). Introduction to R for Data Analysis. Presentation at the School of Criminal Justice, Michigan State University. 
+Rosenberg, J. M. (2017, April). *Introduction to R for Data Analysis*. Presentation at the School of Criminal Justice, Michigan State University. 
 
 \hangindent=2em
 Rosenberg, J. M. (March, 2016). *An introduction to R for programming and statistical analysis in education*. Georgia Southern University College of Education, Statesboro, GA.
 
 \hangindent=2em
-Ranellucci, J., & Rosenberg, J. M. (2016, February). Motivating our students: A partnership between Michigan Virtual Schools and Michigan State University. Workshop at Michigan Virtual University, East Lansing, MI.
+Ranellucci, J., & Rosenberg, J. M. (2016, February). *Motivating our students: A partnership between Michigan Virtual Schools and Michigan State University*. Workshop at Michigan Virtual University, East Lansing, MI.
 
 \hangindent=2em
-Rosenberg, J. M. (2014, April). Action research with mobile devices and other “disruptive” technologies. Presentation at the Best of the Michigan Association for Computer Users in Learning Conference, Waterford, MI.
+Rosenberg, J. M. (2014, April). *Action research with mobile devices and other “disruptive” technologies*. Presentation at the Best of the Michigan Association for Computer Users in Learning Conference, Waterford, MI.
 
 \hangindent=2em
-Rosenberg, J. M. (2014, February). Action research with mobile devices. Presentation at the Michigan Association for Computer Users in Learning Mobile Learning Conference, Kalamazoo, MI. 
+Rosenberg, J. M. (2014, February). *Action research with mobile devices*. Presentation at the Michigan Association for Computer Users in Learning Mobile Learning Conference, Kalamazoo, MI. 
 
 \hangindent=2em
-Sawaya, S., & Rosenberg, J. M (2014, February). Master of Arts in Educational Technology Mobile Learning Workshop. Workshop at Michigan State University, East Lansing, MI. 
+Sawaya, S., & Rosenberg, J. M (2014, February). *Master of Arts in Educational Technology Mobile Learning Workshop*. Workshop at Michigan State University, East Lansing, MI. 
 
 ## Campus and Departmental Presentations
 
@@ -676,46 +644,78 @@ Sawaya, S., & Rosenberg, J. M (2014, February). Master of Arts in Educational Te
 Rutherford, T., & Rosenberg, J. M. (2019, February). *Motivational correlates of choice after failure within an elementary mathematics software*. Presentation at the NC State College of Education Celebration of Research.
 
 \hangindent=2em
-Rosenberg, J. M. (2019, January). *Engaging students in science: Findings from an experience sampling method approach. Presentation at the East Tennessee STEM Hub Crossing Boundaries for STEM Teaching regional meeting and mini-conference. Knoxville, TN.
+Rosenberg, J. M. (2019, January). *Engaging students in science: Findings from an experience sampling method approach*. Presentation at the East Tennessee STEM Hub Crossing Boundaries for STEM Teaching regional meeting and mini-conference. Knoxville, TN.
 
 \hangindent=2em
-Rosenberg, J. M., Beymer, P. N., & Schmidt, J. A. (2017, February). Does choosing the problem or topic matter? Using a person-in-context approach to understand student engagement in science. Poster presented at the Create4Stem MiniConference 2017, East Lansing, MI.
+Rosenberg, J. M., Beymer, P. N., & Schmidt, J. A. (2017, February). *Does choosing the problem or topic matter? Using a person-in-context approach to understand student engagement in science*. Poster presented at the Create4Stem MiniConference 2017, East Lansing, MI.
 
 \hangindent=2em
-Rosenberg, J. M. (2016, April). Momentary engagement profiles: An examination of student engagement in science settings using experience sampling methodology. Presentation at the Michigan State University Educational Psychology and Educational Technology Program Informal Colloquium, East Lansing, MI.
+Rosenberg, J. M. (2016, April). *Momentary engagement profiles: An examination of student engagement in science settings using experience sampling methodology*. Presentation at the Michigan State University Educational Psychology and Educational Technology Program Informal Colloquium, East Lansing, MI.
 
 \hangindent=2em
-Rosenberg, J. M., & Schwarz, C. V. (2016, February). Examining the development of fifth and sixth grade students’ epistemic considerations over time through an automated analysis of embedded assessment items. Poster presented at the Create4Stem MiniConference 2016, East Lansing, MI.
+Rosenberg, J. M., & Schwarz, C. V. (2016, February). *Examining the development of fifth and sixth grade students’ epistemic considerations over time through an automated analysis of embedded assessment items*. Poster presented at the Create4Stem MiniConference 2016, East Lansing, MI.
 
 \hangindent=2em
-Rosenberg, J. M. (2015, September). Achievement goals, in- and out-of-class engagement, and students' achievement in a flipped undergraduate anatomy class. Presentation at the Michigan State University Educational Psychology and Educational Technology Program Informal Colloquium, East Lansing, MI.
+Rosenberg, J. M. (2015, September). *Achievement goals, in- and out-of-class engagement, and students' achievement in a flipped undergraduate anatomy class*. Presentation at the Michigan State University Educational Psychology and Educational Technology Program Informal Colloquium, East Lansing, MI.
 
 \hangindent=2em
-Rosenberg, J. M., Akcaoglu, M., Schwarz, C.V., & Lee, S.W-Y. (2015, February). Comparative longitudinal case studies of two middle school teachers’ use of scientific modeling. Poster presented at the Create4Stem MiniConference 2015, East Lansing, MI.
+Rosenberg, J. M., Akcaoglu, M., Schwarz, C.V., & Lee, S.W-Y. (2015, February). *Comparative longitudinal case studies of two middle school teachers’ use of scientific modeling*. Poster presented at the Create4Stem MiniConference 2015, East Lansing, MI.
 
 \hangindent=2em
-Lee, M., Schwarz, C.V., Ke, L., Rosenberg, J. M., Reiser, B., Berland, L., Kenyon, L., Wilson, M., Draney, K. (2015, February). Epistemic considerations in scientific practices for elementary & middle schools. Poster presented at the Create4Stem MiniConference 2015, East Lansing, MI.
+Lee, M., Schwarz, C.V., Ke, L., Rosenberg, J. M., Reiser, B., Berland, L., Kenyon, L., Wilson, M., Draney, K. (2015, February). *Epistemic considerations in scientific practices for elementary & middle schools*. Poster presented at the Create4Stem MiniConference 2015, East Lansing, MI.
 
 \hangindent=2em
-Wolf, L. G., Henriksen, D., Sawaya, S., & Rosenberg, J. M. (2014, December). EdCamp with Team MAET. Presentation at the Michigan State University Master of Arts in Educational Technology Bridge Webinar Series, East Lansing, MI.
+Wolf, L. G., Henriksen, D., Sawaya, S., & Rosenberg, J. M. (2014, December). *EdCamp with Team MAET*. Presentation at the Michigan State University Master of Arts in Educational Technology Bridge Webinar Series, East Lansing, MI.
 
 \hangindent=2em
-Rosenberg, J. M. (2014, November). Integrating “disruptive” technologies into teaching with action research and Technological Pedagogical Content Knowledge (TPACK). Presentation at the Michigan State University Educational Technology Conference, East Lansing, MI.
+Rosenberg, J. M. (2014, November). *Integrating “disruptive” technologies into teaching with action research and Technological Pedagogical Content Knowledge (TPACK)*. Presentation at the Michigan State University Educational Technology Conference, East Lansing, MI.
 
 \hangindent=2em
-Wolf, L. G., Henriksen, D., Sawaya, S., & Rosenberg, J. M. (2014, March). Mobile learning for educators. Presentation at the Michigan State University Master of Arts in Educational Technology Bridge Webinar Series, East Lansing, MI.
+Wolf, L. G., Henriksen, D., Sawaya, S., & Rosenberg, J. M. (2014, March). *Mobile learning for educators*. Presentation at the Michigan State University Master of Arts in Educational Technology Bridge Webinar Series, East Lansing, MI.
 
 \hangindent=2em
-Rosenberg, J. M. (2014, February). Context and Technological Pedagogical Content Knowledge: Preliminary results of a content analysis. Presentation at the Michigan State University Educational Psychology and Educational Technology Program Informal Colloquium, East Lansing, MI.
+Rosenberg, J. M. (2014, February). *Context and Technological Pedagogical Content Knowledge: Preliminary results of a content analysis*. Presentation at the Michigan State University Educational Psychology and Educational Technology Program Informal Colloquium, East Lansing, MI.
 
 \hangindent=2em
-Ke, L., Lee, M., Rosenberg, J. M., & Schwarz, C.V. (2014, February). Modeling across content areas: Examining elementary students’ attention to mechanism. Poster presented at the Create4Stem MiniConference 2014, East Lansing, MI. 
+Ke, L., Lee, M., Rosenberg, J. M., & Schwarz, C.V. (2014, February). *Modeling across content areas: Examining elementary students’ attention to mechanism*. Poster presented at the Create4Stem MiniConference 2014, East Lansing, MI. 
 
 \hangindent=2em
-Rosenberg, J. M., Rapa, L., & Wolf, L. G. (2013, February). CEP 815 and the transition from ANGEL to Desire2Learn. Poster presented at the 6th Annual Faculty Technology Showcase.
+Rosenberg, J. M., Rapa, L., & Wolf, L. G. (2013, February). *CEP 815 and the transition from ANGEL to Desire2Learn*. Poster presented at the 6th Annual Faculty Technology Showcase.
 
 \hangindent=2em
-Rosenberg, J. M. (2012, November). Mobile learning for teachers. Presentation at the Michigan State University Educational Technology Conference, East Lansing, MI. 
+Rosenberg, J. M. (2012, November). *Mobile learning for teachers*. Presentation at the Michigan State University Educational Technology Conference, East Lansing, MI. 
+
+# Software
+
+## R packages on Comprehensive R Archive Network (CRAN)
+
+Rosenberg, J. M., van Lissa, C. J., Beymer, P. N., Anderson, D. J., Schell, M. J. & Schmidt, J. A. (2019). *tidyLPA: Easily carry out Latent Profile Analysis (LPA) using open-source or commercial software* [R package]. https://data-edu.github.io/tidyLPA/
+
+Rosenberg, J. M., Xu, R., & Frank, K. A. (2019). *konfound: Quantify the robustness of causal inferences* [R package]. https://jrosen48.github.io/konfound/
+
+Rosenberg, J. M., Schmidt, J. A., Beymer, P. N., & Steingut, R. (2018). *prcr: Person-Centered Analysis* [R package]. https://CRAN.R-project.org/package=prcr
+  
+Rosenberg, J. M., & Lishinski, A. (2018). *clustRcompaR: Easy interface for clustering a set of documents and exploring group-based patterns* [R package]. https://github.com/alishinski/clustRcompaR
+
+## R packages on GitHub
+
+Bovee, E. A., Estrellado, R. A., Motsipak, J., Rosenberg, J. M., & Velásquez, I. C. (2019). *dataedu: Package for Data Science in Education Using R*. https://github.com/data-edu/dataedu
+
+Anderson, D. Heiss, A., and Rosenberg, J. M. (2019). *equatiomatic: Transform Models into LaTeX Equations.* https://github.com/datalorax/equatiomatic
+
+## Interactive Web Applications
+
+Rosenberg, J. M., Xu, R., & Frank, K. A. (2019). *Konfound-It!: Quantify the robustness of causal inferences.* http://konfound-it.com.
+
+Rosenberg, J. M., & Krist, C. (2019). *Generality embedded assessment classifier.* https://jmichaelrosenberg.shinyapps.io/generality-shiny/
+
+Rosenberg, J. M. (2019). *How many (MCMC) cores?* https://jmichaelrosenberg.shinyapps.io/how-many-cores/
+
+Rosenberg, J. M. (2016). *State Educational Twitter Hashtags (SETHs).* https://jmichaelrosenberg.shinyapps.io/SETHs/
+
+## Web Application
+
+Lishinski, A., & Rosenberg, J. M. (2019). *Short message survey: An open-source, text-message based application for the experience sampling method.* https://github.com/picsul/short-message-survey
 
 # Miscellaneous 
 
