@@ -62,35 +62,18 @@
 \def\fps@figure{htbp}
 \makeatother
 
-\usepackage{etoolbox}
-\makeatletter
-\providecommand{\subtitle}[1]{% add subtitle to \maketitle
-  \apptocmd{\@title}{\par {\large #1 \par}}{}{}
-}
-\makeatother
-% https://github.com/rstudio/rmarkdown/issues/337
-\let\rmarkdownfootnote\footnote%
-\def\footnote{\protect\rmarkdownfootnote}
-
-% https://github.com/rstudio/rmarkdown/pull/252
-\usepackage{titling}
-\setlength{\droptitle}{-2em}
-
-\pretitle{\vspace{\droptitle}\centering\huge}
-\posttitle{\par}
-
-\preauthor{\centering\large\emph}
-\postauthor{\par}
-
-\predate{\centering\large\emph}
-\postdate{\par}
 
 \title{Joshua M. Rosenberg}
-\date{}
+\author{}
+\date{\vspace{-2.5em}}
 
 \begin{document}
 \maketitle
 
+{
+\setcounter{tocdepth}{3}
+\tableofcontents
+}
 \begin{center}
 \textit{Curriculum Vitae}
 \end{center}
@@ -108,13 +91,13 @@ Research Group: \url{https://makingdatasciencecount.com}\\
 \endgroup
 
 \hypertarget{research-interests}{%
-\subsection{Research Interests}\label{research-interests}}
+\section{Research Interests}\label{research-interests}}
 
 Science education, data science education, computer science education,
 computational research methods
 
 \hypertarget{education}{%
-\subsection{Education}\label{education}}
+\section{Education}\label{education}}
 
 2018, PhD, Educational Psychology \& Educational Technology\\
 Michigan State University
@@ -126,7 +109,7 @@ Michigan State University
 University of North Carolina, Asheville
 
 \hypertarget{additional-qualifications}{%
-\subsection{Additional Qualifications}\label{additional-qualifications}}
+\section{Additional Qualifications}\label{additional-qualifications}}
 
 2016, Graduate Certificate, Science Education\\
 Michigan State University
@@ -135,7 +118,7 @@ Michigan State University
 University of North Carolina, Asheville
 
 \hypertarget{professional-experience}{%
-\subsection{Professional Experience}\label{professional-experience}}
+\section{Professional Experience}\label{professional-experience}}
 
 2018-present, Assistant Professor, STEM Education\\
 University of Tennessee, Knoxville
@@ -144,7 +127,7 @@ University of Tennessee, Knoxville
 Michigan State University
 
 \hypertarget{related-professional-experience}{%
-\subsection{Related Professional
+\section{Related Professional
 Experience}\label{related-professional-experience}}
 
 2010-2012, Science Teacher (Biology and Earth Science)\\
@@ -154,10 +137,10 @@ Shelby High School, Shelby, NC
 C.D. Owen High School, Swannanoa, NC
 
 \hypertarget{grants}{%
-\subsection{Grants}\label{grants}}
+\section{Grants}\label{grants}}
 
 \hypertarget{ongoing-principal-investigator-pi-or-co-pi}{%
-\subsubsection{Ongoing (Principal Investigator {[}PI{]} or
+\subsection{Ongoing (Principal Investigator {[}PI{]} or
 Co-PI)}\label{ongoing-principal-investigator-pi-or-co-pi}}
 
 2019-2021, PI, \emph{Understanding the development of interest in
@@ -185,7 +168,7 @@ Community Engaged Research Seed Program, University of Tennessee,
 Knoxville
 
 \hypertarget{ongoing-senior-personnel-or-consultant}{%
-\subsubsection{Ongoing (Senior Personnel or
+\subsection{Ongoing (Senior Personnel or
 Consultant)}\label{ongoing-senior-personnel-or-consultant}}
 
 2019-2022, Senior Personnel, \emph{Medical entomology and geospatial
@@ -201,13 +184,13 @@ participation by understanding individual and contextual influences}
 National Science Foundation.
 
 \hypertarget{completed}{%
-\subsubsection{Completed}\label{completed}}
+\subsection{Completed}\label{completed}}
 
 2013, PI, \emph{Basic biology for everyone} (\$2,000), Versal Foundation
 Grant
 
 \hypertarget{fellowships-and-awards}{%
-\subsection{Fellowships and Awards}\label{fellowships-and-awards}}
+\section{Fellowships and Awards}\label{fellowships-and-awards}}
 
 2020, Southeastern Conference (SEC) Visiting Faculty Travel Grant
 Program
@@ -250,10 +233,10 @@ Teacher Education International Conference
 Carolina, Asheville
 
 \hypertarget{publications}{%
-\subsection{Publications}\label{publications}}
+\section{Publications}\label{publications}}
 
 \hypertarget{book}{%
-\subsubsection{Book}\label{book}}
+\subsection{Book}\label{book}}
 
 Bovee, E. A., Estrellado, R. A., Motsipak, J., Rosenberg, J. M., \&
 Velásquez, I. C. (under contract). \emph{Data science in education using
@@ -261,7 +244,7 @@ R}. London, England: Routledge. \emph{Nb.} All authors contributed
 equally. \url{http://www.datascienceineducation.com/}
 
 \hypertarget{peer-reviewed-journal-articles}{%
-\subsubsection{Peer-Reviewed Journal
+\subsection{Peer-Reviewed Journal
 Articles}\label{peer-reviewed-journal-articles}}
 
 \hangindent=2em Beymer, P. N., Rosenberg, J. M., \& Schmidt, J. A. (in
@@ -368,7 +351,7 @@ review. \emph{Journal of Research on Technology in Education, 47},
 186-210. \url{http://dx.doi.org/10.1080/15391523.2015.1052663}
 
 \hypertarget{book-chapters}{%
-\subsubsection{Book Chapters}\label{book-chapters}}
+\subsection{Book Chapters}\label{book-chapters}}
 
 \hangindent=2em Rosenberg, J. M., Lawson, M. A., Anderson, D. J., \&
 Rutherford, T. (accepted pending minor revisions). In E. Romero-Hall
@@ -432,7 +415,7 @@ integrated teacher education: A resource book} (pp.~1-8). Commonwealth
 Educational Media Center for Asia, New Delhi, India.
 
 \hypertarget{conference-proceedings-papers}{%
-\subsubsection{Conference Proceedings
+\subsection{Conference Proceedings
 Papers}\label{conference-proceedings-papers}}
 
 \hangindent=2em Carpenter, J., Rosenberg, J. M., Dousay, T.,
@@ -523,7 +506,7 @@ Education International Conference 2013} (pp.~3774-3779). Chesapeake,
 VA: AACE. Retrieved from \url{http://www.editlib.org/p/48698git}
 
 \hypertarget{editor-reviewed-publications}{%
-\subsubsection{Editor-Reviewed
+\subsection{Editor-Reviewed
 Publications}\label{editor-reviewed-publications}}
 
 \hangindent=2em Naftzger, N., Schmidt, J. A., Shumow, L., Beymer, P. N.,
@@ -565,7 +548,7 @@ Institute Blog: Research, Policy, Innovation \& Networks}.
 \url{https://mvlri.org/blog/student-motivation-in-online-science-courses-a-path-to-spending-more-time-on-course-and-higher-achievement/}
 
 \hypertarget{unpublished-manuscripts}{%
-\subsubsection{Unpublished Manuscripts}\label{unpublished-manuscripts}}
+\subsection{Unpublished Manuscripts}\label{unpublished-manuscripts}}
 
 \hangindent=2em Rosenberg, J. M. (2018). \emph{Context and Technological
 Pedagogical Content Knowledge: An initial survey of teachers and
@@ -577,10 +560,10 @@ data in summer STEM programs: An experience sampling method approach}
 Theses. (Proquest No.~10747232)
 
 \hypertarget{presentations}{%
-\subsection{Presentations}\label{presentations}}
+\section{Presentations}\label{presentations}}
 
 \hypertarget{peer-reviewed-conference-presentations}{%
-\subsubsection{Peer-Reviewed Conference
+\subsection{Peer-Reviewed Conference
 Presentations}\label{peer-reviewed-conference-presentations}}
 
 \hangindent=2em Rosenberg, J. M., \& Lishinski, A. (2020, March).
@@ -970,7 +953,7 @@ competencies}. Symposium presented at the meeting of the Society for
 Information Technology and Teacher Education, Jacksonville, FL.
 
 \hypertarget{invited-talks}{%
-\subsubsection{Invited Talks}\label{invited-talks}}
+\subsection{Invited Talks}\label{invited-talks}}
 
 \hangindent=2em Rosenberg, J.M. (September, 2019). \emph{Making data
 science education count: Exploring the integration of data science into
@@ -984,7 +967,7 @@ framework}. English International Congress at the Universidad Técnica
 del Norte, Ibarra, Ecuador.
 
 \hypertarget{other-presentations}{%
-\subsubsection{Other Presentations}\label{other-presentations}}
+\subsection{Other Presentations}\label{other-presentations}}
 
 \hangindent=2em Rosenberg, J. M.,\& Lishinsli, A. (January, 2020).
 \emph{Measuring what matters in-the-moment: An experience sampling
@@ -1015,7 +998,7 @@ Presentation at the 13th Annual Tennessee STEM Education Research
 Conference. Murfreesboro, TN.
 
 \hypertarget{competitive-research-training}{%
-\subsection{Competitive Research
+\section{Competitive Research
 Training}\label{competitive-research-training}}
 
 New Faculty Mentoring Program, AERA Division C, 2019
@@ -1029,10 +1012,10 @@ Research Methods with Diverse Groups Advanced Training Institute,
 American Psychological Association, 2014
 
 \hypertarget{software-developed}{%
-\subsection{Software Developed}\label{software-developed}}
+\section{Software Developed}\label{software-developed}}
 
 \hypertarget{r-packages-on-comprehensive-r-archive-network-cran}{%
-\subsubsection{R packages on Comprehensive R Archive Network
+\subsection{R packages on Comprehensive R Archive Network
 (CRAN)}\label{r-packages-on-comprehensive-r-archive-network-cran}}
 
 Rosenberg, J. M., van Lissa, C. J., Beymer, P. N., Anderson, D. J.,
@@ -1053,7 +1036,7 @@ for clustering a set of documents and exploring group-based patterns
 {[}R package{]}. \url{https://github.com/alishinski/clustRcompaR}
 
 \hypertarget{r-package-on-github}{%
-\subsubsection{R package on GitHub}\label{r-package-on-github}}
+\subsection{R package on GitHub}\label{r-package-on-github}}
 
 Bovee, E. A., Estrellado, R. A., Motsipak, J., Rosenberg, J. M., \&
 Velásquez, I. C. (2019). dataedu: Package for Data Science in Education
@@ -1064,25 +1047,24 @@ Transform Models into LaTeX Equations.
 \url{https://github.com/datalorax/equatiomatic}
 
 \hypertarget{interactive-web-application}{%
-\subsubsection{Interactive Web
+\subsection{Interactive Web
 Application}\label{interactive-web-application}}
 
 Rosenberg, J. M., Xu, R., \& Frank, K. A. (2019). Konfound-It!: Quantify
 the robustness of causal inferences. \url{http://konfound-it.com}.
 
 \hypertarget{server-based-application}{%
-\subsubsection{Server-based
-Application}\label{server-based-application}}
+\subsection{Server-based Application}\label{server-based-application}}
 
 Lishinski, A., \& Rosenberg, J. M. (2019). Short message survey: An
 open-source, text-message based application for the experience sampling
 method. \url{https://github.com/picsul/short-message-survey}
 
 \hypertarget{teaching}{%
-\subsection{Teaching}\label{teaching}}
+\section{Teaching}\label{teaching}}
 
 \hypertarget{teaching-awards}{%
-\subsubsection{Teaching Awards}\label{teaching-awards}}
+\subsection{Teaching Awards}\label{teaching-awards}}
 
 MSU-AT\&T Instructional Technology Award: Best Online Course, 2014
 
@@ -1090,7 +1072,7 @@ MSU-AT\&T Instructional Technology Award (Honorable Mention): Best
 Online Course, 2013
 
 \hypertarget{courses-taught}{%
-\subsubsection{Courses Taught}\label{courses-taught}}
+\subsection{Courses Taught}\label{courses-taught}}
 
 Instructor at the University of Tennessee, Knoxville:
 
@@ -1119,10 +1101,10 @@ M.A.~class)\\
 Ph.D.~class)
 
 \hypertarget{service}{%
-\subsection{Service}\label{service}}
+\section{Service}\label{service}}
 
 \hypertarget{editorial-service}{%
-\subsubsection{Editorial Service}\label{editorial-service}}
+\subsection{Editorial Service}\label{editorial-service}}
 
 Editorial Review Board Member, \emph{Journal of Research in Science
 Teaching}, 2019-2022
@@ -1137,8 +1119,7 @@ Special Issue Editor, \emph{Australasian Journal of Educational
 Technology}, 2017
 
 \hypertarget{service-to-the-profession}{%
-\subsubsection{Service to the
-Profession}\label{service-to-the-profession}}
+\subsection{Service to the Profession}\label{service-to-the-profession}}
 
 Panelist, National Science Foundation, 2020
 
@@ -1161,7 +1142,7 @@ Associate Chair, TPACK SIG, Society for Information Technology and
 Teacher Education, 2014-2015
 
 \hypertarget{conference-review-activity}{%
-\subsubsection{Conference Review
+\subsection{Conference Review
 Activity}\label{conference-review-activity}}
 
 Review Panel Member, American Educational Research Association (AERA)
@@ -1185,14 +1166,13 @@ Reviewer, Association for Educational Communications and Technology
 Reviewer, American Psychological Association (APA) Convention, 2015
 
 \hypertarget{service-to-the-community}{%
-\subsubsection{Service to the
-Community}\label{service-to-the-community}}
+\subsection{Service to the Community}\label{service-to-the-community}}
 
 Reviewer, Proposals from Knox County Schools students for the NASA
 Student Spaceflight Experiment Program
 
 \hypertarget{ad-hoc-journal-article-reviews}{%
-\subsubsection{Ad-hoc Journal Article
+\subsection{Ad-hoc Journal Article
 Reviews}\label{ad-hoc-journal-article-reviews}}
 
 AERA Open (2019), Asia-Pacific Education Researcher (2018), Australasian
@@ -1208,7 +1188,7 @@ of Science Education and Technology (2; 2019), Journal of STEM Education
 Research (2019), TechTrends (2; 2019)
 
 \hypertarget{college-related-service}{%
-\subsubsection{College-related Service}\label{college-related-service}}
+\subsection{College-related Service}\label{college-related-service}}
 
 Member, Online Academic Programs Investment and Growth Plan ad-hoc
 committee
@@ -1216,7 +1196,7 @@ committee
 Organizer, Quantitative Methods Research Group
 
 \hypertarget{departmental-service}{%
-\subsubsection{Departmental Service}\label{departmental-service}}
+\subsection{Departmental Service}\label{departmental-service}}
 
 \emph{University of Tennessee, Knoxville}
 
@@ -1230,7 +1210,7 @@ Search Committee Member, Program Specialist, Master of Arts in
 Educational Technology Program, Michigan State University, 2015
 
 \hypertarget{program-service-and-service-on-student-committees}{%
-\subsubsection{Program Service and Service on Student
+\subsection{Program Service and Service on Student
 Committees}\label{program-service-and-service-on-student-committees}}
 
 \emph{University of Tennessee, Knoxville}
@@ -1247,7 +1227,7 @@ Educational Technology program Ph.D.~students, Michigan State
 University, 2014-2018
 
 \hypertarget{workshops-and-outreach}{%
-\subsubsection{Workshops and Outreach}\label{workshops-and-outreach}}
+\subsection{Workshops and Outreach}\label{workshops-and-outreach}}
 
 \hangindent=2em Rosenberg, J. M., Staudt Willet, K. B., \& Greenhalgh,
 S. P. (2019, October). \emph{Online data and open source tools:
@@ -1305,7 +1285,7 @@ of Arts in Educational Technology Mobile Learning Workshop. Workshop at
 Michigan State University, East Lansing, MI.
 
 \hypertarget{campus-and-departmental-presentations}{%
-\subsubsection{Campus and Departmental
+\subsection{Campus and Departmental
 Presentations}\label{campus-and-departmental-presentations}}
 
 \hangindent=2em Rutherford, T., \& Rosenberg, J. M. (2019, February).
@@ -1389,13 +1369,13 @@ teachers. Presentation at the Michigan State University Educational
 Technology Conference, East Lansing, MI.
 
 \hypertarget{podcast}{%
-\subsection{Podcast}\label{podcast}}
+\section{Podcast}\label{podcast}}
 
 Co-host, \href{http://impodstersyndrome.libsyn.com/}{\emph{Impodster
 Syndrome} podcast}
 
 \hypertarget{consulting}{%
-\subsection{Consulting}\label{consulting}}
+\section{Consulting}\label{consulting}}
 
 2017-2019, Statistical software development, Kenneth Frank, Michigan
 State University
@@ -1405,7 +1385,7 @@ State University
 2016, Statistical analysis, Lara Kassab, San Jose State University
 
 \hypertarget{professional-affiliations}{%
-\subsection{Professional Affiliations}\label{professional-affiliations}}
+\section{Professional Affiliations}\label{professional-affiliations}}
 
 American Educational Research Association, 2012 - Present\\
 Association for the Advancement of Computing in Education, 2012 -

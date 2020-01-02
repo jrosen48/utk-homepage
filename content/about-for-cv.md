@@ -1,15 +1,18 @@
 ---
+title: "Joshua M. Rosenberg"
+author: ''
 layout: page
-title: Joshua M. Rosenberg
-author: ""
-permalink: /about/
 output:
+  html_document:
+    df_print: paged
+  blogdown::html_page:
+    keep_md: no
   pdf_document: default
   word_document:
-      reference_docx: Rosenberg-CV-template.docx
-  html_document:
-    keep_md: no
+    reference_docx: Rosenberg-CV-template.docx
+permalink: /about/
 fontsize: 14
+toc: yes
 ---
 PDF version: <a href = 'http://jmichaelrosenberg.com/rosenberg-cv.pdf'> <img src='/logos/pdf.png' style='width: 25px; height: 25px;'/></a>
 *Curriculum Vitae*

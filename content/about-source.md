@@ -1,15 +1,10 @@
 ---
+title: "Joshua M. Rosenberg"
+author: ''
 layout: page
-title: Joshua M. Rosenberg
-author: ""
 permalink: /about/
-output:
-  pdf_document: default
-  word_document:
-      reference_docx: Rosenberg-CV-template.docx
-  html_document:
-    keep_md: no
 fontsize: 14
+toc: yes
 ---
 \begin{center}
 \textit{Curriculum Vitae}
@@ -26,11 +21,11 @@ Homepage: https://joshuamrosenberg.com
 Research Group: https://makingdatasciencecount.com  
 \endgroup
 
-## Research Interests
+# Research Interests
 
 Science education, data science education, computer science education, computational research methods
 
-## Education
+# Education
 
 2018, PhD, Educational Psychology & Educational Technology  
 Michigan State University  
@@ -41,7 +36,7 @@ Michigan State University
 2010, BS, Biology  
 University of North Carolina, Asheville  
 
-## Additional Qualifications
+# Additional Qualifications
 
 2016, Graduate Certificate, Science Education  
 Michigan State University  
@@ -49,7 +44,7 @@ Michigan State University
 2010, Teacher Licensure Program  
 University of North Carolina, Asheville  
 
-## Professional Experience
+# Professional Experience
 
 2018-present, Assistant Professor, STEM Education  
 University of Tennessee, Knoxville  
@@ -57,7 +52,7 @@ University of Tennessee, Knoxville
 2012-2018, Graduate Research and Teaching Assistant    
 Michigan State University  
 
-## Related Professional Experience
+# Related Professional Experience
 
 2010-2012, Science Teacher (Biology and Earth Science)  
 Shelby High School, Shelby, NC  
@@ -65,9 +60,9 @@ Shelby High School, Shelby, NC
 2009-2010, Science Teacher Intern (Biology and Chemistry)  
 C.D. Owen High School, Swannanoa, NC  
 
-## Grants
+# Grants
 
-### Ongoing (Principal Investigator [PI] or Co-PI)
+## Ongoing (Principal Investigator [PI] or Co-PI)
 
 2019-2021, PI, *Understanding the development of interest in computer science: An experience sampling approach* ($346,688). National Science Foundation. (National Science Foundation Grant No. [1937700](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1937700&HistoricalAwards=false))
 
@@ -77,17 +72,17 @@ C.D. Owen High School, Swannanoa, NC
 
 2019-2020, PI, *Planting the seeds for computer science education in East Tennessee through a research-practice partnership*. ($13,200). Community Engaged Research Seed Program, University of Tennessee, Knoxville
 
-### Ongoing (Senior Personnel or Consultant)
+## Ongoing (Senior Personnel or Consultant)
 
 2019-2022, Senior Personnel, *Medical entomology and geospatial analyses: Bringing innovation to teacher education and surveillance studies* ($149,611; *PI*: Rebecca Trout Fryxell). United States Department of Agriculture - Agriculture and Food Research Initiative. (USDA Grant No. 2019-68010-29119)
 
 2017-2020, Consultant (statistical software development and data analysis), *Profiles of science engagement: Broadening participation by understanding individual and contextual influences* ($499,927; *PI*: Jennifer Schmidt, Michigan State University). National Science Foundation.
 
-### Completed
+## Completed
 
 2013, PI, *Basic biology for everyone* ($2,000), Versal Foundation Grant
 
-## Fellowships and Awards
+# Fellowships and Awards
 
 2020, Southeastern Conference (SEC) Visiting Faculty Travel Grant Program
 
@@ -117,13 +112,13 @@ C.D. Owen High School, Swannanoa, NC
 
 2009-2012, Burroughs Wellcome Fund Scholar, University of North Carolina, Asheville
 
-## Publications
+# Publications
 
-### Book
+## Book
 
 Bovee, E. A., Estrellado, R. A., Motsipak, J., Rosenberg, J. M., & Velásquez, I. C. (under contract). *Data science in education using R*. London, England: Routledge. *Nb.* All authors contributed equally. http://www.datascienceineducation.com/
 
-### Peer-Reviewed Journal Articles
+## Peer-Reviewed Journal Articles
 
 \hangindent=2em
 Beymer, P. N., Rosenberg, J. M., & Schmidt, J. A. (in press). Does choice matter or is it all about interest? An investigation using an experience sampling approach in high school science classrooms. *Learning and Individual Differences*.
@@ -180,7 +175,7 @@ Rosenberg, J. M., Terry, C. A., Bell, J., Hiltz, V., & Russo, T. (2016). Design 
 \hangindent=2em
 Rosenberg, J. M., & Koehler, M. J. (2015). Context and Technological Pedagogical Content Knowledge (TPACK): A systematic review. *Journal of Research on Technology in Education, 47*, 186-210. http://dx.doi.org/10.1080/15391523.2015.1052663 <a href = "/pre-prints/rosenberg-koehler-2015-jrte.pdf"><img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
-### Book Chapters
+## Book Chapters
 
 \hangindent=2em
 Rosenberg, J. M., Lawson, M. A., Anderson, D. J., & Rutherford, T. (accepted pending minor revisions). In E. Romero-Hall (Ed.), *Research Methods in Learning Design & Technology.*, Data science dilemmas for teaching research methods in learning design and technology. Routledge: New York, NY.
@@ -212,7 +207,7 @@ Rosenberg, J. M., Greenhalgh, S. P., & Koehler, M. J. (2015). A performance asse
 \hangindent=2em
 Koehler, M. J., Mishra, P., Akcaoglu, M., & Rosenberg, J. M. (2013). Technological pedagogical content knowledge for teachers and teacher educators. In N. Bharati and S. Mishra (Eds.), *ICT integrated teacher education: A resource book* (pp. 1-8). Commonwealth Educational Media Center for Asia, New Delhi, India.
 
-### Conference Proceedings Papers
+## Conference Proceedings Papers
 
 \hangindent=2em
 Carpenter, J., Rosenberg, J. M., Dousay, T., Romero-Hall, E., Trust, T., Kessler, A., Phillips, M., Morrison, S., Fischer, C. & Krutka, D. (2019). What do teacher educators think of teacher education technology competencies?. In K. Graziano (Ed.), Proceedings of Society for Information Technology & Teacher Education International Conference (pp. 796-801). Las Vegas, NV, United States: Association for the Advancement of Computing in Education (AACE). Retrieved April 18, 2019 from https://www.learntechlib.org/primary/p/207735/.
@@ -247,7 +242,7 @@ Rosenberg, J., Terry, C., Bell, J., Hiltz, V., Russo, T. & The EPET Social Media
 \hangindent=2em
 Rosenberg, J. (2013). Review of mobile device use policies in public high schools. In R. McBride & M. Searson (Eds.), *Proceedings of Society for Information Technology & Teacher Education International Conference 2013* (pp. 3774-3779). Chesapeake, VA: AACE. Retrieved from http://www.editlib.org/p/48698git 
 
-### Editor-Reviewed Publications
+## Editor-Reviewed Publications
 
 \hangindent=2em
 Naftzger, N., Schmidt, J. A., Shumow, L., Beymer, P. N., & Rosenberg, J. M. (2019). *Exploring the link between STEM activity leader practice and youth engagement: Findings from the STEM IE study*. Washington, DC: American Institutes for Research. https://www.informalscience.org/exploring-link-between-stem-activity-leader-practice-and-youth-engagement-findings-stem-ie-study
@@ -270,7 +265,7 @@ Phillips, M., Harris, J., Rosenberg, J. M., & Koehler, M. J. (2017). TPCK/TPACK 
 \hangindent=2em
 Rosenberg, J. M., & Ranellucci, J. (2017). Student motivation in online science courses: A path to spending more time on course and higher achievement. *Michigan Virtual Learning Research Institute Blog: Research, Policy, Innovation & Networks*. https://mvlri.org/blog/student-motivation-in-online-science-courses-a-path-to-spending-more-time-on-course-and-higher-achievement/
 
-### Unpublished Manuscripts  
+## Unpublished Manuscripts  
 
 \hangindent=2em
 Rosenberg, J. M. (2018). *Context and Technological Pedagogical Content Knowledge: An initial survey of teachers and validation data*. <a href = "https://osf.io/hc9fq/"><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
@@ -278,9 +273,9 @@ Rosenberg, J. M. (2018). *Context and Technological Pedagogical Content Knowledg
 \hangindent=2em
 Rosenberg, J. M. (2018). *Understanding work with data in summer STEM programs: An experience sampling method approach* (Doctoral dissertation). Retrieved from Proquest Dissertations and Theses. (Proquest No. 10747232) <a href = "/publications/Rosenberg-2018-Dissertation.pdf"><img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> <a href = "https://osf.io/65ckh/"><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
-## Presentations 
+# Presentations 
 
-### Peer-Reviewed Conference Presentations
+## Peer-Reviewed Conference Presentations
 
 \hangindent=2em
 Rosenberg, J. M., & Lishinski, A. (2020, March). *Accruing Interest: What experiences contribute to students developing a sustained interest in computer science over time?* Lightning talk at the Special Interest Group on Computer Science Education Technical Sympsosium, Portland, OR.
@@ -462,7 +457,7 @@ Ke, L., Schwarz, C. V., Lee, M. & Rosenberg, J. M. (2014, April). *Examining ele
 \hangindent=2em
 Koehler, M. J., Rosenberg, J. M., Greenhalgh, S., Zellner, A. L., & Mishra, P. (2014, March). Analyzing students’ portfolios for the development of TPACK. In J. Voogt (Chair), *Artifacts demonstrating teachers’ technology integration competencies*. Symposium presented at the meeting of the Society for Information Technology and Teacher Education, Jacksonville, FL.
 
-### Invited Talks
+## Invited Talks
 
 \hangindent=2em
 Rosenberg, J.M. (September, 2019). *Making data science education count: Exploring the integration of data science into education*. Presentation at the Middle Tennessee State University Mathematics and Science Education Doctoral Seminar series. Middle Tennessee State University, Murfreesboro, TN.
@@ -470,7 +465,7 @@ Rosenberg, J.M. (September, 2019). *Making data science education count: Explori
 \hangindent=2em
 Rosenberg, J. M. (February, 2019). *Making sense of recent advances in the Technological Pedagogical Content Knowledge framework*. English International Congress at the Universidad Técnica del Norte, Ibarra, Ecuador.
 
-### Other Presentations
+## Other Presentations
 
 \hangindent=2em
 Rosenberg, J. M.,& Lishinsli, A. (January, 2020). *Measuring what matters in-the-moment: An experience sampling approach to understanding the development of interest in computer science*. Presentation at the 14th Annual Tennessee STEM Education Research Conference. Cookeville, TN.
@@ -487,7 +482,7 @@ Jones, R. S., & Rosenberg, J. M. (February, 2019). Latent class modeling of whol
 \hangindent=2em
 Lawson, M., Rosenberg, J. M., & Camponovo, M. (February, 2019). Better together? Findings from a combined, integrated STEM unit with pre-service mathematics and science teachers. Presentation at the 13th Annual Tennessee STEM Education Research Conference. Murfreesboro, TN.
 
-## Competitive Research Training
+# Competitive Research Training
 
 New Faculty Mentoring Program, AERA Division C, 2019
 
@@ -497,9 +492,9 @@ Early Career Seminar, Association for Educational Communications and Technology,
 
 Research Methods with Diverse Groups Advanced Training Institute, American Psychological Association, 2014
 
-## Software Developed
+# Software Developed
 
-### R packages on Comprehensive R Archive Network (CRAN)
+## R packages on Comprehensive R Archive Network (CRAN)
 
 Rosenberg, J. M., van Lissa, C. J., Beymer, P. N., Anderson, D. J., Schell, M. J. & Schmidt, J. A. (2019). tidyLPA: Easily carry out Latent Profile Analysis (LPA) using open-source or commercial software [R package]. https://data-edu.github.io/tidyLPA/
 
@@ -509,29 +504,29 @@ Rosenberg, J. M., Schmidt, J. A., Beymer, P. N., & Steingut, R. (2018). prcr: Pe
   
 Rosenberg, J. M., & Lishinski, A. (2018). clustRcompaR: Easy interface for clustering a set of documents and exploring group-based patterns [R package]. https://github.com/alishinski/clustRcompaR
 
-### R package on GitHub
+## R package on GitHub
 
 Bovee, E. A., Estrellado, R. A., Motsipak, J., Rosenberg, J. M., & Velásquez, I. C. (2019). dataedu: Package for Data Science in Education Using R. https://github.com/data-edu/dataedu
 
 Anderson, D. Heiss, A., and Rosenberg, J. M. (2019). equatiomatic: Transform Models into LaTeX Equations. https://github.com/datalorax/equatiomatic
 
-### Interactive Web Application
+## Interactive Web Application
 
 Rosenberg, J. M., Xu, R., & Frank, K. A. (2019). Konfound-It!: Quantify the robustness of causal inferences. http://konfound-it.com.
 
-### Server-based Application
+## Server-based Application
 
 Lishinski, A., & Rosenberg, J. M. (2019). Short message survey: An open-source, text-message based application for the experience sampling method. https://github.com/picsul/short-message-survey
 
-## Teaching
+# Teaching
 
-### Teaching Awards
+## Teaching Awards
 
 MSU-AT&T Instructional Technology Award: Best Online Course, 2014
 
 MSU-AT&T Instructional Technology Award (Honorable Mention): Best Online Course, 2013  
 
-### Courses Taught
+## Courses Taught
 
 Instructor at the University of Tennessee, Knoxville:
 
@@ -552,9 +547,9 @@ Teaching Assistant at Michigan State University:
 *Educational Inquiry* (CEP 900, Ph.D. class)  
 *Social-Emotional Development Across the Lifespan* (CEP 904, Ph.D. class)  
 
-## Service
+# Service
 
-### Editorial Service
+## Editorial Service
 
 Editorial Review Board Member, *Journal of Research in Science Teaching*, 2019-2022
 
@@ -564,7 +559,7 @@ Editorial Review Board Member, *Journal of Research on Technology in Education*,
 
 Special Issue Editor, *Australasian Journal of Educational Technology*, 2017
 
-### Service to the Profession
+## Service to the Profession
 
 Panelist, National Science Foundation, 2020
 
@@ -580,7 +575,7 @@ Communications Deputy, Division C, American Educational Research Association, 20
 
 Associate Chair, TPACK SIG, Society for Information Technology and Teacher Education, 2014-2015
 
-### Conference Review Activity
+## Conference Review Activity
 
 Review Panel Member, American Educational Research Association (AERA) Annual Meeting, 2015-2019
 
@@ -596,21 +591,21 @@ Reviewer, Association for Educational Communications and Technology (AECT) Inter
 
 Reviewer, American Psychological Association (APA) Convention, 2015
 
-### Service to the Community
+## Service to the Community
 
 Reviewer, Proposals from Knox County Schools students for the NASA Student Spaceflight Experiment Program
 
-### Ad-hoc Journal Article Reviews
+## Ad-hoc Journal Article Reviews
 
 AERA Open (2019), Asia-Pacific Education Researcher (2018), Australasian Journal of Educational Technology (2; 2018), British Journal of Educational Technology (2016), Computers & Education (2016, 2017, 2018), Contemporary Educational Psychology (2018), Contemporary Issues in Technology and Teacher Education (2015), Education Sciences (2; 2019), E-Learning and Digital Media (2; 2016), Journal of Educational Technology & Society (2017), Journal of the Learning Sciences (2019), Journal of Open Source Education (2; 2019), Journal of Open Source Software (2018), Journal of Research in Science Teaching (2019), Journal of Science Education and Technology (2; 2019), Journal of STEM Education Research (2019), TechTrends (2; 2019)  
 
-### College-related Service 
+## College-related Service 
 
 Member, Online Academic Programs Investment and Growth Plan ad-hoc committee
 
 Organizer, Quantitative Methods Research Group
 
-### Departmental Service 
+## Departmental Service 
 
 *University of Tennessee, Knoxville*
 
@@ -622,7 +617,7 @@ VolsTeach major ad-hoc committee (2019-)
 
 Search Committee Member, Program Specialist, Master of Arts in Educational Technology Program, Michigan State University, 2015
 
-### Program Service and Service on Student Committees
+## Program Service and Service on Student Committees
 
 *University of Tennessee, Knoxville*
 
@@ -634,7 +629,7 @@ Committee member for Master's degree students: Zachary Clark, Lauren Dukes, Alex
 
 Member of two practicum committees for Educational Psychology and Educational Technology program Ph.D. students, Michigan State University, 2014-2018
 
-### Workshops and Outreach
+## Workshops and Outreach
 
 \hangindent=2em
 Rosenberg, J. M., Staudt Willet, K. B., & Greenhalgh, S. P. (2019, October). *Online data and open source tools: Analyzing educational internet data Using R*. Workshop carried out at the Association for Educational Communications and Technology, Las Vegas, NV. <a href = "https://github.com/bretsw/aect19-workshop"><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
@@ -672,7 +667,7 @@ Rosenberg, J. M. (2014, February). Action research with mobile devices. Presenta
 \hangindent=2em
 Sawaya, S., & Rosenberg, J. M (2014, February). Master of Arts in Educational Technology Mobile Learning Workshop. Workshop at Michigan State University, East Lansing, MI. 
 
-### Campus and Departmental Presentations
+## Campus and Departmental Presentations
 
 \hangindent=2em
 Rutherford, T., & Rosenberg, J. M. (2019, February). *Motivational correlates of choice after failure within an elementary mathematics software*. Presentation at the NC State College of Education Celebration of Research.
@@ -719,11 +714,11 @@ Rosenberg, J. M., Rapa, L., & Wolf, L. G. (2013, February). CEP 815 and the tran
 \hangindent=2em
 Rosenberg, J. M. (2012, November). Mobile learning for teachers. Presentation at the Michigan State University Educational Technology Conference, East Lansing, MI. 
 
-## Podcast
+# Podcast
 
 Co-host, [*Impodster Syndrome* podcast](http://impodstersyndrome.libsyn.com/)
 
-## Consulting
+# Consulting
 
 2017-2019, Statistical software development, Kenneth Frank, Michigan State University  
 
@@ -731,7 +726,7 @@ Co-host, [*Impodster Syndrome* podcast](http://impodstersyndrome.libsyn.com/)
 
 2016, Statistical analysis, Lara Kassab, San Jose State University  
 
-## Professional Affiliations
+# Professional Affiliations
 
 American Educational Research Association, 2012 - Present  
 Association for the Advancement of Computing in Education, 2012 - Present  

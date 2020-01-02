@@ -2,23 +2,32 @@
 
 file.copy("content/about-source.md", "static/rosenberg-cv.Rmd", overwrite=TRUE)
 rmarkdown::render("static/rosenberg-cv.Rmd", output_format = "pdf_document")
-file.copy("static/rosenberg-cv.pdf", "static/cv/rosenberg-cv.pdf", overwrite=TRUE)
+# file.copy("static/rosenberg-cv.pdf", "static/cv/rosenberg-cv.pdf", overwrite=TRUE)
 
-## For Word
-file.copy("content/about.md", "content/about-for-cv.md", overwrite=TRUE)
-cv_word <- readLines("content/about-for-cv.md")
+# ## For Word
+# file.copy("content/about.md", "content/about-for-cv.md", overwrite=TRUE)
+# cv_word <- readLines("content/about-for-cv.md")
+# 
+# cv_word <- cv_word[cv_word!="\\begin"]
+# cv_word <- cv_word[cv_word!="\\begin"]
+# cv_word <- cv_word[cv_word!="\\textit"]
+# cv_word[stringr::str_detect(cv_word, "Curriculum Vitae")] <- "*Curriculum Vitae*"
+# cv_word <- cv_word[cv_word!="\\begingroup"]
+# cv_word <- cv_word[cv_word!="\\hangindent=2em"]
+# cv_word <- cv_word[cv_word!="\\center"]
+# cv_word <- cv_word[cv_word!="\\endgroup"]
+# 
+# writeLines(unlist(cv_word), "static/cv/rosenberg-cv-for-word.Rmd")
+# rmarkdown::render("static/cv/rosenberg-cv-for-word.Rmd", output_format = "word_document")
 
-cv_word <- cv_word[cv_word!="\\begin"]
-cv_word <- cv_word[cv_word!="\\begin"]
-cv_word <- cv_word[cv_word!="\\textit"]
-cv_word[stringr::str_detect(cv_word, "Curriculum Vitae")] <- "*Curriculum Vitae*"
-cv_word <- cv_word[cv_word!="\\begingroup"]
-cv_word <- cv_word[cv_word!="\\hangindent=2em"]
-cv_word <- cv_word[cv_word!="\\center"]
-cv_word <- cv_word[cv_word!="\\endgroup"]
-
-writeLines(unlist(cv_word), "static/cv/rosenberg-cv-for-word.Rmd")
-rmarkdown::render("static/cv/rosenberg-cv-for-word.Rmd", output_format = "word_document")
+# output:
+#     html_document:
+#     df_print: paged
+# blogdown::html_page:
+#     keep_md: no
+# pdf_document: default
+# word_document:
+#     reference_docx: Rosenberg-CV-template.docx
 
 ## For HTML
 file.copy("content/about-source.md", "content/about.md", overwrite=TRUE)
