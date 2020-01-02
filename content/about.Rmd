@@ -27,6 +27,7 @@ Science education, data science education, computer science education, computati
 
 # Education
 
+## Degrees 
 2018, PhD, Educational Psychology & Educational Technology  
 Michigan State University  
 
@@ -36,7 +37,7 @@ Michigan State University
 2010, BS, Biology  
 University of North Carolina, Asheville  
 
-# Additional Qualifications
+## Additional Qualifications
 
 2016, Graduate Certificate, Science Education  
 Michigan State University  
@@ -44,7 +45,9 @@ Michigan State University
 2010, Teacher Licensure Program  
 University of North Carolina, Asheville  
 
-# Professional Experience
+# Experience
+
+## Professional Experience
 
 2018-present, Assistant Professor, STEM Education  
 University of Tennessee, Knoxville  
@@ -52,7 +55,7 @@ University of Tennessee, Knoxville
 2012-2018, Graduate Research and Teaching Assistant    
 Michigan State University  
 
-# Related Professional Experience
+## Related Professional Experience
 
 2010-2012, Science Teacher (Biology and Earth Science)  
 Shelby High School, Shelby, NC  
@@ -367,16 +370,6 @@ Jones, R. S., & Rosenberg, J. M. (February, 2019). Latent class modeling of whol
 
 Lawson, M., Rosenberg, J. M., & Camponovo, M. (February, 2019). Better together? Findings from a combined, integrated STEM unit with pre-service mathematics and science teachers. Presentation at the 13th Annual Tennessee STEM Education Research Conference. Murfreesboro, TN.
 
-# Competitive Research Training
-
-New Faculty Mentoring Program, AERA Division C, 2019
-
-Graduate Student Seminar, AERA Division C, 2016
-
-Early Career Seminar, Association for Educational Communications and Technology, 2015
-
-Research Methods with Diverse Groups Advanced Training Institute, American Psychological Association, 2014
-
 # Software Developed
 
 ## R packages on Comprehensive R Archive Network (CRAN)
@@ -389,17 +382,23 @@ Rosenberg, J. M., Schmidt, J. A., Beymer, P. N., & Steingut, R. (2018). prcr: Pe
   
 Rosenberg, J. M., & Lishinski, A. (2018). clustRcompaR: Easy interface for clustering a set of documents and exploring group-based patterns [R package]. https://github.com/alishinski/clustRcompaR
 
-## R package on GitHub
+## R packages on GitHub
 
 Bovee, E. A., Estrellado, R. A., Motsipak, J., Rosenberg, J. M., & Velásquez, I. C. (2019). dataedu: Package for Data Science in Education Using R. https://github.com/data-edu/dataedu
 
 Anderson, D. Heiss, A., and Rosenberg, J. M. (2019). equatiomatic: Transform Models into LaTeX Equations. https://github.com/datalorax/equatiomatic
 
-## Interactive Web Application
+## Interactive Web Applications
 
-Rosenberg, J. M., Xu, R., & Frank, K. A. (2019). Konfound-It!: Quantify the robustness of causal inferences. http://konfound-it.com.
+Rosenberg, J. M., Xu, R., & Frank, K. A. (2019). *Konfound-It!: Quantify the robustness of causal inferences.* http://konfound-it.com.
 
-## Server-based Application
+Rosenberg, J. M., & Krist, C. (2019). (Generality embedded assessment classifier.* https://jmichaelrosenberg.shinyapps.io/generality-shiny/
+
+Rosenberg, J. M. (2019). *How many (MCMC) cores?* https://jmichaelrosenberg.shinyapps.io/how-many-cores/
+
+Rosenberg, J. M. (2016). *State Educational Twitter Hashtags (SETHs).* https://jmichaelrosenberg.shinyapps.io/SETHs/
+
+## Web Application
 
 Lishinski, A., & Rosenberg, J. M. (2019). Short message survey: An open-source, text-message based application for the experience sampling method. https://github.com/picsul/short-message-survey
 
@@ -572,11 +571,23 @@ Rosenberg, J. M., Rapa, L., & Wolf, L. G. (2013, February). CEP 815 and the tran
 
 Rosenberg, J. M. (2012, November). Mobile learning for teachers. Presentation at the Michigan State University Educational Technology Conference, East Lansing, MI. 
 
-# Podcast
+# Miscellaneous 
+
+## Competitive Research Training
+
+New Faculty Mentoring Program, AERA Division C, 2019
+
+Graduate Student Seminar, AERA Division C, 2016
+
+Early Career Seminar, Association for Educational Communications and Technology, 2015
+
+Research Methods with Diverse Groups Advanced Training Institute, American Psychological Association, 2014
+
+## Podcast
 
 Co-host, [*Impodster Syndrome* podcast](http://impodstersyndrome.libsyn.com/)
 
-# Consulting
+## Consulting
 
 2017-2019, Statistical software development, Kenneth Frank, Michigan State University  
 
@@ -584,7 +595,7 @@ Co-host, [*Impodster Syndrome* podcast](http://impodstersyndrome.libsyn.com/)
 
 2016, Statistical analysis, Lara Kassab, San Jose State University  
 
-# Professional Affiliations
+## Professional Affiliations
 
 American Educational Research Association, 2012 - Present  
 Association for the Advancement of Computing in Education, 2012 - Present  
