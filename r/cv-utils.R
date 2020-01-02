@@ -1,7 +1,7 @@
 # For PDF
 
-file.copy("about-source.Rmd", "static/rosenberg-cv.Rmd", overwrite=TRUE)
-rmarkdown::render("static/rosenberg-cv.Rmd", output_format = "pdf_document")
+#file.copy("about-source.Rmd", "static/rosenberg-cv.Rmd", overwrite=TRUE)
+#rmarkdown::render("static/rosenberg-cv.Rmd", output_format = "pdf_document")
 # file.copy("static/rosenberg-cv.pdf", "static/cv/rosenberg-cv.pdf", overwrite=TRUE)
 
 # ## For Word
