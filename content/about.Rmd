@@ -21,10 +21,6 @@ The University of Tennessee, Knoxville
 Homepage: https://joshuamrosenberg.com  
 Research Group: https://makingdatasciencecount.com  
 
-## Research Interests
-
-Science education, data science education, computer science education, computational research methods
-
 # Education
 
 ## Degrees 

@@ -25,10 +25,6 @@ Homepage: https://joshuamrosenberg.com
 Research Group: https://makingdatasciencecount.com  
 \endgroup
 
-## Research Interests
-
-Science education, data science education, computer science education, computational research methods
-
 # Education
 
 ## Degrees 
