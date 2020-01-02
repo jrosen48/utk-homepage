@@ -4,8 +4,12 @@ author: ''
 layout: page
 permalink: /about/
 fontsize: 14
-toc: yes
+output:
+  blogdown::html_page:
+    toc: true
+    toc_depth: 2
 ---
+
 \begin{center}
 \textit{Curriculum Vitae}
 \end{center}
@@ -20,6 +24,10 @@ The University of Tennessee, Knoxville
 Homepage: https://joshuamrosenberg.com  
 Research Group: https://makingdatasciencecount.com  
 \endgroup
+
+```{r, echo = FALSE}
+render_toc()
+```
 
 # Research Interests
 

@@ -1,6 +1,8 @@
+source("r/render_toc.R")
+
 # # For PDF
 
-file.copy("content/about-source.md", "static/rosenberg-cv.Rmd", overwrite=TRUE)
+file.copy("about-source.Rmd", "static/rosenberg-cv.Rmd", overwrite=TRUE)
 rmarkdown::render("static/rosenberg-cv.Rmd", output_format = "pdf_document")
 # file.copy("static/rosenberg-cv.pdf", "static/cv/rosenberg-cv.pdf", overwrite=TRUE)
 
@@ -30,9 +32,9 @@ rmarkdown::render("static/rosenberg-cv.Rmd", output_format = "pdf_document")
 #     reference_docx: Rosenberg-CV-template.docx
 
 ## For HTML
-file.copy("content/about-source.md", "content/about.md", overwrite=TRUE)
+file.copy("about-source.Rmd", "content/about.Rmd", overwrite=TRUE)
 
-cv_html <- readLines("content/about.md")
+cv_html <- readLines("content/about.Rmd")
 
 find_yml <- stringr::str_detect(cv_html, "---")
 end_of_yml <- which(find_yml)[2]
@@ -52,4 +54,4 @@ cv_html <- cv_html[cv_html!="\\hangindent=2em"]
 cv_html <- cv_html[cv_html!="\\center"]
 cv_html <- cv_html[cv_html!="\\endgroup"]
 
-writeLines(unlist(cv_html), "content/about.md")
+writeLines(unlist(cv_html), "content/about.Rmd")
