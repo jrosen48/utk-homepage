@@ -20,7 +20,10 @@ The University of Tennessee, Knoxville
 865-974-5973 | [jmrosenberg@utk.edu](jmrosenberg@utk.edu)  
 Homepage: https://joshuamrosenberg.com  
 Research Group: https://makingdatasciencecount.com  
-Research Interests: Science education, data science education, computer science education, computational research methods
+
+## Research Interests
+
+Science education, data science education, computer science education, computational research methods
 
 # Education
 
