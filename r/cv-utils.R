@@ -1,6 +1,4 @@
-source("r/render_toc.R")
-
-# # For PDF
+# For PDF
 
 file.copy("about-source.Rmd", "static/rosenberg-cv.Rmd", overwrite=TRUE)
 rmarkdown::render("static/rosenberg-cv.Rmd", output_format = "pdf_document")

@@ -7,7 +7,7 @@ fontsize: 14
 output:
   blogdown::html_page:
     toc: true
-    toc_depth: 2
+    toc_depth: 1
 ---
 
 \begin{center}
@@ -24,10 +24,6 @@ The University of Tennessee, Knoxville
 Homepage: https://joshuamrosenberg.com  
 Research Group: https://makingdatasciencecount.com  
 \endgroup
-
-```{r, echo = FALSE}
-render_toc()
-```
 
 # Research Interests
 

@@ -7,7 +7,7 @@ fontsize: 14
 output:
   blogdown::html_page:
     toc: true
-    toc_depth: 2
+    toc_depth: 1
 ---
 PDF version: <a href = 'http://jmichaelrosenberg.com/rosenberg-cv.pdf'> <img src='/logos/pdf.png' style='width: 25px; height: 25px;'/></a>
 
