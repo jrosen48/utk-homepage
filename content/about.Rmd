@@ -68,7 +68,7 @@ render_toc <- function(
 render_toc('about.Rmd')
 ```
 
-## Contact
+# Contact Information
 
 Assistant Professor, STEM Education  
 Department of Theory and Practice in Teacher Education  
@@ -78,7 +78,7 @@ The University of Tennessee, Knoxville
 Homepage: https://joshuamrosenberg.com  
 Research Group: https://makingdatasciencecount.com  
 
-## Research Interests
+# Research Interests
 
 Research Interests: Science education, data science education, computer science education, computational research methods
 
