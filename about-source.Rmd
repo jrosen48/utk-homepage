@@ -65,6 +65,12 @@ render_toc <- function(
 \begingroup
 \center
 
+## Contents
+
+```{r, echo = FALSE}
+render_toc('about.Rmd')
+```
+
 ## Contact
 
 Assistant Professor, STEM Education  
@@ -79,12 +85,6 @@ Research Group: https://makingdatasciencecount.com
 ## Research Interests
 
 Research Interests: Science education, data science education, computer science education, computational research methods
-
-## Contents
-
-```{r, echo = FALSE}
-render_toc('about.Rmd')
-```
 
 # Education
 
@@ -106,9 +106,7 @@ Michigan State University
 2010, Teacher Licensure Program  
 University of North Carolina, Asheville  
 
-# Experience
-
-## Professional Experience
+# Professional Experience
 
 2018-present, Assistant Professor, STEM Education  
 University of Tennessee, Knoxville  
@@ -116,17 +114,15 @@ University of Tennessee, Knoxville
 2012-2018, Graduate Research and Teaching Assistant    
 Michigan State University  
 
-## Related Professional Experience
-
 2010-2012, Science Teacher (Biology and Earth Science)  
 Shelby High School, Shelby, NC  
 
 2009-2010, Science Teacher Intern (Biology and Chemistry)  
 C.D. Owen High School, Swannanoa, NC  
 
-# Grants
+# Grants, Fellowships, and Awards
 
-## Ongoing (Principal Investigator [PI] or Co-PI)
+## Ongoing Grants (Principal Investigator [PI] or Co-PI) 
 
 2019-2021, PI, *Understanding the development of interest in computer science: An experience sampling approach* ($346,688). National Science Foundation. (National Science Foundation Grant No. [1937700](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1937700&HistoricalAwards=false))
 
@@ -136,17 +132,17 @@ C.D. Owen High School, Swannanoa, NC
 
 2019-2020, PI, *Planting the seeds for computer science education in East Tennessee through a research-practice partnership*. ($13,200). Community Engaged Research Seed Program, University of Tennessee, Knoxville
 
-## Ongoing (Senior Personnel or Consultant)
+## Ongoing Grants (Senior Personnel or Consultant)
 
 2019-2022, Senior Personnel, *Medical entomology and geospatial analyses: Bringing innovation to teacher education and surveillance studies* ($149,611; *PI*: Rebecca Trout Fryxell). United States Department of Agriculture - Agriculture and Food Research Initiative. (USDA Grant No. 2019-68010-29119) https://www.megabitess.org/
 
 2017-2020, Consultant (statistical software development and data analysis), *Profiles of science engagement: Broadening participation by understanding individual and contextual influences* ($499,927; *PI*: Jennifer Schmidt, Michigan State University). National Science Foundation. (National Science Foundation Grant No. [1661064](https://nsf.gov/awardsearch/showAward?AWD_ID=1661064&HistoricalAwards=false))
 
-## Completed
+## Completed Grant
 
 2013, PI, *Basic biology for everyone* ($2,000), Versal Foundation Grant
 
-# Fellowships and Awards
+## Fellowships and Awards
 
 2020, Southeastern Conference (SEC) Visiting Faculty Travel Grant Program
 
