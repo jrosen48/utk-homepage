@@ -8,7 +8,7 @@ title: Home
 
 Welcome! I am an Assistant Professor of STEM Education at the [University of Tennessee, Knoxville](http://utk.edu/). 
 
-If you're looking for my contact information (or links to publications and presentations), please see my [vita](/about/).
+If you're looking for [my contact information](/about/#contact-information) or other information, including links to [ongoing grants](/about/#grants,-fellowships,-and-awards), [publications](/about/#publications) and [presentations](/about/#presentations)), please visit the page for my [vita](/about/).
 
 My *University of Tennessee* homepage is [here](https://tpte.utk.edu/people/joshua-rosenberg-phd/).
 
