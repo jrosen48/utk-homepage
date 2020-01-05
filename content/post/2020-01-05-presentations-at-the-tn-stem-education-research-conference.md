@@ -17,7 +17,7 @@ image:
 projects: []
 ---
 
-The Making Data Science Count research group has two presentations at the upcoming [TN STEM Education Research Conference](https://www.tntech.edu/education/stem/tennessee-stem-education-research-conference.php):
+The [Making Data Science Count research group](https://makingdatasciencecount.com) has two presentations at the upcoming [TN STEM Education Research Conference](https://www.tntech.edu/education/stem/tennessee-stem-education-research-conference.php):
 
 > Rosenberg, J. M.,& Lishinski, A. (January, 2020). *Measuring what matters in-the-moment: An experience sampling approach to understanding the development of interest in computer science*. Presentation at the 14th Annual Tennessee STEM Education Research Conference. Cookeville, TN.
 
