@@ -10,14 +10,6 @@ output:
     toc_depth: 1
 ---
 
-|Resources|Logo|
-|---|---|
-|PDF|<img src = "/logos/pdf.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>|
-|ResearchGate|<img src = "/logos/research-gate.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>|
-|Google Scholar|<img src = "/logos/google-scholar-1.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>|
-|Open Science Framework|<img src = "/logos/osf.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
-|GitHub|<img src = "/logos/github.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>|
-
 ```{r, include = FALSE}
 render_toc <- function(
     filename, 
@@ -183,9 +175,17 @@ C.D. Owen High School, Swannanoa, NC
 
 # Publications
 
+|Resource|Logo|
+|:--|:--|
+|PDF|<img src = "/logos/pdf.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>|
+|ResearchGate|<img src = "/logos/research-gate.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>|
+|Google Scholar|<img src = "/logos/google-scholar-1.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>|
+|Open Science Framework|<img src = "/logos/osf.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
+|GitHub|<img src = "/logos/github.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>|
+
 ## Book
 
-Bovee, E. A., Estrellado, R. A., Motsipak, J., Rosenberg, J. M., & Velásquez, I. C. (under contract). *Data science in education using R*. London, England: Routledge. *Nb.* All authors contributed equally. http://www.datascienceineducation.com/
+Bovee, E. A., Estrellado, R. A., Motsipak, J., Rosenberg, J. M., & Velásquez, I. C. (under contract). *Data science in education using R*. London, England: Routledge. *Nb.* All authors contributed equally. http://www.datascienceineducation.com/ <a href="https://github.com/data-edu/data-science-in-education"><img src = "/logos/github.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
 
 ## Peer-Reviewed Journal Articles
 
@@ -534,10 +534,10 @@ Rosenberg, J. M. (February, 2019). *Making sense of recent advances in the Techn
 ### Other Presentations
 
 \hangindent=2em
-Rosenberg, J. M.,& Lishinsli, A. (January, 2020). *Measuring what matters in-the-moment: An experience sampling approach to understanding the development of interest in computer science*. Presentation at the 14th Annual Tennessee STEM Education Research Conference. Cookeville, TN.
+Rosenberg, J. M.,& Lishinski, A. (January, 2020). *Measuring what matters in-the-moment: An experience sampling approach to understanding the development of interest in computer science*. Presentation at the 14th Annual Tennessee STEM Education Research Conference. Cookeville, TN.
 
 \hangindent=2em
-Rosenberg, J. M., Hodge, L., Aydeniz, M., Schmidt, A. Lishinsli, A., Rich, K., Longnecker, J., Mann. M., & Sadovnik, A. (January, 2020). *A survey of teachers and administrators regarding the implementation of new K-8 computing education standards in Tennessee.* Presentation at the 14th Annual Tennessee STEM Education Research Conference. Cookeville, TN.
+Rosenberg, J. M., Hodge, L., Aydeniz, M., Schmidt, A. Lishinski, A., Rich, K., Longnecker, J., Mann. M., & Sadovnik, A. (January, 2020). *A survey of teachers and administrators regarding the implementation of new K-8 computing education standards in Tennessee.* Presentation at the 14th Annual Tennessee STEM Education Research Conference. Cookeville, TN.
 
 \hangindent=2em
 Camponovo, M., Lawson, M. A., & Rosenberg, M. J. (July, 2019). Integrating geospatial tech with math and science pre-service teachers. 2019 Education Summit @ ESRI UC. San Diego, CA.
