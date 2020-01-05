@@ -10,6 +10,14 @@ output:
     toc_depth: 1
 ---
 
+|Resources|Logo|
+|---|---|
+|PDF|<img src = "/logos/pdf.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>|
+|ResearchGate|<img src = "/logos/research-gate.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>|
+|Google Scholar|<img src = "/logos/google-scholar-1.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>|
+|Open Science Framework|<img src = "/logos/osf.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
+|GitHub|<img src = "/logos/github.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>|
+
 ```{r, include = FALSE}
 render_toc <- function(
     filename, 
@@ -56,11 +64,6 @@ render_toc <- function(
     x <- x[x != ""]
     knitr::asis_output(paste(x, collapse = "\n"))
 }
-
-
-# | PDF | ResearchGate | Google Scholar | Open Science Framework | GitHub |
-# |---|---|---|---|---|
-# |<img src = "/logos/pdf.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>|<img src = "/logos/research-gate.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>|<img src = "/logos/google-scholar-1.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>|<img src = "/logos/osf.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>|<img src = "/logos/github.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>|
 ```
 
 \begin{center}
