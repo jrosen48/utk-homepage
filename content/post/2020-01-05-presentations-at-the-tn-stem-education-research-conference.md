@@ -3,7 +3,7 @@ title: Presentations at the TN STEM Education Research Conference
 author: ''
 date: '2020-01-05'
 slug: presentations-at-the-tn-stem-education-research-conference
-categories: []
+categories: [presentation, cs-ed]
 tags: []
 subtitle: ''
 summary: ''
