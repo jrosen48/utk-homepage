@@ -1,5 +1,5 @@
 ---
-title: "Joshua M. Rosenberg"
+title: Joshua M. Rosenberg
 author: ''
 layout: page
 permalink: /about/
@@ -58,12 +58,7 @@ render_toc <- function(
 }
 ```
 
-\begin{center}
-\textit{Curriculum Vitae}
-\end{center}
-
-\begingroup
-\center
+# Curriculum Vitae
 
 #### Contents
 
@@ -80,7 +75,6 @@ The University of Tennessee, Knoxville
 865-974-5973 | [jmrosenberg@utk.edu](jmrosenberg@utk.edu)  
 Homepage: https://joshuamrosenberg.com  
 Research Group: https://makingdatasciencecount.com  
-\endgroup
 
 # Research Interests
 
@@ -184,6 +178,7 @@ C.D. Owen High School, Swannanoa, NC
 
 ## Book
 
+\hangindent=2em
 Bovee, E. A., Estrellado, R. A., Motsipak, J., Rosenberg, J. M., & Velásquez, I. C. (under contract). *Data science in education using R*. London, England: Routledge. *Nb.* All authors contributed equally. http://www.datascienceineducation.com/ <a href="https://github.com/data-edu/data-science-in-education"><img src = "/logos/github.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
 
 ## Peer-Reviewed Journal Articles

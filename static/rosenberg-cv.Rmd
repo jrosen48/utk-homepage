@@ -1,5 +1,5 @@
 ---
-title: "Joshua M. Rosenberg"
+title: Joshua M. Rosenberg
 author: ''
 layout: page
 permalink: /about/
@@ -58,8 +58,9 @@ render_toc <- function(
 }
 ```
 
+# Curriculum Vitae
 
-#### Contents
+
 
 ```{r, echo = FALSE, eval = FALSE}
 render_toc('rosenberg-cv.Rmd')
@@ -168,13 +169,16 @@ C.D. Owen High School, Swannanoa, NC
 
 # Publications
 
-|Resource|Logo|
-|:--|:--|
-|PDF (preprint or open access)|<img src = "/logos/pdf.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>|
-|GitHub Repository|<img src = "/logos/github.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>|
-|Open Science Framework Repository|<img src = "/logos/osf.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
-|Google Scholar Entry|<img src = "/logos/google-scholar-1.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>|
 
+## Book
+
+\hangindent=2em
+Bovee, E. A., Estrellado, R. A., Motsipak, J., Rosenberg, J. M., & Velásquez, I. C. (under contract). *Data science in education using R*. London, England: Routledge. *Nb.* All authors contributed equally. http://www.datascienceineducation.com/ <a href="https://github.com/data-edu/data-science-in-education"><img src = "/logos/github.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
+
+## Peer-Reviewed Journal Articles
+
+\hangindent=2em
+Beymer, P. N., Rosenberg, J. M., & Schmidt, J. A. (in press). Does choice matter or is it all about interest? An investigation using an experience sampling approach in high school science classrooms. *Learning and Individual Differences*.
 
 \hangindent=2em
 Rosenberg, J. M., Edwards, A., & Chen, B. (2020). Getting messy with data: Tools and strategies to help students analyze and interpret complex data sources. *The Science Teacher, 87*(5).

@@ -2,11 +2,15 @@
 
 file.copy("about-source.Rmd", "static/rosenberg-cv.Rmd", overwrite=TRUE)
 lines <- readr::read_lines('static/rosenberg-cv.Rmd')
+lines[63] <- ""
 lines[13] <- "```{r, include = FALSE, eval = FALSE}"
-lines[70] <- "```{r, echo = FALSE, eval = FALSE}"
-lines[71] <- "render_toc('rosenberg-cv.Rmd')"
-lines <- lines[-c(61:66, 83)]
-lines <- lines[-c(178:185)]
+lines[65] <- "```{r, echo = FALSE, eval = FALSE}"
+lines[66] <- "render_toc('rosenberg-cv.Rmd')"
+#lines <- lines[-c(61, 63:66, 83)]
+# lines[61] <- ""
+# lines[62] <- ""
+# lines[63] <- ""
+lines <- lines[-c(172:177)]
 readr::write_lines(unlist(lines), 'static/rosenberg-cv.Rmd')
 rmarkdown::render("static/rosenberg-cv.Rmd", output_format = "pdf_document")
 file.copy("static/rosenberg-cv.pdf", "static/cv/rosenberg-cv.pdf", overwrite=TRUE)
