@@ -5,12 +5,14 @@ layout: page
 permalink: /about/
 fontsize: 14
 output:
+  word_document:
+    reference_docx: Rosenberg-CV-template.docx
   blogdown::html_page:
     toc: false
     toc_depth: 1
 ---
 
-```{r, include = FALSE, eval = FALSE}
+```{r, include = FALSE}
 render_toc <- function(
     filename, 
     toc_header_name = "Contents",
@@ -60,10 +62,10 @@ render_toc <- function(
 
 # Curriculum Vitae
 
+#### Contents
 
-
-```{r, echo = FALSE, eval = FALSE}
-render_toc('rosenberg-cv.Rmd')
+```{r, echo = FALSE}
+render_toc('about.Rmd')
 ```
 
 # Contact Information
@@ -169,6 +171,12 @@ C.D. Owen High School, Swannanoa, NC
 
 # Publications
 
+|Resource|Logo|
+|:--|:--|
+|PDF (preprint or open access)|<img src = "/logos/pdf.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>|
+|GitHub Repository|<img src = "/logos/github.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>|
+|Open Science Framework Repository|<img src = "/logos/osf.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
+|Google Scholar Entry|<img src = "/logos/google-scholar-1.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>|
 
 ## Book
 
