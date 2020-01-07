@@ -6,10 +6,21 @@
     <description>Recent content in Home on Joshua M. Rosenberg, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Presentations at the TN STEM Education Research Conference</title>
+      <link>/post/2020/01/05/presentations-at-the-tn-stem-education-research-conference/</link>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/01/05/presentations-at-the-tn-stem-education-research-conference/</guid>
+      <description>The Making Data Science Count research group has two presentations at the upcoming TN STEM Education Research Conference:
+ Rosenberg, J. M.,&amp;amp; Lishinski, A. (January, 2020). Measuring what matters in-the-moment: An experience sampling approach to understanding the development of interest in computer science. Presentation at the 14th Annual Tennessee STEM Education Research Conference. Cookeville, TN.
+Rosenberg, J. M., Hodge, L., Aydeniz, M., Schmidt, A. Lishinski, A., Rich, K., Longnecker, J., Mann.</description>
+    </item>
     
     <item>
       <title>Things I learned in the last year</title>
@@ -866,6 +877,19 @@ R packages on Comprehensive R Archive Network (CRAN) Rosenberg, J. M., van Lissa
       <description>Welcome! I am an Assistant Professor of STEM Education at the University of Tennessee, Knoxville. If you&amp;rsquo;re looking to get in touch by email, please contact me at jmrosenberg [at] UTK [dot] edu.
 Upcoming Presentations
  Workshop on Developing Transparent and Reproducible Research with R at the American Educational Research Association meeting in Toronto, Canada on Sunday, April 7, 2019 - 8:00 am - 12:00 pm (register here; more info. here) Presentations at the American Educational Research Association meeting (April 4-9, Toronto, Canada)  </description>
+    </item>
+    
+    <item>
+      <title>Joshua M. Rosenberg</title>
+      <link>/about-for-cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about-for-cv/</guid>
+      <description>Curriculum Vitae Contents  Contact Information Research Interests Education Professional Experience Grants, Fellowships, and Awards Publications  Book Peer-Reviewed Journal Articles Book Chapters Conference Proceedings Papers Editor-Reviewed Publications Unpublished Manuscripts  Presentations Teaching Service Software Miscellaneous    Contact Information Assistant Professor, STEM Education
+Department of Theory and Practice in Teacher Education
+The University of Tennessee, Knoxville
+420 Claxton, 1122 Volunteer Blvd., Knoxville, TN 37996
+865-974-5973 | jmrosenberg@utk.edu</description>
     </item>
     
     <item>
