@@ -182,6 +182,9 @@ Bovee, E. A., Estrellado, R. A., Motsipak, J., Rosenberg, J. M., & Velásquez, I
 ## Peer-Reviewed Journal Articles
 
 \hangindent=2em
+Greenhalgh, S. P., Rosenberg, J. M., Koehler, M. J., Akcaoglu, M., & Staudt Willet, B. (in press). Identifying multiple learning spaces within a single teacher-focused Twitter hashtag. *Computers & Education*.
+
+\hangindent=2em
 Beymer, P. N., Rosenberg, J. M., & Schmidt, J. A. (in press). Does choice matter or is it all about interest? An investigation using an experience sampling approach in high school science classrooms. *Learning and Individual Differences*.
 
 \hangindent=2em

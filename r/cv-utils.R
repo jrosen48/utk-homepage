@@ -58,7 +58,6 @@ cv_html <- append(cv_html, "PDF version: <a href = 'http://jmichaelrosenberg.com
 
 cv_html <- cv_html[cv_html!="\\begin{center}"]
 cv_html <- cv_html[cv_html!="\\end{center}"]
-cv_html[stringr::str_detect(cv_html, "Curriculum Vitae")] <- "*Curriculum Vitae*"
 cv_html <- cv_html[cv_html!="\\begingroup"]
 cv_html <- cv_html[cv_html!="\\hangindent=2em"]
 cv_html <- cv_html[cv_html!="\\center"]

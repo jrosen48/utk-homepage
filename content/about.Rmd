@@ -59,7 +59,7 @@ render_toc <- function(
 }
 ```
 
-*Curriculum Vitae*
+# Curriculum Vitae
 
 ```{r, echo = FALSE}
 render_toc('about.Rmd')
@@ -180,6 +180,8 @@ C.D. Owen High School, Swannanoa, NC
 Bovee, E. A., Estrellado, R. A., Motsipak, J., Rosenberg, J. M., & Velásquez, I. C. (under contract). *Data science in education using R*. London, England: Routledge. *Nb.* All authors contributed equally. http://www.datascienceineducation.com/ <a href="https://github.com/data-edu/data-science-in-education"><img src = "/logos/github.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
 
 ## Peer-Reviewed Journal Articles
+
+Greenhalgh, S. P., Rosenberg, J. M., Koehler, M. J., Akcaoglu, M., & Staudt Willet, B. (in press). Identifying multiple learning spaces within a single teacher-focused Twitter hashtag. *Computers & Education*.
 
 Beymer, P. N., Rosenberg, J. M., & Schmidt, J. A. (in press). Does choice matter or is it all about interest? An investigation using an experience sampling approach in high school science classrooms. *Learning and Individual Differences*.
 
