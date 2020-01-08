@@ -5,14 +5,12 @@ layout: page
 permalink: /about/
 fontsize: 14
 output:
-  word_document:
-    reference_docx: Rosenberg-CV-template.docx
   blogdown::html_page:
     toc: false
     toc_depth: 1
 ---
 
-```{r, include = FALSE}
+```{r, include = FALSE, eval = FALSE}
 render_toc <- function(
     filename, 
     toc_header_name = "Contents",
@@ -62,10 +60,8 @@ render_toc <- function(
 
 # Curriculum Vitae
 
-#### Contents
-
-```{r, echo = FALSE}
-render_toc('about.Rmd')
+```{r, echo = FALSE, eval = FALSE}
+render_toc('static/rosenberg-cv.Rmd')
 ```
 
 # Contact Information
@@ -117,7 +113,7 @@ Shelby High School, Shelby, NC
 2009-2010, Science Teacher Intern (Biology and Chemistry)  
 C.D. Owen High School, Swannanoa, NC  
 
-# Grants, Fellowships, and Awards
+# Grants
 
 ### Ongoing Grants (Principal Investigator [PI] or Co-PI) 
 
@@ -139,7 +135,7 @@ C.D. Owen High School, Swannanoa, NC
 
 2013, PI, *Basic biology for everyone* ($2,000), Versal Foundation Grant
 
-### Fellowships and Awards
+# Fellowships and Awards
 
 2020, Southeastern Conference (SEC) Visiting Faculty Travel Grant Program
 
@@ -171,12 +167,10 @@ C.D. Owen High School, Swannanoa, NC
 
 # Publications
 
-|Resource|Logo|
 |:--|:--|
 |PDF (preprint or open access)|<img src = "/logos/pdf.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>|
 |GitHub Repository|<img src = "/logos/github.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>|
 |Open Science Framework Repository|<img src = "/logos/osf.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
-|Google Scholar Entry|<img src = "/logos/google-scholar-1.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>|
 
 ## Book
 
@@ -339,22 +333,22 @@ Rosenberg, J. M. (2018). *Understanding work with data in summer STEM programs: 
 ### Peer-Reviewed Conference Presentations
 
 \hangindent=2em
-Rosenberg, J. M., & Lishinski, A. (2020, March). *Accruing Interest: What experiences contribute to students developing a sustained interest in computer science over time?* Lightning talk at the Special Interest Group on Computer Science Education Technical Sympsosium, Portland, OR.
-
-\hangindent=2em
-Lishinski, A., & Rosenberg, J. M. (2020, March). *Variable interest rate: What experiences explain differences in interest in computer science among students?* Birds of a feather presentation at the Special Interest Group on Computer Science Education Technical Sympsosium, Portland, OR.
-
-\hangindent=2em
 Rosenberg, J. M., Reid, J., Dyer, E., Koehler, M. J., Fischer, C., & McKenna, T. J. (2020, April). A new context for professional networks: Understanding the social structure of #NGSSChat through social network analysis. In K. A. Frank, K., Torphy, K., Daly, A., & Greenhow, C. (Chairs), *Educators meet the fifth estate: Social media in education.* Symposium to be conducted at the American Educational Research Association Annual Meeting, San Francisco, CA. 
 
 \hangindent=2em
-Rosenberg, J. M., Hodge, L., Bertling, J., & King, S. (2020, April). Art as a context for data science: Explring fourth-grade students' data visualization practices. In J. M. Rosenberg & B. D. Chen (Chairs), *Exploring data science across the curriculum and across grade levels*. Symposium to be conducted at the American Educational Research Association Annual Meeting, San Francisco, CA. 
+Rosenberg, J. M., Hodge, L., Bertling, J., & King, S. (2020, April). Art as a context for data science: Explring fourth-grade students' data visualization practices. In J. M. Rosenberg & B. Chen (Chairs), *Exploring data science across the curriculum and across grade levels*. Symposium to be conducted at the American Educational Research Association Annual Meeting, San Francisco, CA. 
 
 \hangindent=2em
 Rosenberg, J. M., Carpenter, J. P., Romero-Hall, E., & Kessler, A. (2020, April). *Teacher educators' technology competencies and the importance of context*. Paper to be presented at the American Educational Research Association Annual Meeting, San Francisco, CA.
 
 \hangindent=2em
 Rosenberg, J. M., Beymer, P. N., Phun, V., Schmidt, J. A. (2020, April). Sources of variability for students' engagement in science: Findings from a cross-classified, multivariate modeling approach. In P. N. Beymer, D. K. Benden, & M. L. Bernacki (Chairs), *Affordances and modeling of intensive data*. Symposium to be conducted at the American Educational Research Association Annual Meeting, San Francisco, CA.
+
+\hangindent=2em
+Rosenberg, J. M., & Lishinski, A. (2020, March). *Accruing Interest: What experiences contribute to students developing a sustained interest in computer science over time?*. Lightning talk at the Special Interest Group on Computer Science Education Technical Sympsosium, Portland, OR.
+
+\hangindent=2em
+Lishinski, A., & Rosenberg, J. M. (2020, March). *Variable interest rate: What experiences explain differences in interest in computer science among students?*. Birds of a feather presentation at the Special Interest Group on Computer Science Education Technical Sympsosium, Portland, OR.
 
 \hangindent=2em
 Schmidt, J. A., Rosenberg, J. M., & Beymer, P. N. (August, 2019). *Sources of variability in engagement: Exploring situational, personal, and classroom influences*. Poster presented at the annual meeting of the American Psychological Association, Chicago, IL.

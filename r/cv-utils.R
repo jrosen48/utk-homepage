@@ -2,35 +2,35 @@
 
 file.copy("about-source.Rmd", "static/rosenberg-cv.Rmd", overwrite=TRUE)
 lines <- readr::read_lines('static/rosenberg-cv.Rmd')
-lines[65] <- ""
-lines[15] <- "```{r, include = FALSE, eval = FALSE}"
-lines[67] <- "```{r, echo = FALSE, eval = FALSE}"
-lines[68] <- "render_toc('rosenberg-cv.Rmd')"
+lines[13] <- "```{r, include = FALSE, eval = FALSE}"
+lines[63] <- "```{r, echo = FALSE, eval = FALSE}"
+lines[64] <- "render_toc('static/rosenberg-cv.Rmd')"
 #lines <- lines[-c(61, 63:66, 83)]
 # lines[61] <- ""
 # lines[62] <- ""
 # lines[63] <- ""
-lines <- lines[-c(174:179)]
+l <- which(stringr::str_detect(lines, "Resource") & stringr::str_detect(lines, "Logo"))
+lines <- lines[-c(l, l + 5)]
 readr::write_lines(unlist(lines), 'static/rosenberg-cv.Rmd')
 rmarkdown::render("static/rosenberg-cv.Rmd", output_format = "pdf_document")
 file.copy("static/rosenberg-cv.pdf", "static/cv/rosenberg-cv.pdf", overwrite=TRUE)
 
-# For Word
-file.copy("about-source.Rmd", "content/about-for-cv.Rmd", overwrite=TRUE)
-lines <- readLines("content/about-for-cv.Rmd")
-lines[65] <- ""
-lines[15] <- "```{r, include = FALSE, eval = FALSE}"
-lines[67] <- "```{r, echo = FALSE, eval = FALSE}"
-lines <- lines[lines!="\\begin"]
-lines <- lines[lines!="\\begin"]
-lines <- lines[lines!="\\textit"]
-lines[stringr::str_detect(lines, "Curriculum Vitae")] <- "*Curriculum Vitae*"
-lines <- lines[lines!="\\begingroup"]
-lines <- lines[lines!="\\hangindent=2em"]
-lines <- lines[lines!="\\center"]
-lines <- lines[lines!="\\endgroup"]
-writeLines(unlist(lines), "static/cv/rosenberg-cv-for-word.Rmd")
-rmarkdown::render("static/cv/rosenberg-cv-for-word.Rmd", output_format = "word_document")
+# # For Word
+# file.copy("about-source.Rmd", "content/about-for-cv.Rmd", overwrite=TRUE)
+# lines <- readLines("content/about-for-cv.Rmd")
+# lines[65] <- ""
+# lines[15] <- "```{r, include = FALSE, eval = FALSE}"
+# lines[67] <- "```{r, echo = FALSE, eval = FALSE}"
+# lines <- lines[lines!="\\begin"]
+# lines <- lines[lines!="\\begin"]
+# lines <- lines[lines!="\\textit"]
+# lines[stringr::str_detect(lines, "Curriculum Vitae")] <- "*Curriculum Vitae*"
+# lines <- lines[lines!="\\begingroup"]
+# lines <- lines[lines!="\\hangindent=2em"]
+# lines <- lines[lines!="\\center"]
+# lines <- lines[lines!="\\endgroup"]
+# writeLines(unlist(lines), "static/cv/rosenberg-cv-for-word.Rmd")
+# rmarkdown::render("static/cv/rosenberg-cv-for-word.Rmd", output_format = "word_document")
 
 # output:
 #     html_document:
@@ -63,5 +63,3 @@ rmarkdown::render("static/cv/rosenberg-cv-for-word.Rmd", output_format = "word_d
 # cv_html <- cv_html[cv_html!="\\hangindent=2em"]
 # cv_html <- cv_html[cv_html!="\\center"]
 # cv_html <- cv_html[cv_html!="\\endgroup"]
-
-writeLines(unlist(cv_html), "content/about.Rmd")

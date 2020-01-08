@@ -5,8 +5,6 @@ layout: page
 permalink: /about/
 fontsize: 14
 output:
-  word_document:
-    reference_docx: Rosenberg-CV-template.docx
   blogdown::html_page:
     toc: false
     toc_depth: 1
@@ -62,10 +60,8 @@ render_toc <- function(
 
 # Curriculum Vitae
 
-#### Contents
-
 ```{r, echo = FALSE}
-render_toc('about.Rmd')
+render_toc('about-source.Rmd')
 ```
 
 # Contact Information
