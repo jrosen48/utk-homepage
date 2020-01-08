@@ -61,7 +61,7 @@ render_toc <- function(
 # Curriculum Vitae
 
 ```{r, echo = FALSE}
-render_toc('about-source.Rmd')
+render_toc('about.Rmd')
 ```
 
 # Contact Information
