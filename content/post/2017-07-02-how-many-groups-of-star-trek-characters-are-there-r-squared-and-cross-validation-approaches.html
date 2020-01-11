@@ -32,8 +32,8 @@ starwars</code></pre>
 ##  8 R5-D4     97    32 &lt;NA&gt;       white, red red             NA   &lt;NA&gt;  
 ##  9 Bigg…    183    84 black      light      brown           24   male  
 ## 10 Obi-…    182    77 auburn, w… fair       blue-gray       57   male  
-## # … with 77 more rows, and 5 more variables: homeworld &lt;chr&gt;,
-## #   species &lt;chr&gt;, films &lt;list&gt;, vehicles &lt;list&gt;, starships &lt;list&gt;</code></pre>
+## # … with 77 more rows, and 5 more variables: homeworld &lt;chr&gt;, species &lt;chr&gt;,
+## #   films &lt;list&gt;, vehicles &lt;list&gt;, starships &lt;list&gt;</code></pre>
 <p>It looks like we only have three measures that are numbers (<code>height</code>, <code>mass</code>, and <code>birth_year</code>) - though there are others we could possibly turn into numbers (maybe), and there are other approaches (Latent Class Analysis) that can deal with non-numeric measures (such as <code>hair_color</code>). But we’ll have to stick to the three measures that are numbers, for better or worse, for now.</p>
 </div>
 <div id="r2" class="section level1">
@@ -65,21 +65,102 @@ plot_r_squared(starwars, height, mass, birth_year, to_scale = TRUE, to_center = 
 <p>Ooh! Not good. Before the second of the two steps settled on the groups, it ended up with a group with no observations. This is probably in part the result of a small sample, and possibly attributable to the measures we used - and maybe some missing data for some of the measures. Let’s take a look at the data:</p>
 <pre class="r"><code>starwars_ss &lt;- select(starwars, height, mass, birth_year)
 skimr::skim(starwars_ss)</code></pre>
-<pre><code>## Skim summary statistics
-##  n obs: 87 
-##  n variables: 3 
-## 
-## ── Variable type:integer ─────────────────────────────────────────────────────────
-##  variable missing complete  n   mean    sd p0 p25 p50 p75 p100     hist
-##    height       6       81 87 174.36 34.77 66 167 180 191  264 ▁▁▁▂▇▃▁▁
-## 
-## ── Variable type:numeric ─────────────────────────────────────────────────────────
-##    variable missing complete  n  mean     sd p0  p25 p50  p75 p100
-##  birth_year      44       43 87 87.57 154.69  8 35    52 72    896
-##        mass      28       59 87 97.31 169.46 15 55.6  79 84.5 1358
-##      hist
-##  ▇▁▁▁▁▁▁▁
-##  ▇▁▁▁▁▁▁▁</code></pre>
+<table>
+<caption><span id="tab:unnamed-chunk-3">Table 1: </span>Data summary</caption>
+<tbody>
+<tr class="odd">
+<td align="left">Name</td>
+<td align="left">starwars_ss</td>
+</tr>
+<tr class="even">
+<td align="left">Number of rows</td>
+<td align="left">87</td>
+</tr>
+<tr class="odd">
+<td align="left">Number of columns</td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">_______________________</td>
+<td align="left"></td>
+</tr>
+<tr class="odd">
+<td align="left">Column type frequency:</td>
+<td align="left"></td>
+</tr>
+<tr class="even">
+<td align="left">numeric</td>
+<td align="left">3</td>
+</tr>
+<tr class="odd">
+<td align="left">________________________</td>
+<td align="left"></td>
+</tr>
+<tr class="even">
+<td align="left">Group variables</td>
+<td align="left">None</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Variable type: numeric</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th align="left">skim_variable</th>
+<th align="right">n_missing</th>
+<th align="right">complete_rate</th>
+<th align="right">mean</th>
+<th align="right">sd</th>
+<th align="right">p0</th>
+<th align="right">p25</th>
+<th align="right">p50</th>
+<th align="right">p75</th>
+<th align="right">p100</th>
+<th align="left">hist</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">height</td>
+<td align="right">6</td>
+<td align="right">0.93</td>
+<td align="right">174.36</td>
+<td align="right">34.77</td>
+<td align="right">66</td>
+<td align="right">167.0</td>
+<td align="right">180</td>
+<td align="right">191.0</td>
+<td align="right">264</td>
+<td align="left">▁▁▇▅▁</td>
+</tr>
+<tr class="even">
+<td align="left">mass</td>
+<td align="right">28</td>
+<td align="right">0.68</td>
+<td align="right">97.31</td>
+<td align="right">169.46</td>
+<td align="right">15</td>
+<td align="right">55.6</td>
+<td align="right">79</td>
+<td align="right">84.5</td>
+<td align="right">1358</td>
+<td align="left">▇▁▁▁▁</td>
+</tr>
+<tr class="odd">
+<td align="left">birth_year</td>
+<td align="right">44</td>
+<td align="right">0.49</td>
+<td align="right">87.57</td>
+<td align="right">154.69</td>
+<td align="right">8</td>
+<td align="right">35.0</td>
+<td align="right">52</td>
+<td align="right">72.0</td>
+<td align="right">896</td>
+<td align="left">▇▁▁▁▁</td>
+</tr>
+</tbody>
+</table>
 <p>It looks like the <code>birth_year</code> is missing for a lot - 44 - of the observations for the 87 Star Wars characters we have. We’re down to the bare-bones number of measures, but let’s try with just height and mass. We probably don’t need to scale the data.</p>
 <pre class="r"><code>plot_r_squared(starwars, height, mass, to_scale = TRUE, to_center = TRUE, r_squared_table = T)</code></pre>
 <pre><code>## ################################</code></pre>
@@ -107,10 +188,10 @@ skimr::skim(starwars_ss)</code></pre>
 <h1>Groups</h1>
 <pre class="r"><code>two_profiles &lt;- create_profiles(starwars, height, mass, n_profiles = 2, to_scale = TRUE, to_center = TRUE)
 plot(two_profiles)</code></pre>
-<p><img src="/blog/2017-07-02-how-many-groups-of-star-trek-characters-are-there-r-squared-and-cross-validation-approaches_files/figure-html/unnamed-chunk-5-1.png" width="672" /></p>
+<p><img src="/post/2017-07-02-how-many-groups-of-star-trek-characters-are-there-r-squared-and-cross-validation-approaches_files/figure-html/unnamed-chunk-5-1.png" width="672" /></p>
 <pre class="r"><code>three_profiles &lt;- create_profiles(starwars, height, mass, n_profiles = 3, to_scale = TRUE, to_center = TRUE)
 plot(three_profiles)</code></pre>
-<p><img src="/blog/2017-07-02-how-many-groups-of-star-trek-characters-are-there-r-squared-and-cross-validation-approaches_files/figure-html/unnamed-chunk-5-2.png" width="672" /></p>
+<p><img src="/post/2017-07-02-how-many-groups-of-star-trek-characters-are-there-r-squared-and-cross-validation-approaches_files/figure-html/unnamed-chunk-5-2.png" width="672" /></p>
 <div id="the-third-group-massive-not-so-tall" class="section level2">
 <h2>The third group: Massive, not so tall</h2>
 <p>It looks like there is one very massive (literally) observation that makes up one profile in both the two and three profile solutions. Who is it?</p>
