@@ -1,5 +1,5 @@
 ---
-title: First verison of a research group handbook
+title: First version of a research group handbook
 author: ''
 date: '2020-01-11'
 slug: first-verison-of-a-research-group-handbook
