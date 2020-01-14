@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Joshua M. Rosenberg, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>presentation</title>
+      <link>/categories/presentation/</link>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/presentation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>cs-ed</title>
@@ -17,15 +26,6 @@
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/categories/cs-ed/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>presentation</title>
-      <link>/categories/presentation/</link>
-      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/presentation/</guid>
       <description></description>
     </item>
     

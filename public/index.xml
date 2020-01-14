@@ -6,10 +6,21 @@
     <description>Recent content in Home on Joshua M. Rosenberg, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>KnoxData presentation: An introduction to using R for data science, zero prerequisites required!</title>
+      <link>/post/2020/01/14/knoxdata-presentation-an-introduction-to-using-r-for-data-science-zero-prerequisites-required/</link>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/01/14/knoxdata-presentation-an-introduction-to-using-r-for-data-science-zero-prerequisites-required/</guid>
+      <description>I am presenting on Thursday, January 24th on An introduction to using R for data science (zero prerequisites required!) for the KnoxData group. The Meetup page for event is here.
+A description of the event is here:
+ R is a freely-available, cross-platform, open-source programming language and statistical software environment that is well-suited to doing data science, but, can have an high barrier to entry. This KnoxData presentation aims to provides an introduction to using for data science, with a focus on developing a foundation in capabilities (and confidence!</description>
+    </item>
     
     <item>
       <title>First version of a research group handbook</title>

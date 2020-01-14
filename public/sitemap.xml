@@ -3,32 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-01-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-01-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2020/01/14/knoxdata-presentation-an-introduction-to-using-r-for-data-science-zero-prerequisites-required/</loc>
+    <lastmod>2020-01-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-01-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/presentation/</loc>
+    <lastmod>2020-01-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/2020/01/11/first-verison-of-a-research-group-handbook/</loc>
     <lastmod>2020-01-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-01-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2020-01-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2020-01-05T12:58:45-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/cs-ed/</loc>
-    <lastmod>2020-01-05T12:58:45-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/presentation/</loc>
     <lastmod>2020-01-05T12:58:45-05:00</lastmod>
   </url>
   
