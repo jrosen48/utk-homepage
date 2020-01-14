@@ -3,6 +3,7 @@
 file.copy("about-source.Rmd", "static/rosenberg-cv.Rmd", overwrite=TRUE)
 lines <- readr::read_lines('static/rosenberg-cv.Rmd')
 lines[13] <- "```{r, include = FALSE, eval = FALSE}"
+lines[61] <- ""
 lines[63] <- "```{r, echo = FALSE, eval = FALSE}"
 lines[64] <- "render_toc('static/rosenberg-cv.Rmd')"
 #lines <- lines[-c(61, 63:66, 83)]
@@ -10,7 +11,7 @@ lines[64] <- "render_toc('static/rosenberg-cv.Rmd')"
 # lines[62] <- ""
 # lines[63] <- ""
 l <- which(stringr::str_detect(lines, "Resource") & stringr::str_detect(lines, "Logo"))
-lines <- lines[-c(l, l + 5)]
+lines <- lines[-c(l:(l + 5))]
 readr::write_lines(unlist(lines), 'static/rosenberg-cv.Rmd')
 rmarkdown::render("static/rosenberg-cv.Rmd", output_format = "pdf_document")
 file.copy("static/rosenberg-cv.pdf", "static/cv/rosenberg-cv.pdf", overwrite=TRUE)

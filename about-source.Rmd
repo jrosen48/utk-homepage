@@ -57,8 +57,8 @@ render_toc <- function(
     knitr::asis_output(paste(x, collapse = "\n"))
 }
 ```
-
 # Curriculum Vitae
+## Contents
 
 ```{r, echo = FALSE}
 render_toc('about.Rmd')
@@ -657,6 +657,9 @@ Committee member for Master's degree students: Zachary Clark, Lauren Dukes, Alex
 Member of two practicum committees for Educational Psychology and Educational Technology program Ph.D. students, Michigan State University, 2014-2018
 
 ### Workshops and Outreach
+
+\hangindent=2em
+Rosenberg, J. M. (2020, January). *An introduction to using R for data science (zero prerequisites required!)*. Presentation for the KnoxData group, Knoxville, TN.
 
 \hangindent=2em
 Rosenberg, J. M., Staudt Willet, K. B., & Greenhalgh, S. P. (2019, October). *Online data and open source tools: Analyzing educational internet data Using R*. Workshop carried out at the Association for Educational Communications and Technology, Las Vegas, NV. <a href = "https://github.com/bretsw/aect19-workshop"><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
