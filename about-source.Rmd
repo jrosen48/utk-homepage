@@ -552,6 +552,47 @@ Jones, R. S., & Rosenberg, J. M. (February, 2019). Latent class modeling of whol
 \hangindent=2em
 Lawson, M., Rosenberg, J. M., & Camponovo, M. (February, 2019). Better together? Findings from a combined, integrated STEM unit with pre-service mathematics and science teachers. Presentation at the 13th Annual Tennessee STEM Education Research Conference. Murfreesboro, TN.
 
+### Workshops and Outreach
+
+\hangindent=2em
+Rosenberg, J. M. (2020, January). *An introduction to using R for data science (zero prerequisites required!)*. Presentation for the KnoxData group, Knoxville, TN.
+
+\hangindent=2em
+Rosenberg, J. M., Staudt Willet, K. B., & Greenhalgh, S. P. (2019, October). *Online data and open source tools: Analyzing educational internet data Using R*. Workshop carried out at the Association for Educational Communications and Technology, Las Vegas, NV. <a href = "https://github.com/bretsw/aect19-workshop"><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
+
+\hangindent=2em
+Rosenberg, J.M. (September, 2019). *An introduction to data science in education using R*. Workshop at Middle Tennessee State University. Middle Tennessee State University, Murfreesboro, TN. <a href = "https://github.com/jrosen48/mtsu-workshop"><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
+
+\hangindent=2em
+Rosenberg, J. M. (2019, June). *The use of mixed effects models for analyzing complex data*. Presentation for the KnoxData group, Knoxville, TN. <a href = "https://github.com/jrosen48/data-science-ish"><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
+
+\hangindent=2em
+Rosenberg, J. M. (2019, May). *Working with data in education: Using data and supporting students to use data*. Workshop carried out for teachers at Knoxville Jewish Day School. https://docs.google.com/presentation/d/1uSdRvF2GjhUpO2fCHZIUdXmf0texzczGGlbzmZBgggw/edit?usp=sharing 
+
+\hangindent=2em
+Rosenberg, J. M. (2019, May). *Won’t you be my neighboR? An introduction to R for data science in education*. Workshop carried out for the Educational Psychology and Educational Technology program, Michigan State University. <a href = "https://github.com/jrosen48/MSU-workshop-2019"><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
+
+\hangindent=2em
+Anderson, D. J., and Rosenberg, J. M. (2019, April). *Transparent and reproducible research with R*. Workshop carried out at the Annual Meeting of the American Educational Research Association, Toronto, Canada. <a href = "https://github.com/ResearchTransparency/rr_aera19 "><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
+
+\hangindent=2em
+Rosenberg, J. M. (2017, April). *Introduction to R for Data Analysis*. Presentation at the School of Criminal Justice, Michigan State University. 
+
+\hangindent=2em
+Rosenberg, J. M. (March, 2016). *An introduction to R for programming and statistical analysis in education*. Georgia Southern University College of Education, Statesboro, GA.
+
+\hangindent=2em
+Ranellucci, J., & Rosenberg, J. M. (2016, February). *Motivating our students: A partnership between Michigan Virtual Schools and Michigan State University*. Workshop at Michigan Virtual University, East Lansing, MI.
+
+\hangindent=2em
+Rosenberg, J. M. (2014, April). *Action research with mobile devices and other “disruptive” technologies*. Presentation at the Best of the Michigan Association for Computer Users in Learning Conference, Waterford, MI.
+
+\hangindent=2em
+Rosenberg, J. M. (2014, February). *Action research with mobile devices*. Presentation at the Michigan Association for Computer Users in Learning Mobile Learning Conference, Kalamazoo, MI. 
+
+\hangindent=2em
+Sawaya, S., & Rosenberg, J. M (2014, February). *Master of Arts in Educational Technology Mobile Learning Workshop*. Workshop at Michigan State University, East Lansing, MI. 
+
 
 # Teaching
 
@@ -666,48 +707,10 @@ Committee member for Master's degree students: Zachary Clark, Lauren Dukes, Alex
 
 Member of two practicum committees for Educational Psychology and Educational Technology program Ph.D. students, Michigan State University, 2014-2018
 
-### Workshops and Outreach
-
-\hangindent=2em
-Rosenberg, J. M. (2020, January). *An introduction to using R for data science (zero prerequisites required!)*. Presentation for the KnoxData group, Knoxville, TN.
-
-\hangindent=2em
-Rosenberg, J. M., Staudt Willet, K. B., & Greenhalgh, S. P. (2019, October). *Online data and open source tools: Analyzing educational internet data Using R*. Workshop carried out at the Association for Educational Communications and Technology, Las Vegas, NV. <a href = "https://github.com/bretsw/aect19-workshop"><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
-
-\hangindent=2em
-Rosenberg, J.M. (September, 2019). *An introduction to data science in education using R*. Workshop at Middle Tennessee State University. Middle Tennessee State University, Murfreesboro, TN. <a href = "https://github.com/jrosen48/mtsu-workshop"><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
-
-\hangindent=2em
-Rosenberg, J. M. (2019, June). *The use of mixed effects models for analyzing complex data*. Presentation for the KnoxData group, Knoxville, TN. <a href = "https://github.com/jrosen48/data-science-ish"><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
-
-\hangindent=2em
-Rosenberg, J. M. (2019, May). *Working with data in education: Using data and supporting students to use data*. Workshop carried out for teachers at Knoxville Jewish Day School. https://docs.google.com/presentation/d/1uSdRvF2GjhUpO2fCHZIUdXmf0texzczGGlbzmZBgggw/edit?usp=sharing 
-
-\hangindent=2em
-Rosenberg, J. M. (2019, May). *Won’t you be my neighboR? An introduction to R for data science in education*. Workshop carried out for the Educational Psychology and Educational Technology program, Michigan State University. <a href = "https://github.com/jrosen48/MSU-workshop-2019"><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
-
-\hangindent=2em
-Anderson, D. J., and Rosenberg, J. M. (2019, April). *Transparent and reproducible research with R*. Workshop carried out at the Annual Meeting of the American Educational Research Association, Toronto, Canada. <a href = "https://github.com/ResearchTransparency/rr_aera19 "><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
-
-\hangindent=2em
-Rosenberg, J. M. (2017, April). *Introduction to R for Data Analysis*. Presentation at the School of Criminal Justice, Michigan State University. 
-
-\hangindent=2em
-Rosenberg, J. M. (March, 2016). *An introduction to R for programming and statistical analysis in education*. Georgia Southern University College of Education, Statesboro, GA.
-
-\hangindent=2em
-Ranellucci, J., & Rosenberg, J. M. (2016, February). *Motivating our students: A partnership between Michigan Virtual Schools and Michigan State University*. Workshop at Michigan Virtual University, East Lansing, MI.
-
-\hangindent=2em
-Rosenberg, J. M. (2014, April). *Action research with mobile devices and other “disruptive” technologies*. Presentation at the Best of the Michigan Association for Computer Users in Learning Conference, Waterford, MI.
-
-\hangindent=2em
-Rosenberg, J. M. (2014, February). *Action research with mobile devices*. Presentation at the Michigan Association for Computer Users in Learning Mobile Learning Conference, Kalamazoo, MI. 
-
-\hangindent=2em
-Sawaya, S., & Rosenberg, J. M (2014, February). *Master of Arts in Educational Technology Mobile Learning Workshop*. Workshop at Michigan State University, East Lansing, MI. 
-
 ### Campus and Departmental Presentations
+
+\hangindent=2em
+Rosenberg, J. M. (2020, January). *Multiple uses for multi-level models: Examples from recent research*. Presentation for the College of Education, Health, and Human Sciences Quantitative Methods Brownbag Seminar, Knoxville, TN.
 
 \hangindent=2em
 Rutherford, T., & Rosenberg, J. M. (2019, February). *Motivational correlates of choice after failure within an elementary mathematics software*. Presentation at the NC State College of Education Celebration of Research.
