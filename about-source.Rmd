@@ -28,6 +28,7 @@ render_toc <- function(
     x <- x[grepl("^#+", x)]
     if (!is.null(toc_header_name)) 
         x <- x[!grepl(paste0("^#+ ", toc_header_name), x)]
+    x <- x[!grepl(paste0("^#+ ", "Curriculum Vitae"), x)] # manually remove a header
     if (is.null(base_level))
         base_level <- min(sapply(gsub("(#+).+", "\\1", x), nchar))
     start_at_base_level <- FALSE
@@ -180,6 +181,9 @@ C.D. Owen High School, Swannanoa, NC
 Bovee, E. A., Estrellado, R. A., Motsipak, J., Rosenberg, J. M., & Velásquez, I. C. (under contract). *Data science in education using R*. London, England: Routledge. *Nb.* All authors contributed equally. http://www.datascienceineducation.com/ <a href="https://github.com/data-edu/data-science-in-education"><img src = "/logos/github.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
 
 ## Peer-Reviewed Journal Articles
+
+\hangindent=2em
+Anderson, D. J., Rowley, B., Stegenga, S., Irvin, P. S., & Rosenberg, J. M. (in press). Evaluating content-related validity evidence using a text-based, machine learning procedure. *Educational Measurement: Issues and Practice*.
 
 \hangindent=2em
 Greenhalgh, S. P., Rosenberg, J. M., Koehler, M. J., Akcaoglu, M., & Staudt Willet, B. (in press). Identifying multiple learning spaces within a single teacher-focused Twitter hashtag. *Computers & Education*.
@@ -335,7 +339,7 @@ Rosenberg, J. M. (2018). *Understanding work with data in summer STEM programs: 
 
 # Presentations 
 
-### Peer-Reviewed Conference Presentations
+## Peer-Reviewed Conference Presentations
 
 \hangindent=2em
 Rosenberg, J. M., Reid, J., Dyer, E., Koehler, M. J., Fischer, C., & McKenna, T. J. (2020, April). A new context for professional networks: Understanding the social structure of #NGSSChat through social network analysis. In K. A. Frank, K., Torphy, K., Daly, A., & Greenhow, C. (Chairs), *Educators meet the fifth estate: Social media in education.* Symposium to be conducted at the American Educational Research Association Annual Meeting, San Francisco, CA. 
@@ -517,7 +521,7 @@ Ke, L., Schwarz, C. V., Lee, M. & Rosenberg, J. M. (2014, April). *Examining ele
 \hangindent=2em
 Koehler, M. J., Rosenberg, J. M., Greenhalgh, S., Zellner, A. L., & Mishra, P. (2014, March). Analyzing students’ portfolios for the development of TPACK. In J. Voogt (Chair), *Artifacts demonstrating teachers’ technology integration competencies*. Symposium presented at the meeting of the Society for Information Technology and Teacher Education, Jacksonville, FL.
 
-### Invited Talks
+## Invited Talks
 
 \hangindent=2em
 Rosenberg, J.M. (September, 2019). *Making data science education count: Exploring the integration of data science into education*. Presentation at the Middle Tennessee State University Mathematics and Science Education Doctoral Seminar series. Middle Tennessee State University, Murfreesboro, TN.
@@ -525,7 +529,13 @@ Rosenberg, J.M. (September, 2019). *Making data science education count: Explori
 \hangindent=2em
 Rosenberg, J. M. (February, 2019). *Making sense of recent advances in the Technological Pedagogical Content Knowledge framework*. English International Congress at the Universidad Técnica del Norte, Ibarra, Ecuador.
 
-### Other Presentations
+## Other Presentations
+
+\hangindent=2em
+Rosenberg, J. M., Dyer, E. B., Anderson, D. J., & Fischer, C. (April, 2020). *If you’re happy and you know it, post a tweet? A study of the sentiment of posts to the #NGSSchat hashtag on Twitter*. Presentation at the AERA Satellite Conference on Educational Data Science. Stanford, CA. 
+
+\hangindent=2em
+Dyer, E. B., Rosenberg, J. M., Bosch, N., Krist, C., & D'Angelo, C. (April, 2020). *Better together? Initial findings and implications from combining qualitative coding and computational methods to analyze classroom audiovisual data*. Presentation at the AERA Satellite Conference on Educational Data Science. Stanford, CA.
 
 \hangindent=2em
 Rosenberg, J. M.,& Lishinski, A. (January, 2020). *Measuring what matters in-the-moment: An experience sampling approach to understanding the development of interest in computer science*. Presentation at the 14th Annual Tennessee STEM Education Research Conference. Cookeville, TN.
