@@ -434,7 +434,7 @@ Jones, R. S., & Rosenberg, J. M. (February, 2019). Latent class modeling of whol
 
 Lawson, M., Rosenberg, J. M., & Camponovo, M. (February, 2019). Better together? Findings from a combined, integrated STEM unit with pre-service mathematics and science teachers. Presentation at the 13th Annual Tennessee STEM Education Research Conference. Murfreesboro, TN.
 
-### Workshops and Outreach
+## Workshops and Outreach
 
 Rosenberg, J. M. (2020, January). *An introduction to using R for data science (zero prerequisites required!)*. Presentation for the KnoxData group, Knoxville, TN.
 
