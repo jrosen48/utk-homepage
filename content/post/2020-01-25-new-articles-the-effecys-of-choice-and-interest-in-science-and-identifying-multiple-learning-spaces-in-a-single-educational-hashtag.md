@@ -8,7 +8,7 @@ categories: []
 tags: []
 ---
 
-I'm excited to share links to two articles published in the past month!
+I'm excited to share links to two articles on new research published this month.
 
 The first, on how the regularly-occurring chats that take place through an education-focused Twitter hashtag are distinct from the rest of the time (i.e., non-chat times when people use the hashtag), is by [Spencer Greenhalgh](https://spencergreenhalgh.com/) et al. in *Computers & Education*. Here is the abstract:
 
@@ -16,7 +16,7 @@ The first, on how the regularly-occurring chats that take place through an educa
 
 *Link to article (accessible only through March 15, 2020)*: https://www.sciencedirect.com/science/article/pii/S0360131520300117?dgcid=coauthor
 
-The other, on the effects of (learners) being able to make choices and their learning, and how that relates to their interest in what they are learning, is by Patrick Beymer et al. and is in *Learning and Individual Differences*. Here is the abstract:
+The other, on the effects of (learners) being able to make choices and their learning, and how that relates to their interest in what they are learning, is by [Patrick Beymer](https://www.researchgate.net/profile/Patrick_Beymer) et al. and is in *Learning and Individual Differences*. Here is the abstract:
 
 > Having choices during learning is often touted as beneficial for student motivation. However, it is not clear whether the motivating factor is choice or the act of pursuing tasks that are of greater interest, which is often afforded by choice. Using data collected via the Experience Sampling Method from 244 youth (ages 14–18) in the United States, we explore the effects of choice and interest on student engagement, affect, and learning in multiple high school science classrooms from a single high school. Results of multilevel modeling indicate that choice and interest are independently associated with engagement, affect and learning, though effect sizes are larger for interest. Momentary interest was also found to be a stronger predictor than initial interest. Further, the specific types of choices educators offer (e.g., who to work with, how to do an activity, how to allocate time) are differently associated with affect, learning, and engagement.
 
