@@ -1,5 +1,5 @@
 ---
-title: 'New article - The effects of choice and interest in science
+title: 'New article - The effects of choice and interest in science'
 author: ''
 date: '2020-01-25'
 slug: new-articles-the-effects-of-choice-and-interest-in-science
