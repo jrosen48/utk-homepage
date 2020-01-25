@@ -1,8 +1,8 @@
 ---
-title: 'New article: The effect of choice and interest in science
+title: 'New article: The effects of choice and interest in science
 author: ''
 date: '2020-01-25'
-slug: new-articles-the-effects-of-choice-and-interest-in-science-and-identifying-multiple-learning-spaces-in-a-single-educational-hashtag
+slug: new-articles-the-effects-of-choice-and-interest-in-science
 categories: []
 tags: []
 ---
