@@ -3,22 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/</loc>
+    <lastmod>2020-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2020/01/25/new-articles-the-effecys-of-choice-and-interest-in-science-and-identifying-multiple-learning-spaces-in-a-single-educational-hashtag/</loc>
+    <lastmod>2020-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
     <lastmod>2020-01-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-01-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/2020/01/14/knoxdata-presentation-an-introduction-to-using-r-for-data-science-zero-prerequisites-required/</loc>
-    <lastmod>2020-01-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
     <lastmod>2020-01-14T00:00:00+00:00</lastmod>
   </url>
   
