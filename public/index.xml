@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Joshua M. Rosenberg, Ph.D.</title>
@@ -6,10 +6,20 @@
     <description>Recent content in Home on Joshua M. Rosenberg, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Multiple uses for multi-level models: Examples from recent research</title>
+      <link>/post/2020/01/24/multiple-uses-for-multi-level-models-examples-from-recent-research/</link>
+      <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/01/24/multiple-uses-for-multi-level-models-examples-from-recent-research/</guid>
+      <description>I&amp;rsquo;m presenting on Multiple uses for multi-level models: Examples from recent research today for the College of Education, Health, and Human Sciences Quantitative Methods Brownbag Seminar.
+A link to the presentation is here: https://docs.google.com/presentation/d/1nY7n4H08fVMRUQxNQl6cy0ilLhX-2j7_PCj0TGPoFsE/edit?usp=sharing</description>
+    </item>
     
     <item>
       <title>KnoxData presentation: An introduction to using R for data science, zero prerequisites required!</title>
@@ -42,7 +52,7 @@ Thanks to Teya Rutherford for sharing the handbook for her research group. Thank
       <guid>/post/2020/01/05/presentations-at-the-tn-stem-education-research-conference/</guid>
       <description>The Making Data Science Count research group has two presentations at the upcoming TN STEM Education Research Conference:
  Rosenberg, J. M.,&amp;amp; Lishinski, A. (January, 2020). Measuring what matters in-the-moment: An experience sampling approach to understanding the development of interest in computer science. Presentation at the 14th Annual Tennessee STEM Education Research Conference. Cookeville, TN.
-Rosenberg, J. M., Hodge, L., Aydeniz, M., Schmidt, A. Lishinski, A., Rich, K., Longnecker, J., Mann.</description>
+  Rosenberg, J. M., Hodge, L., Aydeniz, M., Schmidt, A. Lishinski, A., Rich, K., Longnecker, J.</description>
     </item>
     
     <item>
@@ -98,6 +108,7 @@ I mentioned this in an earlier post introducing the book: the publisher, Routled
       <description>Here is a tiny (Shiny) application to help with selecting the number of cores in the context of MCMC estimation.
 How many cores? is here: https://jmichaelrosenberg.shinyapps.io/how-many-cores/
 Here is a screenshot:
+![](/post/2019-12-13-a-tiny-shiny-how-many-mcmc-cores_files/Screen Shot 2019-12-13 at 8.11.18 PM.png)
 The source is here: https://github.com/jrosen48/how-many-cores</description>
     </item>
     
@@ -109,7 +120,7 @@ The source is here: https://github.com/jrosen48/how-many-cores</description>
       <guid>/post/2019/12/10/using-r-r-studio-from-a-pixel-slate-chromebook/</guid>
       <description>I&amp;rsquo;ve had a Pixel Slate Chromebook for a little while, and noticed in a recent update that it was possible to install Linux.
 This was pretty easy to do (see here). After doing it (it took a few minutes to download Linux, but was otherwise super straightforward), I opened up the command line interface and saw this:
-  There are a few things I know how to do through a command line interface; one is to list all of the files and directories available, so I ran the following:</description>
+ There are a few things I know how to do through a command line interface; one is to list all of the files and directories available, so I ran the following:</description>
     </item>
     
     <item>
@@ -222,7 +233,7 @@ Lessons and related resources  https://nextgenscience.org/resources/examples-qua
       
       <guid>/post/2019/08/12/new-project-understanding-the-development-of-interest-in-computer-science/</guid>
       <description>I am excited to share that I was recently awarded funding to carry out a new project, Understanding the development of interest in computer science - an experience sampling approach. This is for the project I wrote about here.
-Here&amp;rsquo;s an excerpt from NSF&amp;rsquo;s summary (a bit more is here):
+Here&amp;rsquo;s an excerpt from NSF&amp;rsquo;s summary (a bit more is [here] (https://www.nsf.gov/awardsearch/showAward?AWD_ID=1937700&amp;amp;HistoricalAwards=false)):
  This project explores STEM interest development at the undergraduate level in computer science. It is a study of national importance that will focus on substantial differences in who pursues an interest, a major, or an occupation in computer science.</description>
     </item>
     
@@ -878,7 +889,7 @@ Here’s a description:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/post/1/01/01/</guid>
-      <description>The first, rough draft of the (web-based) version of Data Science in Education Using R is available /*! jQuery v1.11.3 | (c) 2005, 2015 jQuery Foundation, Inc. | jquery.org/license */ !function(a,b){&#34;object&#34;==typeof module&amp;&amp;&#34;object&#34;==typeof module.exports?module.exports=a.document?b(a,!0):function(a){if(!a.document)throw new Error(&#34;jQuery requires a window with a document&#34;);return b(a)}:b(a)}(&#34;undefined&#34;!=typeof window?window:this,function(a,b){var c=[],d=c.slice,e=c.concat,f=c.push,g=c.indexOf,h={},i=h.toString,j=h.hasOwnProperty,k={},l=&#34;1.11.3&#34;,m=function(a,b){return new m.fn.init(a,b)},n=/^[\s\uFEFF\xA0]+|[\s\uFEFF\xA0]+$/g,o=/^-ms-/,p=/-([\da-z])/gi,q=function(a,b){return b.toUpperCase()};m.fn=m.prototype={jquery:l,constructor:m,selector:&#34;&#34;,length:0,toArray:function(){return d.call(this)},get:function(a){return null!=a?0a?this[a+this.length]:this[a]:d.call(this)},pushStack:function(a){var b=m.merge(this.constructor(),a);return b.prevObject=this,b.context=this.context,b},each:function(a,b){return m.each(this,a,b)},map:function(a){return this.pushStack(m.map(this,function(b,c){return a.call(b,c,b)}))},slice:function(){return this.pushStack(d.apply(this,arguments))},first:function(){return this.eq(0)},last:function(){return this.eq(-1)},eq:function(a){var b=this.length,c=+a+(0a?b:0);return this.pushStack(c=0&amp;&amp;bc?[this[c]]:[])},end:function(){return this.prevObject||this.constructor(null)},push:f,sort:c.sort,splice:c.splice},m.extend=m.fn.extend=function(){var a,b,c,d,e,f,g=arguments[0]||{},h=1,i=arguments.length,j=!1;for(&#34;boolean&#34;==typeof g&amp;&amp;(j=g,g=arguments[h]||{},h++),&#34;object&#34;==typeof g||m.isFunction(g)||(g={}),h===i&amp;&amp;(g=this,h--);ih;h++)if(null!=(e=arguments[h]))for(d in e)a=g[d],c=e[d],g!==c&amp;&amp;(j&amp;&amp;c&amp;&amp;(m.isPlainObject(c)||(b=m.isArray(c)))?(b?(b=!1,f=a&amp;&amp;m.isArray(a)?a:[]):f=a&amp;&amp;m.isPlainObject(a)?a:{},g[d]=m.extend(j,f,c)):void 0!==c&amp;&amp;(g[d]=c));return g},m.extend({expando:&#34;jQuery&#34;+(l+Math.random()).replace(/\D/g,&#34;&#34;),isReady:!0,error:function(a){throw new Error(a)},noop:function(){},isFunction:function(a){return&#34;</description>
+      <description></description>
     </item>
     
     <item>
@@ -981,7 +992,7 @@ TPTE 110/TPTE 120 (Combo)  Step 1 and Step 2 are highly collaborative, hands-on 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/tech/</guid>
-      <description> Technology I Use Web  The Hugo static website generator The xmin theme for Hugo A GitHub repository for the website Netlify to render the website and host the files  I use the same tools for my Making Data Science Count research group website, except I use the academic theme for Hugo.
+      <description>Technology I Use Web  The Hugo static website generator The xmin theme for Hugo A GitHub repository for the website Netlify to render the website and host the files  I use the same tools for my Making Data Science Count research group website, except I use the academic theme for Hugo.
 Communication  Slack Keybase (for some communication; it&amp;rsquo;s purported to be more secure and private than Slack) Outlook on my personal computer for email Fantastical for calendar (paid)  Writing and editing  Sublime text editor (not paid, but can be) Evernote for taking notes and for saving PDFs to read across devices (paid) Google Docs Microsoft Word (paid) R Markdown for writing reports LaTeX and BibTeX for writing particular documents Mendeley for references Boomerang for Outlook to schedule emails to arrive in bulk every two hours  Coding and data analysis  R Studio R with these packages git/GitHub Anaconda Python distribution  Keeping track  Todoist for managing tasks (paid) Trello for keeping track of projects Pocket Casts for subscribing to podcasts Pocket for keeping track of articles/webpages Feedly RSS reader  Miscellaneous  Dark Sky weather app (paid) 1 Password password manager (paid) RescueTime time tracker (paid)  Hardware  Android phone Mac computer  </description>
     </item>
     
