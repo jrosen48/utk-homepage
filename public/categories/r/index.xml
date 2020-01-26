@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>r on Joshua M. Rosenberg, Ph.D.</title>
@@ -42,6 +42,7 @@ I mentioned this in an earlier post introducing the book: the publisher, Routled
       <description>Here is a tiny (Shiny) application to help with selecting the number of cores in the context of MCMC estimation.
 How many cores? is here: https://jmichaelrosenberg.shinyapps.io/how-many-cores/
 Here is a screenshot:
+![](/post/2019-12-13-a-tiny-shiny-how-many-mcmc-cores_files/Screen Shot 2019-12-13 at 8.11.18 PM.png)
 The source is here: https://github.com/jrosen48/how-many-cores</description>
     </item>
     
@@ -53,7 +54,7 @@ The source is here: https://github.com/jrosen48/how-many-cores</description>
       <guid>/post/2019/12/10/using-r-r-studio-from-a-pixel-slate-chromebook/</guid>
       <description>I&amp;rsquo;ve had a Pixel Slate Chromebook for a little while, and noticed in a recent update that it was possible to install Linux.
 This was pretty easy to do (see here). After doing it (it took a few minutes to download Linux, but was otherwise super straightforward), I opened up the command line interface and saw this:
-  There are a few things I know how to do through a command line interface; one is to list all of the files and directories available, so I ran the following:</description>
+ There are a few things I know how to do through a command line interface; one is to list all of the files and directories available, so I ran the following:</description>
     </item>
     
     <item>

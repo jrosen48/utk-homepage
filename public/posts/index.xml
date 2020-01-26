@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Joshua M. Rosenberg, Ph.D.</title>
@@ -6,10 +6,142 @@
     <description>Recent content in Posts on Joshua M. Rosenberg, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New article - Identifying multiple learning spaces in a single educational hashtag</title>
+      <link>/posts/new-article-identifying-multiple-learning-spaces-in-a-single-educational-hashtag/</link>
+      <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/new-article-identifying-multiple-learning-spaces-in-a-single-educational-hashtag/</guid>
+      <description>I&amp;rsquo;m excited to share about a second article published (today!) on how the regularly-occurring chats that take place through an education-focused Twitter hashtag are distinct from the rest of the time (i.e., non-chat times when people use the hashtag), is by Spencer Greenhalgh et al. in Computers &amp;amp; Education. Here is the abstract:
+ The existing work on teacher-focused Twitter hashtags typically frames each hashtag as a single, unified phenomenon, thereby collapsing or erasing differences between them (and any resulting implications for learning).</description>
+    </item>
+    
+    <item>
+      <title>New article - The effects of choice and interest in science</title>
+      <link>/posts/new-articles-the-effects-of-choice-and-interest-in-science/</link>
+      <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/new-articles-the-effects-of-choice-and-interest-in-science/</guid>
+      <description>I&amp;rsquo;m excited to share a link to an article published earlier this month on the effects of (learners) being able to make choices and their learning, and how that relates to their interest in what they are learning, is by Patrick Beymer et al. and is in Learning and Individual Differences. Here is the abstract:
+ Having choices during learning is often touted as beneficial for student motivation. However, it is not clear whether the motivating factor is choice or the act of pursuing tasks that are of greater interest, which is often afforded by choice.</description>
+    </item>
+    
+    <item>
+      <title>Multiple uses for multi-level models: Examples from recent research</title>
+      <link>/posts/multiple-uses-for-multi-level-models-examples-from-recent-research/</link>
+      <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/multiple-uses-for-multi-level-models-examples-from-recent-research/</guid>
+      <description>I&amp;rsquo;m presenting on Multiple uses for multi-level models: Examples from recent research today for the College of Education, Health, and Human Sciences Quantitative Methods Brownbag Seminar.
+A link to the presentation is here: https://docs.google.com/presentation/d/1nY7n4H08fVMRUQxNQl6cy0ilLhX-2j7_PCj0TGPoFsE/edit?usp=sharing</description>
+    </item>
+    
+    <item>
+      <title>KnoxData presentation: An introduction to using R for data science, zero prerequisites required!</title>
+      <link>/posts/knoxdata-presentation-an-introduction-to-using-r-for-data-science-zero-prerequisites-required/</link>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/knoxdata-presentation-an-introduction-to-using-r-for-data-science-zero-prerequisites-required/</guid>
+      <description>I am presenting on Thursday, January 24th on An introduction to using R for data science (zero prerequisites required!) for the KnoxData group. The Meetup page for event is here.
+A description of the event is here:
+ R is a freely-available, cross-platform, open-source programming language and statistical software environment that is well-suited to doing data science, but, can have an high barrier to entry. This KnoxData presentation aims to provides an introduction to using for data science, with a focus on developing a foundation in capabilities (and confidence!</description>
+    </item>
+    
+    <item>
+      <title>First version of a research group handbook</title>
+      <link>/posts/first-verison-of-a-research-group-handbook/</link>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/first-verison-of-a-research-group-handbook/</guid>
+      <description>I wrote a first version of a research group handbook. Part of the joy of working with more students is the need to try to have greater structure around advising, carrying out projects, and meeting.
+The handbook (view only via this link) is here on Google Docs: https://docs.google.com/document/d/13YmeUU4lSGWVqZfmCGljnJ4nTbD26TaY7oH3LUWo7Zk/edit?usp=sharing
+Feedback is welcomed!
+Thanks to Teya Rutherford for sharing the handbook for her research group. Thanks to Bodong Chen for posting his statement of graduate advising.</description>
+    </item>
+    
+    <item>
+      <title>Presentations at the TN STEM Education Research Conference</title>
+      <link>/posts/presentations-at-the-tn-stem-education-research-conference/</link>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/presentations-at-the-tn-stem-education-research-conference/</guid>
+      <description>The Making Data Science Count research group has two presentations at the upcoming TN STEM Education Research Conference:
+ Rosenberg, J. M.,&amp;amp; Lishinski, A. (January, 2020). Measuring what matters in-the-moment: An experience sampling approach to understanding the development of interest in computer science. Presentation at the 14th Annual Tennessee STEM Education Research Conference. Cookeville, TN.
+  Rosenberg, J. M., Hodge, L., Aydeniz, M., Schmidt, A. Lishinski, A., Rich, K., Longnecker, J.</description>
+    </item>
+    
+    <item>
+      <title>Things I learned in the last year</title>
+      <link>/posts/things-i-learned-in-the-last-year/</link>
+      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/things-i-learned-in-the-last-year/</guid>
+      <description>Here are some things I learned in the last year. They are all unordered.
+Models and parenting and teaching A collabofriend shared &amp;ldquo;the 5 S&amp;rsquo;s&amp;rdquo; for soothing babies with me before our son was born, and this was super helpful to me. But, in the last year, our son became a toddler, and I didn&amp;rsquo;t know what to do, and I struggled. I tried to find resources for how to parent (and discipline, something I haven&amp;rsquo;t been very good at), and found that a simple idea from the authors of No Drama Discipline clicked with me.</description>
+    </item>
+    
+    <item>
+      <title>Hey AERA, what&#39;s up with that?</title>
+      <link>/posts/hey-aera-what-s-up-with-that/</link>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/hey-aera-what-s-up-with-that/</guid>
+      <description>I like the American Educational Research Association; it&amp;rsquo;s my professional home.
+I was pretty surprised to see this letter, advocating against open access to educational research that is funded through federal agencies (i.e., the Institute of Educational Sciences, the National Science Foundation, etc.).
+Inside Higher Ed has an article on AERA&amp;rsquo;s (and other professional organization&amp;rsquo;s) opposition.
+Basically, this is wrong. I think AERA is on the wrong side of a trend - driven by access to information through the Internet - toward open access.</description>
+    </item>
+    
+    <item>
+      <title>Getting a grip on using BibTeX with R Markdown documents</title>
+      <link>/posts/using-bibtex-with-r-markdown/</link>
+      <pubDate>Sun, 22 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/using-bibtex-with-r-markdown/</guid>
+      <description>I’m just beginning to learn BibTeX, which is, according to Wikipedia (2019), “reference management software for formatting lists of references”.
+It is useful for publishing formats such as R Markdown documents and books created with bookdown, like the Data Science in Education Using R book.
+I’m basically using this post to document what I’m learning.
+Adding references I started with references, which are saved in plain text documents ending in .</description>
+    </item>
+    
+    <item>
+      <title>The first, rough (rough!) draft of the (web-based) version of Data Science in Education Using R is available</title>
+      <link>/posts/the-first-rough-draft-of-the-web-based-version-of-data-science-in-education-using-r-is-available/</link>
+      <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/the-first-rough-draft-of-the-web-based-version-of-data-science-in-education-using-r-is-available/</guid>
+      <description>The first, rough draft of the (web-based version) of the Data Science in Education Using R book written by Emily Bovee, Ryan Estrellado, Jesse Motstipak, me, and Isabella Velásquez is available from this URL: http://www.datascienceineducation.com/.
+I mentioned this in an earlier post introducing the book: the publisher, Routledge, allowed us to stipulate that we retain the copyright for the web-based version, even after the book is published in print (and e-book) format.</description>
+    </item>
+    
+    <item>
+      <title>A tiny (Shiny) app: How Many (MCMC) Cores?</title>
+      <link>/posts/a-tiny-shiny-how-many-mcmc-cores/</link>
+      <pubDate>Fri, 13 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/a-tiny-shiny-how-many-mcmc-cores/</guid>
+      <description>Here is a tiny (Shiny) application to help with selecting the number of cores in the context of MCMC estimation.
+How many cores? is here: https://jmichaelrosenberg.shinyapps.io/how-many-cores/
+Here is a screenshot:
+![](/post/2019-12-13-a-tiny-shiny-how-many-mcmc-cores_files/Screen Shot 2019-12-13 at 8.11.18 PM.png)
+The source is here: https://github.com/jrosen48/how-many-cores</description>
+    </item>
+    
+    <item>
+      <title>Using R/R Studio from a (Pixel Slate) Chromebook</title>
+      <link>/posts/using-r-r-studio-from-a-pixel-slate-chromebook/</link>
+      <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/using-r-r-studio-from-a-pixel-slate-chromebook/</guid>
+      <description>I&amp;rsquo;ve had a Pixel Slate Chromebook for a little while, and noticed in a recent update that it was possible to install Linux.
+This was pretty easy to do (see here). After doing it (it took a few minutes to download Linux, but was otherwise super straightforward), I opened up the command line interface and saw this:
+ There are a few things I know how to do through a command line interface; one is to list all of the files and directories available, so I ran the following:</description>
+    </item>
     
     <item>
       <title>Research group website - Making data science count</title>
@@ -121,7 +253,7 @@ Lessons and related resources  https://nextgenscience.org/resources/examples-qua
       
       <guid>/posts/new-project-understanding-the-development-of-interest-in-computer-science/</guid>
       <description>I am excited to share that I was recently awarded funding to carry out a new project, Understanding the development of interest in computer science - an experience sampling approach. This is for the project I wrote about here.
-Here&amp;rsquo;s an excerpt from NSF&amp;rsquo;s summary (a bit more is here):
+Here&amp;rsquo;s an excerpt from NSF&amp;rsquo;s summary (a bit more is [here] (https://www.nsf.gov/awardsearch/showAward?AWD_ID=1937700&amp;amp;HistoricalAwards=false)):
  This project explores STEM interest development at the undergraduate level in computer science. It is a study of national importance that will focus on substantial differences in who pursues an interest, a major, or an occupation in computer science.</description>
     </item>
     
@@ -769,6 +901,15 @@ Here’s a description:
       <guid>/posts/20150302-presentations-at-site-2015/</guid>
       <description> Presentations at SITE 2015 I will be attending the Society for Information at Information Technology and Teacher Education 2015 Conference(SITE) this week in Las Vegas, NV. If curious, here is a list of presentations compiled by Spencer Greenhalgh and posted on Punya Mishra’s blog.
  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/posts/2019-12-14-the-first-rough-draft-of-the-web-based-version-of-data-science-in-education-using-r-is-available/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2019-12-14-the-first-rough-draft-of-the-web-based-version-of-data-science-in-education-using-r-is-available/</guid>
+      <description></description>
     </item>
     
   </channel>
