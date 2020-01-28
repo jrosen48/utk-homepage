@@ -21,7 +21,7 @@ The [Making Data Science Count research group](https://makingdatasciencecount.co
 
 > Rosenberg, J. M.,& Lishinski, A. (January, 2020). *Measuring what matters in-the-moment: An experience sampling approach to understanding the development of interest in computer science*. Presentation at the 14th Annual Tennessee STEM Education Research Conference. Cookeville, TN.
 
-> Rosenberg, J. M., Hodge, L., Aydeniz, M., Schmidt, A. Lishinski, A., Rich, K., Longnecker, J., Mann. M., & Sadovnik, A. (January, 2020). *A survey of teachers and administrators regarding the implementation of new K-8 computing education standards in Tennessee*. Presentation at the 14th Annual Tennessee STEM Education Research Conference. Cookeville, TN.
+> Rosenberg, J. M., Hodge, L., Aydeniz, M., Schmidt, A. Lishinski, A., Rich, K., Longnecker, J., Mann. M., & Sadovnik, A. (January, 2020). *A survey of teachers and administrators regarding the implementation of new K-8 computing education standards in Tennessee*. Presentation at the 14th Annual Tennessee STEM Education Research Conference. Cookeville, TN. https://docs.google.com/presentation/d/1A_DEyNaAjz5d2lbSdlwZ6unEAz96S7vtc4nNxnzjWMo/edit?usp=sharing
 
 This post will be updated with links to the posters as the conference approaches.
 

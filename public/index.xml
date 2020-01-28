@@ -6,10 +6,30 @@
     <description>Recent content in Home on Joshua M. Rosenberg, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New article - Identifying multiple learning spaces in a single educational hashtag</title>
+      <link>/post/2020/01/25/new-article-identifying-multiple-learning-spaces-in-a-single-educational-hashtag/</link>
+      <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/01/25/new-article-identifying-multiple-learning-spaces-in-a-single-educational-hashtag/</guid>
+      <description>I&amp;rsquo;m excited to share about a second article published (today!) on how the regularly-occurring chats that take place through an education-focused Twitter hashtag are distinct from the rest of the time (i.e., non-chat times when people use the hashtag), is by Spencer Greenhalgh et al. in Computers &amp;amp; Education. Here is the abstract:
+ The existing work on teacher-focused Twitter hashtags typically frames each hashtag as a single, unified phenomenon, thereby collapsing or erasing differences between them (and any resulting implications for learning).</description>
+    </item>
+    
+    <item>
+      <title>New article - The effects of choice and interest in science</title>
+      <link>/post/2020/01/25/new-articles-the-effects-of-choice-and-interest-in-science/</link>
+      <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/01/25/new-articles-the-effects-of-choice-and-interest-in-science/</guid>
+      <description>I&amp;rsquo;m excited to share a link to an article published earlier this month on the effects of (learners) being able to make choices and their learning, and how that relates to their interest in what they are learning, is by Patrick Beymer et al. and is in Learning and Individual Differences. Here is the abstract:
+ Having choices during learning is often touted as beneficial for student motivation. However, it is not clear whether the motivating factor is choice or the act of pursuing tasks that are of greater interest, which is often afforded by choice.</description>
+    </item>
     
     <item>
       <title>Multiple uses for multi-level models: Examples from recent research</title>
@@ -920,10 +940,9 @@ Upcoming Presentations
       
       <guid>/about/</guid>
       <description>PDF version: 
-Curriculum Vitae Contents  Curriculum Vitae Contact Information Research Interests Education Professional Experience Grants Fellowships and Awards Publications  Book Peer-Reviewed Journal Articles Book Chapters Conference Proceedings Papers Editor-Reviewed Publications Unpublished Manuscripts  Presentations Teaching Service Software Miscellaneous    Contact Information Assistant Professor, STEM Education
+Curriculum Vitae Contents  Contact Information Research Interests Education Professional Experience Grants Fellowships and Awards Publications  Book Peer-Reviewed Journal Articles Book Chapters Conference Proceedings Papers Editor-Reviewed Publications Unpublished Manuscripts  Presentations  Peer-Reviewed Conference Presentations Invited Talks Other Presentations Workshops and Outreach  Teaching Service Software Miscellaneous    Contact Information Assistant Professor, STEM Education
 Department of Theory and Practice in Teacher Education
-The University of Tennessee, Knoxville
-420 Claxton, 1122 Volunteer Blvd., Knoxville, TN 37996</description>
+The University of Tennessee, Knoxville</description>
     </item>
     
     <item>
@@ -935,25 +954,6 @@ The University of Tennessee, Knoxville
       <description>Research Research Statement My research statement is available here.
 Publications and Other Products Visit this page here for information about and links to pre-prints and other resources associated with publications (peer-reviewed journal articles, book chapters, and conference proceedings) and other products (R packages and simulations for learners).
 National Science Foundation-funded projects PI, Understanding the development of interest in computer science: An experience sampling approach ($346,688). National Science Foundation. (National Science Foundation Grant No.</description>
-    </item>
-    
-    <item>
-      <title>Research Statement</title>
-      <link>/personal-statements/research-statement/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/personal-statements/research-statement/</guid>
-      <description>Data Science in Educational Research Data science is commonly characterized as a field that integrates disciplinary expertise, statistics, and advanced computational techniques to answer questions or solve problems. In education, data science education has potential as a set of ideas and practices that cut across STEM content areas and can also be meaningful to learners, but the potential for data in education has not yet been fully realized. My research focuses on how learners think of and with data, particularly in science education settings.</description>
-    </item>
-    
-    <item>
-      <title>Service Statement</title>
-      <link>/personal-statements/service-statement/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/personal-statements/service-statement/</guid>
-      <description>My service focuses on activities at the department and college level and in my discipline and local community. Collectively, this service serves a role in the organizations at each of these levels. In addition, most of this service is also complimentary with my aims as a scholar and teacher, as I describe in this statement.
-At the department and college level, as a beginning faculty member, thus far, I have been involved in admissions panels for the science education program.</description>
     </item>
     
     <item>
@@ -975,15 +975,6 @@ My Packages my_packages &amp;lt;- tibble::tribble( ~Package, &amp;ldquo;abind&am
       <description>My teaching statement is available here
 This page contains: a list of courses I have taught, including course descriptions and links to course websites (when available); information on workshops and outreach.
 TPTE 110/TPTE 120 (Combo)  Step 1 and Step 2 are highly collaborative, hands-on classes in which you learn about teaching through observation, practice, and professional mentoring. Each course consists of (a) classes at UTK and (b) field experiences at a local elementary or middle school.</description>
-    </item>
-    
-    <item>
-      <title>Teaching Statement</title>
-      <link>/personal-statements/teaching-statement/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/personal-statements/teaching-statement/</guid>
-      <description>Teaching Philosophy As a former high school science teacher, I know that teaching science is challenging. My teaching philosophy for educating future teachers (and students at any level) is to involve them in what Grossman et al. (2009) describe as an approximation of practice, reflecting a view of teaching and learning as participating in the practices of the field. Accordingly, I aim to involve students in authentic practices from the field of study.</description>
     </item>
     
     <item>

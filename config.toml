@@ -9,6 +9,7 @@ preserveTaxonomyNames = true
 footnotereturnlinkcontents = "↩"
 paginate = 10
 math = true
+contentDir = "content"
 
 [permalinks]
     post = "/post/:year/:month/:day/:slug/"
