@@ -1,5 +1,5 @@
 ---
-title: Open-source study: Resources related to our study of how students becme interested in CS
+title: Open-source study - Resources related to our study of how students become interested in CS
 author: ''
 date: '2020-01-29'
 slug: open-source-study
