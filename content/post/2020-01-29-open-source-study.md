@@ -14,10 +14,18 @@ One idea we have brought to the project is that we want to share as much as we p
 
 # Pre- and post-survey items
 
+[surveys.docx](http://joshuamrosenberg.com/study-materials/surveys.docx)
+
 # Experience sampling method (ESM) survey and study plan
 
-
+[study-plan.docx](http://joshuamrosenberg.com/study-materials/study-plan.docx)
 
 # Short Message Survey tool for carrying out ESM
 
 http://www.shortmessagesurvey.com/
+
+## *fin*
+
+I don't love linking to Word documents; sharing these as plain-text files (perhaps through an [Open Science Framework](https://osf.io/) repository, where changes to them can be tracked) would probably be better. 
+
+But, perhaps a part of sharing about the process of research is that it is messy (or, at least more messy than sharing the product); if these are interesting or relevant to others in some way - or if others, including those who are *not* researchers can see what we are up to - then sharing documents in a less-than-ideal way may still satisfy most of its purpose. 
