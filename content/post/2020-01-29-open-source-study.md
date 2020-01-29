@@ -8,9 +8,19 @@ categories:
 tags: []
 ---
 
-We are beginning data collection today for our study of how students become interested in computer science (our beginning of a project website is at https://picsul.utk.edu/). 
+We are beginning data collection today for our study of how students become interested in computer science (our beginning of a project website is at https://picsul.utk.edu/). I've blogged about the project two times before:
 
-One idea we have brought to the project is that we want to share as much as we possibly (ethically and based upon the Institutional Review Board applicaiton for the project) can. A tenet of this commitment is sharing not only *products*, but also resources related to our *process*. In that spirit, here are links to the pre- and post-survey items and our experience sampling method (ESM) survey items and our study plan (these are in the same document). We are also working on and releasing the tool we are creating, Short Message Survey, as open-source software.
+- [Thoughts from submitting a grant proposal for the first time
+](https://joshuamrosenberg.com/post/2019/08/03/thoughts-from-submitting-a-grant-proposal-for-the-first-time/)
+- [New project on understanding the development of interest in computer science
+](https://joshuamrosenberg.com/post/2019/08/12/new-project-understanding-the-development-of-interest-in-computer-science/)
+
+
+One idea we have brought to the project is that we want to share as much as we possibly (ethically and based upon the Institutional Review Board applicaiton for the project) can. 
+
+A tenet of this commitment is sharing not only *products*, but also resources related to our *process*. For example, the National Science Foundation grant proposal is available as [a pre-print](https://osf.io/9mg5y/).
+
+In that spirit, here are links to the pre- and post-survey items and our experience sampling method (ESM) survey items and our study plan (these are in the same document). We are also working on and releasing the tool we are creating, Short Message Survey, as open-source software.
 
 # Pre- and post-survey items
 
