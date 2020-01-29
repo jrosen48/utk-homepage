@@ -14,15 +14,15 @@ One idea we have brought to the project is that we want to share as much as we p
 
 # Pre- and post-survey items
 
-[surveys.docx](http://joshuamrosenberg.com/study-materials/surveys.docx)
+Pre- and post-survey items Word document: [surveys.docx](http://joshuamrosenberg.com/study-materials/surveys.docx)
 
 # Experience sampling method (ESM) survey and study plan
 
-[study-plan.docx](http://joshuamrosenberg.com/study-materials/study-plan.docx)
+Experience sampling method (ESM) survey and study plan Word document: [study-plan.docx](http://joshuamrosenberg.com/study-materials/study-plan.docx)
 
 # Short Message Survey tool for carrying out ESM
 
-http://www.shortmessagesurvey.com/
+hort Message Survey tool for carrying out ESM GitHub repository: http://www.shortmessagesurvey.com/
 
 ## *fin*
 
