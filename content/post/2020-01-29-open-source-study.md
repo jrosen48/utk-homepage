@@ -18,7 +18,7 @@ We are beginning data collection today for our study of how students become inte
 
 One idea we have brought to the project is that we want to share as much as we possibly (ethically and based upon the Institutional Review Board applicaiton for the project) can. 
 
-A tenet of this commitment is sharing not only *products*, but also resources related to our *process*. For example, the National Science Foundation grant proposal is available as [a pre-print](https://osf.io/9mg5y/).
+A tenet of this commitment is sharing not only *products*, but also resources related to our *process*, e.g. the National Science Foundation grant proposal is available as [a pre-print](https://osf.io/9mg5y/).
 
 In that spirit, here are links to the pre- and post-survey items and our experience sampling method (ESM) survey items and our study plan (these are in the same document). We are also working on and releasing the tool we are creating, Short Message Survey, as open-source software.
 
