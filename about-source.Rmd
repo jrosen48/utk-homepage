@@ -564,7 +564,7 @@ Rosenberg, J. M., Staudt Willet, K. B., & Greenhalgh, S. P. (2019, October). *On
 Rosenberg, J.M. (September, 2019). *An introduction to data science in education using R*. Workshop at Middle Tennessee State University. Middle Tennessee State University, Murfreesboro, TN. <a href = "https://github.com/jrosen48/mtsu-workshop"><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
 \hangindent=2em
-Rosenberg, J. M. (2019, June). *The use of mixed effects models for analyzing complex data*. Presentation for the KnoxData group, Knoxville, TN. <a href = "https://github.com/jrosen48/data-science-ish"><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
+Rosenberg, J. M. (2019, June). *The use of mixed effects models for analyzing complex data*. Presentation for the KnoxData group, Knoxville, TN. <a href = "https://github.com/jrosen48/data-science-ish"><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> YouTube recording: https://www.youtube.com/watch?v=1YY2FoCFIm4
 
 \hangindent=2em
 Rosenberg, J. M. (2019, May). *Working with data in education: Using data and supporting students to use data*. Workshop carried out for teachers at Knoxville Jewish Day School. https://docs.google.com/presentation/d/1uSdRvF2GjhUpO2fCHZIUdXmf0texzczGGlbzmZBgggw/edit?usp=sharing 
