@@ -28,7 +28,7 @@ Pre- and post-survey items Word document: [surveys.docx](http://joshuamrosenberg
 
 # Experience sampling method (ESM) survey and study plan
 
-Experience sampling method (ESM) survey and study plan Word document: [study-plan.docx](http://joshuamrosenberg.com/study-materials/study-plan.docx)
+Experience sampling method (ESM) survey and study plan Word document: [research-plan.docx](http://joshuamrosenberg.com/study-materials/researhc-plan.docx)
 
 # Short Message Survey tool for carrying out ESM
 
