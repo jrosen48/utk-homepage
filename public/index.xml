@@ -6,10 +6,20 @@
     <description>Recent content in Home on Joshua M. Rosenberg, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Open-source study - Resources related to our study of how students become interested in CS</title>
+      <link>/post/2020/01/29/open-source-study/</link>
+      <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/01/29/open-source-study/</guid>
+      <description>We are beginning data collection today for our study of how students become interested in computer science (our beginning of a project website is at https://picsul.utk.edu/). I&amp;rsquo;ve blogged about the project two times before:
+ Thoughts from submitting a grant proposal for the first time  New project on understanding the development of interest in computer science   One idea we have brought to the project is that we want to share as much as we possibly (ethically and based upon the Institutional Review Board applicaiton for the project) can.</description>
+    </item>
     
     <item>
       <title>New article - Identifying multiple learning spaces in a single educational hashtag</title>
@@ -930,9 +940,8 @@ Upcoming Presentations
       
       <guid>/about/</guid>
       <description>PDF version: 
-Curriculum Vitae Contents  Contact Information Research Interests Education Professional Experience Grants Fellowships and Awards Publications  Book Peer-Reviewed Journal Articles Book Chapters Conference Proceedings Papers Editor-Reviewed Publications Unpublished Manuscripts  Presentations  Peer-Reviewed Conference Presentations Invited Talks Other Presentations Workshops and Outreach  Teaching Service Software Miscellaneous    Contact Information Assistant Professor, STEM Education
-Department of Theory and Practice in Teacher Education
-The University of Tennessee, Knoxville</description>
+Curriculum Vitae Contents  Contact Information Research Interests Education Professional Experience Grants Fellowships and Awards Publications  Book Peer-Reviewed Journal Articles Book Chapters Conference Proceedings Papers Editor-Reviewed Publications Pre-Prints / Unpublished Manuscripts  Presentations  Peer-Reviewed Conference Presentations Invited Talks Other Presentations Workshops and Outreach  Teaching Service Software Miscellaneous    Contact Information Assistant Professor, STEM Education
+Department of Theory and Practice in Teacher Education</description>
     </item>
     
     <item>
