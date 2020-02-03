@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.1.6)  2 FEB 2020 13:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.1.6)  2 FEB 2020 13:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -653,13 +653,13 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1459.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1459.
 
 Package rerunfilecheck Info: File `rosenberg-cv.out' has not changed.
-(rerunfilecheck)             Checksum: C4B93727F48F7367752F518D487D9DED;7808.
+(rerunfilecheck)             Checksum: 1D551FA5BEE136F83ED65CA2E74FB626;7813.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1459.
  ) 
 Here is how much of TeX's memory you used:
  10581 strings out of 494107
- 151351 string characters out of 6172706
- 216221 words of memory out of 5000000
+ 151357 string characters out of 6172706
+ 216222 words of memory out of 5000000
  14401 multiletter control sequences out of 15000+600000
  53951 words of font info for 54 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -670,7 +670,7 @@ s/jrosenb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></Users/
 jrosenb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/jro
 senb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.pfb></Users/jrosen
 b8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb>
-Output written on rosenberg-cv.pdf (18 pages, 209762 bytes).
+Output written on rosenberg-cv.pdf (18 pages, 209655 bytes).
 PDF statistics:
  452 PDF objects out of 1000 (max. 8388607)
  422 compressed objects within 5 object streams
