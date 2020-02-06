@@ -3,9 +3,9 @@
 file.copy("about-source.Rmd", "static/rosenberg-cv.Rmd", overwrite=TRUE)
 lines <- readr::read_lines('static/rosenberg-cv.Rmd')
 lines[13] <- "```{r, include = FALSE, eval = FALSE}"
-lines[61] <- ""
-lines[63] <- "```{r, echo = FALSE, eval = FALSE}"
-lines[64] <- "render_toc('static/rosenberg-cv.Rmd')"
+lines[62] <- ""
+lines[64] <- "```{r, echo = FALSE, eval = FALSE}"
+lines[65] <- "render_toc('static/rosenberg-cv.Rmd')"
 #lines <- lines[-c(61, 63:66, 83)]
 # lines[61] <- ""
 # lines[62] <- ""

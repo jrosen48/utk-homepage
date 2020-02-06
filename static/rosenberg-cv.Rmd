@@ -58,11 +58,11 @@ render_toc <- function(
     knitr::asis_output(paste(x, collapse = "\n"))
 }
 ```
+# Curriculum Vitae
 
-## Contents
+
 ```{r, echo = FALSE, eval = FALSE}
 render_toc('static/rosenberg-cv.Rmd')
-render_toc('about.Rmd')
 ```
 
 # Contact Information
