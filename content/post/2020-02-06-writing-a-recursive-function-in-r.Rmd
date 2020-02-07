@@ -1,7 +1,7 @@
 ---
-title: Writing a recursive function in R
+title: Writing a recursive function in R - collecting data on replies to replies (to replies!) on Twitter
 author: ''
-date: '2020-02-06'
+date: '2020-02-07'
 slug: writing-a-recursive-function-in-r
 categories: []
 tags: []
@@ -17,7 +17,7 @@ But, this raises an issue: What if the Tweet a reply is to is itself a reply (to
 
 This post represents my attempt to write *a recursive function* - one that involves calling itself. 
 
-First, let's access the data. I use rtweet to access 10,000 recent Tweets with the #rstats hashtag. 
+First, let's access the data. I use rtweet to access 5,000 recent Tweets with the #rstats hashtag. 
 
 ```{r}
 library(rtweet)
@@ -60,4 +60,4 @@ new_replies <- get_replies_recursive(d$reply_to_status_id)
 
 ## *fin*
 
-I'm unsure exactly how much more better (clear, efficient) using recursion is here, compared to the former approach I tried; I think this code is a bit simpler. I am also unsure how generally useful reecursion is in real-life programming. Lastly, I'm not sure I did this quite right! But, this seemed to work, and I welcome any feedback about it!
+I'm unsure exactly how much more better (clear, efficient) using recursion is here, compared to the former approach I tried; I think this code is a bit simpler. I am also unsure how generally useful reecursion is in real-life programming. Lastly, I'm not sure I did this quite right! I went down a bit of a recursive rabbit hole. But, this seemed to work, and I welcome any feedback about it. 

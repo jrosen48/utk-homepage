@@ -6,10 +6,20 @@
     <description>Recent content in Home on Joshua M. Rosenberg, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Writing a recursive function in R - collecting data on replies to replies (to replies!) on Twitter</title>
+      <link>/post/2020/02/07/writing-a-recursive-function-in-r/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/02/07/writing-a-recursive-function-in-r/</guid>
+      <description>Background Recursion has been a topic I’ve heard about, and even read about it, but have never used. Recently, I was analyzing data for the Next Generation Science Standards hashtag on Twitter, and was puzzled to find that some of the Tweets I had accessed were replies to Tweets which were themselves not in the data set.
+Fortunately, the rtweet package returns data on which Tweet a reply is to; using these, it is possible (using rtweet) to access the original Tweet.</description>
+    </item>
     
     <item>
       <title>Code Bites in R Studio Cloud</title>
@@ -20,16 +30,6 @@
       <description>In research group meetings, we have started with short (5-10 minute) activities focused on trying something new.
 So far, these activities have been focused on computer science or data science ideas. This post shares a few of those, which have been somewhat useful (I think!) so far:
  Writing and &amp;ldquo;using&amp;rdquo; a recipe for making pancakes (to explore the idea of an how computers closely follow the instructions they are told, as well as algorithms, conditional logic, and functions) Exploring what one notices about weather/climate-related data Tinkering with a cool agent-based model for frog adaptation Last, today, we used code bites in R/RStudio, with the goal being to create minimally viable (and interesting) content; it worked well, I think, by lowering the motivation-related barrier to writing code.</description>
-    </item>
-    
-    <item>
-      <title>Writing a recursive function in R</title>
-      <link>/post/2020/02/06/writing-a-recursive-function-in-r/</link>
-      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2020/02/06/writing-a-recursive-function-in-r/</guid>
-      <description>Background Recursion has been a topic I’ve heard about, and even read about it, but have never used. Recently, I was analyzing data for the Next Generation Science Standards hashtag on Twitter, and was puzzled to find that some of the Tweets I had accessed were replies to Tweets which were themselves not in the data set.
-Fortunately, the rtweet package returns data on which Tweet a reply is to; using these, it is possible (using rtweet) to access the original Tweet.</description>
     </item>
     
     <item>
