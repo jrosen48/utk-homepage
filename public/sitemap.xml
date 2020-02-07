@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/post/2020/02/06/code-bites-in-r-studio-cloud/</loc>
+    <lastmod>2020-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2020/02/06/writing-a-recursive-function-in-r/</loc>
+    <lastmod>2020-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
     <lastmod>2020-01-29T00:00:00+00:00</lastmod>
   </url>
@@ -13,17 +33,7 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-01-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/2020/01/29/open-source-study/</loc>
-    <lastmod>2020-01-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
     <lastmod>2020-01-29T00:00:00+00:00</lastmod>
   </url>
   
