@@ -18,28 +18,32 @@ tags: []
 </div>
 <div id="twitter-data" class="section level2">
 <h2>Twitter Data</h2>
-<p>First, let’s access the data. I use rtweet to access 5,000 recent Tweets with the #rstats hashtag.</p>
+<p>First, let’s access the data. I use rtweet to access 1,000 recent Tweets with the #rstats hashtag.</p>
 <pre class="r"><code>library(rtweet)
 
-d &lt;- search_tweets(&quot;#rstats&quot;, n = 5000)</code></pre>
-<pre><code>## Warning: Rate limit exceeded - 88</code></pre>
-<pre><code>## Warning: Rate limit exceeded</code></pre>
-<p>From these Tweets, there appear to be 0 Tweets that are replies.</p>
+d &lt;- search_tweets(&quot;#rstats&quot;, n = 1000)</code></pre>
+<p>From these Tweets, there appear to be 1000 Tweets that are replies.</p>
 </div>
 <div id="writing-a-recursive-function" class="section level2">
 <h2>Writing a recursive function</h2>
 <p>Here is my attempt at writing a recursive function; it takes one argument, <code>statuses</code>, which is the status ids for the Tweets a reply is to; the <code>reply_to_status_id</code> column in the data collected from rtweet.</p>
-<pre class="r"><code>get_replies_recursive &lt;- function(statuses) {
+<pre class="r"><code>get_replies_recursive &lt;- function(statuses, existing_data = NULL) {
   statuses &lt;- statuses[!is.na(statuses)] # this line removes the NAs, which are very common because most Tweets are not replies
   new_data &lt;- lookup_statuses(statuses)
   
   print(paste0(&quot;Accessed &quot;, nrow(new_data), &quot; new Tweets&quot;))
   
   new_statuses &lt;- new_data$reply_to_status_id[!is.na(new_data$reply_to_status_id)]
-
+  
+  if (is.null(existing_data)) {
+    out_data &lt;- new_data
+  } else {
+    out_data &lt;- rbind(new_data, existing_data)
+  }
+  
   if (length(new_statuses) &gt; 0) {
-    new_data_recursive &lt;- get_replies_recursive(new_statuses) # this is the key line where the function calls itself, but passing new statuses
-    out_data &lt;- rbind(new_data, new_data_recursive)
+    # this is the key line where the function calls itself, but passing new statuses
+    get_replies_recursive(new_statuses, existing_data = out_data)
   } else {
     print(paste0(&quot;Accessed &quot;, nrow(out_data), &quot; new Tweets in total&quot;))
     return(out_data)
@@ -50,21 +54,13 @@ d &lt;- search_tweets(&quot;#rstats&quot;, n = 5000)</code></pre>
 <h2>Using the function</h2>
 <p>Using it is simple; you just pass the variable for the status ids for the Tweets a reply is to.</p>
 <pre class="r"><code>new_replies &lt;- get_replies_recursive(d$reply_to_status_id)</code></pre>
-<pre><code>## [1] &quot;Accessed 74 new Tweets&quot;
-## [1] &quot;Accessed 23 new Tweets&quot;
-## [1] &quot;Accessed 16 new Tweets&quot;
-## [1] &quot;Accessed 10 new Tweets&quot;
-## [1] &quot;Accessed 9 new Tweets&quot;
-## [1] &quot;Accessed 4 new Tweets&quot;
-## [1] &quot;Accessed 2 new Tweets&quot;
-## [1] &quot;Accessed 2 new Tweets&quot;
-## [1] &quot;Accessed 2 new Tweets&quot;
-## [1] &quot;Accessed 2 new Tweets&quot;
-## [1] &quot;Accessed 2 new Tweets&quot;
-## [1] &quot;Accessed 2 new Tweets&quot;
+<pre><code>## [1] &quot;Accessed 12 new Tweets&quot;
+## [1] &quot;Accessed 6 new Tweets&quot;
+## [1] &quot;Accessed 5 new Tweets&quot;
+## [1] &quot;Accessed 3 new Tweets&quot;
 ## [1] &quot;Accessed 2 new Tweets&quot;
 ## [1] &quot;Accessed 1 new Tweets&quot;
-## [1] &quot;Accessed 1 new Tweets in total&quot;</code></pre>
+## [1] &quot;Accessed 29 new Tweets in total&quot;</code></pre>
 </div>
 <div id="fin" class="section level2">
 <h2><em>fin</em></h2>

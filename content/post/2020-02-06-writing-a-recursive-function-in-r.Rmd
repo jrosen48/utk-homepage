@@ -19,12 +19,12 @@ This post represents my attempt to write *a recursive function* - one that invol
 
 ## Twitter Data
 
-First, let's access the data. I use rtweet to access 2,500 recent Tweets with the #rstats hashtag. 
+First, let's access the data. I use rtweet to access 1,000 recent Tweets with the #rstats hashtag. 
 
-```{r, load-setup, cache = FALSE}
+```{r}
 library(rtweet)
 
-d <- search_tweets("#rstats", n = 2500)
+d <- search_tweets("#rstats", n = 1000)
 ```
 
 From these Tweets, there appear to be `r length(d$reply_to_status_id)` Tweets that are replies.
@@ -33,18 +33,24 @@ From these Tweets, there appear to be `r length(d$reply_to_status_id)` Tweets th
 
 Here is my attempt at writing a recursive function; it takes one argument, `statuses`, which is the status ids for the Tweets a reply is to; the `reply_to_status_id` column in the data collected from rtweet.
 
-```{r, define-function, cache = FALSE}
-get_replies_recursive <- function(statuses) {
+```{r}
+get_replies_recursive <- function(statuses, existing_data = NULL) {
   statuses <- statuses[!is.na(statuses)] # this line removes the NAs, which are very common because most Tweets are not replies
   new_data <- lookup_statuses(statuses)
   
   print(paste0("Accessed ", nrow(new_data), " new Tweets"))
   
   new_statuses <- new_data$reply_to_status_id[!is.na(new_data$reply_to_status_id)]
-
+  
+  if (is.null(existing_data)) {
+    out_data <- new_data
+  } else {
+    out_data <- rbind(new_data, existing_data)
+  }
+  
   if (length(new_statuses) > 0) {
-    new_data_recursive <- get_replies_recursive(new_statuses) # this is the key line where the function calls itself, but passing new statuses
-    out_data <- rbind(new_data, new_data_recursive)
+    # this is the key line where the function calls itself, but passing new statuses
+    get_replies_recursive(new_statuses, existing_data = out_data)
   } else {
     print(paste0("Accessed ", nrow(out_data), " new Tweets in total"))
     return(out_data)
@@ -56,7 +62,7 @@ get_replies_recursive <- function(statuses) {
 
 Using it is simple; you just pass the variable for the status ids for the Tweets a reply is to.
 
-```{r, run-function, cache = FALSE}
+```{r}
 new_replies <- get_replies_recursive(d$reply_to_status_id)
 ```
 
