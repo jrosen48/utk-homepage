@@ -7,7 +7,9 @@ categories: []
 tags: []
 ---
 
-In [research group](makingdatasciencecount.com) meetings, we start with a short (5-10 minutes) activities focused on trying out something new. So far, these activities have been focused on computer science or data science ideas. This post shares a few of those, which have been somewhat useful (I think!) so far:
+In [research group](https://makingdatasciencecount.com) meetings, we have started with short (5-10 minute) activities focused on trying something new. 
+
+So far, these activities have been focused on computer science or data science ideas. This post shares a few of those, which have been somewhat useful (I think!) so far:
 
 - Writing and "using" a recipe for making pancakes (to explore the idea of an how computers closely follow the instructions they are told, as well as algorithms, conditional logic, and functions)
 - Exploring what one notices about [weather/climate-related data](https://www.nytimes.com/interactive/2020/world/year-in-weather.html#tys)
