@@ -3,7 +3,7 @@ title: Writing a recursive function in R - collecting data on replies to replies
 author: ''
 date: '2020-02-07'
 slug: writing-a-recursive-function-in-r
-categories: []
+categories: [r, tutorial]
 tags: []
 ---
 
@@ -15,6 +15,9 @@ tags: []
 <p>Fortunately, the rtweet package returns data on which Tweet a reply is to; using these, it is possible (using rtweet) to access the original Tweet.</p>
 <p>But, this raises an issue: What if the Tweet a reply is to is itself a reply (to another Tweet)? This problem starts to become a little complex. The solution I had tried was to use a <a href="https://r4ds.had.co.nz/iteration.html">while loop</a>; this worked basically fine, but I sensed there might be a better way. I talked this through with a student, and decided to see whether I could get it to work this way.</p>
 <p>This post represents my attempt to write <em>a recursive function</em> - one that involves calling itself.</p>
+</div>
+<div id="twitter-data" class="section level2">
+<h2>Twitter Data</h2>
 <p>First, let’s access the data. I use rtweet to access 5,000 recent Tweets with the #rstats hashtag.</p>
 <pre class="r"><code>library(rtweet)
 
@@ -52,5 +55,5 @@ d &lt;- search_tweets(&quot;#rstats&quot;, n = 5000)</code></pre>
 </div>
 <div id="fin" class="section level2">
 <h2><em>fin</em></h2>
-<p>I’m unsure exactly how much more better (clear, efficient) using recursion is here, compared to the former approach I tried; I think this code is a bit simpler. I am also unsure how generally useful reecursion is in real-life programming. Lastly, I’m not sure I did this quite right! I went down a bit of a recursive rabbit hole. But, this seemed to work, and I welcome any feedback about it.</p>
+<p>I’m unsure exactly how much more better (clear, efficient) using recursion is here, compared to the former approach I tried; I think this code is a bit simpler. I am also unsure how generally useful recursion is in real-life programming. Lastly, I’m not sure I did this quite right! I went down a bit of a recursive rabbit hole. But, this seemed to work, and I welcome any feedback about it.</p>
 </div>

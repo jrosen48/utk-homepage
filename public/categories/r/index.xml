@@ -6,10 +6,20 @@
     <description>Recent content in r on Joshua M. Rosenberg, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Writing a recursive function in R - collecting data on replies to replies (to replies!) on Twitter</title>
+      <link>/post/2020/02/07/writing-a-recursive-function-in-r/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/02/07/writing-a-recursive-function-in-r/</guid>
+      <description>Background Recursion has been a topic I’ve heard about, and even read about it, but have never used. Recently, I was analyzing data for the Next Generation Science Standards hashtag on Twitter, and was puzzled to find that some of the Tweets I had accessed were replies to Tweets which were themselves not in the data set.
+Fortunately, the rtweet package returns data on which Tweet a reply is to; using these, it is possible (using rtweet) to access the original Tweet.</description>
+    </item>
     
     <item>
       <title>Getting a grip on using BibTeX with R Markdown documents</title>

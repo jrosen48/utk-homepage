@@ -1,5 +1,5 @@
 ---
-title: Code Bites in R Studio Cloud
+title: Short activities focused around trying something new - some coding and data science-related examples 
 author: ''
 date: '2020-02-06'
 slug: code-bites-in-r-studio-cloud
