@@ -22,9 +22,7 @@ tags: []
 <pre class="r"><code>library(rtweet)
 
 d &lt;- search_tweets(&quot;#rstats&quot;, n = 5000)</code></pre>
-<pre><code>## Warning: Rate limit exceeded - 88</code></pre>
-<pre><code>## Warning: Rate limit exceeded</code></pre>
-<p>From these Tweets, there appear to be 0 Tweets that are replies.</p>
+<p>From these Tweets, there appear to be 5000 Tweets that are replies.</p>
 </div>
 <div id="writing-a-recursive-function" class="section level2">
 <h2>Writing a recursive function</h2>
@@ -38,7 +36,7 @@ d &lt;- search_tweets(&quot;#rstats&quot;, n = 5000)</code></pre>
   new_statuses &lt;- new_data$reply_to_status_id[!is.na(new_data$reply_to_status_id)]
 
   if (length(new_statuses) &gt; 0) {
-    new_data_recursive &lt;- get_replies_recursive(new_statuses) # this is the key line where the function calls itself, but passing different statuses
+    new_data_recursive &lt;- get_replies_recursive(new_statuses) # this is the key line where the function calls itself, but passing new statuses
     out_data &lt;- rbind(new_data, new_data_recursive)
   } else {
     print(paste0(&quot;Accessed &quot;, nrow(new_data), &quot; new Tweets in total&quot;))
@@ -50,10 +48,23 @@ d &lt;- search_tweets(&quot;#rstats&quot;, n = 5000)</code></pre>
 <h2>Using the function</h2>
 <p>Using it is simple; you just pass the variable for the status ids for the Tweets a reply is to.</p>
 <pre class="r"><code>new_replies &lt;- get_replies_recursive(d$reply_to_status_id)</code></pre>
-<pre><code>## [1] &quot;Accessed 0 new Tweets&quot;
-## [1] &quot;Accessed 0 new Tweets in total&quot;</code></pre>
+<pre><code>## [1] &quot;Accessed 74 new Tweets&quot;
+## [1] &quot;Accessed 23 new Tweets&quot;
+## [1] &quot;Accessed 16 new Tweets&quot;
+## [1] &quot;Accessed 10 new Tweets&quot;
+## [1] &quot;Accessed 9 new Tweets&quot;
+## [1] &quot;Accessed 4 new Tweets&quot;
+## [1] &quot;Accessed 2 new Tweets&quot;
+## [1] &quot;Accessed 2 new Tweets&quot;
+## [1] &quot;Accessed 2 new Tweets&quot;
+## [1] &quot;Accessed 2 new Tweets&quot;
+## [1] &quot;Accessed 2 new Tweets&quot;
+## [1] &quot;Accessed 2 new Tweets&quot;
+## [1] &quot;Accessed 2 new Tweets&quot;
+## [1] &quot;Accessed 1 new Tweets&quot;
+## [1] &quot;Accessed 1 new Tweets in total&quot;</code></pre>
 </div>
 <div id="fin" class="section level2">
 <h2><em>fin</em></h2>
-<p>I’m unsure exactly how much more better (clear, efficient) using recursion is here, compared to the former approach I tried; I think this code is a bit simpler. I am also unsure how generally useful recursion is in real-life programming. Lastly, I’m not sure I did this quite right! I went down a bit of a recursive rabbit hole. But, this seemed to work, and I welcome any feedback about it.</p>
+<p>I’m unsure exactly how much more better (clear, efficient) using recursion is here, compared to the former approach I tried; I think this code is a bit simpler. I am also unsure how generally useful recursion is in real-life programming. Lastly, I’m not sure I did this quite right: I went down a bit of a recursive rabbit hole. But, this seemed to work, and I welcome any feedback about it.</p>
 </div>

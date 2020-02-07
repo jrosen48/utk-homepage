@@ -43,7 +43,7 @@ get_replies_recursive <- function(statuses) {
   new_statuses <- new_data$reply_to_status_id[!is.na(new_data$reply_to_status_id)]
 
   if (length(new_statuses) > 0) {
-    new_data_recursive <- get_replies_recursive(new_statuses) # this is the key line where the function calls itself, but passing different statuses
+    new_data_recursive <- get_replies_recursive(new_statuses) # this is the key line where the function calls itself, but passing new statuses
     out_data <- rbind(new_data, new_data_recursive)
   } else {
     print(paste0("Accessed ", nrow(new_data), " new Tweets in total"))
@@ -62,4 +62,4 @@ new_replies <- get_replies_recursive(d$reply_to_status_id)
 
 ## *fin*
 
-I'm unsure exactly how much more better (clear, efficient) using recursion is here, compared to the former approach I tried; I think this code is a bit simpler. I am also unsure how generally useful recursion is in real-life programming. Lastly, I'm not sure I did this quite right! I went down a bit of a recursive rabbit hole. But, this seemed to work, and I welcome any feedback about it. 
+I'm unsure exactly how much more better (clear, efficient) using recursion is here, compared to the former approach I tried; I think this code is a bit simpler. I am also unsure how generally useful recursion is in real-life programming. Lastly, I'm not sure I did this quite right: I went down a bit of a recursive rabbit hole. But, this seemed to work, and I welcome any feedback about it. 
