@@ -1,5 +1,5 @@
 ---
-title: Writing a recursive function in R - Tweets on Tweets
+title: Writing a recursive function in R - or, tweets on tweets
 author: ''
 date: '2020-02-07'
 slug: writing-a-recursive-function-in-r
@@ -11,7 +11,7 @@ tags: []
 
 Recursion has been a topic I've *heard* about, and even [*read* about it](https://adv-r.hadley.nz/expressions.html#ast-funs), but have never used. Recently, I was analyzing data for the Next Generation Science Standards hashtag on Twitter, and was puzzled to find that some of the Tweets I had accessed were replies to Tweets which were themselves not in the data set. 
 
-Fortunately, the rtweet package returns data on which Tweet a reply is to; using these, it is possible (using rtweet) to access the original Tweet.
+Fortunately, the [rtweet R package](https://rtweet.info/) returns data on which Tweet a reply is to; using these, it is possible (using rtweet) to access the original Tweet.
 
 But, this raises an issue: What if the Tweet a reply is to is itself a reply (to another Tweet)? This problem starts to become a little complex. The solution I had tried was to use a [while loop](https://r4ds.had.co.nz/iteration.html); this worked basically fine, but I sensed there might be a better way. I talked this through with a student, and decided to see whether I could get it to work this way. 
 
@@ -21,7 +21,7 @@ This post represents my attempt to write *a recursive function* - one that invol
 
 First, let's access the data. I use rtweet to access 5,000 recent Tweets with the #rstats hashtag. 
 
-```{r}
+```{r, load-setup}
 library(rtweet)
 
 d <- search_tweets("#rstats", n = 5000)
@@ -33,7 +33,7 @@ From these Tweets, there appear to be `r length(d$reply_to_status_id)` Tweets th
 
 Here is my attempt at writing a recursive function; it takes one argument, `statuses`, which is the status ids for the Tweets a reply is to; the `reply_to_status_id` column in the data collected from rtweet.
 
-```{r}
+```{r, define-function}
 get_replies_recursive <- function(statuses) {
   statuses <- statuses[!is.na(statuses)] # this line removes the NAs, which are very common because most Tweets are not replies
   new_data <- lookup_statuses(statuses)
@@ -56,7 +56,7 @@ get_replies_recursive <- function(statuses) {
 
 Using it is simple; you just pass the variable for the status ids for the Tweets a reply is to.
 
-```{r}
+```{r, run-function, cache = TRUE}
 new_replies <- get_replies_recursive(d$reply_to_status_id)
 ```
 
