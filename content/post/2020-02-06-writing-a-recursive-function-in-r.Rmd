@@ -13,7 +13,7 @@ Recursion has been a topic I've *heard* about, and even [*read* about it](https:
 
 Fortunately, the [rtweet R package](https://rtweet.info/) returns data on which Tweet a reply is to; using these, it is possible (using rtweet) to access the original Tweet.
 
-But, this raises an issue: What if the Tweet a reply is to is itself a reply (to another Tweet)? This problem starts to become a little complex. The solution I had tried was to use a [while loop](https://r4ds.had.co.nz/iteration.html); this worked basically fine, but I sensed there might be a better way. I talked this through with a student, and decided to see whether I could get it to work this way. 
+But, this raises an issue: What if the Tweet a reply is to is itself a reply (to another Tweet)? This problem starts to become a little complex. The solution I had tried was to use a [while loop](https://r4ds.had.co.nz/iteration.html); this worked basically fine, but I sensed there might be a better way. I talked this through with a student, and determined to see whether I could get it to work this way. 
 
 This post represents my attempt to write *a recursive function* - one that involves calling itself. 
 
@@ -21,7 +21,7 @@ This post represents my attempt to write *a recursive function* - one that invol
 
 First, let's access the data. I use rtweet to access 5,000 recent Tweets with the #rstats hashtag. 
 
-```{r, load-setup}
+```{r, load-setup, cache = TRUE}
 library(rtweet)
 
 d <- search_tweets("#rstats", n = 5000)
@@ -62,4 +62,4 @@ new_replies <- get_replies_recursive(d$reply_to_status_id)
 
 ## *fin*
 
-I'm unsure exactly how much more better (clear, efficient) using recursion is here, compared to the former approach I tried; I think this code is a bit simpler. I am also unsure how generally useful recursion is in real-life programming. Lastly, I'm not sure I did this quite right: I went down a bit of a recursive rabbit hole. But, this seemed to work, and I welcome any feedback about it. 
+I'm unsure exactly how much more better (clear, efficient) using recursion is here, compared to the former approach I tried; I think this code is a bit simpler. I am also unsure how generally useful recursion is in real-life programming. Lastly, I'm not sure I did this quite right; I went down a bit of a recursive rabbit holem and the part that is most unusual to me is that the result is something like iteration, arrived at a different way. But, this seemed to work, and I welcome any feedback about it. 
