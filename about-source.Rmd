@@ -277,7 +277,7 @@ Koehler, M. J., Mishra, P., Akcaoglu, M., & Rosenberg, J. M. (2013). Technologic
 ## Conference Proceedings Papers
 
 \hangindent=2em
-Rosenberg, J. M., Schmidt, A., Rosenberg, A. M., Longnecker, J., & Mann M. (2020). Becoming 'tidier' over time. Studyign #tidytuesday as a social media-based context for learning to visualize data. In M. Gresalfi and I. Horn (Eds.), *Proceedings of the International Conference of the Learning Sciences* 2020.
+Rosenberg, J. M., Schmidt, A., Rosenberg, A. M., Longnecker, J., & Mann M. (2020). Becoming 'tidier' over time. Studying #tidytuesday as a social media-based context for learning to visualize data. In M. Gresalfi and I. Horn (Eds.), *Proceedings of the International Conference of the Learning Sciences* 2020.
 
 \hangindent=2em
 Jones R. S., & Rosenberg, J. M. (2020). Studying whole class discussions at scale. In M. Gresalfi and I. Horn (Eds.), *Proceedings of the International Conference of the Learning Sciences* 2020.
@@ -569,6 +569,9 @@ Jones, R. S., & Rosenberg, J. M. (February, 2019). Latent class modeling of whol
 Lawson, M., Rosenberg, J. M., & Camponovo, M. (February, 2019). Better together? Findings from a combined, integrated STEM unit with pre-service mathematics and science teachers. Presentation at the 13th Annual Tennessee STEM Education Research Conference. Murfreesboro, TN.
 
 ## Workshops and Outreach
+
+\hangindent=2em
+Dyer, E. B., D'Angelo, D., Bosch, N., Krist, C., & Rosenberg, J. M. (2020, June). *Analyzing learning with speech analytics and computer vision methods: Technologies, principles, and ethics*. Workshop to be carried out at the International Conference of the Learning Sciences, Nashville, TN.
 
 \hangindent=2em
 Rosenberg, J. M. (2020, January). *An introduction to using R for data science (zero prerequisites required!)*. Presentation for the KnoxData group, Knoxville, TN.

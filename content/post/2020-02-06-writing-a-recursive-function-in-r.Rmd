@@ -27,8 +27,6 @@ library(rtweet)
 d <- search_tweets("#rstats", n = 1000)
 ```
 
-From these Tweets, there appear to be `r length(d$reply_to_status_id)` Tweets that are replies.
-
 ## Writing a recursive function
 
 Here is my attempt at writing a recursive function; it takes one argument, `statuses`, which is the status ids for the Tweets a reply is to; the `reply_to_status_id` column in the data collected from rtweet.
