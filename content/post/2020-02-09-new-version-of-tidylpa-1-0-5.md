@@ -20,3 +20,5 @@ Changes include:
 * Fix bug re. passing additional parameters to `mplusObject()`
 * Remove messages about deprecated functions (those which were last used in v < 1.0.0)
 * Other minor changes, including addressing bugs from [the tidyLPA mailing list](https://groups.google.com/forum/#!forum/tidylpa), and improving documentation
+
+As an aside, tidyLPA is being cited in a number of papers - include five already in 2020! - which is exciting to all of us who have contributed to it. You can see what papers have cited it [here](https://scholar.google.com/scholar?cites=375165318739776322&as_sdt=5,43&sciodt=0,43&hl=en).
