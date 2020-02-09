@@ -6,10 +6,22 @@
     <description>Recent content in Home on Joshua M. Rosenberg, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New version of tidyLPA (v 1.0.5) for carrying out Latent Profile Analysis using either open-source or commercial software</title>
+      <link>/post/2020/02/09/new-version-of-tidylpa-1-0-5/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/02/09/new-version-of-tidylpa-1-0-5/</guid>
+      <description>There is a new version of tidyLPA (v 1.0.5) available on CRAN (see here)
+The website, with a lot more information than is on the page above, is here.
+Changes include:
+ Add function to calculate Lo-Mendell-Rubin LR test Add plot_bivariate function Set default for plot_profiles(add_line = FALSE), because the line does not convey any meaningful information Fix bug re. passing additional parameters to mplusObject() remove messages about deprecated functions  </description>
+    </item>
     
     <item>
       <title>Writing a recursive function in R - or, tweets on tweets</title>
