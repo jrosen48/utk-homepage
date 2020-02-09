@@ -17,10 +17,10 @@
       <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/2020/02/09/new-version-of-tidylpa-1-0-5/</guid>
-      <description>There is a new version of tidyLPA (v 1.0.5) available on CRAN (see here)
+      <description>There is a new version of tidyLPA (v 1.0.5) available on CRAN (see here).
 The website, with a lot more information than is on the page above, is here.
 Changes include:
- Add function to calculate Lo-Mendell-Rubin LR test Add plot_bivariate function Set default for plot_profiles(add_line = FALSE), because the line does not convey any meaningful information Fix bug re. passing additional parameters to mplusObject() remove messages about deprecated functions  </description>
+ Add function to calculate Lo-Mendell-Rubin LR test Add plot_bivariate() Set default for plot_profiles(add_line = FALSE), because the line does not convey any meaningful information Fix bug re. passing additional parameters to mplusObject() Remove messages about deprecated functions (those which were last used in v &amp;lt; 1.</description>
     </item>
     
     <item>

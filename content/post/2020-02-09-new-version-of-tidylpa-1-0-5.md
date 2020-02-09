@@ -7,15 +7,16 @@ categories: []
 tags: []
 ---
 
-There is a new version of tidyLPA (v 1.0.5) available on CRAN (see [here](https://cloud.r-project.org/web/packages/tidyLPA/index.html))
+There is a new version of tidyLPA (v 1.0.5) available on CRAN (see [here](https://cloud.r-project.org/web/packages/tidyLPA/index.html)).
 
 The website, with a lot more information than is on the page above, is [here](https://data-edu.github.io/tidyLPA/).
 
 Changes include:
 
 * Add function to calculate Lo-Mendell-Rubin LR test
-* Add plot_bivariate function
-* Set default for plot_profiles(add_line = FALSE), because the line does not 
+* Add `plot_bivariate()`
+* Set default for `plot_profiles(add_line = FALSE)`, because the line does not 
   convey any meaningful information
-* Fix bug re. passing additional parameters to mplusObject()
-* remove messages about deprecated functions
+* Fix bug re. passing additional parameters to `mplusObject()`
+* Remove messages about deprecated functions (those which were last used in v < 1.0.0)
+* Other minor changes, including addressing bugs from [the tidyLPA mailing list](https://groups.google.com/forum/#!forum/tidylpa), and improving documentation
