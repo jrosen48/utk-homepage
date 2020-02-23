@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.2.9)  16 FEB 2020 07:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.2.9)  23 FEB 2020 07:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -465,38 +465,39 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1121.
+(hyperref)                than one, level fixed on input line 1135.
 
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1161.
+(hyperref)                than one, level fixed on input line 1175.
 
 [14] [15] [16]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1384.
+(hyperref)                than one, level fixed on input line 1398.
 
 [17]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1445.
+(hyperref)                than one, level fixed on input line 1459.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1483.
 [18]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1483.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1500.
+[19]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1500.
 (./rosenberg-cv.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1483.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1483.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1500.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1500.
 
 Package rerunfilecheck Info: File `rosenberg-cv.out' has not changed.
-(rerunfilecheck)             Checksum: 9EAA94378DD352A19D9E9921C21F0C88;7856.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1483.
+(rerunfilecheck)             Checksum: 8D04E4BF3C8AF30B4964BAA70A08C334;7871.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1500.
  ) 
 Here is how much of TeX's memory you used:
- 10163 strings out of 483192
- 146703 string characters out of 5965458
- 387737 words of memory out of 5000000
- 24891 multiletter control sequences out of 15000+600000
+ 10168 strings out of 483192
+ 146726 string characters out of 5965458
+ 387757 words of memory out of 5000000
+ 24893 multiletter control sequences out of 15000+600000
  581886 words of font info for 63 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  34i,5n,34p,393b,318s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -506,10 +507,10 @@ s/jrosenb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></Users/
 jrosenb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/jro
 senb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.pfb></Users/jrosen
 b8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb>
-Output written on rosenberg-cv.pdf (18 pages, 211139 bytes).
+Output written on rosenberg-cv.pdf (19 pages, 212372 bytes).
 PDF statistics:
- 454 PDF objects out of 1000 (max. 8388607)
- 424 compressed objects within 5 object streams
- 113 named destinations out of 1000 (max. 500000)
- 377 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 465 PDF objects out of 1000 (max. 8388607)
+ 434 compressed objects within 5 object streams
+ 116 named destinations out of 1000 (max. 500000)
+ 385 words of extra memory for PDF output out of 10000 (max. 10000000)
 
