@@ -7,7 +7,7 @@ categories: []
 tags: []
 ---
 
-Supported through an SEC Travel Grant, I am presenting on *Studying education-focused Twitter hashtags in light of state-based and national policies and practices* as a part of the 2020 Spring Seminar Series at the Martin School of Public Policy at the University of Kentucky, Lexington, KY.
+Supported through an [SEC Travel Grant](https://www.thesecu.com/programs/sec-faculty-travel-program/2019-2020-sec-faculty-travel-program-participants/), I am presenting on *Studying education-focused Twitter hashtags in light of state-based and national policies and practices* as a part of the 2020 Spring Seminar Series at the Martin School of Public Policy at the University of Kentucky, Lexington, KY.
 
 A link to the presentation is here: https://docs.google.com/presentation/d/1lNMAUGfBvnVsLEL8pbeS5On60v0vZifqeZkXsqkyFYk/edit?usp=sharing
 
