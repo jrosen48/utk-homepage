@@ -14,4 +14,4 @@ This is a new area for me, one that I proposed to explore in the [ICLS Early Car
 
 > While analyzing data is an important learning in science domains, existing methods and tools for those learning to work with data have key limitations, particularly concerning scientific modeling. This early-stage research is intended to begin a line of work on students’ data analysis that is not yet widely used in K-12 learning environments, Bayesian statistical methods, with implications for how learners use evidence in science education.
 
-The copyright for the ICLS conference proceedings allows authors to distribute their papers, and so I am sharing the paper [here](https://joshuamrosenberg.com/pre-prints/rosenberg-2020-icls-ecw-copyright.pdf); I welcome any thoughts or feedback on this early-stage work.
+The copyright for the ICLS conference proceedings allows authors to distribute their papers, and so I am sharing the paper [here](https://joshuamrosenberg.com/publications/rosenberg-2020-icls-ecw-copyright.pdf); I welcome any thoughts or feedback on this early-stage work.
