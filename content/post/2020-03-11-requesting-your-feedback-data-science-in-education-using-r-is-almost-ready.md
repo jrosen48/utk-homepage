@@ -17,6 +17,6 @@ The screenshot below shows how to suggest a revision through GitHub; this functi
 
 ![](/post/2020-03-11-requesting-your-feedback-data-science-in-education-using-r-is-almost-ready_files/Screen Shot 2020-03-11 at 10.08.18 AM.png)
 
-If you prefer, you can email us with any suggested edits at [authors@datascienceineducation.com].
+If you prefer, you can email us with any suggested edits at authors@datascienceineducation.com.
 
 Any and all edits are welcome, including grammatical edits and those related to the code and its output. We plan to submit the book to the publisher, *Routledge*, by March 30. 
