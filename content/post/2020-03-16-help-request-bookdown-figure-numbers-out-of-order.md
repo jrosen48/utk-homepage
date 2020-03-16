@@ -9,7 +9,7 @@ tags: []
 
 *Data Science in Education Using R* co-author Isabella posted in RStudio Community
 about a strange issue encountered when adding figure numbers to the book: they 
-are regularly out of order. The post in RStudio Community is [here](https://community.rstudio.com/t/bookdown-figure-numbers-out-of-order/56600)].
+are regularly out of order. The post in RStudio Community is [here](https://community.rstudio.com/t/bookdown-figure-numbers-out-of-order/56600).
 
 As one example, [in Chapter 5](https://datascienceineducation.com/c05.html), the figure numbering begins with 5.1 . . . 
 but then proceeds to 0.1, and then picks up (correctly) with 5.3 through the 
