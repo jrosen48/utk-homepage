@@ -20,3 +20,5 @@ figure ([source code for Chapter 5](https://github.com/data-edu/data-science-in-
 we looked at other chapters, like [Chapter 9](https://datascienceineducation.com/c09.html), for which the numbering is even more dramatically out or order.
 
 If you have any suggestions, please consider responding to [the RStudio Community post](https://community.rstudio.com/t/bookdown-figure-numbers-out-of-order/56600) or by messaging us at authors@datascienceineducation.com.
+
+Thanks!
