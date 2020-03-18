@@ -15,4 +15,4 @@ The attached image from the Tweet is an elaboration of this announcement:
 
 ![](/post/2020-03-18-in-support-of-joss-for-not-accepting-new-article-submissions_files/ES_JN6wWkAAirsC.jpeg)
 
-I think this is a good idea, and support it. Setting the expectation from the "top-down" can support individuals' decision (necessary or forced) to slow their pace of non-urgent work, and I'd be happy if other journals - especially those I submit to or review for - decided to the same.
+I think this is a good idea, and support it. Setting the expectation from the "top-down" can support individuals' decision (necessary or forced) to slow their pace of non-urgent work. 
