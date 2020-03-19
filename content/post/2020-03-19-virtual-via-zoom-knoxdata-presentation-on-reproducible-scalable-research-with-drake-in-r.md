@@ -19,3 +19,5 @@ Here is some information on the presentation; more is available [on the group's 
 > This meetup will be hosted by [Dr. Brian O'Meara, Professor and Associate Head, Ecology and Evolutionary Biology Department](http://brianomeara.info/), University of Tennessee, Knoxville.
 
 While being Zoom-based presents some challenges, it also means that anyone who is interested - from Knoxville or from elsewhere - is more than welcome to join. Please just RSVP for the event [here](https://www.meetup.com/knoxdata/events/269356941/), and you'll be sent a Zoom link prior to the beginning of the presentation.
+
+Regardless of whether you join the meetup, there is a website for the presentation available here: https://bomeara.github.io/drake_knoxdata/.
