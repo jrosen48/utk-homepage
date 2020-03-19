@@ -1,5 +1,5 @@
 ---
-title: Virtual (via Zoom) KnoxData presentation on reproducible, scalable research
+title: Virtual KnoxData presentation (via Zoom) on reproducible, scalable research
   with drake in R
 author: ''
 date: '2020-03-19'
@@ -8,7 +8,7 @@ categories: []
 tags: []
 ---
 
-KnoxData is hosting a virtual (Zoom-based) presentation on *Reproducible, scalable research: an example with drake in R*.
+KnoxData is hosting a virtual (Zoom-based) presentation tonight (Thursday, Mar. 19) from 6:30 - 7:30 pm EST on *Reproducible, scalable research: an example with drake in R*. D
 
 Here is some information on the presentation; more is available [on the group's Meetup page](https://www.meetup.com/knoxdata/events/269356941/).
 
@@ -16,6 +16,6 @@ Here is some information on the presentation; more is available [on the group's 
 
 > Please note: To do our part to prevent the spread of the COVID-19 virus, this meetup will be held Online, and a Zoom link to be sent to all attendees 30 minutes prior to the start of the Meetup.
 
-> This meetup will be hosted by Dr. Brian O'Meara, Professor and Associate Head, Ecology and Evolutionary Biology Department, University of Tennessee, Knoxville
+> This meetup will be hosted by [Dr. Brian O'Meara, Professor and Associate Head, Ecology and Evolutionary Biology Department](http://brianomeara.info/), University of Tennessee, Knoxville.
 
 While being Zoom-based presents some challenges, it also means that anyone who is interested - from Knoxville or from elsewhere - is more than welcome to join. Please just RSVP for the event [here](https://www.meetup.com/knoxdata/events/269356941/), and you'll be sent a Zoom link prior to the beginning of the presentation.
