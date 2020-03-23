@@ -183,6 +183,9 @@ Bovee, E. A., Estrellado, R. A., Motsipak, J., Rosenberg, J. M., & Velásquez, I
 ## Peer-Reviewed Journal Articles
 
 \hangindent=2em
+Ranellucci, J., Rosenberg, J. M., & Poitras, E. (in press). Exploring pre-service teachers’ use of technology: The technology acceptance model and expectancy-value theory. *Journal of Computer Assisted Learning*
+
+\hangindent=2em
 Anderson, D. J., Rowley, B., Stegenga, S., Irvin, P. S., & Rosenberg, J. M. (in press). Evaluating content-related validity evidence using a text-based, machine learning procedure. *Educational Measurement: Issues and Practice*.
 
 \hangindent=2em
@@ -345,7 +348,7 @@ Rosenberg, J. M., & Ranellucci, J. (2017). Student motivation in online science 
 Rosenberg, J. (2019). *Understanding the development of interest in CS: An experience sampling approach (Proposal to NSF 19-4327)*. https://doi.org/10.31219/osf.io/9mg5y *Nb.* This proposal is associated with NSF Grant no. [1937700](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1937700&HistoricalAwards=false). 
 
 \hangindent=2em
-Nosek, B. A., Ofiesh, L., Grasty, F. L., Pfeiffer, N., Mellor, D. T., Brooks, R. E., III, . . . Baraniuk, R. (2019). *Proposal to NSF 19-565 to create a STEM education research hub*. https://doi.org/10.31222/osf.io/4mpuc *Nb*. Contributors are listed in alphabetical order following the Principal Investigators. I contribute to this proposal. <a href="https://scholar.google.com/citations?hl=en&user=nxVowRQAAAAJ&view_op=list_works&authuser=2&sortby=pubdate#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DnxVowRQAAAAJ%26sortby%3Dpubdate%26authuser%3D2%26citation_for_view%3DnxVowRQAAAAJ%3AyB1At4FlUx8C%26tzom%3D300"><img src = "/logos/google-scholar-1.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
+Nosek, B. A., Ofiesh, L., Grasty, F. L., Pfeiffer, N., Mellor, D. T., Brooks, R. E., III, . . . Baraniuk, R. (2019). *Proposal to NSF 19-565 to create a STEM education research hub*. https://doi.org/10.31222/osf.io/4mpuc *Nb*. Contributors are listed in alphabetical order following the Principal Investigators. I contributed to this proposal. <a href="https://scholar.google.com/citations?hl=en&user=nxVowRQAAAAJ&view_op=list_works&authuser=2&sortby=pubdate#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DnxVowRQAAAAJ%26sortby%3Dpubdate%26authuser%3D2%26citation_for_view%3DnxVowRQAAAAJ%3AyB1At4FlUx8C%26tzom%3D300"><img src = "/logos/google-scholar-1.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
 
 \hangindent=2em
 Rosenberg, J. M. (2018). *Context and Technological Pedagogical Content Knowledge: An initial survey of teachers and validation data*. <a href = "https://osf.io/hc9fq/"><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
