@@ -6,10 +6,103 @@
     <description>Recent content in Home on Joshua M. Rosenberg, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Is your state still planning to carry out end-of-course testing in light of COVID-19? Crowdsourcing information</title>
+      <link>/post/2020/03/24/is-your-state-still-planning-to-carry-out-end-of-course-testing-crowdsourcing-information/</link>
+      <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/03/24/is-your-state-still-planning-to-carry-out-end-of-course-testing-crowdsourcing-information/</guid>
+      <description>State testing My colleague Isabella Velasquez and I were wondering what states were doing with respect to end-of-course testing, and found that no comprehensive (of which we were aware) yet existed. As a result, we decided to try to crowdsource this information.
+Has your state announced whether they are postponing end-of-course (or other planned) tests this year in light of COVID-19? Please take a minute or so to add this information to this Google Sheets spreadsheet: https://docs.</description>
+    </item>
+    
+    <item>
+      <title>Virtual KnoxData presentation (via Zoom) on reproducible, scalable research with drake in R</title>
+      <link>/post/2020/03/19/virtual-via-zoom-knoxdata-presentation-on-reproducible-scalable-research-with-drake-in-r/</link>
+      <pubDate>Thu, 19 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/03/19/virtual-via-zoom-knoxdata-presentation-on-reproducible-scalable-research-with-drake-in-r/</guid>
+      <description>KnoxData is hosting a virtual (Zoom-based) presentation tonight (Thursday, Mar. 19) from 6:30 - 7:30 pm EST on Reproducible, scalable research: an example with drake in R. D
+Here is some information on the presentation; more is available on the group&amp;rsquo;s Meetup page.
+ We all start out using things like Excel to analyze data. Sometimes we progress to entering commands in languages like R and python, then save our commands into a script and run that.</description>
+    </item>
+    
+    <item>
+      <title>In support of JOSS for not accepting new article submissions</title>
+      <link>/post/2020/03/18/in-support-of-joss-for-not-accepting-new-article-submissions/</link>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/03/18/in-support-of-joss-for-not-accepting-new-article-submissions/</guid>
+      <description>The Journal of Open Source Software announced last week (via email and on Twitter) that:
+ Submissions to JOSS are suspended for 30 days to provide relief to authors, editors, and reviewers dealing with the effects of the COVID-19 pandemic.
+ The attached image from the Tweet is an elaboration of this announcement:
+I think this is a good idea, and support it. Setting the expectation from the &amp;ldquo;top-down&amp;rdquo; can support individuals&amp;rsquo; decision (necessary or forced) to slow their pace of non-urgent work.</description>
+    </item>
+    
+    <item>
+      <title>Help request - bookdown figure numbers out of order</title>
+      <link>/post/2020/03/16/help-request-bookdown-figure-numbers-out-of-order/</link>
+      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/03/16/help-request-bookdown-figure-numbers-out-of-order/</guid>
+      <description>Data Science in Education Using R co-author Isabella posted in RStudio Community about a strange issue encountered when adding figure numbers to the book: they are regularly out of order. The post in RStudio Community is here.
+As one example, in Chapter 5, the figure numbering begins with 5.1 . . . but then proceeds to 0.1, and then picks up (correctly) with 5.3 through the last figure, 5.10.
+After trying to figure out whether there was an issue with that figure (source code for Chapter 5), we looked at other chapters, like Chapter 9, for which the numbering is even more dramatically out or order.</description>
+    </item>
+    
+    <item>
+      <title>Requesting your feedback: Data Science in Education Using R is almost ready!</title>
+      <link>/post/2020/03/11/requesting-your-feedback-data-science-in-education-using-r-is-almost-ready/</link>
+      <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/03/11/requesting-your-feedback-data-science-in-education-using-r-is-almost-ready/</guid>
+      <description>The Data Science in Education Using R book is almost ready to be sent to the publisher.
+You can view the latest version of the book (as of this morning!) at the following URL:
+https://datascienceineducation.com/
+The screenshot below shows how to suggest a revision through GitHub; this functionality exists for every chapter of the book.
+![](/post/2020-03-11-requesting-your-feedback-data-science-in-education-using-r-is-almost-ready_files/Screen Shot 2020-03-11 at 10.08.18 AM.png)
+If you prefer, you can email us with any suggested edits at authors@datascienceineducation.</description>
+    </item>
+    
+    <item>
+      <title>Sickness and gratitude</title>
+      <link>/post/2020/03/04/sickness-and-gratitude/</link>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/03/04/sickness-and-gratitude/</guid>
+      <description>As this post&amp;rsquo;s title indicates, this isn&amp;rsquo;t a typical blog post for me; it&amp;rsquo;s on (much) a personal note. I&amp;rsquo;ll preface this post by saying that I&amp;rsquo;m fundamentally healthy (and so is my fam): that is sort of the thesis of the post.
+Starting in December, our son came down with a bad ear infection that continued through the holiday break (and the new year). He got better - we got sick - and we moved on.</description>
+    </item>
+    
+    <item>
+      <title>More confidently uncertain? Teaching learners to apply Bayesian methods to make sense of scientific phenomena</title>
+      <link>/post/2020/02/27/more-confidently-uncertain-teaching-learners-to-apply-bayesian-methods-to-make-sense-of-scientific-phenomena/</link>
+      <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/02/27/more-confidently-uncertain-teaching-learners-to-apply-bayesian-methods-to-make-sense-of-scientific-phenomena/</guid>
+      <description>This is a new area for me, one that I proposed to explore in the ICLS Early Career Workshop:
+More confidently uncertain? Teaching learners to apply Bayesian methods to make sense of scientific phenomena
+ While analyzing data is an important learning in science domains, existing methods and tools for those learning to work with data have key limitations, particularly concerning scientific modeling. This early-stage research is intended to begin a line of work on students’ data analysis that is not yet widely used in K-12 learning environments, Bayesian statistical methods, with implications for how learners use evidence in science education.</description>
+    </item>
+    
+    <item>
+      <title>New version of konfound (v 0.2.1) for sensitivity analysis available</title>
+      <link>/post/2020/02/26/new-version-of-konfound-v-0-2-1-for-sensitivity-analysis-a-technique-to-support-trying-to-make-causal-inferences/</link>
+      <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/02/26/new-version-of-konfound-v-0-2-1-for-sensitivity-analysis-a-technique-to-support-trying-to-make-causal-inferences/</guid>
+      <description>A new version of konfound (v 0.2.1) for sensitivity analysis (a technique to support making causal inferences, especially in light of observational data) is available.
+This version includes a new technique for non-linear models (i.e., a logistic regression).
+Documentation for the package is available here: https://jrosen48.github.io/konfound/
+We also updated the Shiny app associated with the package, available here: http://konfound-it.com/
+Lastly, here are other blog posts on the topic:
+ an introduction to the R package an introduction the Shiny app  </description>
+    </item>
     
     <item>
       <title>Presentation on studying education-focused Twitter hashtags in light of state-based and national policies and practices</title>

@@ -183,7 +183,7 @@ Bovee, E. A., Estrellado, R. A., Motsipak, J., Rosenberg, J. M., & Velásquez, I
 ## Peer-Reviewed Journal Articles
 
 \hangindent=2em
-Ranellucci, J., Rosenberg, J. M., & Poitras, E. (in press). Exploring pre-service teachers’ use of technology: The technology acceptance model and expectancy-value theory. *Journal of Computer Assisted Learning*
+Ranellucci, J., Rosenberg, J. M., & Poitras, E. (in press). Exploring pre-service teachers’ use of technology: The technology acceptance model and expectancy-value theory. *Journal of Computer Assisted Learning*. *Nb.* This paper was accepted and published as a registered report.
 
 \hangindent=2em
 Anderson, D. J., Rowley, B., Stegenga, S., Irvin, P. S., & Rosenberg, J. M. (in press). Evaluating content-related validity evidence using a text-based, machine learning procedure. *Educational Measurement: Issues and Practice*.
