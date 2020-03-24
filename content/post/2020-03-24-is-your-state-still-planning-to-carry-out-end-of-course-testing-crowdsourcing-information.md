@@ -10,7 +10,7 @@ tags: []
 
 ## State testing
 
-My colleague Isabella Velasquez and I were wondering what states were doing with respect to end-of-course testing, and found that no comprehensive (of which we were aware) yet existed. As a result, we decided to try to crowdsource this information. 
+My colleague [Isabella Velasquez](https://ivelasq.rbind.io/) and I were wondering what states were doing with respect to end-of-course testing, and found that no comprehensive (of which we were aware) yet existed. As a result, we decided to try to crowdsource this information. 
 
 Has your state announced whether they are postponing end-of-course (or other planned) tests this year in light of COVID-19? Please take a minute or so to add this information to this Google Sheets spreadsheet: https://docs.google.com/spreadsheets/d/1Y6WqPhhgRfHcieY4p6OuCFgXXwJvxRvHiRUovllximM/edit#gid=796645619
 
