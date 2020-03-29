@@ -8,7 +8,7 @@ categories: []
 tags: []
 ---
 
-Like many educational researchers (and teachers, parents, administrators . . . and kids), I have been wondering about how U.S. school districts are responding to the COVID-19 pandemic. There seemed to be a lot of variation, not only across U.S. states, but also within districts within states, and even within districts (and even within schools in districts!).
+Like many educational researchers (and teachers, parents, administrators . . . and kids), I have been wondering about how U.S. school districts are responding to the COVID-19 pandemic. There seemed to be a lot of variation, not only across U.S. states, but also within districts within states, and even within districts (*and* even within schools in districts!).
 
 ## Exploring how districts in Tennessee (and, soon, other states) are responding to COVID-19
 
@@ -18,19 +18,16 @@ One way I'm pursuing this is through a project wherein we are trying to document
 
 Another way I'm pursuing this is at a wider scale, but with a coarser lens. In particular, I tried to find out which U.S. districts had announcements, resources, or other information on their websites in light of COVID-19. 
 
-The data, created by web-scraping all of the districts with URLs available through the [National Center for Education Statistics](https://nces.ed.gov/ccd/elsi/tableGenerator.aspx), is available here through the Open Science Framework: https://osf.io/2txjy/
-
-I accessed the data using web-scraping. That code is here on GitHub: https://github.com/jrosen48/scraping-districts-covid
+The data, created by web-scraping (code [here on GitHub](https://github.com/jrosen48/scraping-districts-covid
+) all of the districts with URLs available through the [National Center for Education Statistics](https://nces.ed.gov/ccd/elsi/tableGenerator.aspx), is available here through the Open Science Framework: https://osf.io/2txjy/
 
 A cursory look at the data revealed a lot of variation between states (see below). Lighter colors indicate a higher proportion of districts in a state with announcements, resources, or other information on their websites related to COVID-19. For example, Virginia and Maryland have a high proportion of districts with information of some kind on their websites, whereas North Dakota and Utah have a lower proportion. States in gray have no data (an issue I discuss a bit below).
 
 ![](/post/2020-03-29-how-are-u-s-school-districts-responding-to-covid-a-first-look-at-12-500-districts-websites_files/state-plot.png)
 
-Overall, 71.3% of districts' sites referenced COVID-19 or Coronavirus.
+Overall, 71.3% of districts' sites referenced COVID-19 or Coronavirus. Not represented on the map is the number of links on each districts' site that referenced COVID-19 or coronavirus; on average, each of the 12,500 districts included 1.50 (*SD* = 2.32) links, ostensibly to the kinds of pages (or documents - or images) with the kind of information that we are trying to find out in a finer-grained way for the state of Tennessee. 
 
-Not represented on the map is the number of links on each districts' site that referenced COVID-19 or coronavirus; on average, each of the 12,500 districts included 1.50 (*SD* = 2.32) links, ostensibly to the kinds of pages (or documents - or images) with the kind of information that we are trying to find out in a finer-grained way for the state of Tennessee. 
-
-Here's an RMarkdown document with the raw and aggregate data in a searchable form: https://rpubs.com/jmichaelrosenberg/covid
+An RMarkdown document with the raw and aggregate data in a searchable form is also here: https://rpubs.com/jmichaelrosenberg/covid
 
 ## *fin*
 
