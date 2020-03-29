@@ -12,7 +12,7 @@ Like many educational researchers (and teachers, parents, administrators . . . a
 
 ## Exploring how districts in Tennessee (and, soon, other states) are responding to COVID-19
 
-One way I'm pursuing this is through a project wherein we are trying to document what every district in the state of Tennessee (and, possibly, soon, in other states) are doing to respond: Whether they are completely closed or they are still providing opportunities for students to learn; what kinds of teaching and learning and/or resources are provided to students (and their parents), and how districts are supporting students who might very reasonably not have, for instance, reliable Internet access at their home, or a computer that they can use to access resources (not to mention Zoom!).
+One way I'm pursuing this is through a project wherein we are trying to document what every district in the state of Tennessee (and, possibly, soon, in other states) are doing to respond: Whether they are completely closed or they are still providing opportunities for students to learn; what kinds of teaching and learning and/or resources are provided to students (and their parents), and how districts are supporting students who might very reasonably not have, for instance, reliable Internet access at their home, or a computer that they can use to access resources (not to mention Zoom).
 
 ## Exploring how districts across the US are responding to COVID-19
 
@@ -27,7 +27,7 @@ A cursory look at the data revealed a lot of variation between states (see below
 
 For example, Virginia and Maryland have a high proportion of districts with information of some kind on their websites, whereas North Dakota and Utah have a lower proportion. States in gray have no data (an issue I discuss a bit below).
 
-Overall, 71.3% of districts' sites referenced COVID-19 or Coronavirus. Not represented on the map is the number of links on each districts' site that referenced COVID-19 or Coronavirus; on average, each of the 12,500 districts included 1.50 (*SD* = 2.32) links, ostensibly to the kinds of pages (or documents - or images) with the kind of information that we are trying to find out in a finer-grained way for the state of Tennessee. An RMarkdown document with the raw and aggregate data in a searchable form is also here: https://rpubs.com/jmichaelrosenberg/covid
+Overall, 71.3% of the 12,505 districts' sites that were accessible referenced COVID-19 or Coronavirus. Not represented on the map is the number of links on each districts' site that referenced COVID-19 or Coronavirus; on average, each of the 12,500 districts included 1.50 (*SD* = 2.32) links, ostensibly to the kinds of pages (or documents - or images) with the kind of information that we are trying to find out in a finer-grained way for the state of Tennessee. An RMarkdown document with the raw and aggregate data in a searchable form is also here: https://rpubs.com/jmichaelrosenberg/covid
 
 ## *fin*
 
