@@ -23,9 +23,9 @@ The data, created by web-scraping (code [here on GitHub](https://github.com/jros
 
 A cursory look at the data revealed a lot of variation between states (see below). Lighter colors indicate a higher proportion of districts in a state with announcements, resources, or other information on their websites related to COVID-19. 
 
-For example, Virginia and Maryland have a high proportion of districts with information of some kind on their websites, whereas North Dakota and Utah have a lower proportion. States in gray have no data (an issue I discuss a bit below).
-
 ![](/post/2020-03-29-how-are-u-s-school-districts-responding-to-covid-a-first-look-at-12-500-districts-websites_files/state-plot.png)
+
+For example, Virginia and Maryland have a high proportion of districts with information of some kind on their websites, whereas North Dakota and Utah have a lower proportion. States in gray have no data (an issue I discuss a bit below).
 
 Overall, 71.3% of districts' sites referenced COVID-19 or Coronavirus. Not represented on the map is the number of links on each districts' site that referenced COVID-19 or coronavirus; on average, each of the 12,500 districts included 1.50 (*SD* = 2.32) links, ostensibly to the kinds of pages (or documents - or images) with the kind of information that we are trying to find out in a finer-grained way for the state of Tennessee. 
 
