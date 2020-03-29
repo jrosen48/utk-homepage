@@ -26,6 +26,8 @@ A cursory look at the data revealed a lot of variation between states (see below
 
 ![](/post/2020-03-29-how-are-u-s-school-districts-responding-to-covid-a-first-look-at-12-500-districts-websites_files/state-plot.png)
 
+Here is an RMarkdown document with the raw and aggregate data in a searchable form: https://rpubs.com/jmichaelrosenberg/covid
+
 ## *fin*
 
 A few caveats: The National Center for Education Statistics shares data for approximately 18,000 districts in the U.S., but only 15,000 or so included URLs to the districts' site. I'm not sure whether those 3,000 without URLs available are different from those with URLs in important ways, but I'd like to figure this out. Additionally, for the 15,000 or so districts with URLs available, approximately 2,500 were not able to be accessed: The URLs may have changed, perhaps, or perhaps I made a mistake in processing the data. Lastly, searching the sites for the presence of COVID-19 or coronavirus is a very coarse approach. Many sites include news updates, for example, that are displayed in a way that this type of analysis would not detect (such as through a pop-up window, or via a news section of the website that is rendered with JavaScript). 
