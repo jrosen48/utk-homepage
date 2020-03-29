@@ -12,7 +12,7 @@ Like many educational researchers (and teachers, parents, administrators . . . a
 
 ## Exploring how districts in Tennessee (and, soon, other states) are responding to COVID-19
 
-One way I'm pursuing this is through a project wherein we are trying to document what every district in the state of Tennessee (and, possibly, soon, in other states) are doing to respond: Whether they are completely closed or they are still providing opportunities for students to learn; what kinds of teaching and learning and/or resources are provided to students (and their parents), and how districts are supporting students who might very reasonably not have, for instance, reliable Internet access at their home, or a computer that they can use to access resources (not to mention Zoom).
+One way I'm pursuing this is through a project wherein we are trying to document what every district in the state of Tennessee (and, possibly, soon, in other states) are doing to respond: Whether they are completely closed or they are still providing opportunities for students to learn; what kinds of teaching and learning and/or resources are provided to students (and their parents); and, how districts are supporting students who might very reasonably not have, for instance, reliable Internet access at their home, or a computer that they can use to access resources (not to mention Zoom).
 
 ## Exploring how districts across the US are responding to COVID-19
 
