@@ -22,11 +22,15 @@ The data, created by web-scraping all of the districts with URLs available throu
 
 I accessed the data using some simple web-scraping techniques. That code is here on GitHub: https://github.com/jrosen48/scraping-districts-covid
 
-A cursory look at the data revealed a lot of variation between states (see below). Not represented on the map is the number of links on each districts' site that referenced COVID-19 or coronavirus; on average, each of the 12,500 districts included 1.50 (*SD* = 2.32) links, ostensibly to the kinds of pages (or documents - or images) with the kind of information that we are trying to find out in a finer-grained way for the state of Tennessee. 
+A cursory look at the data revealed a lot of variation between states (see below). 
 
 ![](/post/2020-03-29-how-are-u-s-school-districts-responding-to-covid-a-first-look-at-12-500-districts-websites_files/state-plot.png)
 
-Here is an RMarkdown document with the raw and aggregate data in a searchable form: https://rpubs.com/jmichaelrosenberg/covid
+Overall, 71.3% of districts' sites referenced COVID-19 or Coronavirus.
+
+Not represented on the map is the number of links on each districts' site that referenced COVID-19 or coronavirus; on average, each of the 12,500 districts included 1.50 (*SD* = 2.32) links, ostensibly to the kinds of pages (or documents - or images) with the kind of information that we are trying to find out in a finer-grained way for the state of Tennessee. 
+
+Here's an RMarkdown document with the raw and aggregate data in a searchable form: https://rpubs.com/jmichaelrosenberg/covid
 
 ## *fin*
 
