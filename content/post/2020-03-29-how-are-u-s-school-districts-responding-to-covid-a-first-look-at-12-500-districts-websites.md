@@ -21,7 +21,9 @@ Another way I'm pursuing this is at a wider scale, but with a coarser lens. In p
 The data, created by web-scraping (code [here on GitHub](https://github.com/jrosen48/scraping-districts-covid
 ) all of the districts with URLs available through the [National Center for Education Statistics](https://nces.ed.gov/ccd/elsi/tableGenerator.aspx), is available here through the Open Science Framework: https://osf.io/2txjy/
 
-A cursory look at the data revealed a lot of variation between states (see below). Lighter colors indicate a higher proportion of districts in a state with announcements, resources, or other information on their websites related to COVID-19. For example, Virginia and Maryland have a high proportion of districts with information of some kind on their websites, whereas North Dakota and Utah have a lower proportion. States in gray have no data (an issue I discuss a bit below).
+A cursory look at the data revealed a lot of variation between states (see below). Lighter colors indicate a higher proportion of districts in a state with announcements, resources, or other information on their websites related to COVID-19. 
+
+For example, Virginia and Maryland have a high proportion of districts with information of some kind on their websites, whereas North Dakota and Utah have a lower proportion. States in gray have no data (an issue I discuss a bit below).
 
 ![](/post/2020-03-29-how-are-u-s-school-districts-responding-to-covid-a-first-look-at-12-500-districts-websites_files/state-plot.png)
 
