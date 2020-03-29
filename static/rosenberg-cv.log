@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.2.9)  24 MAR 2020 08:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.3.24)  29 MAR 2020 14:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **rosenberg-cv.tex
 (./rosenberg-cv.tex
-LaTeX2e <2020-02-02> patch level 1
-L3 programming layer <2020-02-08> (/Users/jrosenb8/Library/TinyTeX/texmf-dist/t
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-02-25> (/Users/jrosenb8/Library/TinyTeX/texmf-dist/t
 ex/latex/base/article.cls
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
 (/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/base/size10.clo
@@ -60,7 +60,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 (/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\@emptytoks=\toks14
+\@emptytoks=\toks15
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
@@ -74,7 +74,7 @@ For additional information on amsmath, use the `?' option.
 Package: amstext 2000/06/29 v2.01 AMS text
 (/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks15
+\@emptytoks=\toks16
 \ex@=\dimen135
 )) (/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
@@ -102,21 +102,21 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
 \dotsspace@=\muskip16
 \c@parentequation=\count182
 \dspbrk@lvl=\count183
-\tag@help=\toks16
+\tag@help=\toks17
 \row@=\count184
 \column@=\count185
 \maxfields@=\count186
-\andhelp@=\toks17
+\andhelp@=\toks18
 \eqnshift@=\dimen138
 \alignsep@=\dimen139
 \tagshift@=\dimen140
 \tagwidth@=\dimen141
 \totwidth@=\dimen142
 \lineht@=\dimen143
-\@envbody=\toks18
+\@envbody=\toks19
 \multlinegap=\skip50
 \multlinetaggap=\skip51
-\mathdisplay@stack=\toks19
+\mathdisplay@stack=\toks20
 LaTeX Info: Redefining \[ on input line 2859.
 LaTeX Info: Redefining \] on input line 2860.
 ) (/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/generic/iftex/ifxetex.sty
@@ -135,15 +135,15 @@ Package fixltx2e Warning: fixltx2e is not required with releases after 2015
 
 Already applied: [0000/00/00] Old fixltx2e package on input line 53.
 ) (/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2020/01/25 v2.0m Standard LaTeX package
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
 LaTeX Font Info:    Trying to load font information for T1+lmr on input line 11
 2.
 (/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )) (/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2018/08/11 v1.3c Input encoding file
-\inpenc@prehook=\toks20
-\inpenc@posthook=\toks21
+\inpenc@prehook=\toks21
+\inpenc@posthook=\toks22
 ) (/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 ) (/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/upquote/upquote.sty
@@ -166,7 +166,7 @@ Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 ) (/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks22
+\KV@toks@=\toks23
 )
 (/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
@@ -289,7 +289,7 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutheight=\dimen153
 \Gm@layouthoffset=\dimen154
 \Gm@layoutvoffset=\dimen155
-\Gm@dimlist=\toks23
+\Gm@dimlist=\toks24
 ) (/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
 (/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/graphics/graphics.sty
@@ -314,7 +314,7 @@ line 40.
 )
 (/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdfmo
 de.def
-File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
+File: l3backend-pdfmode.def 2020-02-23 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count267
 \l__pdf_internal_box=\box47
 )
@@ -494,10 +494,10 @@ Package rerunfilecheck Info: File `rosenberg-cv.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1506.
  ) 
 Here is how much of TeX's memory you used:
- 10168 strings out of 483192
- 146726 string characters out of 5965458
- 387757 words of memory out of 5000000
- 24893 multiletter control sequences out of 15000+600000
+ 10170 strings out of 482938
+ 146745 string characters out of 5959421
+ 389570 words of memory out of 5000000
+ 25149 multiletter control sequences out of 15000+600000
  581886 words of font info for 63 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  34i,5n,34p,393b,318s stack positions out of 5000i,500n,10000p,200000b,80000s
