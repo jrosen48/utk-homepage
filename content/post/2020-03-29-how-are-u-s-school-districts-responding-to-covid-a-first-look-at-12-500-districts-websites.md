@@ -27,7 +27,9 @@ A cursory look at the data revealed a lot of variation between states (see below
 
 For example, Virginia and Maryland have a high proportion of districts with information of some kind on their websites, whereas North Dakota and Utah have a lower proportion. States in gray have no data (an issue I discuss a bit below).
 
-Overall, 71.3% of the 12,505 districts' sites that were accessible referenced COVID-19 or Coronavirus. Not represented on the map is the number of links on each districts' site that referenced COVID-19 or Coronavirus; on average, each of the 12,500 districts included 1.50 (*SD* = 2.32) links, ostensibly to the kinds of pages (or documents - or images) with the kind of information that we are trying to find out in a finer-grained way for the state of Tennessee. An RMarkdown document with the raw and aggregate data in a searchable form is also here: https://rpubs.com/jmichaelrosenberg/covid
+Overall, 71.3% of the 12,505 districts' sites that were accessible referenced COVID-19 or Coronavirus. Not represented on the map is the number of links on each districts' site that referenced COVID-19 or Coronavirus; on average, each of the 12,500 districts included 1.50 (*SD* = 2.32) links, ostensibly to the kinds of pages (or documents - or images) with the kind of information that we are trying to find out in a finer-grained way for the state of Tennessee. 
+
+If of interest, an RMarkdown document with the raw (I mean it - it's a bit messy - this is the same data available as a CSV on GitHub) and aggregate data (a little messy) in a searchable form is also here: https://rpubs.com/jmichaelrosenberg/covid
 
 ## *fin*
 
