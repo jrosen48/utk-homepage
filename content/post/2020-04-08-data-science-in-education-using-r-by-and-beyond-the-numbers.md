@@ -23,7 +23,7 @@ The project involved a lot of steps, and it is possible, particularly because of
 
 ### GitHub
 
-The book was written using which was written in [R Markdown](https://rmarkdown.rstudio.com/); from the start, the files were stored in [a GitHub repository for the project](https://github.com/data-edu/data-science-in-education).
+The book was written using which was written in [R Markdown](https://rmarkdown.rstudio.com/); from the start, the files were stored in [a GitHub repository](https://github.com/data-edu/data-science-in-education)  for the project.
 
 - The first commit, or addition of content, to our [GitHub repository](https://github.com/data-edu/data-science-in-education) was **2018-02-03** (so, just over 26 months ago!)
 
