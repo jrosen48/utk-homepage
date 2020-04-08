@@ -71,7 +71,7 @@ It's probably worth mentioning that we met and got to know one another through T
 
 ### Dedications
 
-This is in [the Dedications section](https://datascienceineducation.com/index.html#dedications); for my part (alongside Ryan, Emily, Jesse, and Isabella's dedications), the book is dedicated  to Katie, Jonah, Joel, Aaron, and Jess.
+This is in [the Dedications section](https://datascienceineducation.com/index.html#dedications); for my part (alongside Ryan, Emily, Jesse, and Isabella's dedications), the book is dedicated  to Katie, Jonah, Teri, Joel, Aaron, and Jess.
 
 ### Recognitions
 
