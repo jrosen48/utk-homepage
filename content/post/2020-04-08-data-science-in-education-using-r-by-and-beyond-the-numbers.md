@@ -45,7 +45,7 @@ We "rendered"" (and have continuously updated) the book as a website via Bookdow
 
 - The book has **20** chapters (check them out: http://datascienceineducation.com/)
 
-- Its word count, depending on whether you use the [{wordcountaddin} R package](https://github.com/benmarwick/wordcountaddin), which does not count links to webpages and a few other parts of the text as words, or Microsoft Word, **76,745** (MS Word) or **77,470** ({wordcountaddin}) words
+- Its word count, depending on whether you use the [{wordcountaddin} R package](https://github.com/benmarwick/wordcountaddin), which does not count links to webpages and a few other parts of the text as words, or Microsoft Word, is **77,470** words ({wordcountaddin}) or **76,745** words (Microsoft Word)
 
 - There are **8,371** lines of code, which produce **5,257** lines of output and generate **44** figures and **two** tables that we formatted and exported as such (there are other tables are a part of those 5,257 lines of output)
 
