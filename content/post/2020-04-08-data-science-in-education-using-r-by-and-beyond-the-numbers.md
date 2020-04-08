@@ -82,6 +82,6 @@ Thanks to [Leigh Graves Wolf](http://www.leighgraveswolf.com/) for introducing m
 
 I'd also like to echo our acknowledgments to [those who contributed to the book](https://datascienceineducation.com/index.html#acknowledgements) in capacities other than as authors. These contributions made the book better in a way that only those coming to the topic from a similar perspective but different expertise can.
 
-## Some next steps
+## Next steps
 
 The book will be copy-edited and then proofed, and, then, will be available in print and e-book format. We'll have a few things to do, too; we plan to keep working together. In the short term, we want to document some of the technical aspects of rendering the book, especially where it comes to meeting the publisher specifications, now, while they're fresh in our minds. We'll continue to edit the book now and going forward - it's *alive*! - so, please feel free to make suggestions or edit the book. For now, you can find the book here: https://datascienceineducation.com/. Even after the book is published, the most up-to-date version will always be available there.
