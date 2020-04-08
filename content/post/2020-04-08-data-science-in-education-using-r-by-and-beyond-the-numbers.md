@@ -71,17 +71,19 @@ In that way, neither the above numbers or the story of my experience alone begin
 
 It's probably worth mentioning that we met and got to know one another through Twitter and then Slack (apart from Emily and I, who knew the other through our graduate program at Michigan State University). It is hard for me to imagine *another way* through which five authors working in different (for many of us, changing) capacities in education could meet and decide to write an open book using tools that are primarily used in software development (git/GitHub) or writing technical books (bookdown). Doing this in the domain of education made this somewhat special, I think.
 
-## Dedications and Recognitions
+## Dedications
 
 This is in [the Dedications section](https://datascienceineducation.com/index.html#dedications), but, this book is dedicated (for my part) to Katie, Jonah, Joel, Aaron, and Jess.
 
+## Recognitions
+
 I'd also like to recognize a few folks who - were they to read this - might be surprised: Thank you [Andrea Zellner](http://www.andrea-zellner.com/), for opening the door to my use of R, and Tenglong Li and [Matt Koehler](http://www.matt-koehler.com/) for encouraging and supporting me to grow as someone who uses R. Thanks to [Leigh Graves Wolf](http://www.leighgraveswolf.com/) for demonstrating what working in the open means.
 Thanks to [Leigh Graves Wolf](http://www.leighgraveswolf.com/) for introducing me to the idea of sharing one's work in the open and why it matters, and to both Leigh and [Bodong Chen](https://bodong.me/) for exemplifying doing this; [a repository Bodong shared nearly seven years ago](https://github.com/meefen/twitter-hashtag-analytics) was the first I encountered by anyone in education, and was a bit of a revelation.
+
+## Acknowledgments 
 
 I'd also like to sincerely recognize (as we did in the book) [those who contributed to the book](https://datascienceineducation.com/index.html#acknowledgements) in capacities other than as authors. These contributions made the book better in a way that only those coming to the topic from a similar perspective but different expertise can.
 
 ## Next steps
 
-The book will be copy-edited and then proofed, and, then, will be available in print and e-book format. We'll have a few things to do, too; we plan to keep working together. In the short term, we want to document some of the technical aspects of rendering the book, especially where it comes to meeting the publisher specifications, now, while they're fresh in our minds. We'll continue to edit the book now and going forward - it's *alive*! - so, please feel free to make suggestions or edit the book.
-
-For now, you can find the book here: https://datascienceineducation.com/.
+The book will be copy-edited and then proofed, and, then, will be available in print and e-book format. We'll have a few things to do, too; we plan to keep working together. In the short term, we want to document some of the technical aspects of rendering the book, especially where it comes to meeting the publisher specifications, now, while they're fresh in our minds. We'll continue to edit the book now and going forward - it's *alive*! - so, please feel free to make suggestions or edit the book. For now, you can find the book here: https://datascienceineducation.com/.
