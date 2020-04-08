@@ -53,9 +53,7 @@ We "rendered"" (and have continuously updated) the book as a website via Bookdow
 
 We also used Slack to stay in touch.
 
-- We sent **12,809** messages; this includes messages sent by many others in the [dataedu Slack group](http://dataedu.slack.com/), many who contributed to the book
-
-- **5,529** in an #authors channel; another **589** or so were in the #data-science-in-education channel for the book; and **711** were in other channels, including #general and, most of the remaining were messages between individuals
+- We sent **12,809** messages; this includes messages sent by many others in the [dataedu Slack group](http://dataedu.slack.com/), many who contributed to the book. **5,529** messages were in an #authors channel; another **589** or so were in the #data-science-in-education channel for the book; and **711** were in other channels, including #general and, most of the remaining were messages between individuals
 
 ### Meeting
 
@@ -67,7 +65,7 @@ We met regularly.
 
 The above *numbers tells a story, but only a part* of one, and maybe not the most important part. It is harder to quantify the story of the book: its premise, the challenges we faced, how we overcame them, and how the five of us who wrote it collectively shaped the direction and nature of it. Both our work styles, strengths and priorities, and the goals each of us had for the book worked together in a way that led to something that would have not worked, or led to an incomplete story, had any of us been missing.
 
-In that way, neither the above numbers or the story of my experience alone begin to fully capture the process we took over the past two years. On that note, then, *thanks* [Ryan](https://ryanestrellado.netlify.com/), [Emily](https://www.emilybovee.com/), [Jesse](https://www.jessemaegan.com/), and [Isabella](https://ivelasq.rbind.io/). I cannot imagine a better group of co-authors (and friends) to write this book with; finding co-authors with whom you share a vision and with whom you can work together is *p* < .001.
+In that way, neither the above numbers or the story of my experience alone begin to fully capture the process we took over the past two years. On that note, then, *thanks* [Ryan](https://ryanestrellado.netlify.com/), [Emily](https://www.emilybovee.com/), [Jesse](https://www.jessemaegan.com/), and [Isabella](https://ivelasq.rbind.io/). I cannot imagine a better group of co-authors (and friends) to write this book with; finding co-authors with the combined substantive and technical expertise with whom you share a vision is *p* < .001.
 
 It's probably worth mentioning that we met and got to know one another through Twitter and then Slack (apart from Emily and I, who knew the other through our graduate program at Michigan State University). It is hard for me to imagine *another way* through which five authors working in different (for many of us, changing) capacities in education could meet and decide to write an open book using tools that are primarily used in software development (git/GitHub) or writing technical books (bookdown). Doing this in the domain of education made this somewhat special, I think.
 
