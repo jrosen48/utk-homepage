@@ -10,9 +10,8 @@ tags:
 ---
 
 [*Data Science in Education Using R*](http://datascienceineducation.com/) is done!
-We sent the book to the publisher, Routledge, yesterday, who will edit and then proof the book.
 
-Here is us, right around when we clicked "send" on an email with links/attachments for what was a two-year project.
+Here's us, right around when we clicked "send" on an email with links/attachments for what was a two-year project.
 
 <p align="center">
 ![](/post/2020-04-08-data-science-in-education-using-r-by-and-beyond-the-numbers_files/image (1).png)
@@ -40,7 +39,7 @@ The book was written using which was written in [R Markdown](https://rmarkdown.r
 
 ### The rendered book
 
-We "rendered"" (and have continuously updated) the book as a website and, to submit to the publisher, as a number of Word documents.  
+We "rendered"" (and have continuously updated) the book as a website via Bookdown and, to submit to the publisher, as a number of Word documents, and (mostly) via Bookdown.
 
 - The book has **20** chapters (check them out: http://datascienceineducation.com/)
 
@@ -66,9 +65,11 @@ We met regularly.
 
 The above numbers tells a story, but only a part of one, and maybe not the most important part. It is harder to quantify the story of the book: its premise, the challenges we faced, how we overcame them, and how the five of us who wrote it collectively shaped the direction and nature of it. In that way, neither the above numbers or the story of my experience alone begin to fully capture the process we took over the past two years. On that note, then, *thanks* [Ryan](https://ryanestrellado.netlify.com/), [Rmily](https://www.emilybovee.com/), [Jesse](https://www.jessemaegan.com/), and [Isabella](https://ivelasq.rbind.io/). I literally cannot imagine a better group of co-authors (and friends) to write this book with.
 
-## The book
+## Next steps
 
-You can find the book here: https://datascienceineducation.com/
+The book will be copy-edited and then proofed, and, then, will be available in print and e-book format. We'll have a few things to do, too; we plan to keep working together. In the short term, we want to document some of the technical aspects of rendering the book, especially where it comes to meeting the publisher specifications, now, while they're fresh in our minds. We'll continue to edit the book now and going forward - it's *alive*! - so, please feel free to make suggestions or edit the book.
+
+For now, you can find the book here: https://datascienceineducation.com/
 
 <p align="center">
 [![](/post/2020-04-08-data-science-in-education-using-r-by-and-beyond-the-numbers_files/Screen Shot 2020-04-08 at 6.47.07 AM.png)](https://datascienceineducation.com/)
