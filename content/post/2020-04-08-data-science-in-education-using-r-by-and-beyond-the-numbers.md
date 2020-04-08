@@ -25,7 +25,7 @@ It is possible to say something about this book by the numbers.
 
 ### GitHub
 
-The book was written using which was written in [R Markdown](https://rmarkdown.rstudio.com/); from the start, the files were stored in [a GitHub repository for the project, `data-science-in-education`](https://github.com/data-edu/data-science-in-education).
+The book was written using which was written in [R Markdown](https://rmarkdown.rstudio.com/); from the start, the files were stored in [a GitHub repository for the project](https://github.com/data-edu/data-science-in-education).
 
 - The first commit, or addition of content, to our [GitHub repository](https://github.com/data-edu/data-science-in-education) was **2018-02-03** (so, just over 26 months ago!)
 
@@ -41,7 +41,7 @@ The book was written using which was written in [R Markdown](https://rmarkdown.r
 
 ### The rendered book
 
-We "rendered"" (and have continuously updated) the book as a website via Bookdown and, to submit to the publisher, as a number of Word documents, and (mostly) via Bookdown.
+We "rendered"" (and have continuously updated) the book as a website via [bookdown](https://bookdown.org/) and, to submit to the publisher, as a number of Word documents, also (mostly) via bookdown. Not to dish on Microsoft Word, but I believe it was the only software we used that was *not* open-soure software, which is kind of neat.
 
 - The book has **20** chapters (check them out: http://datascienceineducation.com/)
 
@@ -65,13 +65,13 @@ We met regularly.
 
 The above *numbers tells a story, but only a part* of one, and maybe not the most important part. It is harder to quantify the story of the book: its premise, the challenges we faced, how we overcame them, and how the five of us who wrote it collectively shaped the direction and nature of it. Both our work styles, strengths and priorities, and the goals each of us had for the book worked together in a way that led to something that would have not worked, or led to an incomplete story, had any of us been missing.
 
-In that way, neither the above numbers or the story of my experience alone begin to fully capture the process we took over the past two years. On that note, then, *thanks* [Ryan](https://ryanestrellado.netlify.com/), [Emily](https://www.emilybovee.com/), [Jesse](https://www.jessemaegan.com/), and [Isabella](https://ivelasq.rbind.io/). I cannot imagine a better group of co-authors (and friends) to write this book with; finding co-authors with the combined substantive and technical expertise with whom you share a vision is *p* < .001.
+In that way, neither the above numbers or the story of my experience alone begin to fully capture the process we took over the past two years. On that note, then, *thanks* [Ryan](https://ryanestrellado.netlify.com/), [Emily](https://www.emilybovee.com/), [Jesse](https://www.jessemaegan.com/), and [Isabella](https://ivelasq.rbind.io/). I cannot imagine a better group of co-authors (and friends) to write this book with; working with folks with the combined substantive and technical expertise and with whom you share a vision is *p* < .001.
 
-It's probably worth mentioning that we met and got to know one another through Twitter and then Slack (apart from Emily and I, who knew the other through our graduate program at Michigan State University). It is hard for me to imagine *another way* through which five authors working in different (for many of us, changing) capacities in education could meet and decide to write an open book using tools that are primarily used in software development (git/GitHub) or writing technical books (bookdown). Doing this in the domain of education made this somewhat special, I think.
+It's probably worth mentioning that we met and got to know one another through Twitter and then Slack (apart from Emily and I, who knew the other through our graduate program at Michigan State University). It is hard for me to imagine another way through which five authors working in different (for many of us, changing) capacities in education could meet and decide to write an open book using tools that are primarily used in software development (git/GitHub) or writing technical books (bookdown). Doing this in the domain of education made this somewhat special, I think.
 
 ### Dedications
 
-This is in [the Dedications section](https://datascienceineducation.com/index.html#dedications), but, this book is dedicated (for my part) to Katie, Jonah, Joel, Aaron, and Jess.
+This is in [the Dedications section](https://datascienceineducation.com/index.html#dedications); for my part (alongside Ryan, Emily, Jesse, and Isabella's dedications), the book is dedicated  to Katie, Jonah, Joel, Aaron, and Jess.
 
 ### Recognitions
 
