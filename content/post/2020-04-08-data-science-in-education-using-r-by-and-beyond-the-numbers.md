@@ -54,9 +54,9 @@ We "rendered"" (and have continuously updated) the book, which was written in [R
 
 - We met regularly; this is a bit harder to measure, because some of our meetings were not recorded in calendar invitations, and, later, once we setup calendar invitations, we sometimes decided we didn't need to meet, but . . . assuming that we met once every three weeks or so, we met roughly 30 times
 
-## Beyond the numbers
+## Thank you
 
-The above numbers tells a story, but only a part of one, and maybe not the most important part. It is harder to quantify the story of the book: its premise, the challenges we faced, how we overcame them, and how the five authors who wrote it collectively shaped the direction and nature of it. In that way, neither the above numbers or the story of my experience alone begin to fully capture the process we took over the past two years. On that note, then, thanks [Ryan](https://ryanestrellado.netlify.com/), [Rmily](https://www.emilybovee.com/), [Jesse](https://www.jessemaegan.com/), and [Isabella](https://ivelasq.rbind.io/). I literally cannot imagine a better group to write this book with.
+The above numbers tells a story, but only a part of one, and maybe not the most important part. It is harder to quantify the story of the book: its premise, the challenges we faced, how we overcame them, and how the five authors who wrote it collectively shaped the direction and nature of it. In that way, neither the above numbers or the story of my experience alone begin to fully capture the process we took over the past two years. On that note, then, *thanks* [Ryan](https://ryanestrellado.netlify.com/), [Rmily](https://www.emilybovee.com/), [Jesse](https://www.jessemaegan.com/), and [Isabella](https://ivelasq.rbind.io/). I literally cannot imagine a better group of co-authors (and friends) to write this book with.
 
 ## The book
 
