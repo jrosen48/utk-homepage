@@ -11,7 +11,7 @@ tags:
 
 [*Data Science in Education Using R*](http://datascienceineducation.com/) is done!
 
-Here's us, right around when we clicked "send" on an email with links/attachments for what was a two-year project.
+Here's us (with a few of us a bit in the dark), right around when we clicked "send" on an email with links/attachments for what was a two-year project.
 
 <p align="center">
 ![](/post/2020-04-08-data-science-in-education-using-r-by-and-beyond-the-numbers_files/image (1).png)
@@ -80,7 +80,7 @@ This is in [the Dedications section](https://datascienceineducation.com/index.ht
 I'd also like to recognize a few folks who - were they to read this - might be surprised: Thank you [Andrea Zellner](http://www.andrea-zellner.com/), for opening the door to my use of R, and Tenglong Li and [Matt Koehler](http://www.matt-koehler.com/) for encouraging and supporting me to grow as someone who uses R. Thanks to [Leigh Graves Wolf](http://www.leighgraveswolf.com/) for demonstrating what working in the open means.
 Thanks to [Leigh Graves Wolf](http://www.leighgraveswolf.com/) for introducing me to the idea of sharing one's work in the open and why it matters, and to both Leigh and [Bodong Chen](https://bodong.me/) for exemplifying doing this; [a repository Bodong shared nearly seven years ago](https://github.com/meefen/twitter-hashtag-analytics) was the first I encountered by anyone in education, and was a bit of a revelation.
 
-## Acknowledgments 
+### Acknowledgments 
 
 I'd also like to echo our acknowledgments to [those who contributed to the book](https://datascienceineducation.com/index.html#acknowledgements) in capacities other than as authors. These contributions made the book better in a way that only those coming to the topic from a similar perspective but different expertise can.
 
