@@ -71,6 +71,8 @@ In that way, neither the above numbers or the story of my experience alone begin
 
 It's probably worth mentioning that we met one another through Twitter (apart from Emily and I, who knew the other through our graduate program at Michigan State University). I don't really have anything to add, other than to sort of gawk at the way in which we worked collaboratively over multiple years after having met this way. Ironically or not, I've more-or-less stopped using Twitter since; our conversations on Slack have (for me) replaced those that I had more on Twitter when I was more actively using it.
 
+## Dedications
+
 This is in [the Dedications section](https://datascienceineducation.com/index.html#dedications), but, this book is dedicated (for my part) to Katie, Jonah, Joel, Aaron, and Jess.
 
 I'd also like to recognize a few folks who - were they to read this - might be surprised: Thank you [Andrea Zellner](http://www.andrea-zellner.com/), for opening the door to my use of R, and Tenglong Li and [Matt Koehler](http://www.matt-koehler.com/) for encouraging and supporting me to grow as someone who uses R. Thanks to [Leigh Graves Wolf](http://www.leighgraveswolf.com/) for demonstrating what working in the open means.
