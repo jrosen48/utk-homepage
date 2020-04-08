@@ -63,7 +63,7 @@ We met regularly.
 
 - This is a bit harder to measure, because some of our meetings were not recorded in calendar invitations, and, later, once we setup calendar invitations, we sometimes decided we didn't need to meet, but . . . assuming that we met once every three weeks or so, we met roughly **30** times
 
-## Beyond the numbers
+## Data Science in Education Using R beyond the numbers
 
 The above *numbers tells a story, but only a part* of one, and maybe not the most important part. It is harder to quantify the story of the book: its premise, the challenges we faced, how we overcame them, and how the five of us who wrote it collectively shaped the direction and nature of it. Both our work styles, strengths and priorities, and the goals each of us had for the book worked together in a way that led to something that would have not worked, or led to an incomplete story, had any of us been missing.
 
