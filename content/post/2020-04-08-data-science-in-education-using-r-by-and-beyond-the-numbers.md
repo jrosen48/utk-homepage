@@ -17,11 +17,9 @@ Here's us (with a few of us a bit in the dark), right around when we clicked "se
 ![](/post/2020-04-08-data-science-in-education-using-r-by-and-beyond-the-numbers_files/image (1).png)
 <p>
 
-The project involved a lot of steps, and it is possible, particularly because of the way in which we wrote the book in the open, to describe the process *by the numbers*.
-
 ## *Data Science in Education Using R* by the numbers
 
-It is possible to say something about this book by the numbers.
+The project involved a lot of steps, and it is possible, particularly because of the way in which we wrote the book in the open, to describe the process *by the numbers*.
 
 ### GitHub
 
@@ -63,7 +61,7 @@ We met regularly.
 
 ## *Data Science in Education Using R* beyond the numbers
 
-The above *numbers tells a story, but only a part of it*, and maybe not the most important part. It is harder to quantify the story of the book: its premise, the challenges we faced, how we overcame them, and how the five of us who wrote it collectively shaped the direction and its nature. 
+The above *numbers tells a story, but only a part of it*, and maybe not the most important part. It is harder to quantify the story of the book: its premise, the challenges we faced, how we overcame them, and how the five of us who wrote it collectively shaped the direction and its nature.
 
 Our work styles, strengths and priorities, and the goals each of us had for the book worked together in a way that led to something that would have not worked, or led to an incomplete story, had any of us been missing.
 
