@@ -19,7 +19,7 @@ Here's us (with a few of us a bit in the dark), right around when we clicked "se
 
 The project involved a lot of steps, and it is possible, particularly because of the way in which we wrote the book in the open, to describe the process *by the numbers*.
 
-## Data Science in Education Using R by the numbers
+## *Data Science in Education Using R* by the numbers
 
 It is possible to say something about this book by the numbers.
 
@@ -61,7 +61,7 @@ We met regularly.
 
 - This is a bit harder to measure, because some of our meetings were not recorded in calendar invitations, and, later, once we setup calendar invitations, we sometimes decided we didn't need to meet, but . . . assuming that we met once every three weeks or so, we met roughly **30** times
 
-## Data Science in Education Using R beyond the numbers
+## *Data Science in Education Using R* beyond the numbers
 
 The above *numbers tells a story, but only a part* of one, and maybe not the most important part. It is harder to quantify the story of the book: its premise, the challenges we faced, how we overcame them, and how the five of us who wrote it collectively shaped the direction and nature of it. Both our work styles, strengths and priorities, and the goals each of us had for the book worked together in a way that led to something that would have not worked, or led to an incomplete story, had any of us been missing.
 
@@ -82,6 +82,6 @@ Thanks to [Leigh Graves Wolf](http://www.leighgraveswolf.com/) for introducing m
 
 I'd also like to echo our acknowledgments to [those who contributed to the book](https://datascienceineducation.com/index.html#acknowledgements) in capacities other than as authors. These contributions made the book better in a way that only those coming to the topic from a similar perspective but different expertise can.
 
-### Next steps
+## Some next steps
 
 The book will be copy-edited and then proofed, and, then, will be available in print and e-book format. We'll have a few things to do, too; we plan to keep working together. In the short term, we want to document some of the technical aspects of rendering the book, especially where it comes to meeting the publisher specifications, now, while they're fresh in our minds. We'll continue to edit the book now and going forward - it's *alive*! - so, please feel free to make suggestions or edit the book. For now, you can find the book here: https://datascienceineducation.com/. Even after the book is published, the most up-to-date version will always be available there.
