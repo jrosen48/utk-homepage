@@ -21,6 +21,8 @@ The project involved a lot of steps, and it is possible, particularly because of
 
 ## Data Science in Education Using R by the numbers
 
+It is possible to say something about this book by the numbers.
+
 ### GitHub
 
 The book was written using which was written in [R Markdown](https://rmarkdown.rstudio.com/); from the start, the files were stored in [a GitHub repository for the project, `data-science-in-education`](https://github.com/data-edu/data-science-in-education).
