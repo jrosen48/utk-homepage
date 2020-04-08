@@ -14,7 +14,9 @@ We sent the book to the publisher, Routledge, yesterday, who will edit and then 
 
 Here is us, right around when we clicked "send" on an email with links/attachments for what was a two-year project.
 
+<p align="center">
 ![](/post/2020-04-08-data-science-in-education-using-r-by-and-beyond-the-numbers_files/image (1).png)
+<p>
 
 The project involved a lot of steps, and it is possible, particularly because of the way in which we wrote the book in the open, to describe the process *by the numbers*.
 
@@ -62,4 +64,6 @@ The above numbers tells a story, but only a part of one, and maybe not the most 
 
 You can find the book here: https://datascienceineducation.com/
 
+<p align="center">
 [![](/post/2020-04-08-data-science-in-education-using-r-by-and-beyond-the-numbers_files/Screen Shot 2020-04-08 at 6.47.07 AM.png)](https://datascienceineducation.com/)
+<p>
