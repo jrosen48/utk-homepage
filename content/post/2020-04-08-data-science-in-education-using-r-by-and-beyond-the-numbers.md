@@ -82,8 +82,4 @@ Thanks to [Leigh Graves Wolf](http://www.leighgraveswolf.com/) for introducing m
 
 The book will be copy-edited and then proofed, and, then, will be available in print and e-book format. We'll have a few things to do, too; we plan to keep working together. In the short term, we want to document some of the technical aspects of rendering the book, especially where it comes to meeting the publisher specifications, now, while they're fresh in our minds. We'll continue to edit the book now and going forward - it's *alive*! - so, please feel free to make suggestions or edit the book.
 
-For now, you can find the book here: https://datascienceineducation.com/
-
-<p align="center">
-![](/post/2020-04-08-data-science-in-education-using-r-by-and-beyond-the-numbers_files/Screen Shot 2020-04-08 at 7.20.56 AM.png)
-<p>
+For now, you can find the book here: https://datascienceineducation.com/.
