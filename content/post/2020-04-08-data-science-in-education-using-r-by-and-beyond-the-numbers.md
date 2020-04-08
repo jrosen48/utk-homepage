@@ -82,7 +82,7 @@ Thanks to [Leigh Graves Wolf](http://www.leighgraveswolf.com/) for introducing m
 
 ## Acknowledgments 
 
-I'd also like to sincerely recognize (as we did in the book) [those who contributed to the book](https://datascienceineducation.com/index.html#acknowledgements) in capacities other than as authors. These contributions made the book better in a way that only those coming to the topic from a similar perspective but different expertise can.
+I'd also like to echo our acknowledgments to [those who contributed to the book](https://datascienceineducation.com/index.html#acknowledgements) in capacities other than as authors. These contributions made the book better in a way that only those coming to the topic from a similar perspective but different expertise can.
 
 ## Next steps
 
