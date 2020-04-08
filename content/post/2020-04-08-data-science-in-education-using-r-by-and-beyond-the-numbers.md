@@ -41,7 +41,7 @@ The book was written using which was written in [R Markdown](https://rmarkdown.r
 
 ### The rendered book
 
-We "rendered"" (and have continuously updated) the book as a website via [bookdown](https://bookdown.org/) and, to submit to the publisher, as a number of Word documents, also (mostly) via bookdown. Not to dish on Microsoft Word, but I believe it was the only software we used that was *not* open-source^[In addition, the [{dataedu}](https://github.com/data-edu/dataedu) R package accompanying the book and the book itself are open-source)].
+We "rendered"" (and have continuously updated) the book as a website via [bookdown](https://bookdown.org/) and, to submit to the publisher, as a number of Word documents, also (mostly) via bookdown. Not to dish on Microsoft Word, but I believe it was the only software we used that was *not* open-source; R, RStudio, git/GitHub ^[In addition, the [{dataedu}](https://github.com/data-edu/dataedu) R package accompanying the book and the book itself are open-source].
 
 - The book has **20** chapters (check them out: http://datascienceineducation.com/)
 
