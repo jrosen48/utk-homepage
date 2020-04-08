@@ -69,7 +69,7 @@ The above *numbers tells a story, but only a part* of one, and maybe not the mos
 
 In that way, neither the above numbers or the story of my experience alone begin to fully capture the process we took over the past two years. On that note, then, *thanks* [Ryan](https://ryanestrellado.netlify.com/), [Emily](https://www.emilybovee.com/), [Jesse](https://www.jessemaegan.com/), and [Isabella](https://ivelasq.rbind.io/). I cannot imagine a better group of co-authors (and friends) to write this book with; finding co-authors with whom you share a vision and with whom you can work together is *p* < .001.
 
-It's probably worth mentioning that we met and got to know one another through Twitter and then Slack (apart from Emily and I, who knew the other through our graduate program at Michigan State University). I don't really have anything to add, other than to sort of gawk at the way in which we worked collaboratively over multiple years after having met this way.
+It's probably worth mentioning that we met and got to know one another through Twitter and then Slack (apart from Emily and I, who knew the other through our graduate program at Michigan State University). It is hard for me to imagine *another way* through which five authors working in different (for many of us, changing) capacities in education could meet and decide to write an open book using tools that are primarily used in software development (git/GitHub) or writing technical books (bookdown). Doing this in the domain of education made this somewhat special, I think.
 
 ## Dedications and Recognitions
 
