@@ -22,43 +22,49 @@ The project involved a lot of steps, and it is possible, particularly because of
 
 ## Data Science in Education Using R by the numbers
 
-### GitHub 
+### GitHub
 
-- The first commit, or addition of content, to our [GitHub repository](https://github.com/data-edu/data-science-in-education) was 2018-02-03 (today: 2020-04-08)
+The book was written using which was written in [R Markdown](https://rmarkdown.rstudio.com/); from the start, the files were stored in [a GitHub repository for the project, `data-science-in-education`](https://github.com/data-edu/data-science-in-education).
 
-- We made [1,785 *additional commits*](https://github.com/data-edu/data-science-in-education/commits/master) to our repository
+- The first commit, or addition of content, to our [GitHub repository](https://github.com/data-edu/data-science-in-education) was **2018-02-03** (today: 2020-04-08)
 
-- Most of these commits were associated with one of [363 pull requests](https://github.com/data-edu/data-science-in-education/pulls?q=is%3Apr+is%3Aclosed), or collections of commits, many of which were made to address an issue
+- We made [**1,785** *additional commits*](https://github.com/data-edu/data-science-in-education/commits/master) to our repository
 
-- [155 issues](https://github.com/data-edu/data-science-in-education/issues?q=is%3Aissue+is%3Aclosed) were filed to keep track of and address, well, issues
+- Most of these commits were associated with one of [**363** pull requests](https://github.com/data-edu/data-science-in-education/pulls?q=is%3Apr+is%3Aclosed), or collections of commits, many of which were made to address an issue
 
-- 15 individuals made contributions through commits to the repository (thank [you!](https://datascienceineducation.com/index.html#acknowledgements)); another five individuals contributed by filing issues
+- [**15** issues](https://github.com/data-edu/data-science-in-education/issues?q=is%3Aissue+is%3Aclosed) were filed to keep track of and address, well, issues
 
-- 144 individuals ["starred"](https://help.github.com/en/github/getting-started-with-github/saving-repositories-with-stars) the repository, and 34 individuals ["forked"](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) it, to follow along with its progress
+- [**15** individuals made contributions](https://github.com/data-edu/data-science-in-education/graphs/contributors) through commits to the repository (thank [you!](https://datascienceineducation.com/index.html#acknowledgements)); another five individuals contributed by filing issues
+
+- [**144** individuals ["starred"](https://help.github.com/en/github/getting-started-with-github/saving-repositories-with-stars) the repository](https://github.com/data-edu/data-science-in-education/stargazers), and [**34** individuals ["forked"](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) it](https://github.com/data-edu/data-science-in-education/network/members), to follow along with its progress
 
 ### The rendered book
 
-We "rendered"" (and have continuously updated) the book, which was written in [R Markdown](https://rmarkdown.rstudio.com/), as a website and, to submit to the publisher, as a number of Word documents.  
+We "rendered"" (and have continuously updated) the book as a website and, to submit to the publisher, as a number of Word documents.  
 
-- The book has 20 chapters (check them out: http://datascienceineducation.com/)
+- The book has **20** chapters (check them out: http://datascienceineducation.com/)
 
-- Its word count, depending on whether you use the [{wordcountaddin} R package](https://github.com/benmarwick/wordcountaddin), which does not count links to webpages and a few other parts of the text as words, or Microsoft Word, 76,745 or 77,470 words
+- Its word count, depending on whether you use the [{wordcountaddin} R package](https://github.com/benmarwick/wordcountaddin), which does not count links to webpages and a few other parts of the text as words, or Microsoft Word, **76,745** (MS Word) or **77,470** ({wordcountaddin}) words
 
-- There are 8,371 lines of code, which produce 5,257 lines of output and generate 44 figures and two tables that we formatted and exported as such (there are other tables are a part of those 5,257 lines of output)
+- There are **8,371** lines of code, which produce **5,257** lines of output and generate **44** figures and two tables that we formatted and exported as such (there are other tables are a part of those 5,257 lines of output)
 
 ### Slack
 
-- We sent 12,809 messages; this includes messages sent by many others in the [dataedu Slack group](http://dataedu.slack.com/), many who contributed to the book
+We also used Slack to stay in touch.
 
-- 5,529 in an #authors channel; another 589 or so were in the #data-science-in-education channel for the book; and 711 were in other channels, including #general and, most of the remaining were messages between individuals
+- We sent **12,809** messages; this includes messages sent by many others in the [dataedu Slack group](http://dataedu.slack.com/), many who contributed to the book
+
+- **5,529** in an #authors channel; another **589** or so were in the #data-science-in-education channel for the book; and **711** were in other channels, including #general and, most of the remaining were messages between individuals
 
 ### Meeting
 
-- We met regularly; this is a bit harder to measure, because some of our meetings were not recorded in calendar invitations, and, later, once we setup calendar invitations, we sometimes decided we didn't need to meet, but . . . assuming that we met once every three weeks or so, we met roughly 30 times
+We met regularly.
+
+- This is a bit harder to measure, because some of our meetings were not recorded in calendar invitations, and, later, once we setup calendar invitations, we sometimes decided we didn't need to meet, but . . . assuming that we met once every three weeks or so, we met roughly **30** times
 
 ## Thank you
 
-The above numbers tells a story, but only a part of one, and maybe not the most important part. It is harder to quantify the story of the book: its premise, the challenges we faced, how we overcame them, and how the five authors who wrote it collectively shaped the direction and nature of it. In that way, neither the above numbers or the story of my experience alone begin to fully capture the process we took over the past two years. On that note, then, *thanks* [Ryan](https://ryanestrellado.netlify.com/), [Rmily](https://www.emilybovee.com/), [Jesse](https://www.jessemaegan.com/), and [Isabella](https://ivelasq.rbind.io/). I literally cannot imagine a better group of co-authors (and friends) to write this book with.
+The above numbers tells a story, but only a part of one, and maybe not the most important part. It is harder to quantify the story of the book: its premise, the challenges we faced, how we overcame them, and how the five of us who wrote it collectively shaped the direction and nature of it. In that way, neither the above numbers or the story of my experience alone begin to fully capture the process we took over the past two years. On that note, then, *thanks* [Ryan](https://ryanestrellado.netlify.com/), [Rmily](https://www.emilybovee.com/), [Jesse](https://www.jessemaegan.com/), and [Isabella](https://ivelasq.rbind.io/). I literally cannot imagine a better group of co-authors (and friends) to write this book with.
 
 ## The book
 
