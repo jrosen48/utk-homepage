@@ -33,7 +33,7 @@ The book was written using which was written in [R Markdown](https://rmarkdown.r
 
 - Most of these commits were associated with one of [**363** pull requests](https://github.com/data-edu/data-science-in-education/pulls?q=is%3Apr+is%3Aclosed), or collections of commits, many of which were made to address an issue
 
-- [**15** issues](https://github.com/data-edu/data-science-in-education/issues?q=is%3Aissue+is%3Aclosed) were filed to keep track of and address, well, issues
+- [**155** issues](https://github.com/data-edu/data-science-in-education/issues?q=is%3Aissue+is%3Aclosed) were filed to keep track of and address, well, issues
 
 - [**15** individuals made contributions](https://github.com/data-edu/data-science-in-education/graphs/contributors) through commits to the repository (thank [you!](https://datascienceineducation.com/index.html#acknowledgements)); another five individuals contributed by filing issues
 
