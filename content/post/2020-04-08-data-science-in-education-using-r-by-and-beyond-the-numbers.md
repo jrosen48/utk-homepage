@@ -65,13 +65,13 @@ We met regularly.
 
 ## Thank you
 
-The above numbers tells a story, but only a part of one, and maybe not the most important part. It is harder to quantify the story of the book: its premise, the challenges we faced, how we overcame them, and how the five of us who wrote it collectively shaped the direction and nature of it. Both our work styles, strengths and priorities, and the goals each of us had for the book worked together in a way that led to something that would have not worked, or led to an incomplete story, had any of us been missing.
+The above *numbers tells a story, but only a part* of one, and maybe not the most important part. It is harder to quantify the story of the book: its premise, the challenges we faced, how we overcame them, and how the five of us who wrote it collectively shaped the direction and nature of it. Both our work styles, strengths and priorities, and the goals each of us had for the book worked together in a way that led to something that would have not worked, or led to an incomplete story, had any of us been missing.
 
 In that way, neither the above numbers or the story of my experience alone begin to fully capture the process we took over the past two years. On that note, then, *thanks* [Ryan](https://ryanestrellado.netlify.com/), [Emily](https://www.emilybovee.com/), [Jesse](https://www.jessemaegan.com/), and [Isabella](https://ivelasq.rbind.io/). I cannot imagine a better group of co-authors (and friends) to write this book with; finding co-authors with whom you share a vision and with whom you can work together is *p* < .001.
 
 It's probably worth mentioning that we met and got to know one another through Twitter and then Slack (apart from Emily and I, who knew the other through our graduate program at Michigan State University). I don't really have anything to add, other than to sort of gawk at the way in which we worked collaboratively over multiple years after having met this way.
 
-## Dedications
+## Dedications and Recognitions
 
 This is in [the Dedications section](https://datascienceineducation.com/index.html#dedications), but, this book is dedicated (for my part) to Katie, Jonah, Joel, Aaron, and Jess.
 
