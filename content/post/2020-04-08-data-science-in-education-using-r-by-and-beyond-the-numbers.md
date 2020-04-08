@@ -27,7 +27,7 @@ It is possible to say something about this book by the numbers.
 
 The book was written using which was written in [R Markdown](https://rmarkdown.rstudio.com/); from the start, the files were stored in [a GitHub repository for the project, `data-science-in-education`](https://github.com/data-edu/data-science-in-education).
 
-- The first commit, or addition of content, to our [GitHub repository](https://github.com/data-edu/data-science-in-education) was **2018-02-03** (today: 2020-04-08)
+- The first commit, or addition of content, to our [GitHub repository](https://github.com/data-edu/data-science-in-education) was **2018-02-03** (so, just over 26 months ago!)
 
 - We made [**1,785** *additional commits*](https://github.com/data-edu/data-science-in-education/commits/master) to our repository
 
