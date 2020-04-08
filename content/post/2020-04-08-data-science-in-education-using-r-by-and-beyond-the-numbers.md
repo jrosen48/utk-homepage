@@ -16,7 +16,7 @@ Here is us, right around when we clicked "send" on an email with links/attachmen
 
 ![](/post/2020-04-08-data-science-in-education-using-r-by-and-beyond-the-numbers_files/image (1).png)
 
-The project involved a lot of steps, and it is possible, particularly because of the way in which we wrote the book in the open, to describe the proess *by the numbers*.
+The project involved a lot of steps, and it is possible, particularly because of the way in which we wrote the book in the open, to describe the process *by the numbers*.
 
 ## Data Science in Education Using R by the numbers
 
@@ -57,3 +57,9 @@ We "rendered"" (and have continuously updated) the book, which was written in [R
 ## Beyond the numbers
 
 The above numbers tells a story, but only a part of one, and maybe not the most important part. It is harder to quantify the story of the book: its premise, the challenges we faced, how we overcame them, and how the five authors who wrote it collectively shaped the direction and nature of it. In that way, neither the above numbers or the story of my experience alone begin to fully capture the process we took over the past two years. On that note, then, thanks [Ryan](https://ryanestrellado.netlify.com/), [Rmily](https://www.emilybovee.com/), [Jesse](https://www.jessemaegan.com/), and [Isabella](https://ivelasq.rbind.io/). I literally cannot imagine a better group to write this book with.
+
+## The book
+
+You can find the book here: https://datascienceineducation.com/
+
+[![](/post/2020-04-08-data-science-in-education-using-r-by-and-beyond-the-numbers_files/Screen Shot 2020-04-08 at 6.47.07 AM.png)](https://datascienceineducation.com/)
