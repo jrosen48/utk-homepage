@@ -78,6 +78,8 @@ This is in [the Dedications section](https://datascienceineducation.com/index.ht
 I'd also like to recognize a few folks who - were they to read this - might be surprised: Thank you [Andrea Zellner](http://www.andrea-zellner.com/), for opening the door to my use of R, and Tenglong Li and [Matt Koehler](http://www.matt-koehler.com/) for encouraging and supporting me to grow as someone who uses R. Thanks to [Leigh Graves Wolf](http://www.leighgraveswolf.com/) for demonstrating what working in the open means.
 Thanks to [Leigh Graves Wolf](http://www.leighgraveswolf.com/) for introducing me to the idea of sharing one's work in the open and why it matters, and to both Leigh and [Bodong Chen](https://bodong.me/) for exemplifying doing this; [a repository Bodong shared nearly seven years ago](https://github.com/meefen/twitter-hashtag-analytics) was the first I encountered by anyone in education, and was a bit of a revelation.
 
+I'd also like to sincerely thank [those we acknowledged](https://datascienceineducation.com/index.html#acknowledgements) as contributors to the book.
+
 ## Next steps
 
 The book will be copy-edited and then proofed, and, then, will be available in print and e-book format. We'll have a few things to do, too; we plan to keep working together. In the short term, we want to document some of the technical aspects of rendering the book, especially where it comes to meeting the publisher specifications, now, while they're fresh in our minds. We'll continue to edit the book now and going forward - it's *alive*! - so, please feel free to make suggestions or edit the book.
