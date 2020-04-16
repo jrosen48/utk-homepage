@@ -366,7 +366,7 @@ Schmidt, J.A., Schell, M.J., Beymer, P.N., Alberts, K.M., Phun, V., Lee, M. & Ro
 Rosenberg, J. M., Reid, J., Dyer, E., Koehler, M. J., Fischer, C., & McKenna, T. J. (2020, April). A new context for professional networks: Understanding the social structure of #NGSSChat through social network analysis. In K. A. Frank, K., Torphy, K., Daly, A., & Greenhow, C. (Chairs), *Educators meet the fifth estate: Social media in education.* Symposium conducted at the American Educational Research Association Annual Meeting, San Francisco, CA. (Conference cancelled)
 
 \hangindent=2em
-Rosenberg, J. M., Hodge, L., Bertling, J., & King, S. (2020, April). Art as a context for data science: Explring fourth-grade students' data visualization practices. In J. M. Rosenberg & B. Chen (Chairs), *Exploring data science across the curriculum and across grade levels*. Symposium conducted at the American Educational Research Association Annual Meeting, San Francisco, CA. (Conference cancelled)
+Rosenberg, J. M., Hodge, L., Bertling, J., & King, S. (2020, April). Art as a context for data science: Exploring fourth-grade students' data visualization practices. In J. M. Rosenberg & B. Chen (Chairs), *Exploring data science across the curriculum and across grade levels*. Symposium conducted at the American Educational Research Association Annual Meeting, San Francisco, CA. (Conference cancelled)
 
 \hangindent=2em
 Rosenberg, J. M., Carpenter, J. P., Romero-Hall, E., & Kessler, A. (2020, April). *Teacher educators' technology competencies and the importance of context*. Paper presented at the American Educational Research Association Annual Meeting, San Francisco, CA. (Conference cancelled)
