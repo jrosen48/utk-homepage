@@ -178,12 +178,16 @@ C.D. Owen High School, Swannanoa, NC
 ## Book
 
 \hangindent=2em
-Bovee, E. A., Estrellado, R. A., Motsipak, J., Rosenberg, J. M., & Velásquez, I. C. (under contract). *Data science in education using R*. London, England: Routledge. *Nb.* All authors contributed equally. http://www.datascienceineducation.com/ <a href="https://github.com/data-edu/data-science-in-education"><img src = "/logos/github.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
+Estrellado, R. A., Bovee, E. A.,  Motsipak, J., Rosenberg, J. M., & Velásquez, I. C. (in press). *Data science in education using R*. London, England: Routledge. *Nb.* All authors contributed equally. http://www.datascienceineducation.com/ <a href="https://github.com/data-edu/data-science-in-education"><img src = "/logos/github.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
 
 ## Peer-Reviewed Journal Articles
 
 \hangindent=2em
-Ranellucci, J., Rosenberg, J. M., & Poitras, E. (in press). Exploring pre-service teachers’ use of technology: The technology acceptance model and expectancy-value theory. *Journal of Computer Assisted Learning*. *Nb.* This paper was accepted and published as a registered report.
+Ranellucci, J., Rosenberg, J. M., & Poitras, E. (in press). Exploring pre-service teachers’ use of technology: The technology acceptance model and expectancy-value theory. *Journal of Computer Assisted Learning*. <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> <a href="https://osf.io/8q2vk/"><img src = "/logos/google-scholar-1.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
+
+<img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
+
+<a href = "https://osf.io/rgpeh/"><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/>
 
 \hangindent=2em
 Anderson, D. J., Rowley, B., Stegenga, S., Irvin, P. S., & Rosenberg, J. M. (in press). Evaluating content-related validity evidence using a text-based, machine learning procedure. *Educational Measurement: Issues and Practice*.
@@ -360,22 +364,37 @@ Rosenberg, J. M. (2018). *Understanding work with data in summer STEM programs: 
 ## Peer-Reviewed Conference Presentations
 
 \hangindent=2em
-Rosenberg, J. M., Reid, J., Dyer, E., Koehler, M. J., Fischer, C., & McKenna, T. J. (2020, April). A new context for professional networks: Understanding the social structure of #NGSSChat through social network analysis. In K. A. Frank, K., Torphy, K., Daly, A., & Greenhow, C. (Chairs), *Educators meet the fifth estate: Social media in education.* Symposium to be conducted at the American Educational Research Association Annual Meeting, San Francisco, CA. 
+Schmidt, J.A., Schell, M.J., Beymer, P.N., Alberts, K.M., Phun, V., Lee, M. & Rosenberg, J.M. (2020, August). *Students’ momentary science engagement predicts end-of-course achievement.* Poster presented at the annual meetings of the American Psychological Association. Washington, DC. (Conference cancelled)
 
 \hangindent=2em
-Rosenberg, J. M., Hodge, L., Bertling, J., & King, S. (2020, April). Art as a context for data science: Explring fourth-grade students' data visualization practices. In J. M. Rosenberg & B. Chen (Chairs), *Exploring data science across the curriculum and across grade levels*. Symposium to be conducted at the American Educational Research Association Annual Meeting, San Francisco, CA. 
+Rosenberg, J. M., Reid, J., Dyer, E., Koehler, M. J., Fischer, C., & McKenna, T. J. (2020, April). A new context for professional networks: Understanding the social structure of #NGSSChat through social network analysis. In K. A. Frank, K., Torphy, K., Daly, A., & Greenhow, C. (Chairs), *Educators meet the fifth estate: Social media in education.* Symposium conducted at the American Educational Research Association Annual Meeting, San Francisco, CA. (Conference cancelled)
 
 \hangindent=2em
-Rosenberg, J. M., Carpenter, J. P., Romero-Hall, E., & Kessler, A. (2020, April). *Teacher educators' technology competencies and the importance of context*. Paper to be presented at the American Educational Research Association Annual Meeting, San Francisco, CA.
+Rosenberg, J. M., Hodge, L., Bertling, J., & King, S. (2020, April). Art as a context for data science: Explring fourth-grade students' data visualization practices. In J. M. Rosenberg & B. Chen (Chairs), *Exploring data science across the curriculum and across grade levels*. Symposium conducted at the American Educational Research Association Annual Meeting, San Francisco, CA. (Conference cancelled)
 
 \hangindent=2em
-Rosenberg, J. M., Beymer, P. N., Phun, V., Schmidt, J. A. (2020, April). Sources of variability for students' engagement in science: Findings from a cross-classified, multivariate modeling approach. In P. N. Beymer, D. K. Benden, & M. L. Bernacki (Chairs), *Affordances and modeling of intensive data*. Symposium to be conducted at the American Educational Research Association Annual Meeting, San Francisco, CA.
+Rosenberg, J. M., Carpenter, J. P., Romero-Hall, E., & Kessler, A. (2020, April). *Teacher educators' technology competencies and the importance of context*. Paper presented at the American Educational Research Association Annual Meeting, San Francisco, CA. (Conference cancelled)
 
 \hangindent=2em
-Rosenberg, J. M., & Lishinski, A. (2020, March). *Accruing Interest: What experiences contribute to students developing a sustained interest in computer science over time?*. Lightning talk at the Special Interest Group on Computer Science Education Technical Sympsosium, Portland, OR.
+Rosenberg, J. M., Beymer, P. N., Phun, V., Schmidt, J. A. (2020, April). Sources of variability for students' engagement in science: Findings from a cross-classified, multivariate modeling approach. In P. N. Beymer, D. K. Benden, & M. L. Bernacki (Chairs), *Affordances and modeling of intensive data*. Symposium conducted at the American Educational Research Association Annual Meeting, San Francisco, CA. (Conference cancelled)
 
 \hangindent=2em
-Lishinski, A., & Rosenberg, J. M. (2020, March). *Variable interest rate: What experiences explain differences in interest in computer science among students?*. Birds of a feather presentation at the Special Interest Group on Computer Science Education Technical Sympsosium, Portland, OR.
+Rosenberg, J. M., Beymer, P. N., Phun, V., Schmidt, J. A. (2020, April). Which birds fill the branches of the AERA Twitter tree? Twitter networks around #AERA19.  In P. N. Beymer, D. K. Benden, & M. L. Bernacki (Chairs), *Affordances and modeling of intensive data*. Symposium conducted at the American Educational Research Association Annual Meeting, San Francisco, CA. (Conference cancelled)
+
+\hangindent=2em
+Jones, R. S., & Rosenberg, J. M. (2020, April). *Latent class modeling of whole-class discussions about data, statistics, and probability*. Paper presented at the American Educational Research Association Annual Meeting, San Francisco, CA. (Conference cancelled). 
+
+\hangindent=2em
+Rutherford, T., & Rosenberg, J. M. (2020, April). *Motivational correlates of choice to persist after failure*. Paper presented at the American Educational Research Association Annual Meeting, San Francisco, CA. (Conference cancelled).
+
+\hangindent=2em
+Ranellucci, J. & Rosenberg, J. M. (2020, April). *Interest, engagement, and achievement in online high school science courses*. Paper presented at the American Educational Research Association Annual Meeting, San Francisco, CA. (Conference cancelled).
+
+\hangindent=2em
+Rosenberg, J. M., & Lishinski, A. (2020, March). *Accruing Interest: What experiences contribute to students developing a sustained interest in computer science over time?*. Lightning talk at the Special Interest Group on Computer Science Education Technical Sympsosium, Portland, OR. YouTube recording: https://www.youtube.com/watch?v=ZHTLejxTYbs (Conference cancelled)
+
+\hangindent=2em
+Lishinski, A., & Rosenberg, J. M. (2020, March). *Variable interest rate: What experiences explain differences in interest in computer science among students?*. Birds of a feather presentation at the Special Interest Group on Computer Science Education Technical Sympsosium, Portland, OR. (Conference cancelled)
 
 \hangindent=2em
 Schmidt, J. A., Rosenberg, J. M., & Beymer, P. N. (August, 2019). *Sources of variability in engagement: Exploring situational, personal, and classroom influences*. Poster presented at the annual meeting of the American Psychological Association, Chicago, IL.
@@ -579,7 +598,10 @@ Lawson, M., Rosenberg, J. M., & Camponovo, M. (February, 2019). *Better together
 Dyer, E. B., D'Angelo, D., Bosch, N., Krist, C., & Rosenberg, J. M. (2020, June). *Analyzing learning with speech analytics and computer vision methods: Technologies, principles, and ethics*. Workshop to be carried out at the International Conference of the Learning Sciences, Nashville, TN.
 
 \hangindent=2em
-Rosenberg, J. M. (2020, January). *An introduction to using R for data science (zero prerequisites required!)*. Presentation for the KnoxData group, Knoxville, TN.
+Staudt Willet, K. B., Rosenberg, J. M., & Greenhalgh, S. P. (2020, January). *R U ready 4 R? Introduction to Analyzing Educational Internet Data Using R*. Workshop carried out for the *Students, Social Media, and Schools Research Group* at Florida State University, Talahassee, FL. <a href = "https://github.com/bretsw/fsu-workshop/"><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
+
+\hangindent=2em
+Rosenberg, J. M. (2020, January). *An introduction to using R for data science (zero prerequisites required!)*. Workshop carried out for the KnoxData group, Knoxville, TN.
 
 \hangindent=2em
 Rosenberg, J. M., Staudt Willet, K. B., & Greenhalgh, S. P. (2019, October). *Online data and open source tools: Analyzing educational internet data Using R*. Workshop carried out at the Association for Educational Communications and Technology, Las Vegas, NV. <a href = "https://github.com/bretsw/aect19-workshop"><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
@@ -665,9 +687,9 @@ Special Issue Editor, *Australasian Journal of Educational Technology*, 2017
 
 ### Service to the Profession
 
-Panelist, National Science Foundation, 2020
+American Educational Research Association, Division C, Section 1D: Science Program Co-Chair, 2019-2021
 
-American Educational Research Association, Division C, Section 1D: Science Program Co-Chair, 2019-2020
+Panelist, National Science Foundation, 2020
 
 Member, Technological Pedagogical Content Knowledge (TPACK) Special Interest Group (SIG) Award Committee, 2019
 

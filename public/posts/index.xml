@@ -6,10 +6,178 @@
     <description>Recent content in Posts on Joshua M. Rosenberg, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Data Science in Education Using R by (and a little beyond) the numbers</title>
+      <link>/posts/data-science-in-education-using-r-by-and-beyond-the-numbers/</link>
+      <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/data-science-in-education-using-r-by-and-beyond-the-numbers/</guid>
+      <description>Data Science in Education Using R is done!
+Here&amp;rsquo;s us (with a few of us a bit in the dark), right around when we clicked &amp;ldquo;send&amp;rdquo; on an email with links/attachments for what was a two-year project.
+Data Science in Education Using R by the numbers The project involved a lot of steps, and it is possible, particularly because of the way in which we wrote the book in the open, to describe the process by the numbers.</description>
+    </item>
+    
+    <item>
+      <title>How are U.S. school districts responding to COVID? A first look at 12,500 districts&#39; websites</title>
+      <link>/posts/how-are-u-s-school-districts-responding-to-covid-a-first-look-at-12-500-districts-websites/</link>
+      <pubDate>Sun, 29 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/how-are-u-s-school-districts-responding-to-covid-a-first-look-at-12-500-districts-websites/</guid>
+      <description>Like many educational researchers (and teachers, parents, administrators . . . and kids), I have been wondering about how U.S. school districts are responding to the COVID-19 pandemic. There seemed to be a lot of variation, not only across U.S. states, but also within districts within states, and even within districts (and even within schools in districts!).
+Exploring how districts in Tennessee (and, soon, other states) are responding to COVID-19 One way I&amp;rsquo;m pursuing this is through a project wherein we are trying to document what every district in the state of Tennessee (and, possibly, soon, in other states) are doing to respond: Whether they are completely closed or they are still providing opportunities for students to learn; what kinds of teaching and learning and/or resources are provided to students (and their parents); and, how districts are supporting students who might very reasonably not have, for instance, reliable Internet access at their home, or a computer that they can use to access resources (not to mention Zoom).</description>
+    </item>
+    
+    <item>
+      <title>Is your state still planning to carry out end-of-course testing in light of COVID-19? Crowdsourcing information</title>
+      <link>/posts/is-your-state-still-planning-to-carry-out-end-of-course-testing-crowdsourcing-information/</link>
+      <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/is-your-state-still-planning-to-carry-out-end-of-course-testing-crowdsourcing-information/</guid>
+      <description>State testing My colleague Isabella Velasquez and I were wondering what states were doing with respect to end-of-course testing, and found that no comprehensive (of which we were aware) yet existed. As a result, we decided to try to crowdsource this information.
+Has your state announced whether they are postponing end-of-course (or other planned) tests this year in light of COVID-19? Please take a minute or so to add this information to this Google Sheets spreadsheet: https://docs.</description>
+    </item>
+    
+    <item>
+      <title>Virtual KnoxData presentation (via Zoom) on reproducible, scalable research with drake in R</title>
+      <link>/posts/virtual-via-zoom-knoxdata-presentation-on-reproducible-scalable-research-with-drake-in-r/</link>
+      <pubDate>Thu, 19 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/virtual-via-zoom-knoxdata-presentation-on-reproducible-scalable-research-with-drake-in-r/</guid>
+      <description>KnoxData is hosting a virtual (Zoom-based) presentation tonight (Thursday, Mar. 19) from 6:30 - 7:30 pm EST on Reproducible, scalable research: an example with drake in R. D
+Here is some information on the presentation; more is available on the group&amp;rsquo;s Meetup page.
+ We all start out using things like Excel to analyze data. Sometimes we progress to entering commands in languages like R and python, then save our commands into a script and run that.</description>
+    </item>
+    
+    <item>
+      <title>In support of JOSS for not accepting new article submissions</title>
+      <link>/posts/in-support-of-joss-for-not-accepting-new-article-submissions/</link>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/in-support-of-joss-for-not-accepting-new-article-submissions/</guid>
+      <description>The Journal of Open Source Software announced last week (via email and on Twitter) that:
+ Submissions to JOSS are suspended for 30 days to provide relief to authors, editors, and reviewers dealing with the effects of the COVID-19 pandemic.
+ The attached image from the Tweet is an elaboration of this announcement:
+I think this is a good idea, and support it. Setting the expectation from the &amp;ldquo;top-down&amp;rdquo; can support individuals&amp;rsquo; decision (necessary or forced) to slow their pace of non-urgent work.</description>
+    </item>
+    
+    <item>
+      <title>Help request - bookdown figure numbers out of order</title>
+      <link>/posts/help-request-bookdown-figure-numbers-out-of-order/</link>
+      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/help-request-bookdown-figure-numbers-out-of-order/</guid>
+      <description>Data Science in Education Using R co-author Isabella posted in RStudio Community about a strange issue encountered when adding figure numbers to the book: they are regularly out of order. The post in RStudio Community is here.
+As one example, in Chapter 5, the figure numbering begins with 5.1 . . . but then proceeds to 0.1, and then picks up (correctly) with 5.3 through the last figure, 5.10.
+After trying to figure out whether there was an issue with that figure (source code for Chapter 5), we looked at other chapters, like Chapter 9, for which the numbering is even more dramatically out or order.</description>
+    </item>
+    
+    <item>
+      <title>Requesting your feedback: Data Science in Education Using R is almost ready!</title>
+      <link>/posts/requesting-your-feedback-data-science-in-education-using-r-is-almost-ready/</link>
+      <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/requesting-your-feedback-data-science-in-education-using-r-is-almost-ready/</guid>
+      <description>The Data Science in Education Using R book is almost ready to be sent to the publisher.
+You can view the latest version of the book (as of this morning!) at the following URL:
+https://datascienceineducation.com/
+The screenshot below shows how to suggest a revision through GitHub; this functionality exists for every chapter of the book.
+![](/post/2020-03-11-requesting-your-feedback-data-science-in-education-using-r-is-almost-ready_files/Screen Shot 2020-03-11 at 10.08.18 AM.png)
+If you prefer, you can email us with any suggested edits at authors@datascienceineducation.</description>
+    </item>
+    
+    <item>
+      <title>Sickness and gratitude</title>
+      <link>/posts/sickness-and-gratitude/</link>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/sickness-and-gratitude/</guid>
+      <description>As this post&amp;rsquo;s title indicates, this isn&amp;rsquo;t a typical blog post for me; it&amp;rsquo;s on (much) a personal note. I&amp;rsquo;ll preface this post by saying that I&amp;rsquo;m fundamentally healthy (and so is my fam): that is sort of the thesis of the post.
+Starting in December, our son came down with a bad ear infection that continued through the holiday break (and the new year). He got better - we got sick - and we moved on.</description>
+    </item>
+    
+    <item>
+      <title>More confidently uncertain? Teaching learners to apply Bayesian methods to make sense of scientific phenomena</title>
+      <link>/posts/more-confidently-uncertain-teaching-learners-to-apply-bayesian-methods-to-make-sense-of-scientific-phenomena/</link>
+      <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/more-confidently-uncertain-teaching-learners-to-apply-bayesian-methods-to-make-sense-of-scientific-phenomena/</guid>
+      <description>This is a new area for me, one that I proposed to explore in the ICLS Early Career Workshop:
+More confidently uncertain? Teaching learners to apply Bayesian methods to make sense of scientific phenomena
+ While analyzing data is an important learning in science domains, existing methods and tools for those learning to work with data have key limitations, particularly concerning scientific modeling. This early-stage research is intended to begin a line of work on students’ data analysis that is not yet widely used in K-12 learning environments, Bayesian statistical methods, with implications for how learners use evidence in science education.</description>
+    </item>
+    
+    <item>
+      <title>New version of konfound (v 0.2.1) for sensitivity analysis available</title>
+      <link>/posts/new-version-of-konfound-v-0-2-1-for-sensitivity-analysis-a-technique-to-support-trying-to-make-causal-inferences/</link>
+      <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/new-version-of-konfound-v-0-2-1-for-sensitivity-analysis-a-technique-to-support-trying-to-make-causal-inferences/</guid>
+      <description>A new version of konfound (v 0.2.1) for sensitivity analysis (a technique to support making causal inferences, especially in light of observational data) is available.
+This version includes a new technique for non-linear models (i.e., a logistic regression).
+Documentation for the package is available here: https://jrosen48.github.io/konfound/
+We also updated the Shiny app associated with the package, available here: http://konfound-it.com/
+Lastly, here are other blog posts on the topic:
+ an introduction to the R package an introduction the Shiny app  </description>
+    </item>
+    
+    <item>
+      <title>Presentation on studying education-focused Twitter hashtags in light of state-based and national policies and practices</title>
+      <link>/posts/presentation-on-studying-education-focused-twitter-hashtags-in-light-of-state-based-and-national-policies-and-practices/</link>
+      <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/presentation-on-studying-education-focused-twitter-hashtags-in-light-of-state-based-and-national-policies-and-practices/</guid>
+      <description>Supported through an SEC Travel Grant, I am presenting on Studying education-focused Twitter hashtags in light of state-based and national policies and practices as a part of the 2020 Spring Seminar Series at the Martin School of Public Policy at the University of Kentucky, Lexington, KY.
+A link to the presentation is here: https://docs.google.com/presentation/d/1lNMAUGfBvnVsLEL8pbeS5On60v0vZifqeZkXsqkyFYk/edit?usp=sharing
+Thank you to Annelise Russell and Spencer Greenhalgh for this awesome opportunity!</description>
+    </item>
+    
+    <item>
+      <title>New version of tidyLPA (v 1.0.5) for carrying out Latent Profile Analysis using either open-source or commercial software</title>
+      <link>/posts/new-version-of-tidylpa-1-0-5/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/new-version-of-tidylpa-1-0-5/</guid>
+      <description>There is a new version of tidyLPA (v 1.0.5) available on CRAN (see here).
+The website, with a lot more information than is on the page above, is here.
+Changes include:
+ Add function to calculate Lo-Mendell-Rubin LR test Add plot_bivariate() Set default for plot_profiles(add_line = FALSE), because the line does not convey any meaningful information Fix bug re. passing additional parameters to mplusObject() Remove messages about deprecated functions (those which were last used in v &amp;lt; 1.</description>
+    </item>
+    
+    <item>
+      <title>Writing a recursive function in R - or, tweets on tweets</title>
+      <link>/posts/writing-a-recursive-function-in-r/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/writing-a-recursive-function-in-r/</guid>
+      <description>Background Recursion has been a topic I’ve heard about, and even read about it, but have never used. Recently, I was analyzing data for the Next Generation Science Standards hashtag on Twitter, and was puzzled to find that some of the Tweets I had accessed were replies to Tweets which were themselves not in the data set.
+Fortunately, the rtweet R package returns data on which Tweet a reply is to; using these, it is possible (using rtweet) to access the original Tweet.</description>
+    </item>
+    
+    <item>
+      <title>Short activities focused around trying something new - some coding and data science-related examples</title>
+      <link>/posts/code-bites-in-r-studio-cloud/</link>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/code-bites-in-r-studio-cloud/</guid>
+      <description>In research group meetings, we have started with short (5-10 minute) activities focused on trying something new.
+So far, these activities have been focused on computer science or data science ideas. This post shares a few of those, which have been somewhat useful (I think!) so far:
+ Writing and &amp;ldquo;using&amp;rdquo; a recipe for making pancakes (to explore the idea of an how computers closely follow the instructions they are told, as well as algorithms, conditional logic, and functions) Exploring what one notices about weather/climate-related data Tinkering with a cool agent-based model for frog adaptation Last, today, we used code bites in R/RStudio, with the goal being to create minimally viable (and interesting) content; it worked well, I think, by lowering the motivation-related barrier to writing code.</description>
+    </item>
+    
+    <item>
+      <title>Open-source study - Resources related to our study of how students become interested in CS</title>
+      <link>/posts/open-source-study/</link>
+      <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/open-source-study/</guid>
+      <description>We are beginning data collection today for our study of how students become interested in computer science (our beginning of a project website is at https://picsul.utk.edu/). I&amp;rsquo;ve blogged about the project two times before:
+ Thoughts from submitting a grant proposal for the first time  New project on understanding the development of interest in computer science   One idea we have brought to the project is that we want to share as much as we possibly (ethically and based upon the Institutional Review Board applicaiton for the project) can.</description>
+    </item>
     
     <item>
       <title>New article - Identifying multiple learning spaces in a single educational hashtag</title>
@@ -891,16 +1059,6 @@ Here’s a description:
       
       <guid>/posts/20150804-first-article-in-jrte/</guid>
       <description>New article in the Journal of Research on Technology in Education My first article (in the Journal of Research on Technology in Education, JRTE) by me and Matthew J. Koehler is available as an advance online publication. If you’re interested in TPACK and want to see what I’ve been up to, then please check it out (or send me an email so I can send a copy your way).</description>
-    </item>
-    
-    <item>
-      <title>Presentations at SITE 2015</title>
-      <link>/posts/20150302-presentations-at-site-2015/</link>
-      <pubDate>Mon, 02 Mar 2015 17:05:10 +0500</pubDate>
-      
-      <guid>/posts/20150302-presentations-at-site-2015/</guid>
-      <description> Presentations at SITE 2015 I will be attending the Society for Information at Information Technology and Teacher Education 2015 Conference(SITE) this week in Las Vegas, NV. If curious, here is a list of presentations compiled by Spencer Greenhalgh and posted on Punya Mishra’s blog.
- </description>
     </item>
     
     <item>
