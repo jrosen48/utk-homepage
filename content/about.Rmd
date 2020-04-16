@@ -226,9 +226,9 @@ Rosenberg, J. M., & Koehler, M. J. (2015). Context and Technological Pedagogical
 
 ## Book Chapters
 
-Rosenberg, J. M., Lawson, M. A., Anderson, D. J., & Rutherford, T. (accepted pending minor revisions). In E. Romero-Hall (Ed.), *Research Methods in Learning Design & Technology.*, Data science dilemmas for teaching research methods in learning design and technology. Routledge: New York, NY. 
+Rosenberg, J. M., Lawson, M. A., Anderson, D. J., & Rutherford, T. (in press). Making data science count in and for education. In E. Romero-Hall (Ed.), *Research Methods in Learning Design & Technology.*. Routledge: New York, NY. <a href = "/pre-prints/rosenberg-et-al-data-science-in-and-for-education-research-methods-in-ldt.pdf"><img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
-Greenhalgh, S. P., Staudt Willet, B., Rosenberg, J. M., & Koehler, M. J. (accepted pending minor revisions). In E. Romero-Hall (Ed.), *Research Methods in Learning Design & Technology.*, Lessons learned from applying Twitter research methods to educational technology phenomena. Routledge: New York, NY.
+Greenhalgh, S. P., Staudt Willet, B., Rosenberg, J. M., & Koehler, M. J. (in press). Lessons learned from applying Twitter research methods to educational technology phenomena. In E. Romero-Hall (Ed.), *Research Methods in Learning Design & Technology*. Routledge: New York, NY. <a href = "http://www.researchmerge.com/uploads/7/5/3/5/75356681/chapter_5_research_methods_in_learning_design_and_technology_pre-print.pdf"><img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
 Dai, T., Rosenberg, J. M., & Lawson, M. A. (in press). Data representation. In T. L. Good & M. McCaslin (*Eds.*), Educational Psychology Section; D. Fisher (*Ed.*), Routledge Encyclopedia of Education (Online). Taylor & Francis: New York, NY.
 
