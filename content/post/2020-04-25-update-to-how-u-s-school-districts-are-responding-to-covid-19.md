@@ -13,7 +13,7 @@ are responding to COVID-19
 part of that earlier work was a map depicting the number of districts within states mentioning COVID-19. 
 
 With inspiration, ideas, and help from colleagues ([Teya Rutherford](https://rutherfordlab.wordpress.com/), [Daniel Anderson](Daniel Anderson), [Alex Lishinski](http://www.alexlishinski.com/), and [Ha Nguyen](https://ha-nguyen.net/)), 
-the underlying data is more trustworthy and the map is now *interactive* and is available from here 
+the underlying data is more trustworthy and the map is now *interactive* (at the district level) and is available from here 
 (or by clicking the screenshot below):
 
 https://jmichaelrosenberg.shinyapps.io/covidapp/
