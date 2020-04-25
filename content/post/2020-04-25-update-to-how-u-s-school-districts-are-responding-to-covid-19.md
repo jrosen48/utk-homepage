@@ -12,9 +12,9 @@ are responding to COVID-19
 ([link here](https://joshuamrosenberg.com/posts/how-are-u-s-school-districts-responding-to-covid-a-first-look-at-12-500-districts-websites/)).
 
 With some colleagues ([Teya Rutherford](https://rutherfordlab.wordpress.com/), [Daniel Anderson](Daniel Anderson), [Alex Lishinski](http://www.alexlishinski.com/), and [Ha Nguyen](https://ha-nguyen.net/)), 
-the map is now interactive (see a screenshot below) and is available from here: https://joshuamrosenberg.com/posts/how-are-u-s-school-districts-responding-to-covid-a-first-look-at-12-500-districts-websites/.
+the map is now interactive and is available from here (or by clicking the screenshot below):  https://joshuamrosenberg.com/posts/how-are-u-s-school-districts-responding-to-covid-a-first-look-at-12-500-districts-websites/.
 
-![](/post/2020-04-25-update-to-how-u-s-school-districts-are-responding-to-covid-19_files/Screen Shot 2020-04-25 at 12.49.53 PM.png)
+[![](/post/2020-04-25-update-to-how-u-s-school-districts-are-responding-to-covid-19_files/Screen Shot 2020-04-25 at 12.49.53 PM.png)](https://jmichaelrosenberg.shinyapps.io/covidapp/)
 
 We're looking to continue and expand this work - to make it more useful to others and 
 (going ahead) to try to ask and answer questions about how, exactly, districts are responding. 
