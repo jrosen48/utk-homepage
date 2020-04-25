@@ -24,8 +24,9 @@ We're looking to continue and expand this work - to make it more useful to other
 (going ahead) to try to ask and answer questions about how districts are responding 
 (in ways that may be more or less fair in terms of what students are involved in 
 doing. Such a project would likely involve (at least) programatically accessing districts' websites (web scraping), 
-but also qualitative coding (or validation), Natural Language Processing, extracting 
-text from PDFs, and understanding the place of districts in the wider education system. It's complex!
+but also qualitative coding (or validation... which may also require contacting some districts), extracting 
+text from PDFs, Natural Language Processing, and understanding the place of districts in the wider education system 
+(and how to access other data on districts, such as data from the U.S. Census or the National Center for Education Statistics. It's complex!
 
 We welcome ideas and input.
 
