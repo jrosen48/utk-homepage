@@ -16,4 +16,7 @@ the map is now interactive (see a screenshot below) and is available from here: 
 
 ![](/post/2020-04-25-update-to-how-u-s-school-districts-are-responding-to-covid-19_files/Screen Shot 2020-04-25 at 12.49.53 PM.png)
 
-We're looking to continue and expand this work and welcome ideas and input.
+We're looking to continue and expand this work - to make it more useful to others and 
+(going ahead) to try to ask and answer questions about how, exactly, districts are responding. 
+
+We welcome ideas and input.
