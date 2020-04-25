@@ -30,5 +30,8 @@ text from PDFs, Natural Language Processing, and understanding the place of dist
 
 We welcome ideas and input.
 
+[All of the data](https://github.com/making-data-science-count/covidedu) and [the app itself](https://jmichaelrosenberg.shinyapps.io/covidapp/) are open
+and available for use and re-use.
+
 Also, h/t to [Isabella Velásquez](https://ivelasq.rbind.io/) for talking through and 
 sharing advice about multiple aspects of this project.
