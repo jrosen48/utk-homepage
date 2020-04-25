@@ -1,5 +1,5 @@
 ---
-title: Update to how U.S. school districts are responding to COVID-19
+title: An update to how U.S. school districts are responding to COVID-19
 author: ''
 date: '2020-04-25'
 slug: update-to-how-u-s-school-districts-are-responding-to-covid-19
