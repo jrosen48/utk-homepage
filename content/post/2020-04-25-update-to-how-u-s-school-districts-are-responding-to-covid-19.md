@@ -31,7 +31,7 @@ districts' websites (web scraping), but also qualitative coding (or
 validation... which may also require contacting some districts), extracting text
 from PDFs, Natural Language Processing, and understanding the place of districts
 in the wider education system (and how to access other data on districts, such
-as data from the U.S. Census or the National Center for Education Statistics.
+as data from the U.S. Census or the National Center for Education Statistics).
 It's complex!
 
 Ideas and input are welcomed.
