@@ -6,10 +6,20 @@
     <description>Recent content in Home on Joshua M. Rosenberg, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>An update to how U.S. school districts are responding to COVID-19</title>
+      <link>/post/2020/04/25/update-to-how-u-s-school-districts-are-responding-to-covid-19/</link>
+      <pubDate>Sat, 25 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/04/25/update-to-how-u-s-school-districts-are-responding-to-covid-19/</guid>
+      <description>A few weeks ago, I wrote about an attempt to understand how United States (U.S.) school districts are responding to COVID-19 (link here). A big part of that earlier work was a map depicting the number of districts within states mentioning COVID-19.
+With inspiration, ideas, and help from Teya Rutherford, [Daniel Anderson](Daniel Anderson), Alex Lishinski, and Ha Nguyen), the underlying data is more trustworthy and the map is now interactive (and is at the district, rather than the state, level) and is available here (or by clicking the screenshot below):</description>
+    </item>
     
     <item>
       <title>Data Science in Education Using R by (and a little beyond) the numbers</title>

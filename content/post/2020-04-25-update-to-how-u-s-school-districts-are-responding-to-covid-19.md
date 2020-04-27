@@ -1,6 +1,11 @@
------
-
-## title: An update to how U.S. school districts are responding to COVID-19 author: '' date: '2020-04-25' slug: update-to-how-u-s-school-districts-are-responding-to-covid-19 categories: [] tags: []
+---
+title: An update to how U.S. school districts are responding to COVID-19 
+author: ''
+date: '2020-04-25'
+slug: update-to-how-u-s-school-districts-are-responding-to-covid-19
+categories: []
+tags: []
+---
 
 A few weeks ago, I wrote about an attempt to understand how United States (U.S.)
 school districts are responding to COVID-19 ([link
@@ -8,18 +13,16 @@ here](https://joshuamrosenberg.com/posts/how-are-u-s-school-districts-responding
 A big part of that earlier work was a map depicting the number of districts
 within states mentioning COVID-19.
 
-With inspiration, ideas, and help from ([Teya
+With inspiration, ideas, and help from [Teya
 Rutherford](https://rutherfordlab.wordpress.com/), [Daniel Anderson](Daniel
 Anderson), [Alex Lishinski](http://www.alexlishinski.com/), and [Ha
 Nguyen](https://ha-nguyen.net/)), the underlying data is more trustworthy and
-the map is now *interactive* (at the district level) and is available from here
-(or by clicking the screenshot below):
+the map is now *interactive* (and is at the district, rather than the state, level) 
+and is available here (or by clicking the screenshot below):
 
-<https://jmichaelrosenberg.shinyapps.io/covidapp/>
+https://jmichaelrosenberg.shinyapps.io/covidapp/
 
-[![](/post/2020-04-25-update-to-how-u-s-school-districts-are-responding-to-covid-19\_files/Screen
-Shot 2020-04-25 at 12.49.53
-PM.png)](https://jmichaelrosenberg.shinyapps.io/covidapp/)
+[![screenshot of app](/post/2020-04-25-update-to-how-u-s-school-districts-are-responding-to-covid-19_files/useme.png)](https://jmichaelrosenberg.shinyapps.io/covidapp/)
 
 With colleagues, I'm looking to continue and expand this work - to make it more
 useful to others and (going ahead) to try to ask and answer questions about how
