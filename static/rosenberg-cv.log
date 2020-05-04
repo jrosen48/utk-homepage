@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.25)  27 APR 2020 11:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.25)  4 MAY 2020 15:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -546,10 +546,10 @@ s/jrosenb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></Users/
 jrosenb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/jro
 senb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.pfb></Users/jrosen
 b8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb>
-Output written on rosenberg-cv.pdf (19 pages, 219860 bytes).
+Output written on rosenberg-cv.pdf (19 pages, 219840 bytes).
 PDF statistics:
- 463 PDF objects out of 1000 (max. 8388607)
- 432 compressed objects within 5 object streams
+ 464 PDF objects out of 1000 (max. 8388607)
+ 433 compressed objects within 5 object streams
  116 named destinations out of 1000 (max. 500000)
  12673 words of extra memory for PDF output out of 14400 (max. 10000000)
 
