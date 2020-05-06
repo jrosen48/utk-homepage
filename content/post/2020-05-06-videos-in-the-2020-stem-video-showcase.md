@@ -1,5 +1,5 @@
 ---
-title: Videos in the 2020 STEM Video Showcase
+title: Videos in the 2020 STEM For All Video Showcase
 author: Joshua Rosenberg
 date: '2020-05-06'
 slug: videos-in-the-2020-stem-video-showcase
