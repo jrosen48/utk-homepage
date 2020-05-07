@@ -6,10 +6,20 @@
     <description>Recent content in Home on Joshua M. Rosenberg, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New article on exploring the validity of assessment items for the NGSS using machine learning</title>
+      <link>/post/2020/05/07/new-article-on-exploring-the-content-related-validity-of-assessment-items-for-the-ngss-using-machine-learning/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/05/07/new-article-on-exploring-the-content-related-validity-of-assessment-items-for-the-ngss-using-machine-learning/</guid>
+      <description>Daniel Anderson, Brock Rowley, Sondra Stegenga, and Shawn Irvin, and I published a paper on the role of a text-based machine learning technique - topic models - can be used to provide content validity evidence for Next Generation Science Standards (NGSS)-related assessment items.
+While I have some experience with topic modeling, as well as experience with NGSS-related assessments, the measurement focus of this work is new to me, and so was a great opportunity for me to learn more; Dan and his colleagues conceptualized and carried out this work in an impressive way, and I was happy to make a few contributions to it.</description>
+    </item>
     
     <item>
       <title>Videos in the 2020 STEM For All Video Showcase</title>
