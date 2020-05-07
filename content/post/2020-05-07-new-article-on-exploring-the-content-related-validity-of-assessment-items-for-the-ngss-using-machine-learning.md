@@ -14,7 +14,7 @@ can be used to provide [content validity](https://en.wikipedia.org/wiki/Content_
 evidence for Next Generation Science Standards (NGSS)-related assessment items.
 
 While I have *some* experience with topic modeling, as well as experience with 
-NGSS-related assessments, the measurement focus of this work is new to me, and 
+NGSS-related assessments, the measurement focus of this work was new to me, and 
 so was a great opportunity for me to learn more; Dan and his colleagues 
 conceptualized and carried out this work in an impressive way, and I was happy 
 to make a few contributions to it.
