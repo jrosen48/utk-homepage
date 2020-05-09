@@ -13,7 +13,11 @@ focused summer programs. The study uses an [*experience sampling method*](https:
 youth's experiences, in which participating youth were asked multiple, short surveys "in-
 the-moment", rather than one (or more) longer surveys at less-regular intervals. The 
 logic is that such surveys can assess something like engagement in a qualitatively 
-(and subjectively, for youth) different way than a traditional survey can.
+(and subjectively, for youth) different way than a traditional survey can. 
+
+As an aside, the first author for this paper, Jen, wrote [a book on ESM](https://us.sagepub.com/en-us/nam/experience-sampling-method/book228179)
+with Joel Hektner and Mihaly Csikszentmihalyi - Csikszentmihalyi (whose name I 
+learned to pronounce!) named the idea of a ["flow"](https://en.wikipedia.org/wiki/Mihaly_Csikszentmihalyi) state - and used ESM to study flow.
 
 This article came from a project I was involved in first as a graduate research assistant - it was the first I was involved with using ESM, which I'm now using in a few ongoing projects, including [one
 funded through the National Science Foundation](https://joshuamrosenberg.com/posts/new-project-understanding-the-development-of-interest-in-computer-science/) and one with Stephen Aguilar and colleagues that is focused on how teachers plan for their teaching.
