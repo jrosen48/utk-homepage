@@ -16,7 +16,7 @@ logic is that such surveys can assess something like engagement in a qualitative
 (and subjectively, for youth) different way than a traditional survey can.
 
 This article came from a project I was involved in first as a graduate research assistant - it was the first I was involved with using ESM, which I'm now using in a few ongoing projects, including [one
-funded through the National Science Foundation](https://joshuamrosenberg.com/posts/new-project-understanding-the-development-of-interest-in-computer-science/).
+funded through the National Science Foundation](https://joshuamrosenberg.com/posts/new-project-understanding-the-development-of-interest-in-computer-science/) and one with Stephen Aguilar and colleagues that is focused on how teachers plan for their teaching.
 
 The article is in the *Journal of Research in Science
 Teaching* and is available as a pre-print [here](/pre-prints/schmidt-et-al-jrst-2020.pdf).
