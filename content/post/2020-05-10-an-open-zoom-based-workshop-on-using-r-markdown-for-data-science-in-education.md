@@ -29,7 +29,7 @@ Here's the plan:
 
 This is thus especially for those in education - students, researchers, as well as data analysts/scientists - though anyone is welcome to join - part of the premise of
 [the book my co-authors and I wrote on data science in education](http://datascienceineducation.com/) is that it can be helpful to learn data science on the terms that are meaningful to you. Teachers interested in using R to teach their students (in any content area) are (very) welcome. If any receive this 
-message, high school-aged students interested in learning R are welcome.
+message, high school or middle school-aged students ([who *can* learn to use R](https://joshuamrosenberg.com/posts/using-r-with-7th-grade-science-students/)) interested in learning R are welcome. 
 
 There's **a short sign-up form** with only a question for your email address and the extent of your prior experience using R Markdown and why you're interested in joining (mostly to weed out spammers), I'll send a Zoom link before the workshop/conversation and won't use your email address for any other purpose: https://forms.gle/kbopkbNdXfeJBEqm7
 
