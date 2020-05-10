@@ -14,7 +14,6 @@ related projects in education.
 
 I shared many resources (and the post) with a graduate research assistant and thought about meeting one-on-one to review the resources - but, there are a few other students at my insitution who might also be interested, and so I thought to share the plan with and invite others to join in.
 
-
 - This *Friday, May 15, from noon - 1:00 pm EST*, we'll meet to discuss using R Markdown
 - The conversation will be situated in the context of *educational research and education*
 - Beginners welcome; R Markdown is possibly a great way to start to use R (though you can do *a lot* with it as the foundation)
