@@ -25,6 +25,6 @@ I shared many resources (and the post) with a graduate research assistant and th
 - Throughout, I'll draw on and refer to the resources shared about R Markdown
 - I'll plan to record and host the video (probably on Vimeo) for others to view in the future
 
-This is thus especially for educational researchers/data analysts/scientists/quantitative methodologists, though anyone is welcome to join. 
+This is thus especially for those in education - students, researchers, as well as data analysts/scientists and teachers - though anyone is welcome to join. 
 
 There's **a short sign-up form** with only a question for your email address and the extent of your prior experience using RMarkdown and why you're interested in joining (mostly to weed out spammers), I'll send a Zoom link before the workshop/conversation and won't use your email address for any other purpose: https://forms.gle/kbopkbNdXfeJBEqm7
