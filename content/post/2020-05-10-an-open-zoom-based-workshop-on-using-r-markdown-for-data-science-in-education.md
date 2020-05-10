@@ -1,8 +1,8 @@
 ---
-title: An Open Zoom-based Conversation on Using R Markdown for Data Science in Education
+title: Free Workshop on Using R Markdown in Education
 author: Joshua Rosenberg
 date: '2020-05-10'
-slug: an-open-zoom-based-workshop-on-using-r-markdown-for-data-science-in-education
+slug: a-free-open-workshop-on-using-r-markdown-for-data-science-in-education
 categories: []
 tags: []
 ---
@@ -12,24 +12,19 @@ requesting resources related to using R Markdown](https://twitter.com/jrosenberg
 ones. The post was in the context of learning R and R Markdown for research-
 related projects in education.
 
-I shared many resources (and the post) with a graduate research assistant and thought about meeting one-on-one to review the resources - but, there are a few other students at my insitution who might also be interested, and there might be folks not at my institution who would be interested in following - or contributing to - a conversation about using R Markdown/R. I thought the best 
-way to open the conversation up (and probably have a better one) is to have an 
-open, Zoom-based conversation on the topic. So, here's a plan:
+I shared many resources (and the post) with a graduate research assistant and thought about meeting one-on-one to review the resources - but, there are a few other students at my insitution who might also be interested, and so I thought to share the plan with and invite others to join in.
 
-- This Friday, May 15, from noon - 1:00 pm EST, we'll meet to discuss using R Markdown
-- The conversation will be situated in the context of educational research
-- Roughly the first 40 minutes will involve working through an R Markdown document, from
-creating to rendering one
+- This *Friday, May 15, from noon - 1:00 pm EST*, we'll meet to discuss using R Markdown
+- The conversation will be situated in the context of *educational research and education*
+- Schedule:
+    - First 20 minutes, an introduction to R and R Markdown
+    - Second 20 minutes, you working through an R Markdown document (more on how in the next point)
+    - Last 20 minutes discussion/questions and answers
 - We'll use RStudio Cloud, so folks can get started with zero prerequisites
-- Throughout, we'll draw on and refer to resources shared about R Markdown
+- Throughout, I'll draw on and refer to the resources shared about R Markdown
+- I'll plan to record and host the video (probably on Vimeo) for others to view in the future
 
 This is thus especially for educational researchers/data analysts/scientists, though any one is welcome to join. 
 
-Depending on interest (especially from students), I may try to carry out other conversations/workshops,
-including on:
-
-- git/Github
-- visualizing data
-
-I created a short sign-up form (with a question for your email address and the extent of your prior experience using RMarkdown and R); if you sign-up, I'll send you a Zoom link to the workshop, but will 
+There's a short sign-up form (with a question for your email address and the extent of your prior experience using RMarkdown and R); if you sign-up, I'll send you a Zoom link to the workshop, but will 
 not use your email address for any other purpose: https://forms.gle/kbopkbNdXfeJBEqm7
