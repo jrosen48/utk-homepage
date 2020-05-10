@@ -12,7 +12,7 @@ requesting resources related to using R Markdown](https://twitter.com/jrosenberg
 ones. The post was in the context of learning R and R Markdown for research-
 related projects in education.
 
-I shared many of the resources (and the post) with a graduate research assistant and thought about meeting one-on-one to review and walk through them. But, there are a few others at my institution who are also interested in learning R. So I thought to share the plan with and invite others - including those outside my institution to join in. Why not?
+I shared many of the resources (and the post) with a graduate research assistant and thought about meeting one-on-one to review and walk through them. But, there are a few others at my institution who are also interested in learning R. So I thought to share the plan with and invite others - including those outside my institution to join in. Why not (don't answer this)?
 
 Here's the plan:
 
