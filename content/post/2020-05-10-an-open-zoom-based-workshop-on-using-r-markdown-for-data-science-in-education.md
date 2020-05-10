@@ -26,7 +26,9 @@ I shared many resources (and the post) with a graduate research assistant and th
 - I'll plan to record and host the video (probably on Vimeo) for others to view in the future
 
 This is thus especially for those in education - students, researchers, as well as data analysts/scientists - though anyone is welcome to join. Teachers interested in
-using R to teach their students (in any content area) are (very) welcome.
+using R to teach their students (in any content area) are (very) welcome. Not to put to fine 
+a point on it, but I think using **R Markdown is a possibly good way to learn to use R**. I (sort of)
+documented why in the context of my work with students in [this older post](https://joshuamrosenberg.com/posts/using-r-with-7th-grade-science-students/).
 
 There's **a short sign-up form** with only a question for your email address and the extent of your prior experience using R Markdown and why you're interested in joining (mostly to weed out spammers), I'll send a Zoom link before the workshop/conversation and won't use your email address for any other purpose: https://forms.gle/kbopkbNdXfeJBEqm7
 
