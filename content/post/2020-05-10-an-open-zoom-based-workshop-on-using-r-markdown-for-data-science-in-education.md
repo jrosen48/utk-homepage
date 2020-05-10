@@ -29,3 +29,5 @@ This is thus especially for those in education - students, researchers, as well 
 using R to teach their students (in any content area) are (very) welcome.
 
 There's **a short sign-up form** with only a question for your email address and the extent of your prior experience using RMarkdown and why you're interested in joining (mostly to weed out spammers), I'll send a Zoom link before the workshop/conversation and won't use your email address for any other purpose: https://forms.gle/kbopkbNdXfeJBEqm7
+
+There are a lot of communities in which (and through) you can learn R; this is not one of them - it's intended to be a one-off (somewhat random!) event - but I'll point to those as some next steps for anyone who is interested. 
