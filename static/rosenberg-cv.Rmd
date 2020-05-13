@@ -83,8 +83,8 @@ Science education, science teacher education, data science education, computer s
 
 ### Degrees  
 
-2018, PhD, Educational Psychology & Educational Technology  
-*Committee*: Matthew J. Koehler (Co-chair), Jennifer A. Schmidt (Co-chair), Lisa Linnenbrink-Garcia, Christina V. Schwarz
+2018, PhD, Educational Psychology & Educational Technology    
+*Committee*: Matthew J. Koehler (Co-chair), Jennifer A. Schmidt (Co-chair), Lisa Linnenbrink-Garcia, Christina V. Schwarz  
 Michigan State University  
 
 2012, MA, Education  
@@ -182,7 +182,7 @@ Schmidt, J. A., Beymer, P. N., Rosenberg, J. M., Naftzger, N. J., & Shumow, L. (
 Ranellucci, J., Rosenberg, J. M., & Poitras, E. (in press). Exploring pre-service teachers’ use of technology: The technology acceptance model and expectancy-value theory. *Journal of Computer Assisted Learning*. <a href = "https://osf.io/8q2vk/"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> <a href = "https://osf.io/rgpeh/"><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
 \hangindent=2em
-Anderson, D. J., Rowley, B., Stegenga, S., Irvin, P. S., & Rosenberg, J. M. (advance online publicatiom). Evaluating content-related validity evidence using a text-based, machine learning procedure. *Educational Measurement: Issues and Practice*. https://onlinelibrary.wiley.com/doi/abs/10.1111/emip.12314
+Anderson, D. J., Rowley, B., Stegenga, S., Irvin, P. S., & Rosenberg, J. M. (advance online publication). Evaluating content-related validity evidence using a text-based, machine learning procedure. *Educational Measurement: Issues and Practice*. https://onlinelibrary.wiley.com/doi/abs/10.1111/emip.12314
 
 \hangindent=2em
 Greenhalgh, S. P., Rosenberg, J. M., Koehler, M. J., Akcaoglu, M., & Staudt Willet, K. B. (2020). Identifying multiple learning spaces within a single teacher-focused Twitter hashtag. *Computers & Education, 148*(4). https://doi.org/10.1016/j.compedu.2020.103809 <a href = "/pre-prints/greenhalgh-et-al-computers-and-education-2020.pdf"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>

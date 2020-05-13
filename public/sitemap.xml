@@ -3,17 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-05-07T00:00:00+00:00</lastmod>
+    <loc>/post/2020/05/10/a-free-open-workshop-on-using-r-markdown-for-data-science-in-education/</loc>
+    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/2020/05/07/new-article-on-exploring-the-content-related-validity-of-assessment-items-for-the-ngss-using-machine-learning/</loc>
-    <lastmod>2020-05-07T00:00:00+00:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/post/</loc>
+    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2020/05/09/new-article-on-engagement-in-out-of-school-stem-programs/</loc>
+    <lastmod>2020-05-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2020/05/07/new-article-on-exploring-the-content-related-validity-of-assessment-items-for-the-ngss-using-machine-learning/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
   </url>
   

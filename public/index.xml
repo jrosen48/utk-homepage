@@ -6,10 +6,29 @@
     <description>Recent content in Home on Joshua M. Rosenberg, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>An Informal, Open Introduction to Using R Markdown in Education</title>
+      <link>/post/2020/05/10/a-free-open-workshop-on-using-r-markdown-for-data-science-in-education/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/05/10/a-free-open-workshop-on-using-r-markdown-for-data-science-in-education/</guid>
+      <description>Like many things posted to the #rstats hashtag on Twitter, a recent post requesting resources related to using R Markdown led to a number of helpful ones. The post was in the context of learning R and R Markdown for research- related projects in education.
+I shared many of the resources (and the post) with a graduate research assistant and thought about meeting one-on-one to review and walk through them. But, there are a few others at my institution who are also interested in learning R.</description>
+    </item>
+    
+    <item>
+      <title>New article on understanding engagement in out-of-school STEM programs using an experience sampling method to study youths&#39; experiences</title>
+      <link>/post/2020/05/09/new-article-on-engagement-in-out-of-school-stem-programs/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/05/09/new-article-on-engagement-in-out-of-school-stem-programs/</guid>
+      <description>With Jen Schmidt, Patrick Beymer, Neil Naftzger, and Lee Shumow, I recently published an article on youth&amp;rsquo;s engagement in one of nine out-of-school, STEM- focused summer programs. The study uses an experience sampling method (or ESM) to study youth&amp;rsquo;s experiences, in which participating youth were asked multiple, short surveys &amp;ldquo;in- the-moment&amp;rdquo;, rather than one (or more) longer surveys at less-regular intervals. The logic is that such surveys can assess something like engagement in a qualitatively (and subjectively, for youth) different way than a traditional survey can.</description>
+    </item>
     
     <item>
       <title>New article on exploring the validity of assessment items for the NGSS using machine learning</title>
