@@ -37,6 +37,6 @@ Kaggle has some resources:
 
 * https://www.kaggle.com/tags/education
 
-If I made any omissions or mistakes, I'm sorry - I will correct this as soon as I learn I made them!
+If I made any omissions or mistakes, I'm sorry - I will correct this as soon as I learn I made them. This (clearly) is not a comprehensive list, but is also clearly a good one. If referred to by anyone other than myself, consider this just a snapshot in time of a subset of the wider educational community exploring these topics.
 
 I asked because I am interested in offering a data science in education course at my institution - and it was and is very valuable to learn what others have created or will be offering in the near future.
