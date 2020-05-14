@@ -13,7 +13,7 @@ I solicited information baout courses related to data science in education, and 
 * [Applied Social Network Analysis in Education](https://bookdown.org/chen/snaEd/) (Bodong Chen)
 * [Learning Analytics: Theory and Practice](https://colig.github.io/laumn/) (Bodong Chen)
 * [Carpe Datum](https://steinhardt.nyu.edu/current-students/register-classes/student-advisement/undergraduate-advisement/liberal-arts-core) (Yoav Bergner)
-* Theoretical Foundations of Learning Analytics and Learning Analytics in Practice (forthcoming) (Nia Dowell)
+* Theoretical Foundations of Learning Analytics and Learning Analytics in Practice (forthcoming) (Nia Dowell and Shayan Doroudi)
 * [Data Science Specialization](https://github.com/uo-datasci-specialization) (five courses) (Daniel Anderson)
 * [Big Data and Education](https://www.edx.org/course/big-data-and-education) (Ryan Baker)
 * [Core Methods in Educational Data Mining](https://github.com/core-methods-in-edm/syllabus) (Charles Lang)
