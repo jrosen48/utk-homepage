@@ -6,10 +6,20 @@
     <description>Recent content in Home on Joshua M. Rosenberg, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Post-secondary courses related to data science in education - a crowdsourced list of sorts</title>
+      <link>/post/2020/05/14/post-secondary-courses-related-to-data-science-in-education-a-crowdsourced-list-of-sorts/</link>
+      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/05/14/post-secondary-courses-related-to-data-science-in-education-a-crowdsourced-list-of-sorts/</guid>
+      <description>I solicited information baout courses related to data science in education, and ended up with more than I expected. This is a crowdsourced list, with courses spanning data science education (data science as a new context for teaching and learning) and the application of different data science methods to learning analytics and educational data mining.
+ Applied Social Network Analysis in Education (Bodong Chen) Learning Analytics: Theory and Practice (Bodong Chen) Carpe Datum (Yoav Bergner) Theoretical Foundations of Learning Analytics and LEarning Analytics in Practice (forthcoming) (Nia Dowell) [Data Science Specialization] (five courses) (Daniel Anderson) Big Data and Education (Ryan Baker) Core Methods in Educational Data Mining (Charles Lang) Learning Analytics Fundamentals (George Siemens and colleagues) Data Science Education (and Data Science Education for pre-service teachers) (Victor Lee) Foundations of Learning Analytics and Educational Data Science (Alyssa Wise) Building Learning Analytics Applications (Alyssa Wise) Certificate Program in Learning Analytics (four courses) (Shaun Kellogg) Massive Open Online Course on Building Legitimate Predictive Analytics With Learning Design and Theory (Erkan Er) Data Analysis, Simulation, and Programming in R (James Pustejovsky) Machine Learning in Education (Zach Pardos) Programming and Educational Data Science (forthcoming) (Fernando Rodriguez) Data Visualization (Cynthia D&amp;rsquo;Angelo)  There are also a few compendia of courses:</description>
+    </item>
     
     <item>
       <title>An Informal, Open Introduction to Using R Markdown in Education</title>
