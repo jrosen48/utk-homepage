@@ -33,4 +33,4 @@ math = true
 
 [params]
     description = "Joshua M. Rosenberg's Homepage"
-    footer = "&copy; [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 2020 | [Google Scholar](https://scholar.google.com/citations?user=nxVowRQAAAAJ&hl=en) | [GitHub](https://github.com/jrosen48) | [ORCID](http://orcid.org/0000-0003-2170-0447) | [OSF](https://osf.io/xzqbc/)"
+    footer = "[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | [Google Scholar](https://scholar.google.com/citations?user=nxVowRQAAAAJ&hl=en) | [GitHub](https://github.com/jrosen48) | [ORCID](http://orcid.org/0000-0003-2170-0447) | [OSF](https://osf.io/xzqbc/)"
