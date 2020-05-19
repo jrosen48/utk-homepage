@@ -504,33 +504,33 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1189.
+(hyperref)                than one, level fixed on input line 1188.
 
 [14]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1229.
+(hyperref)                than one, level fixed on input line 1228.
 
 [15] [16] [17]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1452.
+(hyperref)                than one, level fixed on input line 1451.
 
 [18]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1513.
+(hyperref)                than one, level fixed on input line 1512.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1554.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1553.
 [19]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1554.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1553.
 (./rosenberg-cv.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1554.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1554.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1553.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1553.
 
 Package rerunfilecheck Info: File `rosenberg-cv.out' has not changed.
 (rerunfilecheck)             Checksum: 529D4BAAC1BDDA68BD896ED3C7BF0551;7899.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1554.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1553.
  ) 
 Here is how much of TeX's memory you used:
  11872 strings out of 482530
@@ -546,7 +546,7 @@ s/jrosenb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></Users/
 jrosenb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/jro
 senb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.pfb></Users/jrosen
 b8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb>
-Output written on rosenberg-cv.pdf (19 pages, 219857 bytes).
+Output written on rosenberg-cv.pdf (19 pages, 219925 bytes).
 PDF statistics:
  465 PDF objects out of 1000 (max. 8388607)
  434 compressed objects within 5 object streams
