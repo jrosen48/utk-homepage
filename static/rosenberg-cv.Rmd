@@ -133,7 +133,7 @@ C.D. Owen High School, Swannanoa, NC
 
 2017-2020, Consultant (statistical software development and data analysis), *Profiles of science engagement: Broadening participation by understanding individual and contextual influences* ($499,927; *PI*: Jennifer Schmidt, Michigan State University). NSF. (NSF Grant No. [1661064](https://nsf.gov/awardsearch/showAward?AWD_ID=1661064&HistoricalAwards=false))
 
-### Completed Grant
+### Completed Grants
 
 2013, PI, *Basic biology for everyone* ($2,000), Versal Foundation Grant
 
@@ -357,9 +357,6 @@ Rosenberg, J. M. (2018). *Understanding work with data in summer STEM programs: 
 
 \hangindent=2em
 Schmidt, J.A., Schell, M.J., Beymer, P.N., Alberts, K.M., Phun, V., Lee, M. & Rosenberg, J.M. (2020, August). *Students’ momentary science engagement predicts end-of-course achievement*. Poster to be presented at the annual meetings of the American Psychological Association. Washington, DC.
-
-\hangindent=2em
-Schmidt, J.A., Schell, M.J., Beymer, P.N., Alberts, K.M., Phun, V., Lee, M. & Rosenberg, J.M. (2020, August). *Students’ momentary science engagement predicts end-of-course achievement.* Poster presented at the annual meetings of the American Psychological Association. Washington, DC. (Conference cancelled)
 
 \hangindent=2em
 Rosenberg, J. M., Reid, J., Dyer, E., Koehler, M. J., Fischer, C., & McKenna, T. J. (2020, April). A new context for professional networks: Understanding the social structure of #NGSSChat through social network analysis. In K. A. Frank, K., Torphy, K., Daly, A., & Greenhow, C. (Chairs), *Educators meet the fifth estate: Social media in education.* Symposium conducted at the American Educational Research Association Annual Meeting, San Francisco, CA. (Conference cancelled)
