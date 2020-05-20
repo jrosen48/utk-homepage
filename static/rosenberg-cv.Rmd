@@ -176,10 +176,13 @@ Estrellado, R. A., Freer, E. A.,  Mostipak, J., Rosenberg, J. M., & Velásquez, 
 ## Peer-Reviewed Journal Articles
 
 \hangindent=2em
-Schmidt, J. A., Beymer, P. N., Rosenberg, J. M., Naftzger, N. J., & Shumow, L. (in press). Experiences, Activities, and personal characteristics as predictors of engagement in STEM-focused summer programs. *Journal of Research in Science Teaching*. 
+Carpenter, J., Rosenberg, J. M., Dousay, T., Romero-Hall, E., Trust, T., Kessler, A., Phillips, M., Morrison, S., Fischer, C. & Krutka, D. (advance online publication). What should teacher educators know about technology? Perspectives and self-sssessments. *Teaching and Teacher Education*.
 
 \hangindent=2em
 Ranellucci, J., Rosenberg, J. M., & Poitras, E. (in press). Exploring pre-service teachers’ use of technology: The technology acceptance model and expectancy-value theory. *Journal of Computer Assisted Learning*. <a href = "https://osf.io/8q2vk/"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> <a href = "https://osf.io/rgpeh/"><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
+
+\hangindent=2em
+Schmidt, J. A., Beymer, P. N., Rosenberg, J. M., Naftzger, N. J., & Shumow, L. (advance online publication). Experiences, Activities, and personal characteristics as predictors of engagement in STEM-focused summer programs. *Journal of Research in Science Teaching*. https://onlinelibrary.wiley.com/doi/full/10.1002/tea.21630
 
 \hangindent=2em
 Anderson, D. J., Rowley, B., Stegenga, S., Irvin, P. S., & Rosenberg, J. M. (advance online publication). Evaluating content-related validity evidence using a text-based, machine learning procedure. *Educational Measurement: Issues and Practice*. https://onlinelibrary.wiley.com/doi/abs/10.1111/emip.12314
