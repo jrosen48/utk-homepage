@@ -26,3 +26,7 @@ I shared the following materials:
 - Data management plan
 
 They're compiled in this document: [rosenberg-nsf-bcser-proposal.pdf](/grants/nsf-bcser-proposal-rosenberg.pdf)
+
+The grant writing process was initially shrouded in mystery for me, and the help
+I received from others was invaluable, and I hope this serves as one source of 
+help for those interested.
