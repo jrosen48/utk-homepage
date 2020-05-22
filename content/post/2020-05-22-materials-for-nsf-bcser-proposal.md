@@ -27,6 +27,9 @@ I collected the following:
 
 They're compiled in this document: [rosenberg-nsf-bcser-proposal.pdf](/grants/nsf-bcser-proposal-rosenberg.pdf)
 
+The administrator in charge of the library noted that some proposals included budget information, while others did not, and that what to include (apart from the narrative) was my decision. Since I worked at a public university and could not foresee an objection to my sharing it, I included the budget justification (*no one* wants to see the actual budget document, I think - it's complex and hard to read!). I also included the questions I received (and my responses to them) after first hearing (in July) that the grant was being considered for funding.
+
 The grant writing process was initially shrouded in mystery for me, and the help
 I received from others was invaluable, and I hope this serves as one source of 
-help for those interested.
+help for anyone interested, especially anyone interested in applying to this program
+designed to bolster the work of educational researchers.
