@@ -7,13 +7,13 @@ categories: []
 tags: []
 ---
 
-To share in [a neat and fairly-comprehensive proposal library from my institution](https://research.utk.edu/proposal-support/toolkit/proposal-library/), I gather materials for the [National
-Science Foundation Building Capacity in STEM Education Research program](https://www.nsf.gov/pubs/2020/nsf20521/nsf20521.htm) proposal
-I submitted last June ([post here](https://joshuamrosenberg.com/posts/new-project-understanding-the-development-of-interest-in-computer-science/)). 
+To share in [a neat and fairly-comprehensive proposal library from my institution](https://research.utk.edu/proposal-support/toolkit/proposal-library/), I gathered materials from the [National
+Science Foundation's *Building Capacity in STEM Education Research* program](https://www.nsf.gov/pubs/2020/nsf20521/nsf20521.htm) proposal
+I submitted (in last June; it was awarded soon after, in August. I wrote a post on it then ([here]((https://joshuamrosenberg.com/posts/new-project-understanding-the-development-of-interest-in-computer-science/)).
 
-The library had examples from a number of disciplines (and for a number of funders), but did not have any for educational research.
+The proposal library had examples from a number of disciplines (and for a number of funders), but did not have any for educational research.
 
-I shared the following materials:
+I collected the following:
 
 - Summary
 - Narrative
