@@ -6,10 +6,20 @@
     <description>Recent content in Home on Joshua M. Rosenberg, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Materials for an NSF BCSER proposal</title>
+      <link>/post/2020/05/22/materials-for-nsf-bcser-proposal/</link>
+      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/05/22/materials-for-nsf-bcser-proposal/</guid>
+      <description>To share in a neat and fairly-comprehensive proposal library from my institution, I gathered materials from the National Science Foundation&amp;rsquo;s Building Capacity in STEM Education Research program proposal I submitted (in last June; it was awarded soon after, in August. I wrote a post on it then (here.
+The proposal library had examples from a number of disciplines (and for a number of funders), but did not have any for educational research.</description>
+    </item>
     
     <item>
       <title>Post-secondary courses related to data science in education - a crowdsourced list of sorts</title>
