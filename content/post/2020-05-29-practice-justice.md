@@ -1,5 +1,5 @@
 ---
-title: Practice and injustice
+title: Practice, injustice
 author: Joshua Rosenberg
 date: '2020-05-29'
 slug: practice-justice
