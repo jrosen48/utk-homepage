@@ -41,7 +41,7 @@ secession for GA, MI, SC, TX, and VA [here](https://www.battlefields.org/learn/p
 or waving the flag of the Confederacy either do not wish to know or do not wish to know what message doing so
 communicates. Driving to Obed Wild and Scenic River on Saturday, we drove past a women
 mowing her lawn with a Confederate flag tattoo. We drove past a house with American, Confederate, and Trump
-flags, all equal heights. This isn't newsworthy; not at all. It's ubiquitious anywhere off the beaten path in, at least, Michigan, Tennessee, and north Carolina. Try driving from Asheville to Winston-Salem without driving past the largest flag you will likely have seen. It's a Confederate flag flying over I-40, which spans from North Carolina to California.
+flags, all equal heights. This isn't newsworthy; not at all. It's ubiquitous anywhere off the beaten path in, at least, Michigan, Tennessee, and north Carolina. Try driving from Asheville to Winston-Salem without driving past the largest flag you will likely have seen. It's a Confederate flag flying over I-40, which spans from North Carolina to California.
 
 I travel past the [Daughters of the Confederacy memorial hall](https://www.bleakhouseknoxville.org/daughters-of-the-confederacy) to make it to campus in progressive Knoxville, where we live. There is a [Confederate status](https://www.knoxnews.com/story/news/local/tennessee/2017/12/21/knoxvilles-fort-sanders-confederate-statue-likely-stay/973439001/) in the main student residential area. 
 
@@ -58,4 +58,7 @@ we say and think we are. This means that our promise and dream are not being
 realized. This also means that we need to be uncomfortable; to make changes
 to how we are thinking, feeling, and acting. Getting better is hard; healing is
 hard, but healing the broken heart of our country is needed, and doing 
-so asks all of us to work to do so, starting with myself.
+so asks all of us to work to do so, starting with myself. I started to think and
+write about this [last week](https://joshuamrosenberg.com/post/2020/05/29/practice-justice/); 
+I will continue to do so in the weeks, months, and years ahead, and invite you 
+to share with me as I do so.
