@@ -1,38 +1,46 @@
-\PassOptionsToPackage{unicode=true}{hyperref} % options for packages loaded elsewhere
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
 \PassOptionsToPackage{hyphens}{url}
 %
-\documentclass[14,]{article}
+\documentclass[
+  14,
+]{article}
 \usepackage{lmodern}
 \usepackage{amssymb,amsmath}
 \usepackage{ifxetex,ifluatex}
-\usepackage{fixltx2e} % provides \textsubscript
 \ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
-  \usepackage{textcomp} % provides euro and other symbols
-\else % if luatex or xelatex
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
   \usepackage{unicode-math}
-  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
 \fi
-% use upquote if available, for straight quotes in verbatim environments
+% Use upquote if available, for straight quotes in verbatim environments
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
-% use microtype if available
-\IfFileExists{microtype.sty}{%
-\usepackage[]{microtype}
-\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
 }{}
-\IfFileExists{parskip.sty}{%
-\usepackage{parskip}
-}{% else
-\setlength{\parindent}{0pt}
-\setlength{\parskip}{6pt plus 2pt minus 1pt}
-}
-\usepackage{hyperref}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
 \hypersetup{
-            pdftitle={Joshua M. Rosenberg},
-            pdfborder={0 0 0},
-            breaklinks=true}
-\urlstyle{same}  % don't use monospace font for urls
+  pdftitle={Joshua M. Rosenberg},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
 \usepackage[margin=1in]{geometry}
 \usepackage{graphicx,grffile}
 \makeatletter
@@ -43,25 +51,14 @@
 % margins by default, and it is still possible to overwrite the defaults
 % using explicit options in \includegraphics[width, height, ...]{}
 \setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
-\setlength{\emergencystretch}{3em}  % prevent overfull lines
-\providecommand{\tightlist}{%
-  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
-\setcounter{secnumdepth}{0}
-% Redefines (sub)paragraphs to behave more like sections
-\ifx\paragraph\undefined\else
-\let\oldparagraph\paragraph
-\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
-\fi
-\ifx\subparagraph\undefined\else
-\let\oldsubparagraph\subparagraph
-\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
-\fi
-
-% set default figure placement to htbp
+% Set default figure placement to htbp
 \makeatletter
 \def\fps@figure{htbp}
 \makeatother
-
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
 
 \title{Joshua M. Rosenberg}
 \author{}
@@ -147,21 +144,20 @@ Innovations in Educational Research and Design Pilot Projects Program.
 2019-2021, PI, \emph{Understanding the development of interest in
 computer science: An experience sampling approach} (\$346,688). National
 Science Foundation {[}NSF{]}. \url{http://picsul.utk.edu/} (NSF Grant
-No.
-\href{https://www.nsf.gov/awardsearch/showAward?AWD_ID=1937700\&HistoricalAwards=false}{1937700})
+No.~\href{https://www.nsf.gov/awardsearch/showAward?AWD_ID=1937700\&HistoricalAwards=false}{1937700})
 
 2019-2021, Co-PI, \emph{CS for Appalachia: A research-practice
 partnership for integrating computer science into East Tennessee
 schools} (\$252,453; \emph{PI}: Lynn Hodge, University of Tennessee,
-Knoxville). NSF. (NSF Grant No.
-\href{https://www.nsf.gov/awardsearch/showAward?AWD_ID=1923509\&HistoricalAwards=false}{1923509})
+Knoxville). NSF. (NSF Grant
+No.~\href{https://www.nsf.gov/awardsearch/showAward?AWD_ID=1923509\&HistoricalAwards=false}{1923509})
 
 2019-2022, Co-PI, \emph{Advancing computational grounded theory for
 audiovisual data from STEM classrooms} (\$1,313,855; \emph{PI}:
 Christina Krist, University of Illinois Urbana-Champaign; University of
 Tennessee, Knoxville subcontract: \$101,469). NSF.
-\url{https://tca2.education.illinois.edu/} (NSF Grant No.
-\href{https://www.nsf.gov/awardsearch/showAward?AWD_ID=1920796\&HistoricalAwards=false}{1920796})
+\url{https://tca2.education.illinois.edu/} (NSF Grant
+No.~\href{https://www.nsf.gov/awardsearch/showAward?AWD_ID=1920796\&HistoricalAwards=false}{1920796})
 
 2019-2020, PI, \emph{Planting the seeds for computer science education
 in East Tennessee through a research-practice partnership} (\$13,200).
@@ -187,8 +183,8 @@ Department of Agriculture - Agriculture and Food Research Initiative.
 analysis), \emph{Profiles of science engagement: Broadening
 participation by understanding individual and contextual influences}
 (\$499,927; \emph{PI}: Jennifer Schmidt, Michigan State University).
-NSF. (NSF Grant No.
-\href{https://nsf.gov/awardsearch/showAward?AWD_ID=1661064\&HistoricalAwards=false}{1661064})
+NSF. (NSF Grant
+No.~\href{https://nsf.gov/awardsearch/showAward?AWD_ID=1661064\&HistoricalAwards=false}{1661064})
 
 \hypertarget{completed-grants}{%
 \subsubsection{Completed Grants}\label{completed-grants}}
@@ -251,11 +247,17 @@ contributed equally. \url{http://www.datascienceineducation.com/}
 \subsection{Peer-Reviewed Journal
 Articles}\label{peer-reviewed-journal-articles}}
 
+\hangindent=2em Rosenberg, J. M., Reid, J., Dyer, E., Koehler, M. J.,
+Fischer, C., \& McKenna, T. J. (in press). Idle chatter or compelling
+conversation? The potential of the social media-based \#NGSSchat network
+as a support for science education reform efforts. \emph{Journal of
+Research in Science Teaching}.
+
 \hangindent=2em Carpenter, J., Rosenberg, J. M., Dousay, T.,
 Romero-Hall, E., Trust, T., Kessler, A., Phillips, M., Morrison, S.,
-Fischer, C. \& Krutka, D. (advance online publication). What should
-teacher educators know about technology? Perspectives and
-self-sssessments. \emph{Teaching and Teacher Education}.
+Fischer, C. \& Krutka, D. (in press). What should teacher educators know
+about technology? Perspectives and self-sssessments. \emph{Teaching and
+Teacher Education}.
 
 \hangindent=2em Ranellucci, J., Rosenberg, J. M., \& Poitras, E. (in
 press). Exploring pre-service teachers' use of technology: The
@@ -358,7 +360,7 @@ Science Teaching, 36}(3), 255-267.
 Keenan, S. (2017). What the tech is going on with digital teaching
 portfolios? Using the TPACK framework to analyze teachers' technological
 understanding. \emph{Journal of Technology and Teacher Education, 25},
-31-59. \url{http://www.learntechlib.org/p/173346/} \textless{}a
+31-59. \url{http://www.learntechlib.org/p/173346/} \textless a
 href=``''\textgreater{}
 
 \hangindent=2em Rosenberg, J. M., Greenhalgh, S. P., Koehler, M. J.,
@@ -519,7 +521,7 @@ L. Polman, E. A. Kyza, K. O'Neill, I. Tabak, W. R. Penuel, A. S. Jurow,
 . . . L. D'Amico (Eds.), \emph{Learning and becoming in practice: The
 international conference of the learning sciences (ICLS) 2014} (Vol. 1,
 pp.~182-189). Boulder, CO: ISLS.
-\url{http://www.isls.org/icls2014/Proceedings.html} \textless{}a
+\url{http://www.isls.org/icls2014/Proceedings.html} \textless a
 href=``''\textgreater{}
 
 \hangindent=2em Rosenberg, J. M., \& Koehler, M. (2014). Context and
@@ -565,7 +567,7 @@ study}. Washington, DC: American Institutes for Research.
 It's not about the tools. \emph{Educational Leadership, 76}(5), 64-69.
 Retrieved from
 \url{http://www.ascd.org/publications/educational-leadership/feb19/vol76/num05/It's-Not-About-the-Tools.aspx}
-\textless{}a href=``''\textgreater{}
+\textless a href=``''\textgreater{}
 
 \hangindent=2em Vo, T., \& Rosenberg, J. M. (2018). Posts for the NARST
 Graduate Student Resources blog {[}four blog posts{]}. \emph{NARST
