@@ -9,24 +9,16 @@ tags: []
 
 
 
-<p>This post has some information on usng the
+<pre class="r"><code>knitr::opts_chunk$set(message = FALSE)</code></pre>
+<p>This post has some information on using the
 <a href="https://r-spatial.github.io/sf/articles/sf1.html">{sf} (or simple features) R package</a>
 for analyzing and plotting geospatial data. It is mostly for myself to reference
 in the future. A lot of this is from the <a href="https://geocompr.robinlovelace.net/"><em>Geocomputation With R</em> book</a>.</p>
 <div id="loading-packages-setting-up" class="section level2">
 <h2>Loading packages, setting up</h2>
 <p>Load the {sf} and {tidyverse} packages:</p>
-<pre class="r"><code>library(sf)</code></pre>
-<pre><code>## Linking to GEOS 3.7.2, GDAL 2.4.2, PROJ 5.2.0</code></pre>
-<pre class="r"><code>library(tidyverse)</code></pre>
-<pre><code>## ── Attaching packages ───────────────────────────────────────────────────────────────────────────────────── tidyverse 1.3.0 ──</code></pre>
-<pre><code>## ✓ ggplot2 3.3.1     ✓ purrr   0.3.4
-## ✓ tibble  3.0.1     ✓ dplyr   0.8.5
-## ✓ tidyr   1.0.3     ✓ stringr 1.4.0
-## ✓ readr   1.3.1     ✓ forcats 0.5.0</code></pre>
-<pre><code>## ── Conflicts ──────────────────────────────────────────────────────────────────────────────────────── tidyverse_conflicts() ──
-## x dplyr::filter() masks stats::filter()
-## x dplyr::lag()    masks stats::lag()</code></pre>
+<pre class="r"><code>library(sf)
+library(tidyverse)</code></pre>
 </div>
 <div id="creating-test-data" class="section level2">
 <h2>Creating test data</h2>
@@ -46,7 +38,7 @@ the correct way?</em> Let me know if you know the answer.</p>
 </div>
 <div id="using-sf-objects-as-data-frames" class="section level2">
 <h2>Using sf objects as data frames</h2>
-<p>Attributes can be added to the <strong>sf</strong> object. The abovereferenced book suggests
+<p>Attributes can be added to the <strong>sf</strong> object. The book suggests
 thinking of <strong>sf</strong> objects as containing spatial (e.g. lon, lat) data, and
 attributes; in addition to/because of this, <strong>sf</strong> objects can be treated as
 data frames (in many/most cases).</p>
@@ -151,18 +143,13 @@ of the state boundaries and the five points.</p>
 <pre class="r"><code>ggplot() +
     geom_sf(data = USA) +
     geom_sf(data = points)</code></pre>
-<p><img src="/post/2020-06-15-basic-sf-functionality-for-analyzing-and-plotting-geospatial-data_files/figure-html/unnamed-chunk-13-1.png" width="672" /></p>
+<p><img src="/post/2020-06-15-basic-sf-functionality-for-analyzing-and-plotting-geospatial-data_files/figure-html/unnamed-chunk-14-1.png" width="672" /></p>
 <p>Many packages make it easier to plot spatial data of interest. Here is a plot
 of all of the school districts in Tennessee.</p>
 <pre class="r"><code>library(leaidr)
-library(mapproj)</code></pre>
-<pre><code>## Loading required package: maps</code></pre>
-<pre><code>## 
-## Attaching package: &#39;maps&#39;</code></pre>
-<pre><code>## The following object is masked from &#39;package:purrr&#39;:
-## 
-##     map</code></pre>
-<pre class="r"><code># only needed the first time
+library(mapproj)
+
+# only needed the first time
 # lea_get(path = &quot;./leaid_sh&quot;)
 
 # 47 is the FIPS code for TN
@@ -171,21 +158,21 @@ tn &lt;- lea_prep(path = &quot;./leaid_sh&quot;, fips = &quot;47&quot;)</code></
 ## Source: &quot;/Users/jrosenb8/utk-homepage/content/post/leaid_sh/schooldistrict_sy1819_tl19.shp&quot;, layer: &quot;schooldistrict_sy1819_tl19&quot;
 ## with 13315 features
 ## It has 18 fields</code></pre>
-<pre class="r"><code>tn_df &lt;- ggplot2::fortify(tn)</code></pre>
-<pre><code>## Regions defined for each Polygons</code></pre>
-<pre class="r"><code>tn_map &lt;-
+<pre class="r"><code>tn_df &lt;- ggplot2::fortify(tn)
+
+tn_map &lt;-
     ggplot() +
     geom_path(data = tn, 
               aes(x = long, y = lat, group = group),
               color = &quot;gray&quot;, size = .2) +
-    theme_void()</code></pre>
-<pre><code>## Regions defined for each Polygons</code></pre>
-<pre class="r"><code>tn_map_projected &lt;- 
+    theme_void()
+
+tn_map_projected &lt;- 
     tn_map +
     coord_map()
 
 print(tn_map_projected)</code></pre>
-<p><img src="/post/2020-06-15-basic-sf-functionality-for-analyzing-and-plotting-geospatial-data_files/figure-html/unnamed-chunk-14-1.png" width="672" /></p>
+<p><img src="/post/2020-06-15-basic-sf-functionality-for-analyzing-and-plotting-geospatial-data_files/figure-html/unnamed-chunk-15-1.png" width="672" /></p>
 <p>(h/t <a href="https://ivelasq.rbind.io/">Isabella Velásquez</a>
 for making this so seamless (even with fairly ginormous files) to do with the <a href="https://github.com/ivelasq/leaidr">{leaidr} package</a>).</p>
 </div>

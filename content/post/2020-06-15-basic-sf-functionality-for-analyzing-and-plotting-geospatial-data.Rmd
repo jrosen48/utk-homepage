@@ -7,7 +7,11 @@ categories: [r]
 tags: []
 ---
 
-This post has some information on usng the 
+```{r}
+knitr::opts_chunk$set(message = FALSE)
+```
+
+This post has some information on using the 
 [{sf} (or simple features) R package](https://r-spatial.github.io/sf/articles/sf1.html)
 for analyzing and plotting geospatial data. It is mostly for myself to reference
 in the future. A lot of this is from the [*Geocomputation With R* book](https://geocompr.robinlovelace.net/).
@@ -47,7 +51,7 @@ the correct way?* Let me know if you know the answer.
 
 ## Using sf objects as data frames
 
-Attributes can be added to the **sf** object. The abovereferenced book suggests
+Attributes can be added to the **sf** object. The  book suggests
 thinking of **sf** objects as containing spatial (e.g. lon, lat) data, and 
 attributes; in addition to/because of this, **sf** objects can be treated as 
 data frames (in many/most cases). 
