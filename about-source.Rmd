@@ -84,7 +84,7 @@ Science education, science teacher education, data science education, computer s
 ### Degrees  
 
 2018, PhD, Educational Psychology & Educational Technology    
-*Committee*: Matthew J. Koehler (Co-chair), Jennifer A. Schmidt (Co-chair), Lisa Linnenbrink-Garcia, Christina V. Schwarz  
+*Committee*: Matthew J. Koehler (Co-chair), Jennifer A. Schmidt (Co-chair), Lisa Linnenbrink-Garcia, and Christina V. Schwarz  
 Michigan State University  
 
 2012, MA, Education  
@@ -638,7 +638,7 @@ Rosenberg, J. M. (2017, April). *Introduction to R for Data Analysis*. Presentat
 \hangindent=2em
 Rosenberg, J. M. (March, 2016). *An introduction to R for programming and statistical analysis in education*. Georgia Southern University College of Education, Statesboro, GA.
 
-# Outreach
+# Outreach and Engagement
 
 \hangindent=2em
 Rosenberg, J. M. (2019, May). *Working with data in education: Using data and supporting students to use data*. Workshop carried out for teachers at Knoxville Jewish Day School. https://docs.google.com/presentation/d/1uSdRvF2GjhUpO2fCHZIUdXmf0texzczGGlbzmZBgggw/edit?usp=sharing 
@@ -882,6 +882,5 @@ Co-host, [*Impodster Syndrome* podcast](http://impodstersyndrome.libsyn.com/)
 ### Professional Affiliations
 
 American Educational Research Association, 2012 - Present  
-Association for the Advancement of Computing in Education, 2012 - Present  
 International Society of the Learning Sciences, 2014 - Present  
 National Association for Research in Science Teaching, 2015 - Present  
