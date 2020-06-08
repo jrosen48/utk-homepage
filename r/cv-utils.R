@@ -16,7 +16,7 @@ lines <- lines[-c(l:(l + 5))]
 #                     "\begin{center}\section{Curriculum Vitae}\label{curriculum-vitae}}\end{center}")
     
 # prepping final content
-lines[6] <- "fontsize: 10pt"
+lines[6] <- "fontsize: 11pt"
 lines[8] <- "  pdf_document:"
 lines[9] <- "    includes:"
 lines[10] <- '      in_header: "preamble.tex"'

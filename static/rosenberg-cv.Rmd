@@ -3,7 +3,7 @@ title: Joshua M. Rosenberg
 author: ''
 layout: page
 permalink: /about/
-fontsize: 10pt
+fontsize: 11pt
 output:
   pdf_document:
     includes:
