@@ -1,0 +1,201 @@
+---
+title: Basic {sf} functionality for analyzing and plotting geospatial data
+author: Joshua Rosenberg
+date: '2020-06-15'
+slug: basic-sf-functionality-for-analyzing-and-plotting-geospatial-data
+categories: [r]
+tags: []
+---
+
+
+
+<p>This post has some information on usng the
+<a href="https://r-spatial.github.io/sf/articles/sf1.html">{sf} (or simple features) R package</a>
+for analyzing and plotting geospatial data. It is mostly for myself to reference
+in the future. A lot of this is from the <a href="https://geocompr.robinlovelace.net/"><em>Geocomputation With R</em> book</a>.</p>
+<div id="loading-packages-setting-up" class="section level2">
+<h2>Loading packages, setting up</h2>
+<p>Load the {sf} and {tidyverse} packages:</p>
+<pre class="r"><code>library(sf)</code></pre>
+<pre><code>## Linking to GEOS 3.7.2, GDAL 2.4.2, PROJ 5.2.0</code></pre>
+<pre class="r"><code>library(tidyverse)</code></pre>
+<pre><code>## ── Attaching packages ───────────────────────────────────────────────────────────────────────────────────────────── tidyverse 1.3.0 ──</code></pre>
+<pre><code>## ✓ ggplot2 3.3.1     ✓ purrr   0.3.4
+## ✓ tibble  3.0.1     ✓ dplyr   0.8.5
+## ✓ tidyr   1.0.3     ✓ stringr 1.4.0
+## ✓ readr   1.3.1     ✓ forcats 0.5.0</code></pre>
+<pre><code>## ── Conflicts ──────────────────────────────────────────────────────────────────────────────────────────────── tidyverse_conflicts() ──
+## x dplyr::filter() masks stats::filter()
+## x dplyr::lag()    masks stats::lag()</code></pre>
+</div>
+<div id="creating-test-data" class="section level2">
+<h2>Creating test data</h2>
+<p>Create some test data. Here are five longitudes and latitudes. Two are special</p>
+<ul>
+<li>the fourth pair correspond to Knoxville, TN, USA</li>
+<li>the fifth pair corresponds to Lansing, MI, USA</li>
+</ul>
+<p>The others are random (and are not within the United States).</p>
+<pre class="r"><code>points &lt;- data.frame(lon = c(-65,-60, -55, -83.92, -84.55), lat = c(50, 45, 40, 35.96, 42.73))</code></pre>
+<p>The following function creates an <strong>sf</strong> object (telling R which columns within
+<code>points</code> are the longitude and latitude).</p>
+<pre class="r"><code>points &lt;- st_as_sf(points, coords = c(&quot;lon&quot;, &quot;lat&quot;))</code></pre>
+<p><em>One thing I’m uncertain about is how {sf} knows that “lon” and “lat” have special meanings;
+what if, instead, I had named these something else? Would {sf} know how to prepare to plot them in
+the correct way?</em> Let me know if you know the answer.</p>
+</div>
+<div id="using-sf-objects-as-data-frames" class="section level2">
+<h2>Using sf objects as data frames</h2>
+<p>Attributes can be added to the <strong>sf</strong> object. The abovereferenced book suggests
+thinking of <strong>sf</strong> objects as containing spatial (e.g. lon, lat) data, and
+attributes; in addition to/because of this, <strong>sf</strong> objects can be treated as
+data frames (in many/most cases).</p>
+<p>Here, I add names to the five points, using indexing as if the object was a data frame.</p>
+<pre class="r"><code>points$name &lt;- c(&quot;random_place_c&quot;, &quot;random_place_b&quot;, &quot;random_place_c&quot;, &quot;knoxville&quot;, &quot;lansing&quot;)</code></pre>
+<p>It’s possible to drop the spatial/geometric part (class) of the object, which can be
+useful in some cases; the book mentions that the spatial part is “sticky” and can
+be difficult to ignore, even when you use the object as a data frame.</p>
+<pre class="r"><code>st_drop_geometry(points)</code></pre>
+<pre><code>##             name
+## 1 random_place_c
+## 2 random_place_b
+## 3 random_place_c
+## 4      knoxville
+## 5        lansing</code></pre>
+<p>Here, it is easy to use a <strong>dplyr</strong> verb to remove the random places:</p>
+<pre class="r"><code>points %&gt;% 
+    filter(!str_detect(name, &quot;random_place&quot;))</code></pre>
+<pre><code>## Simple feature collection with 2 features and 1 field
+## geometry type:  POINT
+## dimension:      XY
+## bbox:           xmin: -84.55 ymin: 35.96 xmax: -83.92 ymax: 42.73
+## CRS:            NA
+##               geometry      name
+## 1 POINT (-83.92 35.96) knoxville
+## 2 POINT (-84.55 42.73)   lansing</code></pre>
+</div>
+<div id="spatial-operations" class="section level2">
+<h2>Spatial operations</h2>
+<p>This step was the big leap for me, but it also illustrates why it can be useful
+to treat spatial data in a special way.</p>
+<p>U.S. states can be represented with a shape representing each state’s boundaries.</p>
+<p>There are a number of R packages that provide these shapes in <strong>sf</strong> format. I
+am using <strong>USAboundaries</strong> (mostly because I found it first).</p>
+<pre class="r"><code>library(USAboundaries) 
+
+USA &lt;- us_boundaries()</code></pre>
+<p>I’m not fully grasping the details, but coordinate reference systems (CRSs)
+link spatial coordinates (e.g., lon, lat) to the three-dimensional shape of the
+Earth. There are short codes for these; a common CRS is 4269 (I have more to
+learn about this). This is important for the next step, the spatial operation.</p>
+<pre class="r"><code>USA &lt;- st_set_crs(USA, &quot;4269&quot;)</code></pre>
+<p><code>st_within()</code> provides information about relationships between pairs of <strong>sf</strong> objects.
+There are many spatial operations in addition to <code>st_within()</code>, including <code>st_intersects()</code>
+and <code>st_overlaps()</code>.</p>
+<pre class="r"><code>points_within_USA &lt;- st_within(points, USA)
+
+points_within_USA</code></pre>
+<pre><code>## Sparse geometry binary predicate list of length 5, where the predicate was `within&#39;
+##  1: (empty)
+##  2: (empty)
+##  3: (empty)
+##  4: 23
+##  5: 18</code></pre>
+<p>This can be turned into an integer vector (or another kind of vector, like a
+logical vector).</p>
+<pre class="r"><code>as.integer(points_within_USA)</code></pre>
+<pre><code>## [1] NA NA NA 23 18</code></pre>
+<p>This can be used to index <code>USA</code> to see which state the points in <code>dd</code> are within:</p>
+<pre class="r"><code>USA[as.integer(points_within_USA), ]</code></pre>
+<pre><code>## Simple feature collection with 5 features and 12 fields (with 3 geometries empty)
+## geometry type:  MULTIPOLYGON
+## dimension:      XY
+## bbox:           xmin: -90.41814 ymin: 34.98299 xmax: -81.6469 ymax: 48.21065
+## CRS:            NA
+##      statefp  statens    affgeoid geoid stusps      name lsad        aland
+## NA      &lt;NA&gt;     &lt;NA&gt;        &lt;NA&gt;  &lt;NA&gt;   &lt;NA&gt;      &lt;NA&gt; &lt;NA&gt;           NA
+## NA.1    &lt;NA&gt;     &lt;NA&gt;        &lt;NA&gt;  &lt;NA&gt;   &lt;NA&gt;      &lt;NA&gt; &lt;NA&gt;           NA
+## NA.2    &lt;NA&gt;     &lt;NA&gt;        &lt;NA&gt;  &lt;NA&gt;   &lt;NA&gt;      &lt;NA&gt; &lt;NA&gt;           NA
+## 23        47 01325873 0400000US47    47     TN Tennessee   00 106797662267
+## 18        26 01779789 0400000US26    26     MI  Michigan   00 146455251245
+##            awater state_name state_abbr jurisdiction_type
+## NA             NA       &lt;NA&gt;       &lt;NA&gt;              &lt;NA&gt;
+## NA.1           NA       &lt;NA&gt;       &lt;NA&gt;              &lt;NA&gt;
+## NA.2           NA       &lt;NA&gt;       &lt;NA&gt;              &lt;NA&gt;
+## 23     2355188876  Tennessee         TN             state
+## 18   104031574060   Michigan         MI             state
+##                            geometry
+## NA               MULTIPOLYGON EMPTY
+## NA.1             MULTIPOLYGON EMPTY
+## NA.2             MULTIPOLYGON EMPTY
+## 23   MULTIPOLYGON (((-90.3007 35...
+## 18   MULTIPOLYGON (((-84.61622 4...</code></pre>
+<p>It may be easier to specify the column with the name of the state, too</p>
+<pre class="r"><code>USA[as.integer(points_within_USA), &quot;name&quot;]</code></pre>
+<pre><code>## Simple feature collection with 5 features and 1 field (with 3 geometries empty)
+## geometry type:  MULTIPOLYGON
+## dimension:      XY
+## bbox:           xmin: -90.41814 ymin: 34.98299 xmax: -81.6469 ymax: 48.21065
+## CRS:            NA
+##           name                       geometry
+## NA        &lt;NA&gt;             MULTIPOLYGON EMPTY
+## NA.1      &lt;NA&gt;             MULTIPOLYGON EMPTY
+## NA.2      &lt;NA&gt;             MULTIPOLYGON EMPTY
+## 23   Tennessee MULTIPOLYGON (((-90.3007 35...
+## 18    Michigan MULTIPOLYGON (((-84.61622 4...</code></pre>
+</div>
+<div id="plotting" class="section level2">
+<h2>Plotting</h2>
+<p><strong>sf</strong> objects can be plotted with ggplot2 using the <em>sf geom</em>; here is a plot
+of the state boundaries and the five points.</p>
+<pre class="r"><code>ggplot() +
+    geom_sf(data = USA) +
+    geom_sf(data = points)</code></pre>
+<p><img src="/post/2020-06-15-basic-sf-functionality-for-analyzing-and-plotting-geospatial-data_files/figure-html/unnamed-chunk-13-1.png" width="672" /></p>
+<p>Many packages make it easier to plot spatial data of interest. Here is a plot
+of all of the school districts in Tennessee.</p>
+<pre class="r"><code>library(leaidr)
+library(mapproj)</code></pre>
+<pre><code>## Loading required package: maps</code></pre>
+<pre><code>## 
+## Attaching package: &#39;maps&#39;</code></pre>
+<pre><code>## The following object is masked from &#39;package:purrr&#39;:
+## 
+##     map</code></pre>
+<pre class="r"><code># only needed the first time
+# lea_get(path = &quot;./leaid_sh&quot;)
+
+# 47 is the FIPS code for TN
+tn &lt;- lea_prep(path = &quot;./leaid_sh&quot;, fips = &quot;47&quot;)</code></pre>
+<pre><code>## OGR data source with driver: ESRI Shapefile 
+## Source: &quot;/Users/jrosenb8/utk-homepage/content/post/leaid_sh/schooldistrict_sy1819_tl19.shp&quot;, layer: &quot;schooldistrict_sy1819_tl19&quot;
+## with 13315 features
+## It has 18 fields</code></pre>
+<pre class="r"><code>tn_df &lt;- ggplot2::fortify(tn)</code></pre>
+<pre><code>## Regions defined for each Polygons</code></pre>
+<pre class="r"><code>tn_map &lt;-
+    ggplot() +
+    geom_path(data = tn, 
+              aes(x = long, y = lat, group = group),
+              color = &quot;gray&quot;, size = .2) +
+    theme_void()</code></pre>
+<pre><code>## Regions defined for each Polygons</code></pre>
+<pre class="r"><code>tn_map_projected &lt;- 
+    tn_map +
+    coord_map()
+
+print(tn_map_projected)</code></pre>
+<p><img src="/post/2020-06-15-basic-sf-functionality-for-analyzing-and-plotting-geospatial-data_files/figure-html/unnamed-chunk-14-1.png" width="672" /></p>
+<p>(h/t <a href="https://ivelasq.rbind.io/">Isabella Velásquez</a>
+for making this so seamless (even with fairly ginormous files) to do with the <a href="https://github.com/ivelasq/leaidr">{leaidr} package</a>).</p>
+</div>
+<div id="fin" class="section level2">
+<h2><em>fin</em></h2>
+<p>There is a lot more (for me) to learn; this is just a start.</p>
+<p>Resources:</p>
+<ul>
+<li><a href="https://geocompr.robinlovelace.net/">Geocomputation with R</a></li>
+<li><a href="https://www.google.com/search?q=ggplot2+sf&amp;rlz=1C5CHFA_enUS724US724&amp;oq=ggplot2+sf&amp;aqs=chrome..69i57j0l5.2310j0j7&amp;sourceid=chrome&amp;ie=UTF-8">Drawing beautiful maps programmatically with R, sf, and ggplot2</a></li>
+<li><a href="https://www.r-spatial.org/">r-spatial</a></li>
+</ul>
+</div>

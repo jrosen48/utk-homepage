@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.6.8)  8 JUN 2020 07:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.6.8)  8 JUN 2020 09:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -555,7 +555,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1578.
 Here is how much of TeX's memory you used:
  12397 strings out of 482401
  183571 string characters out of 5945990
- 465361 words of memory out of 5000000
+ 465367 words of memory out of 5000000
  27714 multiletter control sequences out of 15000+600000
  582737 words of font info for 136 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -566,7 +566,7 @@ s/jrosenb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></Users/
 jrosenb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/jro
 senb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.pfb></Users/jrosen
 b8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb>
-Output written on rosenberg-cv.pdf (23 pages, 225626 bytes).
+Output written on rosenberg-cv.pdf (23 pages, 225826 bytes).
 PDF statistics:
  463 PDF objects out of 1000 (max. 8388607)
  428 compressed objects within 5 object streams

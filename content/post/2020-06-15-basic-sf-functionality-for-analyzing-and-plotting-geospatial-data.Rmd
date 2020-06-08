@@ -1,0 +1,181 @@
+---
+title: Basic {sf} functionality for analyzing and plotting geospatial data
+author: Joshua Rosenberg
+date: '2020-06-15'
+slug: basic-sf-functionality-for-analyzing-and-plotting-geospatial-data
+categories: [r]
+tags: []
+---
+
+This post has some information on usng the 
+[{sf} (or simple features) R package](https://r-spatial.github.io/sf/articles/sf1.html)
+for analyzing and plotting geospatial data. It is mostly for myself to reference
+in the future. A lot of this is from the [*Geocomputation With R* book](https://geocompr.robinlovelace.net/).
+
+## Loading packages, setting up
+
+Load the {sf} and {tidyverse} packages:
+
+```{r}
+library(sf)
+library(tidyverse)
+```
+
+## Creating test data
+
+Create some test data. Here are five longitudes and latitudes. Two are special
+
+- the fourth pair correspond to Knoxville, TN, USA
+- the fifth pair corresponds to Lansing, MI, USA
+
+The others are random (and are not within the United States).
+
+```{r}
+points <- data.frame(lon = c(-65,-60, -55, -83.92, -84.55), lat = c(50, 45, 40, 35.96, 42.73))
+```
+
+The following function creates an **sf** object (telling R which columns within
+`points` are the longitude and latitude).
+
+```{r}
+points <- st_as_sf(points, coords = c("lon", "lat"))
+```
+
+*One thing I'm uncertain about is how {sf} knows that "lon" and "lat" have special meanings;
+what if, instead, I had named these something else? Would {sf} know how to prepare to plot them in
+the correct way?* Let me know if you know the answer.
+
+## Using sf objects as data frames
+
+Attributes can be added to the **sf** object. The abovereferenced book suggests
+thinking of **sf** objects as containing spatial (e.g. lon, lat) data, and 
+attributes; in addition to/because of this, **sf** objects can be treated as 
+data frames (in many/most cases). 
+
+Here, I add names to the five points, using indexing as if the object was a data frame.
+
+```{r}
+points$name <- c("random_place_c", "random_place_b", "random_place_c", "knoxville", "lansing")
+```
+
+It's possible to drop the spatial/geometric part (class) of the object, which can be
+useful in some cases; the book mentions that the spatial part is "sticky" and can
+be difficult to ignore, even when you use the object as a data frame.
+
+```{r}
+st_drop_geometry(points)
+```
+
+Here, it is easy to use a **dplyr** verb to remove the random places:
+
+```{r}
+points %>% 
+    filter(!str_detect(name, "random_place"))
+```
+
+## Spatial operations
+
+This step was the big leap for me, but it also illustrates why it can be useful
+to treat spatial data in a special way.
+
+U.S. states can be represented with a shape representing each state's boundaries.
+
+There are a number of R packages that provide these shapes in **sf** format. I
+am using **USAboundaries** (mostly because I found it first).
+
+```{r}
+library(USAboundaries) 
+
+USA <- us_boundaries()
+```
+
+I'm not fully grasping the details, but coordinate reference systems (CRSs)
+link spatial coordinates (e.g., lon, lat) to the three-dimensional shape of the
+Earth. There are short codes for these; a common CRS is 4269 (I have more to 
+learn about this). This is important for the next step, the spatial operation.
+
+```{r}
+USA <- st_set_crs(USA, "4269")
+```
+
+`st_within()` provides information about relationships between pairs of **sf** objects. 
+There are many spatial operations in addition to `st_within()`, including `st_intersects()`
+and `st_overlaps()`.
+
+```{r}
+points_within_USA <- st_within(points, USA)
+
+points_within_USA
+```
+
+This can be turned into an integer vector (or another kind of vector, like a 
+logical vector).
+
+```{r}
+as.integer(points_within_USA)
+```
+
+This can be used to index `USA` to see which state the points in `dd` are within:
+
+```{r}
+USA[as.integer(points_within_USA), ]
+```
+
+It may be easier to specify the column with the name of the state, too
+
+```{r}
+USA[as.integer(points_within_USA), "name"]
+```
+
+## Plotting
+
+**sf** objects can be plotted with ggplot2 using the *sf geom*; here is a plot
+of the state boundaries and the five points.
+
+```{r}
+ggplot() +
+    geom_sf(data = USA) +
+    geom_sf(data = points)
+```
+
+Many packages make it easier to plot spatial data of interest. Here is a plot
+of all of the school districts in Tennessee.
+
+```{r}
+library(leaidr)
+library(mapproj)
+
+# only needed the first time
+# lea_get(path = "./leaid_sh")
+
+# 47 is the FIPS code for TN
+tn <- lea_prep(path = "./leaid_sh", fips = "47")
+
+tn_df <- ggplot2::fortify(tn)
+
+tn_map <-
+    ggplot() +
+    geom_path(data = tn, 
+              aes(x = long, y = lat, group = group),
+              color = "gray", size = .2) +
+    theme_void()
+
+tn_map_projected <- 
+    tn_map +
+    coord_map()
+
+print(tn_map_projected)
+```
+
+(h/t [Isabella Velásquez](https://ivelasq.rbind.io/)
+for making this so seamless (even with fairly ginormous files) to do with the [{leaidr} package](https://github.com/ivelasq/leaidr)).
+
+## *fin*
+
+There is a lot more (for me) to learn; this is just a start.
+
+Resources: 
+
+- [Geocomputation with R](https://geocompr.robinlovelace.net/)
+- [Drawing beautiful maps programmatically with R, sf, and ggplot2](https://www.google.com/search?q=ggplot2+sf&rlz=1C5CHFA_enUS724US724&oq=ggplot2+sf&aqs=chrome..69i57j0l5.2310j0j7&sourceid=chrome&ie=UTF-8)
+- [r-spatial](https://www.r-spatial.org/)
