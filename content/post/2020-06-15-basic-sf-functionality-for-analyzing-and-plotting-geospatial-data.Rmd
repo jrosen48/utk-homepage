@@ -136,9 +136,11 @@ USA[as.integer(points_within_USA), "name"]
 **sf** objects can be plotted with ggplot2 using the *sf geom*; here is a plot
 of the state boundaries and the five points.
 
-```{r}
+I'll plot only the continental U.S.
+
+```{r, fig.width = 6, fig.height = 6}
 ggplot() +
-    geom_sf(data = USA) +
+    geom_sf(data = filter(USA, name != "Hawaii" & name != "Alaska")) +
     geom_sf(data = points)
 ```
 

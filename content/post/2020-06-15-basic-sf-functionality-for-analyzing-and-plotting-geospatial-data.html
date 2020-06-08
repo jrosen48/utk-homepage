@@ -140,10 +140,11 @@ logical vector).</p>
 <h2>Plotting</h2>
 <p><strong>sf</strong> objects can be plotted with ggplot2 using the <em>sf geom</em>; here is a plot
 of the state boundaries and the five points.</p>
+<p>I’ll plot only the continental U.S.</p>
 <pre class="r"><code>ggplot() +
-    geom_sf(data = USA) +
+    geom_sf(data = filter(USA, name != &quot;Hawaii&quot; &amp; name != &quot;Alaska&quot;)) +
     geom_sf(data = points)</code></pre>
-<p><img src="/post/2020-06-15-basic-sf-functionality-for-analyzing-and-plotting-geospatial-data_files/figure-html/unnamed-chunk-14-1.png" width="672" /></p>
+<p><img src="/post/2020-06-15-basic-sf-functionality-for-analyzing-and-plotting-geospatial-data_files/figure-html/unnamed-chunk-14-1.png" width="576" /></p>
 <p>Many packages make it easier to plot spatial data of interest. Here is a plot
 of all of the school districts in Tennessee.</p>
 <pre class="r"><code>library(leaidr)
