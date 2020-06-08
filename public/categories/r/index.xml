@@ -17,9 +17,9 @@
       <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/2020/06/08/basic-sf-functionality-for-analyzing-and-plotting-geospatial-data/</guid>
-      <description>knitr::opts_chunk$set(message = FALSE) This post has some information on using the {sf} (or simple features) R package for analyzing and plotting geospatial data. It is mostly for myself to reference in the future. A lot of this is from the Geocomputation With R book.
+      <description>This post has some information on using the {sf} (or simple features) R package for analyzing and plotting geospatial data. It is mostly for myself to reference in the future. A lot of this is from the Geocomputation With R book.
 Loading packages, setting up Load the {sf} and {tidyverse} packages:
-library(sf) library(tidyverse)  Creating test data Create some test data. Here are five longitudes and latitudes.</description>
+library(sf) library(tidyverse)  Creating test data Create some test data. Here are five longitudes and latitudes. Two are special</description>
     </item>
     
     <item>

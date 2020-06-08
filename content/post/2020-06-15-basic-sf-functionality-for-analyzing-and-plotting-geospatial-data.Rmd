@@ -7,7 +7,7 @@ categories: [r]
 tags: []
 ---
 
-```{r}
+```{r setup, echo = FALSE}
 knitr::opts_chunk$set(message = FALSE)
 ```
 
@@ -122,13 +122,15 @@ as.integer(points_within_USA)
 This can be used to index `USA` to see which state the points in `dd` are within:
 
 ```{r}
-USA[as.integer(points_within_USA), ]
+USA[as.integer(points_within_USA), ] %>% 
+    filter(!is.na(name))
 ```
 
 It may be easier to specify the column with the name of the state, too
 
 ```{r}
-USA[as.integer(points_within_USA), "name"]
+USA[as.integer(points_within_USA), "name"] %>% 
+    filter(!is.na(name))
 ```
 
 ## Plotting
@@ -138,7 +140,7 @@ of the state boundaries and the five points.
 
 I'll plot only the continental U.S.
 
-```{r, fig.width = 6, fig.height = 6}
+```{r}
 ggplot() +
     geom_sf(data = filter(USA, name != "Hawaii" & name != "Alaska")) +
     geom_sf(data = points)

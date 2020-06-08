@@ -9,7 +9,6 @@ tags: []
 
 
 
-<pre class="r"><code>knitr::opts_chunk$set(message = FALSE)</code></pre>
 <p>This post has some information on using the
 <a href="https://r-spatial.github.io/sf/articles/sf1.html">{sf} (or simple features) R package</a>
 for analyzing and plotting geospatial data. It is mostly for myself to reference
@@ -98,43 +97,33 @@ logical vector).</p>
 <pre class="r"><code>as.integer(points_within_USA)</code></pre>
 <pre><code>## [1] NA NA NA 23 18</code></pre>
 <p>This can be used to index <code>USA</code> to see which state the points in <code>dd</code> are within:</p>
-<pre class="r"><code>USA[as.integer(points_within_USA), ]</code></pre>
-<pre><code>## Simple feature collection with 5 features and 12 fields (with 3 geometries empty)
+<pre class="r"><code>USA[as.integer(points_within_USA), ] %&gt;% 
+    filter(!is.na(name))</code></pre>
+<pre><code>## Simple feature collection with 2 features and 12 fields
 ## geometry type:  MULTIPOLYGON
 ## dimension:      XY
 ## bbox:           xmin: -90.41814 ymin: 34.98299 xmax: -81.6469 ymax: 48.21065
 ## CRS:            NA
-##      statefp  statens    affgeoid geoid stusps      name lsad        aland
-## NA      &lt;NA&gt;     &lt;NA&gt;        &lt;NA&gt;  &lt;NA&gt;   &lt;NA&gt;      &lt;NA&gt; &lt;NA&gt;           NA
-## NA.1    &lt;NA&gt;     &lt;NA&gt;        &lt;NA&gt;  &lt;NA&gt;   &lt;NA&gt;      &lt;NA&gt; &lt;NA&gt;           NA
-## NA.2    &lt;NA&gt;     &lt;NA&gt;        &lt;NA&gt;  &lt;NA&gt;   &lt;NA&gt;      &lt;NA&gt; &lt;NA&gt;           NA
-## 23        47 01325873 0400000US47    47     TN Tennessee   00 106797662267
-## 18        26 01779789 0400000US26    26     MI  Michigan   00 146455251245
-##            awater state_name state_abbr jurisdiction_type
-## NA             NA       &lt;NA&gt;       &lt;NA&gt;              &lt;NA&gt;
-## NA.1           NA       &lt;NA&gt;       &lt;NA&gt;              &lt;NA&gt;
-## NA.2           NA       &lt;NA&gt;       &lt;NA&gt;              &lt;NA&gt;
-## 23     2355188876  Tennessee         TN             state
-## 18   104031574060   Michigan         MI             state
-##                            geometry
-## NA               MULTIPOLYGON EMPTY
-## NA.1             MULTIPOLYGON EMPTY
-## NA.2             MULTIPOLYGON EMPTY
-## 23   MULTIPOLYGON (((-90.3007 35...
-## 18   MULTIPOLYGON (((-84.61622 4...</code></pre>
+##   statefp  statens    affgeoid geoid stusps      name lsad        aland
+## 1      47 01325873 0400000US47    47     TN Tennessee   00 106797662267
+## 2      26 01779789 0400000US26    26     MI  Michigan   00 146455251245
+##         awater state_name state_abbr jurisdiction_type
+## 1   2355188876  Tennessee         TN             state
+## 2 104031574060   Michigan         MI             state
+##                         geometry
+## 1 MULTIPOLYGON (((-90.3007 35...
+## 2 MULTIPOLYGON (((-84.61622 4...</code></pre>
 <p>It may be easier to specify the column with the name of the state, too</p>
-<pre class="r"><code>USA[as.integer(points_within_USA), &quot;name&quot;]</code></pre>
-<pre><code>## Simple feature collection with 5 features and 1 field (with 3 geometries empty)
+<pre class="r"><code>USA[as.integer(points_within_USA), &quot;name&quot;] %&gt;% 
+    filter(!is.na(name))</code></pre>
+<pre><code>## Simple feature collection with 2 features and 1 field
 ## geometry type:  MULTIPOLYGON
 ## dimension:      XY
 ## bbox:           xmin: -90.41814 ymin: 34.98299 xmax: -81.6469 ymax: 48.21065
 ## CRS:            NA
-##           name                       geometry
-## NA        &lt;NA&gt;             MULTIPOLYGON EMPTY
-## NA.1      &lt;NA&gt;             MULTIPOLYGON EMPTY
-## NA.2      &lt;NA&gt;             MULTIPOLYGON EMPTY
-## 23   Tennessee MULTIPOLYGON (((-90.3007 35...
-## 18    Michigan MULTIPOLYGON (((-84.61622 4...</code></pre>
+##        name                       geometry
+## 1 Tennessee MULTIPOLYGON (((-90.3007 35...
+## 2  Michigan MULTIPOLYGON (((-84.61622 4...</code></pre>
 </div>
 <div id="plotting" class="section level2">
 <h2>Plotting</h2>
@@ -144,7 +133,7 @@ of the state boundaries and the five points.</p>
 <pre class="r"><code>ggplot() +
     geom_sf(data = filter(USA, name != &quot;Hawaii&quot; &amp; name != &quot;Alaska&quot;)) +
     geom_sf(data = points)</code></pre>
-<p><img src="/post/2020-06-15-basic-sf-functionality-for-analyzing-and-plotting-geospatial-data_files/figure-html/unnamed-chunk-14-1.png" width="576" /></p>
+<p><img src="/post/2020-06-15-basic-sf-functionality-for-analyzing-and-plotting-geospatial-data_files/figure-html/unnamed-chunk-13-1.png" width="672" /></p>
 <p>Many packages make it easier to plot spatial data of interest. Here is a plot
 of all of the school districts in Tennessee.</p>
 <pre class="r"><code>library(leaidr)
@@ -173,7 +162,7 @@ tn_map_projected &lt;-
     coord_map()
 
 print(tn_map_projected)</code></pre>
-<p><img src="/post/2020-06-15-basic-sf-functionality-for-analyzing-and-plotting-geospatial-data_files/figure-html/unnamed-chunk-15-1.png" width="672" /></p>
+<p><img src="/post/2020-06-15-basic-sf-functionality-for-analyzing-and-plotting-geospatial-data_files/figure-html/unnamed-chunk-14-1.png" width="672" /></p>
 <p>(h/t <a href="https://ivelasq.rbind.io/">Isabella Velásquez</a>
 for making this so seamless (even with fairly ginormous files) to do with the <a href="https://github.com/ivelasq/leaidr">{leaidr} package</a>).</p>
 </div>
