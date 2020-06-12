@@ -146,6 +146,9 @@ ggplot() +
     geom_sf(data = points)
 ```
 
+The projection (and theme) of the map can certainly be improved; this is more to 
+demonstrate that {sf} objects can be plotted with {ggplot2}.
+
 Many packages make it easier to plot spatial data of interest. Here is a plot
 of all of the school districts in Tennessee.
 
