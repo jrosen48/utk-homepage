@@ -23,7 +23,7 @@ thinks about the world in terms of null hypothesis statistical testing, which
 can have a counter-intuitive logic and produces results which can be challenging
 to properly interpret
 - Learners bring with them ideas about the world which can serve as resources 
-for their learning; these ideas can be used within in a Bayesian framework for
+for their learning; these ideas can be used within a Bayesian framework for
 making sense of the world as their "priors" about what they think is happening
 - Science teachers care most about their students' developing an understanding
 of core science ideas and practices, instead of formal statistical models, but 
