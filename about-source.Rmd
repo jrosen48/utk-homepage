@@ -586,7 +586,7 @@ Rosenberg, J. M., Dyer, E. B., Anderson, D. J., & Fischer, C. (September, 2020).
 Dyer, E. B., Rosenberg, J. M., Bosch, N., Krist, C., & D'Angelo, C. (September, 2020). *Better together? Initial findings and implications from combining qualitative coding and computational methods to analyze classroom audiovisual data*. Presentation at the AERA Satellite Conference on Educational Data Science, Stanford, CA.
 
 \hangindent=2em
-Rosenberg, J. M., Qinyun, L., Xu, R., Maroulis, S., & Frank, K. A. (July, 2020). *Expanding R into education*. Presentation at the useR conference, St. Louis, MO.
+Estrellado, R. A., Bovee, E. A., Mostipak, J., Rosenberg, J. M., & Velásquez, I. C. (July, 2020). *Expanding R into education*. Presentation at the useR conference, St. Louis, MO.
 
 \hangindent=2em
 Rosenberg, J. M., Qinyun, L., Xu, R., Maroulis, S., & Frank, K. A. (July, 2020). *The konfound R package and Shiny app for robustness analysis*. Presentation at the useR conference, St. Louis, MO.

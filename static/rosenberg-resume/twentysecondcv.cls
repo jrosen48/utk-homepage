@@ -45,7 +45,7 @@
 \def\endfirstpage{\newpage\newgeometry{left=1.5cm,top=1.5cm,right=1.5cm,bottom=1.5cm}}
 \usepackage{fancyhdr}
 \pagestyle{fancy}
-\lfoot{\sf\textcolor[gray]{0.4}{Curriculum Vitae: \@name}}
+\lfoot{\sf\textcolor[gray]{0.4}{Resume: \@name}}
 \rfoot{\sf\textcolor[gray]{0.4}{\thepage}}
 \cfoot{}
 \def\headrule{}
