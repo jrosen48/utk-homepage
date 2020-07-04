@@ -1,0 +1,67 @@
+---
+name: Marie
+surname: Curie
+position: "Professor"
+address: "School of Physics & Chemistry, École Normale Supérieure"
+phone: +1 22 3333 4444
+www: mariecurie.com
+email: "Marie.Curie@ens.fr"
+twitter: mariecurie
+github: mariecurie
+linkedin: mariecurie
+date: "`r format(Sys.time(), '%B %Y')`"
+output: vitae::awesomecv
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(vitae)
+```
+
+# Highlights
+
+ * Experienced data scientist and computational social scientist
+ * Develop of open-source software, including the widely-used R package tidyLPA
+ * Manager of an educational data science research group with multiple NSF grants
+
+# Experience
+
+```{r}
+library(tibble)
+tribble(
+  ~ Degree, ~ Year, ~ Institution, ~ Where,
+  "Assistant Professor, STEM Education", "2018-2020", "University of Tennessee", "Knoxville, TN",
+) %>% 
+  detailed_entries(Degree, Year, Institution, Where)
+```
+
+# Education
+
+```{r}
+library(tibble)
+tribble(
+  ~ Degree, ~ Year, ~ Institution, ~ Where,
+  "PhD, Educational Psychology and Educational Technology", "2018", "Michigan State University", "East Lansing, MI",
+  "MA, Education", "2014", "Michigan State University", "East Lansing, MI",
+  "BS, Biology", "2012", "University of North Carolina, Asheville", "Asheville, NC",
+) %>% 
+  detailed_entries(Degree, Year, Institution, Where)
+```
+
+# External Funding
+
+```{r}
+
+```
+
+# Select Publications
+
+```{r}
+bibliography_entries("curie.bib")
+```
+
+# Select Presentations
+
+```{r}
+bibliography_entries("curie.bib")
+```
