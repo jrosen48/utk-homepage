@@ -71,8 +71,8 @@ this year. In a few words, so far, this year has been---roughly in this order:
 - disordered 
 - relieving
 - overwhelming  
-- sad  
 - sweet  
+- sad  
 - revealing  
 - inspiring  
 - stressful  
