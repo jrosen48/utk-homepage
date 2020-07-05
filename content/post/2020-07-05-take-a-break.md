@@ -7,7 +7,7 @@ categories: []
 tags: []
 ---
 
-This spring and the beginning of summer (and this year) feels impossible to
+This spring and the beginning of summer felt (and this year feels) impossible to
 summarize.
 
 It started off a little personally tumultuous; beginning in October (of last
@@ -25,7 +25,7 @@ He had something like six ear infections during the December, 2019-March, 2020
 period. Little missed a lot of daycare and we missed a ton of work. We were also
 constantly sick; my wife became more sick than she'd been since college (we
 think it was the flu). I felt like I couldn't get healthy. Weekends felt as
-hard anas weekdays, and we didn't see any family between the end of winter break
+hard as weekdays, and we didn't see any family between the end of winter break
 and mid-March.
 
 Then . . .
@@ -50,11 +50,13 @@ a month. And, the little one was healthy, we rested, spent time together, and
 tried to make sense of things. My parents eventually left (for Michigan - where
 things had finally become better), and, we had a few quiet weeks. It was a weird
 combination of a sweet time with a stressful national and international
-catastrophe. Somewhere in between all of this, my co-authors and I sent our book
-to our publisher and finished revisions for a long worked on article.
+catastrophe. My son and I went camping together for the first time; it was very
+meaningful to me in a way that I cannot easily sum up. Workwise, somewhere in 
+between all of this, my co-authors and I sent our book to our publisher and 
+finished revisions for a long worked on article.
 
 Then, George Floyd was murdered, and a personal period of learning, discussion,
-and (the beginning of) action. It was heart-wrenching and then somewhat
+and (the beginning of) action began. It was heart-wrenching and then somewhat
 encouraging.
 
 My wife began a pretty intense summer course schedule for her Information
