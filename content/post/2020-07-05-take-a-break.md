@@ -52,8 +52,8 @@ a month. And, the little one was healthy, we rested, spent time together, and
 tried to make sense of things. My parents eventually left (for Michigan - where
 things had finally become better), and, we had a few quiet weeks. It was a weird
 combination of a sweet time with a stressful national and international
-catastrophe. Somewhere in between all of this, I sent our book to our publisher
-and finished revisions for a long worked on article.
+catastrophe. Somewhere in between all of this, my co-authors and I sent our book
+to our publisher and finished revisions for a long worked on article.
 
 Then, George Floyd was murdered, and a personal period of learning, discussion,
 and the beginning of action. My wife began a pretty intense summer course schedule for her
