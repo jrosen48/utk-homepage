@@ -59,22 +59,21 @@ Then, George Floyd was murdered, and a personal period of learning, discussion,
 and action began. My wife began a pretty intense summer course schedule for her
 Information Sciences graduate program, including a four-week mini-term class. I
 wasn't (and am not) teaching, but things felt like they somehow picked up pace,
-with a conference, a weeklong teacher PD, another conference, and a one-day
-workshop. Research on other projects, especially those wth students working
-and/or with time to dedicate in the summer, accelerated. I was involved in
-service for a section of an AERA Division and was reviewing manuscripts.
+with a conference, a weeklong teacher PD, another conference, and a one-day workshop. Research
+on other projects, especially those wth students working and/or with time to
+dedicate in the summer, accelerated. I was involved in service for a section of
+an AERA Division and was reviewing manuscripts.
 
-nd . . . this sort of brings me to back to the impossibility of summarizing this
-year. In a few words, so far, this year has been---roughly in this order: sick,
-disordered, a relief, overwhelming, sweet, revealing, sad, inspiring, and
-stressful. I've always felt like I deal well in stress (relaxing is more of a
-challenge for me), but I've struggled, a bit, to make sense of my place in the
-world and my experiences over the past few months.
-
-I won't try; I will just share this as a way of reflecting on and documenting
-some of the past six months or so. I will try to take a break over the next few
-weeks, before fall begins. I know this past year has been *much* harder (in many
-cases, unimaginably harder) on many than it has been for me (and my wife and
-little one); actually, I'm lucky that words like "sweet" could make their way
-into my thinking over these past six months, but time with family was that, and
-so for that I feel grateful.
+And . . . this sort of brings me to back to the impossibility of summarizing
+this year. In a few words, so far, this year has been---roughly in this order:
+sick, disordered, a relief, overwhelming, sweet, revealing, sad, inspiring,
+stressful, and exhausting. I've always felt like I deal well in stress (relaxing
+is more of a challenge for me), but I've struggled, a bit, to make sense of my
+place in the world and my experiences over the past few months. I won't try; I
+will just share this as a way of reflecting on and documenting some of the past
+six months or so. I will try to take a break over the next few weeks, before
+fall begins. I know this past year has been *much* harder (in many cases,
+unimaginably harder) on many than it has been for me (and my wife and little
+one); actually, I'm lucky that words like "sweet" could make their way into my
+thinking over these past six months, but time with family was that, and so for
+that I feel grateful.
