@@ -134,6 +134,8 @@ of the state boundaries and the five points.</p>
     geom_sf(data = filter(USA, name != &quot;Hawaii&quot; &amp; name != &quot;Alaska&quot;)) +
     geom_sf(data = points)</code></pre>
 <p><img src="/post/2020-06-15-basic-sf-functionality-for-analyzing-and-plotting-geospatial-data_files/figure-html/unnamed-chunk-13-1.png" width="672" /></p>
+<p>The projection (and theme) of the map can certainly be improved; this is more to
+demonstrate that {sf} objects can be plotted with {ggplot2}.</p>
 <p>Many packages make it easier to plot spatial data of interest. Here is a plot
 of all of the school districts in Tennessee.</p>
 <pre class="r"><code>library(leaidr)

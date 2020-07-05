@@ -144,7 +144,7 @@ C.D. Owen High School, Swannanoa, NC
 
 # Fellowships and Awards
 
-2020, Southeastern Conference (SEC) Visiting Faculty Travel Grant Program
+2020, Southeastern Conference (SEC) Visiting Faculty Travel Grant Program (Host: Annelise Russell, Martin School of Public Policy, University of Kentucky)
 
 2019-2020, Initiative for the Future Faculty Development Program, University of Tennessee, Knoxville (UTK)
 
@@ -181,15 +181,15 @@ C.D. Owen High School, Swannanoa, NC
 
 ## Book
 
-Estrellado, R. A., Freer, E. A.,  Mostipak, J., Rosenberg, J. M., & Velásquez, I. C. (in press). *Data science in education using R*. London, England: Routledge. *Nb.* All authors contributed equally. http://www.datascienceineducation.com/ <a href="https://github.com/data-edu/data-science-in-education"><img src = "/logos/github.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
+Estrellado, R. A., Freer, E. A.,  Mostipak, J., Rosenberg, J. M., & Velásquez, I. C. (in press). *Data science in education using R*. London, England: Routledge. *Nb.* All authors contributed equally. http://www.datascienceineducation.com/ <a href="https://github.com/data-edu/data-science-in-education"><img src = "/logos/github.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a> https://www.routledge.com/Data-Science-in-Education-Using-R/Estrellado-Freer-Mostipak-Rosenberg-Velasquez/p/book/9780367422257
 
 ## Peer-Reviewed Journal Articles
 
 Rosenberg, J. M., Reid, J., Dyer, E., Koehler, M. J., Fischer, C., & McKenna, T. J. (in press). Idle chatter or compelling conversation? The potential of the social media-based #NGSSchat network as a support for science education reform efforts. *Journal of Research in Science Teaching*. <a href = "https://osf.io/uwza6/download"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
-Carpenter, J., Rosenberg, J. M., Dousay, T., Romero-Hall, E., Trust, T., Kessler, A., Phillips, M., Morrison, S., Fischer, C. & Krutka, D. (in press). What should teacher educators know about technology? Perspectives and self-sssessments. *Teaching and Teacher Education*.
+Carpenter, J., Rosenberg, J. M., Dousay, T., Romero-Hall, E., Trust, T., Kessler, A., Phillips, M., Morrison, S., Fischer, C. & Krutka, D. (in press). What should teacher educators know about technology? Perspectives and self-sssessments. *Teaching and Teacher Education*. https://www.sciencedirect.com/science/article/abs/pii/S0742051X19314908
 
-Ranellucci, J., Rosenberg, J. M., & Poitras, E. (in press). Exploring pre-service teachers’ use of technology: The technology acceptance model and expectancy-value theory. *Journal of Computer Assisted Learning*. <a href = "https://osf.io/8q2vk/"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> <a href = "https://osf.io/rgpeh/"><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
+Ranellucci, J., Rosenberg, J. M., & Poitras, E. (advance online publication). Exploring pre-service teachers’ use of technology: The technology acceptance model and expectancy-value theory. *Journal of Computer Assisted Learning*. http://dx.doi.org/10.1111/jcal.12459 <a href = "https://osf.io/8q2vk/"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> <a href = "https://osf.io/rgpeh/"><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
 Schmidt, J. A., Beymer, P. N., Rosenberg, J. M., Naftzger, N. J., & Shumow, L. (advance online publication). Experiences, Activities, and personal characteristics as predictors of engagement in STEM-focused summer programs. *Journal of Research in Science Teaching*. https://onlinelibrary.wiley.com/doi/full/10.1002/tea.21630
 
@@ -457,7 +457,7 @@ Rosenberg, J. M., Dyer, E. B., Anderson, D. J., & Fischer, C. (September, 2020).
 
 Dyer, E. B., Rosenberg, J. M., Bosch, N., Krist, C., & D'Angelo, C. (September, 2020). *Better together? Initial findings and implications from combining qualitative coding and computational methods to analyze classroom audiovisual data*. Presentation at the AERA Satellite Conference on Educational Data Science, Stanford, CA.
 
-Rosenberg, J. M., Qinyun, L., Xu, R., Maroulis, S., & Frank, K. A. (July, 2020). *Expanding R into education*. Presentation at the useR conference, St. Louis, MO.
+Estrellado, R. A., Bovee, E. A., Mostipak, J., Rosenberg, J. M., & Velásquez, I. C. (July, 2020). *Expanding R into education*. Presentation at the useR conference, St. Louis, MO.
 
 Rosenberg, J. M., Qinyun, L., Xu, R., Maroulis, S., & Frank, K. A. (July, 2020). *The konfound R package and Shiny app for robustness analysis*. Presentation at the useR conference, St. Louis, MO.
 
@@ -494,6 +494,9 @@ Rosenberg, J. M. (2017, April). *Introduction to R for Data Analysis*. Presentat
 Rosenberg, J. M. (March, 2016). *An introduction to R for programming and statistical analysis in education*. Georgia Southern University College of Education, Statesboro, GA.
 
 # Outreach and Engagement
+
+Rosenberg, J. M. (2020, April). *An informal, open introduction to using R Markdown in education*. Virtual workshop. https://www.youtube.com/watch?v=BA1YFvmXCXQ&t=57s
+
 
 Rosenberg, J. M. (2019, May). *Working with data in education: Using data and supporting students to use data*. Workshop carried out for teachers at Knoxville Jewish Day School. https://docs.google.com/presentation/d/1uSdRvF2GjhUpO2fCHZIUdXmf0texzczGGlbzmZBgggw/edit?usp=sharing 
 
@@ -586,7 +589,24 @@ Reviewer, Proposals from Knox County Schools students for the NASA Student Space
 
 ### Ad-hoc Journal Article Reviews
 
-AERA Open (2019), Asia-Pacific Education Researcher (2018), Australasian Journal of Educational Technology (2; 2018), British Journal of Educational Technology (2016), Computers & Education (2016, 2017, 2018, 2020), Contemporary Educational Psychology (2018), Contemporary Issues in Technology and Teacher Education (2015), Education Sciences (2; 2019), E-Learning and Digital Media (2; 2016), Journal of Educational Technology & Society (2017), Journal of the Learning Sciences (2019), Journal of Open Source Education (2; 2019), Journal of Open Source Software (2018), Journal of Research in Science Teaching (2019), Journal of Science Education and Technology (2; 2019; 1: 2020), Journal of STEM Education Research (2019), TechTrends (2; 2019)  
+AERA Open (2019)  
+Asia-Pacific Education Researcher (2018)  
+Australasian Journal of Educational Technology (2; 2018)  
+British Journal of Educational Technology (2016)  
+Computers & Education (2016, 2017, 2018, 2020)  
+Contemporary Educational Psychology (2018)  
+Contemporary Issues in Technology and Teacher Education (2015) 
+Educational Researcher (2020)  
+Education Sciences (2; 2019)  
+E-Learning and Digital Media (2; 2016)  
+Journal of Educational Technology & Society (2017)  
+Journal of the Learning Sciences (2019)  
+Journal of Open Source Education (2; 2019)  
+Journal of Open Source Software (2018)
+Journal of Research in Science Teaching (2019)  
+Journal of Science Education and Technology (2; 2019; 2020)  
+Journal of STEM Education Research (2019)  
+TechTrends (2; 2019)  
 
 ### College-related Service 
 
@@ -598,7 +618,7 @@ Organizer, Quantitative Methods Research Group
 
 *University of Tennessee, Knoxville*
 
-Mentor in AERA Bootcamp (2019)
+Mentor for AERA Bootcamp (2019)
 
 VolsTeach major ad-hoc committee (2019-)
 
@@ -612,9 +632,7 @@ Search Committee Member, Program Specialist, Master of Arts in Educational Techn
 
 Advisor for Doctoral students: Jennifer Longnecker (Co-advisor with Amy Broemmel), Michael Mann (co-advisor with Kristin Rearden), Omiya Sultana (co-advisor with Lynn Hodge)
 
-Committee member for a Doctoral student: Shande King (2019-)
-
-Committee member for Master's degree students: Zachary Clark, Lauren Dukes, Alex Edwards, Ana Michaelis, and Jessica Murphy (2018-2019)
+Committee member for a Doctoral student: Shande King, Matthew Hensley  
 
 *Michigan State University*
 
