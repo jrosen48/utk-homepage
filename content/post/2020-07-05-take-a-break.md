@@ -50,10 +50,9 @@ a month. And, the little one was healthy, we rested, spent time together, and
 tried to make sense of things. My parents eventually left (for Michigan - where
 things had finally become better), and, we had a few quiet weeks. It was a weird
 combination of a sweet time with a stressful national and international
-catastrophe. My son and I went camping together for the first time; it was very
-meaningful to me in a way that I cannot easily sum up. Workwise, somewhere in 
-between all of this, my co-authors and I sent our book to our publisher and 
-finished revisions for a long worked on article.
+catastrophe. My son and I went camping together for the first time at Frozen 
+Head State Park; it was meaningful in a way I can't easily sum up. We've been to [GSMNP](https://www.nps.gov/grsm/index.htm) four times and to [Obed](https://www.nps.gov/obed/index.htm) for the first time. Workwise, somewhere in between all of this, my co-authors and I sent our book to our publisher and 
+finished revisions for a long worked on article. Work continued. I have Zoomed.
 
 Then, George Floyd was murdered, and a personal period of learning, discussion,
 and (the beginning of) action began. It was heart-wrenching and then somewhat
