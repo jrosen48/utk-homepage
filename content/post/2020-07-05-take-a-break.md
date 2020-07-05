@@ -7,8 +7,8 @@ categories: []
 tags: []
 ---
 
-This spring and the beginning of summer (and this year feels impossible to
-summarize).
+This spring and the beginning of summer (and this year) feels impossible to
+summarize.
 
 It started off a little personally tumultuous; beginning in October (of last
 year), our little one started to get colds---we think from daycare. In
