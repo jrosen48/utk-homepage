@@ -56,7 +56,7 @@ catastrophe. Somewhere in between all of this, I sent our book to our publisher
 and finished revisions for a long worked on article.
 
 Then, George Floyd was murdered, and a personal period of learning, discussion,
-and action began. My wife began a pretty intense summer course schedule for her
+and the beginning of action. My wife began a pretty intense summer course schedule for her
 Information Sciences graduate program, including a four-week mini-term class. I
 wasn't (and am not) teaching, but things felt like they somehow picked up pace,
 with a conference, a weeklong teacher PD, another conference, and a one-day workshop. Research
@@ -66,8 +66,20 @@ an AERA Division and was reviewing manuscripts.
 
 And . . . this sort of brings me to back to the impossibility of summarizing
 this year. In a few words, so far, this year has been---roughly in this order:
-sick, disordered, a relief, overwhelming, sweet, revealing, sad, inspiring,
-stressful, and exhausting. I've always felt like I deal well in stress (relaxing
+
+- sick  
+- disordered 
+- relieving
+- overwhelming  
+- sad  
+- sweet  
+- revealing  
+- inspiring  
+- stressful  
+- exhausting
+
+The personal and collective feel like they'be blended together this last year; 
+maybe this is my circumstance. I've always felt like I deal well in stress (relaxing
 is more of a challenge for me), but I've struggled, a bit, to make sense of my
 place in the world and my experiences over the past few months. I won't try; I
 will just share this as a way of reflecting on and documenting some of the past
