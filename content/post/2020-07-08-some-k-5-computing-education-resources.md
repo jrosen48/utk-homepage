@@ -1,10 +1,11 @@
 ---
-title: Some K-5 computing education resources (draft)
-author: Joshua Rosenberg
+title: "Some K-5 computing education resources (draft)"
+author: "Joshua Rosenberg"
 date: '2020-07-08'
-slug: some-k-5-computing-education-resources
+output: pdf_document
 categories: []
 tags: []
+slug: some-k-5-computing-education-resources
 ---
 
 # Background 
@@ -21,13 +22,15 @@ This post includes some K-5 *computing education* (or *computer science educatio
 
 # Single Activities:
 
+- Girls Who Code: https://girlswhocode.com/programs/code-at-home
 - Scratch https://scratch.mit.edu/
 - Data Science Games: https://learn.concord.org/dynamic-data-science
 - CS First (also a curriculum): https://csfirst.withgoogle.com/c/cs-first/en/curriculum.html
 - CS Unplugged: https://csunplugged.org/en/resources/
 - Action Fractions: https://www.canonlab.org/actionfractionslessons
-- Frog Pond: https://tidal.northwestern.edu/frogpond/ (agent-based)
-- Code.org's Hour of Code: https://code.org/hourofcode/overview
+- Frog Pond: https://tidal.northwestern.edu/frogpond/ (agent-based)  
+- Code.org's Hour of Code: https://code.org/hourofcode/overview  
+- NetLogo Web: https://www.netlogoweb.org  
 
 # Introductory readings
 
