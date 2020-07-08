@@ -80,14 +80,13 @@ this year. In a few words, so far, this year has been---roughly in this order:
   - stressful
   - exhausting
 
-The personal and collective feel like they'be blended together this last year;
+The personal and collective feel like they've blended together this last year;
 maybe this is my circumstance. I've always felt like I deal well in stress
 (relaxing is more of a challenge for me), but I've struggled, a bit, to make
-sense of my place in the world and my experiences over the past few months. I
-won't try; I will just share this as a way of reflecting on and documenting some
-of the past six months or so. I will try to take a break over the next few
-weeks, before fall begins. I know this past year has been *much* harder (in many
-cases, unimaginably harder) on many than it has been for me (and my wife and
-little one); actually, I'm lucky that words like "sweet" could make their way
-into my thinking over these past six months, but time with family was that, and
-so for that I feel grateful.
+sense of my experiences over the past few months. I won't try; I will just share
+this as a way of reflecting on and documenting some of the past six months or
+so. I will try to take a break over the next few weeks, before fall begins. I
+know this past year has been *much* harder (in many cases, unimaginably harder)
+on many than it has been for me (and my wife and little one); actually, I'm
+grateful that words like "sweet" could make their way into my thinking over
+these past six months.
