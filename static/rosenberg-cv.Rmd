@@ -3,11 +3,11 @@ title: Joshua M. Rosenberg
 author: ''
 layout: page
 permalink: /about/
-fontsize: 11pt
+fontsize: 14
 output:
-  pdf_document:
-    includes:
-      in_header: "preamble.tex"
+  blogdown::html_page:
+    toc: false
+    toc_depth: 1
 ---
 
 ```{r, include = FALSE, eval = FALSE}
@@ -58,26 +58,26 @@ render_toc <- function(
     knitr::asis_output(paste(x, collapse = "\n"))
 }
 ```
-\begin{center} Curriculum Vitae
+# Curriculum Vitae
 
 
 ```{r, echo = FALSE, eval = FALSE}
 render_toc('static/rosenberg-cv.Rmd')
 ```
 
-\hfill
+# Contact Information
 
-Assistant Professor, STEM Education  \linebreak
-Department of Theory and Practice in Teacher Education  \linebreak
-The University of Tennessee, Knoxville  \linebreak
-420 Claxton, 1122 Volunteer Blvd., Knoxville, TN 37996  \linebreak
-Phone: 865-974-5973\linebreak
-Email: jmrosenberg@utk.edu\linebreak
-Web: https://joshuamrosenberg.com\linebreak
+Assistant Professor, STEM Education  
+Department of Theory and Practice in Teacher Education  
+The University of Tennessee, Knoxville  
+420 Claxton, 1122 Volunteer Blvd., Knoxville, TN 37996  
+865-974-5973 | [jmrosenberg@utk.edu](jmrosenberg@utk.edu)  
+Homepage: https://joshuamrosenberg.com  
+Research Group: https://makingdatasciencecount.com  
 Google Scholar: https://scholar.google.com/citations?hl=en&user=nxVowRQAAAAJ  
 
 # Research Interests
-\emph{Research interests:} \end{center}
+
 Science education, science teacher education, data science education, computer science education, computational research methods
 
 # Education

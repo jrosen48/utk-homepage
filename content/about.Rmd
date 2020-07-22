@@ -75,6 +75,7 @@ The University of Tennessee, Knoxville
 865-974-5973 | [jmrosenberg@utk.edu](jmrosenberg@utk.edu)  
 Homepage: https://joshuamrosenberg.com  
 Research Group: https://makingdatasciencecount.com  
+Google Scholar: https://scholar.google.com/citations?hl=en&user=nxVowRQAAAAJ  
 
 # Research Interests
 
@@ -273,7 +274,7 @@ Rosenberg, J. M., Koehler, M. J., Akcaoglu, M., Greenhalgh, S. P. & Hamilton, E.
  
 Greenhalgh, S. P., Rosenberg, J. M. & Wolf, L. G. (2016). For every tweet there is a purpose: Twitter within (and beyond) an online graduate program. In *Proceedings of Society for Information Technology & Teacher Education International Conference 2016* (pp. 2044-2049). Chesapeake, VA: Association for the Advancement of Computing in Education (AACE). Retrieved from http://www.editlib.org/p/171972 <a href="https://scholar.google.com/citations?user=nxVowRQAAAAJ&hl=en#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DnxVowRQAAAAJ%26cstart%3D20%26pagesize%3D80%26citation_for_view%3DnxVowRQAAAAJ%3AsSrBHYA8nusC%26tzom%3D300"><img src = "/logos/google-scholar-1.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
 
-Schwarz, C. V., Ke, L., Lee, M, & Rosenberg, J. M. (2014). Developing mechanistic explanations of phenomena: Case studies of two fifth grade students’ epistemologies in practice over time. In J. L. Polman, E. A. Kyza, K. O’Neill, I. Tabak, W. R. Penuel, A. S. Jurow, . . . L. D’Amico (Eds.), *Learning and becoming in practice: The international conference of the learning sciences (ICLS) 2014* (Vol. 1, pp. 182-189). Boulder, CO: ISLS. http://www.isls.org/icls2014/Proceedings.html <a href="<a href="https://scholar.google.com/citations?user=nxVowRQAAAAJ&hl=en#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DnxVowRQAAAAJ%26citation_for_view%3DnxVowRQAAAAJ%3A5Ul4iDaHHb8C%26tzom%3D300"><img src = "/logos/google-scholar-1.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>"><img src = "/logos/google-scholar-1.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
+Schwarz, C. V., Ke, L., Lee, M, & Rosenberg, J. M. (2014). Developing mechanistic explanations of phenomena: Case studies of two fifth grade students’ epistemologies in practice over time. In J. L. Polman, E. A. Kyza, K. O’Neill, I. Tabak, W. R. Penuel, A. S. Jurow, . . . L. D’Amico (Eds.), *Learning and becoming in practice: The international conference of the learning sciences (ICLS) 2014* (Vol. 1, pp. 182-189). Boulder, CO: ISLS. http://www.isls.org/icls2014/Proceedings.html <a href="https://scholar.google.com/citations?user=nxVowRQAAAAJ&hl=en#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DnxVowRQAAAAJ%26citation_for_view%3DnxVowRQAAAAJ%3A5Ul4iDaHHb8C%26tzom%3D300"><img src = "/logos/google-scholar-1.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>">
 
 Rosenberg, J. M., & Koehler, M. (2014). Context and Technological Pedagogical Content Knowledge: A content analysis. In M. Searson & M. Ochoa (Eds.), *Proceedings of Society for Information Technology & Teacher Education International Conference 2014* (pp. 2412-2417). Chesapeake, VA: AACE. Retrieved from http://www.editlib.org/p/131183 <a href="https://scholar.google.com/citations?user=nxVowRQAAAAJ&hl=en#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DnxVowRQAAAAJ%26citation_for_view%3DnxVowRQAAAAJ%3A2osOgNQ5qMEC%26tzom%3D300"><img src = "/logos/google-scholar-1.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a> 
 
@@ -496,8 +497,7 @@ Rosenberg, J. M. (March, 2016). *An introduction to R for programming and statis
 # Outreach and Engagement
 
 Rosenberg, J. M. (2020, April). *An informal, open introduction to using R Markdown in education*. Virtual workshop. https://www.youtube.com/watch?v=BA1YFvmXCXQ&t=57s
-
-
+s
 Rosenberg, J. M. (2019, May). *Working with data in education: Using data and supporting students to use data*. Workshop carried out for teachers at Knoxville Jewish Day School. https://docs.google.com/presentation/d/1uSdRvF2GjhUpO2fCHZIUdXmf0texzczGGlbzmZBgggw/edit?usp=sharing 
 
 Trout-Fryxell, B., & Rosenberg, J. M. (2020, February). *Authentic science in the classroom with MEGA:BITESS*. Presentation at the Knox County Schools Science Department District Learning Day, Knoxville, TN.

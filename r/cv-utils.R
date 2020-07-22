@@ -12,26 +12,6 @@ lines[65] <- "render_toc('static/rosenberg-cv.Rmd')"
 # lines[63] <- ""
 l <- which(stringr::str_detect(lines, "Resource") & stringr::str_detect(lines, "Logo"))
 lines <- lines[-c(l:(l + 5))]
-#lines <- str_replace(lines, "\section{Curriculum Vitae}\label{curriculum-vitae}}", 
-#                     "\begin{center}\section{Curriculum Vitae}\label{curriculum-vitae}}\end{center}")
-    
-# prepping final content
-lines[6] <- "fontsize: 11pt"
-lines[8] <- "  pdf_document:"
-lines[9] <- "    includes:"
-lines[10] <- '      in_header: "preamble.tex"'
-lines[61] <- "\\begin{center} Curriculum Vitae"
-lines[68] <- "\\hfill"
-lines[78] <- ""
-lines[69] <= "\\justify"
-lines[80] <- paste0("\\emph{Research interests:} ", lines[80], "\\end{center}")
-lines[70] <- paste0(lines[70], "\\linebreak")
-lines[71] <- paste0(lines[71], "\\linebreak")
-lines[72] <- paste0(lines[72], "\\linebreak")
-lines[73] <- paste0(lines[73], "\\linebreak")
-lines[74] <- paste0("Phone: 865-974-5973\\linebreak")
-lines[75] <- paste0("Email: jmrosenberg@utk.edu\\linebreak")
-lines[76] <- paste0("Web: https://joshuamrosenberg.com\\linebreak")
 readr::write_lines(unlist(lines), 'static/rosenberg-cv.Rmd')
 rmarkdown::render("static/rosenberg-cv.Rmd", output_format = "pdf_document")
 file.copy("static/rosenberg-cv.pdf", "static/cv/rosenberg-cv.pdf", overwrite=TRUE)
@@ -40,8 +20,8 @@ file.copy("static/rosenberg-cv.pdf", "static/cv/rosenberg-cv.pdf", overwrite=TRU
 # file.copy("about-source.Rmd", "content/about-for-cv.Rmd", overwrite=TRUE)
 # lines <- readLines("content/about-for-cv.Rmd")
 # lines[65] <- ""
-# lines[13] <- "```{r, include = FALSE, eval = FALSE}"
-# lines[64] <- "```{r, echo = FALSE, eval = FALSE}"
+# lines[15] <- "```{r, include = FALSE, eval = FALSE}"
+# lines[67] <- "```{r, echo = FALSE, eval = FALSE}"
 # lines <- lines[lines!="\\begin"]
 # lines <- lines[lines!="\\begin"]
 # lines <- lines[lines!="\\textit"]
@@ -50,16 +30,18 @@ file.copy("static/rosenberg-cv.pdf", "static/cv/rosenberg-cv.pdf", overwrite=TRU
 # lines <- lines[lines!="\\hangindent=2em"]
 # lines <- lines[lines!="\\center"]
 # lines <- lines[lines!="\\endgroup"]
-# lines <- stringr::str_replace_all(lines, "<.*?>", "")
-# 
 # writeLines(unlist(lines), "static/cv/rosenberg-cv-for-word.Rmd")
-# 
-# # word_document:
-# #     reference_docx: Rosenberg-CV-template.docx
-# 
 # rmarkdown::render("static/cv/rosenberg-cv-for-word.Rmd", output_format = "word_document")
 
-
+# output:
+#     html_document:
+#     df_print: paged
+# blogdown::html_page:
+#     keep_md: no
+# pdf_document: default
+# word_document:
+#     reference_docx: Rosenberg-CV-template.docx
+# 
 # ## For HTML
 file.copy("about-source.Rmd", "content/about.Rmd", overwrite=TRUE)
 
@@ -82,4 +64,3 @@ cv_html <- cv_html[cv_html!="\\hangindent=2em"]
 cv_html <- cv_html[cv_html!="\\center"]
 cv_html <- cv_html[cv_html!="\\endgroup"]
 readr::write_lines(unlist(cv_html), "content/about.Rmd")
-
