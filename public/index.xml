@@ -6,10 +6,40 @@
     <description>Recent content in Home on Joshua M. Rosenberg, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Balancing student privacy with benefits to society? An informal pre-print for and request for feedback a response to a study by Ifenthaler and Schumaker</title>
+      <link>/post/2020/07/23/balancing-student-privacy-with-benefits-to-society-an-informal-pre-print-for-a-response-to-a-study-by-ifenthaler-and-schumaker/</link>
+      <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/07/23/balancing-student-privacy-with-benefits-to-society-an-informal-pre-print-for-a-response-to-a-study-by-ifenthaler-and-schumaker/</guid>
+      <description>I am writing a short (around 1,000 word) response to a great study by Ifenthaler and Schumaler (2016) on student perceptions of privacy principles for learning analytics. I think the article is available here without a paywall: https://link.springer.com/article/10.1007/s11423-016-9477-y
+In the spirit of the article, I wanted to post the article for anyone to provide feedback on it. Since it&amp;rsquo;s such a short piece, posting it as a Google Doc (instead of on a server, like the one hosted by the Open Science Framework) seemed like it would suffice.</description>
+    </item>
+    
+    <item>
+      <title>Proposal for an educational data science course - request for feedback</title>
+      <link>/post/2020/07/22/proposal-for-an-educational-data-science-course-request-for-feedback/</link>
+      <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/07/22/proposal-for-an-educational-data-science-course-request-for-feedback/</guid>
+      <description>Building from a crowdsourced list of educational data science-related courses, I wrote a proposal for a course I hope to teach at the University of Tennessee, Knoxville, Data Science in Education Using R.
+A description/roposal for the course is here: https://joshuamrosenberg.com/proposal-ds-in-edu-utk.pdf
+I welcome feedback, especially at this stage where it could impact the likelihood that the course is offered&amp;mdash;or, if offered, useful to students. If you do have any feedback or suggestions, please message me at jmrosenberg AT utk dot edu&amp;hellip; or otherwise reach out!</description>
+    </item>
+    
+    <item>
+      <title>Some K-5 computing education resources (draft)</title>
+      <link>/post/2020/07/08/some-k-5-computing-education-resources/</link>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/07/08/some-k-5-computing-education-resources/</guid>
+      <description>Background This post includes some K-5 computing education (or computer science education or computational thinking- or coding-focused) resources. I&amp;rsquo;ll use the term computing education in this post to refer to these terms, recognizing that there are distinctions between them that matter a great deal for many purposes. This list is just a starting point and it is not exhaustive; there are likely better compendia; and, this is a new(ish) area for me.</description>
+    </item>
     
     <item>
       <title>Reflections on the last six months</title>
@@ -17,7 +47,7 @@
       <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/2020/07/05/take-a-break/</guid>
-      <description>This spring and the beginning of summer (and this year feels impossible to summarize).
+      <description>This spring and the beginning of summer felt (and this year feels) impossible to summarize.
 It started off a little personally tumultuous; beginning in October (of last year), our little one started to get colds&amp;mdash;we think from daycare. In mid-December, he had an ear infection, which started one of the most challening (in the context of everything ultimately being alright&amp;mdash;we were safe, cared for, and we had our jobs/incomes) periods&amp;hellip; at least of adulthood.</description>
     </item>
     
@@ -1186,6 +1216,15 @@ Here’s a description:
       
       <guid>/posts/20150804-first-article-in-jrte/</guid>
       <description>New article in the Journal of Research on Technology in Education My first article (in the Journal of Research on Technology in Education, JRTE) by me and Matthew J. Koehler is available as an advance online publication. If you’re interested in TPACK and want to see what I’ve been up to, then please check it out (or send me an email so I can send a copy your way).</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/post/1/01/01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/1/01/01/</guid>
+      <description></description>
     </item>
     
     <item>
