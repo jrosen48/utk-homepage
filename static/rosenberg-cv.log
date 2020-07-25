@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.7.10)  24 JUL 2020 07:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.7.10)  25 JUL 2020 15:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -522,19 +522,19 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 [15] [16] [17]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1501.
+(hyperref)                than one, level fixed on input line 1500.
 
 [18]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1562.
+(hyperref)                than one, level fixed on input line 1561.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1601.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1600.
 [19]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1601.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1600.
 (./rosenberg-cv.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1601.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1601.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1600.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1600.
 
 Package rerunfilecheck Info: File `rosenberg-cv.out' has not changed.
 (rerunfilecheck)             Checksum: 98A549D00BC1DF88047E6CF3B2BD5986;7980.
@@ -553,7 +553,7 @@ s/jrosenb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></Users/
 jrosenb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/jro
 senb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.pfb></Users/jrosen
 b8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb>
-Output written on rosenberg-cv.pdf (19 pages, 222636 bytes).
+Output written on rosenberg-cv.pdf (19 pages, 222624 bytes).
 PDF statistics:
  473 PDF objects out of 1000 (max. 8388607)
  442 compressed objects within 5 object streams
