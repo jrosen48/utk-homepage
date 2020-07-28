@@ -191,7 +191,7 @@ Estrellado, R. A., Freer, E. A.,  Mostipak, J., Rosenberg, J. M., & Velásquez, 
 Rosenberg, J. M., Reid, J., Dyer, E., Koehler, M. J., Fischer, C., & McKenna, T. J. (in press). Idle chatter or compelling conversation? The potential of the social media-based #NGSSchat network as a support for science education reform efforts. *Journal of Research in Science Teaching*. <a href = "https://osf.io/uwza6/download"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
 \hangindent=2em
-Carpenter, J., Rosenberg, J. M., Dousay, T., Romero-Hall, E., Trust, T., Kessler, A., Phillips, M., Morrison, S., Fischer, C. & Krutka, D. (advance online publication). What should teacher educators know about technology? Perspectives and self-assessments. *Teaching and Teacher Education*. https://www.sciencedirect.com/science/article/abs/pii/S0742051X19314908
+Carpenter, J., Rosenberg, J. M., Dousay, T., Romero-Hall, E., Trust, T., Kessler, A., Phillips, M., Morrison, S., Fischer, C. & Krutka, D. (advance online publication). What should teacher educators know about technology? Perspectives and self-assessments. *Teaching and Teacher Education*. https://doi.org/10.1016/j.tate.2020.103124
 
 \hangindent=2em
 Ranellucci, J., Rosenberg, J. M., & Poitras, E. (advance online publication). Exploring pre-service teachers’ use of technology: The technology acceptance model and expectancy-value theory. *Journal of Computer Assisted Learning*. http://dx.doi.org/10.1111/jcal.12459 <a href = "https://osf.io/8q2vk/"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> <a href = "https://osf.io/rgpeh/"><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> 
@@ -874,9 +874,17 @@ Rosenberg, J. M. (2019). *How many (MCMC) cores?* https://jmichaelrosenberg.shin
 
 Rosenberg, J. M. (2016). *State Educational Twitter Hashtags (SETHs).* https://jmichaelrosenberg.shinyapps.io/SETHs/
 
+### Computational Science Simulation
+
+Rosenberg, J. M. (2016). Diffusion & temperature. Lab Interactive Simulation. https://lab.concord.org/interactives.html#interactives/external-projects/msu/temperature-diffusion.json
+
 ### Web Application
 
 Lishinski, A., & Rosenberg, J. M. (2019). *Short message survey: An open-source, text-message based application for the experience sampling method.* https://github.com/picsul/short-message-survey
+
+### Other Projects
+
+I have contributed to a number of open-source projects by filing issues or making suggestions: https://github.com/search?q=is%3Aissue+author%3Ajrosen48&type=Issues
 
 # Miscellaneous 
 
