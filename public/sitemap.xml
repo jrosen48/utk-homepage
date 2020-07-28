@@ -883,10 +883,6 @@
   </url>
   
   <url>
-    <loc>/code/</loc>
-  </url>
-  
-  <url>
     <loc>/home/</loc>
   </url>
   
@@ -900,6 +896,10 @@
   
   <url>
     <loc>/research/</loc>
+  </url>
+  
+  <url>
+    <loc>/software/</loc>
   </url>
   
   <url>
