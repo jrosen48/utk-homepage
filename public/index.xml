@@ -6,10 +6,20 @@
     <description>Recent content in Home on Joshua M. Rosenberg, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>What do we know about thinking, learning, and Bayesian methods? A short review of the literature</title>
+      <link>/post/2020/07/29/what-do-we-know-about-thinking-learning-and-bayesian-methods-a-short-review-of-the-literature/</link>
+      <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/07/29/what-do-we-know-about-thinking-learning-and-bayesian-methods-a-short-review-of-the-literature/</guid>
+      <description>By Nathan Kenner and Joshua Rosenberg, University of Tennessee, Knoxville
+Note: This is a first blog post in what we plan to be a series of posts on early-stage work on Bayesian methods in education by Nathan Kenner, [https://ivelasq.rbind.io/](Isabella Velásquez), [https://www.ipn.uni-kiel.de/en/the-ipn/departments/physics-education/staff/kubsch-marcus](Marcus Kubsch), and me. It emerged from discussions with and incorporating feedback from Isabella Velásquez and Marcus Kubsch. It is a bit more formal than typical posts on this blog, but we intend for this to serve as a foundation for our later work (including shorter blog posts on similar topics and other products), and we hope that it elicits feedback and conversation.</description>
+    </item>
     
     <item>
       <title>Balancing student privacy with benefits to society? An informal pre-print for and request for feedback a response to a study by Ifenthaler and Schumaker</title>
