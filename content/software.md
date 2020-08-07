@@ -50,10 +50,10 @@ Rosenberg, J. M. (2016). Diffusion & temperature. Lab Interactive Simulation. ht
 
 Lishinski, A., & Rosenberg, J. M. (2019). *Short message survey: An open-source, text-message based application for the experience sampling method.* https://github.com/picsul/short-message-survey
 
-## Book
+## Software-Related Book
 
 Estrellado, R. A., Freer, E. A.,  Mostipak, J., Rosenberg, J. M., & Velásquez, I. C. (in press). *Data science in education using R*. London, England: Routledge. http://www.datascienceineducation.com/
 
-## Other Code
+## Miscellaneous Code
 
 I share most of my in-development code and code related to analyses on GitHub: https://github.com/jrosen48. I also share code and associated files (presentations, pre-prints, and resources) on the Open Science Framework: https://osf.io/xzqbc/.
