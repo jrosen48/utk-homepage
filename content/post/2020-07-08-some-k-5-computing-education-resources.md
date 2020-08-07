@@ -38,6 +38,7 @@ This post includes some K-5 *computing education* (or *computer science educatio
 - K-12 Educational Technology Handbook (chapter on computational thinking): https://edtechbooks.org/k12handbook/computational_thinking
 - K-12 Educational Technology Handbook (chapter on coding): https://edtechbooks.org/k12handbook/coding_in_k-12
 - ISTE CT teacher resources: https://id.iste.org/docs/ct-documents/ct-teacher-resources_2ed-pdf.pdf?sfvrsn=2%5C
+- CS Field Guide: https://csfieldguide.org.nz/en/
 
 # Other 
 
