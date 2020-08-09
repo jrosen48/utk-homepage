@@ -7,7 +7,7 @@ categories: []
 tags: []
 ---
 
-I'm excited to be participating as a co-investigator[NIH has atypical roles for those involved in grants](https://www.niaid.nih.gov/grants-contracts/roles-determine-eligibility-other-requirements) for a new NIH-funded project, *Imagining Possibilities in post-secondary education and STEMM in rural Appalachia*. 
+I'm excited to be participating as a co-investigator^[[NIH has atypical roles for those involved in grants](https://www.niaid.nih.gov/grants-contracts/roles-determine-eligibility-other-requirements)] for a new NIH-funded project, *Imagining Possibilities in post-secondary education and STEMM in rural Appalachia*. 
 
 The co-principal investigators  for the five-year project are [Melinda Gibbons](https://epc.utk.edu/people/melinda-gibbons-phd-ncc/) and [Erin Harden](https://psychology.utk.edu/faculty/hardin.php), and this project extends an earlier NIH-funded project they led. 
 
