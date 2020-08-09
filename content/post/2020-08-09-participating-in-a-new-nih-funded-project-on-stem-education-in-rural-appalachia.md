@@ -7,11 +7,14 @@ categories: []
 tags: []
 ---
 
-I'm excited to be participating as a co-investigator^[NIH has atypical roles for those involved in grants](https://www.niaid.nih.gov/grants-contracts/roles-determine-eligibility-other-requirements)] for a new NIH-funded project, *Imagining Possibilities in post-secondary education and STEMM in rural Appalachia*. 
+I'm excited to be participating as a co-investigator[NIH has atypical roles for those involved in grants](https://www.niaid.nih.gov/grants-contracts/roles-determine-eligibility-other-requirements) for a new NIH-funded project, *Imagining Possibilities in post-secondary education and STEMM in rural Appalachia*. 
 
 The co-principal investigators  for the five-year project are [Melinda Gibbons](https://epc.utk.edu/people/melinda-gibbons-phd-ncc/) and [Erin Harden](https://psychology.utk.edu/faculty/hardin.php), and this project extends an earlier NIH-funded project they led. 
 
 I'll be contributing to the design of lessons that align with the Next Generation Science Standards (and the Tennessee Academic Standards for Science) and to planning summer research/investigation/science practice-focused (okay, we still have a lot of time to plan!) experiences for students.
+
+Part of the story of this project is that it was submitted around *14 months ago*, in June, 2020. There were
+delays before and due to COVID-19 that meant we haved been waiting (and trying to plan accordingly) awhile!
 
 A summary of the project is here:
 
