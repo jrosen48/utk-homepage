@@ -1,5 +1,5 @@
 ---
-title: Participating in a new NSF-funded project - ⚡ ALSER (Learning Analytics in STEM Education Research) Institute ⚡
+title: Participating in a new NSF-funded project - LASER (Learning Analytics in STEM Education Research) Institute ⚡
 author: Joshua Rosenberg
 date: '2020-08-17'
 slug: participating-in-the-laser-learning-analytics-in-stem-education-research-institute
