@@ -131,10 +131,6 @@ C.D. Owen High School, Swannanoa, NC
 
 2019-2022, Co-PI, *Advancing computational grounded theory for audiovisual data from STEM classrooms* ($1,313,855; *PI*: Christina Krist, University of Illinois Urbana-Champaign; University of Tennessee, Knoxville [UTK] subcontract: $101,469). NSF. https://tca2.education.illinois.edu/ (NSF Grant No. [1920796](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1920796&HistoricalAwards=false))
 
-2019-2020, PI, *Planting the seeds for computer science education in East Tennessee through a research-practice partnership*  ($13,200). Community Engaged Research Seed Program, UTK.
-
-2018-2020, Co-PI, *Exploring how beginning elementary mathematics teachers seek out resources through social media* ($8,820; *PI*: Stephen Aguilar). Herman & Rasiej K-5 Mathematics Initiative, University of Southern California.
-
 ### Ongoing Grants (Senior Personnel or Consultant)
 
 2020-2023, Senior Personnel, *Learning analytics in STEM education research institute* ($993,150; *PI*, Shaun Kellogg, North Carolina State University; UTK subcontract: $54,691). NSF. (NSF Grant No. [2025090](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2025090&HistoricalAwards=false))
@@ -142,6 +138,10 @@ C.D. Owen High School, Swannanoa, NC
 2019-2022, Senior Personnel, *Medical entomology and geospatial analyses: Bringing innovation to teacher education and surveillance studies* ($149,611; *PI*: Rebecca Trout Fryxell). United States Department of Agriculture - Agriculture and Food Research Initiative. (USDA Grant No. 2019-68010-29119) https://www.megabitess.org/
 
 ### Completed Grants
+
+2019-2020, PI, *Planting the seeds for computer science education in East Tennessee through a research-practice partnership*  ($13,200). Community Engaged Research Seed Program, UTK.
+
+2018-2020, Co-PI, *Exploring how beginning elementary mathematics teachers seek out resources through social media* ($8,820; *PI*: Stephen Aguilar). Herman & Rasiej K-5 Mathematics Initiative, University of Southern California.
 
 2017-2020, Consultant (statistical software development and data analysis), *Profiles of science engagement: Broadening participation by understanding individual and contextual influences* ($499,927; *PI*: Jennifer Schmidt, Michigan State University). NSF. (NSF Grant No. [1661064](https://nsf.gov/awardsearch/showAward?AWD_ID=1661064&HistoricalAwards=false))
 
@@ -914,9 +914,17 @@ Early Career Seminar, Association for Educational Communications and Technology,
 
 Research Methods with Diverse Groups Advanced Training Institute, American Psychological Association, 2014
 
+### Media
+
+2020, Education Data Chat podcast, https://www.buzzsprout.com/1074286/4993430
+
+2019, Flowing Data, Teaching R to 7th Graders, https://flowingdata.com/2019/11/26/teaching-r-to-7th-graders/
+
+2016, Innovative Education in VT, https://tiie.w3.uvm.edu/blog/educators-on-twitter/#.XzkFq5NKiHE
+
 ### Podcast
 
-Co-host, [*Impodster Syndrome* podcast](http://impodstersyndrome.libsyn.com/)
+2018-2019, Co-host, [*Impodster Syndrome* podcast](http://impodstersyndrome.libsyn.com/)
 
 ### Consulting
 
