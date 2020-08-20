@@ -192,7 +192,7 @@ Estrellado, R. A., Freer, E. A.,  Mostipak, J., Rosenberg, J. M., & Velásquez, 
 ## Peer-Reviewed Journal Articles
 
 \hangindent=2em
-Rosenberg, J. M., & Krist, C. (in press). Combining machine learning and human-driven interpretive methods to elaborate students’ ideas about the generality of their model-based scientific explanations. *Journal of Science Education and Technology*.
+Rosenberg, J. M., & Krist, C. (in press). Combining machine learning and human-driven interpretive methods to elaborate students’ ideas about the generality of their model-based scientific explanations. *Journal of Science Education and Technology*. *Nb.* Both authors contributed equally.
 
 \hangindent=2em
 Rosenberg, J. M., Reid, J., Dyer, E., Koehler, M. J., Fischer, C., & McKenna, T. J. (in press). Idle chatter or compelling conversation? The potential of the social media-based #NGSSchat network as a support for science education reform efforts. *Journal of Research in Science Teaching*. <a href = "https://osf.io/uwza6/download"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
@@ -249,7 +249,7 @@ Schmidt, J. A., Rosenberg, J. M., & Beymer, P. (2018). A person-in-context appro
 Rosenberg, J.M., Greenhalgh, S.P., Graves Wolf, L. & Koehler, M.J. (2017). Strategies, use, and impact of social media for supporting teacher community within professional development: The case of one urban STEM program. *Journal of Computers in Mathematics and Science Teaching, 36*(3), 255-267. https://www.learntechlib.org/primary/p/180387/ <a href = "/pre-prints/Rosenberg-Greenhalgh-Wolf-Koehler-2017-JCMST.pdf"><img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> <a href="https://scholar.google.com/citations?user=nxVowRQAAAAJ&hl=en#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DnxVowRQAAAAJ%26cstart%3D20%26pagesize%3D80%26citation_for_view%3DnxVowRQAAAAJ%3AAXPGKjj_ei8C%26tzom%3D300"><img src = "/logos/google-scholar-1.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
 
 \hangindent=2em
-Koehler, M. J., Greenhalgh, S. P., Rosenberg, M. J., & Keenan, S. (2017). What the tech is going on with digital teaching portfolios? Using the TPACK framework to analyze teachers’ technological understanding. *Journal of Technology and Teacher Education, 25*, 31-59. http://www.learntechlib.org/p/173346/ <a href="<a href="https://scholar.google.com/citations?user=nxVowRQAAAAJ&hl=en#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DnxVowRQAAAAJ%26citation_for_view%3DnxVowRQAAAAJ%3A5Ul4iDaHHb8C%26tzom%3D300"><img src = "/logos/google-scholar-1.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>">
+Koehler, M. J., Greenhalgh, S. P., Rosenberg, M. J., & Keenan, S. (2017). What the tech is going on with digital teaching portfolios? Using the TPACK framework to analyze teachers’ technological understanding. *Journal of Technology and Teacher Education, 25*, 31-59. http://www.learntechlib.org/p/173346/ <a href="https://scholar.google.com/citations?user=nxVowRQAAAAJ&hl=en#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DnxVowRQAAAAJ%26citation_for_view%3DnxVowRQAAAAJ%3A5Ul4iDaHHb8C%26tzom%3D300"><img src = "/logos/google-scholar-1.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>">
 
 \hangindent=2em
 Rosenberg, J. M., Greenhalgh, S. P., Koehler, M. J., Hamilton, E., & Akcaoglu, M. (2016). An investigation of State Educational Twitter Hashtags (SETHs) as affinity spaces. *E-Learning and Digital Media, 13*(1-2), 24-44. http://dx.doi.org/10.1177/2042753016672351 <a href = "/pre-prints/Rosenberg-Greenhalgh-Koehler-Hamilton-Akcaoglu-2016-EDM.pdf"><img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> <a href="https://scholar.google.com/citations?user=nxVowRQAAAAJ&hl=en#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DnxVowRQAAAAJ%26citation_for_view%3DnxVowRQAAAAJ%3AeflP2zaiRacC%26tzom%3D300"><img src = "/logos/google-scholar-1.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
@@ -595,10 +595,13 @@ Rosenberg, J. M. (February, 2019). *Making sense of recent advances in the Techn
 ## Other Presentations
 
 \hangindent=2em
-Rosenberg, J. M., Dyer, E. B., Anderson, D. J., & Fischer, C. (September, 2020). *If you’re happy and you know it, post a tweet? A study of the sentiment of posts to the #NGSSchat hashtag on Twitter*. Presentation at the AERA Satellite Conference on Educational Data Science, Stanford, CA. 
+Rosenberg, J. M., Dyer, E. B., Anderson, D. J., & Fischer, C. (September, 2020). *If you’re happy and you know it, post a tweet? A study of the sentiment of posts to the #NGSSchat hashtag on Twitter*. Presentation at the AERA Satellite Conference on Educational Data Science, Stanford, CA.
 
 \hangindent=2em
 Dyer, E. B., Rosenberg, J. M., Bosch, N., Krist, C., & D'Angelo, C. (September, 2020). *Better together? Initial findings and implications from combining qualitative coding and computational methods to analyze classroom audiovisual data*. Presentation at the AERA Satellite Conference on Educational Data Science, Stanford, CA.
+
+\hangindent=2em
+Anderson, D., Rosenberg, J. M., Sáez, L., & Seeley, J. R. (September, 2020). *Using extreme gradient boosting to estimate community effects on school readiness*. Presentation at the AERA Satellite Conference on Educational Data Science, Stanford, CA.
 
 \hangindent=2em
 Estrellado, R. A., Bovee, E. A., Mostipak, J., Rosenberg, J. M., & Velásquez, I. C. (July, 2020). *Expanding R into education*. Presentation at the useR conference, St. Louis, MO.
