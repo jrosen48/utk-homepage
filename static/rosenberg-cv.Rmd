@@ -58,8 +58,8 @@ render_toc <- function(
     knitr::asis_output(paste(x, collapse = "\n"))
 }
 ```
-# Curriculum Vitae
 
+# Curriculum Vitae
 
 ```{r, echo = FALSE, eval = FALSE}
 render_toc('static/rosenberg-cv.Rmd')
@@ -67,6 +67,7 @@ render_toc('static/rosenberg-cv.Rmd')
 
 # Contact Information
 
+\begin{center}
 Assistant Professor, STEM Education  
 Department of Theory and Practice in Teacher Education  
 Faculty Fellow, Center for Enhancing Education in Mathematics and Sciences  
@@ -75,7 +76,7 @@ The University of Tennessee, Knoxville
 865-974-5973 | [jmrosenberg@utk.edu](jmrosenberg@utk.edu)  
 Homepage: https://joshuamrosenberg.com  
 Research Group: https://makingdatasciencecount.com  
-Google Scholar: https://scholar.google.com/citations?hl=en&user=nxVowRQAAAAJ  
+\end{center}
 
 # Research Interests
 
