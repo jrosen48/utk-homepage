@@ -15,6 +15,12 @@ I spoke recently with [a friend](http://datalorax.github.io/) who had used their
 
 Here goes. I'd like to ask for help or clarification from others on any of these aspects; I think I've made one or more mistakes or have at least not been precise with the terminology.
 
+## The why
+
+So, why am I doing this? Especially for some kinds of models - those that have multiple levels of nesting, larger sample sizes, and/or multiple outcomes - running can take a long time, as long as a day (or longer). Running these models (I'm thinking of those estimated with MCMC) on a laptop or even a desktop can take up most or functionally all of the resources of that computer, making it hard to do anything else with it. Scheduling and running jobs also lets you run multiple models, those that could collectively take a week or longer. 
+
+## The process
+
 1. First, I had to sign-up for an account. Being staff/a faculty member did not mean that I already had an account.
 
 2. I found it helpful to explore the browser-based file viewer (linked through the main page about the high-performance computing service; for me, that's here: https://acf-login1.nics.utk.edu/) and (again, browser-based) command-line interface _first_, but I found it counter-productive to rely on in the long-term. This allowed me to get a feel for the file structure and how to load and begin to use the software I was using. 
@@ -48,7 +54,7 @@ cd /nics/d/home/jrosenb8/my-dir
 
 First, I load the most recent version of R as a module. Then I change into `my-dir` (this can be named whatever you like), using the entire file path (it didn't seem to work without this). Finally, I use the `Rscript` command (rather than loading R by typing `R` and then running `source()` on the file; this seemed hard to do in a shell script), which required finding the entire file path to that command (to be totally honest, I have no idea how I found that, oye), and then passing the full path to the file I wanted to run. Easy, right? :)
 
-As if this wasn't quite hard enough, I now had to upload the file to the server from the command line. Seems easy enough, but, of course, there's not a text editor you can simply open (`open my-file.txt` does _not_ work). I used vim. First, I created a new file: `touch main-job.sh`. Then `vim main-job.sh`. The next part was relatively easy, I copy-pasted the above five lines (the two headers and three lines of code) into the file via vim. Of course, this meant I had to (_exit_ vim](https://stackoverflow.com/questions/11828270/how-do-i-exit-the-vim-editor).
+As if this wasn't quite hard enough, I now had to upload the file to the server from the command line. Seems easy enough, but, of course, there's not a text editor you can simply open (`open my-file.txt` does _not_ work). I used vim. First, I created a new file: `touch main-job.sh`. Then `vim main-job.sh`. The next part was relatively easy, I copy-pasted the above five lines (the two headers and three lines of code) into the file via vim. Of course, this meant I had to [_exit_ vim](https://stackoverflow.com/questions/11828270/how-do-i-exit-the-vim-editor).
 
 8. The last step is scheduling and submitting the job. This was actually delightfully easy. From the command line, `qsub main-job.sh`.
 
@@ -56,4 +62,4 @@ As if this wasn't quite hard enough, I now had to upload the file to the server 
 
 10. There is one more step - what to do when you're done. I've learned the hard way that it's important (of course, now it seems obvious) to write/save the output, so you can view/download/use it.
 
-Woof. So, why am I doing this? Especially for some kinds of models - those that have multiple levels of nesting, larger sample sizes, and/or multiple outcomes - running can take a long time, as long as a day (or longer). Running these models (I'm thinking of those estimated with MCMC) on a laptop or even a desktop can take up most or functionally all of the resources of that computer, making it hard to do anything else with it. Scheduling and running jobs also lets you run multiple models, those that could collectively take a week or longer. 
+Woof. I welcome advice.
