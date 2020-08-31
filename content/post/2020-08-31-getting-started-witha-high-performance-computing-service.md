@@ -21,19 +21,33 @@ So, why am I doing this? Especially for some kinds of models - those that have m
 
 ## The process
 
-1. First, I had to sign-up for an account. Being staff/a faculty member did not mean that I already had an account.
+1. Sign-up
 
-2. I found it helpful to explore the browser-based file viewer (linked through the main page about the high-performance computing service; for me, that's here: https://acf-login1.nics.utk.edu/) and (again, browser-based) command-line interface _first_, but I found it counter-productive to rely on in the long-term. This allowed me to get a feel for the file structure and how to load and begin to use the software I was using. 
+First, I had to sign-up for an account. Being staff/a faculty member did not mean that I already had an account.
 
-3. The above step allowed me to try out things like using R from the command line. To be able to access R, I had to load it as a **module**. The new language (what's a module?) here was difficult for me. There are _many_ modules, from Anaconda and R to... a bunch of things I don't recognize, and some I sort of vaguely do. In any case, typing `module` returns available commands. `avail` lists all of the available modules; `module avail` shows that three different versions of R are available to be loaded as modules. The most recent, for better or worse, was version 3.6.1. I loaded it by typing `module load` and then the name of the module that included the version, `r/3.6.1`; so, together, `module load r/3.6.1`.
+2. Use the browser
 
-4. Now I could type `R`, and use R as a console. Cool.
+I found it helpful to explore the browser-based file viewer (linked through the main page about the high-performance computing service; for me, that's here: https://acf-login1.nics.utk.edu/) and (again, browser-based) command-line interface _first_, but I found it counter-productive to rely on in the long-term. This allowed me to get a feel for the file structure and how to load and begin to use the software I was using. 
 
-5. At this point, I was pretty much stuck running `source(uploaded-file.R)`, for which I had to have uploaded the R file to the server - manually - before running it. This inevitably (for me) involved remembering that only base packages are installed, and having to install packages (e.g., {dplyr}) before sourcing the file. I found it helpful to try to load as few packages as possible; having to install e.g. {tidyverse} can take awhile, and there are more dependencies for it which can (and occasionally did) cause headaches, like when some operating system-level package wasn't available (I think this happened to me with curl-fixing it involved multiple help tickets, oye).
+3. Load a module
 
-6. The problem with sourcing scripts is two-fold. First, my browser had to remain open while the file was running. Second, there are limits on how long you can run a file and the resources you can use. This next step was a key to using the high-performance computing service more effectively, accessing it from (on my Mac) Terminal, a command line interface. Logging in was surprisingly easy. I opened Terminal and typed (per the instructions): `ssh <NetID>@acf-login.acf.tennessee.edu.`. I had two factor-authentication, but after typing my password, it was pushed to my phone as it usually is. And that was it; I could access all of the same files (and functionality) available through the browser, and a bit more.
+The above step allowed me to try out things like using R from the command line. To be able to access R, I had to load it as a **module**. The new language (what's a module?) here was difficult for me. There are _many_ modules, from Anaconda and R to... a bunch of things I don't recognize, and some I sort of vaguely do. In any case, typing `module` returns available commands. `avail` lists all of the available modules; `module avail` shows that three different versions of R are available to be loaded as modules. The most recent, for better or worse, was version 3.6.1. I loaded it by typing `module load` and then the name of the module that included the version, `r/3.6.1`; so, together, `module load r/3.6.1`.
 
-7. The next step involved writing the code to run a job. This was challenging at first. A job is a file that ends in `.sh`, or a shell (I think of it as a Terminal or command line code) script. At least for this purpose, it has _headers_ and then command line codes. I found these headers-which start with `#PBS - l` (again, the new language was challenging here) to be necessary and helpful:
+4. Play around with R
+
+Now I could type `R`, and use R as a console. Cool.
+
+5. Get familiar with running scripts
+
+At this point, I was pretty much stuck running `source(uploaded-file.R)`, for which I had to have uploaded the R file to the server - manually - before running it. This inevitably (for me) involved remembering that only base packages are installed, and having to install packages (e.g., {dplyr}) before sourcing the file. I found it helpful to try to load as few packages as possible; having to install e.g. {tidyverse} can take awhile, and there are more dependencies for it which can (and occasionally did) cause headaches, like when some operating system-level package wasn't available (I think this happened to me with curl-fixing it involved multiple help tickets, oye).
+
+6. Login via ssh
+
+The problem with sourcing scripts is two-fold. First, my browser had to remain open while the file was running. Second, there are limits on how long you can run a file and the resources you can use. This next step was a key to using the high-performance computing service more effectively, accessing it from (on my Mac) Terminal, a command line interface. Logging in was surprisingly easy. I opened Terminal and typed (per the instructions): `ssh <NetID>@acf-login.acf.tennessee.edu.`. I had two factor-authentication, but after typing my password, it was pushed to my phone as it usually is. And that was it; I could access all of the same files (and functionality) available through the browser, and a bit more.
+
+7. Write a job
+
+The next step involved writing the code to run a job. This was challenging at first. A job is a file that ends in `.sh`, or a shell (I think of it as a Terminal or command line code) script. At least for this purpose, it has _headers_ and then command line codes. I found these headers-which start with `#PBS - l` (again, the new language was challenging here) to be necessary and helpful:
 
 ```{sh}
 `#PBS -l nodes=1:ppn=10`
@@ -56,10 +70,18 @@ First, I load the most recent version of R as a module. Then I change into `my-d
 
 As if this wasn't quite hard enough, I now had to upload the file to the server from the command line. Seems easy enough, but, of course, there's not a text editor you can simply open (`open my-file.txt` does _not_ work). I used vim. First, I created a new file: `touch main-job.sh`. Then `vim main-job.sh`. The next part was relatively easy, I copy-pasted the above five lines (the two headers and three lines of code) into the file via vim. Of course, this meant I had to [_exit_ vim](https://stackoverflow.com/questions/11828270/how-do-i-exit-the-vim-editor).
 
-8. The last step is scheduling and submitting the job. This was actually delightfully easy. From the command line, `qsub main-job.sh`.
+There are also other ways to upload files; it looks like the `scp` command is helpful, especially for longer files.
 
-9. Finally, I could monitor the job (whether it has started running or is queued; if it is running, for how long it has been doing so) by typing `qstat -a`. 
+8. Schedule the job
 
-10. There is one more step - what to do when you're done. I've learned the hard way that it's important (of course, now it seems obvious) to write/save the output, so you can view/download/use it.
+The last step is scheduling and submitting the job. This was actually delightfully easy. From the command line, `qsub main-job.sh`.
 
-Woof. I welcome advice.
+9. Monitor the job
+
+Finally, I could monitor the job (whether it has started running or is queued; if it is running, for how long it has been doing so) by typing `qstat -a`. 
+
+10. Access the output
+
+There is one more step - what to do when you're done. I've learned the hard way that it's important (of course, now it seems obvious) to write/save the output, so you can view/download/use it. I found it helpful to use the `sftp` command; this required loggin and authenticating again, but was able to `get` (save to my computer) files easily (e.g., `get output.rds`).
+
+Woof.
