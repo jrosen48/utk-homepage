@@ -14,7 +14,7 @@
 # lines <- lines[-c(l:(l + 5))]
 # readr::write_lines(unlist(lines), 'static/rosenberg-cv.Rmd')
 # manually style using rosenberg-cv-backup-with-styling.rmd
-file.remove("static/rosenberg-cv.Rmd")
+# file.remove("static/rosenberg-cv.Rmd")
 file.rename("static/rosenberg-cv-backup-with-styling.pdf", "static/rosenberg-cv.pdf")
 #rmarkdown::render("static/rosenberg-cv.Rmd", output_format = "pdf_document")
 file.copy("static/rosenberg-cv.pdf", "static/cv/rosenberg-cv.pdf", overwrite=TRUE)
