@@ -50,8 +50,8 @@ The problem with sourcing scripts is two-fold. First, my browser had to remain o
 The next step involved writing the code to run a job. This was challenging at first. A job is a file that ends in `.sh`, or a shell (I think of it as a Terminal or command line code) script. At least for this purpose, it has _headers_ and then command line codes. I found these headers-which start with `#PBS - l` (again, the new language was challenging here) to be necessary and helpful:
 
 ```{sh}
-`#PBS -l nodes=1:ppn=10`
-`#PBS -l walltime=23:59:59`
+#PBS -l nodes=1:ppn=10
+#PBS -l walltime=23:59:59
 ```
 
 The first like requests the number of `nodes`, which I think of as "computers", and `ppn`, or processors per node, which I think of as the number of processors or cores on the computer (i.e., the MacBook I'm writing this from has 8). 10 seemed like a good number of cores for my purpose. 
