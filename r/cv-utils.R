@@ -1,21 +1,32 @@
 # For PDF
 
-# file.copy("about-source.Rmd", "static/rosenberg-cv.Rmd", overwrite=TRUE)
-# lines <- readr::read_lines('static/rosenberg-cv.Rmd')
-# lines[13] <- "```{r, include = FALSE, eval = FALSE}"
+file.copy("about-source.Rmd", "static/rosenberg-cv.Rmd", overwrite=TRUE)
+lines <- readr::read_lines('static/rosenberg-cv.Rmd')
+lines[13] <- "```{r, include = FALSE, eval = FALSE}"
+lines[62] <- ""
+lines[64] <- "```{r, echo = FALSE, eval = FALSE}"
+lines[65] <- "render_toc('static/rosenberg-cv.Rmd')"
+#lines <- lines[-c(61, 63:66, 83)]
+# lines[61] <- ""
 # lines[62] <- ""
-# lines[64] <- "```{r, echo = FALSE, eval = FALSE}"
-# lines[65] <- "render_toc('static/rosenberg-cv.Rmd')"
-# #lines <- lines[-c(61, 63:66, 83)]
-# # lines[61] <- ""
-# # lines[62] <- ""
-# # lines[63] <- ""
-# l <- which(stringr::str_detect(lines, "Resource") & stringr::str_detect(lines, "Logo"))
-# lines <- lines[-c(l:(l + 5))]
-# readr::write_lines(unlist(lines), 'static/rosenberg-cv.Rmd')
+# lines[63] <- ""
+l <- which(stringr::str_detect(lines, "Resource") & stringr::str_detect(lines, "Logo"))
+lines <- lines[-c(l:(l + 5))]
+readr::write_lines(unlist(lines), 'static/rosenberg-cv.Rmd')
+rmarkdown::render("static/rosenberg-cv.Rmd", output_format = "pdf_document")
+
+header_lines <- unlist(readLines("static/rosenberg-cv-backup-with-styling.tex"))
+main_lines <- unlist(readLines("static/rosenberg-cv.tex"))
+where_to_begin <- which(stringr::str_detect(main_lines, "hypertarget\\{education\\}"))
+main_lines_without_header <- main_lines[where_to_begin:length(main_lines)]
+
+final_lines <- unlist(c(header_lines, "", main_lines_without_header))
+readr::write_lines(unlist(final_lines), 'static/rosenberg-cv.tex')
+tinytex::pdflatex("static/rosenberg-cv.tex")
+
 # manually style using rosenberg-cv-backup-with-styling.rmd
-# file.remove("static/rosenberg-cv.Rmd")
-file.rename("static/rosenberg-cv-backup-with-styling.pdf", "static/rosenberg-cv.pdf")
+#file.remove("static/rosenberg-cv.Rmd")
+#file.rename("static/rosenberg-cv-backup-with-styling.pdf", "static/rosenberg-cv.pdf")
 #rmarkdown::render("static/rosenberg-cv.Rmd", output_format = "pdf_document")
 file.copy("static/rosenberg-cv.pdf", "static/cv/rosenberg-cv.pdf", overwrite=TRUE)
 
