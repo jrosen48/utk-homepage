@@ -12,11 +12,11 @@ The provocation/thesis of this short post is that educational researchers respon
 
 I was surprised to hear that special issue calls for proposals for COVID-19-related research were inundated with proposals. 
 
-As two examples that I am familiar with to the Spencer Foundation:
+As two examples that I am familiar with:
 
-The *Journal of Technology and Teacher Education* (JTATE) [received more than 250 proposals](https://www.learntechlib.org/primary/p/216910/), from which they published 35.
+- The *Journal of Technology and Teacher Education* (JTATE) [received more than 250 proposals](https://www.learntechlib.org/primary/p/216910/), from which they published 35.
 
-The Spencer Foundation received ["a record-breaking 1,369 submissions"](https://www.spencer.org/news/announcing-our-covid-19-related-research-grants-awardees), from which they funded 20. The summary was helpful; the funded work looks like the kind of work needed to support teachers and schools this year and beyond, and to move forward the research base on how the pandemic is affecting education... in many ways.
+- The Spencer Foundation received ["a record-breaking 1,369 submissions"](https://www.spencer.org/news/announcing-our-covid-19-related-research-grants-awardees), from which they funded 20. The summary was helpful; the funded work looks like the kind of work needed to support teachers and schools this year and beyond, and to move forward the research base on how the pandemic is affecting education... in many ways.
 
 Also, many others responded by directly helping teachers, schools, and districts. And parents stepped in in heroic ways that aren't given enough attention.
 
