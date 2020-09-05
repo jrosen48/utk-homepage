@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-08-31T00:00:00+00:00</lastmod>
+    <loc>/post/2020/09/05/educational-researchers-responded-to-covid-19-but-perhaps-we-could-respond-even-better/</loc>
+    <lastmod>2020-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/2020/08/31/getting-started-with-a-high-performance-computing-service/</loc>
-    <lastmod>2020-08-31T00:00:00+00:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2020-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/post/</loc>
+    <lastmod>2020-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2020/08/31/getting-started-with-a-high-performance-computing-service/</loc>
     <lastmod>2020-08-31T00:00:00+00:00</lastmod>
   </url>
   
