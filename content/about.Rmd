@@ -694,7 +694,7 @@ Rosenberg, J. M., & Lishinski, A. (2018). *clustRcompaR: Easy interface for clus
 
 ### Contributor to R package on CRAN
 
-D'Agostina McGowan, L., Hester, J., Rosenberg, J. M., & Leek, J. (2020). *tidycode: Analyze Lines of R Code the Tidy Way. https://github.com/LucyMcGowan/tidycode
+D'Agostina McGowan, L., Hester, J., Rosenberg, J. M., & Leek, J. (2020). *tidycode: Analyze Lines of R Code the Tidy Way*. https://github.com/LucyMcGowan/tidycode
 
 ### Author of R packages on GitHub
 
@@ -707,6 +707,8 @@ Velásquez, I. and Rosenberg, J. M. (2019). *leaidr: U.S. School District Shapef
 Seo, J., & Rosenberg, J. M. (2020). *jladown: Writing a Reproducible Article for Journal of Learning Analytics in R Markdown*. https://github.com/jooyoungseo/jladown 
 
 Staudt Willet, B., & Rosenberg, J. M. (2020). *tidytags: Simple Collection and Powerful Analysis of Twitter Data* https://github.com/bretsw/tidytags
+
+Rosenberg, J. M. (2020). *tidykids: State-by-State Spending on Kids Dataset*. https://jrosen48.github.io/tidykids/
 
 ### Interactive Web Applications
 

@@ -6,10 +6,19 @@
     <description>Recent content in Home on Joshua M. Rosenberg, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Using the State-by-State Spending on Kids Dataset (and tidykids)</title>
+      <link>/post/2020/09/08/using-the-state-by-state-spending-on-kids-dataset-and-tidykids/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/09/08/using-the-state-by-state-spending-on-kids-dataset-and-tidykids/</guid>
+      <description>The Urban Institute released a comprehensive dataset on state-by-state spending on kids from 1997-2016. That data is here. The authors of it deserve all of the credit for creating it and for releasing it in such an easy-to-use, accessible way. They also licensed it with a creative commons-like license that allows use- and re-use, including modification, with attribution. Therefore, I want to say (as I say in the documentation for the package that I describe a bit below) that the data was made available by and is attributable to Julia Isaacs, Eleanor Lauderback, and Erica Greenberg under the under the ODCAttributionLicense.</description>
+    </item>
     
     <item>
       <title>Educational researchers responded pretty well to COVID-19, but maybe we could respond even better</title>

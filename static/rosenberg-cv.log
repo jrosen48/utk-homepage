@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.8.25)  5 SEP 2020 13:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.8.25)  8 SEP 2020 08:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -523,15 +523,15 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 [18]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1605.
+(hyperref)                than one, level fixed on input line 1608.
 
 [19]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1657.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1660.
 [20]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1657.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1660.
 (./rosenberg-cv.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1657.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1657.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1660.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1660.
 
 Package rerunfilecheck Info: File `rosenberg-cv.out' has not changed.
 (rerunfilecheck)             Checksum: C78F531C4FA9F560A7677955C49D15E3;8008.
@@ -550,10 +550,10 @@ s/jrosenb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></Users/
 jrosenb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/jro
 senb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.pfb></Users/jrosen
 b8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb>
-Output written on rosenberg-cv.pdf (20 pages, 227014 bytes).
+Output written on rosenberg-cv.pdf (20 pages, 227061 bytes).
 PDF statistics:
- 498 PDF objects out of 1000 (max. 8388607)
- 466 compressed objects within 5 object streams
+ 500 PDF objects out of 1000 (max. 8388607)
+ 468 compressed objects within 5 object streams
  119 named destinations out of 1000 (max. 500000)
  12681 words of extra memory for PDF output out of 14400 (max. 10000000)
 
