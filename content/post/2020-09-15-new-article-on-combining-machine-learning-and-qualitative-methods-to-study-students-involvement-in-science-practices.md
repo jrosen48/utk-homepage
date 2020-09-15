@@ -20,4 +20,4 @@ Thank you Xiaoming Zhai for editing the special issue on machine learning in sci
 
 A "green" (always available) open-access version of the publication is here: https://joshuamrosenberg.com/post-prints/rosenberg-krist-jost.pdf
 
-A version from the publisher which may be openly accessed only 50 times is available here: https://joshuamrosenberg.com/post-prints/rosenberg-krist-jost.pdf
+A version from the publisher which may be openly accessed only 50 times is available here: https://link.springer.com/epdf/10.1007/s10956-020-09862-4?sharing_token=lW_YGHlo9BLWYH8LZPBQF_e4RwlQNchNByi7wbcMAY4Pk-v4deI_yyLwr1XAbo9fkWZbaq4Qc92LCK5znGrUYWRXQ5I2475Bcmric7BRmmLKG02TOmmscQFDU6b8CZB2YvqTdb-QcuspQeXBiRF8LijjITXr2wLLPPN_aQpyEWA%3D
