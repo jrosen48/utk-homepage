@@ -3,7 +3,7 @@ title: 'New article in JRST: Idle chatter or compelling conversation? The potent
   of the social media‐based #NGSSchat network'
 author: Joshua Rosenberg
 date: '2020-09-28'
-slug: new-article-in-jrst-idle-chatter-or-compelling-conversation-the-potential-of-the-social-media-based-ngsschat-network
+slug: new-article-in-jrst-idle-chatter-or-compelling-conversation
 categories: []
 tags: []
 ---
