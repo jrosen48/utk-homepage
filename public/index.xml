@@ -6,10 +6,47 @@
     <description>Recent content in Home on Joshua M. Rosenberg, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New article in JRST: Idle chatter or compelling conversation? The potential of the social media‐based #NGSSchat network</title>
+      <link>/post/2020/09/28/new-article-in-jrst-idle-chatter-or-compelling-conversation/</link>
+      <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/09/28/new-article-in-jrst-idle-chatter-or-compelling-conversation/</guid>
+      <description>This article is a long-time coming, and is one I&amp;rsquo;m very proud of. It is an analysis of the #NGSSchat network, one which involved qualitatively coding 1000s of posts sent to the hashtag (and 100s of profiles of those who posted to the network) and using social network analysis techniques namely multi-level selection models (and models for social influence) to show what many people who have participated in #NGSSchat may already know: It&amp;rsquo;s a good place to learn and share about science education and the new science education standards.</description>
+    </item>
+    
+    <item>
+      <title>(Almost) 30 months in the Smokies</title>
+      <link>/post/2020/09/22/almost-30-months-in-the-smokies/</link>
+      <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/09/22/almost-30-months-in-the-smokies/</guid>
+      <description>I&amp;rsquo;ve been saying for around a year that we&amp;rsquo;ve lived in Knoxville for two years, but we&amp;rsquo;re now less than a month from two-and-a-half years, or 30 months, in Knoxville. The thing I like most about living in Knoxville is the proximity to the Smoky Mountains and Great Smoky Mountain National Park. Knoxville is only 45 minutes from the National Park (at least the beginning of the Tremont and Abrams Creek areas; an hour to the Cosby area; and an hour and change to the Elkmont area).</description>
+    </item>
+    
+    <item>
+      <title>A shana tova wake-up call</title>
+      <link>/post/2020/09/20/a-shana-tova-wake-up-call/</link>
+      <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/09/20/a-shana-tova-wake-up-call/</guid>
+      <description>Rosh Hashanah is a Jewish holiday for reflecting on the last year. We say L&amp;rsquo;shana Tova, happy new year, but it&amp;rsquo;s not a happy holiday, more a reflective one. Since around my Bar Mitzvah, I&amp;rsquo;ve come to think of Rosh Hashanah as a chance to take comfort, usually at an otherwise busy time of the year. This year is no different in both ways.
+The high point of Rosh Hashanah is when the shofar (literally a ram&amp;rsquo;s horn) is sounded.</description>
+    </item>
+    
+    <item>
+      <title>New article on combining machine learning and qualitative methods to study students&#39; involvement in science practices</title>
+      <link>/post/2020/09/15/new-article-on-combining-machine-learning-and-qualitative-methods-to-study-students-involvement-in-science-practices/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/09/15/new-article-on-combining-machine-learning-and-qualitative-methods-to-study-students-involvement-in-science-practices/</guid>
+      <description>My colleague Christina Krist and I recently published an article on our efforts to combine machine learning and qualitative methods to study students&amp;rsquo; involvement in science practices. This work emerged from work that we began wayyy back 2015 (!!!), when we were both graduate students. At a meeting for the Science Practices project for which we were graduate students, Christina presented the results of a text-based automated analysis of written responses from students.</description>
+    </item>
     
     <item>
       <title>Using the State-by-State Spending on Kids Dataset (and tidykids)</title>
