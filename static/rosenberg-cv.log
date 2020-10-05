@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.25)  28 SEP 2020 20:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.25)  5 OCT 2020 13:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -336,11 +336,6 @@ Package graphics Info: Driver file: pdftex.def on input line 105.
 )
 \Gin@req@height=\dimen157
 \Gin@req@width=\dimen158
-) (/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/grffile/grffile.sty
-Package: grffile 2019/11/11 v2.1 Extended file name support for graphics (legac
-y)
-Package grffile Info: This package is an empty stub for compatibility on input 
-line 40.
 )
 (/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdfte
 x.def
@@ -537,10 +532,10 @@ Package rerunfilecheck Info: File `rosenberg-cv.out' has not changed.
 (rerunfilecheck)             Checksum: C78F531C4FA9F560A7677955C49D15E3;8008.
  ) 
 Here is how much of TeX's memory you used:
- 12674 strings out of 482798
- 187405 string characters out of 5953960
- 475639 words of memory out of 5000000
- 27570 multiletter control sequences out of 15000+600000
+ 12666 strings out of 482798
+ 187136 string characters out of 5953960
+ 475536 words of memory out of 5000000
+ 27566 multiletter control sequences out of 15000+600000
  593580 words of font info for 154 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  43i,6n,42p,811b,329s stack positions out of 5000i,500n,10000p,200000b,80000s
