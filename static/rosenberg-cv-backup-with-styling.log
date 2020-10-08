@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.8.25)  26 AUG 2020 20:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.25)  5 OCT 2020 20:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **rosenberg-cv-backup-with-styling.tex
 (./rosenberg-cv-backup-with-styling.tex
 LaTeX2e <2020-02-02> patch level 5
-L3 programming layer <2020-08-07>
+L3 programming layer <2020-09-24>
 (/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
 (/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/base/size10.clo
@@ -221,7 +221,7 @@ Package: parskip 2020-06-15 v2.0f non-zero parskip adjustments
 Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
 
 (/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
-Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 )
 (/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
@@ -237,7 +237,7 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 Package xcolor Info: Driver file: pdftex.def on input line 225.
 
 (/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+File: pdftex.def 2020/08/26 v1.2 Graphics/color driver for pdftex
 )
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
@@ -390,9 +390,9 @@ y)
 Package grffile Info: This package is an empty stub for compatibility on input 
 line 40.
 )
-(/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdfmo
-de.def
-File: l3backend-pdfmode.def 2020-08-07 L3 backend support: PDF mode
+(/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdfte
+x.def
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
 \l__kernel_color_stack_int=\count270
 \l__pdf_internal_box=\box47
 )
@@ -552,76 +552,19 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 (/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-)
+))
+! Emergency stop.
+<*> rosenberg-cv-backup-with-styling.tex
+                                        
+*** (job aborted, no legal \end found)
 
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 95.
-
-[1
-
-{/Users/jrosenb8/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 138.
-
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 151.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 151.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 151.
-[2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15]
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1249.
-
-[16]
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1289.
-
-[17] [18] [19]
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1516.
-
-[20]
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1613.
-
-[21]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1665.
- [22]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1665.
- (./rosenberg-cv-backup-with-styling.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1665.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1665.
-
-Package rerunfilecheck Info: File `rosenberg-cv-backup-with-styling.out' has no
-t changed.
-(rerunfilecheck)             Checksum: 353376A7CC3DDCF217BE7BAA446955CC;8430.
- ) 
+ 
 Here is how much of TeX's memory you used:
- 12787 strings out of 482816
- 188893 string characters out of 5954476
- 478301 words of memory out of 5000000
- 27659 multiletter control sequences out of 15000+600000
- 593580 words of font info for 154 fonts, out of 8000000 for 9000
+ 12374 strings out of 482798
+ 183177 string characters out of 5953960
+ 467219 words of memory out of 5000000
+ 27556 multiletter control sequences out of 15000+600000
+ 563033 words of font info for 58 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 43i,12n,45p,831b,333s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/Users/jrosenb8/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</Us
-ers/jrosenb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></User
-s/jrosenb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></Users/
-jrosenb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/jro
-senb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.pfb></Users/jrosen
-b8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb>
-Output written on rosenberg-cv-backup-with-styling.pdf (22 pages, 230344 bytes)
-.
-PDF statistics:
- 503 PDF objects out of 1000 (max. 8388607)
- 469 compressed objects within 5 object streams
- 121 named destinations out of 1000 (max. 500000)
- 12681 words of extra memory for PDF output out of 14400 (max. 10000000)
-
+ 43i,4n,45p,831b,360s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!
