@@ -24,13 +24,13 @@ final_lines <- unlist(c(header_lines, "", main_lines_without_header))
 readr::write_lines(unlist(final_lines), 'static/rosenberg-cv.tex')
 tinytex::pdflatex("static/rosenberg-cv.tex")
 
-# manually style using rosenberg-cv-backup-with-styling.rmd
+# manually style rosenberg-cv using rosenberg-cv-backup-with-styling.rmd
 #file.remove("static/rosenberg-cv.Rmd")
 #file.rename("static/rosenberg-cv-backup-with-styling.pdf", "static/rosenberg-cv.pdf")
 #rmarkdown::render("static/rosenberg-cv.Rmd", output_format = "pdf_document")
-file.copy("static/rosenberg-cv.pdf", "static/cv/rosenberg-cv.pdf", overwrite=TRUE)
+# file.copy("static/rosenberg-cv.pdf", "static/cv/rosenberg-cv.pdf", overwrite=TRUE)
 
-# # For Word
+# # # For Word
 # file.copy("about-source.Rmd", "content/about-for-cv.Rmd", overwrite=TRUE)
 # lines <- readLines("content/about-for-cv.Rmd")
 # lines[65] <- ""
