@@ -26,6 +26,7 @@ Here is a bit more information from the proposal for the course:
 > My goal in teaching this course will be to catalyze students’ interest in data science and to bolster their confidence in their abilities to use programming techniques to support their research programs. Many people who try to self-teach become overwhelmed by available resources. This course will provide scaffolding to help students become proficient in a few sophisticated data science techniques, and it will give students enough foundational knowledge to pick up new data science skills on their own after the course is through.
 
 The objectives for the proposed course are for students to be able to:
+
 - Install, set up, and use R and RStudio  
 - Use reproducible workflows (so that analyses can easily be modified and then carried out again by the analyst or others) with R Markdown  
 - Prepare and explore complex data sources for analysis using the tidyverse suite of R packages  
