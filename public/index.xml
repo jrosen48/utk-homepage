@@ -6,10 +6,20 @@
     <description>Recent content in Home on Joshua M. Rosenberg, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Book published! Data Science in Education Using R</title>
+      <link>/post/2020/10/28/book-pub-lished-data-science-in-education-using-r/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/10/28/book-pub-lished-data-science-in-education-using-r/</guid>
+      <description>You&amp;rsquo;ve likely heard me post, talk, or share about the book that is now published, Data Science in Education Using R. I just wanted to compile a few things here:
+ The book is always available open-access here: https://www.datascienceineducation.com/ The book is available for purchase in soft or hardcover versions through Routledge (here) (use code BSE20 for 20% off); you can always find it on Amazon (here) or-we hope-your local and independent bookstore Third, a recording of our book launch from this past Monday is here  A blurb on the book is here:</description>
+    </item>
     
     <item>
       <title>Using a Shiny app to securely collect data for research</title>
