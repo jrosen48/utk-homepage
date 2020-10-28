@@ -6,10 +6,42 @@
     <description>Recent content in Home on Joshua M. Rosenberg, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Using a Shiny app to securely collect data for research</title>
+      <link>/post/2020/10/19/using-a-shiny-app-to-securely-collect-data-for-research/</link>
+      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/10/19/using-a-shiny-app-to-securely-collect-data-for-research/</guid>
+      <description>I&amp;rsquo;ve used Shiny apps (interactive web application which you can create with R that use R code/packages) a number of times.
+Here&amp;rsquo;s an example of one: http://konfound-it.com/
+For a new project, it seemed like collecting data from people who use the app would be useful, and this seemed easy enough to do, and, in short, it is, especially if using an excellent tool like {shinylogs}. But there are a few challenges to overcome; one key one was that I was unable to find an existing package or technique that would work for apps hosted by RStudio&amp;rsquo;s hosting service, shinyapps.</description>
+    </item>
+    
+    <item>
+      <title>Impodster Syndrome podcast archive</title>
+      <link>/post/2020/10/15/impodster-syndrome-podcast-archive/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/10/15/impodster-syndrome-podcast-archive/</guid>
+      <description>When my graduate school friend Spencer Greenhalgh and I started our current positions more than two years ago, we began a podcast. Then, we became busy and stopped, and stopped paying for hosting. Just so these didn&amp;rsquo;t disappear forever, we archived them in a public Google Drive folder: https://drive.google.com/drive/u/4/folders/1fwSaEKt9QzJPUlf-CYVVwPgN-pKBaAkW
+I&amp;rsquo;ve often listened to these multiple times - it has been a fun way for me to remember back (not too long ago&amp;mdash;but still!</description>
+    </item>
+    
+    <item>
+      <title>JRST Special Issue on Digital Ecologies to Appear, Reader Comments and Criticism Are Invited</title>
+      <link>/post/2020/10/15/jrst-special-issue-call/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/10/15/jrst-special-issue-call/</guid>
+      <description>This message about a call for comments and criticisms on the recent special issue of JRST on digital ecologies for science learning was sent by NARST.
+ NARST, a global organization for improving science education through research, announces the publication and release of the Journal of Research in Science Teaching’s special issue: “Science Teaching, Learning, Assessment with 21st Century, Cutting-edge Digital Ecologies.”
+  The special issue is set to appear online Wednesday, October 14, 2020 as the November issue of JRST (57n9).</description>
+    </item>
     
     <item>
       <title>New course on data science methods in education</title>

@@ -3,17 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-10-08T00:00:00+00:00</lastmod>
+    <loc>/categories/</loc>
+    <lastmod>2020-10-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/2020/10/08/new-course-on-data-science-methods-in-education-at-utk/</loc>
-    <lastmod>2020-10-08T00:00:00+00:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2020-10-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/post/</loc>
+    <lastmod>2020-10-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/r/</loc>
+    <lastmod>2020-10-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2020/10/19/using-a-shiny-app-to-securely-collect-data-for-research/</loc>
+    <lastmod>2020-10-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2020/10/15/impodster-syndrome-podcast-archive/</loc>
+    <lastmod>2020-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2020/10/15/jrst-special-issue-call/</loc>
+    <lastmod>2020-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2020/10/08/new-course-on-data-science-methods-in-education-at-utk/</loc>
     <lastmod>2020-10-08T00:00:00+00:00</lastmod>
   </url>
   
@@ -104,16 +129,6 @@
   
   <url>
     <loc>/post/2020/06/08/basic-sf-functionality-for-analyzing-and-plotting-geospatial-data/</loc>
-    <lastmod>2020-06-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2020-06-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/r/</loc>
     <lastmod>2020-06-08T00:00:00+00:00</lastmod>
   </url>
   

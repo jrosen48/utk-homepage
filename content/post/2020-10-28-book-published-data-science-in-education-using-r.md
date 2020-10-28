@@ -12,7 +12,7 @@ tags:
 You've likely heard me post, talk, or share about the book that is now published, 
 *Data Science in Education Using R*. I just wanted to compile a few things here:
 
-- The book is _always_ available open-access here: 
+- The book is _always_ available open-access here: https://www.datascienceineducation.com/
 - The book is available for purchase in soft or hardcover versions through Routledge ([here](https://www.routledge.com/Data-Science-in-Education-Using-R/Estrellado-Freer-Mostipak-Rosenberg-Velasquez/p/book/9780367422257)) (use code BSE20 for 20% off); you can always find it on Amazon ([here](https://www.amazon.com/Data-Science-Education-Using-R/dp/0367422255/ref=sr_1_2?dchild=1&keywords=data+science+in+education+using+r&qid=1593880609&sr=8-2)) or-we hope-your local and independent bookstore
 - Third, a recording of our book launch from this past Monday is [here](https://www.youtube.com/watch?v=iUnKFspyits) 
 
@@ -24,7 +24,7 @@ A blurb on the book is here:
 
 > This book will be an essential resource for education professionals and researchers looking to increase their data analysis skills as part of their professional and academic development.
 
-Some endorsements for it are here (thank you to the five individuals who wrote these for the book!):
+Some brief reviews for it are here (thank you to the five experts who wrote these for the book - we couldn't ask for better leaders in the field to endorse it):
 
 > "The authors have provided the definitive guide to the topic. The combination of theory and hands-on practical tutorials make this an invaluable resource for the growing fields of learning analytics and educational data science." - Mark Warschauer, Professor of Education and Informatics at the University of California, Irvine
 
