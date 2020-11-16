@@ -1,0 +1,41 @@
+---
+title: A fall outdoors
+author: Joshua Rosenberg
+date: '2020-11-16'
+slug: a-fall-outdoors
+categories: []
+tags: []
+---
+
+I wrote a blog post more than a week ago on feeling like we've (started to) arrive to Knoxville; a big part of the reason why has been the chance to spend time as a family outdoors---a silver lining of a difficult year. I think one or two of these dates may be inaccurate by a day or two (I mainly used pictures and recordings from [Strava](http://strava.com/) to recall them), but, I spent a bit of time capturing our walks and hikes, all except for three (Mt. Sterling, AT around Hot Springs, and West Prong) either as a family or with my son, since the beginning of the fall semester. 
+
+```{r, echo = FALSE, message = FALSE}
+library(dplyr)
+tibble::tribble(
+    ~V1,                        ~V2,                         ~V3,   ~V4,
+    "11/15",         "Mt Sterling Loop",                     "GSMNP", 16.72,
+    "11/14",               "Norris Dam",     "Norris Dam State Park",     3,
+    "11/7",       "Laurel Falls Trail",                     "GSMNP",  4.06,
+    "11/2",         "Obed Point Trail",                      "Obed",  4.36,
+    "10/31",            "Seven Islands",  "Seven Islands State Park",   2.5,
+    "10/25",            "Bote Mountain",                     "GSMNP",  5.32,
+    "10/24",              "Frozen Head",    "Frozen Head State Park",   2.5,
+    "10/23", "Seven Islands State Park",  "Seven Islands State Park",   2.5,
+    "10/17",              "Emory Falls",    "Frozen Head State Park",  2.85,
+    "10/9",    "AT around Hot Springs",                    "Pisgah", 10.09,
+    "10/4",      "Clingman's Dome, AT",                     "GSMNP",  3.09,
+    "9/28",           "Natural Tunnel", "Natural Tunnel State Park",   2.3,
+    "9/22",               "West Prong",                     "GSMNP",     4,
+    "9/20",            "Sharp's Ridge",                      "Knox",     4,
+    "9/12", "Seven Islands State Park",  "Seven Islands State Park",   2.5,
+    "8/30",                    "Ijams",                     "Ijams",     2,
+    "8/23",                    "Ijams",                     "Ijams",     2,
+    "8/20",                   "Hastie",            "William Hastie",     3,
+    "8/16",             "Middle Prong",                     "GSMNP",  3.19
+) %>% 
+    knitr::kable(col.names = c("Date", "Trail", "Location", "Miles"))
+```
+
+It's hard to pick a favorite, it would porbably be Emory Falls; a perfect late afternoon Saturday hike with my little one.
+
+```![me and joro by waterfall](/post/2020-11-16-a-fall-outdoors_files/PXL_20201017_215405340.MP (1).jpg)
