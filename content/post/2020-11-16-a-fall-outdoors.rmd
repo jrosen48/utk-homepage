@@ -7,7 +7,7 @@ categories: []
 tags: []
 ---
 
-I wrote a blog post more than a week ago on feeling like we've (started to) arrive to Knoxville; a big part of the reason why has been the chance to spend time as a family outdoors---a silver lining of a difficult year. I think one or two of these dates may be inaccurate by a day or two (I mainly used pictures and recordings from [Strava](http://strava.com/) to recall them), but, I spent a bit of time capturing our walks and hikes, all except for three (Mt. Sterling, AT around Hot Springs, and West Prong) either as a family or with my son, since the beginning of the fall semester. 
+I wrote a blog post more than a week ago on feeling like we've (started to) arrive to Knoxville; a big part of the reason why has been the chance to spend time as a family outdoors---a silver lining of a difficult year. I think one or two of these dates may be inaccurate by a day or two (I mainly used pictures and recordings from [Strava](http://strava.com/) to recall them), but, I spent a bit of time capturing our walks and hikes, all except for three (Mt. Sterling, AT around Hot Springs, and West Prong) either as a family or with my son, since the beginning of the fall semester. GSMNP = Great Smoky Mountains National Park.
 
 ```{r, echo = FALSE, message = FALSE}
 library(dplyr)
@@ -36,6 +36,6 @@ tibble::tribble(
     knitr::kable(col.names = c("Date", "Trail", "Location", "Miles"))
 ```
 
-It's hard to pick a favorite, it would porbably be Emory Falls; a perfect late afternoon Saturday hike with my little one.
+It's hard to pick a favorite, it would probably be Emory Falls; a perfect late afternoon Saturday hike with my little one. Another favorite was Obed Point Trail. Clingman's Dome was fun, but a long drive (~ 1h 45m minutes, each way). A favorite hike that we didn't make it to this fall was to Abrams Creek, only 50m from Knoxville but in the Smokies. I actually thought we went sometime in August, but could not find any record of it! 
 
 ```![me and joro by waterfall](/post/2020-11-16-a-fall-outdoors_files/PXL_20201017_215405340.MP (1).jpg)
