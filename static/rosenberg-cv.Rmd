@@ -253,15 +253,15 @@ Rosenberg, J. M., & Koehler, M. J. (2015). Context and Technological Pedagogical
 ## Book
 
 \hangindent=2em
-Estrellado, R. A., Freer, E. A.,  Mostipak, J., Rosenberg, J. M., & Velásquez, I. C. (in press). *Data science in education using R*. London, England: Routledge. *Nb.* All authors contributed equally. http://www.datascienceineducation.com/ <a href="https://github.com/data-edu/data-science-in-education"><img src = "/logos/github.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
+Estrellado, R. A., Freer, E. A.,  Mostipak, J., Rosenberg, J. M., & Velásquez, I. C. (2020). *Data science in education using R*. London, England: Routledge. *Nb.* All authors contributed equally. http://www.datascienceineducation.com/ <a href="https://github.com/data-edu/data-science-in-education"><img src = "/logos/github.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
 
 ## Contributions to Edited Volumes
 
 \hangindent=2em
-Rosenberg, J. M., Lawson, M. A., Anderson, D. J., & Rutherford, T. (in press). Making data science count in and for education. In E. Romero-Hall (Ed.), *Research Methods in Learning Design & Technology.*. Routledge: New York, NY. <a href = "/pre-prints/rosenberg-et-al-data-science-in-and-for-education-research-methods-in-ldt.pdf"><img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
+Rosenberg, J. M., Lawson, M. A., Anderson, D. J., & Rutherford, T. (2020). Making data science count in and for education. In E. Romero-Hall (Ed.), *Research Methods in Learning Design & Technology.*. Routledge: New York, NY. <a href = "/pre-prints/rosenberg-et-al-data-science-in-and-for-education-research-methods-in-ldt.pdf"><img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
 \hangindent=2em
-Greenhalgh, S. P., Staudt Willet, B., Rosenberg, J. M., & Koehler, M. J. (in press). Lessons learned from applying Twitter research methods to educational technology phenomena. In E. Romero-Hall (Ed.), *Research Methods in Learning Design & Technology*. Routledge: New York, NY. <a href = "http://www.researchmerge.com/uploads/7/5/3/5/75356681/chapter_5_research_methods_in_learning_design_and_technology_pre-print.pdf"><img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
+Greenhalgh, S. P., Staudt Willet, B., Rosenberg, J. M., & Koehler, M. J. (2020). Lessons learned from applying Twitter research methods to educational technology phenomena. In E. Romero-Hall (Ed.), *Research Methods in Learning Design & Technology*. Routledge: New York, NY. <a href = "http://www.researchmerge.com/uploads/7/5/3/5/75356681/chapter_5_research_methods_in_learning_design_and_technology_pre-print.pdf"><img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
 \hangindent=2em
 Dai, T., Rosenberg, J. M., & Lawson, M. A. (in press). Data representation. In T. L. Good & M. McCaslin (*Eds.*), Educational Psychology Section; D. Fisher (*Ed.*), Routledge Encyclopedia of Education (Online). Taylor & Francis: New York, NY.
