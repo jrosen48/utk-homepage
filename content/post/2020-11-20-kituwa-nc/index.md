@@ -13,7 +13,7 @@ My last post was about [a fall outdoors](https://joshuamrosenberg.com/post/2020/
 - [On Trails](https://www.simonandschuster.com/books/On-Trails/Robert-Moor/9781476739236)
 - [Mountains of the Heart](https://www.amazon.com/Mountains-Heart-Natural-History-Appalachians/dp/1938486889)
 
-Each educated me. All three focus on the region in which I know find myself; one noted that many of the Cherokee people who lived here for centuries consider a place south of the Great Smoky Mountains National Park, [Kituwa](https://en.wikipedia.org/wiki/Kituwa), to be their ancestral homeland. This fact struck me like one hundred before couldn't.
+Each educated me. All three focus on the region in which I know find myself; one, *On Trails*, noted that many of the Cherokee people who lived here for centuries consider a place south of the Great Smoky Mountains National Park, [Kituwa](https://en.wikipedia.org/wiki/Kituwa), to be their ancestral homeland. This fact struck me like one hundred before couldn't.
 
 If you look at a map of the region closely, the location alone _seems_ special:
 
@@ -25,4 +25,4 @@ What struck me when reading about Kituwa and the people that lived and lived the
 
 The [Trail of Tears](https://en.wikipedia.org/wiki/Trail_of_Tears) involved forcibly relocating people who were from the Cherokee nation, and also other independent nations in the southeast. 
 
-The point - or my reflection (I have one) - is that this was devastating, for moral reasons and also because relocation was not like having to move from one place to an equivalent other. This place was their home. It is a special - and sacred - place. As I and others trounce through the mountains, I think it's worth considering this; as much as this is _our_ National Park, it's also not ours in a very meaningful and important way; it's also the land of the people who were here first; who were forcibly removed; and who survived and still live in and around where Kituwah was---including in Cherokee, NC.
+The point - or my reflection (I have one) - is that this was devastating, for moral reasons and also because relocation was not like having to move from one place to an equivalent other. This place was their home. It is a special - and sacred - place. As I and others trounce through the mountains, I think it's worth considering this; as much as this is _our_ National Park, it's also not ours in a very meaningful and important way. It's also the land of the people who were here first; who were forcibly removed; and who survived and still live in and around where Kituwa was. That's all; this post, I think is just a brief and initial appreciation of those things.
