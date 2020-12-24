@@ -183,7 +183,7 @@ Rosenberg, J. M., & Staudt Willet, K. B. (advance online publication). Balancing
 
 Rosenberg, J. M., & Krist, C. (advance online publication). Combining machine learning and qualitative methods to elaborate students’ ideas about the generality of their model-based explanations. *Journal of Science Education and Technology*. https://link.springer.com/article/10.1007%2Fs10956-020-09862-4. *Nb.* Both authors contributed equally. <a href = "https://joshuamrosenberg.com/post-prints/rosenberg-krist-jost.pdf"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
-Anderson, D. J., Rowley, B., Stegenga, S., Irvin, P. S., & Rosenberg, J. M. (advance online publication). Evaluating content-related validity evidence using a text-based, machine learning procedure. *Educational Measurement: Issues and Practice*. https://onlinelibrary.wiley.com/doi/abs/10.1111/emip.12314 <a href = "https://github.com/datalorax/text-analysis-content-validity/raw/master/text-analysis-content-validity.pdf"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
+Anderson, D. J., Rowley, B., Stegenga, S., Irvin, P. S., & Rosenberg, J. M. (2020). Evaluating content-related validity evidence using a text-based, machine learning procedure. *Educational Measurement: Issues and Practice, 39*(4), 53-64. https://onlinelibrary.wiley.com/doi/abs/10.1111/emip.12314 <a href = "https://github.com/datalorax/text-analysis-content-validity/raw/master/text-analysis-content-validity.pdf"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
 Rosenberg, J. M., Reid, J., Dyer, E., Koehler, M. J., Fischer, C., & McKenna, T. J. (2020). Idle chatter or compelling conversation? The potential of the social media-based #NGSSchat network as a support for science education reform efforts. *Journal of Research in Science Teaching, 57*(9), 1322-1355. https://onlinelibrary.wiley.com/doi/10.1002/tea.21660 <a href = "https://osf.io/uwza6/download"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
@@ -529,6 +529,7 @@ MSU-AT&T Instructional Technology Award (Honorable Mention): Best Online Course,
 
 Instructor at the University of Tennessee, Knoxville:
 
+*Introduction to Data Science Methods in Education* (TPTE 595 & TPTE 695, M.A. and Ph.D. class)
 *Nature of Mathematics and Science Education* (SCED 572,  M.A. and Ph.D. class)  
 *Teaching Science in Grades 7-12* (TPTE 495, SCED 496, & SCED 543,  B.S. & M.A. class)  
 *VolsTeach Step 1 and Step 2* (TPTE 110 & TPTE 120, undergraduate-level class)
