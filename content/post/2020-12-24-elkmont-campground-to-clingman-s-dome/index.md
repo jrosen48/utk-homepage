@@ -9,12 +9,12 @@ tags: []
 ---
 
 Beginning late last week, I started to plan a hike-run 
-to Mount LeConte for the holiday break. We settled on Tuesday, because the weather
+to Mount LeConte for the holiday break with friends. We settled on Tuesday, because the weather
 was clear and relatively warm, with a high of around 45F in Knoxville (and around 30-35F
 in the National Park). On Monday, we learned that the main (in fact, I believe the only)
 road to take you to the top of the mountains, Newfound Gap road (highway 441), was closing due to high winds. 
 
-So, we had to audible, instead choosing to leave from Elkmont Campground near Gatlinburg. Our plan 
+So, we had to audible, instead choosing to leave from Elkmont Campground near Gatlinburg. Only Kevin could make it. Our plan 
 was to meet at 8:00 am, (and) so we both pulled in around 8:40 am at the Little River trailhead near 
 the back of the campground. When we left, it was a bit colder than we anticipated; I had to put on the liner gloves
 in addition to a second, heavier pair I brought, and we started up the Little River trail, which gradually followed the 
