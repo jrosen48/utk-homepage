@@ -1,5 +1,5 @@
 ---
-title: Making sense of COVID in our family
+title: Making sense of COVID - it got us! But it won't get us
 author: R package build
 date: '2021-02-03'
 slug: making-sense-of-covid-in-our-family
