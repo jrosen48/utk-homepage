@@ -46,7 +46,7 @@ her symptoms will not be worse than mild-moderate. It is pretty weird to be doin
 it is a good test of and testimony to the strength of our marriage. We are doing fine.
 
 Our little one is doing fine. He misses his Mom a lot! It is very odd for him. He will need to 
-be hope from daycare for at least 14 days. He and I will continue to get tested. Ultimately, 
+be home from daycare for at least 14 days. He and I will continue to get tested. Ultimately, 
 I feel very lucky. I have been able to cancel meetings and basically focus on my son and 
 Katie. I do not have to worry about employment and friends and family have been more than 
 supportive. So it is a weird, weird, weird time, and it is disappointing, and I am thankful.
