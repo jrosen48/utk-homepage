@@ -25,7 +25,7 @@ Once Katie tested positive, we... well, we didn't spring into action. Often thes
 things require you to think quickly on your feet, and we didn't. Honestly, we thought that it was
 certain that my son and I had it, too, but were asymptomatic or - more likely - were a few days 
 behind her. Katie put a mask on promptly, and, I did too. The first night was weird - were in this 
-limimal stateI had  actually tried to make an appointment for a rapid test that same day, 
+liminal state. I had  actually tried to make an appointment for a rapid test that same day, 
 but something weird happened with my appointment at CVS. Fortunately, when rescheduling,
 I found an urgent care that could test my son and I both around noon the next day.
 
@@ -49,4 +49,4 @@ Our little one is doing fine. He misses his Mom a lot! It is very odd for him. H
 be hope from daycare for at least 14 days. He and I will continue to get tested. Ultimately, 
 I feel very lucky. I have been able to cancel meetings and basically focus on my son and 
 Katie. I do not have to worry about employment and friends and family have been more than 
-supportive. So it is a weird, weird, weird time, and it is dissapointing, and I am thankful.
+supportive. So it is a weird, weird, weird time, and it is disappointing, and I am thankful.
