@@ -25,7 +25,7 @@ Once Katie tested positive, we... well, we didn't spring into action. Often thes
 things require you to think quickly on your feet, and we didn't. Honestly, we thought that it was
 certain that my son and I had it, too, but were asymptomatic or - more likely - were a few days 
 behind her. Katie put a mask on promptly, and, I did too. The first night was weird - were in this 
-liminal state. I had  actually tried to make an appointment for a rapid test that same day, 
+liminal state. I had actually tried to make an appointment for a rapid test that same day, 
 but something weird happened with my appointment at CVS. Fortunately, when rescheduling,
 I found an urgent care that could test my son and I both around noon the next day.
 
