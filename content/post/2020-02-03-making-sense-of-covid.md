@@ -38,8 +38,8 @@ at home; Katie gets a hotel, and we isolate at home; we visit my parents, and Ka
 and, we stay at home and isolate in different rooms. We chose the last option and basically hoped
 for the best. Our plan was for Katie to stay in our bedroom. I would sleep in our living room. 
 We have doors from our bedroom outside; we were able to use this to share (food, clothes) between us. 
-I went to Target after our negative test and bought the best air filter I could find--and, then,
-bought a better one from Amazon. And so this is what we have done for the last almost four days.
+I bought the best HVAC system air filters I could find on Amazon. And so this is what we have done for the 
+last almost four days.
 
 Thankfully, and most importantly, Katie is strong and is doing well. We are optimistic that
 her symptoms will not be worse than mild-moderate. It is pretty weird to be doing this. I think 
