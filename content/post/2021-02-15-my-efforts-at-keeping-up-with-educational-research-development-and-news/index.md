@@ -58,7 +58,12 @@ I also follow local educational news, especially that in [Compass](https://compa
 
 ## Mailing Lists
 
+I subscribe to a few mailing lists, too;
+
 - [National Association for Research in Science Teaching](https://narst.org/) (requires joining this organization)
 - [Learning Engineering](https://groups.google.com/u/1/g/learning-engineering)
 - [R Weekly](http://rweekly.org/)
+- [Association of Internet Researchers](https://aoir.org/)
+- [National Science Teachers Association mailing lists](https://www.nsta.org/mailing-lists)
+- [Division 15 Weekly Newsletter](https://www.apa.org/about/division/div15)
 - Various mailing lists associated with the American Educational Research Association (and conference), including the Technology as an Agent of Change for Teaching and Learning, Advanced Technologies for Learning, and the Motivation Special Interest Groups (SIGs)
