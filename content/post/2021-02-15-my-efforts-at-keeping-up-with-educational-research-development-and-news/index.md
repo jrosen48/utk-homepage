@@ -25,7 +25,7 @@ Here are some journals I keep up with; I at least like to see the titles of arti
 - [*Educational Researcher*](https://journals.sagepub.com/connected/edr#rss)
 - [*AERA Open*](https://journals.sagepub.com/connected/ero#rss) (open-access)
 - [*American Educational Research Journal*](https://journals.sagepub.com/connected/aer#rss)
-- [*Journal of the Learning Science*](https://www.tandfonline.com/feed/rss/hlns20)
+- [*Journal of the Learning Sciences*](https://www.tandfonline.com/feed/rss/hlns20)
 - [*Journal of Research in Science Teaching*](https://onlinelibrary.wiley.com/journal/10982736?af=R#)
 - [*Science Education*](https://onlinelibrary.wiley.com/journal/1098237x#)
 - [*Computers & Education*](http://rss.sciencedirect.com/publication/science/03601315)
