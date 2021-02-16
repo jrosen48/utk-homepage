@@ -20,7 +20,7 @@ This is an incomplete list that I'll likely revise after we talk.
 
 I find the best way to keep up with journals to be subscribing to the journal's feed via RSS. I use [Feedly](https://feedly.com/) (though I miss Google Reader!). I like to their feeds below.
 
-Here are some journals I keep up with; I at least like to see the titles of articles in these, checking articles of interest/relevance (by way of my University's library for those that aren't open-access):
+Here are some journals I keep up with; I at least like to see the titles of articles in these, checking articles of interest/relevance (by way of my University's library for those that aren't open-access^[It's pretty striking to me that all but one of these journals are _not_ open-access and require a subscription; in my view, that's bad, and is something Ryan and I will discuss in another episode!]):
 
 - [*Educational Researcher*](https://journals.sagepub.com/connected/edr#rss)
 - [*AERA Open*](https://journals.sagepub.com/connected/ero#rss) (open-access)
@@ -39,10 +39,10 @@ Here are some journals I keep up with; I at least like to see the titles of arti
 
 I like to look at the titles (and papers) for the following conferences:
 
-- [*American Educational Research Association*](https://www.aera.net/Events-Meetings/Annual-Meeting) (no papers/proceedings)
-- [*Learning Analytics & Knowledge*](https://www.solaresearch.org/events/lak/)
-- [*International Society of the Learning Sciences*](https://www.isls.org/annual-meeting/)
-- [*National Assocation of Research in Science Teaching*](https://narst.org/conferences/2021-annual-conference) (no papers/proceedings)
+- [American Educational Research Association](https://www.aera.net/Events-Meetings/Annual-Meeting) (no papers/proceedings)
+- [Learning Analytics & Knowledge](https://www.solaresearch.org/events/lak/)
+- [International Society of the Learning Sciences](https://www.isls.org/annual-meeting/)
+- [National Assocation of Research in Science Teaching](https://narst.org/conferences/2021-annual-conference) (no papers/proceedings)
 
 ## Newsletters
 
