@@ -12,13 +12,11 @@ Here's the first episode:
 
 <iframe src="https://anchor.fm/about-practice/embed/episodes/1-Hypothesis-Testing-for-Kids-is-Basically-Torture-eq0qc6" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
-In an upcoming episode, we'll discuss how we each keep up with educational research, development efforts and initiatives, and news. This post represents my attempt at capturing some of the idea I have prior to our conversation. It's organized by type. I'm providing fairly minimal annotation but will say more in the pod; consider subscribing to it!
-
-This is an incomplete list that I'll likely revise after we talk.
+In an upcoming episode, we'll discuss how we each keep up with educational research, development efforts and initiatives, and news. This post represents my attempt at capturing some of the ideas I have prior to our conversation. It's organized by type. I'm providing fairly minimal annotation but will say more in the pod; consider subscribing to it! Last, this is an incomplete list that I'll likely revise after we talk.
 
 ## Journals
 
-I find the best way to keep up with journals to be subscribing to the journal's feed via RSS. I use [Feedly](https://feedly.com/) (though I miss Google Reader!). I like to their feeds below.
+I find the best way to keep up with journals to be subscribing to the journal's feed via RSS. I use [Feedly](https://feedly.com/) (though I miss Google Reader!). I link to their feeds below.
 
 Here are some journals I keep up with; I at least like to see the titles of articles in these, checking articles of interest/relevance (by way of my University's library for those that aren't open-access^[It's pretty striking to me that all but one of these journals are _not_ open-access and require a subscription; in my view, that's bad, and is something Ryan and I will discuss in another episode!]):
 
