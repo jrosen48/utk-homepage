@@ -1,6 +1,5 @@
 ---
 title: Post-COVID reflections
-author: R package build
 date: '2021-02-17'
 slug: post-covid-reflections
 categories: []
