@@ -29,7 +29,7 @@ and with Katie doing well, kind of a special time, one in which I learned about 
 and my ability to care for my son, and about my son. 
 
 I recognize that there are some potential blind spots around my saying this. One is
-that I was able to take time off from work - and not face many/any negative repurcusions 
+that I was able to take time off from work - and not face many/any negative repercussions 
 for doing so. Many people around the country and around the world are in far from a similar
 situation. Moreover, as a male, in some ways, I received positive feedback for doing this (e.g.,
 from family members), whereas if Katie were in the same situation, she would likely have faced
@@ -37,6 +37,3 @@ questions around why she wasn't also working. So, I'm really thankful, and I don
 deserve much if any credit, and in some ways it was a necessary thing to do, and one
 that I am glad I was able, and . . . I have more empathy for parents caring for their children,
 especially those in fraught work or personal situations while also doing this. 
-
-I guess I don't have any more to say than that. I'm really thankful for the support of 
-our families and friends and colleagues, that made a bi
