@@ -2,10 +2,10 @@
 
 file.copy("about-source.Rmd", "static/rosenberg-cv.Rmd", overwrite=TRUE)
 lines <- readr::read_lines('static/rosenberg-cv.Rmd')
-lines[13] <- "```{r, include = FALSE, eval = FALSE}"
-lines[62] <- ""
-lines[64] <- "```{r, echo = FALSE, eval = FALSE}"
-lines[65] <- "render_toc('static/rosenberg-cv.Rmd')"
+lines[15] <- "```{r, include = FALSE, eval = FALSE}"
+lines[64] <- ""
+lines[66] <- "```{r, echo = FALSE, eval = FALSE}"
+lines[67] <- "render_toc('static/rosenberg-cv.Rmd')"
 #lines <- lines[-c(61, 63:66, 83)]
 # lines[61] <- ""
 # lines[62] <- ""
@@ -13,8 +13,10 @@ lines[65] <- "render_toc('static/rosenberg-cv.Rmd')"
 l <- which(stringr::str_detect(lines, "Resource") & stringr::str_detect(lines, "Logo"))
 lines <- lines[-c(l:(l + 5))]
 readr::write_lines(unlist(lines), 'static/rosenberg-cv.Rmd')
-rmarkdown::render("static/rosenberg-cv.Rmd", output_format = "pdf_document")
+rmarkdown::render("static/rosenberg-cv.Rmd", output_format = "pdf_document", clean = FALSE)
 
+# knitr::knit("static/rosenberg-cv.Rmd", output="static/rosenberg-cv.tex")
+ 
 header_lines <- unlist(readLines("static/rosenberg-cv-backup-with-styling.tex"))
 main_lines <- unlist(readLines("static/rosenberg-cv.tex"))
 where_to_begin <- which(stringr::str_detect(main_lines, "hypertarget\\{education\\}"))
@@ -78,3 +80,4 @@ cv_html <- cv_html[cv_html!="\\hangindent=2em"]
 cv_html <- cv_html[cv_html!="\\center"]
 cv_html <- cv_html[cv_html!="\\endgroup"]
 readr::write_lines(unlist(cv_html), "content/about.Rmd")
+

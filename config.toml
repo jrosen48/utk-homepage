@@ -19,16 +19,13 @@ math = true
     url = "/"
     weight = 1
 [[menu.main]]
-    name = "CV"
+    name = "About"
     url = "/about/"
     weight = 2
 [[menu.main]]
     name = "Blog Categories"
     url = "/categories/"
     weight = 3
-[[menu.main]]
-    name = "Software"
-    url = "/software/"
 [[menu.main]]
     name = "Research Group"
     url = "https://makingdatasciencecount.com"
