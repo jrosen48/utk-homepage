@@ -175,13 +175,13 @@ C.D. Owen High School, Swannanoa, NC
 ## Articles Published in Refereed Journals
 
 \hangindent=2em
-Akcaoglu, M., Rosenberg, J. M., Hodges, C. B., Hilpert, J. (advance online publication). An exploration of factors impacting middle school students’ attitudes toward computer programming. *Computers in the Schools. 38*(1). https://doi.org/10.1080/07380569.2021.1882209
-
-\hangindent=2em
 Schweinsburg, M., ... Luis, S. (in press). Same data, different conclusions: Radical dispersion in empirical results. *Organizational Behavior and Human Decision Processes.*
 
 \hangindent=2em
 Frank, K. A., Lin, Q., Maroulis, S., Strassman, A., Xu, R., Rosenberg, J. M., Hayter, C., Mahmoud, R., Kolak, M., Dietz, T., & Zhang, L. (in press). Quantifying clinical uncertainty in times of crisis: How different would a sample have to be to change an inference? *Journal of Clinical Epidemiology* (*N.B.:* I was a scientific programmer for the statistical software used and demonstrated in this paper).
+
+\hangindent=2em
+Akcaoglu, M., Rosenberg, J. M., Hodges, C. B., Hilpert, J. (advance online publication). An exploration of factors impacting middle school students’ attitudes toward computer programming. *Computers in the Schools. 38*(1). https://doi.org/10.1080/07380569.2021.1882209
 
 \hangindent=2em
 Rosenberg, J. M., & Staudt Willet, K. B. (advance online publication). Balancing participants’ privacy and open science in the context of COVID-19: A response to Ifenthaler & Schumacher (2016). *Educational Technology Research and Development*. <a href = "https://www.jmichaelrosenberg.com/post-prints/rosenberg-staudt-willet-2020.pdf"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
