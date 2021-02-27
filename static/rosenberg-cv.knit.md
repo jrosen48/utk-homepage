@@ -126,22 +126,22 @@ C.D. Owen High School, Swannanoa, NC
 ## Articles Published in Refereed Journals
 
 \hangindent=2em
+Akcaoglu, M., Rosenberg, J. M., Hodges, C. B., Hilpert, J. (advance online publication). An exploration of factors impacting middle school students’ attitudes toward computer programming. *Computers in the Schools. 38*(1). https://doi.org/10.1080/07380569.2021.1882209
+
+\hangindent=2em
 Schweinsburg, M., ... Luis, S. (in press). Same data, different conclusions: Radical dispersion in empirical results. *Organizational Behavior and Human Decision Processes.*
 
 \hangindent=2em
 Frank, K. A., Lin, Q., Maroulis, S., Strassman, A., Xu, R., Rosenberg, J. M., Hayter, C., Mahmoud, R., Kolak, M., Dietz, T., & Zhang, L. (in press). Quantifying clinical uncertainty in times of crisis: How different would a sample have to be to change an inference? *Journal of Clinical Epidemiology* (*N.B.:* I was a scientific programmer for the statistical software used and demonstrated in this paper).
 
 \hangindent=2em
-Akcaoglu, M., Rosenberg, J. M., Hodges, C. B., Hilpert, J. (2021). An exploration of factors impacting middle school students’ attitudes toward computer programming. *Computers in the Schools. 38*(1). https://doi.org/10.1080/07380569.2021.1882209
-
-\hangindent=2em
-Harper, F. K., Rosenberg, J. M., Comperry, S., Howell, K., & Womble, S. (2021). # Mathathome during the COVID-19 Pandemic: Exploring and Reimagining Resources and Social Supports for Parents. *Education Sciences, 11*(2), 60, 1-24. https://www.mdpi.com/2227-7102/11/2/60 <a href = "https://www.mdpi.com/2227-7102/11/2/60/pdf"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
-
-\hangindent=2em
 Rosenberg, J. M., & Staudt Willet, K. B. (advance online publication). Balancing participants’ privacy and open science in the context of COVID-19: A response to Ifenthaler & Schumacher (2016). *Educational Technology Research and Development*. <a href = "https://www.jmichaelrosenberg.com/post-prints/rosenberg-staudt-willet-2020.pdf"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
 \hangindent=2em
 Rosenberg, J. M., & Krist, C. (advance online publication). Combining machine learning and qualitative methods to elaborate students’ ideas about the generality of their model-based explanations. *Journal of Science Education and Technology*. https://link.springer.com/article/10.1007%2Fs10956-020-09862-4. *Nb.* Both authors contributed equally. <a href = "https://joshuamrosenberg.com/post-prints/rosenberg-krist-jost.pdf"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
+
+\hangindent=2em
+Harper, F. K., Rosenberg, J. M., Comperry, S., Howell, K., & Womble, S. (2021). # Mathathome during the COVID-19 Pandemic: Exploring and Reimagining Resources and Social Supports for Parents. *Education Sciences, 11*(2), 60, 1-24. https://www.mdpi.com/2227-7102/11/2/60 <a href = "https://www.mdpi.com/2227-7102/11/2/60/pdf"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
 \hangindent=2em
 Anderson, D. J., Rowley, B., Stegenga, S., Irvin, P. S., & Rosenberg, J. M. (2020). Evaluating content-related validity evidence using a text-based, machine learning procedure. *Educational Measurement: Issues and Practice, 39*(4), 53-64. https://onlinelibrary.wiley.com/doi/abs/10.1111/emip.12314 <a href = "https://github.com/datalorax/text-analysis-content-validity/raw/master/text-analysis-content-validity.pdf"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
@@ -372,7 +372,7 @@ Phillips, M., Harris, J., Rosenberg, J. M., & Koehler, M. J. (2017). TPCK/TPACK 
 \hangindent=2em
 Rosenberg, J. M., & Ranellucci, J. (2017). Student motivation in online science courses: A path to spending more time on course and higher achievement. *Michigan Virtual Learning Research Institute Blog: Research, Policy, Innovation & Networks*. https://mvlri.org/blog/student-motivation-in-online-science-courses-a-path-to-spending-more-time-on-course-and-higher-achievement/
 
-## Pre-Prints and Unpublished Manuscript
+## Unpublished Manuscripts
 
 \hangindent=2em
 Rosenberg, J. (2019). *Understanding the development of interest in CS: An experience sampling approach (Proposal to NSF 19-4327)*. https://doi.org/10.31219/osf.io/9mg5y *Nb.* This proposal is associated with NSF Grant no. [1937700](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1937700&HistoricalAwards=false). 

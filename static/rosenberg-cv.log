@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.2.26)  27 FEB 2021 14:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.2.26)  27 FEB 2021 15:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -547,12 +547,12 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 
 [21] [22] (./rosenberg-cv.aux)
 Package rerunfilecheck Info: File `rosenberg-cv.out' has not changed.
-(rerunfilecheck)             Checksum: 8727B12A5D27B26D53D3F248BFC1DF74;8620.
+(rerunfilecheck)             Checksum: 1C0C2E879758DA1769FB14228E508F56;8544.
  ) 
 Here is how much of TeX's memory you used:
  10077 strings out of 480971
- 147657 string characters out of 5906863
- 459470 words of memory out of 5000000
+ 147629 string characters out of 5906863
+ 459456 words of memory out of 5000000
  27006 multiletter control sequences out of 15000+600000
  452978 words of font info for 66 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -564,7 +564,7 @@ m/lmbx12.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/pub
 lic/lm/lmr10.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1
 /public/lm/lmr17.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/t
 ype1/public/lm/lmri10.pfb>
-Output written on rosenberg-cv.pdf (22 pages, 227576 bytes).
+Output written on rosenberg-cv.pdf (22 pages, 227552 bytes).
 PDF statistics:
  525 PDF objects out of 1000 (max. 8388607)
  491 compressed objects within 5 object streams
