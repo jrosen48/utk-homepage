@@ -23,6 +23,11 @@ The punchlines are:
 - We estimated that there are between 15.2 and 20.3 million photos of students shared by schools and districts 
 - We estimated that there are between approximately 150,000 and 1.15 million photos of students shared
 in ways that make it easy to identify them (by connecting their name with their face in the photo)
+- These are strictly public posts; anyone (even without a Facebook account) can access them; these 
+photos on schools' and districts' pages may represent the largest public collection of identifiable
+images of students/minors/children in the United States
+
+Yikes is the response.
 
 I was so ... taken aback by the findings that I jotted down some thoughts at the same time
 that Macy was submitting the proposal. These are for an audience of administrators/educational
@@ -30,6 +35,8 @@ leaders/educators; maybe for a venue such as [Educational Leadership](http://www
 those thoughts are below. I am sure I will shape them up (likely with Macy and colleagues), 
 but thought to share these in case others had thoughts/advice to add on - as well
 as feedback on whether there is a serious threat from students' photos being posted.
+
+--
 
 ## Introduction
 
