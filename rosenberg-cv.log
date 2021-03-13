@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.2.26)  27 FEB 2021 15:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.3.9)  13 MAR 2021 16:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -193,8 +193,32 @@ Package: inputenc 2020/08/01 v1.3d Input encoding file
 ) (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/base/textcomp.st
 y
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
-) (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/xcolor/xcolor.st
-y
+)
+(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/microtype/microtyp
+e.sty
+Package: microtype 2021/02/25 v2.8b Micro-typographical refinements (RS)
+\MT@toks=\toks25
+\MT@count=\count268
+LaTeX Info: Redefining \textls on input line 788.
+\MT@outer@kern=\dimen156
+LaTeX Info: Redefining \textmicrotypecontext on input line 1358.
+\MT@listname@count=\count269
+
+(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/microtype/microtyp
+e-pdftex.def
+File: microtype-pdftex.def 2021/02/25 v2.8b Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 915.
+LaTeX Info: Redefining \lslig on input line 915.
+\MT@outer@space=\skip61
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/microtype/microtyp
+e.cfg
+File: microtype.cfg 2021/02/25 v2.8b microtype main configuration file (RS)
+)) (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/xcolor/xcolor.s
+ty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
 (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/graphics-cfg/color
@@ -219,7 +243,7 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
 (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.
 sty
-Package: hyperref 2021-02-10 v7.00j Hypertext links for LaTeX
+Package: hyperref 2021-02-27 v7.00k Hypertext links for LaTeX
 
 (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/generic/ltxcmds/ltxcmds.
 sty
@@ -266,19 +290,19 @@ Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 s.sty
 Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 )
-\@linkdim=\dimen156
-\Hy@linkcounter=\count268
-\Hy@pagecounter=\count269
+\@linkdim=\dimen157
+\Hy@linkcounter=\count270
+\Hy@pagecounter=\count271
 
 (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.de
 f
-File: pd1enc.def 2021-02-10 v7.00j Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2021-02-27 v7.00k Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
 (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref-
 langpatches.def
-File: hyperref-langpatches.def 2021-02-10 v7.00j Hyperref: patches for babel la
+File: hyperref-langpatches.def 2021-02-27 v7.00k Hyperref: patches for babel la
 nguages
 )
 (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/generic/intcalc/intcalc.
@@ -289,10 +313,10 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 s.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count270
+\Hy@SavedSpaceFactor=\count272
 
 (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2021-02-10 v7.00j Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2021-02-27 v7.00k Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
@@ -304,13 +328,13 @@ Package hyperref Info: Plain pages OFF on input line 4207.
 Package hyperref Info: Backreferencing OFF on input line 4212.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4445.
-\c@Hy@tempcnt=\count271
+\c@Hy@tempcnt=\count273
 (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4804.
-\XeTeXLinkMargin=\dimen157
+\XeTeXLinkMargin=\dimen158
 
 (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/generic/bitset/bitset.st
 y
@@ -321,9 +345,9 @@ tcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count272
-\Field@Width=\dimen158
-\Fld@charsize=\dimen159
+\Fld@menulength=\count274
+\Field@Width=\dimen159
+\Fld@charsize=\dimen160
 Package hyperref Info: Hyper figures OFF on input line 6075.
 Package hyperref Info: Link nesting OFF on input line 6080.
 Package hyperref Info: Hyper index ON on input line 6083.
@@ -340,15 +364,15 @@ Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
 ge
 with kernel methods
 )
-\Hy@abspage=\count273
-\c@Item=\count274
-\c@Hfootnote=\count275
+\Hy@abspage=\count275
+\c@Item=\count276
+\c@Hfootnote=\count277
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
 (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hpdftex.d
 ef
-File: hpdftex.def 2021-02-10 v7.00j Hyperref driver for pdfTeX
+File: hpdftex.def 2021-02-27 v7.00k Hyperref driver for pdfTeX
 
 (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/base/atveryend-ltx
 .sty
@@ -356,8 +380,8 @@ Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
 e
 with kernel methods
 )
-\Fld@listcount=\count276
-\c@bookmark@seq@number=\count277
+\Fld@listcount=\count278
+\c@bookmark@seq@number=\count279
 
 (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/rerunfilecheck/rer
 unfilecheck.sty
@@ -370,7 +394,7 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 86.
 )
-\Hy@SectionHShift=\skip61
+\Hy@SectionHShift=\skip62
 )
 (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/graphics/graphicx.
 sty
@@ -388,8 +412,8 @@ File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 105.
 )
-\Gin@req@height=\dimen160
-\Gin@req@width=\dimen161
+\Gin@req@height=\dimen161
+\Gin@req@width=\dimen162
 )
 (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/grffile/grffile.st
 y
@@ -400,8 +424,8 @@ line 40.
 )
 (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backen
 d-pdftex.def
-File: l3backend-pdftex.def 2021-02-18 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count278
+File: l3backend-pdftex.def 2021-03-02 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count280
 \l__pdf_internal_box=\box49
 )
 
@@ -463,7 +487,23 @@ LaTeX Font Info:    ... okay on input line 74.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+LaTeX Info: Redefining \microtypecontext on input line 74.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using protrusion set `basicmath'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+LaTeX Info: Redefining \showhyphens on input line 74.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
 
+(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/microtype/mt-cmr.c
+fg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
 (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/epstopdf-pkg/epsto
 pdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -489,7 +529,7 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count279
+\c@section@level=\count281
 )
 LaTeX Info: Redefining \ref on input line 74.
 LaTeX Info: Redefining \pageref on input line 74.
@@ -529,10 +569,18 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line 76.
 (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
+(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/microtype/mt-msa.c
+fg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
 LaTeX Font Info:    Trying to load font information for U+msb on input line 76.
 
 (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/microtype/mt-msb.c
+fg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
@@ -572,13 +620,13 @@ Package rerunfilecheck Info: File `rosenberg-cv.out' has not changed.
 (rerunfilecheck)             Checksum: B81A0DC99684AB69CFCD06ECE566D810;8254.
  ) 
 Here is how much of TeX's memory you used:
- 10244 strings out of 480971
- 149945 string characters out of 5906863
- 464582 words of memory out of 5000000
- 27167 multiletter control sequences out of 15000+600000
- 452978 words of font info for 66 fonts, out of 8000000 for 9000
+ 12005 strings out of 480971
+ 181442 string characters out of 5906262
+ 525507 words of memory out of 5000000
+ 28702 multiletter control sequences out of 15000+600000
+ 463320 words of font info for 168 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 71i,12n,74p,456b,355s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,12n,74p,456b,365s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.e
 nc}</Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmb
 x10.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/public/l
@@ -586,10 +634,10 @@ m/lmbx12.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/pub
 lic/lm/lmr10.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1
 /public/lm/lmr17.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/t
 ype1/public/lm/lmri10.pfb>
-Output written on rosenberg-cv.pdf (24 pages, 230212 bytes).
+Output written on rosenberg-cv.pdf (24 pages, 235975 bytes).
 PDF statistics:
- 517 PDF objects out of 1000 (max. 8388607)
- 481 compressed objects within 5 object streams
+ 515 PDF objects out of 1000 (max. 8388607)
+ 479 compressed objects within 5 object streams
  120 named destinations out of 1000 (max. 500000)
- 385 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 29057 words of extra memory for PDF output out of 29859 (max. 10000000)
 
