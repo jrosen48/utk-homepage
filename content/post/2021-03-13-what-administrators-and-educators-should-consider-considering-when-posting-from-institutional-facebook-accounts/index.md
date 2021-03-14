@@ -1,7 +1,7 @@
 ---
 title: What administrators and educators should consider considering when posting
   from institutional Facebook accounts
-author: R package build
+author: "Joshua Rosenberg"
 date: '2021-03-13'
 slug: what-administrators-and-educators-should-consider-considering-when-posting-from-institutional-facebook-accounts
 categories: []
