@@ -23,9 +23,11 @@ The punchlines are:
 - We estimated that there are between 15.2 and 20.3 million photos of students shared by schools and districts 
 - We estimated that there are between approximately 150,000 and 1.15 million photos of students shared
 in ways that make it easy to identify them (by connecting their name with their face in the photo)
-- These are strictly public posts; anyone (even without a Facebook account) can access them; these 
+- These are strictly public posts; anyone (even without a Facebook account) can access them, and these 
 photos on schools' and districts' pages may represent the largest unstructured but accessible 
-collection of identifiable images of students/minors/children in the United States
+collection of identifiable images of students/minors/children in the United States; if accessed
+with information about the location/name of the school and district and the time stamp, this data
+could pose a serious threat to (many) individual's privacy
 
 Yikes is the response.
 
