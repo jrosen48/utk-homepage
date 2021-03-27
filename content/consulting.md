@@ -22,7 +22,7 @@ I regularly _consult on the use of research methods_ and provide _workshops_ in 
 
 - Unsupervised and supervised machine learning methods
 - Natural Language Processing and text analysis
-- Accessing and analyzing social media data
+- Social network models and methods
 
 ## Statistical programming and software development
 
