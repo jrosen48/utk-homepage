@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.3.9)  13 MAR 2021 16:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.3.24)  27 MAR 2021 07:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -196,17 +196,17 @@ Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 )
 (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/microtype/microtyp
 e.sty
-Package: microtype 2021/02/25 v2.8b Micro-typographical refinements (RS)
+Package: microtype 2021/03/14 v2.8c Micro-typographical refinements (RS)
 \MT@toks=\toks25
 \MT@count=\count268
-LaTeX Info: Redefining \textls on input line 788.
+LaTeX Info: Redefining \textls on input line 790.
 \MT@outer@kern=\dimen156
-LaTeX Info: Redefining \textmicrotypecontext on input line 1358.
+LaTeX Info: Redefining \textmicrotypecontext on input line 1374.
 \MT@listname@count=\count269
 
 (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/microtype/microtyp
 e-pdftex.def
-File: microtype-pdftex.def 2021/02/25 v2.8b Definitions specific to pdftex (RS)
+File: microtype-pdftex.def 2021/03/14 v2.8c Definitions specific to pdftex (RS)
 
 LaTeX Info: Redefining \lsstyle on input line 915.
 LaTeX Info: Redefining \lslig on input line 915.
@@ -216,7 +216,7 @@ Package microtype Info: Loading configuration file microtype.cfg.
 
 (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/microtype/microtyp
 e.cfg
-File: microtype.cfg 2021/02/25 v2.8b microtype main configuration file (RS)
+File: microtype.cfg 2021/03/14 v2.8c microtype main configuration file (RS)
 )) (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/xcolor/xcolor.s
 ty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
@@ -424,7 +424,7 @@ line 40.
 )
 (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backen
 d-pdftex.def
-File: l3backend-pdftex.def 2021-03-02 L3 backend support: PDF output (pdfTeX)
+File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count280
 \l__pdf_internal_box=\box49
 )
@@ -599,31 +599,31 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1341.
+(hyperref)                than one, level fixed on input line 1350.
 
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1382.
+(hyperref)                than one, level fixed on input line 1391.
 
 [18] [19] [20] [21]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1617.
+(hyperref)                than one, level fixed on input line 1626.
 
 [22]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1717.
+(hyperref)                than one, level fixed on input line 1726.
 
 [23] [24] (./rosenberg-cv.aux)
 Package rerunfilecheck Info: File `rosenberg-cv.out' has not changed.
 (rerunfilecheck)             Checksum: B81A0DC99684AB69CFCD06ECE566D810;8254.
  ) 
 Here is how much of TeX's memory you used:
- 12005 strings out of 480971
- 181442 string characters out of 5906262
- 525507 words of memory out of 5000000
- 28702 multiletter control sequences out of 15000+600000
+ 12013 strings out of 480962
+ 181696 string characters out of 5905997
+ 525712 words of memory out of 5000000
+ 28719 multiletter control sequences out of 15000+600000
  463320 words of font info for 168 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  71i,12n,74p,456b,365s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -634,10 +634,10 @@ m/lmbx12.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/pub
 lic/lm/lmr10.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1
 /public/lm/lmr17.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/t
 ype1/public/lm/lmri10.pfb>
-Output written on rosenberg-cv.pdf (24 pages, 235975 bytes).
+Output written on rosenberg-cv.pdf (24 pages, 236505 bytes).
 PDF statistics:
- 515 PDF objects out of 1000 (max. 8388607)
- 479 compressed objects within 5 object streams
+ 518 PDF objects out of 1000 (max. 8388607)
+ 482 compressed objects within 5 object streams
  120 named destinations out of 1000 (max. 500000)
  29057 words of extra memory for PDF output out of 29859 (max. 10000000)
 

@@ -30,6 +30,10 @@ math = true
     name = "Research Group"
     url = "https://makingdatasciencecount.com"
     weight = 5
+[[menu.main]]
+    name = "Consulting"
+    url = "/consulting"
+    weight = 6
 
 [params]
     description = "Joshua M. Rosenberg's Homepage"
