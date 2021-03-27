@@ -144,9 +144,13 @@ C.D. Owen High School, Swannanoa, NC
 
 # Fellowships and Awards
 
+2021, Mentor, Summer Undergraduate Research Internship Program, Office of Undergraduate Research, University of Tennessee, Knoxville (UTK)
+
+2020, Research Assistant Award, Office of Undergraduate Research,UTK
+
 2020, Southeastern Conference (SEC) Visiting Faculty Travel Grant Program (Host: Annelise Russell, Martin School of Public Policy, University of Kentucky)
 
-2019-2020, Initiative for the Future Faculty Development Program, University of Tennessee, Knoxville (UTK)
+2019-2020, Initiative for the Future Faculty Development Program, UTK
 
 2019, Finalist, Association for Science Teacher Education John C. Park National Technology Leadership Institute Fellowship
 
@@ -181,9 +185,13 @@ C.D. Owen High School, Swannanoa, NC
 
 ## Articles Published in Refereed Journals
 
+Greenhalgh, S. P., Rosenberg, J. M., & Russell, A. (in press). The influence of policy and context on teachers’ social media use. *The British Journal of Educational Technology*. 
+
 Schweinsburg, M., ... Luis, S. (in press). Same data, different conclusions: Radical dispersion in empirical results. *Organizational Behavior and Human Decision Processes.*
 
-Frank, K. A., Lin, Q., Maroulis, S., Strassman, A., Xu, R., Rosenberg, J. M., Hayter, C., Mahmoud, R., Kolak, M., Dietz, T., & Zhang, L. (in press). Quantifying clinical uncertainty in times of crisis: How different would a sample have to be to change an inference? *Journal of Clinical Epidemiology* (*N.B.:* I was a scientific programmer for the statistical software used and demonstrated in this paper).
+Frank, K. A., Lin, Q., Maroulis, S., Strassman, A., Xu, R., Rosenberg, J. M., Hayter, C., Mahmoud, R., Kolak, M., Dietz, T., & Zhang, L. (in press). Hypothetical case replacement can be used to quantify the robustness of trial results. *Journal of Clinical Epidemiology*. https://www.sciencedirect.com/science/article/pii/S0895435621000366 (*N.B.:* I was a scientific programmRer for this project).
+
+Ranellucci, J., Robinson, K., Rosenberg, J. M., Lee, Y.-K., Roseth, C., & Linnenbrink-Garcia. (advance online publication). Comparing the roles and correlates of emotions in class and during online video lectures in a flipped anatomy classroom. https://www.sciencedirect.com/science/article/abs/pii/S0361476X21000254
 
 Akcaoglu, M., Rosenberg, J. M., Hodges, C. B., Hilpert, J. (advance online publication). An exploration of factors impacting middle school students’ attitudes toward computer programming. *Computers in the Schools. 38*(1). https://doi.org/10.1080/07380569.2021.1882209
 
@@ -191,7 +199,7 @@ Rosenberg, J. M., & Staudt Willet, K. B. (advance online publication). Balancing
 
 Rosenberg, J. M., & Krist, C. (advance online publication). Combining machine learning and qualitative methods to elaborate students’ ideas about the generality of their model-based explanations. *Journal of Science Education and Technology*. https://link.springer.com/article/10.1007%2Fs10956-020-09862-4. *Nb.* Both authors contributed equally. <a href = "https://joshuamrosenberg.com/post-prints/rosenberg-krist-jost.pdf"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
-Harper, F. K., Rosenberg, J. M., Comperry, S., Howell, K., & Womble, S. (2021). # Mathathome during the COVID-19 Pandemic: Exploring and Reimagining Resources and Social Supports for Parents. *Education Sciences, 11*(2), 60, 1-24. https://www.mdpi.com/2227-7102/11/2/60 <a href = "https://www.mdpi.com/2227-7102/11/2/60/pdf"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
+Harper, F. K., Rosenberg, J. M., Comperry, S., Howell, K., & Womble, S. (2021). #Mathathome during the COVID-19 Pandemic: Exploring and reimagining resources and social supports for parents. *Education Sciences, 11*(2), 60, 1-24. https://www.mdpi.com/2227-7102/11/2/60 <a href = "https://www.mdpi.com/2227-7102/11/2/60/pdf"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
 Anderson, D. J., Rowley, B., Stegenga, S., Irvin, P. S., & Rosenberg, J. M. (2020). Evaluating content-related validity evidence using a text-based, machine learning procedure. *Educational Measurement: Issues and Practice, 39*(4), 53-64. https://onlinelibrary.wiley.com/doi/abs/10.1111/emip.12314 <a href = "https://github.com/datalorax/text-analysis-content-validity/raw/master/text-analysis-content-validity.pdf"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
@@ -251,13 +259,9 @@ Me, the moment, or the medium? Understanding the sources of variation for studen
 
 Open for whom? A Call for a science education-specific open science. https://osf.io/sqcn7/
 
-The influence of policy and context on teachers’ social media use.
-
 Leveraging mathematics software data to understand student learning and motivation during the COVID-19 pandemic.
 
 Characterizing whole class discussions about data and statistics with conversation profile analysis.
-
-Comparing the roles and correlates of emotions in class and during online video lectures in a flipped anatomy classroom.
 
 Better together: Understanding and supporting math and science pre-service teachers’ sensemaking about STEM.
 
