@@ -8,17 +8,17 @@ permalink: /consulting
 
 I regularly _consult on the use of research methods_ and provide _workshops_ in the following areas:
 
-## General: 
+## General
 
 - The statistical software R (and the Interactive Development Environment R Studio)
 
-## Statistical methods: 
+## Statistical methods
 
 - Linear and generalized linear models
 - Mixed effects (or multilevel) models
 - Intensive longitudinal methods
 
-## Computational (and data science) methods:
+## Computational (and data science) methods
 
 - Unsupervised and supervised machine learning methods
 - Natural Language Processing and text analysis
