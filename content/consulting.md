@@ -4,9 +4,7 @@ title: Consulting and Other Services
 permalink: /consulting
 ---
 
-# Consulting and Other Services
-
-I regularly _consult on the use of research methods_ and provide _workshops_ in the following areas:
+I regularly _consult_ and provide _workshops_ in the following areas:
 
 ## General
 
