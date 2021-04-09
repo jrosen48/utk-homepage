@@ -28,8 +28,7 @@ So, I am grateful for...
 
 - My wife Katie, who is perfectly amazing 
 - My little one, who is the same
-- Where we live - I was able to go backpacking with my little one this past weekend in one
-of the most unique and beautiful places in the world
+- Where we live - I was able to go backpacking with my little one (I will maybe write another post on this some day... we made it six miles!) this past weekend in one of the most unique places in the world
 - Our parents and my brother
 - My friends and my colleagues
 - Making it through this year with our health, and with vision of a post-vaccination life
