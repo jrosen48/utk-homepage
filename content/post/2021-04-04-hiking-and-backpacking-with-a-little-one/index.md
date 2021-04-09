@@ -35,6 +35,7 @@ of the most unique and beautiful places in the world
 
 - Our parents and my brother
 - My friends and my colleagues
+- Making it through this year with our health, and with vision of a post-vaccination life
 - My job
 
 Dayenu. Each would have been enough.
