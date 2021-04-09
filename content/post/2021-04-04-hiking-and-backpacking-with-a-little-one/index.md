@@ -35,4 +35,5 @@ of the most unique and beautiful places in the world
 - Making it through this year with our health, and with vision of a post-vaccination life
 - My job
 
-Dayenu. Each would have been enough.
+Dayenu. Each would have been enough. Kind of an odd post for such a busy, hectic, and... yeah, 
+challenging part of the semester! Where my head is at, right now, overall.
