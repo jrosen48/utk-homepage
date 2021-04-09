@@ -1,6 +1,6 @@
 ---
 title: Dayenu
-author: R package build
+author: ""
 date: '2021-04-04'
 slug: hiking-dayenu
 categories: []
