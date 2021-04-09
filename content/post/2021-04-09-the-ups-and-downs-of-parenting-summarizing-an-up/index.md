@@ -36,3 +36,8 @@ works, and we've been trying biking. We biked every day this week for the first 
 harder, in many ways, than driving, and gearing up to get ready is a bit of a slog, but... it was fun.
 
 ![](images/PXL_20210323_131910138.PORTRAIT.jpg)
+
+I don't have much to add - just a chance to plant a flag and say that everyday things - 
+a busy conference week - can be augmented by parenting, in addition to and in the context
+of all of the sick kiddos, weeks being up at night with no sleep, and not paying enough attention to
+my little one while trying to work in the morning/evening...
