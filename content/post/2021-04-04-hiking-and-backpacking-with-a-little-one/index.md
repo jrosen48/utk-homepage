@@ -35,6 +35,6 @@ of the most unique and beautiful places in the world
 
 - Our parents and my brother
 - My friends and my colleagues
-- My work
+- My job
 
 Dayenu. Each would have been enough.
