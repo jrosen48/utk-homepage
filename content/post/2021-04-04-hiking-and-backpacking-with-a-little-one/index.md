@@ -34,6 +34,7 @@ of the most unique and beautiful places in the world
 ![](images/IMG_3212.jpeg)
 
 - Our parents and my brother
-- My friends and my colleagues, who I like to work with.
+- My friends and my colleagues
+- My work
 
 Dayenu. Each would have been enough.
