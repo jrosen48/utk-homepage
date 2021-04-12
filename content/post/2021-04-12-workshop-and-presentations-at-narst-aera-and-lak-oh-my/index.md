@@ -7,7 +7,7 @@ categories: []
 tags: []
 ---
 
-Our research group had a number of presentations at the National Association for Research in Science Teaching (NARST), American Educational Research Assocation (AERA), and Learning Analytics and Knowledge (LAK) conferences over the past few weeks. Some details on those presentations (and, when pertinent, links to materials) are below.
+Our research group had a number of presentations at the National Association for Research in Science Teaching (NARST), American Educational Research Association (AERA), and Learning Analytics and Knowledge (LAK) conferences over the past few weeks. Some details on those presentations (and, when pertinent, links to materials) are below. Kudos to students who presented during a very unusual conference seasons. And, thank you to the organizers of each of these for putting them on (again, during an unsual-and difficult-time for a conference).
 
 ## NARST
 
