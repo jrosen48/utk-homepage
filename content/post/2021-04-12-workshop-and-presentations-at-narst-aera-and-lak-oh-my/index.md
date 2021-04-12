@@ -7,25 +7,6 @@ categories: []
 tags: []
 ---
 
----
-title: Workshop and presentations at NARST, AERA, and LAK
-author: ''
-date: '2021-04-12'
-slug: []
-categories: []
-tags: []
-subtitle: ''
-summary: ''
-authors: []
-lastmod: '2021-04-12T09:41:14-04:00'
-featured: no
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: no
-projects: []
----
-
 Our research group had a number of presentations at the National Association for Research in Science Teaching (NARST), American Educational Research Assocation (AERA), and Learning Analytics and Knowledge (LAK) conferences over the past few weeks. Some details on those presentations (and, when pertinent, links to materials) are below.
 
 ## NARST
