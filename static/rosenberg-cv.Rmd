@@ -698,6 +698,9 @@ Lawson, M., Rosenberg, J. M., & Camponovo, M. (February, 2019). *Better together
 ## Workshops
 
 \hangindent=2em
+Sorge, S., Kubsch, M., Rosenberg, J. M., & D'Angelo, C. (2021, April). *Rethinking how you understand your data with R*. Workshop carried out at the National Association for Research in Science Teaching. 
+
+\hangindent=2em
 Dyer, E. B., D'Angelo, D., Bosch, N., Krist, C., & Rosenberg, J. M. (2020, June). *Analyzing learning with speech analytics and computer vision methods: Technologies, principles, and ethics*. Workshop carried out at the International Conference of the Learning Sciences, Nashville, TN.
 
 \hangindent=2em

@@ -345,10 +345,10 @@ Rosenberg, J. M., Galas, E., & Staudt Willet, K.B. (2021). Who are the data scie
 Kubsch, M., Rosenberg. J. M., & Krist, C. (2021). Beyond supervision: Human / machine distributed learning in learning sciences research. In XXX (Eds.), *The International Society of the Learning Sciences 2020 Conference Proceedings* (pp. xx-xx). International Society of the Learning Sciences.
 
 \hangindent=2em
-Rosenberg, J. M., & Nguyen, H. (2021). How K-12 school districts communicated during the COVID-19 pandemic: A study using Facebook data. In XXX (Eds.), *Proceedings of the 11th International Conference on Learning Analytics & Knowledge* (pp. 1-4). Association for Computing Machinery.
+Rosenberg, J. M., & Nguyen, H. (2021). How K-12 school districts communicated during the COVID-19 pandemic: A study using Facebook data. *Proceedings of the 11th International Conference on Learning Analytics & Knowledge (LAK21)*.
 
 \hangindent=2em
-Rosenberg, J. M., & Staudt Willet, K. B. (2021). Advancing social influence models in learning analytics. In XXX (Eds.), *Using Network Science in Learning Analytics: Building Bridges towards a Common Agenda*.
+Rosenberg, J. M., & Staudt Willet, K. B. (2021). Advancing social influence models in learning analytics. *Companion proceedings of the 11th International Conference on Learning Analytics & Knowledge (LAK21)*
 
 \hangindent=2em
 Lishinski, A., & Rosenberg, J. M. (2021). How CS1 students experienced COVID-19 in the moment: using an experience sampling approach to understand the transition to emergency remote instruction. In *Proceedings of the 51st ACM Technical Symposium on Computer Science Education* (pp. 1414-1414).
@@ -461,7 +461,7 @@ Lishinski, A., Rosenberg, J. M., Sultana, O., Mann, M., & Dunn, J. (2021, April)
 Michela, E., Rosenberg, J. M., Sultana, O., Burchfield, M., Thomas, T., & Kimmons, R. (2021, April). *“Life will eventually get back to normal”: School districts’ Twitter use in response to COVID-19*. Poster presentation at the American Educational Research Association Annual Meeting.
 
 \hangindent=2em
-Rosenberg, J. M., Hodge, L., Bertling, J., & King, S. (2020, April). Art as a context for data science: Exploring fourth-grade students' data visualization practices. In J. M. Rosenberg & B. Chen (Chairs), *Exploring data science across the curriculum and across grade levels*. Symposium conducted at the American Educational Research Association Annual Meeting.
+Rosenberg, J. M., Borchers, C., Gibbons, B., Dyer, E. D., Anderson, D. A., & Fischer, C. (2020, April). Don't worry, be happy: A sentment analysis of the #NGSSchat Twitter Symposium community. In M. Rehm. (Chair), *Social opportunity spaces: How social media can inform/shape educational policy processes*. Symposium conducted at the American Educational Research Association Annual Meeting.
 
 \hangindent=2em
 Lawson, M. A., Rosenberg, J. M., & Herrick, I. (2021, April). *Better together: Supporting and understanding preservice teacher (PST) sense-making about STEM*. Presentation at the American Educational Research Association Annual Meeting.
@@ -702,6 +702,9 @@ Jones, R. S., & Rosenberg, J. M. (February, 2019). *Latent class modeling of who
 Lawson, M., Rosenberg, J. M., & Camponovo, M. (February, 2019). *Better together? Findings from a combined, integrated STEM unit with pre-service mathematics and science teachers*. Presentation at the 13th Annual Tennessee STEM Education Research Conference, Murfreesboro, TN.
 
 ## Workshops
+
+\hangindent=2em
+Sorge, S., Kubsch, M., Rosenberg, J. M., & D'Angelo, C. (2021, April). *Rethinking how you understand your data with R*. Workshop carried out at the National Association for Research in Science Teaching. 
 
 \hangindent=2em
 Dyer, E. B., D'Angelo, D., Bosch, N., Krist, C., & Rosenberg, J. M. (2020, June). *Analyzing learning with speech analytics and computer vision methods: Technologies, principles, and ethics*. Workshop carried out at the International Conference of the Learning Sciences, Nashville, TN.
