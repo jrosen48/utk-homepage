@@ -1,5 +1,5 @@
 ---
-title: Workshop and presentations at NARST, AERA, and LAK (oh my)
+title: Workshop and presentations at NARST, AERA, and LAK
 author: R package build
 date: '2021-04-12'
 slug: workshop-and-presentations-at-narst-aera-and-lak-oh-my
