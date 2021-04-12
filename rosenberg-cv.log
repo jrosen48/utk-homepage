@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.3.24)  27 MAR 2021 07:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.3.24)  11 APR 2021 21:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -599,29 +599,30 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1350.
+(hyperref)                than one, level fixed on input line 1387.
 
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1391.
-
-[18] [19] [20] [21]
+[18]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1626.
+(hyperref)                than one, level fixed on input line 1428.
 
-[22]
+[19] [20] [21]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1726.
+(hyperref)                than one, level fixed on input line 1671.
 
-[23] [24] (./rosenberg-cv.aux)
+[22] [23]
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 1771.
+
+[24] [25] (./rosenberg-cv.aux)
 Package rerunfilecheck Info: File `rosenberg-cv.out' has not changed.
 (rerunfilecheck)             Checksum: B81A0DC99684AB69CFCD06ECE566D810;8254.
  ) 
 Here is how much of TeX's memory you used:
- 12013 strings out of 480962
- 181696 string characters out of 5905997
+ 12014 strings out of 480962
+ 181703 string characters out of 5905997
  525712 words of memory out of 5000000
  28719 multiletter control sequences out of 15000+600000
  463320 words of font info for 168 fonts, out of 8000000 for 9000
@@ -634,10 +635,10 @@ m/lmbx12.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/pub
 lic/lm/lmr10.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1
 /public/lm/lmr17.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/t
 ype1/public/lm/lmri10.pfb>
-Output written on rosenberg-cv.pdf (24 pages, 236505 bytes).
+Output written on rosenberg-cv.pdf (25 pages, 238286 bytes).
 PDF statistics:
- 518 PDF objects out of 1000 (max. 8388607)
- 482 compressed objects within 5 object streams
- 120 named destinations out of 1000 (max. 500000)
+ 524 PDF objects out of 1000 (max. 8388607)
+ 487 compressed objects within 5 object streams
+ 121 named destinations out of 1000 (max. 500000)
  29057 words of extra memory for PDF output out of 29859 (max. 10000000)
 

@@ -397,6 +397,24 @@ Rosenberg, J. M. (2018). *Understanding work with data in summer STEM programs: 
 ## Peer-Reviewed Conference Presentations
 
 \hangindent=2em
+Rosenberg, J. M., Carpenter, J., Michela, E., Sultana, O., McKenna, T. J., Dyer, E. D., & Reid, J. (2021, April). *"Best P.D. out there"? An exploration of the #NGSSchat network on Twitter*. Presentation at the American Educational Research Association Annual Meeting.
+
+\hangindent=2em
+Lishinski, A., Rosenberg, J. M., Sultana, O., Mann, M., & Dunn, J. (2021, April). *A text messaging–based experience sampling method study of students' interest in introductory computer science*. Presentation at the American Educational Research Association Annual Meeting.
+
+\hangindent=2em
+Michela, E., Rosenberg, J. M., Sultana, O., Burchfield, M., Thomas, T., & Kimmons, R. (2021, April). *“Life will eventually get back to normal”: School districts’ Twitter use in response to COVID-19*. Poster presentation at the American Educational Research Association Annual Meeting.
+
+\hangindent=2em
+Rosenberg, J. M., Hodge, L., Bertling, J., & King, S. (2020, April). Art as a context for data science: Exploring fourth-grade students' data visualization practices. In J. M. Rosenberg & B. Chen (Chairs), *Exploring data science across the curriculum and across grade levels*. Symposium conducted at the American Educational Research Association Annual Meeting.
+
+\hangindent=2em
+Lawson, M. A., Rosenberg, J. M., & Herrick, I. (2021, April). *Better together: Supporting and understanding preservice teacher (PST) sense-making about STEM*. Presentation at the American Educational Research Association Annual Meeting.
+
+\hangindent=2em
+Kellogg, S., Jiang, S., Rosenberg, J. M., & Moore, R. (2021, April). Learning Analytics in STEM Education Research (LASER) Institute. In F. J. Levine & G. L. Wimberly (Chairs), *Building capacity in STEM education research: A discussion with directors of the NSF institutes in research methods*. Symposium at the American Educational Research Association Annual Meeting.
+
+\hangindent=2em
 Schmidt, J.A., Schell, M.J., Beymer, P.N., Alberts, K.M., Phun, V., Lee, M. & Rosenberg, J.M. (2020, August). *Students’ momentary science engagement predicts end-of-course achievement*. Poster presented at the annual meetings of the American Psychological Association. Washington, DC. (Conference canceled)
 
 \hangindent=2em
@@ -727,6 +745,8 @@ Special Issue Editor, *Australasian Journal of Educational Technology*, 2017
 
 ### Service to the Profession
 
+Panelist, Building Capacity in STEM Education Research, National Science Foundation, *n.d.*
+
 Panelist, Discovery Research PreK-12, National Science Foundation, *n.d.*
 
 Panelist, Innovative Technology Experiences for Students and Teachers, National Science Foundation, *n.d.*
@@ -767,7 +787,7 @@ Reviewer, Proposals from Knox County Schools students for the NASA Student Space
 
 ### Ad-hoc Journal Article Reviews
 
-AERA Open (2019)  
+AERA Open (2019, 2020)  
 Australasian Journal of Educational Technology (2018: 2)  
 British Journal of Educational Technology (2016)  
 Computers & Education (2016, 2017, 2018, 2020)  
@@ -785,6 +805,7 @@ Journal of Open Source Software (2018; 2020)
 Journal of Research in Science Teaching (2019)  
 Journal of Science Education and Technology (2019: 2; 2020)  
 Journal of STEM Education Research (2019)  
+Science Education (2021)
 TechTrends (2019)  
 
 ### College-related Service 
@@ -799,9 +820,9 @@ Organizer, Quantitative Methods Research Group
 
 *University of Tennessee, Knoxville*
 
-Mentor for AERA Bootcamp (2019)
+Member, Annual Review Rubrics Committee
 
-VolsTeach major ad-hoc committee (2019-)
+Mentor, AERA Bootcamp (2019)
 
 *Michigan State University*
 
@@ -811,13 +832,20 @@ Search Committee Member, Program Specialist, Master of Arts in Educational Techn
 
 *University of Tennessee, Knoxville*
 
-Advisor for Doctoral students: Jennifer Longnecker (Co-advisor with Amy Broemmel), Michael Mann (co-advisor with Kristin Rearden), Omiya Sultana (co-advisor with Lynn Hodge)
+Advisor for Doctoral students: 
 
-Committee member for Doctoral students: Shande King, Matthew Hensley  
+Jennifer Longnecker (Co-advisor with Amy Broemmel)  
+Michael Mann (co-advisor with Kristin Rearden)  
+Omiya Sultana (co-advisor with Lynn Hodge)
+
+Committee member for Doctoral students: 
+
+Shande King  
+Matthew Hensley   
 
 *Michigan State University*
 
-Member of two practicum committees for Educational Psychology and Educational Technology program Ph.D. students, Michigan State University, 2014-2018
+Member of two practica committees for Educational Psychology and Educational Technology program Ph.D. students, Michigan State University, 2014-2018
 
 ### Campus and Departmental Presentations
 
