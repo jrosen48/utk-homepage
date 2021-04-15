@@ -1,6 +1,5 @@
 ---
 title: A very good example of Bayes in science education - Kubsch et al. (2021)
-author: R package build
 date: '2021-04-15'
 slug: a-very-good-example-of-bayes-in-science-education-kubsch-et-al-2021
 categories: []
