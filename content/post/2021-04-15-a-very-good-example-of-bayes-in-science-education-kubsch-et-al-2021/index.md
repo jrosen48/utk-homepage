@@ -6,7 +6,7 @@ categories: []
 tags: []
 ---
 
-I recently read Kubsch and colleague's (2021) paper in *Practical Assessment, Research, and Evaluation*, and it is revelatory. It only only introduces Bayesian 
+I recently read Kubsch and colleague's (2021) paper in *Practical Assessment, Research, and Evaluation*, and it is revelatory. It not only introduces Bayesian 
 statistical methods in the context of science education research, it shows: a) a case in which prior knowledge can be meaningfully brought to bear upon the analysis and b) how the use of a prior can be critiqued/compared with the effects of a less informative prior. It also compares the analysis to the frequentist approach nicely. I think this could be a foundational piece in science education research.
 
 https://scholarworks.umass.edu/pare/vol26/iss1/4/
