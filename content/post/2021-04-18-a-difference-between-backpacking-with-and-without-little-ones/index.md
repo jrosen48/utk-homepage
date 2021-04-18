@@ -17,5 +17,4 @@ I noticed feeling like something was different. This weekend's trip was more phy
 but less mentally challenging than the trip with a little; it felt like the slightest
 bit of something was missing. That's my punchline for this post - backpacking and 
 doing things with one's children is amazing and fulfilling to me in a way that the kinds
-of trips I would previously seek out were. In short, having adventures with children is not
-a lesser form of "adult" adventures; they're fulfilling adventures on their own.
+of trips I would previously seek out were.
