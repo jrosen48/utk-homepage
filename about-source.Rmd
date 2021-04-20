@@ -187,22 +187,25 @@ C.D. Owen High School, Swannanoa, NC
 ## Articles Published in Refereed Journals
 
 \hangindent=2em
+Rutherford, T., Duck, K., Rosenberg, J. M., & Patt, R. (in press). Leveraging mathematics software data to understand student learning and motivation during the COVID-19 pandemic. *Journal of Research on Technology in Education*.
+
+\hangindent=2em
 Greenhalgh, S. P., Rosenberg, J. M., & Russell, A. (in press). The influence of policy and context on teachers’ social media use. *The British Journal of Educational Technology*. 
 
 \hangindent=2em
 Schweinsburg, M., ... Luis, S. (in press). Same data, different conclusions: Radical dispersion in empirical results. *Organizational Behavior and Human Decision Processes.*
 
 \hangindent=2em
-Frank, K. A., Lin, Q., Maroulis, S., Strassman, A., Xu, R., Rosenberg, J. M., Hayter, C., Mahmoud, R., Kolak, M., Dietz, T., & Zhang, L. (in press). Hypothetical case replacement can be used to quantify the robustness of trial results. *Journal of Clinical Epidemiology*. https://www.sciencedirect.com/science/article/pii/S0895435621000366 (*N.B.:* I was a scientific programmRer for this project).
+Frank, K. A., Lin, Q., Maroulis, S., Strassman, A., Xu, R., Rosenberg, J. M., Hayter, C., Mahmoud, R., Kolak, M., Dietz, T., & Zhang, L. (advance online publication). Hypothetical case replacement can be used to quantify the robustness of trial results. *Journal of Clinical Epidemiology*. https://www.sciencedirect.com/science/article/pii/S0895435621000366 (*N.B.:* I was a scientific programmRer for this project).
 
 \hangindent=2em
-Ranellucci, J., Robinson, K., Rosenberg, J. M., Lee, Y.-K., Roseth, C., & Linnenbrink-Garcia. (advance online publication). Comparing the roles and correlates of emotions in class and during online video lectures in a flipped anatomy classroom. https://www.sciencedirect.com/science/article/abs/pii/S0361476X21000254
+Ranellucci, J., Robinson, K., Rosenberg, J. M., Lee, Y.-K., Roseth, C., & Linnenbrink-Garcia. (advance online publication). Comparing the roles and correlates of emotions in class and during online video lectures in a flipped anatomy classroom. https://doi.org/10.1016/j.cedpsych.2021.101966
 
 \hangindent=2em
-Akcaoglu, M., Rosenberg, J. M., Hodges, C. B., Hilpert, J. (advance online publication). An exploration of factors impacting middle school students’ attitudes toward computer programming. *Computers in the Schools. 38*(1). https://doi.org/10.1080/07380569.2021.1882209
+Akcaoglu, M., Rosenberg, J. M., Hodges, C. B., Hilpert, J. (2021). An exploration of factors impacting middle school students’ attitudes toward computer programming. *Computers in the Schools. 38*(1), 19-35. https://doi.org/10.1080/07380569.2021.1882209
 
 \hangindent=2em
-Rosenberg, J. M., & Krist, C. (advance online publication). Combining machine learning and qualitative methods to elaborate students’ ideas about the generality of their model-based explanations. *Journal of Science Education and Technology*. https://link.springer.com/article/10.1007%2Fs10956-020-09862-4. *Nb.* Both authors contributed equally. <a href = "https://joshuamrosenberg.com/post-prints/rosenberg-krist-jost.pdf"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
+Rosenberg, J. M., & Krist, C. (2021). Combining machine learning and qualitative methods to elaborate students’ ideas about the generality of their model-based explanations. Journal of Science Education and Technology, 30(2), 255-267.  https://link.springer.com/article/10.1007%2Fs10956-020-09862-4. *Nb.* Both authors contributed equally. <a href = "https://joshuamrosenberg.com/post-prints/rosenberg-krist-jost.pdf"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
 \hangindent=2em
 Rosenberg, J. M., & Staudt Willet, K. B. (2021). Balancing participants’ privacy and open science in the context of COVID-19: A response to Ifenthaler & Schumacher (2016). *Educational Technology Research & Development, 69*(1), 347-351. <a href = "https://www.jmichaelrosenberg.com/post-prints/rosenberg-staudt-willet-2020.pdf"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
@@ -291,8 +294,6 @@ Advancing new methods for understanding public sentiment about educational refor
 Me, the moment, or the medium? Understanding the sources of variation for students’ situational engagement in science. https://osf.io/pj2v8/
 
 Open for whom? A Call for a science education-specific open science. https://osf.io/sqcn7/
-
-Leveraging mathematics software data to understand student learning and motivation during the COVID-19 pandemic.
 
 Characterizing whole class discussions about data and statistics with conversation profile analysis.
 

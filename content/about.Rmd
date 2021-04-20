@@ -144,6 +144,8 @@ C.D. Owen High School, Swannanoa, NC
 
 # Fellowships and Awards
 
+2021, Louie M. & Betty M. Phillips Faculty Support in Education Award
+
 2021, Mentor, Summer Undergraduate Research Internship Program, Office of Undergraduate Research, University of Tennessee, Knoxville (UTK)
 
 2020, Research Assistant Award, Office of Undergraduate Research,UTK
@@ -185,17 +187,19 @@ C.D. Owen High School, Swannanoa, NC
 
 ## Articles Published in Refereed Journals
 
+Rutherford, T., Duck, K., Rosenberg, J. M., & Patt, R. (in press). Leveraging mathematics software data to understand student learning and motivation during the COVID-19 pandemic. *Journal of Research on Technology in Education*.
+
 Greenhalgh, S. P., Rosenberg, J. M., & Russell, A. (in press). The influence of policy and context on teachers’ social media use. *The British Journal of Educational Technology*. 
 
 Schweinsburg, M., ... Luis, S. (in press). Same data, different conclusions: Radical dispersion in empirical results. *Organizational Behavior and Human Decision Processes.*
 
-Frank, K. A., Lin, Q., Maroulis, S., Strassman, A., Xu, R., Rosenberg, J. M., Hayter, C., Mahmoud, R., Kolak, M., Dietz, T., & Zhang, L. (in press). Hypothetical case replacement can be used to quantify the robustness of trial results. *Journal of Clinical Epidemiology*. https://www.sciencedirect.com/science/article/pii/S0895435621000366 (*N.B.:* I was a scientific programmRer for this project).
+Frank, K. A., Lin, Q., Maroulis, S., Strassman, A., Xu, R., Rosenberg, J. M., Hayter, C., Mahmoud, R., Kolak, M., Dietz, T., & Zhang, L. (advance online publication). Hypothetical case replacement can be used to quantify the robustness of trial results. *Journal of Clinical Epidemiology*. https://www.sciencedirect.com/science/article/pii/S0895435621000366 (*N.B.:* I was a scientific programmRer for this project).
 
-Ranellucci, J., Robinson, K., Rosenberg, J. M., Lee, Y.-K., Roseth, C., & Linnenbrink-Garcia. (advance online publication). Comparing the roles and correlates of emotions in class and during online video lectures in a flipped anatomy classroom. https://www.sciencedirect.com/science/article/abs/pii/S0361476X21000254
+Ranellucci, J., Robinson, K., Rosenberg, J. M., Lee, Y.-K., Roseth, C., & Linnenbrink-Garcia. (advance online publication). Comparing the roles and correlates of emotions in class and during online video lectures in a flipped anatomy classroom. https://doi.org/10.1016/j.cedpsych.2021.101966
 
-Akcaoglu, M., Rosenberg, J. M., Hodges, C. B., Hilpert, J. (advance online publication). An exploration of factors impacting middle school students’ attitudes toward computer programming. *Computers in the Schools. 38*(1). https://doi.org/10.1080/07380569.2021.1882209
+Akcaoglu, M., Rosenberg, J. M., Hodges, C. B., Hilpert, J. (2021). An exploration of factors impacting middle school students’ attitudes toward computer programming. *Computers in the Schools. 38*(1), 19-35. https://doi.org/10.1080/07380569.2021.1882209
 
-Rosenberg, J. M., & Krist, C. (advance online publication). Combining machine learning and qualitative methods to elaborate students’ ideas about the generality of their model-based explanations. *Journal of Science Education and Technology*. https://link.springer.com/article/10.1007%2Fs10956-020-09862-4. *Nb.* Both authors contributed equally. <a href = "https://joshuamrosenberg.com/post-prints/rosenberg-krist-jost.pdf"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
+Rosenberg, J. M., & Krist, C. (2021). Combining machine learning and qualitative methods to elaborate students’ ideas about the generality of their model-based explanations. Journal of Science Education and Technology, 30(2), 255-267.  https://link.springer.com/article/10.1007%2Fs10956-020-09862-4. *Nb.* Both authors contributed equally. <a href = "https://joshuamrosenberg.com/post-prints/rosenberg-krist-jost.pdf"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
 Rosenberg, J. M., & Staudt Willet, K. B. (2021). Balancing participants’ privacy and open science in the context of COVID-19: A response to Ifenthaler & Schumacher (2016). *Educational Technology Research & Development, 69*(1), 347-351. <a href = "https://www.jmichaelrosenberg.com/post-prints/rosenberg-staudt-willet-2020.pdf"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
@@ -259,8 +263,6 @@ Me, the moment, or the medium? Understanding the sources of variation for studen
 
 Open for whom? A Call for a science education-specific open science. https://osf.io/sqcn7/
 
-Leveraging mathematics software data to understand student learning and motivation during the COVID-19 pandemic.
-
 Characterizing whole class discussions about data and statistics with conversation profile analysis.
 
 Better together: Understanding and supporting math and science pre-service teachers’ sensemaking about STEM.
@@ -299,9 +301,9 @@ Rosenberg, J. M., Galas, E., & Staudt Willet, K.B. (2021). Who are the data scie
 
 Kubsch, M., Rosenberg. J. M., & Krist, C. (2021). Beyond supervision: Human / machine distributed learning in learning sciences research. In XXX (Eds.), *The International Society of the Learning Sciences 2020 Conference Proceedings* (pp. xx-xx). International Society of the Learning Sciences.
 
-Rosenberg, J. M., & Nguyen, H. (2021). How K-12 school districts communicated during the COVID-19 pandemic: A study using Facebook data. In XXX (Eds.), *Proceedings of the 11th International Conference on Learning Analytics & Knowledge* (pp. 1-4). Association for Computing Machinery.
+Rosenberg, J. M., & Nguyen, H. (2021). How K-12 school districts communicated during the COVID-19 pandemic: A study using Facebook data. *Proceedings of the 11th International Conference on Learning Analytics & Knowledge (LAK21)*.
 
-Rosenberg, J. M., & Staudt Willet, K. B. (2021). Advancing social influence models in learning analytics. In XXX (Eds.), *Using Network Science in Learning Analytics: Building Bridges towards a Common Agenda*.
+Rosenberg, J. M., & Staudt Willet, K. B. (2021). Advancing social influence models in learning analytics. *Companion proceedings of the 11th International Conference on Learning Analytics & Knowledge (LAK21)*
 
 Lishinski, A., & Rosenberg, J. M. (2021). How CS1 students experienced COVID-19 in the moment: using an experience sampling approach to understand the transition to emergency remote instruction. In *Proceedings of the 51st ACM Technical Symposium on Computer Science Education* (pp. 1414-1414).
 
@@ -379,7 +381,7 @@ Lishinski, A., Rosenberg, J. M., Sultana, O., Mann, M., & Dunn, J. (2021, April)
 
 Michela, E., Rosenberg, J. M., Sultana, O., Burchfield, M., Thomas, T., & Kimmons, R. (2021, April). *“Life will eventually get back to normal”: School districts’ Twitter use in response to COVID-19*. Poster presentation at the American Educational Research Association Annual Meeting.
 
-Rosenberg, J. M., Hodge, L., Bertling, J., & King, S. (2020, April). Art as a context for data science: Exploring fourth-grade students' data visualization practices. In J. M. Rosenberg & B. Chen (Chairs), *Exploring data science across the curriculum and across grade levels*. Symposium conducted at the American Educational Research Association Annual Meeting.
+Rosenberg, J. M., Borchers, C., Gibbons, B., Dyer, E. D., Anderson, D. A., & Fischer, C. (2020, April). Don't worry, be happy: A sentment analysis of the #NGSSchat Twitter Symposium community. In M. Rehm. (Chair), *Social opportunity spaces: How social media can inform/shape educational policy processes*. Symposium conducted at the American Educational Research Association Annual Meeting.
 
 Lawson, M. A., Rosenberg, J. M., & Herrick, I. (2021, April). *Better together: Supporting and understanding preservice teacher (PST) sense-making about STEM*. Presentation at the American Educational Research Association Annual Meeting.
 
