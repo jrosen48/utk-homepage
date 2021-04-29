@@ -32,7 +32,7 @@ library(googlesheets4)
 
 d <- read_sheet("https://docs.google.com/spreadsheets/d/1kz2LlLgXkN_HaBEAiFETl59b09u9AwMIgrwQx6DCv8A/edit#gid=0", col_names = FALSE)
 
-prep_otter_transcript <- function(d, length_less_than_100_min) {
+prep_otter_transcript <- function(d, length_less_than_100_min = TRUE) {
 
   d <- d %>% rename(x1 = 1)
 
