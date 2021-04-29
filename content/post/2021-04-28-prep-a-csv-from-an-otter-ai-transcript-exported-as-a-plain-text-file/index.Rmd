@@ -1,6 +1,5 @@
 ---
 title: Prep a CSV from an Otter.AI transcript exported as a plain text file
-author: R package build
 date: '2021-04-28'
 slug: prep-a-csv-from-an-otter-ai-transcript-exported-as-a-plain-text-file
 categories:
