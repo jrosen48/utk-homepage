@@ -24,7 +24,8 @@ should, I believe, return the same results as `read_sheet()`.
 
 While _the exported file contained only one column, alternating the speaker name (and time stamp)
 in the same row and the text of what the speaker said in the next, the returned data frame
-is a tidy data frame with three columns, one each for the time stamp, speaker, and text.
+is a tidy data frame with three columns, one each for the time stamp, speaker, and text. I don't
+show the result here because the interview data is not anonymized.
 
 ```{r, eval = FALSE}
 library(tidyverse)
