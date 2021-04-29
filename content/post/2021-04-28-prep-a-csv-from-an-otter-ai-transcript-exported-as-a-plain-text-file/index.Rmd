@@ -1,0 +1,67 @@
+---
+title: Prep a CSV from an Otter.AI transcript exported as a plain text file
+author: R package build
+date: '2021-04-28'
+slug: prep-a-csv-from-an-otter-ai-transcript-exported-as-a-plain-text-file
+categories:
+  - r
+tags: []
+---
+
+[Otter](https://otter.ai) is a service for transcribing audio. It works pretty well as a starting
+point for transcription (though definitely needs some careful checking). I've been using it for
+an interview-based research project. 
+
+One feature that could be added is the ability to export the transcript in a more
+usable form; particularly, as a CSV file - one which can easily be opened using spreadsheet
+and other software (e.g., R, if one wanted to carry out an automated/an NLP analysis). 
+
+Otter does allow you to easily export a plain text (.txt) file. This file can be wrangled 
+into a tidy CSV file. This post includes a link to a function to do that. 
+
+Here, you can see that I copied the text file into a Google Sheet (how I thought I'd analyze it, first). 
+This could be modified to read the text file directly; instead of `read_sheet()`, the function `read_lines()`
+should, I believe, return the same results as `read_sheet()`.
+
+While _the exported file contained only one column, alternating the speaker name (and time stamp)
+in the same row and the text of what the speaker said in the next, the returned data frame
+is a tidy data frame with three columns, one each for the time stamp, speaker, and text.
+
+```{r, eval = FALSE}
+library(tidyverse)
+library(googlesheets4)
+
+d <- read_sheet("https://docs.google.com/spreadsheets/d/1kz2LlLgXkN_HaBEAiFETl59b09u9AwMIgrwQx6DCv8A/edit#gid=0", col_names = FALSE)
+
+prep_otter_transcript <- function(d, length_less_than_100_min) {
+
+  d <- d %>% rename(x1 = 1)
+
+  d2 <- d %>% slice(-nrow(d))
+
+  d3 <- d2 %>%
+    filter(!is.na(x1)) %>%
+    mutate(text = lead(x1)) %>%
+    mutate(to_filter = rep(c(TRUE, FALSE), nrow(.)/2)) %>%
+    filter(to_filter)
+
+  if (length_less_than_100_min) {
+    d3 %>%
+      mutate(time = str_sub(x1, start = -5)) %>%
+      mutate(speaker = str_sub(x1, end = -5)) %>%
+      select(time, speaker, text) %>%
+      mutate_all(str_trim)
+  } else {
+    d3 %>%
+      mutate(time = str_sub(x1, start = -6)) %>%
+      mutate(speaker = str_sub(x1, end = -6)) %>%
+      select(time, speaker, text) %>%
+      mutate_all(str_trim)
+  }
+
+}
+
+prep_otter_transcript(d)
+```
+
+
