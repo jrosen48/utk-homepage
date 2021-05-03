@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.4.12)  20 APR 2021 08:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.4.12)  3 MAY 2021 15:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -577,21 +577,22 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 x.map}] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1401.
+(hyperref)                than one, level fixed on input line 1410.
 
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1442.
-
-[17] [18] [19] [20]
+[17]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1685.
+(hyperref)                than one, level fixed on input line 1451.
+
+[18] [19] [20]
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 1694.
 
 [21]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1785.
+(hyperref)                than one, level fixed on input line 1794.
 
 [22] [23] (./rosenberg-cv.aux)
 Package rerunfilecheck Info: File `rosenberg-cv.out' has not changed.
@@ -600,11 +601,11 @@ Package rerunfilecheck Info: File `rosenberg-cv.out' has not changed.
 Here is how much of TeX's memory you used:
  11849 strings out of 480954
  179525 string characters out of 5906449
- 513059 words of memory out of 5000000
+ 514135 words of memory out of 5000000
  28561 multiletter control sequences out of 15000+600000
  463320 words of font info for 168 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 71i,6n,74p,449b,336s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,6n,74p,449b,392s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.e
 nc}</Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmb
 x10.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/public/l
@@ -612,10 +613,10 @@ m/lmbx12.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/pub
 lic/lm/lmr10.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1
 /public/lm/lmr17.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/t
 ype1/public/lm/lmri10.pfb>
-Output written on rosenberg-cv.pdf (23 pages, 235461 bytes).
+Output written on rosenberg-cv.pdf (23 pages, 236143 bytes).
 PDF statistics:
- 530 PDF objects out of 1000 (max. 8388607)
- 495 compressed objects within 5 object streams
+ 532 PDF objects out of 1000 (max. 8388607)
+ 497 compressed objects within 5 object streams
  124 named destinations out of 1000 (max. 500000)
  29073 words of extra memory for PDF output out of 29859 (max. 10000000)
 

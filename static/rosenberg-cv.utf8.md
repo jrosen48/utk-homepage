@@ -132,6 +132,9 @@ C.D. Owen High School, Swannanoa, NC
 ## Articles Published in Refereed Journals
 
 \hangindent=2em
+Rosenberg, J. M., Borchers, C., Dyer, E., Anderson, D. J., & Fischer, C. (in press). Advancing new methods for understanding public sentiment about educational reforms: The case of Twitter and the Next Generation Science Standards. *AERA Open*. https://osf.io/xymsd/
+
+\hangindent=2em
 Rutherford, T., Duck, K., Rosenberg, J. M., & Patt, R. (in press). Leveraging mathematics software data to understand student learning and motivation during the COVID-19 pandemic. *Journal of Research on Technology in Education*.
 
 \hangindent=2em
@@ -234,7 +237,7 @@ Rosenberg, J. M., & Koehler, M. J. (2015). Context and Technological Pedagogical
 
 *If a link to a pre-print is not available, then please contact me to request a copy of any of these papers.*
 
-Advancing new methods for understanding public sentiment about educational reforms: The case of Twitter and the Next Generation Science Standards. https://osf.io/xymsd/
+Building Trust in Science by Advancing a Bayesian Perspective on Probability and Uncertainty in Science Education. https://osf.io/aznyq/
 
 Me, the moment, or the medium? Understanding the sources of variation for students’ situational engagement in science. https://osf.io/pj2v8/
 
@@ -243,6 +246,8 @@ Open for whom? A Call for a science education-specific open science. https://osf
 Characterizing whole class discussions about data and statistics with conversation profile analysis.
 
 Better together: Understanding and supporting math and science pre-service teachers’ sensemaking about STEM.
+
+Posts on Facebook by Schools and Districts and the Potential Risks to Students’ Privacy. https://osf.io/ujyg2/
 
 ## Book
 
