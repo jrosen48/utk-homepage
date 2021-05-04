@@ -26,8 +26,15 @@ final_lines <- unlist(c(header_lines, "", main_lines_without_header))
 readr::write_lines(unlist(final_lines), 'static/rosenberg-cv.tex')
 tinytex::pdflatex("static/rosenberg-cv.tex")
 
+# I don't think this is needed
 # manually copy over the text file, static/rosenberg-cv-backup-with-styling.tex,
 # to static/rosenberg-cv.tex, then render to PDF
+
+# old_lines <- readLines("static/rosenberg-cv-backup-with-styling.tex")
+# new_lines <- readLines("static/rosenberg-cv.tex")
+# 
+# old_lines
+# new_lines
 
 # # # For Word
 # file.copy("about-source.Rmd", "content/about-for-cv.Rmd", overwrite=TRUE)

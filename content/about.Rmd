@@ -573,8 +573,10 @@ Rosenberg, J. M. (March, 2016). *An introduction to R for programming and statis
 
 # Outreach and Engagement
 
+D'Angelo, C., & Rosenberg, J. M. (2020, April). *Analyzing Education Data with Open Science Best Practices, R, and OSF*. Webinar through the Center for Open Science. https://www.youtube.com/watch?v=WxdWzTIzYmI
+
 Rosenberg, J. M. (2020, April). *An informal, open introduction to using R Markdown in education*. Virtual workshop. https://www.youtube.com/watch?v=BA1YFvmXCXQ&t=57s
-s
+
 Rosenberg, J. M. (2019, May). *Working with data in education: Using data and supporting students to use data*. Workshop carried out for teachers at Knoxville Jewish Day School. https://docs.google.com/presentation/d/1uSdRvF2GjhUpO2fCHZIUdXmf0texzczGGlbzmZBgggw/edit?usp=sharing 
 
 Trout-Fryxell, B., & Rosenberg, J. M. (2020, February). *Authentic science in the classroom with MEGA:BITESS*. Presentation at the Knox County Schools Science Department District Learning Day, Knoxville, TN.
