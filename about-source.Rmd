@@ -202,13 +202,13 @@ Schweinsburg, M., ... Luis, S. (in press). Same data, different conclusions: Rad
 Frank, K. A., Lin, Q., Maroulis, S., Strassman, A., Xu, R., Rosenberg, J. M., Hayter, C., Mahmoud, R., Kolak, M., Dietz, T., & Zhang, L. (advance online publication). Hypothetical case replacement can be used to quantify the robustness of trial results. *Journal of Clinical Epidemiology*. https://www.sciencedirect.com/science/article/pii/S0895435621000366 (*N.B.:* I was a scientific programmRer for this project).
 
 \hangindent=2em
-Ranellucci, J., Robinson, K., Rosenberg, J. M., Lee, Y.-K., Roseth, C., & Linnenbrink-Garcia. (advance online publication). Comparing the roles and correlates of emotions in class and during online video lectures in a flipped anatomy classroom. https://doi.org/10.1016/j.cedpsych.2021.101966
+Ranellucci, J., Robinson, K., Rosenberg, J. M., Lee, Y.-K., Roseth, C., & Linnenbrink-Garcia. (advance online publication). Comparing the roles and correlates of emotions in class and during online video lectures in a flipped anatomy classroom. *Contemporary Educational Psychology*. https://doi.org/10.1016/j.cedpsych.2021.101966
 
 \hangindent=2em
 Akcaoglu, M., Rosenberg, J. M., Hodges, C. B., Hilpert, J. (2021). An exploration of factors impacting middle school students’ attitudes toward computer programming. *Computers in the Schools. 38*(1), 19-35. https://doi.org/10.1080/07380569.2021.1882209
 
 \hangindent=2em
-Rosenberg, J. M., & Krist, C. (2021). Combining machine learning and qualitative methods to elaborate students’ ideas about the generality of their model-based explanations. Journal of Science Education and Technology, 30(2), 255-267.  https://link.springer.com/article/10.1007%2Fs10956-020-09862-4. *Nb.* Both authors contributed equally. <a href = "https://joshuamrosenberg.com/post-prints/rosenberg-krist-jost.pdf"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
+Rosenberg, J. M., & Krist, C. (2021). Combining machine learning and qualitative methods to elaborate students’ ideas about the generality of their model-based explanations. *Journal of Science Education and Technology, 30*(2), 255-267.  https://link.springer.com/article/10.1007%2Fs10956-020-09862-4. *Nb.* Both authors contributed equally. <a href = "https://joshuamrosenberg.com/post-prints/rosenberg-krist-jost.pdf"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
 \hangindent=2em
 Rosenberg, J. M., & Staudt Willet, K. B. (2021). Balancing participants’ privacy and open science in the context of COVID-19: A response to Ifenthaler & Schumacher (2016). *Educational Technology Research & Development, 69*(1), 347-351. <a href = "https://www.jmichaelrosenberg.com/post-prints/rosenberg-staudt-willet-2020.pdf"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
@@ -229,7 +229,7 @@ Carpenter, J., Rosenberg, J. M., Dousay, T., Romero-Hall, E., Trust, T., Kessler
 Ranellucci, J., Rosenberg, J. M., & Poitras, E. (2020). Exploring pre-service teachers’ use of technology: The technology acceptance model and expectancy-value theory. *Journal of Computer Assisted Learning, 36*(6), 810-824. http://dx.doi.org/10.1111/jcal.12459 <a href = "https://osf.io/8q2vk/"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> <a href = "https://osf.io/rgpeh/"><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> 
 
 \hangindent=2em
-Schmidt, J. A., Beymer, P. N., Rosenberg, J. M., Naftzger, N. J., & Shumow, L. (2020). Experiences, Activities, and personal characteristics as predictors of engagement in STEM-focused summer programs. *Journal of Research in Science Teaching, 57*(8), 1281-1309. https://onlinelibrary.wiley.com/doi/full/10.1002/tea.21630
+Schmidt, J. A., Beymer, P. N., Rosenberg, J. M., Naftzger, N. J., & Shumow, L. (2020). Experiences, activities, and personal characteristics as predictors of engagement in STEM-focused summer programs. *Journal of Research in Science Teaching, 57*(8), 1281-1309. https://onlinelibrary.wiley.com/doi/full/10.1002/tea.21630
 
 \hangindent=2em
 Greenhalgh, S. P., Rosenberg, J. M., Koehler, M. J., Akcaoglu, M., & Staudt Willet, K. B. (2020). Identifying multiple learning spaces within a single teacher-focused Twitter hashtag. *Computers & Education, 148*(4). https://doi.org/10.1016/j.compedu.2020.103809 <a href = "/pre-prints/greenhalgh-et-al-computers-and-education-2020.pdf"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
