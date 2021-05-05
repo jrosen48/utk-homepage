@@ -7,7 +7,7 @@ categories: []
 tags: []
 ---
 
-I was invited by my colleague Marcus Kubsch at IPN in Kiel, Germany to lead a workshop on machine learning in science education research as part of the [Machine Learning and Computer-Based Text Analysis conference](https://www.ipn.uni-kiel.de/en/the-ipn/news/gdcp-focus-conference-machine-learning-and-computer-based-text-analysis-may-6th-7th-2021-register-now) in Kiel, Germany (and online!)
+I was invited by my colleague [Marcus Kubsch at IPN] in Kiel, Germany to lead a workshop on machine learning in science education research as part of the [Machine Learning and Computer-Based Text Analysis conference](https://www.ipn.uni-kiel.de/en/the-ipn/news/gdcp-focus-conference-machine-learning-and-computer-based-text-analysis-may-6th-7th-2021-register-now) in Kiel, Germany (and online!).
 
 The workshop description is here:
 
