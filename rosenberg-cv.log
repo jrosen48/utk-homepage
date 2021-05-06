@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.5.3)  4 MAY 2021 11:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.5.3)  6 MAY 2021 08:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -599,21 +599,21 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1411.
+(hyperref)                than one, level fixed on input line 1418.
 
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1452.
+(hyperref)                than one, level fixed on input line 1459.
 
 [19] [20] [21] [22]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1695.
+(hyperref)                than one, level fixed on input line 1702.
 
 [23]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1795.
+(hyperref)                than one, level fixed on input line 1802.
 
 [24] [25] (./rosenberg-cv.aux)
 Package rerunfilecheck Info: File `rosenberg-cv.out' has not changed.
@@ -634,10 +634,10 @@ m/lmbx12.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/pub
 lic/lm/lmr10.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1
 /public/lm/lmr17.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/t
 ype1/public/lm/lmri10.pfb>
-Output written on rosenberg-cv.pdf (25 pages, 239390 bytes).
+Output written on rosenberg-cv.pdf (25 pages, 239875 bytes).
 PDF statistics:
- 531 PDF objects out of 1000 (max. 8388607)
- 494 compressed objects within 5 object streams
+ 533 PDF objects out of 1000 (max. 8388607)
+ 496 compressed objects within 5 object streams
  121 named destinations out of 1000 (max. 500000)
  29057 words of extra memory for PDF output out of 29859 (max. 10000000)
 

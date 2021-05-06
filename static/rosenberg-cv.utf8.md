@@ -657,6 +657,9 @@ Lawson, M., Rosenberg, J. M., & Camponovo, M. (February, 2019). *Better together
 ## Workshops
 
 \hangindent=2em
+Rosenberg, J. M. (2021, May). *An Introduction to Machine Learning Using R for Science Education Research*. Workshop carried out at the [Machine Learning and Computer-Based Text Analysis conference](https://www.ipn.uni-kiel.de/en/the-ipn/news/gdcp-focus-conference-machine-learning-and-computer-based-text-analysis-may-6th-7th-2021-register-now), Kiel, Germany. https://github.com/jrosen48/ML-in-Science-Education-Workshop-Materials
+
+\hangindent=2em
 Sorge, S., Kubsch, M., Rosenberg, J. M., & D'Angelo, C. (2021, April). *Rethinking how you understand your data with R*. Workshop carried out at the National Association for Research in Science Teaching. 
 
 \hangindent=2em
