@@ -43,4 +43,4 @@ providing a rating of Highly Competitive, Competitive, or Not Competitive differ
 Excellent, Very Good, Good, Fair, Poor ratings you individually provide. Proposals ranked below 
 a certain cut-off (in terms of the individual ratings) are not discussed.
 
-I think that's all I have for now; I'll perhaps add more to this later on.
+I think that's all I have for now; I'll add more to this later.
