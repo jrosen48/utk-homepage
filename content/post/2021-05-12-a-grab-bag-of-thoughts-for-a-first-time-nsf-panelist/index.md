@@ -1,6 +1,6 @@
 ---
 title: A grab-bag of thoughts for a first-time NSF panelist
-author: R package build
+author: Joshua Rosenberg
 date: '2021-05-12'
 slug: a-grab-bag-of-thoughts-for-a-first-time-nsf-panelist
 categories: []
