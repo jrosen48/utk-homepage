@@ -15,7 +15,7 @@ and feeling like I have _something_ to say, though I'm unsure what, just yet. He
 1. It is common to hear this from others who have previously served on a review panel, but it
 bears mentioning that it takes a lot of time! I think one rough way to estimate how much
 time it will take is to consider each proposal that you will review to be comparable in the
-time it will take to review as one journal article. Thus, the standard of refiewing
+time it will take to review as one journal article. Thus, the standard of reviewing
 eight proposals would, by this token, be roughly comparable to reviewing eight journal articles.
 In some ways, that's an over-estimate of how long the process of reviewing proposals will take, but
 when all is said and done (reading the proposals, writing feedback, logistically preparing for and
@@ -39,8 +39,32 @@ notes on others' comments. The discussion is time to try to argue for the weakne
 proposals or to advocate for their strengths; it can be a dynamic and engaging conversation 
 and part of the review process, one that can be important (or, to me, it feels that way!), to
 whether a proposal will be recommended for funding. The result of this discussion is the panel
-providing a rating of Highly Competitive, Competitive, or Not Competitive different from the
-Excellent, Very Good, Good, Fair, Poor ratings you individually provide. Proposals ranked below 
-a certain cut-off (in terms of the individual ratings) are not discussed.
+providing a rating of Highly Competitive, Competitive, or Not Competitive different from the 
+(effectively 1-5) ratings you individually provide.
 
-I think that's all I have for now; I'll add more to this later.
+5. One big take-away about the process is that you have ample time and space to discuss, refine, and come
+to some kind of consensus on the proposal; this means that your individual review should be
+incisive and should stand on its own, but does not need to be perfect. It is likely you will 
+notice things your co-panelists do not, and vice versa. This is good. 
+
+6. The program officer generally facilitates and summarizes but doesn't advise/directly intervene. I am not
+sure if I've been lucky or if most program officers do this well, but this has consistently been the case
+for the panels I've served on. 
+
+7. Getting to work with and know co-panelists is a positive part of the process. It's a great opportunity
+to learn about others and their work and to engage with (perhaps well-established scholars) in a productive/
+fun way. 
+
+8. You're paid!* *A little. You're paid a stipend of $400, which is great, but probably is quite low relative 
+to the time it takes (or, on an hourly basis). It's a nice part of the process but isn't in the top two-three reasons
+for reviewing, I think. I imagine this is especially the case for more senior scholars, for whom $400 is a smaller
+proportion of their salary/compensation.
+
+9. You'll likely have a chance to talk with the program officer about funding opportunities. You also will 
+have a point of contact afterward to request feedback (such as for a one-page summary of a potential project).
+
+What did I miss?
+
+This is less advice, but I find virtual panels to be a lot more practical; while there are doubtlessly
+benefits to travel to NSF - and I really enjoyed visiting when I did - it makes a big investment of time
+and energy a huge one. I hope NSF continues to conduct virtual panels.
