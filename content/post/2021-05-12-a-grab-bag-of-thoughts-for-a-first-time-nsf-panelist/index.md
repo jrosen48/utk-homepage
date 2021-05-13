@@ -10,7 +10,8 @@ tags: []
 This is an informal post; as much a reflection as something that may actually be useful 
 to others. This post is on some thoughts on being an NSF panelist for a review panel. 
 It's written after having served on three panels - one face-to-face, and two online -
-and feeling like I have _something_ to say, though I'm unsure what, just yet. Here goes...
+and feeling like I have _something_ to say, though I'm unsure what, just yet. This is sort of written for someone interested in serving as a panelist or someone serving for the first time looking for some thoughts from someone relatively new to the process (and so aware of the
+questions/concerns I had). Here goes...
 
 1. It is common to hear this from others who have previously served on a review panel, but it
 bears mentioning that it takes a lot of time! I think one rough way to estimate how much
@@ -62,6 +63,8 @@ proportion of their salary/compensation.
 
 9. You'll likely have a chance to talk with the program officer about funding opportunities. You also will 
 have a point of contact afterward to request feedback (such as for a one-page summary of a potential project).
+
+10. It has universally been a good experience, though with some variation across panels in the reasons why (e.g., some took a lot longer than others - we almost missed dinner for one! :)). 
 
 What did I miss?
 
