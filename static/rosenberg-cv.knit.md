@@ -695,6 +695,9 @@ Rosenberg, J. M. (March, 2016). *An introduction to R for programming and statis
 # Outreach and Engagement
 
 \hangindent=2em
+Rosenberg, J. M. (2020, April). *Discussion of Teaching Data Science*. Presentation for the Data Science in Education Using R book club. https://github.com/r4ds/bookclub-dsieur
+
+\hangindent=2em
 D'Angelo, C., & Rosenberg, J. M. (2020, April). *Analyzing Education Data with Open Science Best Practices, R, and OSF*. Webinar through the Center for Open Science. https://www.youtube.com/watch?v=WxdWzTIzYmI
 
 \hangindent=2em
@@ -980,7 +983,13 @@ Early Career Seminar, Association for Educational Communications and Technology,
 
 Research Methods with Diverse Groups Advanced Training Institute, American Psychological Association, 2014
 
-### Media
+### Media/Podcasts
+
+2021, Full Stack Education podcast
+
+2021, Visions of Education podcast
+
+2020, Discussion with LeaRN, https://www.youtube.com/watch?v=JtfvhAB6Wqc
 
 2020, Education Data Chat podcast, https://www.buzzsprout.com/1074286/4993430
 
@@ -990,7 +999,9 @@ Research Methods with Diverse Groups Advanced Training Institute, American Psych
 
 ### Podcast
 
-2018-2019, Co-host, [*Impodster Syndrome* podcast](http://impodstersyndrome.libsyn.com/)
+2021-, Co-host, *About Practice* podcast, https://anchor.fm/about-practice
+
+2018-2019, Co-host, *Impodster Syndrome* podcast, https://drive.google.com/drive/folders/1fwSaEKt9QzJPUlf-CYVVwPgN-pKBaAkW?usp=sharing
 
 ### Consulting
 
