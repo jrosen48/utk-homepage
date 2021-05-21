@@ -72,11 +72,11 @@ C.D. Owen High School, Swannanoa, NC
 
 # Grants
 
-2020-2025, Co-Investigator (Co-I), *Imagining Possibilities in Post-Secondary Education and STEMM in Rural Appalachia*. ($1,208,563), National Institutes of Health.
+2020-2025, Co-Investigator (Co-I), *Imagining possibilities in post-secondary education and STEMM in rural Appalachia* ($1,208,563), National Institutes of Health. 
 
-2020-2023, Senior Personnel, *Learning analytics in STEM education research institute* ($993,150; *PI*, Shaun Kellogg, North Carolina State University; UTK subcontract: $54,691). NSF. (NSF Grant No. [2025090](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2025090&HistoricalAwards=false))
+2020-2023, Senior Personnel, *Learning analytics in STEM education research institute* ($933,150; **PI**, Shaun Kellogg, North Carolina State University; UTK subcontract: $54,691. National Science Foundation (NSF), [NSF Grant No. 2025090](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2025090&HistoricalAwards=false)
 
-2020-2021, Co-Principal Investigator (Co-PI), *Propelling teacher professional development through FAAST feedback on student epistemic views* ($15,000; *PI*: Christina Krist, University of Illinois Urbana-Champaign). Technology Innovations in Educational Research and Design Pilot Projects Program.  
+2020-2021, Co-Principal Investigator (Co-PI), *Propelling teacher professional development through FAAST feedback on student epistemic views* ($15,000; *PI*: Christina Krist, University of Illinois Urbana-Champaign). Technology Innovations in Educational Research and Design Pilot Projects Program. 
 
 2019-2021, PI, *Understanding the development of interest in computer science: An experience sampling approach* ($346,688). National Science Foundation [NSF]. http://picsul.utk.edu/ (NSF Grant No. [1937700](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1937700&HistoricalAwards=false))
 
@@ -89,8 +89,6 @@ C.D. Owen High School, Swannanoa, NC
 2019-2020, PI, *Planting the seeds for computer science education in East Tennessee through a research-practice partnership*  ($13,200). Community Engaged Research Seed Program, UTK.
 
 2018-2020, Co-PI, *Exploring how beginning elementary mathematics teachers seek out resources through social media* ($8,820; *PI*: Stephen Aguilar). Herman & Rasiej K-5 Mathematics Initiative, University of Southern California.
-
-2013, PI, *Basic biology for everyone* ($2,000), Versal Foundation Grant
 
 # Fellowships and Awards
 
@@ -131,6 +129,11 @@ C.D. Owen High School, Swannanoa, NC
 
 ## Articles Published in Refereed Journals
 
+### Articles In-Press or Advanced Online Publications
+
+\hangindent=2em
+Lawson, M. A., Herrick, I., & Rosenberg, J. M.(in press). Better together: Understanding and supporting math and science pre-service teachers’ sensemaking about STEM. *Educational Technology & Society*.
+
 \hangindent=2em
 Rosenberg, J. M., Borchers, C., Dyer, E., Anderson, D. J., & Fischer, C. (in press). Advancing new methods for understanding public sentiment about educational reforms: The case of Twitter and the Next Generation Science Standards. *AERA Open*. https://osf.io/xymsd/
 
@@ -144,10 +147,12 @@ Greenhalgh, S. P., Rosenberg, J. M., & Russell, A. (in press). The influence of 
 Schweinsburg, M., ... Luis, S. (in press). Same data, different conclusions: Radical dispersion in empirical results. *Organizational Behavior and Human Decision Processes.*
 
 \hangindent=2em
-Frank, K. A., Lin, Q., Maroulis, S., Strassman, A., Xu, R., Rosenberg, J. M., Hayter, C., Mahmoud, R., Kolak, M., Dietz, T., & Zhang, L. (advance online publication). Hypothetical case replacement can be used to quantify the robustness of trial results. *Journal of Clinical Epidemiology*. https://www.sciencedirect.com/science/article/pii/S0895435621000366 (*N.B.:* I was a scientific programmRer for this project).
+Frank, K. A., Lin, Q., Maroulis, S., Strassman, A., Xu, R., Rosenberg, J. M., Hayter, C., Mahmoud, R., Kolak, M., Dietz, T., & Zhang, L. (advance online publication). Hypothetical case replacement can be used to quantify the robustness of trial results. *Journal of Clinical Epidemiology*. https://www.sciencedirect.com/science/article/pii/S0895435621000366 (*N.B.:* I was a scientific programmer for this project).
 
 \hangindent=2em
 Ranellucci, J., Robinson, K., Rosenberg, J. M., Lee, Y.-K., Roseth, C., & Linnenbrink-Garcia. (advance online publication). Comparing the roles and correlates of emotions in class and during online video lectures in a flipped anatomy classroom. *Contemporary Educational Psychology*. https://doi.org/10.1016/j.cedpsych.2021.101966
+
+### Published Articles
 
 \hangindent=2em
 Akcaoglu, M., Rosenberg, J. M., Hodges, C. B., Hilpert, J. (2021). An exploration of factors impacting middle school students’ attitudes toward computer programming. *Computers in the Schools. 38*(1), 19-35. https://doi.org/10.1080/07380569.2021.1882209
@@ -245,9 +250,7 @@ Open for whom? A Call for a science education-specific open science. https://osf
 
 Characterizing whole class discussions about data and statistics with conversation profile analysis.
 
-Better together: Understanding and supporting math and science pre-service teachers’ sensemaking about STEM.
-
-Posts on Facebook by Schools and Districts and the Potential Risks to Students’ Privacy. https://osf.io/ujyg2/
+Posts on Facebook by schools and districts and the potential risks to students’ privacy. https://osf.io/ujyg2/
 
 ## Book
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.5.3)  14 MAY 2021 10:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.5.3)  21 MAY 2021 14:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -591,32 +591,32 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 {/Users/joshuarosenberg/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdfte
 x.map}]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 154.
+(Font)              <10> on input line 156.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 154.
+(Font)              <7> on input line 156.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 154.
+(Font)              <5> on input line 156.
 [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1422.
+(hyperref)                than one, level fixed on input line 1430.
 
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1463.
+(hyperref)                than one, level fixed on input line 1471.
 
 [19] [20] [21] [22]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1706.
+(hyperref)                than one, level fixed on input line 1714.
 
-[23]
+[23] [24]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1806.
+(hyperref)                than one, level fixed on input line 1814.
 
-[24]
-Overfull \hbox (0.21835pt too wide) in paragraph at lines 1846--1848
+
+Overfull \hbox (0.21835pt too wide) in paragraph at lines 1854--1856
 []\T1/lmr/m/n/10 (-20) 2018-2019, Co-host, \T1/lmr/m/it/10 (-20) Im-pod-ster Sy
 n-drome \T1/lmr/m/n/10 (-20) pod-cast, []$https : / / drive . google . com / dr
 ive / folders / 1fwSaEKt9QzJPUlf -[]
@@ -624,16 +624,16 @@ ive / folders / 1fwSaEKt9QzJPUlf -[]
 
 [25] (./rosenberg-cv.aux)
 Package rerunfilecheck Info: File `rosenberg-cv.out' has not changed.
-(rerunfilecheck)             Checksum: E8B0B33EE106E2ADA613343C2FB37BC2;8299.
+(rerunfilecheck)             Checksum: 34F68CCFE3496513A1A87736513DAD63;8764.
  ) 
 Here is how much of TeX's memory you used:
- 12016 strings out of 480954
- 181742 string characters out of 5905848
- 516951 words of memory out of 5000000
- 28722 multiletter control sequences out of 15000+600000
- 463450 words of font info for 169 fonts, out of 8000000 for 9000
+ 12026 strings out of 480954
+ 181950 string characters out of 5905848
+ 519070 words of memory out of 5000000
+ 28726 multiletter control sequences out of 15000+600000
+ 463544 words of font info for 170 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 71i,12n,74p,456b,365s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,12n,74p,456b,398s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.e
 nc}</Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmb
 x10.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/public/l
@@ -641,10 +641,10 @@ m/lmbx12.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/pub
 lic/lm/lmr10.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1
 /public/lm/lmr17.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/t
 ype1/public/lm/lmri10.pfb>
-Output written on rosenberg-cv.pdf (25 pages, 240655 bytes).
+Output written on rosenberg-cv.pdf (25 pages, 241272 bytes).
 PDF statistics:
- 537 PDF objects out of 1000 (max. 8388607)
- 500 compressed objects within 5 object streams
- 121 named destinations out of 1000 (max. 500000)
- 29057 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 546 PDF objects out of 1000 (max. 8388607)
+ 508 compressed objects within 6 object streams
+ 125 named destinations out of 1000 (max. 500000)
+ 29073 words of extra memory for PDF output out of 29859 (max. 10000000)
 
