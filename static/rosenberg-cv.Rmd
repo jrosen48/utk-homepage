@@ -341,6 +341,9 @@ Koehler, M. J., Mishra, P., Akcaoglu, M., & Rosenberg, J. M. (2013). Technologic
 ## Papers Published in Refereed Conference Proceedings
 
 \hangindent=2em
+Lishinski, A., & Rosenberg, J. M. (2021). All the pieces matter: The relationship of momentary self-efficacy and affective experiences with CS1 achievement and interest in computing. *The International Computing Education Research Conference Proceedings*.
+
+\hangindent=2em
 Rosenberg, J. M., & Kubsch, M. (2021). Advancing K-12 learners’ use of Bayesian methods. In XXX (Eds.), *The International Society of the Learning Sciences 2020 Conference Proceedings* (pp. xx-xx). International Society of the Learning Sciences.
 
 \hangindent=2em
@@ -413,6 +416,9 @@ Rosenberg, J., Terry, C., Bell, J., Hiltz, V., Russo, T. & The EPET Social Media
 Rosenberg, J. (2013). Review of mobile device use policies in public high schools. In R. McBride & M. Searson (Eds.), *Proceedings of Society for Information Technology & Teacher Education International Conference 2013* (pp. 3774-3779). Chesapeake, VA: AACE. Retrieved from http://www.editlib.org/p/48698git <a href="https://scholar.google.com/citations?user=nxVowRQAAAAJ&hl=en#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DnxVowRQAAAAJ%26cstart%3D20%26pagesize%3D80%26citation_for_view%3DnxVowRQAAAAJ%3Ad1gkVwhDpl0C%26tzom%3D300"><img src = "/logos/google-scholar-1.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
 
 ## Articles Published in Non-Refereed Journals
+
+\hangindent=2em
+Rosenberg, J. M., Burchfield, M. B., Borchers, C., Gibbons, B., & Anderson, D., and Fischer, C. (in press). Posts on Facebook by schools and districts and the potential risks to students’ privacy. *Phi Delta Kappan*.
 
 \hangindent=2em
 Kimmons, R., Rosenberg, J., & Allman, B. (2021). Trends in Educational Technology: What Facebook, Twitter, and Scopus Can Tell us about Current Research and Practice. *TechTrends*, 1-12. https://link.springer.com/article/10.1007/s11528-021-00589-6
