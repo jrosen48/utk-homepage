@@ -16,7 +16,7 @@ readr::write_lines(unlist(lines), 'static/rosenberg-cv.Rmd')
 rmarkdown::render("static/rosenberg-cv.Rmd", output_format = "pdf_document", clean = FALSE)
 
 # knitr::knit("static/rosenberg-cv.Rmd", output="static/rosenberg-cv.tex")
- 
+
 header_lines <- unlist(readLines("static/rosenberg-cv-backup-with-styling.tex"))
 main_lines <- unlist(readLines("static/rosenberg-cv.tex"))
 where_to_begin <- which(stringr::str_detect(main_lines, "hypertarget\\{education\\}"))
@@ -84,4 +84,3 @@ cv_html <- cv_html[cv_html!="\\hangindent=2em"]
 cv_html <- cv_html[cv_html!="\\center"]
 cv_html <- cv_html[cv_html!="\\endgroup"]
 readr::write_lines(unlist(cv_html), "content/about.Rmd")
-
