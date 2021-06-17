@@ -189,10 +189,6 @@ C.D. Owen High School, Swannanoa, NC
 
 Lawson, M. A., Herrick, I., & Rosenberg, J. M.(in press). Better together: Understanding and supporting math and science pre-service teachers’ sensemaking about STEM. *Educational Technology & Society*.
 
-Rosenberg, J. M., Borchers, C., Dyer, E., Anderson, D. J., & Fischer, C. (in press). Advancing new methods for understanding public sentiment about educational reforms: The case of Twitter and the Next Generation Science Standards. *AERA Open*. https://osf.io/xymsd/
-
-Rutherford, T., Duck, K., Rosenberg, J. M., & Patt, R. (in press). Leveraging mathematics software data to understand student learning and motivation during the COVID-19 pandemic. *Journal of Research on Technology in Education*.
-
 Greenhalgh, S. P., Rosenberg, J. M., & Russell, A. (in press). The influence of policy and context on teachers’ social media use. *The British Journal of Educational Technology*. 
 
 Schweinsburg, M., ... Luis, S. (in press). Same data, different conclusions: Radical dispersion in empirical results. *Organizational Behavior and Human Decision Processes.*
@@ -201,7 +197,11 @@ Frank, K. A., Lin, Q., Maroulis, S., Strassman, A., Xu, R., Rosenberg, J. M., Ha
 
 Ranellucci, J., Robinson, K., Rosenberg, J. M., Lee, Y.-K., Roseth, C., & Linnenbrink-Garcia. (advance online publication). Comparing the roles and correlates of emotions in class and during online video lectures in a flipped anatomy classroom. *Contemporary Educational Psychology*. https://doi.org/10.1016/j.cedpsych.2021.101966
 
+Rutherford, T., Duck, K., Rosenberg, J. M., & Patt, R. (advance online publication). Leveraging mathematics software data to understand student learning and motivation during the COVID-19 pandemic. *Journal of Research on Technology in Education*, 1-36. https://www.tandfonline.com/doi/full/10.1080/15391523.2021.1920520
+
 ### Published Articles
+
+Rosenberg, J. M., Borchers, C., Dyer, E., Anderson, D. J., & Fischer, C. (2021). Advancing new methods for understanding public sentiment about educational reforms: The case of Twitter and the Next Generation Science Standards. *AERA Open*, 1-17. https://journals.sagepub.com/doi/10.1177/23328584211024261
 
 Akcaoglu, M., Rosenberg, J. M., Hodges, C. B., Hilpert, J. (2021). An exploration of factors impacting middle school students’ attitudes toward computer programming. *Computers in the Schools. 38*(1), 19-35. https://doi.org/10.1080/07380569.2021.1882209
 
