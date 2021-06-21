@@ -129,27 +129,27 @@ C.D. Owen High School, Swannanoa, NC
 
 ## Articles Published in Refereed Journals
 
-### Advanced Online Publications and Articles In-Press
+### Articles In-Press
 
 \hangindent=2em
 Lawson, M. A., Herrick, I., & Rosenberg, J. M.(in press). Better together: Understanding and supporting math and science pre-service teachers’ sensemaking about STEM. *Educational Technology & Society*.
 
-\hangindent=2em
-Greenhalgh, S. P., Rosenberg, J. M., & Russell, A. (in press). The influence of policy and context on teachers’ social media use. *The British Journal of Educational Technology*. 
+### Published Articles
 
 \hangindent=2em
-Schweinsburg, M., ... Luis, S. (in press). Same data, different conclusions: Radical dispersion in empirical results. *Organizational Behavior and Human Decision Processes.*
+Schweinsburg, M., ... Luis, S. (advance online publication). Same data, different conclusions: Radical dispersion in empirical results. *Organizational Behavior and Human Decision Processes.* https://www.sciencedirect.com/science/article/pii/S0749597821000200
 
 \hangindent=2em
-Frank, K. A., Lin, Q., Maroulis, S., Strassman, A., Xu, R., Rosenberg, J. M., Hayter, C., Mahmoud, R., Kolak, M., Dietz, T., & Zhang, L. (advance online publication). Hypothetical case replacement can be used to quantify the robustness of trial results. *Journal of Clinical Epidemiology*. https://www.sciencedirect.com/science/article/pii/S0895435621000366 (*N.B.:* I was a scientific programmer for this project).
+Rutherford, T., Duck, K., Rosenberg, J. M., & Patt, R. (advance online publication). Leveraging mathematics software data to understand student learning and motivation during the COVID-19 pandemic. *Journal of Research on Technology in Education*, 1-36. https://www.tandfonline.com/doi/full/10.1080/15391523.2021.1920520
 
 \hangindent=2em
 Ranellucci, J., Robinson, K., Rosenberg, J. M., Lee, Y.-K., Roseth, C., & Linnenbrink-Garcia. (advance online publication). Comparing the roles and correlates of emotions in class and during online video lectures in a flipped anatomy classroom. *Contemporary Educational Psychology*. https://doi.org/10.1016/j.cedpsych.2021.101966
 
 \hangindent=2em
-Rutherford, T., Duck, K., Rosenberg, J. M., & Patt, R. (advance online publication). Leveraging mathematics software data to understand student learning and motivation during the COVID-19 pandemic. *Journal of Research on Technology in Education*, 1-36. https://www.tandfonline.com/doi/full/10.1080/15391523.2021.1920520
+Frank, K. A., Lin, Q., Maroulis, S., Strassman, A., Xu, R., Rosenberg, J. M., Hayter, C., Mahmoud, R., Kolak, M., Dietz, T., & Zhang, L. (advance online publication). Hypothetical case replacement can be used to quantify the robustness of trial results. *Journal of Clinical Epidemiology*. https://www.sciencedirect.com/science/article/pii/S0895435621000366 (*N.B.:* I was a scientific programmer for this project).
 
-### Published Articles
+\hangindent=2em
+Greenhalgh, S. P., Rosenberg, J. M., & Russell, A. (advance online publication). The influence of policy and context on teachers’ social media use. *The British Journal of Educational Technology*. https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.13096?af=R
 
 \hangindent=2em
 Rosenberg, J. M., Borchers, C., Dyer, E., Anderson, D. J., & Fischer, C. (2021). Advancing new methods for understanding public sentiment about educational reforms: The case of Twitter and the Next Generation Science Standards. *AERA Open*, 1-17. https://journals.sagepub.com/doi/10.1177/23328584211024261
