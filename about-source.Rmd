@@ -121,11 +121,13 @@ C.D. Owen High School, Swannanoa, NC
 
 # Grants
 
+2021-2022, Principal Investigator (Co-PI), *Not only for scientists and engineers: Advancing Bayesian methods for pre-collegiate learners* ($1,991), Supplemental funding to NSF Grant No. [193770](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1937700&HistoricalAwards=false) (Dear Colleague Letter: Research Collaboration Opportunity in Europe for NSF Awardees). National Science Foundation. 
+
 2020-2025, Co-Investigator (Co-I), *Imagining possibilities in post-secondary education and STEMM in rural Appalachia* ($1,208,563), National Institutes of Health. 
 
 2020-2023, Senior Personnel, *Learning analytics in STEM education research institute* ($933,150; **PI**, Shaun Kellogg, North Carolina State University; UTK subcontract: $54,691. National Science Foundation (NSF), [NSF Grant No. 2025090](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2025090&HistoricalAwards=false)
 
-2020-2021, Co-Principal Investigator (Co-PI), *Propelling teacher professional development through FAAST feedback on student epistemic views* ($15,000; *PI*: Christina Krist, University of Illinois Urbana-Champaign). Technology Innovations in Educational Research and Design Pilot Projects Program. 
+2020-2021, Co-PI, *Propelling teacher professional development through FAAST feedback on student epistemic views* ($15,000; *PI*: Christina Krist, University of Illinois Urbana-Champaign). Technology Innovations in Educational Research and Design Pilot Projects Program. 
 
 2019-2021, PI, *Understanding the development of interest in computer science: An experience sampling approach* ($346,688). National Science Foundation [NSF]. http://picsul.utk.edu/ (NSF Grant No. [1937700](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1937700&HistoricalAwards=false))
 
@@ -140,6 +142,8 @@ C.D. Owen High School, Swannanoa, NC
 2018-2020, Co-PI, *Exploring how beginning elementary mathematics teachers seek out resources through social media* ($8,820; *PI*: Stephen Aguilar). Herman & Rasiej K-5 Mathematics Initiative, University of Southern California.
 
 # Fellowships and Awards
+
+2021-2022, OER Research Fellow
 
 2021, Louie M. & Betty M. Phillips Faculty Support in Education Award
 
