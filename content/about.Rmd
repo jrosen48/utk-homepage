@@ -561,6 +561,8 @@ Lawson, M., Rosenberg, J. M., & Camponovo, M. (February, 2019). *Better together
 
 ## Workshops
 
+Rosenberg, J. M. (2021, June). *Data Visualization and Text Analysis USing R*. Workshop carried out at Southern Wesleyan University, https://github.com/jrosen48/data-viz-and-qual-analysis-workshop
+
 Rosenberg, J. M. (2021, May). *An Introduction to Machine Learning Using R for Science Education Research*. Workshop carried out at the [Machine Learning and Computer-Based Text Analysis conference](https://www.ipn.uni-kiel.de/en/the-ipn/news/gdcp-focus-conference-machine-learning-and-computer-based-text-analysis-may-6th-7th-2021-register-now), Kiel, Germany. https://github.com/jrosen48/ML-in-Science-Education-Workshop-Materials
 
 Sorge, S., Kubsch, M., Rosenberg, J. M., & D'Angelo, C. (2021, April). *Rethinking how you understand your data with R*. Workshop carried out at the National Association for Research in Science Teaching. 
@@ -649,6 +651,8 @@ Special Issue Editor, *Australasian Journal of Educational Technology*, 2017
 
 ### Service to the Profession
 
+Conference Committee Member, Southeastern STEM Education Research Conference, https://mtsu.edu/tsec/education-conference/index.php
+
 Panelist, Building Capacity in STEM Education Research, National Science Foundation, *n.d.*
 
 Panelist, Discovery Research PreK-12, National Science Foundation, *n.d.*
@@ -685,7 +689,7 @@ Reviewer, American Psychological Association (APA) Convention, 2015
 
 ### Service to the Community
 
-Mentor, [Diversity in Learning Analytics and Leadership program
+Mentor, Diversity in Learning Analytics and Leadership program
 
 Reviewer, Proposals from Knox County Schools students for the NASA Student Spaceflight Experiment program
 
@@ -713,21 +717,25 @@ Journal of STEM Education Research (2019)
 Science Education (2021)
 TechTrends (2019)  
 
+### University service
+
+2021-, Data Science Faculty Committee, UTK
+
 ### College-related Service 
 
-Facilitator, Quality Research and Scholarship working group, 2020
+2020, Facilitator, Quality Research and Scholarship working group, UTK
 
-Member, Online Academic Programs Investment and Growth Plan ad-hoc committee
+2019, Member, Online Academic Programs Investment and Growth Plan ad-hoc committee, UTK
 
-Organizer, Quantitative Methods Research Group
+2018-2019, Organizer, Quantitative Methods Research Group, UTK
 
 ### Departmental Service 
 
 *University of Tennessee, Knoxville*
 
-Member, Annual Review Rubrics Committee
+2021, Member, Annual Review Rubrics Committee, UTK
 
-Mentor, AERA Bootcamp (2019)
+2019, Mentor, AERA Bootcamp, UTK
 
 *Michigan State University*
 

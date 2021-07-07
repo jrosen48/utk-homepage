@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.5.3)  3 JUL 2021 12:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.5.3)  7 JUL 2021 12:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -599,25 +599,25 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1455.
+(hyperref)                than one, level fixed on input line 1460.
 
 [19]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1496.
+(hyperref)                than one, level fixed on input line 1501.
 
 [20] [21] [22]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1740.
+(hyperref)                than one, level fixed on input line 1753.
 
 [23] [24]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1840.
+(hyperref)                than one, level fixed on input line 1853.
 
 
-Overfull \hbox (0.21835pt too wide) in paragraph at lines 1880--1882
+Overfull \hbox (0.21835pt too wide) in paragraph at lines 1893--1895
 []\T1/lmr/m/n/10 (-20) 2018-2019, Co-host, \T1/lmr/m/it/10 (-20) Im-pod-ster Sy
 n-drome \T1/lmr/m/n/10 (-20) pod-cast, []$https : / / drive . google . com / dr
 ive / folders / 1fwSaEKt9QzJPUlf -[]
@@ -625,13 +625,13 @@ ive / folders / 1fwSaEKt9QzJPUlf -[]
 
 [25] [26] (./rosenberg-cv.aux)
 Package rerunfilecheck Info: File `rosenberg-cv.out' has not changed.
-(rerunfilecheck)             Checksum: 678E5D99E7240D33804D8C8C692D4C50;8592.
+(rerunfilecheck)             Checksum: 1B41DEDA5113E2EDFD75C2332E97D93F;8742.
  ) 
 Here is how much of TeX's memory you used:
- 12027 strings out of 480954
- 181893 string characters out of 5905848
- 520038 words of memory out of 5000000
- 28726 multiletter control sequences out of 15000+600000
+ 12031 strings out of 480954
+ 181955 string characters out of 5905848
+ 520081 words of memory out of 5000000
+ 28728 multiletter control sequences out of 15000+600000
  463544 words of font info for 170 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  71i,12n,74p,456b,365s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -642,10 +642,10 @@ m/lmbx12.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/pub
 lic/lm/lmr10.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1
 /public/lm/lmr17.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/t
 ype1/public/lm/lmri10.pfb>
-Output written on rosenberg-cv.pdf (26 pages, 243261 bytes).
+Output written on rosenberg-cv.pdf (26 pages, 243945 bytes).
 PDF statistics:
- 557 PDF objects out of 1000 (max. 8388607)
- 518 compressed objects within 6 object streams
- 126 named destinations out of 1000 (max. 500000)
- 29073 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 566 PDF objects out of 1000 (max. 8388607)
+ 527 compressed objects within 6 object streams
+ 128 named destinations out of 1000 (max. 500000)
+ 29081 words of extra memory for PDF output out of 29859 (max. 10000000)
 
