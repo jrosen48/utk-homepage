@@ -1,5 +1,5 @@
 ---
-title: What's the point of Krishnamurthi and Fisler (2020)
+title: What's the point of Krishnamurthi and Fisler (2020)? Exploring an informal alt peer review process
 author: R package build
 date: '2021-07-12'
 slug: what-s-the-point-of-krishnamurthi-and-fisler-s-2020-paper-on-data-centricity
