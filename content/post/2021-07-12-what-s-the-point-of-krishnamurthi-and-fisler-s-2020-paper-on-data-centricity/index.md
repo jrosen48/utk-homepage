@@ -69,3 +69,5 @@ These are big questions and changes to the curriculum, so there's not an easy re
 ### Reflections
 
 How data science and computer science differ reminded me of how science and math classes at the K-12/pre-collegiate level differ. Science classes (can) involve the exploration of complex phenomena, whereas mathematics classes (often but not always) involve problems that are more idealized (and more amenable to solving mathematically), similar to how introduction to data science courses can involve analyzing complex data whereas introduction to computer science courses often involve using fabricated data to learn about data structures.
+
+If interested in these topics, I recommend reading the paper. Here are links to more of [Krishnamurthi's](https://cs.brown.edu/~sk/) and [Fisler's](http://cs.brown.edu/~kfisler/) work in computing education.
