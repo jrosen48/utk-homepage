@@ -7,11 +7,9 @@ categories: []
 tags: []
 ---
 
-## Break!
+## Why I'm doing this
 
 While visiting family, I recharged (a bit) and took (a bit of) a break. One benefit of the break is that it let me reevaluate how I work---and what my priorities for the year ahead are (note, it's a bit unfortunate when breaks are a time to think more about work, but that's sometimes how it goes, and I'm grateful for the break I had!). 
-
-## Alt peer review: via blogs (or newsletter)
 
 One idea I had related to an entirely different mode of peer review. 
 
@@ -27,9 +25,11 @@ Also, many (but certainly not all!) authors like to read about what people think
 
 Finally, I like to try out new ways of doing research and writing. For instance, [I wrote my dissertation in the open through GitHub](https://jrosen48.github.io/dissertation/) not because I thought many people would read it (I think not many did!), but because I wanted to try to practice (and exhibit) this capability for future work (and, doing this led me to [co-author an open book](https://github.com/data-edu/data-science-in-education)). Academics---even pre-tenure academics that are privileged because of their backgrounds and identity---have an incredible opportunity to pursue things they're interested in and to do things in new ways. This is one area where I think academics can innovate.
 
-## What's the point?
-
 I talked with my wife Katie (a librarian) about this idea (and, riffed on it with [my podcast co-host Ryan](https://linktr.ee/ry_estrellado)), and Katie helped me to come up with (and Ryan helped me to settle on) the name *What's the point* for what this alt peer review process may look like for me. So, I hope the authors of the paper that I'm reviewing don't see the title of this post as pejorative! In fact, I admire the work, and, going forward, I plan to only read and write about papers that I'm interested in or have wanted to read. I don't really have a format yet, but I'll try to figure that out here.
+
+## Review
+
+### What's the point?
 
 The paper I read and am writing about is:
 
@@ -58,13 +58,13 @@ formats.
 
 Later in their coursework, students learn about other structures for their data - things that those of us who tried to learn to program (with a language like Javascript) but never got far off of the ground with may have been exposed to: lists, dictionaries, and arrays. Python has only really "worked" for me when I use tables via Pandas data frame objects---a structure very familiar to me as a former science teacher and an R user.
 
-### So, what's the point?
+### What's the point?
 
 Instead of teaching introduction to data science students to work with data stored in tables (think spreadsheets), and teaching introduction to computer science students to manipulate data in structures like lists, there may be benefits to students who end up in _both_ classes to introducing students to working with data in table format and functions that are designed to solve real problems that one encounters when analyzing complex data. Later, students will likely benefit from learning about more abstract data structures, especially when they see the need for those. 
 
 ### Critiques
 
-These are big questions and changes to the curriculum, so there's not an easy research design that can test these conjectures. I recognize that this paper was published in the *Communications of the ACM*, a magazine-journal read by many in computer science, but I'd like to read more about how these conjectures could be explored by educational researchers (or what research these computer science and computing education researchers have carried out on this!).
+These are big questions and changes to the curriculum, so there's not an easy research design that can test these conjectures. I recognize that this paper was published in the *Communications of the ACM* (Association of Computing Machinery), a magazine-journal read by many in computer science, but I'd like to read more about how these conjectures could be explored by educational researchers (or what research these computer science and computing education researchers have carried out on this!).
 
 ### Reflections
 
