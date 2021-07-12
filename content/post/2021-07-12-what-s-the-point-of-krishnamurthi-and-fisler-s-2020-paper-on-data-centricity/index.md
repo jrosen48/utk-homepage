@@ -7,7 +7,7 @@ categories: []
 tags: []
 ---
 
-This post is *alt peer review*. I try to describe my rationale for this in [a previous post](https://joshuamrosenberg.com/post/2021/07/11/alt-peer-review-via-blogs-and-newsletters/).
+This post is *alt peer review*. I describe my rationale for exploring alt peer review in [a previous post](https://joshuamrosenberg.com/post/2021/07/11/alt-peer-review-via-blogs-and-newsletters/); consider checking that out, first.
 
 The paper I read and am writing about is:
 
