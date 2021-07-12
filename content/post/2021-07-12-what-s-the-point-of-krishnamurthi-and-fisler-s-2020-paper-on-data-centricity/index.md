@@ -9,8 +9,6 @@ tags: []
 
 This post is *alt peer review*. I try to describe my rationale for this in [a previous post](https://joshuamrosenberg.com/post/2021/07/11/alt-peer-review-via-blogs-and-newsletters/).
 
-## What's the point?
-
 The paper I read and am writing about is:
 
 > Krishnamurthi, S., & Fisler, K. (2020). Data-centricity: a challenge and opportunity for computing education. *Communications of the ACM*, 63(8), 24-26. 
