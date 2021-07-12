@@ -15,9 +15,14 @@ The paper I read and am writing about is:
 
 It's available from the ACM [here](https://dl.acm.org/doi/fullHtml/10.1145/3408056?casa_token=0zOqDPK1vlQAAAAA:cOtAyvLXLr6V2obFPj-HDpk3p2gx1ttMiJbwmC63ZjlVUvuz_ppae8hv-xULASEPqLtJ3tCmnrXa3A) and as a pre-print [here](http://cs.brown.edu/~sk/Publications/Papers/Published/kf-data-centric/paper.pdf).
 
-I'll try writing about four things: what the paper says, what (I think) the point is, what criticisms I have, and any reflections. 
+I'll try writing about four things: 
 
-## What the paper says
+1. what the paper says
+2. what (I think) the point is
+3. what criticisms I have
+4. any reflections. 
+
+## 1. What the paper says
 
 The rise of introduction to data science courses is an implicit critique of introduction to computer science courses. This section of the paper was what made me interested to read more:
 
@@ -36,15 +41,15 @@ formats.
 
 Later in their coursework, students learn about other structures for their data - things that those of us who tried to learn to program (with a language like Javascript) but never got far off of the ground with may have been exposed to: lists, dictionaries, and arrays. Python has only really "worked" for me when I use tables via Pandas data frame objects---a structure very familiar to me as a former science teacher and an R user.
 
-## What's the point?
+## 2. What's the point?
 
 Instead of teaching introduction to data science students to work with data stored in tables (think spreadsheets), and teaching introduction to computer science students to manipulate data in structures like lists, there may be benefits to students who end up in _both_ classes to introducing students to working with data in table format and functions that are designed to solve real problems that one encounters when analyzing complex data. Later, students will likely benefit from learning about more abstract data structures, especially when they see the need for those. 
 
-## Critiques
+## 3. Critiques
 
 These are big questions and changes to the curriculum, so there's not an easy research design that can test these conjectures. I recognize that this paper was published in the *Communications of the ACM* (Association of Computing Machinery), a magazine-journal read by many in computer science, but I'd like to read more about how these conjectures could be explored by educational researchers (or what research these computer science and computing education researchers have carried out on this!).
 
-## Reflections
+## 4. Reflections
 
 How data science and computer science differ reminded me of how science and math classes at the K-12/pre-collegiate level differ. Science classes (can) involve the exploration of complex phenomena, whereas mathematics classes (often but not always) involve problems that are more idealized (and more amenable to solving mathematically), similar to how introduction to data science courses can involve analyzing complex data whereas introduction to computer science courses often involve using fabricated data to learn about data structures.
 
