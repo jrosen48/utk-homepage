@@ -1,6 +1,6 @@
 ---
 title: Loving Knoxville
-author: R package build
+author: Joshua Rosenberg
 date: '2021-07-22'
 slug: loving-knoxville
 categories: []
