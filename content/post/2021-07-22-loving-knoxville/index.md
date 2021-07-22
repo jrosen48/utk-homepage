@@ -29,5 +29,7 @@ Fourth, Katie and I have jobs we like and are challenged by.
 
 Last, we like our neighborhood. We can walk to the river, bike to the park and to daycare and work.
 
+It is in the south, which is different for me, still. Knoxville has problems and inequalities that make it less than it could be. Where I work has issues. I think these matter, perhaps even more as we live here longer.
+
 This is about all I have to say. The last three years have been good, and hard. The second half of our
 six years in Lansing brought us our little one on a snowy February morning. I am unsure what the second half of our time in Knoxville will bring but am cautiously optimistic about it.
