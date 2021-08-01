@@ -1,6 +1,6 @@
 ---
 title: What I have learned about how I use social media
-author: R package build
+author: Joshua Rosenberg
 date: '2021-08-01'
 slug: what-i-have-learned-about-how-i-use-social-media
 categories: []
