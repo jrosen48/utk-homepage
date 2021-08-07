@@ -195,7 +195,7 @@ C.D. Owen High School, Swannanoa, NC
 \hangindent=2em
 Estrellado, R. A., Freer, E. A.,  Mostipak, J., Rosenberg, J. M., & Velásquez, I. C. (2020). *Data science in education using R*. London, England: Routledge. *Nb.* All authors contributed equally. http://www.datascienceineducation.com/ <a href="https://github.com/data-edu/data-science-in-education"><img src = "/logos/github.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
 
-## Articles Published in Refereed Journals
+## Articles Published in Refereed Journals (35)
 
 ### Articles In-Press (1)
 
@@ -305,7 +305,6 @@ Rosenberg, J. M., Terry, C. A., Bell, J., Hiltz, V., & Russo, T. (2016). Design 
 
 \hangindent=2em
 Rosenberg, J. M., & Koehler, M. J. (2015). Context and Technological Pedagogical Content Knowledge (TPACK): A systematic review. *Journal of Research on Technology in Education, 47*, 186-210. http://dx.doi.org/10.1080/15391523.2015.1052663 <a href = "/pre-prints/rosenberg-koehler-2015-jrte.pdf"><img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> <a href="https://scholar.google.com/citations?user=nxVowRQAAAAJ&hl=en#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DnxVowRQAAAAJ%26citation_for_view%3DnxVowRQAAAAJ%3AKxtntwgDAa4C%26tzom%3D300"><img src = "/logos/google-scholar-1.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
-
 
 ## Editor-Reviewed Articles Published in Journals (5)
 
@@ -438,6 +437,10 @@ Rosenberg, J., Terry, C., Bell, J., Hiltz, V., Russo, T. & The EPET Social Media
 
 \hangindent=2em
 Rosenberg, J. (2013). Review of mobile device use policies in public high schools. In R. McBride & M. Searson (Eds.), *Proceedings of Society for Information Technology & Teacher Education International Conference 2013* (pp. 3774-3779). Chesapeake, VA: AACE. Retrieved from http://www.editlib.org/p/48698git <a href="https://scholar.google.com/citations?user=nxVowRQAAAAJ&hl=en#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DnxVowRQAAAAJ%26cstart%3D20%26pagesize%3D80%26citation_for_view%3DnxVowRQAAAAJ%3Ad1gkVwhDpl0C%26tzom%3D300"><img src = "/logos/google-scholar-1.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
+
+## Posts in the Popular Press (1)
+
+Rosenberg, J. M. (2021). School posts on Facebook could threaten student privacy. *The Conversation*. https://theconversation.com/school-posts-on-facebook-could-threaten-student-privacy-160248
 
 ## Blog posts and reports (4)
 
@@ -703,6 +706,15 @@ Rosenberg, J. M. (February, 2019). *Making sense of recent advances in the Techn
 
 ## Other Presentations
 
+\hangindent=2em 
+Gibbons, B., Bui, H., Mann, M., Longnecker, J., Dyer, E., & Rosenberg, J. M. (2021, January). *Insights on the current and preferred integration of computer science into K-8 education in Tennessee*. Presentation at the 15th Annual Tennessee STEM Education Research Conference. https://www.pechakucha.com/presentations/insights-on-the-current-and-preferred-integration-of-computer-science-into-k-8-education-in-tennessee
+
+\hangindent=2em 
+Rosenberg, J. M., Sultana, O., Mann, M., Carter, B., Kenner, N., & Edwards, A. (2021, January). *How can K-12 science learners analyze data in creative and ambitious ways? Early findings from a design-based research project*. Presentation at the 15th Annual Tennessee STEM Education Research Conference.
+
+\hangindent=2em 
+Rosenberg, J. M., Sultana, O., Mann, M., Carter, B., Kenner, N., & Edwards, A. (2021, January). *How can K-12 science learners analyze data in creative and ambitious ways? Early findings from a design-based research project*. Presentation at the 15th Annual Tennessee STEM Education Research Conference.
+
 \hangindent=2em
 Rosenberg, J. M., Dyer, E. B., Anderson, D. J., & Fischer, C. (September, 2020). *If you’re happy and you know it, post a tweet? A study of the sentiment of posts to the #NGSSchat hashtag on Twitter*. Presentation at the AERA Satellite Conference on Educational Data Science, Stanford, CA.
 
@@ -785,10 +797,13 @@ Rosenberg, J. M. (March, 2016). *An introduction to R for programming and statis
 # Outreach and Engagement
 
 \hangindent=2em
-Rosenberg, J. M. (2020, April). *Discussion of Teaching Data Science*. Presentation for the Data Science in Education Using R book club. https://github.com/r4ds/bookclub-dsieur
+Rosenberg, J. M. (2021, August). *Tools and Strategies to Work with Data in the Science Classroom*. Knox County Schools District Learning Day. https://bit.ly/kcs-dld
 
 \hangindent=2em
-D'Angelo, C., & Rosenberg, J. M. (2020, April). *Analyzing Education Data with Open Science Best Practices, R, and OSF*. Webinar through the Center for Open Science. https://www.youtube.com/watch?v=WxdWzTIzYmI
+Rosenberg, J. M. (2021, April). *Discussion of Teaching Data Science*. Presentation for the Data Science in Education Using R book club. https://github.com/r4ds/bookclub-dsieur
+
+\hangindent=2em
+D'Angelo, C., & Rosenberg, J. M. (2021, April). *Analyzing Education Data with Open Science Best Practices, R, and OSF*. Webinar through the Center for Open Science. https://www.youtube.com/watch?v=WxdWzTIzYmI
 
 \hangindent=2em
 Rosenberg, J. M. (2020, April). *An informal, open introduction to using R Markdown in education*. Virtual workshop. https://www.youtube.com/watch?v=BA1YFvmXCXQ&t=57s
@@ -855,7 +870,9 @@ Special Issue Editor, *Australasian Journal of Educational Technology*, 2017
 
 ### Service to the Profession
 
-Conference Committee Member, Southeastern STEM Education Research Conference, https://mtsu.edu/tsec/education-conference/index.php
+Member, OpenSciEd Research Agenda (Assessment) committee, 2021
+
+2022 Conference Committee Member, Southeastern STEM Education Research Conference, https://mtsu.edu/tsec/education-conference/index.php
 
 Panelist, Building Capacity in STEM Education Research, National Science Foundation, *n.d.*
 
@@ -893,39 +910,42 @@ Reviewer, American Psychological Association (APA) Convention, 2015
 
 ### Service to the Community
 
-Mentor, Diversity in Learning Analytics and Leadership program
+Mentor, Diversity in Learning Analytics and Leadership program, https://www.diversityindataandleadershipprogram.com/
 
 Reviewer, Proposals from Knox County Schools students for the NASA Student Spaceflight Experiment program
 
 ### Ad-hoc Journal Article Reviews
 
-AERA Open (2019, 2020)  
-Australasian Journal of Educational Technology (2018: 2)  
-British Journal of Educational Technology (2016)  
-Computers & Education (2016, 2017, 2018, 2020)  
-Contemporary Educational Psychology (2018)  
-Contemporary Issues in Technology and Teacher Education (2015)  
-Data (2021)  
-Educational Researcher (2020)  
-Education Sciences (2; 2019)  
-Educational Studies in Mathematics (2020)
-Educational Technology Research & Development (2020)
-E-Learning and Digital Media (2016: 2)  
-Journal of Educational Technology & Society (2017)  
-Journal of the Learning Sciences (2019)  
-Journal of Open Source Education (2019)  
-Journal of Open Source Software (2018; 2020)  
-Journal of Research in Science Teaching (2019)  
-Journal of Science Education and Technology (2019: 2; 2020)  
-Journal of STEM Education Research (2019)  
-Science Education (2021)
-TechTrends (2019)  
++ AERA Open (2019, 2020)  
++ Australasian Journal of Educational Technology (2018: 2)  
++ British Journal of Educational Technology (2016)  
++ Computers & Education (2016, 2017, 2018, 2020)  
++ Contemporary Educational Psychology (2018)  
++ Contemporary Issues in Technology and Teacher Education (2015)  
++ Data (2021)  
++ Educational Researcher (2020)  
++ Educational Psychologist (2021)  
++ Education Sciences (2; 2019)  
++ Educational Studies in Mathematics (2020)
++ Educational Technology Research & Development (2020)
++ E-Learning and Digital Media (2016: 2)  
++ Journal of Educational Technology & Society (2017)  
++ Journal of the Learning Sciences (2019)  
++ Journal of Open Source Education (2019)  
++ Journal of Open Source Software (2018; 2020)  
++ Journal of Research in Science Teaching (2019)  
++ Journal of Science Education and Technology (2019: 2; 2020)  
++ Journal of STEM Education Research (2019)  
++ Science Education (2021)
++ TechTrends (2019)  
 
 ### University service
 
-2021-, Data Science Faculty Committee, UTK
+2021-2023, Data Science Faculty Committee, UTK
 
 ### College-related Service 
+
+2021, Search Committee Member, Tenure Track positions in Learning Design and Technology and Instructional Technology, *Department of Educational Psychology and Counseling*, UTK
 
 2020, Facilitator, Quality Research and Scholarship working group, UTK
 
@@ -936,6 +956,8 @@ TechTrends (2019)
 ### Departmental Service 
 
 *University of Tennessee, Knoxville*
+
+2021-, Institutional Review Board Departmental Representative (Quantitative), UTK
 
 2021, Member, Annual Review Rubrics Committee, UTK
 
@@ -1082,9 +1104,9 @@ Research Methods with Diverse Groups Advanced Training Institute, American Psych
 
 ### Media/Podcasts
 
-2021, Full Stack Education podcast
+2021, Full Stack Education podcast, https://www.fullstackeducator.com/show-notes/season-2-episode-15-ryan-estrellado-and-joshua-rosenberg-data-science-in-education
 
-2021, Visions of Education podcast
+2021, Visions of Education podcast, https://visionsofed.com/2021/05/27/episode-166-data-science-in-education-with-ryan-estrellado-jesse-mostipak-and-joshua-rosenberg/
 
 2020, Discussion with LeaRN, https://www.youtube.com/watch?v=JtfvhAB6Wqc
 
@@ -1102,13 +1124,15 @@ Research Methods with Diverse Groups Advanced Training Institute, American Psych
 
 ### Consulting
 
+2021-2022, Lead STEM Education Consultant,*Supporting Students’ Meaningful Engagement With Data From Small Orbiting Satellites*, Art Palisoc, STEM Ed LLC, NSF Phase I SBIR, *STEM Experiments and Games in Low Earth Orbit – Making STEM Learning Fun*
+
 2017-2020, Senior Investigating Consultant, *Profiles of science engagement: Broadening participation by understanding individual and contextual influences*, Jennifer Schmidt, Michigan State University. (NSF Grant No. [1661064](https://nsf.gov/awardsearch/showAward?AWD_ID=1661064&HistoricalAwards=false))
 
-2017-2019, Statistical software development, Kenneth Frank, Michigan State University  
+2017-2019, Statistical Software Development Consultant, Kenneth Frank, Michigan State University
 
-2017, Statistical analysis, Yael Shwartz, Weizmann Institute  
+2017, Statistical Analysis Consultant, Yael Shwartz, Weizmann Institute  
 
-2016, Statistical analysis, Lara Kassab, San Jose State University  
+2016, Statistical Analysis Consultant, Lara Kassab, San Jose State University  
 
 ### Professional Affiliations
 
