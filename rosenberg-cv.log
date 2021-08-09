@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.5.3)  7 AUG 2021 09:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.5.3)  7 AUG 2021 09:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -612,125 +612,125 @@ sights -[] on -[] the -[] current -[] and -[] preferred -[] integration -[] of
 [17] [18] [19]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1529.
+(hyperref)                than one, level fixed on input line 1534.
 
 [20]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1570.
+(hyperref)                than one, level fixed on input line 1575.
 
 [21]
-Overfull \hbox (26.06761pt too wide) in paragraph at lines 1648--1650
+Overfull \hbox (26.06761pt too wide) in paragraph at lines 1653--1655
 \T1/lmr/m/n/10 (-20) Mentor, Di-ver-sity in Learn-ing An-a-lyt-ics and Lead-er-
 ship pro-gram, []$https : / / www . diversityindataandleadershipprogram .
  []
 
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
-661.
+666.
 (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-Underfull \hbox (badness 10000) in paragraph at lines 1661--1663
+Underfull \hbox (badness 10000) in paragraph at lines 1666--1668
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1663--1665
+Underfull \hbox (badness 10000) in paragraph at lines 1668--1670
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1665--1667
+Underfull \hbox (badness 10000) in paragraph at lines 1670--1672
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1667--1669
+Underfull \hbox (badness 10000) in paragraph at lines 1672--1674
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1669--1671
+Underfull \hbox (badness 10000) in paragraph at lines 1674--1676
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1671--1673
+Underfull \hbox (badness 10000) in paragraph at lines 1676--1678
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1673--1675
+Underfull \hbox (badness 10000) in paragraph at lines 1678--1680
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1675--1677
+Underfull \hbox (badness 10000) in paragraph at lines 1680--1682
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1677--1679
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1679--1681
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1685--1687
+Underfull \hbox (badness 10000) in paragraph at lines 1682--1684
 
  []
 
 [22]
-Underfull \hbox (badness 10000) in paragraph at lines 1687--1689
+Underfull \hbox (badness 10000) in paragraph at lines 1684--1686
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1689--1691
+Underfull \hbox (badness 10000) in paragraph at lines 1690--1692
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1691--1693
+Underfull \hbox (badness 10000) in paragraph at lines 1692--1694
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1693--1695
+Underfull \hbox (badness 10000) in paragraph at lines 1694--1696
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1695--1697
+Underfull \hbox (badness 10000) in paragraph at lines 1696--1698
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1697--1699
+Underfull \hbox (badness 10000) in paragraph at lines 1698--1700
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1699--1701
+Underfull \hbox (badness 10000) in paragraph at lines 1700--1702
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1702--1704
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1704--1706
 
  []
 
 [23] [24]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1860.
+(hyperref)                than one, level fixed on input line 1865.
 
 [25] [26]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1960.
+(hyperref)                than one, level fixed on input line 1965.
 
 
-Overfull \hbox (0.21835pt too wide) in paragraph at lines 2002--2004
+Overfull \hbox (0.21835pt too wide) in paragraph at lines 2007--2009
 []\T1/lmr/m/n/10 (-20) 2018-2019, Co-host, \T1/lmr/m/it/10 (-20) Im-pod-ster Sy
 n-drome \T1/lmr/m/n/10 (-20) pod-cast, []$https : / / drive . google . com / dr
 ive / folders / 1fwSaEKt9QzJPUlf -[]
@@ -756,10 +756,10 @@ mbx10.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/public
 ublic/lm/lmr10.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/typ
 e1/public/lm/lmr17.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts
 /type1/public/lm/lmri10.pfb>
-Output written on rosenberg-cv.pdf (28 pages, 253636 bytes).
+Output written on rosenberg-cv.pdf (28 pages, 253965 bytes).
 PDF statistics:
- 602 PDF objects out of 1000 (max. 8388607)
- 561 compressed objects within 6 object streams
+ 603 PDF objects out of 1000 (max. 8388607)
+ 562 compressed objects within 6 object streams
  134 named destinations out of 1000 (max. 500000)
  31145 words of extra memory for PDF output out of 35830 (max. 10000000)
 

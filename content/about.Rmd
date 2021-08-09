@@ -580,6 +580,8 @@ Lawson, M., Rosenberg, J. M., & Camponovo, M. (February, 2019). *Better together
 
 ## Workshops
 
+Kellogg, S., Jiang, S., Moore, R., & Rosenberg, J. M. (2021, August). *A LASER Focus on Understanding and Improving STEM Education*. Partnerships for Expanding STEM Education Research in STEM (AERA & ICPSR). https://github.com/laser-institute/aera-workshop
+
 Rosenberg, J. M. (2021, July). *An Introduction to Natural Language Processing in Science Education*. Workshop carried out at the [Machine Learning and Computer-Based Text Analysis conference](https://www.ipn.uni-kiel.de/en/the-ipn/news/gdcp-focus-conference-machine-learning-and-computer-based-text-analysis-may-6th-7th-2021-register-now), Kiel, Germany. https://joshuamrosenberg.com/post/2021/07/19/an-introduction-to-natural-language-processing-in-science-education/
 
 Parr, E. D., Dyer, E. B., Rosenberg, J. M., D'Angelo, C., Lishinski, A., & Krist, C. (2021, June).
