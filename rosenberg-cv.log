@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.5.3)  7 AUG 2021 09:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.5.3)  16 AUG 2021 17:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -719,18 +719,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 1704--1706
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 1708--1710
+
+ []
+
 [23] [24]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1865.
+(hyperref)                than one, level fixed on input line 1867.
 
 [25] [26]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1965.
+(hyperref)                than one, level fixed on input line 1967.
 
 
-Overfull \hbox (0.21835pt too wide) in paragraph at lines 2007--2009
+Overfull \hbox (0.21835pt too wide) in paragraph at lines 2012--2014
 []\T1/lmr/m/n/10 (-20) 2018-2019, Co-host, \T1/lmr/m/it/10 (-20) Im-pod-ster Sy
 n-drome \T1/lmr/m/n/10 (-20) pod-cast, []$https : / / drive . google . com / dr
 ive / folders / 1fwSaEKt9QzJPUlf -[]
@@ -756,10 +761,10 @@ mbx10.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/public
 ublic/lm/lmr10.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/typ
 e1/public/lm/lmr17.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts
 /type1/public/lm/lmri10.pfb>
-Output written on rosenberg-cv.pdf (28 pages, 253965 bytes).
+Output written on rosenberg-cv.pdf (28 pages, 254197 bytes).
 PDF statistics:
- 603 PDF objects out of 1000 (max. 8388607)
- 562 compressed objects within 6 object streams
+ 604 PDF objects out of 1000 (max. 8388607)
+ 563 compressed objects within 6 object streams
  134 named destinations out of 1000 (max. 500000)
  31145 words of extra memory for PDF output out of 35830 (max. 10000000)
 
