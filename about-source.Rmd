@@ -364,7 +364,7 @@ Borchers, C., Rosenberg, J., Gibbons, B., Burchfield, M., & Fischer, C. (2021). 
 Burchfield, M., Rosenberg, J., Borchers, C., Thomas, T., Gibbons, B., & Fischer, C. (2021).  In I.-H. Hsiao, S. Sahebi, F. Bouchet, & J.-J. Vie (Eds), *Proceedings of the 14th International Conference on Educational Data Mining* (pp. 744-749). Are violations of student privacy “quick and easy”? Investigating the privacy of students’ images and names in the context of K-12 educational institution’s posts on Facebook. Proceedings of the 14th International Conference on Educational Data Mining (EDM). Paris, France. *Nb.* This presentation received the best poster award.
 
 \hangindent=2em
-Lishinski, A., & Rosenberg, J. M. (2021). All the pieces matter: The relationship of momentary self-efficacy and affective experiences with CS1 achievement and interest in computing. *The International Computing Education Research Conference Proceedings*.
+Lishinski, A., & Rosenberg, J. (2021). All the pieces matter: The relationship of Momentary Sself-Efficacy and affective experiences with CS1 achievement and interest in computing. *Proceedings of the 17th ACM Conference on International Computing Education Research*, 252–265. https://doi.org/10.1145/3446871.3469740
 
 \hangindent=2em
 Rosenberg, J. M., & Kubsch, M. (2021). Advancing K-12 learners’ use of Bayesian methods. In XXX (Eds.), *The International Society of the Learning Sciences 2020 Conference Proceedings* (pp. xx-xx). International Society of the Learning Sciences.
@@ -1130,9 +1130,11 @@ Research Methods with Diverse Groups Advanced Training Institute, American Psych
 
 ### Consulting
 
-2021-2022, Lead STEM Education Consultant,*Supporting Students’ Meaningful Engagement With Data From Small Orbiting Satellites*, Art Palisoc, STEM Ed LLC, NSF Phase I SBIR, *STEM Experiments and Games in Low Earth Orbit – Making STEM Learning Fun*
+2021-2026, Advisory Board Member, *SEER Research Network for Digital Learning Platforms*, Jeremy Roschelle (PI), IES, Digital Learning Platforms to Enable Efficient Education Research Network
 
-2017-2020, Senior Investigating Consultant, *Profiles of science engagement: Broadening participation by understanding individual and contextual influences*, Jennifer Schmidt, Michigan State University. (NSF Grant No. [1661064](https://nsf.gov/awardsearch/showAward?AWD_ID=1661064&HistoricalAwards=false))
+2021-2022, Lead STEM Education Consultant,*Supporting Students’ Meaningful Engagement With Data From Small Orbiting Satellites*, Art Palisoc (PI), STEM Ed LLC, NSF Phase I SBIR, *STEM Experiments and Games in Low Earth Orbit – Making STEM Learning Fun*
+
+2017-2020, Senior Investigating Consultant, *Profiles of science engagement: Broadening participation by understanding individual and contextual influences*, Jennifer Schmidt (PI), Michigan State University. (NSF Grant No. [1661064](https://nsf.gov/awardsearch/showAward?AWD_ID=1661064&HistoricalAwards=false))
 
 2017-2019, Statistical Software Development Consultant, Kenneth Frank, Michigan State University
 
