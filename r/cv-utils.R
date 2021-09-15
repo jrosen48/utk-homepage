@@ -37,21 +37,21 @@ tinytex::pdflatex("static/rosenberg-cv.tex")
 # new_lines
 
 # # # For Word
-# file.copy("about-source.Rmd", "content/about-for-cv.Rmd", overwrite=TRUE)
-# lines <- readLines("content/about-for-cv.Rmd")
-# lines[65] <- ""
-# lines[15] <- "```{r, include = FALSE, eval = FALSE}"
-# lines[67] <- "```{r, echo = FALSE, eval = FALSE}"
-# lines <- lines[lines!="\\begin"]
-# lines <- lines[lines!="\\begin"]
-# lines <- lines[lines!="\\textit"]
-# lines[stringr::str_detect(lines, "Curriculum Vitae")] <- "*Curriculum Vitae*"
-# lines <- lines[lines!="\\begingroup"]
-# lines <- lines[lines!="\\hangindent=2em"]
-# lines <- lines[lines!="\\center"]
-# lines <- lines[lines!="\\endgroup"]
-# writeLines(unlist(lines), "static/cv/rosenberg-cv-for-word.Rmd")
-# rmarkdown::render("static/cv/rosenberg-cv-for-word.Rmd", output_format = "word_document")
+file.copy("about-source.Rmd", "content/about-for-cv.Rmd", overwrite=TRUE)
+lines <- readLines("content/about-for-cv.Rmd")
+lines[65] <- ""
+lines[15] <- "```{r, include = FALSE, eval = FALSE}"
+lines[67] <- "```{r, echo = FALSE, eval = FALSE}"
+lines <- lines[lines!="\\begin"]
+lines <- lines[lines!="\\begin"]
+lines <- lines[lines!="\\textit"]
+lines[stringr::str_detect(lines, "Curriculum Vitae")] <- "*Curriculum Vitae*"
+lines <- lines[lines!="\\begingroup"]
+lines <- lines[lines!="\\hangindent=2em"]
+lines <- lines[lines!="\\center"]
+lines <- lines[lines!="\\endgroup"]
+writeLines(unlist(lines), "static/cv/rosenberg-cv-for-word.Rmd")
+rmarkdown::render("static/cv/rosenberg-cv-for-word.Rmd", output_format = "word_document")
 
 # output:
 #     html_document:
