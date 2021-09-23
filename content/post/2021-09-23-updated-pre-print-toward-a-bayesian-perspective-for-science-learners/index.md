@@ -19,6 +19,6 @@ In this version, we focused on steps to make a Bayesian approach practical. Part
 - Account for what we already know  
 - Consider alternative explanations  
 
-We also created a Shiny app / widget that uses Bayes' rule under the hood to transform prior information and new evidence into an estimate of how likely a belief is. That is available here: https://kubsch.shinyapps.io/Confidence_Updater/
+We also created a Shiny app / widget that uses Bayes' rule under the hood to transform prior information and new evidence into an estimate of how likely a belief is. That is available here: https://kubsch.shinyapps.io/Confidence_Updater/. It can - when worked/thought through - be thought of as a support similar to how the Claim, Evidence, Reasoning (CER) framework is commonly used in science teaching.
 
 We welcome feedback on this work.
