@@ -11,7 +11,7 @@ With [Marcus Kubsch](https://www.ipn.uni-kiel.de/en/the-ipn/departments/physics-
 that a Bayesian perspective can be used by science teachers and learners, especially when science
 learners are engaged in reasoning / arguing / analyzing and interpreting data in light of uncertainty.
 
-The pre-print--**Why and How a Bayesian Approach Supports Science Educators and Learners to Reason Under Scientific Uncertainty** is here: https://osf.io/aznyq/
+The pre-print--**Why and How a Bayesian Approach Supports Science Educators and Learners to Reason Under Scientific Uncertainty**--is here: https://osf.io/aznyq/
 
 In this version, we focused on steps to make a Bayesian approach practical. Part of this is heuristics that can guide learners' involvement in several science practices:
 
