@@ -13,4 +13,4 @@ With Macy Burchfield (undergraduate at UTK), Conrad Borchers and Christian Fisch
 
 A link to the article in *Phi Delta Kappan* is here: https://kappanonline.org/social-media-students-privacy-facebook-rosenberg/
 
-If interested, look for more of our work on privacy, schools, children, and digital (especially social media) data.
+If interested, look for more of our work on privacy, schools, children, and digital (especially social media) data; we're planning to build on what we did for our Educational Data Mining presentation.
