@@ -32,14 +32,13 @@ Google Scholar: https://scholar.google.com/citations?hl=en&user=nxVowRQAAAAJ
 
 # Research Interests
 
-Science education, educational data science, science teacher education, computer science education
+Educational data science, science education, educational technology
 
 # Education
 
 ### Degrees  
 
-2018, PhD, Educational Psychology & Educational Technology    
-*Committee*: Matthew J. Koehler (Co-chair), Jennifer A. Schmidt (Co-chair), Lisa Linnenbrink-Garcia, and Christina V. Schwarz  
+2018, PhD, Educational Psychology & Educational Technology  
 Michigan State University  
 
 2012, MA, Education  
@@ -74,11 +73,11 @@ C.D. Owen High School, Swannanoa, NC
 
 **$4,243,331; $3,160,570 as Principal Investigator [PI], Co-PI, or Co-Investigator [Co-I])**
 
+## PI, Co-PI, and Co-I 
+
 2021-2022, PI, *Not only for scientists and engineers: Advancing Bayesian methods for pre-collegiate learners* ($1,991), Supplemental funding to NSF Grant No. [193770](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1937700&HistoricalAwards=false) (Dear Colleague Letter: Research Collaboration Opportunity in Europe for NSF Awardees). National Science Foundation. 
 
 2020-2025, Co-I, *Imagining possibilities in post-secondary education and STEMM in rural Appalachia* ($1,208,563), National Institutes of Health. 
-
-2020-2023, Senior Personnel, *Learning analytics in STEM education research institute* ($933,150; *PI*, Shaun Kellogg, North Carolina State University; UTK subcontract: $54,691. National Science Foundation (NSF), [NSF Grant No. 2025090](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2025090&HistoricalAwards=false)
 
 2020-2021, Co-PI, *Propelling teacher professional development through FAAST feedback on student epistemic views* ($15,000; *PI*: Christina Krist, University of Illinois Urbana-Champaign). Technology Innovations in Educational Research and Design Pilot Projects Program. 
 
@@ -88,15 +87,27 @@ C.D. Owen High School, Swannanoa, NC
 
 2019-2022, Co-PI, *Advancing computational grounded theory for audiovisual data from STEM classrooms* ($1,313,855; *PI*: Christina Krist, University of Illinois Urbana-Champaign; University of Tennessee, Knoxville [UTK] subcontract: $101,469). NSF. https://tca2.education.illinois.edu/ (NSF Grant No. [1920796](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1920796&HistoricalAwards=false))
 
-2019-2022, Senior Personnel, *Medical entomology and geospatial analyses: Bringing innovation to teacher education and surveillance studies* ($149,611; *PI*: Rebecca Trout Fryxell). United States Department of Agriculture - Agriculture and Food Research Initiative. (USDA Grant No. 2019-68010-29119) https://www.megabitess.org/
-
 2019-2020, PI, *Planting the seeds for computer science education in East Tennessee through a research-practice partnership*  ($13,200). Community Engaged Research Seed Program, UTK.
 
 2018-2020, Co-PI, *Exploring how beginning elementary mathematics teachers seek out resources through social media* ($8,820; *PI*: Stephen Aguilar). Herman & Rasiej K-5 Mathematics Initiative, University of Southern California.
 
+## Senior Personnel
+
+2020-2023, Senior Personnel, *Learning analytics in STEM education research institute* ($933,150; *PI*, Shaun Kellogg, North Carolina State University; UTK subcontract: $54,691. National Science Foundation (NSF), [NSF Grant No. 2025090](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2025090&HistoricalAwards=false)
+
+2019-2022, Senior Personnel, *Medical entomology and geospatial analyses: Bringing innovation to teacher education and surveillance studies* ($149,611; *PI*: Rebecca Trout Fryxell). United States Department of Agriculture - Agriculture and Food Research Initiative. (USDA Grant No. 2019-68010-29119) https://www.megabitess.org/
+
+## Consultant and Advisory Board Member
+
+2021-2026, Advisory Board Member, *SEER Research Network for Digital Learning Platforms*, Jeremy Roschelle (PI), Institute for Educati≥on Sciences, Digital Learning Platforms to Enable Efficient Education Research Network
+
+2021-2022, Lead STEM Education Consultant,*Supporting Students’ Meaningful Engagement With Data From Small Orbiting Satellites*, Art Palisoc (PI), STEM Ed LLC, NSF Phase I SBIR, *STEM Experiments and Games in Low Earth Orbit – Making STEM Learning Fun*
+
+2017-2020, Senior Investigating Consultant, *Profiles of science engagement: Broadening participation by understanding individual and contextual influences*, Jennifer Schmidt (PI), Michigan State University. (NSF Grant No. [1661064](https://nsf.gov/awardsearch/showAward?AWD_ID=1661064&HistoricalAwards=false))
+
 # Fellowships and Awards
 
-2021, Best Poster Award, Fourteenth International Conference on Educational Data Mining  
+2021, Best Poster Award, *Fourteenth International Conference on Educational Data Mining*  
 
 2021-2022, Open Educational Resources (OER) Research Fellow, William and Flora Hewlett Foundation
 
@@ -150,10 +161,10 @@ Lawson, M. A., Herrick, I., & Rosenberg, J. M.(in press). Better together: Under
 ### Published Articles (34)
 
 \hangindent=2em
-Schweinsburg, M., ... Luis, S. (advance online publication). Same data, different conclusions: Radical dispersion in empirical results. *Organizational Behavior and Human Decision Processes.* https://www.sciencedirect.com/science/article/pii/S0749597821000200 (*Nb.* I was a contributor to this large-scale collaborative project.)
+Schweinsburg, M., ... Luis, S. (advance online publication). Same data, different conclusions: Radical dispersion in empirical results. *Organizational Behavior and Human Decision Processes.* https://www.sciencedirect.com/science/article/pii/S0749597821000200 (*Nb.* I was an author and contributor to this large-scale, collaborative project.)
 
 \hangindent=2em
-Rutherford, T., Duck, K., Rosenberg, J. M., & Patt, R. (advance online publication). Leveraging mathematics software data to understand student learning and motivation during the COVID-19 pandemic. *Journal of Research on Technology in Education*, 1-36. https://www.tandfonline.com/doi/full/10.1080/15391523.2021.1920520
+Rutherford, T., Duck, K., Rosenberg, J. M., & Patt, R. (advance online publication). Leveraging mathematics software data to understand student learning and motivation during the COVID-19 pandemic. *Journal of Research on Technology in Education*. https://www.tandfonline.com/doi/full/10.1080/15391523.2021.1920520
 
 \hangindent=2em
 Ranellucci, J., Robinson, K., Rosenberg, J. M., Lee, Y.-K., Roseth, C., & Linnenbrink-Garcia. (advance online publication). Comparing the roles and correlates of emotions in class and during online video lectures in a flipped anatomy classroom. *Contemporary Educational Psychology*. https://doi.org/10.1016/j.cedpsych.2021.101966
@@ -254,7 +265,10 @@ Rosenberg, J. M., & Koehler, M. J. (2015). Context and Technological Pedagogical
 ## Editor-Reviewed Articles Published in Journals (5)
 
 \hangindent=2em
-Rosenberg, J. M., Burchfield, M. B., Borchers, C., Gibbons, B., & Anderson, D., and Fischer, C. (in press). Posts on Facebook by schools and districts and the potential risks to students’ privacy. *Phi Delta Kappan*.
+Kessler, A. M., Likely, R., & Rosenberg, J. (advance online publication). Open for whom? The need to define openscience for science education. *Journal of Research in Science Teaching*. https://onlinelibrary.wiley.com/doi/epdf/10.1002/tea.21730
+
+\hangindent=2em
+Rosenberg, J. M., Burchfield, M. B., Borchers, C., Gibbons, B., & Anderson, D., and Fischer, C. (2021). Posts on Facebook by schools and districts and the potential risks to students’ privacy. *Phi Delta Kappan*. https://kappanonline.org/social-media-students-privacy-facebook-rosenberg/
 
 \hangindent=2em
 Kimmons, R., Rosenberg, J., & Allman, B. (2021). Trends in Educational Technology: What Facebook, Twitter, and Scopus Can Tell us about Current Research and Practice. *TechTrends*, 1-12. https://link.springer.com/article/10.1007/s11528-021-00589-6
@@ -267,6 +281,16 @@ Rosenberg, J. M., & Logan, C. W. (2017). Review of the book What’s Worth Teach
 
 \hangindent=2em
 Phillips, M., Harris, J., Rosenberg, J. M., & Koehler, M. J. (2017). TPCK/TPACK research and development: Past, present, and future directions. *Australasian Journal of Educational Technology*. https://doi.org/10.14742/ajet.3907 <a href="https://scholar.google.com/citations?user=nxVowRQAAAAJ&hl=en&authuser=2#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DnxVowRQAAAAJ%26authuser%3D2%26citation_for_view%3DnxVowRQAAAAJ%3AhkOj_22Ku90C%26tzom%3D300"><img src = "/logos/google-scholar-1.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
+
+## Articles Under Review (4)
+
+Rosenberg, J. M., Kubsch, M., Wagenmakers, E.-J., & Dogucu, M. (under review). Why and how a Bayesian approach supports science educators and learners to reason under scientific uncertainty. *Science & Education*. https://osf.io/aznyq/
+
+Rosenberg, J. M., Beymer, P. N., Phun, V., & Schmidt, J. A. (under review). The sources of variation for learners’ situational engagement: An investigation using intensive longitudinal methods. *International Journal of Educational Research*. https://osf.io/pj2v8/
+
+Michela, E., Rosenberg, J., Kimmon, R., Sultana, O., Burchfield, M. A., & Thomas, T. (under review). "We are trying to communicate the best we can": Understanding districts’ communication on Twitter during the COVID-19 pandemic. *AERA Open*. https://doi.org/10.31219/osf.io/qpu8v
+
+Aguilar, S. J., Rosenberg, J., Greenhalgh, S., Fütterer, T., Lishinski, A., & Fischer, C. (under review). A different experience in a different moment? Teachers’ social media use before and during the COVID-19 pandemic. *AERA Open*. https://doi.org/10.31219/osf.io/37pab
 
 ## Contributions to Edited Volumes (10)
 
@@ -309,16 +333,16 @@ Borchers, C., Rosenberg, J., Gibbons, B., Burchfield, M., & Fischer, C. (2021). 
 Burchfield, M., Rosenberg, J., Borchers, C., Thomas, T., Gibbons, B., & Fischer, C. (2021).  In I.-H. Hsiao, S. Sahebi, F. Bouchet, & J.-J. Vie (Eds), *Proceedings of the 14th International Conference on Educational Data Mining* (pp. 744-749). Are violations of student privacy “quick and easy”? Investigating the privacy of students’ images and names in the context of K-12 educational institution’s posts on Facebook. Proceedings of the 14th International Conference on Educational Data Mining (EDM). Paris, France. *Nb.* This presentation received the best poster award.
 
 \hangindent=2em
-Lishinski, A., & Rosenberg, J. M. (2021). All the pieces matter: The relationship of momentary self-efficacy and affective experiences with CS1 achievement and interest in computing. *The International Computing Education Research Conference Proceedings*.
+Lishinski, A., & Rosenberg, J. (2021). All the pieces matter: The relationship of Momentary Sself-Efficacy and affective experiences with CS1 achievement and interest in computing. *Proceedings of the 17th ACM Conference on International Computing Education Research*, 252–265. https://doi.org/10.1145/3446871.3469740
 
 \hangindent=2em
-Rosenberg, J. M., & Kubsch, M. (2021). Advancing K-12 learners’ use of Bayesian methods. In XXX (Eds.), *The International Society of the Learning Sciences 2020 Conference Proceedings* (pp. xx-xx). International Society of the Learning Sciences.
+Rosenberg, J. M., & Kubsch, M. (2021). Considering K-12 learners’ use of Bayesian methods. In E. de Vries, Y. Hod, & J., Ahn (Eds.), *The International Society of the Learning Sciences 2020 Conference Proceedings* (pp. 947-948). International Society of the Learning Sciences.
 
 \hangindent=2em
-Rosenberg, J. M., Galas, E., & Staudt Willet, K.B. (2021). Who are the data scientists in education? An investigation of the identities and work of individuals in diverse roles.In XXX (Eds.), *The International Society of the Learning Sciences 2020 Conference Proceedings* (pp. xx-xx). International Society of the Learning Sciences.
+Rosenberg, J. M., Galas, E., & Staudt Willet, K.B. (2021). Who are the data scientists in education? An investigation of the identities and work of individuals in diverse roles. In E. de Vries, Y. Hod, & J., Ahn (Eds.), *The International Society of the Learning Sciences 2020 Conference Proceedings* (pp. 1057-1058). International Society of the Learning Sciences.
 
 \hangindent=2em
-Kubsch, M., Rosenberg. J. M., & Krist, C. (2021). Beyond supervision: Human / machine distributed learning in learning sciences research. In XXX (Eds.), *The International Society of the Learning Sciences 2020 Conference Proceedings* (pp. xx-xx). International Society of the Learning Sciences.
+Kubsch, M., Rosenberg. J. M., & Krist, C. (2021). Beyond supervision: Human / machine distributed learning in learning sciences research. In E. de Vries, Y. Hod, & J., Ahn (Eds.), *The International Society of the Learning Sciences 2020 Conference Proceedings* (pp. 897-898). International Society of the Learning Sciences.
 
 \hangindent=2em
 Rosenberg, J. M., & Nguyen, H. (2021). How K-12 school districts communicated during the COVID-19 pandemic: A study using Facebook data. *Proceedings of the 11th International Conference on Learning Analytics & Knowledge (LAK21)*.
@@ -415,21 +439,9 @@ Rosenberg, J. M. (2018). *Context and Technological Pedagogical Content Knowledg
 \hangindent=2em
 Rosenberg, J. M. (2018). *Understanding work with data in summer STEM programs: An experience sampling method approach* (Doctoral dissertation). Retrieved from Proquest Dissertations and Theses. (Proquest No. 10747232) <a href = "/publications/Rosenberg-2018-Dissertation.pdf"><img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> <a href = "https://osf.io/65ckh/"><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
-## Working Papers and Papers Under Review (4)
-
-*If a link to a pre-print is not available, then please contact me to request a copy of any of these papers.*
-
-Building Trust in Science by Advancing a Bayesian Perspective on Probability and Uncertainty in Science Education. https://osf.io/aznyq/
-
-Me, the moment, or the medium? Understanding the sources of variation for students’ situational engagement in science. https://osf.io/pj2v8/
-
-Open for whom? A Call for a science education-specific open science. https://osf.io/sqcn7/
-
-Characterizing whole class discussions about data and statistics with conversation profile analysis.
-
 # Presentations 
 
-## Peer-Reviewed Conference Presentations
+## Peer-Reviewed Conference Presentations (69)
 
 \hangindent=2em
 Rosenberg, J. M., Carpenter, J., Michela, E., Sultana, O., McKenna, T. J., Dyer, E. D., & Reid, J. (2021, April). *"Best P.D. out there"? An exploration of the #NGSSchat network on Twitter*. Presentation at the American Educational Research Association Annual Meeting.
@@ -690,7 +702,7 @@ Jones, R. S., & Rosenberg, J. M. (February, 2019). *Latent class modeling of who
 \hangindent=2em
 Lawson, M., Rosenberg, J. M., & Camponovo, M. (February, 2019). *Better together? Findings from a combined, integrated STEM unit with pre-service mathematics and science teachers*. Presentation at the 13th Annual Tennessee STEM Education Research Conference, Murfreesboro, TN.
 
-## Workshops
+## Workshops (16)
 
 \hangindent=2em
 Kellogg, S., Jiang, S., Moore, R., & Rosenberg, J. M. (2021, August). *A LASER Focus on Understanding and Improving STEM Education*. Partnerships for Expanding STEM Education Research in STEM (AERA & ICPSR). https://github.com/laser-institute/aera-workshop
@@ -742,7 +754,7 @@ Rosenberg, J. M. (2017, April). *Introduction to R for Data Analysis*. Presentat
 \hangindent=2em
 Rosenberg, J. M. (March, 2016). *An introduction to R for programming and statistical analysis in education*. Georgia Southern University College of Education, Statesboro, GA.
 
-# Outreach and Engagement
+# Outreach and Engagement (10)
 
 \hangindent=2em
 Rosenberg, J. M. (2021, August). *Tools and Strategies to Work with Data in the Science Classroom*. Knox County Schools District Learning Day. https://bit.ly/kcs-dld
@@ -818,15 +830,15 @@ Special Issue Editor, *Australasian Journal of Educational Technology*, 2017
 
 ### Service to the Profession
 
-Member, OpenSciEd Research Agenda (Assessment) committee, 2021
-
-2022 Conference Committee Member, Southeastern STEM Education Research Conference, https://mtsu.edu/tsec/education-conference/index.php
-
 Panelist, Building Capacity in STEM Education Research, National Science Foundation, *n.d.*
 
 Panelist, Discovery Research PreK-12, National Science Foundation, *n.d.*
 
 Panelist, Innovative Technology Experiences for Students and Teachers, National Science Foundation, *n.d.*
+
+Member, OpenSciEd Research Agenda (Assessment) committee, 2021
+
+Conference Committee Member, Southeastern STEM Education Research Conference, https://mtsu.edu/tsec/education-conference/index.php, 2021-2022
 
 American Educational Research Association, Division C, Section 1D: Science Program Co-Chair, 2019-2021
 
@@ -1039,6 +1051,12 @@ I have contributed to a number of open-source projects by filing issues or makin
 
 # Miscellaneous 
 
+### Invited Participation in Workshops
+
+Participant, *New applications of social network analysis to education policy: Building the capacity of the field*, Spencer Foundation, 2021
+
+Participant, *Data4Kids: Virtually teaching kids about data science*, Urban Institute, 2021
+
 ### Competitive Research Training
 
 Early Career Workshop, International Conference of the Learning Sciences, 2020
@@ -1074,10 +1092,6 @@ Research Methods with Diverse Groups Advanced Training Institute, American Psych
 2018-2019, Co-host, *Impodster Syndrome* podcast, https://drive.google.com/drive/folders/1fwSaEKt9QzJPUlf-CYVVwPgN-pKBaAkW?usp=sharing
 
 ### Consulting
-
-2021-2022, Lead STEM Education Consultant,*Supporting Students’ Meaningful Engagement With Data From Small Orbiting Satellites*, Art Palisoc, STEM Ed LLC, NSF Phase I SBIR, *STEM Experiments and Games in Low Earth Orbit – Making STEM Learning Fun*
-
-2017-2020, Senior Investigating Consultant, *Profiles of science engagement: Broadening participation by understanding individual and contextual influences*, Jennifer Schmidt, Michigan State University. (NSF Grant No. [1661064](https://nsf.gov/awardsearch/showAward?AWD_ID=1661064&HistoricalAwards=false))
 
 2017-2019, Statistical Software Development Consultant, Kenneth Frank, Michigan State University
 
