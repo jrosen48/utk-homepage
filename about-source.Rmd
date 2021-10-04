@@ -81,7 +81,7 @@ Google Scholar: https://scholar.google.com/citations?hl=en&user=nxVowRQAAAAJ
 
 # Research Interests
 
-Educational data science, science education, educational technology
+Educational data science, science education, educational technology, open science
 
 # Education
 
