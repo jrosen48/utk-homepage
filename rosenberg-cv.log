@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2021.10.1)  3 OCT 2021 20:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2021.10.1)  4 OCT 2021 07:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -615,140 +615,140 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1601.
+(hyperref)                than one, level fixed on input line 1602.
 
 [21]
-Overfull \hbox (26.06761pt too wide) in paragraph at lines 1680--1682
+Overfull \hbox (26.06761pt too wide) in paragraph at lines 1681--1683
 \T1/lmr/m/n/10 (-20) Mentor, Di-ver-sity in Learn-ing An-a-lyt-ics and Lead-er-
 ship pro-gram, []$https : / / www . diversityindataandleadershipprogram .
  []
 
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
-693.
+694.
 (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-Underfull \hbox (badness 10000) in paragraph at lines 1693--1695
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1695--1697
+Underfull \hbox (badness 10000) in paragraph at lines 1694--1696
 
  []
 
 [22]
-Underfull \hbox (badness 10000) in paragraph at lines 1697--1699
+Underfull \hbox (badness 10000) in paragraph at lines 1696--1698
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1699--1701
+Underfull \hbox (badness 10000) in paragraph at lines 1698--1700
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1701--1703
+Underfull \hbox (badness 10000) in paragraph at lines 1700--1702
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1703--1705
+Underfull \hbox (badness 10000) in paragraph at lines 1702--1704
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1705--1707
+Underfull \hbox (badness 10000) in paragraph at lines 1704--1706
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1707--1709
+Underfull \hbox (badness 10000) in paragraph at lines 1706--1708
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1709--1711
+Underfull \hbox (badness 10000) in paragraph at lines 1708--1710
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1711--1713
+Underfull \hbox (badness 10000) in paragraph at lines 1710--1712
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1713--1715
+Underfull \hbox (badness 10000) in paragraph at lines 1712--1714
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1715--1717
+Underfull \hbox (badness 10000) in paragraph at lines 1714--1716
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1717--1719
+Underfull \hbox (badness 10000) in paragraph at lines 1716--1718
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1719--1721
+Underfull \hbox (badness 10000) in paragraph at lines 1718--1720
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1721--1723
+Underfull \hbox (badness 10000) in paragraph at lines 1720--1722
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1723--1725
+Underfull \hbox (badness 10000) in paragraph at lines 1722--1724
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1725--1727
+Underfull \hbox (badness 10000) in paragraph at lines 1724--1726
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1727--1729
+Underfull \hbox (badness 10000) in paragraph at lines 1726--1728
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1729--1731
+Underfull \hbox (badness 10000) in paragraph at lines 1728--1730
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1731--1733
+Underfull \hbox (badness 10000) in paragraph at lines 1730--1732
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1733--1735
+Underfull \hbox (badness 10000) in paragraph at lines 1732--1734
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1735--1737
+Underfull \hbox (badness 10000) in paragraph at lines 1734--1736
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1736--1738
 
  []
 
 [23] [24] [25]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1893.
+(hyperref)                than one, level fixed on input line 1894.
 
 [26]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1978.
+(hyperref)                than one, level fixed on input line 1979.
 
 [27]
-Overfull \hbox (0.21835pt too wide) in paragraph at lines 2034--2036
+Overfull \hbox (0.21835pt too wide) in paragraph at lines 2035--2037
 []\T1/lmr/m/n/10 (-20) 2018-2019, Co-host, \T1/lmr/m/it/10 (-20) Im-pod-ster Sy
 n-drome \T1/lmr/m/n/10 (-20) pod-cast, []$https : / / drive . google . com / dr
 ive / folders / 1fwSaEKt9QzJPUlf -[]
@@ -774,10 +774,10 @@ mbx10.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/public
 ublic/lm/lmr10.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/typ
 e1/public/lm/lmr17.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts
 /type1/public/lm/lmri10.pfb>
-Output written on rosenberg-cv.pdf (28 pages, 260228 bytes).
+Output written on rosenberg-cv.pdf (28 pages, 260515 bytes).
 PDF statistics:
- 616 PDF objects out of 1000 (max. 8388607)
- 569 compressed objects within 6 object streams
+ 618 PDF objects out of 1000 (max. 8388607)
+ 571 compressed objects within 6 object streams
  136 named destinations out of 1000 (max. 500000)
  31153 words of extra memory for PDF output out of 35830 (max. 10000000)
 

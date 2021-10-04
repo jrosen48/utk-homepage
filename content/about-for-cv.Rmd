@@ -81,7 +81,7 @@ Google Scholar: https://scholar.google.com/citations?hl=en&user=nxVowRQAAAAJ
 
 # Research Interests
 
-Educational data science, science education, educational technology
+Educational data science, science education, educational technology, open science
 
 # Education
 
@@ -847,7 +847,7 @@ MSU-AT&T Instructional Technology Award (Honorable Mention): Best Online Course,
 
 Instructor at the University of Tennessee, Knoxville:
 
-*Introduction to Data Science Methods in Education* (TPTE 595 & TPTE 695, M.A. and Ph.D. class)  
+*Introduction to Data Science Methods in Education* (https://making-data-science-count.github.io/s21-intro-to-data-sci-methods-in-ed/index.html; TPTE 595 & TPTE 695, M.A. and Ph.D. class)  
 *Nature of Mathematics and Science Education* (SCED 572,  M.A. and Ph.D. class)  
 *Teaching Science in Grades 7-12* (TPTE 495, SCED 496, & SCED 543,  B.S. & M.A. class)  
 *VolsTeach Step 1 and Step 2* (TPTE 110 & TPTE 120, undergraduate-level class)
