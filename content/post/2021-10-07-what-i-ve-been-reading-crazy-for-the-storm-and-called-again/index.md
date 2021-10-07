@@ -1,6 +1,6 @@
 ---
 title: 'What I''ve been reading: Crazy for the Storm and Called Again'
-author: R package build
+author: Joshua Rosenberg
 date: '2021-10-07'
 slug: what-i-ve-been-reading-crazy-for-the-storm-and-called-again
 categories:
