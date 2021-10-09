@@ -105,6 +105,18 @@ C.D. Owen High School, Swannanoa, NC
 
 2017-2020, Senior Investigating Consultant, *Profiles of science engagement: Broadening participation by understanding individual and contextual influences*, Jennifer Schmidt (PI), Michigan State University. (NSF Grant No. [1661064](https://nsf.gov/awardsearch/showAward?AWD_ID=1661064&HistoricalAwards=false))
 
+## Pending
+
+Collaborative Research: Open Stack Quantified Self: Supporting teachers in facilitating complex data work with high school human biology laboratory investigations, Co-PI (UTK site: $704,719), *NSF DRK-12*
+
+Collaborative Research: Developing and Testing Innovations: Pairing Pencil-and-Paper and Digital Approaches to Advance Data Literacy in the Science Classroom,Co-PI (UTK site: $331,607), *NSF DRK-12*
+
+Validating Learning Analytics with Student Voice by Aligning Traces, Text, and Interview Data about Self-Regulated STEM Learning,  Co-PI (UTK sub-contract: $798,822), *NSF EHR Core*
+
+Malleable Systemic Factors Relating to Inequities in Educational Outcomes: School Exclusions and Absenteeism, Co-PI (UTK sub-contract: $308,262), *Institute foe Education Sciences*
+
+Quantifying the Robustness of Causal Inferences: Extensions and Applications, Institute for Education Sciences, Co-PI (UTK sub-contract: $68,960), *Institute foe Education Sciences*
+
 # Fellowships and Awards
 
 2021, Best Poster Award, *Fourteenth International Conference on Educational Data Mining*  
@@ -829,6 +841,8 @@ Panelist, Building Capacity in STEM Education Research, National Science Foundat
 Panelist, Discovery Research PreK-12, National Science Foundation, *n.d.*
 
 Panelist, Innovative Technology Experiences for Students and Teachers, National Science Foundation, *n.d.*
+
+External Reviewer, Application for Promotion to Professor, Elon University, 2021
 
 Member, OpenSciEd Research Agenda (Assessment) working group, 2021
 

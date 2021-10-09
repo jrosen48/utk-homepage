@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2021.10.1)  4 OCT 2021 07:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2021.10.1)  8 OCT 2021 16:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -596,13 +596,13 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 160.
 [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17]
-Underfull \hbox (badness 1152) in paragraph at lines 1347--1353
+Underfull \hbox (badness 1152) in paragraph at lines 1371--1377
 \T1/lmr/m/it/10 (+20) In-sights on the cur-rent and pre-ferred in-te-gra-tion o
 f com-puter sci-ence into K-8 ed-u-ca-tion in
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1347--1353
+Underfull \hbox (badness 10000) in paragraph at lines 1371--1377
 []$\T1/lmr/m/n/10 (+20) https : / / www . pechakucha . com / presentations / in
 sights -[] on -[] the -[] current -[] and -[] preferred -[] integration -[] of 
 -[]
@@ -611,144 +611,145 @@ sights -[] on -[] the -[] current -[] and -[] preferred -[] integration -[] of
 [18] [19] [20]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1559.
-
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1602.
+(hyperref)                than one, level fixed on input line 1583.
 
 [21]
-Overfull \hbox (26.06761pt too wide) in paragraph at lines 1681--1683
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 1626.
+
+[22]
+Overfull \hbox (26.06761pt too wide) in paragraph at lines 1708--1710
 \T1/lmr/m/n/10 (-20) Mentor, Di-ver-sity in Learn-ing An-a-lyt-ics and Lead-er-
 ship pro-gram, []$https : / / www . diversityindataandleadershipprogram .
  []
 
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
-694.
+721.
 (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-Underfull \hbox (badness 10000) in paragraph at lines 1694--1696
-
- []
-
-[22]
-Underfull \hbox (badness 10000) in paragraph at lines 1696--1698
+Underfull \hbox (badness 10000) in paragraph at lines 1721--1723
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1698--1700
+Underfull \hbox (badness 10000) in paragraph at lines 1723--1725
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1700--1702
+Underfull \hbox (badness 10000) in paragraph at lines 1725--1727
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1702--1704
+Underfull \hbox (badness 10000) in paragraph at lines 1727--1729
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1704--1706
+Underfull \hbox (badness 10000) in paragraph at lines 1729--1731
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1706--1708
+Underfull \hbox (badness 10000) in paragraph at lines 1731--1733
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1708--1710
+Underfull \hbox (badness 10000) in paragraph at lines 1733--1735
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1710--1712
+Underfull \hbox (badness 10000) in paragraph at lines 1735--1737
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1712--1714
+Underfull \hbox (badness 10000) in paragraph at lines 1737--1739
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1714--1716
+Underfull \hbox (badness 10000) in paragraph at lines 1739--1741
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1716--1718
+Underfull \hbox (badness 10000) in paragraph at lines 1741--1743
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1718--1720
+Underfull \hbox (badness 10000) in paragraph at lines 1743--1745
+
+ []
+
+[23]
+Underfull \hbox (badness 10000) in paragraph at lines 1745--1747
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1720--1722
+Underfull \hbox (badness 10000) in paragraph at lines 1747--1749
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1722--1724
+Underfull \hbox (badness 10000) in paragraph at lines 1749--1751
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1724--1726
+Underfull \hbox (badness 10000) in paragraph at lines 1751--1753
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1726--1728
+Underfull \hbox (badness 10000) in paragraph at lines 1753--1755
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1728--1730
+Underfull \hbox (badness 10000) in paragraph at lines 1755--1757
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1730--1732
+Underfull \hbox (badness 10000) in paragraph at lines 1757--1759
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1732--1734
+Underfull \hbox (badness 10000) in paragraph at lines 1759--1761
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1734--1736
+Underfull \hbox (badness 10000) in paragraph at lines 1761--1763
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1736--1738
+Underfull \hbox (badness 10000) in paragraph at lines 1763--1765
 
  []
 
-[23] [24] [25]
+[24] [25]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1894.
+(hyperref)                than one, level fixed on input line 1921.
 
 [26]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1979.
+(hyperref)                than one, level fixed on input line 2006.
 
 [27]
-Overfull \hbox (0.21835pt too wide) in paragraph at lines 2035--2037
+Overfull \hbox (0.21835pt too wide) in paragraph at lines 2062--2064
 []\T1/lmr/m/n/10 (-20) 2018-2019, Co-host, \T1/lmr/m/it/10 (-20) Im-pod-ster Sy
 n-drome \T1/lmr/m/n/10 (-20) pod-cast, []$https : / / drive . google . com / dr
 ive / folders / 1fwSaEKt9QzJPUlf -[]
@@ -756,16 +757,16 @@ ive / folders / 1fwSaEKt9QzJPUlf -[]
 
 [28] (./rosenberg-cv.aux)
 Package rerunfilecheck Info: File `rosenberg-cv.out' has not changed.
-(rerunfilecheck)             Checksum: C0183A7AA3917726F5AAF81DA5B907D8;9901.
+(rerunfilecheck)             Checksum: E954B0028574FC0579E2ED86E8E83A2C;9992.
  ) 
 Here is how much of TeX's memory you used:
- 12230 strings out of 480559
- 186665 string characters out of 5901779
- 528908 words of memory out of 5000000
- 29309 multiletter control sequences out of 15000+600000
+ 12234 strings out of 480559
+ 186705 string characters out of 5901779
+ 528939 words of memory out of 5000000
+ 29311 multiletter control sequences out of 15000+600000
  463945 words of font info for 172 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 60i,12n,66p,456b,406s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,12n,66p,456b,404s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ts1.
 enc}{/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec
 .enc}</Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/l
@@ -774,10 +775,10 @@ mbx10.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/public
 ublic/lm/lmr10.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/typ
 e1/public/lm/lmr17.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts
 /type1/public/lm/lmri10.pfb>
-Output written on rosenberg-cv.pdf (28 pages, 260515 bytes).
+Output written on rosenberg-cv.pdf (28 pages, 262169 bytes).
 PDF statistics:
- 618 PDF objects out of 1000 (max. 8388607)
- 571 compressed objects within 6 object streams
- 136 named destinations out of 1000 (max. 500000)
- 31153 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 623 PDF objects out of 1000 (max. 8388607)
+ 576 compressed objects within 6 object streams
+ 138 named destinations out of 1000 (max. 500000)
+ 31161 words of extra memory for PDF output out of 35830 (max. 10000000)
 
