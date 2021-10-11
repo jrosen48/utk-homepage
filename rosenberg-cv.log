@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2021.10.1)  8 OCT 2021 16:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2021.10.1)  11 OCT 2021 09:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -596,13 +596,13 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 160.
 [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17]
-Underfull \hbox (badness 1152) in paragraph at lines 1371--1377
+Underfull \hbox (badness 1152) in paragraph at lines 1373--1379
 \T1/lmr/m/it/10 (+20) In-sights on the cur-rent and pre-ferred in-te-gra-tion o
 f com-puter sci-ence into K-8 ed-u-ca-tion in
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1371--1377
+Underfull \hbox (badness 10000) in paragraph at lines 1373--1379
 []$\T1/lmr/m/n/10 (+20) https : / / www . pechakucha . com / presentations / in
 sights -[] on -[] the -[] current -[] and -[] preferred -[] integration -[] of 
 -[]
@@ -611,29 +611,24 @@ sights -[] on -[] the -[] current -[] and -[] preferred -[] integration -[] of
 [18] [19] [20]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1583.
+(hyperref)                than one, level fixed on input line 1585.
 
 [21]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1626.
+(hyperref)                than one, level fixed on input line 1628.
 
 [22]
-Overfull \hbox (26.06761pt too wide) in paragraph at lines 1708--1710
+Overfull \hbox (26.06761pt too wide) in paragraph at lines 1710--1712
 \T1/lmr/m/n/10 (-20) Mentor, Di-ver-sity in Learn-ing An-a-lyt-ics and Lead-er-
 ship pro-gram, []$https : / / www . diversityindataandleadershipprogram .
  []
 
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
-721.
+723.
 (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-Underfull \hbox (badness 10000) in paragraph at lines 1721--1723
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 1723--1725
 
  []
@@ -688,7 +683,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1743--1745
 
  []
 
-[23]
+
 Underfull \hbox (badness 10000) in paragraph at lines 1745--1747
 
  []
@@ -718,7 +713,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1755--1757
 
  []
 
-
+[23]
 Underfull \hbox (badness 10000) in paragraph at lines 1757--1759
 
  []
@@ -738,18 +733,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 1763--1765
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 1765--1767
+
+ []
+
 [24] [25]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1921.
+(hyperref)                than one, level fixed on input line 1923.
 
 [26]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 2006.
+(hyperref)                than one, level fixed on input line 2008.
 
 [27]
-Overfull \hbox (0.21835pt too wide) in paragraph at lines 2062--2064
+Overfull \hbox (0.21835pt too wide) in paragraph at lines 2064--2066
 []\T1/lmr/m/n/10 (-20) 2018-2019, Co-host, \T1/lmr/m/it/10 (-20) Im-pod-ster Sy
 n-drome \T1/lmr/m/n/10 (-20) pod-cast, []$https : / / drive . google . com / dr
 ive / folders / 1fwSaEKt9QzJPUlf -[]
@@ -757,7 +757,7 @@ ive / folders / 1fwSaEKt9QzJPUlf -[]
 
 [28] (./rosenberg-cv.aux)
 Package rerunfilecheck Info: File `rosenberg-cv.out' has not changed.
-(rerunfilecheck)             Checksum: E954B0028574FC0579E2ED86E8E83A2C;9992.
+(rerunfilecheck)             Checksum: 70BE9571BF230488A1AD7A33853C4C9F;9992.
  ) 
 Here is how much of TeX's memory you used:
  12234 strings out of 480559
@@ -766,7 +766,7 @@ Here is how much of TeX's memory you used:
  29311 multiletter control sequences out of 15000+600000
  463945 words of font info for 172 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 60i,12n,66p,456b,404s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,12n,66p,456b,406s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ts1.
 enc}{/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec
 .enc}</Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/l
@@ -775,7 +775,7 @@ mbx10.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/public
 ublic/lm/lmr10.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/typ
 e1/public/lm/lmr17.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts
 /type1/public/lm/lmri10.pfb>
-Output written on rosenberg-cv.pdf (28 pages, 262169 bytes).
+Output written on rosenberg-cv.pdf (28 pages, 262065 bytes).
 PDF statistics:
  623 PDF objects out of 1000 (max. 8388607)
  576 compressed objects within 6 object streams

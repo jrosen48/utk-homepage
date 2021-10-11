@@ -163,9 +163,13 @@ Quantifying the Robustness of Causal Inferences: Extensions and Applications, In
 \hangindent=2em
 Estrellado, R. A., Freer, E. A.,  Mostipak, J., Rosenberg, J. M., & Velásquez, I. C. (2020). *Data science in education using R*. London, England: Routledge. *Nb.* All authors contributed equally. http://www.datascienceineducation.com/ <a href="https://github.com/data-edu/data-science-in-education"><img src = "/logos/github.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
 
-## Articles Published in Refereed Journals (35)
+## Articles Published in Refereed Journals (36)
 
-### Articles In-Press (1)
+### Articles In-Press (2)
+
+\hangindent=2em
+
+Aguilar, S. J., Rosenberg, J., Greenhalgh, S., Fütterer, T., Lishinski, A., & Fischer, C. A different experience in a different moment? Teachers’ social media Use before and during the COVID-19 pandemic. *AERA Open*. https://doi.org/10.31219/osf.io/37pab
 
 \hangindent=2em
 Lawson, M. A., Herrick, I., & Rosenberg, J. M.(in press). Better together: Understanding and supporting math and science pre-service teachers’ sensemaking about STEM. *Educational Technology & Society*.
@@ -301,8 +305,6 @@ Rosenberg, J. M., Kubsch, M., Wagenmakers, E.-J., & Dogucu, M. (under review). W
 Rosenberg, J. M., Beymer, P. N., Phun, V., & Schmidt, J. A. (under review). The sources of variation for learners’ situational engagement: An investigation using intensive longitudinal methods. *International Journal of Educational Research*. https://osf.io/pj2v8/
 
 Michela, E., Rosenberg, J., Kimmon, R., Sultana, O., Burchfield, M. A., & Thomas, T. (under review). "We are trying to communicate the best we can": Understanding districts’ communication on Twitter during the COVID-19 pandemic. *AERA Open*. https://doi.org/10.31219/osf.io/qpu8v
-
-Aguilar, S. J., Rosenberg, J., Greenhalgh, S., Fütterer, T., Lishinski, A., & Fischer, C. (under review). A different experience in a different moment? Teachers’ social media use before and during the COVID-19 pandemic. *AERA Open*. https://doi.org/10.31219/osf.io/37pab
 
 ## Contributions to Edited Volumes (10)
 

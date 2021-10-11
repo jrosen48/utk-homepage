@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2021.10.1)  8 OCT 2021 16:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2021.10.1)  11 OCT 2021 09:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -567,13 +567,13 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 
 {/Users/joshuarosenberg/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdfte
 x.map}] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16]
-Underfull \hbox (badness 1152) in paragraph at lines 1376--1382
+Underfull \hbox (badness 1152) in paragraph at lines 1378--1384
 \T1/lmr/m/it/10 (+20) In-sights on the cur-rent and pre-ferred in-te-gra-tion o
 f com-puter sci-ence into K-8 ed-u-ca-tion in
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1376--1382
+Underfull \hbox (badness 10000) in paragraph at lines 1378--1384
 []$\T1/lmr/m/n/10 (+20) https : / / www . pechakucha . com / presentations / in
 sights -[] on -[] the -[] current -[] and -[] preferred -[] integration -[] of 
 -[]
@@ -582,29 +582,24 @@ sights -[] on -[] the -[] current -[] and -[] preferred -[] integration -[] of
 [17] [18]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1588.
+(hyperref)                than one, level fixed on input line 1590.
 
 [19]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1631.
+(hyperref)                than one, level fixed on input line 1633.
 
 [20]
-Overfull \hbox (26.06761pt too wide) in paragraph at lines 1713--1715
+Overfull \hbox (26.06761pt too wide) in paragraph at lines 1715--1717
 \T1/lmr/m/n/10 (-20) Mentor, Di-ver-sity in Learn-ing An-a-lyt-ics and Lead-er-
 ship pro-gram, []$https : / / www . diversityindataandleadershipprogram .
  []
 
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
-726.
+728.
 (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-Underfull \hbox (badness 10000) in paragraph at lines 1726--1728
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 1728--1730
 
  []
@@ -689,12 +684,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 1760--1762
 
  []
 
-[21]
+
 Underfull \hbox (badness 10000) in paragraph at lines 1762--1764
 
  []
 
-
+[21]
 Underfull \hbox (badness 10000) in paragraph at lines 1764--1766
 
  []
@@ -709,18 +704,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 1768--1770
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 1770--1772
+
+ []
+
 [22] [23]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1926.
+(hyperref)                than one, level fixed on input line 1928.
 
 [24]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 2011.
+(hyperref)                than one, level fixed on input line 2013.
 
 
-Overfull \hbox (0.21835pt too wide) in paragraph at lines 2067--2069
+Overfull \hbox (0.21835pt too wide) in paragraph at lines 2069--2071
 []\T1/lmr/m/n/10 (-20) 2018-2019, Co-host, \T1/lmr/m/it/10 (-20) Im-pod-ster Sy
 n-drome \T1/lmr/m/n/10 (-20) pod-cast, []$https : / / drive . google . com / dr
 ive / folders / 1fwSaEKt9QzJPUlf -[]
@@ -728,7 +728,7 @@ ive / folders / 1fwSaEKt9QzJPUlf -[]
 
 [25] [26] (./rosenberg-cv.aux)
 Package rerunfilecheck Info: File `rosenberg-cv.out' has not changed.
-(rerunfilecheck)             Checksum: 7EA6FBBBA01F017C557184BE015AB6BD;10275.
+(rerunfilecheck)             Checksum: 50CA7370D31FD23A9534DC30F9441086;10275.
  ) 
 Here is how much of TeX's memory you used:
  12042 strings out of 480559
@@ -746,7 +746,7 @@ mbx10.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/public
 ublic/lm/lmr10.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/typ
 e1/public/lm/lmr17.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts
 /type1/public/lm/lmri10.pfb>
-Output written on rosenberg-cv.pdf (26 pages, 258093 bytes).
+Output written on rosenberg-cv.pdf (26 pages, 258221 bytes).
 PDF statistics:
  631 PDF objects out of 1000 (max. 8388607)
  586 compressed objects within 6 object streams
