@@ -15,5 +15,6 @@ Here is a list of programs in educational data science and learning analytics (a
 - M.S., Education Data Science, Stanford Graduate School of Education: https://ed.stanford.edu/eds
 - M.S., Learning Analytics, University of Texas at Arlongton: https://www.uta.edu/academics/schools-colleges/science/departments/psychology/degree-programs/graduate/ms-in-learning-analytics
 - Specialization, Educational Data Science, University of Oregon: https://education.uoregon.edu/specialization-educational-data-science
+- M.S., Educational Psychology: Learning Analytics, University of Wisconsin: https://learninganalytics.education.wisc.edu/
 
 I hope to update this (including an update with UTK's offerings!).
