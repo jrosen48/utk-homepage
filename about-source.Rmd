@@ -220,16 +220,16 @@ Estrellado, R. A., Freer, E. A.,  Mostipak, J., Rosenberg, J. M., & Velásquez, 
 
 ## Articles Published in Refereed Journals (36)
 
-### Articles In-Press (2)
+### Articles In-Press (1)
 
 \hangindent=2em
 
 Aguilar, S. J., Rosenberg, J., Greenhalgh, S., Fütterer, T., Lishinski, A., & Fischer, C. A different experience in a different moment? Teachers’ social media Use before and during the COVID-19 pandemic. *AERA Open*. https://doi.org/10.31219/osf.io/37pab
 
-\hangindent=2em
-Lawson, M. A., Herrick, I., & Rosenberg, J. M.(in press). Better together: Understanding and supporting math and science pre-service teachers’ sensemaking about STEM. *Educational Technology & Society*.
+### Published Articles (35)
 
-### Published Articles (34)
+\hangindent=2em
+Lawson, M. A., Herrick, I., R., & Rosenberg, J. M. (2021). Better together: Mathematics and science pre-service teachers’ sensemaking about STEM. *Educational Technology & Society, 24*(4), 180–192.
 
 \hangindent=2em
 Schweinsburg, M., ... Luis, S. (advance online publication). Same data, different conclusions: Radical dispersion in empirical results. *Organizational Behavior and Human Decision Processes.* https://www.sciencedirect.com/science/article/pii/S0749597821000200 (*Nb.* I was an author and contributor to this large-scale, collaborative project.)
@@ -818,6 +818,9 @@ Rosenberg, J. M. (2017, April). *Introduction to R for Data Analysis*. Presentat
 Rosenberg, J. M. (March, 2016). *An introduction to R for programming and statistical analysis in education*. Georgia Southern University College of Education, Statesboro, GA.
 
 # Outreach and Engagement (10)
+
+\hangindent=2em
+Rosenberg, J. M. (2021, November). Analyzing and interpreting scientific data with DataClassroom. Knox County Schools District Learning Day. https://joshuamrosenberg.com/kcs-dld-2021-11-02-analyzing-scientific-data.pdf
 
 \hangindent=2em
 Rosenberg, J. M. (2021, August). *Tools and Strategies to Work with Data in the Science Classroom*. Knox County Schools District Learning Day. https://bit.ly/kcs-dld
