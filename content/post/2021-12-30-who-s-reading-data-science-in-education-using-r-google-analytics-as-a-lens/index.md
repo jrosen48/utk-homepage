@@ -24,7 +24,7 @@ The last question is relatively easy to answer because we used Google Analytics;
 - There were 49,029 page views over this period of time
 - Pretty consistently, around 200-250 people have accessed the book per week over the past year
 
-**Looking over the past _two__ years**, those numbers are about doubled:
+**Looking over the past _two_ years**, those numbers are about doubled:
 
 - 23,000 (precisely) users
 - 41,705 sessions
