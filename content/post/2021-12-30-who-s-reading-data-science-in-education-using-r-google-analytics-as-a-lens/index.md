@@ -30,4 +30,6 @@ The last question is relatively easy to answer because we used Google Analytics;
 - 41,705 sessions
 - 89,977 page views
 
-This is, obviously, a coarse look. How useful was the book? What problems did people encounter? And, how did they use it?
+This is, obviously, a coarse look. How do these compare to other open books? To the commercial versions of our book? Is this a sizable impact? How useful was the book? What problems did people encounter?
+
+In any case, thanks to anyone who looked at the book (and, hopefully, found it useful). Thanks to the authors who inspired us to write this book in the open, too.
