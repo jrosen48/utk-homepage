@@ -222,11 +222,10 @@ Estrellado, R. A., Freer, E. A.,  Mostipak, J., Rosenberg, J. M., & Velásquez, 
 
 ### Articles In-Press (1)
 
+### Published Articles (36)
+
 \hangindent=2em
-
-Aguilar, S. J., Rosenberg, J., Greenhalgh, S., Fütterer, T., Lishinski, A., & Fischer, C. A different experience in a different moment? Teachers’ social media Use before and during the COVID-19 pandemic. *AERA Open*. https://doi.org/10.31219/osf.io/37pab
-
-### Published Articles (35)
+Aguilar, S. J., Rosenberg, J., Greenhalgh, S., Fütterer, T., Lishinski, A., & Fischer, C. (2021). A different experience in a different moment? Teachers’ social media Use before and during the COVID-19 pandemic. *AERA Open, 7*, 1-17. https://doi.org/10.31219/osf.io/37pab
 
 \hangindent=2em
 Lawson, M. A., Herrick, I., R., & Rosenberg, J. M. (2021). Better together: Mathematics and science pre-service teachers’ sensemaking about STEM. *Educational Technology & Society, 24*(4), 180–192.
@@ -353,13 +352,20 @@ Rosenberg, J. M., & Logan, C. W. (2017). Review of the book What’s Worth Teach
 \hangindent=2em
 Phillips, M., Harris, J., Rosenberg, J. M., & Koehler, M. J. (2017). TPCK/TPACK research and development: Past, present, and future directions. *Australasian Journal of Educational Technology*. https://doi.org/10.14742/ajet.3907 <a href="https://scholar.google.com/citations?user=nxVowRQAAAAJ&hl=en&authuser=2#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DnxVowRQAAAAJ%26authuser%3D2%26citation_for_view%3DnxVowRQAAAAJ%3AhkOj_22Ku90C%26tzom%3D300"><img src = "/logos/google-scholar-1.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
 
-## Articles Under Review (4)
+## Articles Under Review (6)
+
+Jones. R. S., & Rosenberg, J. M. (under review). Characterizing whole class discussions about data and statistics with conversation profile analysis. *Journal of Mathematical Behavior.*
+
+Kubsch, M., Krist, C., & Rosenberg, J. M. (under review). Distributing Epistemic Functions and Tasks - A framework for augmenting human analytic power with machine learning in science education research. *Journal of Research in Science Teaching*. https://osf.io/sg9jk/
+
+Michela, E., Rosenberg, J., Kimmon, R., Sultana, O., Burchfield, M. A., & Thomas, T. (conditionally accepted). "We are trying to communicate the best we can": Understanding districts’ communication on Twitter during the COVID-19 pandemic. *AERA Open*. https://doi.org/10.31219/osf.io/qpu8v
+
+Rosenberg, J. M., Schultheis, E., Kjelvik, M., Reedy, A., & Sultana, O. (under review). Big data, big canges? A survey of K-12 science teachers in the United States on which data sources and tools they use in the classroom. *British Journal of Educational Technology.* https://edarxiv.org/tv4zg/
 
 Rosenberg, J. M., Kubsch, M., Wagenmakers, E.-J., & Dogucu, M. (under review). Why and how a Bayesian approach supports science educators and learners to reason under scientific uncertainty. *Science & Education*. https://osf.io/aznyq/
 
 Rosenberg, J. M., Beymer, P. N., Phun, V., & Schmidt, J. A. (under review). The sources of variation for learners’ situational engagement: An investigation using intensive longitudinal methods. *International Journal of Educational Research*. https://osf.io/pj2v8/
 
-Michela, E., Rosenberg, J., Kimmon, R., Sultana, O., Burchfield, M. A., & Thomas, T. (under review). "We are trying to communicate the best we can": Understanding districts’ communication on Twitter during the COVID-19 pandemic. *AERA Open*. https://doi.org/10.31219/osf.io/qpu8v
 
 ## Contributions to Edited Volumes (10)
 
@@ -945,7 +951,7 @@ Reviewer, Proposals from Knox County Schools students for the NASA Student Space
 ### Ad-hoc Journal Article Reviews
 
 + AERA Open (2019, 2020)  
-+ Australasian Journal of Educational Technology (2018: 2)  
++ Australasian Journal of Educational Technology (20blog18: 2)  
 + British Journal of Educational Technology (2016)  
 + Computers & Education (2016, 2017, 2018, 2020)  
 + Contemporary Educational Psychology (2018)  
