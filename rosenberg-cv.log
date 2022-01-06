@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2021.10.1)  6 JAN 2022 08:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2021.10.1)  6 JAN 2022 08:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -595,13 +595,8 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 160.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 160.
-[2] [3]
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 3
-05.
-(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/lm/ts1lmr.fd
-File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17]
-Underfull \hbox (badness 10000) in paragraph at lines 1392--1398
+[2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17]
+Underfull \hbox (badness 10000) in paragraph at lines 1388--1394
 []$\T1/lmr/m/n/10 (+20) https : / / www . pechakucha . com / presentations / in
 sights -[] on -[] the -[] current -[] and -[] preferred -[] integration -[] of 
 -[]
@@ -610,17 +605,31 @@ sights -[] on -[] the -[] current -[] and -[] preferred -[] integration -[] of
 [18] [19] [20]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1603.
+(hyperref)                than one, level fixed on input line 1599.
 
 [21]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1646.
+(hyperref)                than one, level fixed on input line 1642.
 
 [22]
-Overfull \hbox (26.06761pt too wide) in paragraph at lines 1728--1730
+Overfull \hbox (26.06761pt too wide) in paragraph at lines 1724--1726
 \T1/lmr/m/n/10 (-20) Mentor, Di-ver-sity in Learn-ing An-a-lyt-ics and Lead-er-
 ship pro-gram, []$https : / / www . diversityindataandleadershipprogram .
+ []
+
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
+737.
+(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/lm/ts1lmr.fd
+File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+Underfull \hbox (badness 10000) in paragraph at lines 1737--1739
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1739--1741
+
  []
 
 
@@ -673,7 +682,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1759--1761
 
  []
 
-
+[23]
 Underfull \hbox (badness 10000) in paragraph at lines 1761--1763
 
  []
@@ -683,7 +692,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1763--1765
 
  []
 
-[23]
+
 Underfull \hbox (badness 10000) in paragraph at lines 1765--1767
 
  []
@@ -723,28 +732,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 1779--1781
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 1781--1783
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1783--1785
-
- []
-
 [24] [25]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1941.
+(hyperref)                than one, level fixed on input line 1937.
 
 [26]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 2026.
+(hyperref)                than one, level fixed on input line 2022.
 
 [27]
-Overfull \hbox (0.21835pt too wide) in paragraph at lines 2082--2084
+Overfull \hbox (0.21835pt too wide) in paragraph at lines 2078--2080
 []\T1/lmr/m/n/10 (-20) 2018-2019, Co-host, \T1/lmr/m/it/10 (-20) Im-pod-ster Sy
 n-drome \T1/lmr/m/n/10 (-20) pod-cast, []$https : / / drive . google . com / dr
 ive / folders / 1fwSaEKt9QzJPUlf -[]
@@ -770,7 +769,7 @@ mbx10.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/public
 ublic/lm/lmr10.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/typ
 e1/public/lm/lmr17.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts
 /type1/public/lm/lmri10.pfb>
-Output written on rosenberg-cv.pdf (28 pages, 262909 bytes).
+Output written on rosenberg-cv.pdf (28 pages, 262874 bytes).
 PDF statistics:
  621 PDF objects out of 1000 (max. 8388607)
  574 compressed objects within 6 object streams

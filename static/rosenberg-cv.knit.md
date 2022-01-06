@@ -158,7 +158,7 @@ Quantifying the Robustness of Causal Inferences: Extensions and Applications, In
 # Publications
 
 
-+ Denotes a collaboration with a mentee who is a graduate student
+\+ Denotes a collaboration with a mentee who is a graduate student
 ^ Denotes a collaboration with a mentee who is an undergraduate student
 
 ## Book (1)
@@ -171,13 +171,13 @@ Estrellado, R. A., Freer, E. A.,  Mostipak, J., Rosenberg, J. M., & Velásquez, 
 ### Published Articles (37)
 
 \hangindent=2em
-+Michela, E., Rosenberg, J., Kimmons, R., +Sultana, O., ^Burchfield, M. A., & ^Thomas, T. (in press). "We are trying to communicate the best we can": Understanding districts’ communication on Twitter during the COVID-19 pandemic. *AERA Open*
+\+Michela, E., Rosenberg, J., Kimmons, R., \+Sultana, O., ^Burchfield, M. A., & ^Thomas, T. (in press). "We are trying to communicate the best we can": Understanding districts’ communication on Twitter during the COVID-19 pandemic. *AERA Open*
 
 \hangindent=2em
 Aguilar, S. J., Rosenberg, J., Greenhalgh, S., Fütterer, T., Lishinski, A., & Fischer, C. (2021). A different experience in a different moment? Teachers’ social media Use before and during the COVID-19 pandemic. *AERA Open, 7*, 1-17. https://doi.org/10.31219/osf.io/37pab
 
 \hangindent=2em
-+Lawson, M. A., Herrick, I., R., & Rosenberg, J. M. (2021). Better together: Mathematics and science pre-service teachers’ sensemaking about STEM. *Educational Technology & Society, 24*(4), 180–192.
+\+Lawson, M. A., Herrick, I., R., & Rosenberg, J. M. (2021). Better together: Mathematics and science pre-service teachers’ sensemaking about STEM. *Educational Technology & Society, 24*(4), 180–192.
 
 \hangindent=2em
 Schweinsburg, M., ... Luis, S. (advance online publication). Same data, different conclusions: Radical dispersion in empirical results. *Organizational Behavior and Human Decision Processes.* https://www.sciencedirect.com/science/article/pii/S0749597821000200 (*Nb.* I was an author and contributor to this large-scale, collaborative project.)
@@ -231,7 +231,7 @@ Greenhalgh, S. P., Rosenberg, J. M., Koehler, M. J., Akcaoglu, M., & Staudt Will
 Beymer, P. N., Rosenberg, J. M., & Schmidt, J. A. (2020). Does choice matter or is it all about interest? An investigation using an experience sampling approach in high school science classrooms. *Learning and Individual Differences, 78*(2), 1-15. https://doi.org/10.1016/j.lindif.2019.101812 <a href="https://scholar.google.com/citations?hl=en&user=nxVowRQAAAAJ&view_op=list_works&sortby=pubdate#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DnxVowRQAAAAJ%26sortby%3Dpubdate%26citation_for_view%3DnxVowRQAAAAJ%3AVLnqNzywnoUC%26tzom%3D240"><img src = "/logos/google-scholar-1.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
 
 \hangindent=2em
-Rosenberg, J. M., +Edwards, A., & Chen, B. (2020). Getting messy with data: Tools and strategies to help students analyze and interpret complex data sources. *The Science Teacher, 87*(5). https://learningcenter.nsta.org/resource/?id=10.2505/4/tst20_087_05_30
+Rosenberg, J. M., \+Edwards, A., & Chen, B. (2020). Getting messy with data: Tools and strategies to help students analyze and interpret complex data sources. *The Science Teacher, 87*(5). https://learningcenter.nsta.org/resource/?id=10.2505/4/tst20_087_05_30
 
 \hangindent=2em
 Xu, R., Frank, K. A., Maroulis, S., & Rosenberg, J. M. (2019). konfound: Command to quantify robustness of causal inferences. *The Stata Journal, 19*(3), 523-550. https://journals.sagepub.com/doi/full/10.1177/1536867X19874223 <a href="https://scholar.google.com/citations?user=nxVowRQAAAAJ&hl=en#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DnxVowRQAAAAJ%26cstart%3D20%26pagesize%3D80%26citation_for_view%3DnxVowRQAAAAJ%3AZfRJV9d4-WMC%26tzom%3D300"><img src = "/logos/google-scholar-1.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
@@ -243,7 +243,7 @@ Blondel, D. V., Sansone, A., Rosenberg, J. M., Yang, B. W., Linennbrink-Garcia, 
 Henriksen, D., Mehta, R. & Rosenberg, J. (2019). Supporting a creatively focused technology fluent mindset among educators: survey results from a five-year inquiry into teachers’ confidence in using technology. *Journal of Technology and Teacher Education, 27*(1), 63-95. https://www.learntechlib.org/primary/p/184724/ <a href="https://scholar.google.com/citations?user=nxVowRQAAAAJ&hl=en#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DnxVowRQAAAAJ%26cstart%3D20%26pagesize%3D80%26citation_for_view%3DnxVowRQAAAAJ%3AJQOojiI6XY0C%26tzom%3D300"><img src = "/logos/google-scholar-1.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
 
 \hangindent=2em
-Rosenberg, J. M., & +Lawson, M. J. (2019). An investigation of students’ use of a computational science simulation in an online high school physics class. *Education Sciences, 9*(49), 1-19. https://www.mdpi.com/2227-7102/9/1/49 <a href = "https://osf.io/y925f/"><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> <a href = "/pre-prints/Rosenberg-Lawson-2019-es.pdf"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> <a href="https://scholar.google.com/citations?user=nxVowRQAAAAJ&hl=en#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DnxVowRQAAAAJ%26cstart%3D20%26pagesize%3D80%26citation_for_view%3DnxVowRQAAAAJ%3AN5tVd3kTz84C%26tzom%3D300"><img src = "/logos/google-scholar-1.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
+Rosenberg, J. M., & \+Lawson, M. J. (2019). An investigation of students’ use of a computational science simulation in an online high school physics class. *Education Sciences, 9*(49), 1-19. https://www.mdpi.com/2227-7102/9/1/49 <a href = "https://osf.io/y925f/"><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> <a href = "/pre-prints/Rosenberg-Lawson-2019-es.pdf"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> <a href="https://scholar.google.com/citations?user=nxVowRQAAAAJ&hl=en#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DnxVowRQAAAAJ%26cstart%3D20%26pagesize%3D80%26citation_for_view%3DnxVowRQAAAAJ%3AN5tVd3kTz84C%26tzom%3D300"><img src = "/logos/google-scholar-1.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
 
 \hangindent=2em
 Rosenberg, J. M., Beymer, P. N., Anderson, D. J., & Schmidt, J. A. (2018). tidyLPA: An R package to easily carry out Latent Profile Analysis (LPA) using open-source or commercial software. *Journal of Open Source Software, 3*(30), 978. https://doi.org/10.21105/joss.00978 <a href = "/pre-prints/rosenberg-et-al-2018-joss.pdf"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> <a href="https://scholar.google.com/citations?user=nxVowRQAAAAJ&hl=en#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DnxVowRQAAAAJ%26citation_for_view%3DnxVowRQAAAAJ%3AWqliGbK-hY8C%26tzom%3D300"><img src = "/logos/google-scholar-1.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
@@ -307,7 +307,7 @@ Jones. R. S., & Rosenberg, J. M. (under review). Characterizing whole class disc
 
 Kubsch, M., Krist, C., & Rosenberg, J. M. (under review). Distributing Epistemic Functions and Tasks - A framework for augmenting human analytic power with machine learning in science education research. *Journal of Research in Science Teaching*. https://osf.io/sg9jk/
 
-Rosenberg, J. M., Schultheis, E., Kjelvik, M., Reedy, A., & +Sultana, O. (under review). Big data, big canges? A survey of K-12 science teachers in the United States on which data sources and tools they use in the classroom. *British Journal of Educational Technology.* https://edarxiv.org/tv4zg/
+Rosenberg, J. M., Schultheis, E., Kjelvik, M., Reedy, A., & \+Sultana, O. (under review). Big data, big canges? A survey of K-12 science teachers in the United States on which data sources and tools they use in the classroom. *British Journal of Educational Technology.* https://edarxiv.org/tv4zg/
 
 Rosenberg, J. M., Kubsch, M., Wagenmakers, E.-J., & Dogucu, M. (under review). Why and how a Bayesian approach supports science educators and learners to reason under scientific uncertainty. *Science & Education*. https://osf.io/aznyq/
 
@@ -317,10 +317,10 @@ Rosenberg, J. M., Beymer, P. N., Phun, V., & Schmidt, J. A. (under review). The 
 ## Contributions to Edited Volumes (10)
 
 \hangindent=2em
-Dai, T., Rosenberg, J. M., & +Lawson, M. A. (in press). Data representation. In T. L. Good & M. McCaslin (*Eds.*), Educational Psychology Section; D. Fisher (*Ed.*), *Routledge encyclopedia of education* (Online). Taylor & Francis: New York, NY.
+Dai, T., Rosenberg, J. M., & \+Lawson, M. A. (in press). Data representation. In T. L. Good & M. McCaslin (*Eds.*), Educational Psychology Section; D. Fisher (*Ed.*), *Routledge encyclopedia of education* (Online). Taylor & Francis: New York, NY.
 
 \hangindent=2em
-Rosenberg, J. M., +Lawson, M. A., Anderson, D. J., & Rutherford, T. (2020). Making data science count in and for education. In E. Romero-Hall (Ed.), *Research methods in learning design & technology* (pp. 94-110). Routledge: New York, NY. <a href = "/pre-prints/rosenberg-et-al-data-science-in-and-for-education-research-methods-in-ldt.pdf"><img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
+Rosenberg, J. M., \+Lawson, M. A., Anderson, D. J., & Rutherford, T. (2020). Making data science count in and for education. In E. Romero-Hall (Ed.), *Research methods in learning design & technology* (pp. 94-110). Routledge: New York, NY. <a href = "/pre-prints/rosenberg-et-al-data-science-in-and-for-education-research-methods-in-ldt.pdf"><img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
 \hangindent=2em
 Greenhalgh, S. P., Staudt Willet, B., Rosenberg, J. M., & Koehler, M. J. (2020). Lessons learned from applying Twitter research methods to educational technology phenomena. In E. Romero-Hall (Ed.), *Research methods in learning design & technology* (pp. 64-77). Routledge: New York, NY. <a href = "http://www.researchmerge.com/uploads/7/5/3/5/75356681/chapter_5_research_methods_in_learning_design_and_technology_pre-print.pdf"><img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
@@ -376,10 +376,10 @@ Rosenberg, J. M., & Staudt Willet, K. B. (2021). Advancing social influence mode
 Lishinski, A., & Rosenberg, J. M. (2021). How CS1 students experienced COVID-19 in the moment: using an experience sampling approach to understand the transition to emergency remote instruction. In *Proceedings of the 51st ACM Technical Symposium on Computer Science Education* (pp. 1414-1414).
 
 \hangindent=2em
-+Mann, M., ^Bui, H., ^Gibbons, B., +Lishinski, A., Dyer, E., & Rosenberg, J. M. (2021). "Not my subject"?: A survey of teachers regarding the implementation of new K-8 computing education standards. In *Proceedings of the 51st ACM Technical Symposium on Computer Science Education* (pp. 1414-1414).
+\+Mann, M., ^Bui, H., ^Gibbons, B., \+Lishinski, A., Dyer, E., & Rosenberg, J. M. (2021). "Not my subject"?: A survey of teachers regarding the implementation of new K-8 computing education standards. In *Proceedings of the 51st ACM Technical Symposium on Computer Science Education* (pp. 1414-1414).
 
 \hangindent=2em
-Rosenberg, J. M., +Schmidt, A., Rosenberg, A. M., +Longnecker, J., & +Mann M. (2020). Becoming 'tidier' over time. Studying #tidytuesday as a social media-based context for learning to visualize data. In M. Gresalfi and I. Horn (Eds.), *The Interdisciplinarity of the Learning Sciences: The International Conference of the Learning Sciences 2020 Conference Proceedings* (Vol 3., pp. 1811-1812). ISLS. <a href = "https://osf.io/uwza6/"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
+Rosenberg, J. M., \+Schmidt, A., Rosenberg, A. M., \+Longnecker, J., & \+Mann M. (2020). Becoming 'tidier' over time. Studying #tidytuesday as a social media-based context for learning to visualize data. In M. Gresalfi and I. Horn (Eds.), *The Interdisciplinarity of the Learning Sciences: The International Conference of the Learning Sciences 2020 Conference Proceedings* (Vol 3., pp. 1811-1812). ISLS. <a href = "https://osf.io/uwza6/"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
 \hangindent=2em
 Jones R. S., & Rosenberg, J. M. (2020). Studying whole class discussions at scale. In M. Gresalfi and I. Horn (Eds.), *The Interdisciplinarity of the Learning Sciences: The International Conference of the Learning Sciences 2020 Conference Proceedings* (Vol 5., pp. 2499-2506). ISLS. <a href = "/publications/jones-rosenberg-icls-2020.pdf"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
@@ -471,19 +471,19 @@ Rosenberg, J. M. (February, 2019). *Making sense of recent advances in the Techn
 ## Peer-Reviewed Conference Presentations (69)
 
 \hangindent=2em
-Rosenberg, J. M., Carpenter, J., +Michela, E., +Sultana, O., McKenna, T. J., Dyer, E. D., & Reid, J. (2021, April). *"Best P.D. out there"? An exploration of the #NGSSchat network on Twitter*. Presentation at the American Educational Research Association Annual Meeting.
+Rosenberg, J. M., Carpenter, J., \+Michela, E., \+Sultana, O., McKenna, T. J., Dyer, E. D., & Reid, J. (2021, April). *"Best P.D. out there"? An exploration of the #NGSSchat network on Twitter*. Presentation at the American Educational Research Association Annual Meeting.
 
 \hangindent=2em
-Lishinski, A., Rosenberg, J. M., +Sultana, O., +Mann, M., & Dunn, J. (2021, April). *A text messaging–based experience sampling method study of students' interest in introductory computer science*. Presentation at the American Educational Research Association Annual Meeting.
+Lishinski, A., Rosenberg, J. M., \+Sultana, O., \+Mann, M., & Dunn, J. (2021, April). *A text messaging–based experience sampling method study of students' interest in introductory computer science*. Presentation at the American Educational Research Association Annual Meeting.
 
 \hangindent=2em
-Michela, E., Rosenberg, J. M., +Sultana, O., ^Burchfield, M., ^Thomas, T., & Kimmons, R. (2021, April). *“Life will eventually get back to normal”: School districts’ Twitter use in response to COVID-19*. Poster presentation at the American Educational Research Association Annual Meeting.
+Michela, E., Rosenberg, J. M., \+Sultana, O., ^Burchfield, M., ^Thomas, T., & Kimmons, R. (2021, April). *“Life will eventually get back to normal”: School districts’ Twitter use in response to COVID-19*. Poster presentation at the American Educational Research Association Annual Meeting.
 
 \hangindent=2em
 Rosenberg, J. M., ^Borchers, C., Gibbons, B., Dyer, E. D., Anderson, D. A., & Fischer, C. (2020, April). Don't worry, be happy: A sentment analysis of the #NGSSchat Twitter Symposium community. In M. Rehm. (Chair), *Social opportunity spaces: How social media can inform/shape educational policy processes*. Symposium conducted at the American Educational Research Association Annual Meeting.
 
 \hangindent=2em
-+Lawson, M. A., Rosenberg, J. M., & Herrick, I. (2021, April). *Better together: Supporting and understanding preservice teacher (PST) sense-making about STEM*. Presentation at the American Educational Research Association Annual Meeting.
+\+Lawson, M. A., Rosenberg, J. M., & Herrick, I. (2021, April). *Better together: Supporting and understanding preservice teacher (PST) sense-making about STEM*. Presentation at the American Educational Research Association Annual Meeting.
 
 \hangindent=2em
 Kellogg, S., Jiang, S., Rosenberg, J. M., & Moore, R. (2021, April). Learning Analytics in STEM Education Research (LASER) Institute. In F. J. Levine & G. L. Wimberly (Chairs), *Building capacity in STEM education research: A discussion with directors of the NSF institutes in research methods*. Symposium at the American Educational Research Association Annual Meeting.
@@ -680,10 +680,10 @@ Koehler, M. J., Rosenberg, J. M., Greenhalgh, S., Zellner, A. L., & Mishra, P. (
 ## Other Presentations
 
 \hangindent=2em 
-^Gibbons, B., Bui, H., +Mann, M., +Longnecker, J., Dyer, E., & Rosenberg, J. M. (2021, January). *Insights on the current and preferred integration of computer science into K-8 education in Tennessee*. Presentation at the 15th Annual Tennessee STEM Education Research Conference. https://www.pechakucha.com/presentations/insights-on-the-current-and-preferred-integration-of-computer-science-into-k-8-education-in-tennessee
+^Gibbons, B., Bui, H., \+Mann, M., \+Longnecker, J., Dyer, E., & Rosenberg, J. M. (2021, January). *Insights on the current and preferred integration of computer science into K-8 education in Tennessee*. Presentation at the 15th Annual Tennessee STEM Education Research Conference. https://www.pechakucha.com/presentations/insights-on-the-current-and-preferred-integration-of-computer-science-into-k-8-education-in-tennessee
 
 \hangindent=2em 
-Rosenberg, J. M., +Sultana, O., +Mann, M., +Carter, B., +Kenner, N., & E+dwards, A. (2021, January). *How can K-12 science learners analyze data in creative and ambitious ways? Early findings from a design-based research project*. Presentation at the 15th Annual Tennessee STEM Education Research Conference.
+Rosenberg, J. M., \+Sultana, O., \+Mann, M., \+Carter, B., \+Kenner, N., & \+Edwards, A. (2021, January). *How can K-12 science learners analyze data in creative and ambitious ways? Early findings from a design-based research project*. Presentation at the 15th Annual Tennessee STEM Education Research Conference.
 
 \hangindent=2em
 Rosenberg, J. M., Dyer, E. B., Anderson, D. J., & Fischer, C. (September, 2020). *If you’re happy and you know it, post a tweet? A study of the sentiment of posts to the #NGSSchat hashtag on Twitter*. Presentation at the AERA Satellite Conference on Educational Data Science, Stanford, CA.
