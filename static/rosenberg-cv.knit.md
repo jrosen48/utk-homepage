@@ -113,9 +113,9 @@ Collaborative Research: Developing and Testing Innovations: Pairing Pencil-and-P
 
 Validating Learning Analytics with Student Voice by Aligning Traces, Text, and Interview Data about Self-Regulated STEM Learning,  Co-PI (UTK sub-contract: $798,822), *NSF EHR Core*
 
-Malleable Systemic Factors Relating to Inequities in Educational Outcomes: School Exclusions and Absenteeism, Co-PI (UTK sub-contract: $308,262), *Institute foe Education Sciences*
+Malleable Systemic Factors Relating to Inequities in Educational Outcomes: School Exclusions and Absenteeism, Co-PI (UTK sub-contract: $308,262), *Institute for Education Sciences*
 
-Quantifying the Robustness of Causal Inferences: Extensions and Applications, Institute for Education Sciences, Co-PI (UTK sub-contract: $68,960), *Institute foe Education Sciences*
+Quantifying the Robustness of Causal Inferences: Extensions and Applications, Institute for Education Sciences, Co-PI (UTK sub-contract: $68,960), *Institute for Education Sciences*
 
 # Fellowships and Awards
 
