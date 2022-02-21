@@ -832,6 +832,14 @@ Brian Arnold
 
 ### Campus and Departmental Presentations
 
+Bui, H., Dyer, E., & Rosenberg, J. M. (2021, November). *Teachers’ familiarity with the new CS standards and their readiness to implement the subject*. Presentation at the Undergraduate Research Experience and Creative Activity Open House, Middle Tennessee State University. 
+
+Bui, H., Dyer, E., & Rosenberg, J. M. (2021, November). *Level of barriers in CS implementation of TN elementary and middle school teachers vs national high school teachers*. Presentation at the Undergraduate Research Experience and Creative Activity Open House, Middle Tennessee State University. 
+
+Bui, H., Dyer, E., & Rosenberg, J. M. (2021, November). *The application of IRT in analyzing teachers’ responses about Computer Science implementation*. Presentation at the Undergraduate Research Experience and Creative Activity Open House, Middle Tennessee State University. 
+
+Thomas, T., & Rosenberg, J. M. (2021, August). *Exploring racism in the context of K-12 educational institutions’ social media posts*. 7th Annual Discovery day, University of Tennessee, Knoxville.
+
 Rosenberg, J. M. (2020, January). *Multiple uses for multi-level models: Examples from recent research*. Presentation for the College of Education, Health, and Human Sciences Quantitative Methods Brownbag Seminar, Knoxville, TN.
 
 Rutherford, T., & Rosenberg, J. M. (2019, February). *Motivational correlates of choice after failure within an elementary mathematics software*. Presentation at the NC State College of Education Celebration of Research.
@@ -949,6 +957,15 @@ Research Methods with Diverse Groups Advanced Training Institute, American Psych
 2021-, Co-host, *About Practice* podcast, https://anchor.fm/about-practice
 
 2018-2019, Co-host, *Impodster Syndrome* podcast, https://drive.google.com/drive/folders/1fwSaEKt9QzJPUlf-CYVVwPgN-pKBaAkW?usp=sharing
+
+### Public Engagement
+
+Dyer, E. B., Reid, J., & Rosenberg, J. M. (2021, January 7). Science Education & Democracy [Synchronous Twitter Chat]. #NGSSchat.
+
+Dyer, E. B., McKenna, T. J., & Rosenberg, J. M. (2020, December 3). Who are the Experts Here? [Synchronous Twitter Chat]. #NGSSchat.
+
+Rosenberg, J. M., McKenna, T. J., & Dyer, E. B. (2020, June 18). Exploring the Impact of Our
+Community [Synchronous Twitter Chat]. #NGSSchat. https://wke.lt/w/s/rqTNhr
 
 ### Professional Affiliations
 

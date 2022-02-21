@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.2.12)  15 FEB 2022 10:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.2.20)  20 FEB 2022 20:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -620,35 +620,35 @@ Underfull \hbox (badness 10000) in paragraph at lines 1788--1790
 [24] [25]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1946.
+(hyperref)                than one, level fixed on input line 1969.
 
-[26]
+[26] [27]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 2031.
+(hyperref)                than one, level fixed on input line 2054.
 
-[27]
-Overfull \hbox (0.21835pt too wide) in paragraph at lines 2087--2089
+[28]
+Overfull \hbox (0.21835pt too wide) in paragraph at lines 2110--2112
 []\T1/lmr/m/n/10 (-20) 2018-2019, Co-host, \T1/lmr/m/it/10 (-20) Im-pod-ster Syn-drome \T1/lmr/m/n/10 (-20) pod-cast, []$https : / / drive . google . com / drive / folders / 1fwSaEKt9QzJPUlf -[]
  []
 
-[28] (./rosenberg-cv.aux)
+[29] (./rosenberg-cv.aux)
 Package rerunfilecheck Info: File `rosenberg-cv.out' has not changed.
-(rerunfilecheck)             Checksum: 7C6848283E43F329CF4084A0ABACAC2C;9634.
+(rerunfilecheck)             Checksum: 1C30114316D45D97E272B457EDF0318B;9779.
  ) 
 Here is how much of TeX's memory you used:
- 13168 strings out of 480238
- 211304 string characters out of 5894844
- 540427 words of memory out of 5000000
- 30567 multiletter control sequences out of 15000+600000
+ 13171 strings out of 480238
+ 211234 string characters out of 5894270
+ 542469 words of memory out of 5000000
+ 30569 multiletter control sequences out of 15000+600000
  529774 words of font info for 173 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  60i,12n,63p,1016b,436s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb>
-Output written on rosenberg-cv.pdf (28 pages, 263622 bytes).
+Output written on rosenberg-cv.pdf (29 pages, 265295 bytes).
 PDF statistics:
- 619 PDF objects out of 1000 (max. 8388607)
- 572 compressed objects within 6 object streams
- 134 named destinations out of 1000 (max. 500000)
- 31145 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 629 PDF objects out of 1000 (max. 8388607)
+ 581 compressed objects within 6 object streams
+ 137 named destinations out of 1000 (max. 500000)
+ 31153 words of extra memory for PDF output out of 35830 (max. 10000000)
 

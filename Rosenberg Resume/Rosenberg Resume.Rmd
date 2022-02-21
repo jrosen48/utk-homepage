@@ -1,4 +1,5 @@
 ---
+title: CV
 name: Marie
 surname: Curie
 position: "Professor"
@@ -10,7 +11,10 @@ twitter: mariecurie
 github: mariecurie
 linkedin: mariecurie
 date: "`r format(Sys.time(), '%B %Y')`"
-output: vitae::moderncv
+aboutme: "Marie is a Polish and naturalized-French physicist and chemist who conducts pioneering research on radioactivity."
+output: 
+  vitae::markdowncv:
+    theme: kjhealy
 ---
 
 ```{r setup, include=FALSE}
@@ -18,13 +22,13 @@ knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 library(vitae)
 ```
 
-# Some stuff about me
+## Some stuff about me
 
  * I poisoned myself doing research.
  * I was the first woman to win a Nobel prize
  * I was the first person and only woman to win a Nobel prize in two different sciences.
 
-# Education
+## Education
 
 ```{r}
 library(tibble)
@@ -37,7 +41,7 @@ tribble(
   detailed_entries(Degree, Year, Institution, Where)
 ```
 
-# Nobel Prizes
+## Nobel Prizes
 
 ```{r}
 tribble(
@@ -52,13 +56,9 @@ tribble(
   )
 ```
 
-# Publications
+## Publications
 
 ```{r}
-library(dplyr)
-knitr::write_bib(c("vitae", "tibble"), "packages.bib")
 
-bibliography_entries("packages.bib") %>%
-  arrange(desc(author$family), issued)
 ```
 
