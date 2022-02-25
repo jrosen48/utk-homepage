@@ -181,6 +181,9 @@ Rosenberg, J. M., Kubsch, M., Wagenmakers, E.-J., & Dogucu, M. (in press). Makin
 \+Michela, E., Rosenberg, J., Kimmons, R., \+Sultana, O., ^Burchfield, M. A., & ^Thomas, T. (2022). "We are trying to communicate the best we can": Understanding districts’ communication on Twitter during the COVID-19 pandemic. *AERA Open, 8*, 1-18. https://doi.org/10.1177/23328584221078542
 
 \hangindent=2em
+Trout Fryxell, R. T., Camponovo, M., Smith, B., Butefish, K., Rosenberg, J. M., Andsager, J. L., ... & Willis, M. P. (2022). Development of a community-driven mosquito surveillance program for vectors of La Crosse virus to educate, inform, and empower a community. *Insects, 13*(2), 164. https://www.mdpi.com/2075-4450/13/2/164
+
+\hangindent=2em
 Rutherford, T., Duck, K., Rosenberg, J. M., & Patt, R. (2022). Leveraging mathematics software data to understand student learning and motivation during the COVID-19 pandemic. *Journal of Research on Technology in Education, 54*(1), 94-131. https://www.tandfonline.com/doi/full/10.1080/15391523.2021.1920520
 
 \hangindent=2em
