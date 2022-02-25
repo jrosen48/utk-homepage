@@ -1,0 +1,298 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+% Awesome CV LaTeX Template for CV/Resume
+%
+% This template has been downloaded from:
+% https://github.com/posquit0/Awesome-CV
+%
+% Author:
+% Claud D. Park <posquit0.bj@gmail.com>
+% http://www.posquit0.com
+%
+%
+% Adapted to be an Rmarkdown template by Mitchell O'Hara-Wild
+% 23 November 2018
+%
+% Template license:
+% CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+%
+%-------------------------------------------------------------------------------
+% CONFIGURATIONS
+%-------------------------------------------------------------------------------
+% A4 paper size by default, use 'letterpaper' for US letter
+\documentclass[11pt, a4paper]{awesome-cv}
+
+% Configure page margins with geometry
+\geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=1.8cm, footskip=.5cm}
+
+% Specify the location of the included fonts
+\fontdir[fonts/]
+
+% Color for highlights
+% Awesome Colors: awesome-emerald, awesome-skyblue, awesome-red, awesome-pink, awesome-orange
+%                 awesome-nephritis, awesome-concrete, awesome-darknight
+
+\colorlet{awesome}{awesome-red}
+
+% Colors for text
+% Uncomment if you would like to specify your own color
+% \definecolor{darktext}{HTML}{414141}
+% \definecolor{text}{HTML}{333333}
+% \definecolor{graytext}{HTML}{5D5D5D}
+% \definecolor{lighttext}{HTML}{999999}
+
+% Set false if you don't want to highlight section with awesome color
+\setbool{acvSectionColorHighlight}{true}
+
+% If you would like to change the social information separator from a pipe (|) to something else
+\renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
+
+\def\endfirstpage{\newpage}
+
+%-------------------------------------------------------------------------------
+%	PERSONAL INFORMATION
+%	Comment any of the lines below if they are not required
+%-------------------------------------------------------------------------------
+% Available options: circle|rectangle,edge/noedge,left/right
+
+\name{Joshua}{Rosenberg}
+
+\position{Assistant Professor, STEM Education}
+
+\email{\href{mailto:jmrosen48@gmail.com}{\nolinkurl{jmrosen48@gmail.com}}}
+\homepage{joshuamrosenberg.com}
+\github{jrosen48}
+\twitter{jrosenberg6432}
+
+% \gitlab{gitlab-id}
+% \stackoverflow{SO-id}{SO-name}
+% \skype{skype-id}
+% \reddit{reddit-id}
+
+
+\usepackage{booktabs}
+
+\providecommand{\tightlist}{%
+	\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+%------------------------------------------------------------------------------
+
+
+
+% Pandoc CSL macros
+\newlength{\cslhangindent}
+\setlength{\cslhangindent}{1.5em}
+\newlength{\csllabelwidth}
+\setlength{\csllabelwidth}{3em}
+\newenvironment{CSLReferences}[3] % #1 hanging-ident, #2 entry spacing
+ {% don't indent paragraphs
+  \setlength{\parindent}{0pt}
+  % turn on hanging indent if param 1 is 1
+  \ifodd #1 \everypar{\setlength{\hangindent}{\cslhangindent}}\ignorespaces\fi
+  % set entry spacing
+  \ifnum #2 > 0
+  \setlength{\parskip}{#2\baselineskip}
+  \fi
+ }%
+ {}
+\usepackage{calc}
+\newcommand{\CSLBlock}[1]{#1\hfill\break}
+\newcommand{\CSLLeftMargin}[1]{\parbox[t]{\csllabelwidth}{#1}}
+\newcommand{\CSLRightInline}[1]{\parbox[t]{\linewidth - \csllabelwidth}{#1}}
+\newcommand{\CSLIndent}[1]{\hspace{\cslhangindent}#1}
+
+\begin{document}
+
+% Print the header with above personal informations
+% Give optional argument to change alignment(C: center, L: left, R: right)
+\makecvheader
+
+% Print the footer with 3 arguments(<left>, <center>, <right>)
+% Leave any of these blank if they are not needed
+% 2019-02-14 Chris Umphlett - add flexibility to the document name in footer, rather than have it be static Curriculum Vitae
+\makecvfooter
+  {December 2020}
+    {Joshua Rosenberg~~~·~~~Curriculum Vitae}
+  {\thepage}
+
+
+%-------------------------------------------------------------------------------
+%	CV/RESUME CONTENT
+%	Each section is imported separately, open each file in turn to modify content
+%------------------------------------------------------------------------------
+
+
+
+\hypertarget{highlights}{%
+\section{Highlights}\label{highlights}}
+
+\begin{itemize}
+\tightlist
+\item
+  Experienced computational social scientist and data scientist
+\item
+  Develop of open-source software, including three R packages on CRAN
+\item
+  Manager of an educational data science research group with three NSF
+  grants
+\end{itemize}
+
+\hypertarget{experience}{%
+\section{Experience}\label{experience}}
+
+\begin{cventries}
+    \cventry{Assistant Professor, STEM Education}{University of Tennessee}{Knoxville, TN}{2018-Present}{\vspace{-4mm}}
+\end{cventries}
+
+\hypertarget{education}{%
+\section{Education}\label{education}}
+
+\begin{cventries}
+    \cventry{PhD, Educational Psychology and Educational Technology}{Michigan State University}{East Lansing, MI}{2018}{\vspace{-4mm}}
+    \cventry{MA, Education}{Michigan State University}{East Lansing, MI}{2014}{\vspace{-4mm}}
+    \cventry{BS, Biology}{University of North Carolina, Asheville}{Asheville, NC}{2012}{\vspace{-4mm}}
+\end{cventries}
+
+\hypertarget{external-funding}{%
+\section{External Funding}\label{external-funding}}
+
+\hypertarget{grants}{%
+\section{Grants}\label{grants}}
+
+2019-2021, Principle Investigator (PI), \emph{Understanding the
+development of interest in computer science: An experience sampling
+approach} (\$346,688). National Science Foundation {[}NSF{]}.
+\url{http://picsul.utk.edu/} (NSF Grant
+No.~\href{https://www.nsf.gov/awardsearch/showAward?AWD_ID=1937700\&HistoricalAwards=false}{1937700})
+
+2019-2021, Co-PI, \emph{CS for Appalachia: A research-practice
+partnership for integrating computer science into East Tennessee
+schools} (\$252,453; \emph{PI}: Lynn Hodge, University of Tennessee,
+Knoxville). NSF. (NSF Grant
+No.~\href{https://www.nsf.gov/awardsearch/showAward?AWD_ID=1923509\&HistoricalAwards=false}{1923509})
+
+2019-2022, Co-PI, \emph{Advancing computational grounded theory for
+audiovisual data from STEM classrooms} (\$1,313,855; \emph{PI}:
+Christina Krist, University of Illinois Urbana-Champaign; University of
+Tennessee, Knoxville subcontract: \$101,469). NSF.
+\url{https://tca2.education.illinois.edu/} (NSF Grant
+No.~\href{https://www.nsf.gov/awardsearch/showAward?AWD_ID=1920796\&HistoricalAwards=false}{1920796})
+
+2019-2020, PI, \emph{Planting the seeds for computer science education
+in East Tennessee through a research-practice partnership} (\$13,200).
+Community Engaged Research Seed Program, University of Tennessee,
+Knoxville.
+
+\hypertarget{select-publications}{%
+\section{Select Publications}\label{select-publications}}
+
+\hangindent=2em Estrellado, R. A., Freer, E. A., Mostipak, J.,
+Rosenberg, J. M., \& Velásquez, I. C. (in press). Data science in
+education using R. London, England: Routledge. Nb. All authors
+contributed equally. \url{http://www.datascienceineducation.com/}
+
+\hangindent=2em Rosenberg, J. M., Reid, J., Dyer, E., Koehler, M. J.,
+Fischer, C., \& McKenna, T. J. (in press). Idle chatter or compelling
+conversation? The potential of the social media-based \#NGSSchat network
+as a support for science education reform efforts. \emph{Journal of
+Research in Science Teaching}.
+
+\hangindent=2em Anderson, D. J., Rowley, B., Stegenga, S., Irvin, P. S.,
+\& Rosenberg, J. M. (advance online publication). Evaluating
+content-related validity evidence using a text-based, machine learning
+procedure. Educational Measurement: Issues and Practice.
+\url{https://onlinelibrary.wiley.com/doi/abs/10.1111/emip.12314}
+
+\hangindent=2em Greenhalgh, S. P., Rosenberg, J. M., Koehler, M. J.,
+Akcaoglu, M., \& Staudt Willet, K. B. (2020). Identifying multiple
+learning spaces within a single teacher-focused Twitter hashtag.
+Computers \& Education, 148(4).
+\url{https://doi.org/10.1016/j.compedu.2020.103809}
+
+\hangindent=2em Xu, R., Frank, K. A., Maroulis, S., \& Rosenberg, J. M.
+(2019). konfound: Command to quantify robustness of causal inferences.
+The Stata Journal, 19(3), 523-550.
+
+\hangindent=2em Rosenberg, J. M., van Lissa, C. J., Beymer, P. N.,
+Anderson, D. J., Schell, M. J. \& Schmidt, J. A. (2019). tidyLPA: Easily
+carry out Latent Profile Analysis (LPA) using open-source or commercial
+software {[}R package{]}. \url{https://data-edu.github.io/tidyLPA/}
+
+\emph{See all publications here}:
+\url{https://joshuamrosenberg.com/about/\#publications}
+
+\hypertarget{select-presentations}{%
+\section{Select Presentations}\label{select-presentations}}
+
+\hangindent=2em Rosenberg, J. M., Qinyun, L., Xu, R., Maroulis, S., \&
+Frank, K. A. (July, 2020). \emph{The konfound R package and Shiny app
+for robustness analysis}. Presentation at the useR conference,
+St.~Louis, MO.
+
+\hangindent=2em Rosenberg, J. M., Beymer, P. N., Phun, V., Schmidt, J.
+A. (2020, April). Sources of variability for students' engagement in
+science: Findings from a cross-classified, multivariate modeling
+approach. In P. N. Beymer, D. K. Benden, \& M. L. Bernacki (Chairs),
+\emph{Affordances and modeling of intensive data}. Symposium conducted
+at the American Educational Research Association Annual Meeting, San
+Francisco, CA.
+
+\hangindent=2em Rosenberg, J. M, Beymer, P. N., Houslay, T. M., \&
+Schmidt, J. A. (2019, April). Using a multivariate, multi-level model to
+understand how youths' in-the-moment engagement predicts changes in
+youths' interest. In M. Bernacki, A. Kaplan, and L. Linnenbrink-Garcia
+(Chairs), \emph{Embracing and modeling the complex dynamics of
+motivation and engagement: Contextual, temporal, dynamic, and
+systematic}. Symposium conducted at the Annual Meeting of the American
+Educational Research Association, Toronto, CA.
+
+\emph{See all presentations here}:
+\url{https://joshuamrosenberg.com/about/\#presentations}
+
+\hypertarget{software-developed}{%
+\section{Software Developed}\label{software-developed}}
+
+\hypertarget{r-packages-on-the-comprehensive-r-archive-network-cran}{%
+\subsection{R packages on the Comprehensive R Archive Network
+(CRAN)}\label{r-packages-on-the-comprehensive-r-archive-network-cran}}
+
+Rosenberg, J. M., van Lissa, C. J., Beymer, P. N., Anderson, D. J.,
+Schell, M. J. \& Schmidt, J. A. (2019). \emph{tidyLPA: Easily carry out
+Latent Profile Analysis (LPA) using open-source or commercial software}
+{[}R package{]}. \url{https://data-edu.github.io/tidyLPA/}
+
+Rosenberg, J. M., Xu, R., \& Frank, K. A. (2019). \emph{konfound:
+Quantify the robustness of causal inferences} {[}R package{]}.
+\url{https://jrosen48.github.io/konfound/}
+
+Rosenberg, J. M., Schmidt, J. A., Beymer, P. N., \& Steingut, R. (2018).
+\emph{prcr: Person-Centered Analysis} {[}R package{]}.
+\url{https://CRAN.R-project.org/package=prcr}
+
+\hypertarget{r-packages-on-github}{%
+\subsection{R packages on GitHub}\label{r-packages-on-github}}
+
+Estrellado, R. A., Bovee, E. A., Mostipak, J., Rosenberg, J. M., \&
+Velásquez, I. C. (2019). \emph{dataedu: Package for Data Science in
+Education Using R}. \url{https://github.com/data-edu/dataedu}
+
+Anderson, D. Heiss, A., and Rosenberg, J. M. (2019). \emph{equatiomatic:
+Transform Models into LaTeX Equations.}
+\url{https://github.com/datalorax/equatiomatic}
+
+\hypertarget{interactive-web-application}{%
+\subsection{Interactive Web
+Application}\label{interactive-web-application}}
+
+Rosenberg, J. M., Xu, R., \& Frank, K. A. (2019). \emph{Konfound-It!:
+Quantify the robustness of causal inferences.}
+\url{http://konfound-it.com}.
+
+\hypertarget{web-application}{%
+\subsection{Web Application}\label{web-application}}
+
+Lishinski, A., \& Rosenberg, J. M. (2019). \emph{Short message survey:
+An open-source, text-message based application for the experience
+sampling method.} \url{https://github.com/picsul/short-message-survey}
+
+\end{document}

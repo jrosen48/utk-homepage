@@ -1,7 +1,7 @@
 ---
 name: Joshua
 surname: Rosenberg
-position: "Assistant Professor of STEM Education and Data Scientist"
+position: "Assistant Professor of STEM Education"
 address: "1328 Beacon Hill Ln., Knoxville, TN 37919"
 phone: "+1 865-236-1445"
 www: joshuarosenberg.com
@@ -15,47 +15,66 @@ output: vitae::moderncv
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 library(vitae)
+library(tidyverse)
 ```
 
 # Highlights
 
-- 
+- **Researcher** drawing on and contributing to data science education, the learning sciences, and computing education
+- **Author** of more than 40 journal articles in leading educational research and social science journals
+- **Principal Investigator** for more than 4M in federally-funded research projects, including an National Science Foundation-funded project on combining human and machine-driven approaches to the analysis of classroom audiovisual data
+- **Mentor** to graduate and undergraduate students in computer science, data science, and education
+- **Data scientist** developing open-source software for learners and researchers
 
-# Education
+# Professional Affiliation
 
 ```{r}
-library(tibble)
 tribble(
   ~ Degree, ~ Year, ~ Institution, ~ Where,
-  "Informal studies", "1889-91", "Flying University", "Warsaw, Poland",
-  "Master of Physics", "1893", "Sorbonne Université", "Paris, France",
-  "Master of Mathematics", "1894", "Sorbonne Université", "Paris, France"
+  "Assistant Professor of STEM Education", "2018-Present", "University of Tennessee", "Knoxville, TN",
 ) %>% 
   detailed_entries(Degree, Year, Institution, Where)
 ```
 
-# Nobel Prizes
+# Education
 
 ```{r}
 tribble(
-  ~Year, ~Type, ~Desc,
-  1903, "Physics", "Awarded for her work on radioactivity with Pierre Curie and Henri Becquerel",
-  1911, "Chemistry", "Awarded for the discovery of radium and polonium"
+  ~ Degree, ~ Year, ~ Institution, ~ Where,
+  "PhD, Educational Psychology & Educational Technology", "2018", "Michigan State University", "East Lansing, MI",
+  "MA, Educational Technology", "2012", "Michigan State University", "East Lansing, MI",
+  "BS, Biology", "2010", "University of North Carolina, Asheville", "Asheville, NC",
 ) %>% 
-  brief_entries(
-    glue::glue("Nobel Prize in {Type}"),
-    Year, 
-    Desc
-  )
+  detailed_entries(Degree, Year, Institution, Where)
 ```
 
-# Publications
+# Awards and Fellowships (Selected)
 
 ```{r}
-library(dplyr)
-knitr::write_bib(c("vitae", "tibble"), "packages.bib")
+tribble(
+  ~ Award, ~ Year, ~ Institution, ~ Where,
+  "Early Career Award", "2022", "Technology as an Agent of Change Special Interest Group", "American Educational Research Association",
+  "Best Poster Award", "2021", "Best Poster Award", "International Conference on Educational Data Mining",
+  "Fellowship", "2021-2022", "Open Educational Resources (OER) Research", "William and Flora Hewlett Foundation"
+) %>% 
+  detailed_entries(Award, Year, Institution, Where)
+```
 
-bibliography_entries("packages.bib") %>%
-  arrange(desc(author$family), issued)
+# Grants (Selected)
+
+```{r}
+tribble(
+  ~Role,  ~Years, ~ Title, ~Funder,
+  "PI","2019-2022",  "Understanding the development of interest in computer science: An experience sampling approach", "NSF ($348,688)",
+  "Co-PI", "2019-2022", "Advancing computational grounded theory for audiovisual data from STEM classrooms", "NSF ($1,313,855)",
+) %>% 
+    detailed_entries(Role, Years,  Title, Funder)
+```
+
+# Publications (Selected)
+
+```{r}
+bibliography_entries("publications.bib") %>%
+  arrange(issued)
 ```
 

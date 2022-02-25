@@ -120,9 +120,11 @@ C.D. Owen High School, Swannanoa, NC
 
 # Grants 
 
-**$4,243,331; $3,160,570 as Principal Investigator [PI], Co-PI, or Co-Investigator [Co-I])**
+**$5,142,650; $4,059,889 as Principal Investigator [PI], Co-PI, or Co-Investigator [Co-I])**
 
 ## PI, Co-PI, and Co-I 
+
+2022-2025, Co-PI, *Quantifying the robustness of causal inferences: Extensions and applications*. ($899,319.13; *PI*: Kenneth Frank, Michigan State University; UTK subcontract: $68,960). Institute of Education Sciences. 
 
 2021-2022, PI, *Not only for scientists and engineers: Advancing Bayesian methods for pre-collegiate learners* ($1,991), Supplemental funding to NSF Grant No. [193770](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1937700&HistoricalAwards=false) (Dear Colleague Letter: Research Collaboration Opportunity in Europe for NSF Awardees). National Science Foundation. 
 
@@ -132,9 +134,9 @@ C.D. Owen High School, Swannanoa, NC
 
 2019-2021, PI, *Understanding the development of interest in computer science: An experience sampling approach* ($346,688). National Science Foundation [NSF]. http://picsul.utk.edu/ (NSF Grant No. [1937700](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1937700&HistoricalAwards=false))
 
-2019-2021, Co-PI, *CS for Appalachia: A research-practice partnership for integrating computer science into East Tennessee schools* ($252,453; *PI*: Lynn Hodge, University of Tennessee, Knoxville). NSF. (NSF Grant No. [1923509](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1923509&HistoricalAwards=false))
+2019-2021, Co-PI, *CS for Appalachia: A research-practice partnership for integrating computer science into East Tennessee schools* ($252,453; *PI*: Lynn Hodge, UTK). NSF. (NSF Grant No. [1923509](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1923509&HistoricalAwards=false))
 
-2019-2022, Co-PI, *Advancing computational grounded theory for audiovisual data from STEM classrooms* ($1,313,855; *PI*: Christina Krist, University of Illinois Urbana-Champaign; University of Tennessee, Knoxville [UTK] subcontract: $101,469). NSF. https://tca2.education.illinois.edu/ (NSF Grant No. [1920796](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1920796&HistoricalAwards=false))
+2019-2022, Co-PI, *Advancing computational grounded theory for audiovisual data from STEM classrooms* ($1,313,855; *PI*: Christina Krist, University of Illinois Urbana-Champaign; UTK subcontract: $101,469). NSF. https://tca2.education.illinois.edu/ (NSF Grant No. [1920796](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1920796&HistoricalAwards=false))
 
 2019-2020, PI, *Planting the seeds for computer science education in East Tennessee through a research-practice partnership*  ($13,200). Community Engaged Research Seed Program, UTK.
 
@@ -215,21 +217,26 @@ Quantifying the Robustness of Causal Inferences: Extensions and Applications, In
 |Open Science Framework Repository|<img src = "/logos/osf.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
 |Google Scholar Entry|<img src = "/logos/google-scholar-1.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>|
 
-\+ Denotes a collaboration with a mentee who is a graduate student
-^ Denotes a collaboration with a mentee who is an undergraduate student
+\+ Denotes a collaboration with a mentee who is a graduate student  
+^ Denotes a collaboration with a mentee who is an undergraduate student  
 
 ## Book (1)
 
 \hangindent=2em
 Estrellado, R. A., Freer, E. A.,  Mostipak, J., Rosenberg, J. M., & Velásquez, I. C. (2020). *Data science in education using R*. London, England: Routledge. *Nb.* All authors contributed equally. http://www.datascienceineducation.com/ <a href="https://github.com/data-edu/data-science-in-education"><img src = "/logos/github.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
 
-## Articles Published in Refereed Journals (38)
+## Articles In Press (1)
 
 \hangindent=2em
 Rosenberg, J. M., Kubsch, M., Wagenmakers, E.-J., & Dogucu, M. (in press). Making sense of uncertainty in the science classroom: A Bayesian approach. *Science & Education*. https://osf.io/aznyq/
 
+## Articles Published in Refereed Journals (37)
+
 \hangindent=2em
-\+Michela, E., Rosenberg, J., Kimmons, R., \+Sultana, O., ^Burchfield, M. A., & ^Thomas, T. (in press). "We are trying to communicate the best we can": Understanding districts’ communication on Twitter during the COVID-19 pandemic. *AERA Open*
+\+Michela, E., Rosenberg, J., Kimmons, R., \+Sultana, O., ^Burchfield, M. A., & ^Thomas, T. (2022). "We are trying to communicate the best we can": Understanding districts’ communication on Twitter during the COVID-19 pandemic. *AERA Open, 8*, 1-18. https://doi.org/10.1177/23328584221078542
+
+\hangindent=2em
+Rutherford, T., Duck, K., Rosenberg, J. M., & Patt, R. (2022). Leveraging mathematics software data to understand student learning and motivation during the COVID-19 pandemic. *Journal of Research on Technology in Education, 54*(1), 94-131. https://www.tandfonline.com/doi/full/10.1080/15391523.2021.1920520
 
 \hangindent=2em
 Aguilar, S. J., Rosenberg, J., Greenhalgh, S., Fütterer, T., Lishinski, A., & Fischer, C. (2021). A different experience in a different moment? Teachers’ social media use before and during the COVID-19 pandemic. *AERA Open, 7*, 1-17. https://doi.org/10.31219/osf.io/37pab
@@ -238,22 +245,19 @@ Aguilar, S. J., Rosenberg, J., Greenhalgh, S., Fütterer, T., Lishinski, A., & F
 \+Lawson, M. A., Herrick, I., R., & Rosenberg, J. M. (2021). Better together: Mathematics and science pre-service teachers’ sensemaking about STEM. *Educational Technology & Society, 24*(4), 180–192.
 
 \hangindent=2em
-Schweinsburg, M., ... Luis, S. (advance online publication). Same data, different conclusions: Radical dispersion in empirical results. *Organizational Behavior and Human Decision Processes.* https://www.sciencedirect.com/science/article/pii/S0749597821000200 (*Nb.* I was an author and contributor to this large-scale, collaborative project.)
+Schweinsburg, M., ... Luis, S. (2021). Same data, different conclusions: Radical dispersion in empirical results. *Organizational Behavior and Human Decision Processes, 165*(7), 228-249. https://www.sciencedirect.com/science/article/pii/S0749597821000200 (*Nb.* I was an author and contributor to this large-scale, collaborative project.)
 
 \hangindent=2em
-Rutherford, T., Duck, K., Rosenberg, J. M., & Patt, R. (advance online publication). Leveraging mathematics software data to understand student learning and motivation during the COVID-19 pandemic. *Journal of Research on Technology in Education*. https://www.tandfonline.com/doi/full/10.1080/15391523.2021.1920520
+Greenhalgh, S. P., Rosenberg, J. M., & Russell, A. (2021). The influence of policy and context on teachers’ social media use. *The British Journal of Educational Technology, 52*(5), 2020-2037. https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.13096?af=R
 
 \hangindent=2em
-Ranellucci, J., Robinson, K., Rosenberg, J. M., Lee, Y.-K., Roseth, C., & Linnenbrink-Garcia. (advance online publication). Comparing the roles and correlates of emotions in class and during online video lectures in a flipped anatomy classroom. *Contemporary Educational Psychology*. https://doi.org/10.1016/j.cedpsych.2021.101966
-
-\hangindent=2em
-Frank, K. A., Lin, Q., Maroulis, S., Strassman, A., Xu, R., Rosenberg, J. M., Hayter, C., Mahmoud, R., Kolak, M., Dietz, T., & Zhang, L. (advance online publication). Hypothetical case replacement can be used to quantify the robustness of trial results. *Journal of Clinical Epidemiology*. https://www.sciencedirect.com/science/article/pii/S0895435621000366 (*N.B.:* I was a scientific programmer for this project).
-
-\hangindent=2em
-Greenhalgh, S. P., Rosenberg, J. M., & Russell, A. (advance online publication). The influence of policy and context on teachers’ social media use. *The British Journal of Educational Technology*. https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.13096?af=R
+Frank, K. A., Lin, Q., Maroulis, S., Strassman, A., Xu, R., Rosenberg, J. M., Hayter, C., Mahmoud, R., Kolak, M., Dietz, T., & Zhang, L. (2021). Hypothetical case replacement can be used to quantify the robustness of trial results. *Journal of Clinical Epidemiology, 134*(6), 150-159. https://www.sciencedirect.com/science/article/pii/S0895435621000366 (*N.B.:* I was a scientific programmer for this project).
 
 \hangindent=2em
 Rosenberg, J. M., ^Borchers, C., Dyer, E., Anderson, D. J., & Fischer, C. (2021). Advancing new methods for understanding public sentiment about educational reforms: The case of Twitter and the Next Generation Science Standards. *AERA Open*, 1-17. https://journals.sagepub.com/doi/10.1177/23328584211024261
+
+\hangindent=2em
+Ranellucci, J., Robinson, K., Rosenberg, J. M., Lee, Y.-K., Roseth, C., & Linnenbrink-Garcia. (2021). Comparing the roles and correlates of emotions in class and during online video lectures in a flipped anatomy classroom. *Contemporary Educational Psychology, 64*(4), 1-15. https://doi.org/10.1016/j.cedpsych.2021.101966
 
 \hangindent=2em
 Akcaoglu, M., Rosenberg, J. M., Hodges, C. B., Hilpert, J. (2021). An exploration of factors impacting middle school students’ attitudes toward computer programming. *Computers in the Schools. 38*(1), 19-35. https://doi.org/10.1080/07380569.2021.1882209
@@ -339,10 +343,10 @@ Rosenberg, J. M., Terry, C. A., Bell, J., Hiltz, V., & Russo, T. (2016). Design 
 \hangindent=2em
 Rosenberg, J. M., & Koehler, M. J. (2015). Context and Technological Pedagogical Content Knowledge (TPACK): A systematic review. *Journal of Research on Technology in Education, 47*, 186-210. http://dx.doi.org/10.1080/15391523.2015.1052663 <a href = "/pre-prints/rosenberg-koehler-2015-jrte.pdf"><img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> <a href="https://scholar.google.com/citations?user=nxVowRQAAAAJ&hl=en#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DnxVowRQAAAAJ%26citation_for_view%3DnxVowRQAAAAJ%3AKxtntwgDAa4C%26tzom%3D300"><img src = "/logos/google-scholar-1.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
 
-## Editor-Reviewed Articles Published in Journals (7)
+## Editor-Reviewed Articles Published in Journals (8)
 
 \hangindent=2em
-Kimmons, R., Rosenberg, J., & Allman, B. (2021). Trends and Topics in Educational Technology, 2022 Edition. *TechTrends*.
+Kimmons, R., Rosenberg, J.M. (2022). Trends and topics in educational technology, 2022 Edition. *TechTrends*. https://doi.org/10.1007/s11528-022-00713-0
 
 \hangindent=2em
 Frank K.A., Lin Q., Maroulis S., Mueller A.S., Xu R., Rosenberg J.M., Hayter C.S., Mahmoud R.A., Kolak M., Dietz T., Zhang L. (2022). Response to "Three Comments on the RIR method". Journal of Clinical Epidemiology. https://pubmed.ncbi.nlm.nih.gov/35131466/
@@ -367,13 +371,21 @@ Phillips, M., Harris, J., Rosenberg, J. M., & Koehler, M. J. (2017). TPCK/TPACK 
 
 ## Articles Under Review (5)
 
-Jones. R. S., & Rosenberg, J. M. (under review). Characterizing whole class discussions about data and statistics with conversation profile analysis. *Journal of Mathematical Behavior.*
+Rosenberg, J. M., Schultheis, E., Kjelvik, M., Reedy, A., & \+Sultana, O. (Accept pending minor revisions). Big data, big changes? A survey of K-12 science teachers in the United States on which data sources and tools they use in the classroom. *British Journal of Educational Technology.* https://edarxiv.org/tv4zg/
+
+Jones. R. S., & Rosenberg, J. M. (Revise & Resubmit). Characterizing whole class discussions about data and statistics with conversation profile analysis. *Journal of Mathematical Behavior.*
 
 Kubsch, M., Krist, C., & Rosenberg, J. M. (under review). Distributing Epistemic Functions and Tasks - A framework for augmenting human analytic power with machine learning in science education research. *Journal of Research in Science Teaching*. https://osf.io/sg9jk/
 
-Rosenberg, J. M., Schultheis, E., Kjelvik, M., Reedy, A., & \+Sultana, O. (under review). Big data, big cahnges? A survey of K-12 science teachers in the United States on which data sources and tools they use in the classroom. *British Journal of Educational Technology.* https://edarxiv.org/tv4zg/
-
 Rosenberg, J. M., Beymer, P. N., Phun, V., & Schmidt, J. A. (under review). The sources of variation for learners’ situational engagement: An investigation using intensive longitudinal methods. *International Journal of Educational Research*. https://osf.io/pj2v8/
+
+Carpenter, J., Morrison, S., Rosenberg, J. M., & Hawthorne, K. (under review). Building pre-service teachers’ professional learning networks with a program-wide Twitter hashtag. *Teaching & Teacher Education*.
+
+## Pre-prints (2)
+
+Rosenberg, J., ^Borchers, C., ^Burchfield, M. A., Anderson, D., Stegenga, S. M., & Fischer, C. (under review). Schools share students’ personally identifiable information on Facebook. Intending to submit to *Educational Researcher*. https://doi.org/10.35542/osf.io/j89pf
+
+Rosenberg, J. M. (under review). Facebook as data: A Primer for educational technology researchers. Intending to submit to *Information & Learning Sciences*. https://edarxiv.org/274yv/
 
 ## Contributions to Edited Volumes (10)
 
@@ -876,6 +888,7 @@ MSU-AT&T Instructional Technology Award (Honorable Mention): Best Online Course,
 Instructor at the University of Tennessee, Knoxville:
 
 *Introduction to Data Science Methods in Education* (https://making-data-science-count.github.io/s21-intro-to-data-sci-methods-in-ed/index.html; TPTE 595 & TPTE 695, M.A. and Ph.D. class)  
+*Studying Digital Learning Environments and Networks* (TPTE 595 & TPTE 695, M.A. and Ph.D. class)  
 *Nature of Mathematics and Science Education* (SCED 572,  M.A. and Ph.D. class)  
 *Teaching Science in Grades 7-12* (TPTE 495, SCED 496, & SCED 543,  B.S. & M.A. class)  
 *VolsTeach Step 1 and Step 2* (TPTE 110 & TPTE 120, undergraduate-level class)
@@ -899,9 +912,9 @@ Teaching Assistant at Michigan State University:
 
 Editorial Review Board Member, *Journal of Research in Science Teaching*, 2019-2022
 
-Editorial Review Board Member, *Contemporary Issues in Technology and Teacher Education (Science Education Section)*, 2019 - Present
-
 Editorial Review Board Member, *Journal of Research on Technology in Education*, 2016 - Present
+
+Editorial Review Board Member, *Contemporary Issues in Technology and Teacher Education (Science Education Section)*, 2019 - Present
 
 Special Issue Editor, *Australasian Journal of Educational Technology*, 2017
 
@@ -956,7 +969,7 @@ Reviewer, Proposals from Knox County Schools students for the NASA Student Space
 ### Ad-hoc Journal Article Reviews
 
 + AERA Open (2019, 2020)  
-+ Australasian Journal of Educational Technology (20blog18: 2)  
++ Australasian Journal of Educational Technology (2018: 2)  
 + British Journal of Educational Technology (2016)  
 + Computers & Education (2016, 2017, 2018, 2020)  
 + Contemporary Educational Psychology (2018)  
@@ -982,23 +995,23 @@ Reviewer, Proposals from Knox County Schools students for the NASA Student Space
 
 ### University service
 
-2021-2023, Data Science Faculty Committee, UTK
+2021-2023, Data Science Faculty Committee, UTK  
 
 ### College-related Service 
 
-2021, Search Committee Member, Tenure Track positions in Learning Design and Technology and Instructional Technology, *Department of Educational Psychology and Counseling*, UTK
+2021, Search Committee Member, Tenure Track positions in Learning Design and Technology and Instructional Technology, *Department of Educational Psychology and Counseling*, UTK  
 
-2020, Facilitator, Quality Research and Scholarship working group, UTK
+2020, Facilitator, Quality Research and Scholarship working group, UTK  
 
-2019, Member, Online Academic Programs Investment and Growth Plan ad-hoc committee, UTK
+2019, Member, Online Academic Programs Investment and Growth Plan ad-hoc committee, UTK  
 
-2018-2019, Organizer, Quantitative Methods Research Group, UTK
+2018-2019, Organizer, Quantitative Methods Research Group, UTK  
 
 ### Departmental Service 
 
 *University of Tennessee, Knoxville*
 
-2021-, Institutional Review Board Departmental Representative (Quantitative), TPTE, UTK
+2021-, Institutional Review Board Departmental Representative (Quantitative), TPTE, UTK  
 
 2021-, Communications Committee, TPTE, UTK  
 
@@ -1014,14 +1027,19 @@ Search Committee Member, Program Specialist, Master of Arts in Educational Techn
 
 Advisor for Doctoral students: 
 
-Jennifer Longnecker (Co-advisor with Amy Broemmel)  
-Michael Mann (co-advisor with Kristin Rearden)  
-Omiya Sultana (co-advisor with Lynn Hodge)
+Jennifer Longnecker (graduated 2021; co-advisor with Amy Broemmel)    
+Michael Mann (co-advisor with Kristin Rearden)    
+Omiya Sultana (co-advisor with Lynn Hodge)  
+Amanda Hendricks
 
 Committee member for Doctoral students: 
 
 Shande King  
-Matthew Hensley   
+Matthew Hensley  
+Anthony Schmidt (Department of Educational Psychology & Counseling, UTK)  
+Maryrose Weatherton (Department of Ecology and Evolutionary Biology, UTK)  
+Donna Wortham (Educational Leadership & Policy Studies, UTK)  
+Sarah Narvaiz (Department of Educational Psychology & Counseling, UTK)  
 
 *Michigan State University*
 

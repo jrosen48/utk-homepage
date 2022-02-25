@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.2.20)  20 FEB 2022 20:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.2.20)  24 FEB 2022 20:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -157,7 +157,15 @@ LaTeX Info: Redefining \lslig on input line 897.
 Package microtype Info: Loading configuration file microtype.cfg.
 (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/microtype/microtype.cfg
 File: microtype.cfg 2021/12/10 v3.0b microtype main configuration file (RS)
-)) (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/xcolor/xcolor.sty
+)) (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/parskip/parskip.sty
+Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
+(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+) (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))) (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
 (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
@@ -177,9 +185,7 @@ Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
 ) (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
-(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
-Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-) (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
 (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
@@ -187,8 +193,6 @@ Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-) (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
-Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 ) (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 ) (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/generic/pdfescape/pdfescape.sty
@@ -199,8 +203,6 @@ Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 ) (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/auxhook/auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
-) (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/kvoptions/kvoptions.sty
-Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 )
 \@linkdim=\dimen149
 \Hy@linkcounter=\count274
@@ -460,103 +462,29 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 [1
 
 {/Users/joshuarosenberg/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16]
-Underfull \hbox (badness 10000) in paragraph at lines 1402--1408
+Underfull \hbox (badness 10000) in paragraph at lines 1430--1436
 []$\T1/lmr/m/n/10 (+20) https : / / www . pechakucha . com / presentations / insights -[] on -[] the -[] current -[] and -[] preferred -[] integration -[] of -[]
  []
 
-[17] [18] [19]
+[17] [18]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1613.
+(hyperref)                than one, level fixed on input line 1641.
 
+[19]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1656.
+(hyperref)                than one, level fixed on input line 1686.
 
 [20]
-Overfull \hbox (26.06761pt too wide) in paragraph at lines 1736--1738
+Overfull \hbox (26.06761pt too wide) in paragraph at lines 1766--1768
 \T1/lmr/m/n/10 (-20) Mentor, Di-ver-sity in Learn-ing An-a-lyt-ics and Lead-er-ship pro-gram, []$https : / / www . diversityindataandleadershipprogram .
  []
 
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1749.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1779.
 (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-Underfull \hbox (badness 10000) in paragraph at lines 1749--1751
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1751--1753
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1753--1755
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1755--1757
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1757--1759
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1759--1761
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1761--1763
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1763--1765
-
- []
-
-[21]
-Underfull \hbox (badness 10000) in paragraph at lines 1765--1767
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1767--1769
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1769--1771
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1771--1773
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1773--1775
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1775--1777
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1777--1779
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 1779--1781
 
  []
@@ -596,38 +524,113 @@ Underfull \hbox (badness 10000) in paragraph at lines 1793--1795
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 1795--1797
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1797--1799
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1799--1801
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1801--1803
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1803--1805
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1805--1807
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1807--1809
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1809--1811
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1811--1813
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1813--1815
+
+ []
+
+[21]
+Underfull \hbox (badness 10000) in paragraph at lines 1815--1817
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1817--1819
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1819--1821
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1821--1823
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1823--1825
+
+ []
+
 [22] [23]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1974.
+(hyperref)                than one, level fixed on input line 2011.
 
 [24]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 2059.
+(hyperref)                than one, level fixed on input line 2096.
 
 [25]
-Overfull \hbox (0.21835pt too wide) in paragraph at lines 2115--2117
+Overfull \hbox (0.21835pt too wide) in paragraph at lines 2152--2154
 []\T1/lmr/m/n/10 (-20) 2018-2019, Co-host, \T1/lmr/m/it/10 (-20) Im-pod-ster Syn-drome \T1/lmr/m/n/10 (-20) pod-cast, []$https : / / drive . google . com / drive / folders / 1fwSaEKt9QzJPUlf -[]
  []
 
 [26] (./rosenberg-cv.aux)
 Package rerunfilecheck Info: File `rosenberg-cv.out' has not changed.
-(rerunfilecheck)             Checksum: DCCB40342609DC2C01C8DB67838B5CAC;10062.
+(rerunfilecheck)             Checksum: D37E3367FDCDA5FD955313B9D3BC3CD4;10375.
  ) 
 Here is how much of TeX's memory you used:
- 12935 strings out of 480238
- 206718 string characters out of 5894270
- 536774 words of memory out of 5000000
- 30345 multiletter control sequences out of 15000+600000
+ 12982 strings out of 480238
+ 207900 string characters out of 5894270
+ 538607 words of memory out of 5000000
+ 30385 multiletter control sequences out of 15000+600000
  529774 words of font info for 173 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 60i,6n,63p,1009b,424s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,6n,63p,1009b,434s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb>
-Output written on rosenberg-cv.pdf (26 pages, 261569 bytes).
+Output written on rosenberg-cv.pdf (26 pages, 263096 bytes).
 PDF statistics:
- 631 PDF objects out of 1000 (max. 8388607)
- 586 compressed objects within 6 object streams
- 139 named destinations out of 1000 (max. 500000)
- 31169 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 645 PDF objects out of 1000 (max. 8388607)
+ 600 compressed objects within 6 object streams
+ 143 named destinations out of 1000 (max. 500000)
+ 31185 words of extra memory for PDF output out of 35830 (max. 10000000)
 
