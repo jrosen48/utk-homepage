@@ -269,7 +269,7 @@ Akcaoglu, M., Rosenberg, J. M., Hodges, C. B., Hilpert, J. (2021). An exploratio
 Rosenberg, J. M., & Krist, C. (2021). Combining machine learning and qualitative methods to elaborate students’ ideas about the generality of their model-based explanations. *Journal of Science Education and Technology, 30*(2), 255-267.  https://link.springer.com/article/10.1007%2Fs10956-020-09862-4. *Nb.* Both authors contributed equally. <a href = "https://joshuamrosenberg.com/post-prints/rosenberg-krist-jost.pdf"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
 \hangindent=2em
-Rosenberg, J. M., & Staudt Willet, K. B. (2021). Balancing participants’ privacy and open science in the context of COVID-19: A response to Ifenthaler & Schumacher (2016). *Educational Technology Research & Development, 69*(1), 347-351. <a href = "https://www.jmichaelrosenberg.com/post-prints/rosenberg-staudt-willet-2020.pdf"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
+Rosenberg, J. M., & Staudt Willet, K. B. (2021). Balancing participants’ privacy and open science in the context of COVID-19: A response to Ifenthaler & Schumacher (2016). *Educational Technology Research & Development, 69*(1), 347-351. <a href = "https://www.joshuamrosenberg.com/post-prints/rosenberg-staudt-willet-2020.pdf"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
 \hangindent=2em
 Harper, F. K., Rosenberg, J. M., ^Comperry, S., ^Howell, K., & ^Womble, S. (2021). #Mathathome during the COVID-19 Pandemic: Exploring and reimagining resources and social supports for parents. *Education Sciences, 11*(2), 60, 1-24. https://www.mdpi.com/2227-7102/11/2/60 <a href = "https://www.mdpi.com/2227-7102/11/2/60/pdf"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
@@ -1145,7 +1145,7 @@ Rosenberg, J. M., Xu, R., & Frank, K. A. (2019). *Konfound-It!: Quantify the rob
 
 Rosenberg, J. M., & Krist, C. (2019). *Generality embedded assessment classifier.* https://faast.shinyapps.io/generality-shiny
 
-Rosenberg, J. M. (2019). *How many (MCMC) cores?* https://jmichaelrosenberg.shinyapps.io/how-many-cores/
+Rosenberg, J. M. (2019). *How many (MCMC) cores?* https://joshuamrosenberg.shinyapps.io/how-many-cores/
 
 ### Other Projects
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.2.20)  25 FEB 2022 08:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.2.20)  26 FEB 2022 22:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -621,7 +621,7 @@ Package rerunfilecheck Info: File `rosenberg-cv.out' has not changed.
 Here is how much of TeX's memory you used:
  12982 strings out of 480238
  207900 string characters out of 5894270
- 537607 words of memory out of 5000000
+ 538607 words of memory out of 5000000
  30385 multiletter control sequences out of 15000+600000
  529774 words of font info for 173 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
