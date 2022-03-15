@@ -20,11 +20,11 @@ library(tidyverse)
 
 # Highlights
 
-- **Researcher** drawing on and contributing to data science education, the learning sciences, and computing education
-- **Author** of more than 40 journal articles in leading educational research and social science journals
-- **Principal Investigator** for more than 4M in federally-funded research projects, including an National Science Foundation-funded project on combining human and machine-driven approaches to the analysis of classroom audiovisual data
-- **Mentor** to graduate and undergraduate students in computer science, data science, and education
-- **Data scientist** developing open-source software for learners and researchers
+- Established research agenda at the intersection of computational and machine learning methods and social science (particularly educational research)
+- Experienced data scientist and developer of statistical software for data analysts, educators, and learners
+- Principal Investigator for more than 4M in federally-funded research projects
+- Author of a book on educational data science and 37 peer-reviewed journal articles
+- Mentor to and supervisor for students in computer science, data science, and education
 
 # Professional Affiliation
 
@@ -53,7 +53,7 @@ tribble(
 ```{r}
 tribble(
   ~ Award, ~ Year, ~ Institution, ~ Where,
-  "Early Career Award", "2022", "Technology as an Agent of Change Special Interest Group", "American Educational Research Association",
+  "Early Career Award", "2022", "Technology as an Agent of Change for Teaching and Learning Special Interest Group, AERA",
   "Best Poster Award", "2021", "Best Poster Award", "International Conference on Educational Data Mining",
   "Fellowship", "2021-2022", "Open Educational Resources (OER) Research", "William and Flora Hewlett Foundation"
 ) %>% 
@@ -65,8 +65,9 @@ tribble(
 ```{r}
 tribble(
   ~Role,  ~Years, ~ Title, ~Funder,
+    "Co-PI", "2022-2025", "Quantifying the robustness of causal inferences: Extensions and applications", "Institute for Educaiton Sciences ($899,319)",
   "PI","2019-2022",  "Understanding the development of interest in computer science: An experience sampling approach", "NSF ($348,688)",
-  "Co-PI", "2019-2022", "Advancing computational grounded theory for audiovisual data from STEM classrooms", "NSF ($1,313,855)",
+  "Co-PI", "2019-2022", "Advancing computational grounded theory for audiovisual data from STEM classrooms", "NSF ($1,313,855)"
 ) %>% 
     detailed_entries(Role, Years,  Title, Funder)
 ```
@@ -75,6 +76,13 @@ tribble(
 
 ```{r}
 bibliography_entries("publications.bib") %>%
+  arrange(issued)
+```
+
+# Software Developed (Selected)
+
+```{r}
+bibliography_entries("software.bib") %>%
   arrange(issued)
 ```
 

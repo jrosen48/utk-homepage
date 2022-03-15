@@ -75,7 +75,7 @@ end_of_yml <- which(find_yml)[2]
 # cv_html <- append(cv_html, "```{r, echo = FALSE}", after = toc)
 # cv_html <- append(cv_html, "```", after = toc-1)
 
-cv_html <- append(cv_html, "PDF version: <a href = 'http://jmichaelrosenberg.com/rosenberg-cv.pdf'> <img src='/logos/pdf.png' style='width: 25px; height: 25px;'/></a>", after = end_of_yml)
+cv_html <- append(cv_html, "PDF version: <a href = 'http://joshuamrosenberg.com/rosenberg-cv.pdf'> <img src='/logos/pdf.png' style='width: 25px; height: 25px;'/></a>", after = end_of_yml)
 
 cv_html <- cv_html[cv_html!="\\begin{center}"]
 cv_html <- cv_html[cv_html!="\\end{center}"]
