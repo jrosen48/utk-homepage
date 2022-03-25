@@ -619,7 +619,10 @@ Jones, R. S., & Rosenberg, J. M. (February, 2019). *Latent class modeling of who
 
 +Lawson, M., Rosenberg, J. M., & Camponovo, M. (February, 2019). *Better together? Findings from a combined, integrated STEM unit with pre-service mathematics and science teachers*. Presentation at the 13th Annual Tennessee STEM Education Research Conference, Murfreesboro, TN.
 
-## Workshops (16)
+## Workshops (17)
+
+Rosenberg, J. M. & D'Angelo, C. (2022, March). *An Introduction to Data
+Science in Science Education Using R*. National Association for Research in Science Teaching. Nb.* This session was sponsored by the Contemporary Methods Research Interest Group (RIG).
 
 Kellogg, S., Jiang, S., Moore, R., & Rosenberg, J. M. (2021, August). *A LASER Focus on Understanding and Improving STEM Education*. Partnerships for Expanding STEM Education Research in STEM (AERA & ICPSR). https://github.com/laser-institute/aera-workshop
 
@@ -851,6 +854,8 @@ Alex Lishinski
 Brian Arnold  
 
 ### Campus and Departmental Presentations
+
+Rosenberg, J. M. (2022, March). *What is the role of data science in K-12 (pre-collegiate) teaching and learning?* Data Science and Statistics Seminar Series, Department of Mathematics, UTK. https://joshuamrosenberg.com/post/2022/03/24/what-is-the-role-of-data-science-in-k-12-teaching-and-learning/
 
 Bui, H., Dyer, E., & Rosenberg, J. M. (2021, November). *Teachers’ familiarity with the new CS standards and their readiness to implement the subject*. Presentation at the Undergraduate Research Experience and Creative Activity Open House, Middle Tennessee State University. 
 
