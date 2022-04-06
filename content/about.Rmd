@@ -121,9 +121,11 @@ C.D. Owen High School, Swannanoa, NC
 
 # Grants 
 
-**$5,142,650; $4,059,889 as Principal Investigator [PI], Co-PI, or Co-Investigator [Co-I])**
+**$5,152,650; $4,064,889 as Principal Investigator [PI], Co-PI, or Co-Investigator [Co-I])**
 
 ## PI, Co-PI, and Co-I 
+
+2022-2023, Co-PI, *Launching a Micro-credential in Educational Data Analytics* ($10,000; with *Co-PI* Louis Rocconi). University of Tennessee, Knoxville's College of Education, Health, and Human Sciences Strategic Investment Program. 
 
 2022-2025, Co-PI, *Quantifying the robustness of causal inferences: Extensions and applications*. ($899,319.13; *PI*: Kenneth Frank, Michigan State University; UTK subcontract: $68,960). Institute of Education Sciences. 
 
@@ -658,7 +660,9 @@ Rosenberg, J. M. (2017, April). *Introduction to R for Data Analysis*. Presentat
 
 Rosenberg, J. M. (March, 2016). *An introduction to R for programming and statistical analysis in education*. Georgia Southern University College of Education, Statesboro, GA.
 
-# Outreach and Engagement (10)
+# Outreach and Engagement (11)
+
+Rosenberg, J. M., & Narvaiz, S. (2022, April). What is data science and what do data scientists do? A presentation at L&N STEM Academy (L&N STEM Career Connections presentation and presentation to two AP Computer Science Principles courses). https://tinyurl.com/stem-data-sci
 
 Rosenberg, J. M. (2021, November). Analyzing and interpreting scientific data with DataClassroom. Knox County Schools District Learning Day. https://joshuamrosenberg.com/kcs-dld-2021-11-02-analyzing-scientific-data.pdf
 
@@ -717,11 +721,11 @@ Teaching Assistant at Michigan State University:
 
 ### Editorial Service
 
-Editorial Review Board Member, *Journal of Research in Science Teaching*, 2019-2022
-
 Editorial Review Board Member, *Journal of Research on Technology in Education*, 2016 - Present
 
 Editorial Review Board Member, *Contemporary Issues in Technology and Teacher Education (Science Education Section)*, 2019 - Present
+
+Editorial Review Board Member, *Journal of Research in Science Teaching*, 2019-2022  
 
 Special Issue Editor, *Australasian Journal of Educational Technology*, 2017
 
@@ -768,6 +772,8 @@ Reviewer, Association for Educational Communications and Technology (AECT) Inter
 Reviewer, American Psychological Association (APA) Convention, 2015
 
 ### Service to the Community
+
+Mentor, TN Promise (2022-2023; mentor to four college-going students)  
 
 Mentor, Diversity in Learning Analytics and Leadership program, https://www.diversityindataandleadershipprogram.com/
 
