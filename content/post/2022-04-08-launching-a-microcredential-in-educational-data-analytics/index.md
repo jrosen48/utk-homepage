@@ -11,7 +11,7 @@ tags:
 
 I'm excited to be launching a microcredential (a non-credit bearing credential granted by the University) in educational data analytics with my colleague at UTK, [Louis Rocconi](https://epc.utk.edu/people/louis-rocconi-phd/).
 
-We had the idea for this and pitched it for our College's program that allowed faculty to request funds for projects that support the College's Strategic Vision and Diversity Action Plan. Here is what we proposed:
+We had the idea for this and pitched it for our [College's](https://cehhs.utk.edu/) program that allowed faculty to request funds for projects that support the College's [Strategic Vision](https://cehhs.utk.edu/wp-content/uploads/sites/15/2021/04/CEHHS-Strategic-Vision.pdf) and [Diversity Action Plan](https://cehhs.utk.edu/diversity-action-plan/). Here is what we proposed:
 
 > The proposed project is the development of a microcredential offered through the College of Education, Health, and Human Sciences  (CEHHS) in data science and statistics. The microcredential will be entitled “Getting Started in Educational Data Analytics Using R”. The audience for the microcredential will be educational leaders and analysts, graduate students in CEHHS and across the University of Tennessee, Knoxville (UTK) looking to get started with R, and individuals from the wider community seeking out a gentle introduction to analytics, R, and data analytics.
 
@@ -21,4 +21,4 @@ We had the idea for this and pitched it for our College's program that allowed f
 
 > This will be the first in what we hope will be a series of microcredentials focused on data science and statistics; future microcredentials can build on this initial offering and can support recruitment efforts and the pursuit of external funding through agencies such as the National Science Foundation and the Institute for Education Sciences.  Future credentials include data science topics such as Wrangling Data With R, Data Visualization for Publications and Presentations Using ggplot2, and Using RMarkdown Documents for Reporting, and specific statistical and computational methods such as Exploring Bivariate Relationships, Introduction to Regression Models, and Social Network Analysis.
 
-Our goal is for the microcredential to be available September, 2022. Thanks to Louis for being a great collaborator on this and to our College and Department for supporting it. 
+Our goal is for the microcredential to be available September, 2022. Thanks to Louis for being a great collaborator on this and to our College and Department for supporting it.
