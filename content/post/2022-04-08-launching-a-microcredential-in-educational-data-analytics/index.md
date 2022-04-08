@@ -9,7 +9,11 @@ tags:
   - r
 ---
 
-I'm excited to be launching a microcredential (a non-credit bearing credential granted by the University) in educational data analytics with my colleague at UTK, [Louis Rocconi](https://epc.utk.edu/people/louis-rocconi-phd/).
+I'm excited to be launching a microcredential (a non-credit bearing credential granted by the University) in educational data analytics with my colleague at UTK, [Louis Rocconi](https://epc.utk.edu/people/louis-rocconi-phd/). A nice description of microcredentials is available [here](https://www.nea.org/professional-excellence/professional-learning/micro-credentials); in brief:
+
+> A micro-credential is a short, competency-based recognition that allows an educator to demonstrate mastery in a particular area.
+
+These don't just apply to educators; a common microcredential in the data science world is the [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science) offered through Johns Hopkins University/Coursera; many data scientists got their start with the statistical software and programming language R through these (awesome) courses that lead to a non-credit bearing certificate. 
 
 We had the idea for this and pitched it for our [College's](https://cehhs.utk.edu/) program that allowed faculty to request funds for projects that support the College's [Strategic Vision](https://cehhs.utk.edu/wp-content/uploads/sites/15/2021/04/CEHHS-Strategic-Vision.pdf) and [Diversity Action Plan](https://cehhs.utk.edu/diversity-action-plan/). Here is what we proposed:
 
