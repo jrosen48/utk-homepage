@@ -18,11 +18,11 @@ Several things came together in my mind to make me decide that I needed to reset
 
 - Observing a friend quietly step back from social media 
 - Trying multiple times over the past year to take breaks from Twitter, to return days or weeks later
-- Writing posts that were more antagonistic in nature and feeling very tied to what kinds of response those posts received
-- Having several counterproductive debates on Twitter, a few in the context of antagonistic posts
+- Talking with friends/colleagues who studied social media, which made me think about how my social media feeds had inadvertently become "highlight reels"
+- Noticing that when I took a few days off from social media, I seemed to be able to "catch up" fairly quickly, though had I not taken that break, I would have checked many more times
 - Noticing that I started to think about personal or professional achievements or milestones in the context of being able to share about them on Facebook or Twitter (in contrast to enjoying the achievement or milestones independent of sharing)
-- Discussing social media with my spouse and realizing that social media had become a source of anxiety and even dread to a greater extent than it was a source of whimsy, relaxation, and enjoyment
-- Recognizing that simply stepping back from social media had not worked well for me in the past; I seem to have an addictive personality with respect to information (in point of fact, I check my email constantly when I can, even on weekends and vacations)
+- Discussing social media with my spouse and realizing that social media had become a source of anxiety (and even dread!) to a greater extent than it was a source of whimsy, discovery, and enjoyment, as it had (has?) been
+- Recognizing that simply stepping back from social media had not worked well for me in the past; I seem to have an addictive personality with respect to information and receiving positive social feedback (in point of fact, I check my email constantly when I can, even on weekends and vacations)
 - Being at a point in my life at which I felt like I wanted to build capital in other ways (i.e., in my neighborhood and community and with family and friends) and having the sense that how I used social media was at odds with that
 - Constantly thinking about what I'd post on social media and what others would think
 - Wanting to try to think and work more deeply and conscientiously
