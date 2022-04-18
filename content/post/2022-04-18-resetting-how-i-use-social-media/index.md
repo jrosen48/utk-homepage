@@ -19,7 +19,7 @@ Several things came together in my mind to make me decide that I needed to reset
 - Observing a friend quietly step back from social media 
 - Trying multiple times over the past year to take breaks from Twitter, to return days or weeks later
 - Writing posts that were more antagonistic in nature and feeling very tied to what kinds of response those posts received
-- Having several counterproductive debates on Twitter, a few in the context of antagonostic posts
+- Having several counterproductive debates on Twitter, a few in the context of antagonistic posts
 - Noticing that I started to think about personal or professional achievements or milestones in the context of being able to share about them on Facebook or Twitter (in contrast to enjoying the achievement or milestones independent of sharing)
 - Discussing social media with my spouse and realizing that social media had become a source of anxiety and even dread to a greater extent than it was a source of whimsy, relaxation, and enjoyment
 - Recognizing that simply stepping back from social media had not worked well for me in the past; I seem to have an addictive personality with respect to information (in point of fact, I check my email constantly when I can, even on weekends and vacations)
@@ -33,7 +33,7 @@ I'm not trying to convince others to do the same. Everyone is different; others 
 
 ## The positives
 
-There is a cost to this. I am in touch with many people personaly and professionally almost entirely through social media. Social media has been meaningful to me; many collaborations and true friendships (that I maintain off social media) were sparked through it. I've used Twitter since 2006. It is hugely important to me and my identity. But, the weight of the reasons _for me_ (many of these are idiosyncratic) pointed toward needing to reset.
+There is a cost to this. I am in touch with many people personally and professionally almost entirely through social media. Social media has been meaningful to me; many collaborations and true friendships (that I maintain off social media) were sparked through it. I've used Twitter since 2006. It is hugely important to me and my identity. But, the weight of the reasons _for me_ (many of these are idiosyncratic) pointed toward needing to reset.
 
 ## How to stay in touch?
 
@@ -43,6 +43,7 @@ I thought about stepping back quietly - isn't that the entire point, rather than
     - I recommend subscribing to RSS "feeds" via [Feedly](https://feedly.com/)
 - Via [e-mail](https://joshuamrosenberg.substack.com/p/coming-soon?r=2l9ei&s=w&utm_campaign=post&utm_medium=web)
     - Click the above link to sign-up to a Substack newsletter and to receive an email when I post
+    - To be honest, I'm not super keen on Subsetack - I prefer RSS - but, the convenience is difficult to beat, so I decided to try this
 - By checking this URL (you can read my blog here!)
 - Of course, you can stay in touch in other ways - e-mail, call, visit, etc.
 
