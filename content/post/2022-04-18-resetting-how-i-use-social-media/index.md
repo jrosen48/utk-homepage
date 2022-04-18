@@ -9,8 +9,8 @@ tags: []
 
 ## tl;dr (too long didn't read)
 
-- **I'm going to step back from social media: Facebook and Twitter**
-- **I'm still going to post on my blog and you can stay in touch through subscribing [via RSS](https://t.co/K6L9fzs2OS) or via [e-mail](https://joshuamrosenberg.substack.com/p/coming-soon?r=2l9ei&s=w&utm_campaign=post&utm_medium=web)**
+- *I'm going to step back from social media: Facebook and Twitter*
+- *I'm still going to post on my blog and you can stay in touch through subscribing [via RSS](https://t.co/K6L9fzs2OS) or via [e-mail](https://joshuamrosenberg.substack.com/p/coming-soon?r=2l9ei&s=w&utm_campaign=post&utm_medium=web)*
 
 ## The negatives
 
@@ -44,5 +44,6 @@ I thought about stepping back quietly - isn't that the entire point, rather than
 - Via [e-mail](https://joshuamrosenberg.substack.com/p/coming-soon?r=2l9ei&s=w&utm_campaign=post&utm_medium=web)
     - Click the above link to sign-up to a Substack newsletter and to receive an email when I post
 - By checking this URL (you can read my blog here!)
+- Of course, you can stay in touch in other ways - e-mail, call, visit, etc.
 
 Stay in touch! 
