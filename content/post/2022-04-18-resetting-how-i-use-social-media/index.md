@@ -23,7 +23,7 @@ Several things came together in my mind to make me decide that I needed to reset
 - Noticing that I started to think about personal or professional achievements or milestones in the context of being able to share about them on Facebook or Twitter (in contrast to enjoying the achievement or milestones independent of sharing)
 - Discussing social media with my spouse and realizing that social media had become a source of anxiety (and even dread!) to a greater extent than it was a source of whimsy, discovery, and enjoyment, as it had (has?) been
 - Recognizing that simply stepping back from social media had not worked well for me in the past; I seem to have an addictive personality with respect to information and receiving positive social feedback (in point of fact, I check my email constantly when I can, even on weekends and vacations)
-- Being at a point in my life at which I felt like I wanted to build capital in other ways (i.e., in my neighborhood and community and with family and friends) and having the sense that how I used social media was at odds with that
+- Wanting to build capital in ways other than on social media; wanting to build capital with my neighbors, and local organizations, and friends and family, and those who I work with
 - Constantly thinking about what I'd post on social media and what others would think
 - Wanting to try to think and work more deeply and conscientiously
 - Realizing I probably spent on the order of 1-2 hours/day, at least in terms of the attention I spent to social media
