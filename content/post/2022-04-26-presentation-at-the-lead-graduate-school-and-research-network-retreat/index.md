@@ -9,4 +9,4 @@ tags: []
 
 I am happy to be able to join and present at the [LEAD Graduate School and Research Network](https://uni-tuebingen.de/forschung/forschungsschwerpunkte/lead-graduate-school-research-network/ueber-uns/veranstaltungen/) retreat. 
 
-Slides for my presentation are here: https://joshuamrosenberg.com/lead-retreat-presentation-2022-04-26.pdf
+Slides for my presentation are here: https://joshuamrosenberg.com/lead-retreat-presentation-2022-04-27.pdf
