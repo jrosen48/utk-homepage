@@ -7,4 +7,4 @@ categories: []
 tags: []
 ---
 
-A new draft chapter of Little Kids, Big Adventures is available. 
+A new draft chapter of Little Kids, Big Adventures is available. It is on Seven Islands State Birding Park, near Knoxville. See much more here: https://littlekidsbigadventures.com/seven-islands-loop-trail.html
