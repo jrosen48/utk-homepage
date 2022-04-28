@@ -19,6 +19,9 @@ It was. It has been a tremendous experience, personally and professionally. Some
 - Getting around Munich by train and taking the train from Munich to Tuebingen
 - Observing subtle but also notable differences in culture: how the Germans I've eaten with *always* clean their plates; how people are willing to disagree (constructively); how recycling is sorted
 - Exploring the location of the retreat center, in Untermarchtal
+
+![The view from the window of my room at the retreat center](images/PXL_20220428_051927612.MP.jpg)
+
 - Getting to know people outside of the presentations---including at a campfire (at which John Denver and similar songs were song---to my surprise!)
 
 I have more time on this journey to go, but I'll stop for now. Special thanks to my wife (with a hat tip to my mother-in-law who is visiting my wife!) for helping make this possible.
