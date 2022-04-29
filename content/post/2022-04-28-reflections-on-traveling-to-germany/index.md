@@ -8,7 +8,7 @@ categories:
 tags: []
 ---
 
-I had the opportunity to travel to Germany this past week. The cause was presenting at the [LEAD Graduate School and Research Network](https://uni-tuebingen.de/forschung/forschungsschwerpunkte/lead-graduate-school-research-network/ueber-uns/veranstaltungen/) at the University of Tuebingen's bi-annual retreat. My friend and colleague at that university invited me, and I was excited to accept the invitation. I presneted one of five [keynote presentations](https://joshuamrosenberg.com/post/2022/04/26/presentation-at-the-lead-graduate-school-and-research-network-retreat/).
+I had the opportunity to travel to Germany this past week. The cause was presenting at the [LEAD Graduate School and Research Network](https://uni-tuebingen.de/forschung/forschungsschwerpunkte/lead-graduate-school-research-network/ueber-uns/veranstaltungen/) at the University of Tuebingen's bi-annual retreat. My friend and colleague at that university, [Christian Fischer](https://uni-tuebingen.de/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-sozialwissenschaften/hector-institut-fuer-empirische-bildungsforschung/institut/personen/fischer-christian-prof-dr/), invited me, and I was excited to accept the invitation. I presented one of five [keynote presentations](https://joshuamrosenberg.com/post/2022/04/26/presentation-at-the-lead-graduate-school-and-research-network-retreat/).
 
 In the weeks and days before traveling, I had some mixed feelings about travel. Our son has had a cold for the past few weeks, which taxed us; the weather in Knoxville was beautiful; and it was a lot to ask my wife to do while I traveled. But, before traveling, I also anticipated that when I arrived, it would be worth it.
 
