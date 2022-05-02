@@ -7,6 +7,8 @@ categories: []
 tags: []
 ---
 
+*This is something like Part 3 of 3 (or, maybe Part 3 of more!). Here are [Part 1](https://joshuamrosenberg.com/post/2022/04/26/presentation-at-the-lead-graduate-school-and-research-network-retreat/) and [Part 2](https://joshuamrosenberg.com/post/2022/04/28/reflections-on-traveling-to-germany/), neither long.*
+
 I'm journeying home from Germany after a week away from home. It was an enriching trip, educational, enjoyable, even a bit restful (though I miss my son and wife very much).
 
 I'm going to keep this one short, mostly because I'm quite tired. Some reflections:
