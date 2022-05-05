@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.2.28)  6 APR 2022 09:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.24)  5 MAY 2022 08:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **rosenberg-cv.tex
 (./rosenberg-cv.tex
 LaTeX2e <2021-11-15> patch level 1
-L3 programming layer <2022-02-24> (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/base/article.cls
+L3 programming layer <2022-04-20> (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
 (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
@@ -131,7 +131,7 @@ Package: inputenc 2021/02/14 v1.3d Input encoding file
 ) (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 ) (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/microtype/microtype.sty
-Package: microtype 2022/02/22 v3.0c Micro-typographical refinements (RS)
+Package: microtype 2022/03/14 v3.0d Micro-typographical refinements (RS)
 (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks23
@@ -145,19 +145,19 @@ Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 LaTeX Info: Redefining \noprotrusionifhmode on input line 1027.
 LaTeX Info: Redefining \leftprotrusion on input line 1028.
 LaTeX Info: Redefining \rightprotrusion on input line 1036.
-LaTeX Info: Redefining \textls on input line 1200.
+LaTeX Info: Redefining \textls on input line 1195.
 \MT@outer@kern=\dimen148
-LaTeX Info: Redefining \textmicrotypecontext on input line 1786.
+LaTeX Info: Redefining \textmicrotypecontext on input line 1781.
 \MT@listname@count=\count273
 (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/microtype/microtype-pdftex.def
-File: microtype-pdftex.def 2022/02/22 v3.0c Definitions specific to pdftex (RS)
-LaTeX Info: Redefining \lsstyle on input line 897.
-LaTeX Info: Redefining \lslig on input line 897.
+File: microtype-pdftex.def 2022/03/14 v3.0d Definitions specific to pdftex (RS)
+LaTeX Info: Redefining \lsstyle on input line 900.
+LaTeX Info: Redefining \lslig on input line 900.
 \MT@outer@space=\skip52
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/microtype/microtype.cfg
-File: microtype.cfg 2022/02/22 v3.0c microtype main configuration file (RS)
+File: microtype.cfg 2022/03/14 v3.0d microtype main configuration file (RS)
 )) (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/parskip/parskip.sty
 Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
 (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/kvoptions/kvoptions.sty
@@ -311,7 +311,7 @@ Package graphics Info: Driver file: pdftex.def on input line 107.
 \Gin@req@height=\dimen161
 \Gin@req@width=\dimen162
 ) (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
+File: l3backend-pdftex.def 2022-04-20 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count287
 \l__pdf_internal_box=\box53
 )
@@ -456,38 +456,33 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 85.
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 101.
+(hyperref)                than one, level fixed on input line 99.
 
 [1
 
 {/Users/joshuarosenberg/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16]
-Underfull \hbox (badness 10000) in paragraph at lines 1442--1448
+Underfull \hbox (badness 10000) in paragraph at lines 1444--1450
 []$\T1/lmr/m/n/10 (+20) https : / / www . pechakucha . com / presentations / insights -[] on -[] the -[] current -[] and -[] preferred -[] integration -[] of -[]
  []
 
 [17] [18] [19]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1664.
+(hyperref)                than one, level fixed on input line 1666.
 
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1709.
+(hyperref)                than one, level fixed on input line 1711.
 
 [20]
-Overfull \hbox (26.06761pt too wide) in paragraph at lines 1791--1793
+Overfull \hbox (26.06761pt too wide) in paragraph at lines 1793--1795
 []\T1/lmr/m/n/10 (-20) Mentor, Di-ver-sity in Learn-ing An-a-lyt-ics and Lead-er-ship pro-gram, []$https : / / www . diversityindataandleadershipprogram .
  []
 
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1804.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1806.
 (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-Underfull \hbox (badness 10000) in paragraph at lines 1804--1806
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 1806--1808
 
  []
@@ -502,7 +497,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1810--1812
 
  []
 
-
+[21]
 Underfull \hbox (badness 10000) in paragraph at lines 1812--1814
 
  []
@@ -512,7 +507,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1814--1816
 
  []
 
-[21]
+
 Underfull \hbox (badness 10000) in paragraph at lines 1816--1818
 
  []
@@ -597,38 +592,43 @@ Underfull \hbox (badness 10000) in paragraph at lines 1848--1850
 
  []
 
-[22] [23]
+
+Underfull \hbox (badness 10000) in paragraph at lines 1850--1852
+
+ []
+
+[22] [23] [24]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 2041.
-
-[24]
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 2126.
+(hyperref)                than one, level fixed on input line 2049.
 
 [25]
-Overfull \hbox (0.21835pt too wide) in paragraph at lines 2182--2184
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 2134.
+
+
+Overfull \hbox (0.21835pt too wide) in paragraph at lines 2190--2192
 []\T1/lmr/m/n/10 (-20) 2018-2019, Co-host, \T1/lmr/m/it/10 (-20) Im-pod-ster Syn-drome \T1/lmr/m/n/10 (-20) pod-cast, []$https : / / drive . google . com / drive / folders / 1fwSaEKt9QzJPUlf -[]
  []
 
 [26] [27] (./rosenberg-cv.aux)
 Package rerunfilecheck Info: File `rosenberg-cv.out' has not changed.
-(rerunfilecheck)             Checksum: 8852C9C5696C26459538A0C8EBA1A8B2;10375.
+(rerunfilecheck)             Checksum: D09868B4C20F830232B9770AA2CDCAF9;10148.
  ) 
 Here is how much of TeX's memory you used:
- 12943 strings out of 480236
- 207300 string characters out of 5894213
- 539811 words of memory out of 5000000
- 30350 multiletter control sequences out of 15000+600000
+ 12957 strings out of 480193
+ 207996 string characters out of 5892299
+ 539954 words of memory out of 5000000
+ 30402 multiletter control sequences out of 15000+600000
  529774 words of font info for 173 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 60i,6n,63p,1009b,411s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,6n,63p,1009b,405s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb>
-Output written on rosenberg-cv.pdf (27 pages, 265556 bytes).
+Output written on rosenberg-cv.pdf (27 pages, 264898 bytes).
 PDF statistics:
- 655 PDF objects out of 1000 (max. 8388607)
- 608 compressed objects within 7 object streams
- 144 named destinations out of 1000 (max. 500000)
- 31185 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 643 PDF objects out of 1000 (max. 8388607)
+ 597 compressed objects within 6 object streams
+ 140 named destinations out of 1000 (max. 500000)
+ 31169 words of extra memory for PDF output out of 35830 (max. 10000000)
 
