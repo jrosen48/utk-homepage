@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.24)  5 MAY 2022 08:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.24)  6 MAY 2022 08:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -598,58 +598,83 @@ Underfull \hbox (badness 10000) in paragraph at lines 1839--1841
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 1841--1843
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1843--1845
+[24]
+Underfull \hbox (badness 10000) in paragraph at lines 1895--1897
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1845--1847
+Underfull \hbox (badness 10000) in paragraph at lines 1897--1899
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1847--1849
+Underfull \hbox (badness 10000) in paragraph at lines 1899--1901
 
  []
 
-[24] [25] [26]
+
+Underfull \hbox (badness 10000) in paragraph at lines 1909--1911
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1911--1913
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1913--1916
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1916--1919
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1919--1921
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1921--1924
+
+ []
+
+[25] [26]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 2046.
+(hyperref)                than one, level fixed on input line 2056.
 
 [27]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 2131.
+(hyperref)                than one, level fixed on input line 2141.
 
 [28]
-Overfull \hbox (0.21835pt too wide) in paragraph at lines 2187--2189
+Overfull \hbox (0.21835pt too wide) in paragraph at lines 2200--2202
 []\T1/lmr/m/n/10 (-20) 2018-2019, Co-host, \T1/lmr/m/it/10 (-20) Im-pod-ster Syn-drome \T1/lmr/m/n/10 (-20) pod-cast, []$https : / / drive . google . com / drive / folders / 1fwSaEKt9QzJPUlf -[]
  []
 
-[29] (./rosenberg-cv.aux)
+[29] [30] (./rosenberg-cv.aux)
 Package rerunfilecheck Info: File `rosenberg-cv.out' has not changed.
 (rerunfilecheck)             Checksum: 50910579910BC1B66F44A1F41018C69F;9865.
  ) 
 Here is how much of TeX's memory you used:
- 13192 strings out of 480193
- 212505 string characters out of 5892299
+ 13193 strings out of 480193
+ 212512 string characters out of 5892299
  544033 words of memory out of 5000000
  30626 multiletter control sequences out of 15000+600000
  529774 words of font info for 173 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 60i,12n,63p,1016b,451s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 60i,12n,63p,1016b,413s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb>
-Output written on rosenberg-cv.pdf (29 pages, 268458 bytes).
+Output written on rosenberg-cv.pdf (30 pages, 269033 bytes).
 PDF statistics:
- 636 PDF objects out of 1000 (max. 8388607)
- 588 compressed objects within 6 object streams
- 137 named destinations out of 1000 (max. 500000)
+ 640 PDF objects out of 1000 (max. 8388607)
+ 591 compressed objects within 6 object streams
+ 138 named destinations out of 1000 (max. 500000)
  31153 words of extra memory for PDF output out of 35830 (max. 10000000)
 

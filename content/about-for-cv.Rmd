@@ -119,13 +119,13 @@ C.D. Owen High School, Swannanoa, NC
 
 # Grants 
 
-**$5,152,650; $4,064,889 as Principal Investigator [PI], Co-PI, or Co-Investigator [Co-I])**
+**$5,189,417; $4,101,656 as Principal Investigator [PI], Co-PI, or Co-Investigator [Co-I])**
 
 ## PI, Co-PI, and Co-I 
 
 2022-2023, Co-PI, *Launching a Micro-credential in Educational Data Analytics* ($10,000; with *Co-PI* Louis Rocconi). University of Tennessee, Knoxville's College of Education, Health, and Human Sciences Strategic Investment Program. 
 
-2022-2025, Co-PI, *Quantifying the robustness of causal inferences: Extensions and applications*. ($899,319.13; *PI*: Kenneth Frank, Michigan State University; UTK subcontract: $68,960). Institute of Education Sciences. 
+2022-2025, Co-PI, *Quantifying the robustness of causal inferences: Extensions and applications*. ($899,319.13; *PI*: Kenneth Frank, Michigan State University; UTK subcontract: $105,727). Institute of Education Sciences. 
 
 2021-2022, PI, *Not only for scientists and engineers: Advancing Bayesian methods for pre-collegiate learners* ($1,991), Supplemental funding to NSF Grant No. [193770](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1937700&HistoricalAwards=false) (Dear Colleague Letter: Research Collaboration Opportunity in Europe for NSF Awardees). National Science Foundation. 
 
@@ -986,8 +986,6 @@ Reviewer, Proposals from Knox County Schools students for the NASA Student Space
 + British Journal of Educational Technology (2016)  
 + Computers & Education (2016, 2017, 2018, 2020)  
 + Contemporary Educational Psychology (2018)  
-+ Contemporary Issues in Technology and Teacher Education (2015)  
-+ Data (2021)  
 + Educational Researcher (2020)  
 + Educational Psychologist (2021)  
 + Education Sciences (2; 2019)  
@@ -996,9 +994,7 @@ Reviewer, Proposals from Knox County Schools students for the NASA Student Space
 + E-Learning and Digital Media (2016: 2)  
 + Journal of Educational Technology & Society (2017)  
 + Journal of the Learning Sciences (2019)  
-+ Journal of Open Source Education (2019)  
 + Journal of Open Source Software (2018; 2020)  
-+ Journal of Research in Science Teaching (2019)  
 + Journal of Science Education and Technology (2019: 2; 2020)  
 + Journal of STEM Education Research (2019)  
 + Science Education (2021)  
@@ -1024,6 +1020,10 @@ Reviewer, Proposals from Knox County Schools students for the NASA Student Space
 
 *University of Tennessee, Knoxville*
 
+2022, Peer Teaching Observer, TPTE, UTK
+
+2022-, STEM Education Seminar Series Ad-hoc Committee, TPTE, UTK
+
 2021-, Institutional Review Board Departmental Representative (Quantitative), TPTE, UTK  
 
 2021-, Communications Committee, TPTE, UTK  
@@ -1040,24 +1040,20 @@ Search Committee Member, Program Specialist, Master of Arts in Educational Techn
 
 Advisor for Doctoral students: 
 
-Jennifer Longnecker (graduated 2021; co-advisor with Amy Broemmel)    
-Michael Mann (co-advisor with Kristin Rearden)    
-Omiya Sultana (co-advisor with Lynn Hodge)  
-Amanda Hendricks
++ Jennifer Longnecker (graduated 2021; co-advisor with Amy Broemmel)  
++ Omiya Sultana (co-advisor with Mehmet Aydeniz)  
++ Amanda Hendricks  
++ Emily McDonald
 
 Committee member for Doctoral students: 
 
-Shande King  
-Matthew Hensley  
-Anthony Schmidt (Department of Educational Psychology & Counseling, UTK)  
-Maryrose Weatherton (Department of Ecology and Evolutionary Biology, UTK)  
-Donna Wortham (Educational Leadership & Policy Studies, UTK)  
-Sarah Narvaiz (Department of Educational Psychology & Counseling, UTK)  
-
-*Michigan State University*
-
-Alex Lishinski  
-Brian Arnold  
++ Shande King  (graduated 2020)   
++ Matthew Hensley (graduated 2021)  
++ Anthony Schmidt (Department of Educational Psychology & Counseling, UTK)  
++ Maryrose Weatherton (Department of Ecology and Evolutionary Biology, UTK)  
++ Donna Wortham (Educational Leadership & Policy Studies, UTK)  
++ Sarah Narvaiz (Department of Educational Psychology & Counseling, UTK)  
++ John Mooneyham (TPTE)  
 
 ### Campus and Departmental Presentations
 
@@ -1175,6 +1171,8 @@ I have contributed to a number of open-source projects by filing issues or makin
 
 ### Invited Participation in Workshops/Working Groups
 
+Participant, *Open Scholarship in Education small expert meeting*, Center for Open Science, 2022  
+
 Participant, *New applications of social network analysis to education policy: Building the capacity of the field*, Spencer Foundation, 2021
 
 Participant, *Data4Kids: Virtually teaching kids about data science*, Urban Institute, 2021
@@ -1226,4 +1224,5 @@ Community [Synchronous Twitter Chat]. #NGSSchat. https://wke.lt/w/s/rqTNhr
 
 American Educational Research Association, 2012 - Present  
 International Society of the Learning Sciences, 2014 - Present  
+Learning Analytics & Knowledge, 2020 - Present
 National Association for Research in Science Teaching, 2015 - Present  
