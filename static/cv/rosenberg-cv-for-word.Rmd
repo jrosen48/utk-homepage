@@ -209,7 +209,9 @@ C.D. Owen High School, Swannanoa, NC
 \+ Denotes a collaboration with a mentee who is a graduate student  
 ^ Denotes a collaboration with a mentee who is an undergraduate student  
 
-## Book (1)
+## Books (2)
+
+Rosenberg, K., & Rosenberg, J. M. (under contract). *Little Kids, Big Adventures: Exploring the Cumberland Plateau, Tennessee Valley, and Great Smoky Mountains With Kids*. Knoxville, TN: University of Tennessee Press. https://littlekidsbigadventures.com/
 
 Estrellado, R. A., Freer, E. A.,  Mostipak, J., Rosenberg, J. M., & Velásquez, I. C. (2020). *Data science in education using R*. London, England: Routledge. *Nb.* All authors contributed equally. http://www.datascienceineducation.com/ <a href="https://github.com/data-edu/data-science-in-education"><img src = "/logos/github.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
 
