@@ -84,3 +84,4 @@ cv_html <- cv_html[cv_html!="\\hangindent=2em"]
 cv_html <- cv_html[cv_html!="\\center"]
 cv_html <- cv_html[cv_html!="\\endgroup"]
 readr::write_lines(unlist(cv_html), "content/about.Rmd")
+rmarkdown::render("content/about.Rmd")
