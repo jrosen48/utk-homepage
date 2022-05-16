@@ -27,6 +27,8 @@ Rachel’s work is in instructional media, educational psychology, and the learn
 
 I'd be thrilled to work with each of these faculty. Being in the position to work as a team is a tremendous opportunity that I won't take for granted.
 
-We have amazing faculty in research and clinical positions, too—and, I have great colleagues in tenure-track roles, too, who deserve credit for helping us to become stronger. If there’s one area in which we could grow more, I think it would be in engineering/computer science education. Maybe I’ll have some positive news to share along those lines in the near future!
+We have amazing faculty in research and clinical positions, too—and, I have great colleagues in tenure-track roles who deserve credit for helping us to become stronger. A shout out to Frances, Mehmet, Kristin, Yolanda, Terri, Elizabeth M., Elizabeth D., Nick, and to Lynn, a STEM education colleague faculty member now as department chair.
+
+If there’s one area in which we could grow more, I think it would be in engineering/computer science education. Maybe I’ll have some positive news to share along those lines in the near future!
 
 In sum, now feels a bit like an adventure: what can we do as a bit of a super team that is also working well together? I’m hopeful about our ability to answer that question.
