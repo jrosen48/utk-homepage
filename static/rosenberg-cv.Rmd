@@ -145,7 +145,7 @@ C.D. Owen High School, Swannanoa, NC
 
 ## Senior Personnel
 
-2020-2023, Senior Personnel, *Learning analytics in STEM education research institute* ($933,150; *PI*, Shaun Kellogg, North Carolina State University; UTK subcontract: $54,691. National Science Foundation (NSF), [NSF Grant No. 2025090](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2025090&HistoricalAwards=false)
+2020-2023, Senior Personnel, *Learning analytics in STEM education research institute* ($933,150; *PI*, Shaun Kellogg, North Carolina State University; UTK subcontract: $62,870. National Science Foundation (NSF), [NSF Grant No. 2025090](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2025090&HistoricalAwards=false)
 
 2019-2022, Senior Personnel, *Medical entomology and geospatial analyses: Bringing innovation to teacher education and surveillance studies* ($149,611; *PI*: Rebecca Trout Fryxell). United States Department of Agriculture - Agriculture and Food Research Initiative. (USDA Grant No. 2019-68010-29119) https://www.megabitess.org/
 
@@ -206,7 +206,7 @@ C.D. Owen High School, Swannanoa, NC
 ## Books (2)
 
 \hangindent=2em
-Rosenberg, K., & Rosenberg, J. M. (under contract). *Little Kids, Big Adventures: Exploring the Cumberland Plateau, Tennessee Valley, and Great Smoky Mountains With Kids*. Knoxville, TN: University of Tennessee Press. https://littlekidsbigadventures.com/
+Rosenberg, K., & Rosenberg, J. M. (under contract). *Little Kids, Big Adventures: Exploring the Cumberland Plateau, Tennessee Valley, and Great Smoky Mountains With Kids*. Knoxville, TN: University of Tennessee Press.
 
 \hangindent=2em
 Estrellado, R. A., Freer, E. A.,  Mostipak, J., Rosenberg, J. M., & Velásquez, I. C. (2020). *Data science in education using R*. London, England: Routledge. *Nb.* All authors contributed equally. http://www.datascienceineducation.com/ <a href="https://github.com/data-edu/data-science-in-education"><img src = "/logos/github.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
@@ -366,13 +366,15 @@ Kubsch, M., Krist, C., & Rosenberg, J. M. (Accept pending major revisions). Dist
 
 Jones. R. S., & Rosenberg, J. M. (Revise & resubmit). Characterizing whole class discussions about data and statistics with conversation profile analysis. *Journal of Mathematical Behavior.*
 
-Rosenberg, J., ^Borchers, C., ^Burchfield, M. A., Anderson, D., Stegenga, S. M., & Fischer, C. (under review). Schools share students’ personally identifiable information on Facebook. Intending to submit to *Educational Researcher*. https://doi.org/10.35542/osf.io/j89pf
+Rosenberg, J., ^Borchers, C., ^Burchfield, M. A., Anderson, D., Stegenga, S. M., & Fischer, C. (Revise & resubmit). Schools share students’ personally identifiable information on Facebook. *Educational Researcher*. https://doi.org/10.35542/osf.io/j89pf
 
 Rosenberg, J. M. (under review). Facebook as data: A primer for educational technology researchers. *Educational Technology Research & Development*. https://edarxiv.org/274yv/
 
 Rosenberg, J. M., Beymer, P. N., Phun, V., & Schmidt, J. A. (under review). The sources of variation for learners’ situational engagement: An investigation using intensive longitudinal methods. *International Journal of Educational Research*. https://osf.io/pj2v8/
 
 Carpenter, J., Morrison, S., Rosenberg, J. M., & Hawthorne, K. (under review). Building pre-service teachers’ professional learning networks with a program-wide Twitter hashtag. *Teaching & Teacher Education*.
+
+Rosenberg, J., Borchers, C., Burchfield, M. A., Anderson, D., Stegenga, S. M., & Fischer, C. (under review). When sharing isn't caring: How educational institutions share students’ personally identifiable information on Facebook. https://doi.org/10.35542/osf.io/zbw4h
 
 ## Contributions to Edited Volumes (10)
 
@@ -409,10 +411,10 @@ Koehler, M. J., Mishra, P., Akcaoglu, M., & Rosenberg, J. M. (2013). Technologic
 ## Papers Published in Refereed Conference Proceedings (30)
 
 \hangindent=2em
-Burchfield, M., Rosenberg, J. M., & Stegenga, S. (in press). Racism and school districts' social media posts: "Is it being talked about?". Proceedings for the *Social Media and Society* conference.
+Thomas, T., Rosenberg, J. M., Penner, E. & Burchfield, M. (in press). Racism and school districts' social media posts: "Is it being talked about?". Proceedings for the *Social Media and Society* conference.
 
 \hangindent=2em
-Thomas, T., Rosenberg, J. M., Penner, E. & Burchfield, M. (in press). Updated or outdated consent? A study of the media release policies of U.S. K-12 school districts. Proceedings for the *Social Media and Society* conference.
+Burchfield, M., Rosenberg, J. M., & Stegenga, S. (in press). Updated or outdated consent? A study of the media release policies of U.S. K-12 school districts. Proceedings for the *Social Media and Society* conference.
 
 \hangindent=2em
 Carpenter, J., Morrison, S., Rosenberg, J., & Hawthorne, K. (2022, April). Professional learning networks for pre-service teachers: A social network analysis of a program-wide teacher education Twitter hashtag. In *Society for Information Technology & Teacher Education International Conference* (pp. 1489-1497). Association for the Advancement of Computing in Education (AACE).
@@ -1221,5 +1223,5 @@ Community [Synchronous Twitter Chat]. #NGSSchat. https://wke.lt/w/s/rqTNhr
 
 American Educational Research Association, 2012 - Present  
 International Society of the Learning Sciences, 2014 - Present  
-Learning Analytics & Knowledge, 2020 - Present
+Learning Analytics & Knowledge, 2020 - Present  
 National Association for Research in Science Teaching, 2015 - Present  

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.24)  9 MAY 2022 16:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.24)  14 MAY 2022 14:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -461,38 +461,28 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 [1
 
 {/Users/joshuarosenberg/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16]
-Underfull \hbox (badness 10000) in paragraph at lines 1450--1456
+Underfull \hbox (badness 10000) in paragraph at lines 1454--1460
 []$\T1/lmr/m/n/10 (+20) https : / / www . pechakucha . com / presentations / insights -[] on -[] the -[] current -[] and -[] preferred -[] integration -[] of -[]
  []
 
 [17] [18] [19]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1672.
+(hyperref)                than one, level fixed on input line 1676.
 
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1717.
+(hyperref)                than one, level fixed on input line 1721.
 
 [20]
-Overfull \hbox (26.06761pt too wide) in paragraph at lines 1799--1801
+Overfull \hbox (26.06761pt too wide) in paragraph at lines 1803--1805
 []\T1/lmr/m/n/10 (-20) Mentor, Di-ver-sity in Learn-ing An-a-lyt-ics and Lead-er-ship pro-gram, []$https : / / www . diversityindataandleadershipprogram .
  []
 
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1812.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1816.
 (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-Underfull \hbox (badness 10000) in paragraph at lines 1812--1814
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1814--1816
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 1816--1818
 
  []
@@ -577,63 +567,73 @@ Underfull \hbox (badness 10000) in paragraph at lines 1848--1850
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 1850--1852
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1852--1854
+
+ []
+
 [22]
-Underfull \hbox (badness 10000) in paragraph at lines 1904--1906
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1906--1908
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 1908--1910
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1918--1920
+Underfull \hbox (badness 10000) in paragraph at lines 1910--1912
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1920--1922
+Underfull \hbox (badness 10000) in paragraph at lines 1912--1914
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1922--1925
+Underfull \hbox (badness 10000) in paragraph at lines 1922--1924
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1925--1928
+Underfull \hbox (badness 10000) in paragraph at lines 1924--1926
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1928--1930
+Underfull \hbox (badness 10000) in paragraph at lines 1926--1929
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1930--1933
+Underfull \hbox (badness 10000) in paragraph at lines 1929--1932
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1932--1934
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1934--1937
 
  []
 
 [23] [24]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 2065.
+(hyperref)                than one, level fixed on input line 2069.
 
 [25]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 2150.
+(hyperref)                than one, level fixed on input line 2154.
 
 
-Overfull \hbox (0.21835pt too wide) in paragraph at lines 2209--2211
+Overfull \hbox (0.21835pt too wide) in paragraph at lines 2213--2215
 []\T1/lmr/m/n/10 (-20) 2018-2019, Co-host, \T1/lmr/m/it/10 (-20) Im-pod-ster Syn-drome \T1/lmr/m/n/10 (-20) pod-cast, []$https : / / drive . google . com / drive / folders / 1fwSaEKt9QzJPUlf -[]
  []
 
@@ -648,9 +648,9 @@ Here is how much of TeX's memory you used:
  30402 multiletter control sequences out of 15000+600000
  529774 words of font info for 173 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 60i,6n,63p,1009b,405s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 60i,6n,63p,1009b,399s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb>
-Output written on rosenberg-cv.pdf (27 pages, 265378 bytes).
+Output written on rosenberg-cv.pdf (27 pages, 265573 bytes).
 PDF statistics:
  644 PDF objects out of 1000 (max. 8388607)
  598 compressed objects within 6 object streams

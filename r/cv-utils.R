@@ -13,7 +13,7 @@ lines[67] <- "render_toc('static/rosenberg-cv.Rmd')"
 l <- which(stringr::str_detect(lines, "Resource") & stringr::str_detect(lines, "Logo"))
 lines <- lines[-c(l:(l + 5))]
 readr::write_lines(unlist(lines), 'static/rosenberg-cv.Rmd')
-rmarkdown::render("static/rosenberg-cv.Rmd", output_format = "pdf_document", clean = FALSE)
+# rmarkdown::render("static/rosenberg-cv.Rmd", output_format = "pdf_document", clean = FALSE)
 
 # knitr::knit("static/rosenberg-cv.Rmd", output="static/rosenberg-cv.tex")
 
