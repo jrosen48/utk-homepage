@@ -13,7 +13,7 @@ But, there have been some frustrating elements of my position, too. My colleague
 
 Things have changed - so quickly I cannot believe it.
 
-Last year, learning experience designer [Dr. Shalaunda Reeves](https://tpte.utk.edu/people/shalaunda-reeves-phd/) joined our faculty. Shalaunda turbo-boosted the envisioning process for what educational technology can and should be. I cannot imagine a better scholar to lead this. I've been lucky to already work with Shalaunda on several projects and ed tech-related initiatives.
+Last year, learning experience designer [Dr. Shalaunda Reeves](https://tpte.utk.edu/people/shalaunda-reeves-phd/) joined our faculty. Shalaunda turbo-boosted the envisioning process for what educational technology can and should be. I cannot imagine a better scholar to lead this.
 
 Then, mathematics education researcher [Dr. Missy Cosby](https://www.missycosby.com/) signed a contract to join us for this upcoming fall. Missy is a leader in equity in STEM education who brings a wealth of expertise. Partially because Missy is a friend from graduate school, I am thrilled she’s joining us.
 
