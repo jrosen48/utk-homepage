@@ -13,3 +13,5 @@ When going through the final steps to publish the article, I was interested in m
 My colleagues and I wrote the paper (without any compensation); the reviewers reviewed it (without any compensation); the editors handled the paper (without any compensation). Wiley provided a platform, some minimal typesetting services, and the service of hosting the paper. In 2022, there is no reason why $3,750 is in the ballpark of reasonable; at most, to retain healthy profit margins, around $1,000 is not an unreasonable fee. The OA fees are to damn high.
 
 I need to do more to advocate for better publishing approaches. I place some responsibility on my senior colleagues who have not advocated enough for better publishing models, but enough complaining - you can hold me responsible for doing better by others, the public, and my future more junior colleagues. Enough!
+
+*Aside: A publication with colleagues on the imperative to expand open science in science education is [here](https://onlinelibrary.wiley.com/doi/abs/10.1002/tea.21730). The piece is not open-access because the OA fee was around the same amount---far too high. A pre-print is [here](https://osf.io/sqcn7).
