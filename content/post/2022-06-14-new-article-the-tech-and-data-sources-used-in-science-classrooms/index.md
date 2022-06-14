@@ -12,8 +12,10 @@ My colleagues Elizabeth Schultheis, Melissa Kjelvik, Aaron Reedy, and Omiya Sult
 
 Here's the short take-away from quantitative (descriptive) and qualitative analyses: **Teachers predominantly involve their students in analysing relatively small data sets that they collect. In support of this work, teachers tend to use the technologies that are available to them—namely, calculators and spreadsheets. In addition, we found that a subset of teachers used a wide variety of data sources of varying complexity.**
 
-I think this work provides a baseline for efforts to support science teachers' use of complex data in their science classrooms. That's to say, look for more on this topic! Elizabeth, Melissa, and Aaron and I are collaborating on several projects and Omiya is carrying out additional qualitative analyses to pursue a NARST conference proposal submission. I'm proud of this work and thankful for the collaborations.
+I think this work provides a baseline for efforts to support science teachers' use of complex data in their science classrooms. That's to say, look for more on this topic! Elizabeth, Melissa, and Aaron and I are collaborating on several projects, Omiya is carrying out additional qualitative analyses to pursue a NARST conference proposal submission, and I'm working on an NSF CAREER grant submission that is intended to advance Bayesian methods as an intuitive frame for students to support their students' work with data. I'm proud of this work and thankful for the collaborations.
 
 The published version (not open-access) is here: https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.13245
 
 An open-access version is here: https://edarxiv.org/tv4zg/
+
+*Note*: This article is a part of a special section of BJET on data science education across the disciplines. More on that soon!
