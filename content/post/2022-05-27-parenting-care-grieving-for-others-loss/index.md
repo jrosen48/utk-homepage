@@ -7,7 +7,7 @@ categories: []
 tags: []
 ---
 
-Last Saturday, Katie attended the graduation for the high school at which she works. I woke up with my son around 7 am, puttering at home, and then riding our bikes around the neighborhood. We then went to an event at the World's Fair Park in Knoxville---a festival of books. We played in the splash pad, bought a snowcone, listened to an author share how she develops characters for her books ("Can you all name one thing you are scared of?" "Bears!"), and stopped at several of the tents sponsored by local groups. 
+Last Saturday, Katie attended the graduation for the high sc3hool at which she works. I woke up with my son around 7 am, puttering at home, and then riding our bikes around the neighborhood. We then went to an event at the World's Fair Park in Knoxville---a festival of books. We played in the splash pad, bought a snowcone, listened to an author share how she develops characters for her books ("Can you all name one thing you are scared of?" "Bears!"), and stopped at several of the tents sponsored by local groups. 
 
 We met up with Katie after and drove to Wal-Mart. On the way there, our son fell asleep, and we bought inner tubes to take to the Little River in Townsend, around 45 minutes from home. The little guy awoke at a grocery store in Townsend--we grabbed some snacks, listened to bagpipes being played at a nearby Scottish Festival, and headed up the road a short ways to the river. Changing in the car next to a Jeep Festival (what a day!), we then plopped the tubes in the water, looking cautiously at slightly faster moving water and larger rapids than we anticipated. We pushed off. 
 
