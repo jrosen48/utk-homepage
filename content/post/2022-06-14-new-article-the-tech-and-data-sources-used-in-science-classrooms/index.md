@@ -1,5 +1,5 @@
 ---
-title: New article - the tech. and data sources used in science classrooms
+title: New article in BJET - the tech and data sources used in science classrooms
 author: Joshua Rosenberg
 date: '2022-06-14'
 slug: new-article-the-tech-and-data-sources-used-in-science-classrooms
