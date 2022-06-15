@@ -220,10 +220,10 @@ Estrellado, R. A., Freer, E. A.,  Mostipak, J., Rosenberg, J. M., & Velásquez, 
 ## Articles Published in Refereed Journals (39)
 
 \hangindent=2em
-Rosenberg, J. M., Schultheis, E., Kjelvik, M., Reedy, A., & \+Sultana, O. (in press). Big data, big changes? A survey of K-12 science teachers in the United States on which data sources and tools they use in the classroom. *British Journal of Educational Technology.* https://edarxiv.org/tv4zg/
+Rosenberg, J. M., Schultheis, E., Kjelvik, M., Reedy, A., & \+Sultana, O. (2022). Big data, big changes? A survey of K-12 science teachers in the United States on which data sources and tools they use in the classroom. *British Journal of Educational Technology.* https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.13245
 
 \hangindent=2em
-Rosenberg, J. M., Kubsch, M., Wagenmakers, E.-J., & Dogucu, M. (in press). Making sense of uncertainty in the science classroom: A Bayesian approach. *Science & Education*. https://osf.io/aznyq/
+Rosenberg, J. M., Kubsch, M., Wagenmakers, E.-J., & Dogucu, M. (2022). Making sense of uncertainty in the science classroom: A Bayesian approach. *Science & Education*. https://trebuchet.public.springernature.app/get_content/ddf6c61b-5490-48a3-b4de-d6d6930f6257
 
 \hangindent=2em
 \+Michela, E., Rosenberg, J., Kimmons, R., \+Sultana, O., ^Burchfield, M. A., & ^Thomas, T. (2022). "We are trying to communicate the best we can": Understanding districts’ communication on Twitter during the COVID-19 pandemic. *AERA Open, 8*, 1-18. https://doi.org/10.1177/23328584221078542
