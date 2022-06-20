@@ -1,5 +1,5 @@
 ---
-title: An unexpected bear encounter
+title: Unexpected bear encounter
 author: Joshua Rosenberg
 date: '2022-06-20'
 slug: bear-chase
@@ -8,7 +8,7 @@ categories:
 tags: []
 ---
 
-On a whim, we drove to the [Elkmont Campground](https://www.recreation.gov/camping/campgrounds/232487) in the Great Smoky Mountains National Park. Our intent was to see the [Synchronous Fireflies](https://www.nps.gov/grsm/learn/nature/fireflies.htm) that mate - alight and in synchronicity - from around the last week of May through the middle of June. On the drive there, we decided that it wasn't too far to drive to park at Clingman's Dome (the highest point in the Smokies and the second-highest point in the Eastern United States), but to head away from the short trail to Clingman's Dome itself, down the approximately 1.9 mile Forney Ridge Trail toward Andrews Bald, one of two grassy balds in the Smokies; summits surrounded by northern pine trees (spruce and fir) that are, [somewhat mysteriously](grassy balds](https://en.wikipedia.org/wiki/Appalachian_balds), themselves covered in grass and Azalea, Rhododendron, Mountain Laurel, and Blueberry  plants.
+On a whim, we drove to the [Elkmont Campground](https://www.recreation.gov/camping/campgrounds/232487) in the Great Smoky Mountains National Park. Our intent was to see the [Synchronous Fireflies](https://www.nps.gov/grsm/learn/nature/fireflies.htm) that mate - alight and in synchronicity - from around the last week of May through the middle of June. On the drive there, we decided that it wasn't too far to drive to park at Clingman's Dome (the highest point in the Smokies and the second-highest point in the Eastern United States), but to head away from the short trail to Clingman's Dome itself, down the approximately 1.9 mile Forney Ridge Trail toward Andrews Bald, one of two grassy balds in the Smokies; summits surrounded by northern pine trees (spruce and fir) that are, [somewhat mysteriously](https://en.wikipedia.org/wiki/Appalachian_balds) grassy balds, themselves covered in grass and Azalea, Rhododendron, Mountain Laurel, and Blueberry.
 
 We stopped at Newfound Gap and hiked along the Appalachian Trail for just a bit.
 
