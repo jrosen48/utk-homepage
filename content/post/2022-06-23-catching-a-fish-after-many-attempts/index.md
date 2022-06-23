@@ -26,11 +26,6 @@ Last night, we set off for the beech, rod (and a net) in tow. We hung out in the
 
 A few moments later, he said the line was stuck. The first few times we fished, we didn’t use a bobber, and the hook and lure often got stuck on plants at the bottom of the river; he thought the same happened here at the lake. I looked over and saw the line moving around furiously. It was a fish! He reeled it in a bit more, and I caught a picture of the fish on the line.
 
-We used the net to scoop the fish up. We next were challenged to remove the hook. This took some time. I had been manually removing the barbs on hooks to make this step easier (and to harm the fish less), but I forgot to for this one - I think from thinking that the odds that we’d catch one based on our prior experience was low!
-
-We eventually got the hook out, tossed the fish (we think a Blue Gill) back in the net for a quick photo, and then together tossed the fish back in, where it energetically swam away.
-
-
 ![](images/fish.jpg)
 
 We used the net to scoop the fish up. We next were challenged to remove the hook. This took some time. I had been manually removing the barbs on hooks to make this step easier (and to harm the fish less), but I forgot to for this one - I think from thinking that the odds that we’d catch one based on our prior experience was low!
