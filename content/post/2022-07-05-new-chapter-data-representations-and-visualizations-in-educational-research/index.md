@@ -14,6 +14,8 @@ In the chapter, we reviewed research on data visualizations, shared example visu
 
 The Encyclopedia was on o hold for awhile, and so we had to wait something we were proud to share. Thankfully, the chapter is available now.
 
-Dai, T., Rosenberg, J. M., & +Lawson, M. A. (in press). Data representations and visualizations in educational research. In T. L. Good & M. McCaslin (Eds.), Educational Psychology Section; D. Fisher (Ed.), *Routledge Encyclopedia of Education* (Online). Taylor & Francis: New York, NY.
-
 It is available as a PDF [here](/dai-et-al-2022-data-representations.pdf).
+
+Here's the citation: 
+
+> Dai, T., Rosenberg, J. M., & +Lawson, M. A. (2020). Data representations and visualizations in educational research. In T. L. Good & M. McCaslin (Eds.), Educational Psychology Section; D. Fisher (Ed.), *Routledge Encyclopedia of Education* (Online). Taylor & Francis: New York, NY. https://www.taylorfrancis.com/entries/10.4324/9781138609877-REE148-1/data-representations-visualizations-educational-research-ting-dai-joshua-rosenberg-michael-lawson
