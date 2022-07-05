@@ -16,4 +16,4 @@ The Encyclopedia was on o hold for awhile, and so we had to wait something we we
 
 Dai, T., Rosenberg, J. M., & +Lawson, M. A. (in press). Data representations and visualizations in educational research. In T. L. Good & M. McCaslin (Eds.), Educational Psychology Section; D. Fisher (Ed.), *Routledge Encyclopedia of Education* (Online). Taylor & Francis: New York, NY.
 
-It is available as a PDF [here](/dai-et-al-2022-data-representations.pdf)
+It is available as a PDF [here](/dai-et-al-2022-data-representations.pdf).
