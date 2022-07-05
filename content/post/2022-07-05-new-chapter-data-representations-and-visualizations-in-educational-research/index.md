@@ -10,9 +10,9 @@ tags: []
 
 With Ting Dai and Michael Lawson, I wrote a chapter on data visualization. It is fr the Routledge Encyclopedia of Education. We actually wrote this _a long_ time ago - way back in 2019! 
 
-In the chapter, we reviewed research on data visualizations, shared example visualizatins, and provided R code to reproduce all of the graphs.
+In the chapter, we reviewed research on data visualizations, shared example visualizations, and provided R code to reproduce all of the graphs.
 
-The Encyclopedia was on o hold for awhile, and so we had to wait something we were proud to share. Thankfully, the chapter is available now.
+The Encyclopedia was on hold for awhile, and so we had to wait something we were proud to share. Thankfully, the chapter is available now.
 
 It is available as a PDF [here](/dai-et-al-2022-data-representations.pdf).
 
