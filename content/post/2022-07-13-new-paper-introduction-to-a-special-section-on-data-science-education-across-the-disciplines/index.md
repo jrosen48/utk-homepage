@@ -1,6 +1,6 @@
 ---
-title: New paper - introduction to a special section on data science education across
-  the disciplines
+title: New paper - intro to a special section of on data science education across
+  the disciplines in the journal BJET
 author: Joshua Rosenberg
 date: '2022-07-13'
 slug: new-paper-introduction-to-a-special-section-on-data-science-education-across-the-disciplines
