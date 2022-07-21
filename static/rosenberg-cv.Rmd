@@ -119,9 +119,11 @@ C.D. Owen High School, Swannanoa, NC
 
 # Grants 
 
-**$5,189,417; $4,101,656 as Principal Investigator [PI], Co-PI, or Co-Investigator [Co-I])**
+**$5,489,253; $4,401,492 as Principal Investigator [PI], Co-PI, or Co-Investigator [Co-I])**
 
 ## PI, Co-PI, and Co-I 
+
+2022-2024, Co-PI, *Broadening participation in introductory computer science: investigating self-assessment practices for increasing student learning and self-efficacy in two institutional contexts* ($299,836; with *Co-PI* Alex Lishinski).  National Science Foundation [NSF]. [NSF Grant No. 2215245](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2215245&HistoricalAwards=false)
 
 2022-2023, Co-PI, *Launching a Micro-credential in Educational Data Analytics* ($10,000; with *Co-PI* Louis Rocconi). University of Tennessee, Knoxville's College of Education, Health, and Human Sciences Strategic Investment Program. 
 
@@ -209,9 +211,15 @@ C.D. Owen High School, Swannanoa, NC
 Rosenberg, K., & Rosenberg, J. M. (under contract). *Little Kids, Big Adventures: Exploring the Cumberland Plateau, Tennessee Valley, and Great Smoky Mountains With Kids*. Knoxville, TN: University of Tennessee Press.
 
 \hangindent=2em
-Estrellado, R. A., Freer, E. A.,  Mostipak, J., Rosenberg, J. M., & Velásquez, I. C. (2020). *Data science in education using R*. London, England: Routledge. *Nb.* All authors contributed equally. http://www.datascienceineducation.com/ <a href="https://github.com/data-edu/data-science-in-education"><img src = "/logos/github.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
+Estrellado, R. A., Freer, E. A.,  Mostipak, J., Rosenberg, J. M., & Velásquez, I. C. (2020). *Data science in education using R*. London, England: Routledge. *Note.* All authors contributed equally. http://www.datascienceineducation.com/ <a href="https://github.com/data-edu/data-science-in-education"><img src = "/logos/github.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
 
-## Articles Published in Refereed Journals (39)
+## Articles Published in Refereed Journals (41)
+
+\hangindent=2em
+Rosenberg, J., ^Borchers, C., ^Burchfield, M. A., Anderson, D., Stegenga, S. M., & Fischer, C. (in press). Schools share students’ personally identifiable information on Facebook. *Educational Researcher*. https://doi.org/10.35542/osf.io/j89pf
+
+\hangindent=2em
+Kubsch, M., Krist, C., & Rosenberg, J. M. (in press). Distributing Epistemic Functions and Tasks - A framework for augmenting human analytic power with machine learning in science education research. *Journal of Research in Science Teaching*. https://osf.io/sg9jk/. *Note.* All authors contributed equally.
 
 \hangindent=2em
 Rosenberg, J. M., Schultheis, E., Kjelvik, M., Reedy, A., & \+Sultana, O. (2022). Big data, big changes? A survey of K-12 science teachers in the United States on which data sources and tools they use in the classroom. *British Journal of Educational Technology.* https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.13245
@@ -235,7 +243,7 @@ Aguilar, S. J., Rosenberg, J., Greenhalgh, S., Fütterer, T., Lishinski, A., & F
 \+Lawson, M. A., Herrick, I., R., & Rosenberg, J. M. (2021). Better together: Mathematics and science pre-service teachers’ sensemaking about STEM. *Educational Technology & Society, 24*(4), 180–192.
 
 \hangindent=2em
-Schweinsburg, M., ... Luis, S. (2021). Same data, different conclusions: Radical dispersion in empirical results. *Organizational Behavior and Human Decision Processes, 165*(7), 228-249. https://www.sciencedirect.com/science/article/pii/S0749597821000200 (*Nb.* I was an author and contributor to this large-scale, collaborative project.)
+Schweinsburg, M., ... Luis, S. (2021). Same data, different conclusions: Radical dispersion in empirical results. *Organizational Behavior and Human Decision Processes, 165*(7), 228-249. https://www.sciencedirect.com/science/article/pii/S0749597821000200 (*Note.* I was an author and contributor to this large-scale, collaborative project.)
 
 \hangindent=2em
 Greenhalgh, S. P., Rosenberg, J. M., & Russell, A. (2021). The influence of policy and context on teachers’ social media use. *The British Journal of Educational Technology, 52*(5), 2020-2037. https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.13096?af=R
@@ -253,7 +261,7 @@ Ranellucci, J., Robinson, K., Rosenberg, J. M., Lee, Y.-K., Roseth, C., & Linnen
 Akcaoglu, M., Rosenberg, J. M., Hodges, C. B., Hilpert, J. (2021). An exploration of factors impacting middle school students’ attitudes toward computer programming. *Computers in the Schools. 38*(1), 19-35. https://doi.org/10.1080/07380569.2021.1882209
 
 \hangindent=2em
-Rosenberg, J. M., & Krist, C. (2021). Combining machine learning and qualitative methods to elaborate students’ ideas about the generality of their model-based explanations. *Journal of Science Education and Technology, 30*(2), 255-267.  https://link.springer.com/article/10.1007%2Fs10956-020-09862-4. *Nb.* Both authors contributed equally. <a href = "https://joshuamrosenberg.com/post-prints/rosenberg-krist-jost.pdf"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
+Rosenberg, J. M., & Krist, C. (2021). Combining machine learning and qualitative methods to elaborate students’ ideas about the generality of their model-based explanations. *Journal of Science Education and Technology, 30*(2), 255-267.  https://link.springer.com/article/10.1007%2Fs10956-020-09862-4. *Note.* Both authors contributed equally. <a href = "https://joshuamrosenberg.com/post-prints/rosenberg-krist-jost.pdf"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
 \hangindent=2em
 Rosenberg, J. M., & Staudt Willet, K. B. (2021). Balancing participants’ privacy and open science in the context of COVID-19: A response to Ifenthaler & Schumacher (2016). *Educational Technology Research & Development, 69*(1), 347-351. <a href = "https://www.joshuamrosenberg.com/post-prints/rosenberg-staudt-willet-2020.pdf"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
@@ -310,7 +318,7 @@ Beymer, P. N., Rosenberg, J. M., Schmidt, J. A., & Naftzger, N. (2018). Examinin
 Akcaoglu, M., Rosenberg, J. M., Ranellucci, J., & Schwarz, C. V. (2018). Outcomes from a self-generated utility value intervention on fifth and sixth-grade students’ value and interest in science. *International Journal of Educational Research, 87*, 67-77. https://www.sciencedirect.com/science/article/pii/S0883035517308492 <a href = "/pre-prints/Akcaoglu_Rosenberg_Ranellucci_Schwarz_2018_preprint.pdf"><img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> <a href="https://scholar.google.com/citations?user=nxVowRQAAAAJ&hl=en#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DnxVowRQAAAAJ%26cstart%3D20%26pagesize%3D80%26citation_for_view%3DnxVowRQAAAAJ%3AeMMeJKvmdy0C%26tzom%3D300"><img src = "/logos/google-scholar-1.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
 
 \hangindent=2em
-Schmidt, J. A., Rosenberg, J. M., & Beymer, P. (2018). A person-in-context approach to student engagement in science: Examining learning activities and choice. *Journal of Research in Science Teaching, 55*(1), 19-43. https://dx.doi.org/10.1002/tea.21409 <a href = "/pre-prints/Schmidt_Rosenberg_Beymer_2018_preprint.pdf"><img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> <a href="https://scholar.google.com/citations?user=nxVowRQAAAAJ&hl=en#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DnxVowRQAAAAJ%26citation_for_view%3DnxVowRQAAAAJ%3AHE397vMXCloC%26tzom%3D300"><img src = "/logos/google-scholar-1.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a> (*Nb. This article was recognized as one of the 20 most-downloaded articles in JRST between June, 2016 and June, 2018*)
+Schmidt, J. A., Rosenberg, J. M., & Beymer, P. (2018). A person-in-context approach to student engagement in science: Examining learning activities and choice. *Journal of Research in Science Teaching, 55*(1), 19-43. https://dx.doi.org/10.1002/tea.21409 <a href = "/pre-prints/Schmidt_Rosenberg_Beymer_2018_preprint.pdf"><img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> <a href="https://scholar.google.com/citations?user=nxVowRQAAAAJ&hl=en#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DnxVowRQAAAAJ%26citation_for_view%3DnxVowRQAAAAJ%3AHE397vMXCloC%26tzom%3D300"><img src = "/logos/google-scholar-1.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a> (*Note. This article was recognized as one of the 20 most-downloaded articles in JRST between June, 2016 and June, 2018*)
 
 \hangindent=2em
 Rosenberg, J.M., Greenhalgh, S.P., Graves Wolf, L. & Koehler, M.J. (2017). Strategies, use, and impact of social media for supporting teacher community within professional development: The case of one urban STEM program. *Journal of Computers in Mathematics and Science Teaching, 36*(3), 255-267. https://www.learntechlib.org/primary/p/180387/ <a href = "/pre-prints/Rosenberg-Greenhalgh-Wolf-Koehler-2017-JCMST.pdf"><img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> <a href="https://scholar.google.com/citations?user=nxVowRQAAAAJ&hl=en#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DnxVowRQAAAAJ%26cstart%3D20%26pagesize%3D80%26citation_for_view%3DnxVowRQAAAAJ%3AAXPGKjj_ei8C%26tzom%3D300"><img src = "/logos/google-scholar-1.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
@@ -333,7 +341,18 @@ Rosenberg, J. M., Terry, C. A., Bell, J., Hiltz, V., & Russo, T. (2016). Design 
 \hangindent=2em
 Rosenberg, J. M., & Koehler, M. J. (2015). Context and Technological Pedagogical Content Knowledge (TPACK): A systematic review. *Journal of Research on Technology in Education, 47*, 186-210. http://dx.doi.org/10.1080/15391523.2015.1052663 <a href = "/pre-prints/rosenberg-koehler-2015-jrte.pdf"><img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> <a href="https://scholar.google.com/citations?user=nxVowRQAAAAJ&hl=en#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DnxVowRQAAAAJ%26citation_for_view%3DnxVowRQAAAAJ%3AKxtntwgDAa4C%26tzom%3D300"><img src = "/logos/google-scholar-1.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
 
-## Editor-Reviewed Articles Published in Journals (8)
+## Commissioned Paper (1)
+
+\hangindent=2em
+Rosenberg, J. M., & Jones, R. S. (in preparation). *K-12 data science learning*. Paper commissioned by the National Academies of Sciences, Engineering, and Medicine for *Foundations of Data Science for Students in Grades K-12: A Workshop*.
+
+## Editor-Reviewed Articles Published in Journals (10)
+
+\hangindent=2em
+Hodge, E., López, F., & Rosenberg, J. M. (in press). How saying "We don’t teach Critical Race Theory here" can backfire: Guidance for responding to community concerns about Critical Race Theory in education". *Phi Delta Kappan*.
+
+\hangindent=2em
+Jiang, S., Lee, V. R., & Rosenberg, J. M. Data science education across the disciplines: Underexamined opportunities for K‐12 innovation. *British Journal of Educational Technology*. https://bera-journals.onlinelibrary.wiley.com/doi/full/10.1111/bjet.13258
 
 \hangindent=2em
 Kimmons, R., Rosenberg, J.M. (2022). Trends and topics in educational technology, 2022 Edition. *TechTrends*. https://doi.org/10.1007/s11528-022-00713-0
@@ -359,13 +378,9 @@ Rosenberg, J. M., & Logan, C. W. (2017). Review of the book What’s Worth Teach
 \hangindent=2em
 Phillips, M., Harris, J., Rosenberg, J. M., & Koehler, M. J. (2017). TPCK/TPACK research and development: Past, present, and future directions. *Australasian Journal of Educational Technology*. https://doi.org/10.14742/ajet.3907 <a href="https://scholar.google.com/citations?user=nxVowRQAAAAJ&hl=en&authuser=2#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DnxVowRQAAAAJ%26authuser%3D2%26citation_for_view%3DnxVowRQAAAAJ%3AhkOj_22Ku90C%26tzom%3D300"><img src = "/logos/google-scholar-1.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
 
-## Articles Under Review (7)
+## Articles Under Review (5)
 
-Kubsch, M., Krist, C., & Rosenberg, J. M. (Accept pending major revisions). Distributing Epistemic Functions and Tasks - A framework for augmenting human analytic power with machine learning in science education research. *Journal of Research in Science Teaching*. https://osf.io/sg9jk/
-
-Jones. R. S., & Rosenberg, J. M. (Revise & resubmit). Characterizing whole class discussions about data and statistics with conversation profile analysis. *Journal of Mathematical Behavior.*
-
-Rosenberg, J., ^Borchers, C., ^Burchfield, M. A., Anderson, D., Stegenga, S. M., & Fischer, C. (Revise & resubmit). Schools share students’ personally identifiable information on Facebook. *Educational Researcher*. https://doi.org/10.35542/osf.io/j89pf
+Jones. R. S., & Rosenberg, J. M. (Accepted pending minor revisions). Characterizing whole class discussions about data and statistics with conversation profile analysis. *Journal of Mathematical Behavior.*
 
 Rosenberg, J. M. (under review). Facebook as data: A primer for educational technology researchers. *Educational Technology Research & Development*. https://edarxiv.org/274yv/
 
@@ -373,12 +388,12 @@ Rosenberg, J. M., Beymer, P. N., Phun, V., & Schmidt, J. A. (under review). The 
 
 Carpenter, J., Morrison, S., Rosenberg, J. M., & Hawthorne, K. (under review). Building pre-service teachers’ professional learning networks with a program-wide Twitter hashtag. *Teaching & Teacher Education*.
 
-Rosenberg, J., Borchers, C., Burchfield, M. A., Anderson, D., Stegenga, S. M., & Fischer, C. (under review). When sharing isn't caring: How educational institutions share students’ personally identifiable information on Facebook. https://doi.org/10.35542/osf.io/zbw4h
+Rosenberg, J., Borchers, C., Burchfield, M. A., Anderson, D., Stegenga, S. M., & Fischer, C. (accepted pending minor revisions). When sharing isn't caring: How educational institutions share students’ personally identifiable information on Facebook. https://doi.org/10.35542/osf.io/zbw4h
 
 ## Contributions to Edited Volumes (10)
 
 \hangindent=2em
-Dai, T., Rosenberg, J. M., & \+Lawson, M. A. (in press). Data representation. In T. L. Good & M. McCaslin (*Eds.*), Educational Psychology Section; D. Fisher (*Ed.*), *Routledge encyclopedia of education* (Online). Taylor & Francis: New York, NY.
+Dai, T., Rosenberg, J. M., & \+Lawson, M. A. (2022). Data representations and visualizations in educatiopnal research. In T. L. Good & M. McCaslin (*Eds.*), Educational Psychology Section; D. Fisher (*Ed.*), *Routledge encyclopedia of education*. Taylor & Francis: New York, NY.  https://doi.org/10.4324/9781138609877-REE148-1
 
 \hangindent=2em
 Rosenberg, J. M., \+Lawson, M. A., Anderson, D. J., & Rutherford, T. (2020). Making data science count in and for education. In E. Romero-Hall (Ed.), *Research methods in learning design & technology* (pp. 94-110). Routledge: New York, NY. <a href = "/pre-prints/rosenberg-et-al-data-science-in-and-for-education-research-methods-in-ldt.pdf"><img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
@@ -425,7 +440,7 @@ Borchers, C., Rosenberg, J., Gibbons, B., Burchfield, M., & Fischer, C. (2021). 
 Borchers, C., Rosenberg, J., Gibbons, B., Burchfield, M., & Fischer, C. (2021). In I.-H. Hsiao, S. Sahebi, F. Bouchet, & J.-J. Vie (Eds), *Proceedings of the 14th International Conference on Educational Data Mining* (pp. 619-624). To Scale or Not to Scale: Comparing Popular Sentiment Analysis Dictionaries on Educational Twitter Data. Proceedings of the 14th International Conference on Educational Data Mining (EDM). Paris, France.
 
 \hangindent=2em
-Burchfield, M., Rosenberg, J., Borchers, C., Thomas, T., Gibbons, B., & Fischer, C. (2021).  In I.-H. Hsiao, S. Sahebi, F. Bouchet, & J.-J. Vie (Eds), *Proceedings of the 14th International Conference on Educational Data Mining* (pp. 744-749). Are violations of student privacy “quick and easy”? Investigating the privacy of students’ images and names in the context of K-12 educational institution’s posts on Facebook. Proceedings of the 14th International Conference on Educational Data Mining (EDM). Paris, France. *Nb.* This presentation received the best poster award.
+Burchfield, M., Rosenberg, J., Borchers, C., Thomas, T., Gibbons, B., & Fischer, C. (2021).  In I.-H. Hsiao, S. Sahebi, F. Bouchet, & J.-J. Vie (Eds), *Proceedings of the 14th International Conference on Educational Data Mining* (pp. 744-749). Are violations of student privacy “quick and easy”? Investigating the privacy of students’ images and names in the context of K-12 educational institution’s posts on Facebook. Proceedings of the 14th International Conference on Educational Data Mining (EDM). Paris, France. *Note.* This presentation received the best poster award.
 
 \hangindent=2em
 Lishinski, A., & Rosenberg, J. (2021). All the pieces matter: The relationship of Momentary Sself-Efficacy and affective experiences with CS1 achievement and interest in computing. *Proceedings of the 17th ACM Conference on International Computing Education Research*, 252–265. https://doi.org/10.1145/3446871.3469740
@@ -610,7 +625,7 @@ Schell, M. J., Beymer, P. N. Albert, K. M., Rosenberg, J. M., & Schmidt, J. A. (
 Reid, J., Rosenberg, J. M., Koehler, M. J., Fischer, C., & McKenna, T. J. (2019, March). *An exploration of #NGSSchat through social network analysis*. Paper presented at the National Association for Research in Science Teaching Annual International Conference, Baltimore, MD.
 
 \hangindent=2em
-Rosenberg, J. M., Reid, J., Koehler, M. J., Fischer, C., & McKenna, T. J. (2019, January). *The roles of the Twitter hashtag #NGSSchat in the context of science education reform efforts*. Paper presented at the Association for Science Teacher Education International Meeting, Savannah, GA. (*Nb. This paper was nominated for the ASTE John C. Park National Technology Leadership Institute Fellowship*)
+Rosenberg, J. M., Reid, J., Koehler, M. J., Fischer, C., & McKenna, T. J. (2019, January). *The roles of the Twitter hashtag #NGSSchat in the context of science education reform efforts*. Paper presented at the Association for Science Teacher Education International Meeting, Savannah, GA. (*Note. This paper was nominated for the ASTE John C. Park National Technology Leadership Institute Fellowship*)
 
 \hangindent=2em
 Akcaoglu, M., Hodges, C. B., Rosenberg, J. M., & Hilpert, J. (2018, October). *Factors impacting middle school students' interest, efficacy, and utility value of programming*. Paper presented at the Association for Educational Communications and Technology International Convention 2018. Kansas City, MO.
@@ -794,7 +809,7 @@ Jones, R. S., & Rosenberg, J. M. (February, 2019). *Latent class modeling of who
 ## Workshops (17)
 
 \hangindent=2em
-Rosenberg, J. M. & D'Angelo, C. (2022, March). *An Introduction to Data Science in Science Education Using R*. National Association for Research in Science Teaching. *Nb.* This session was sponsored by the Contemporary Methods Research Interest Group (RIG).
+Rosenberg, J. M. & D'Angelo, C. (2022, March). *An Introduction to Data Science in Science Education Using R*. National Association for Research in Science Teaching. *Note.* This session was sponsored by the Contemporary Methods Research Interest Group (RIG).
 
 \hangindent=2em
 Kellogg, S., Jiang, S., Moore, R., & Rosenberg, J. M. (2021, August). *A LASER Focus on Understanding and Improving STEM Education*. Partnerships for Expanding STEM Education Research in STEM (AERA & ICPSR). https://github.com/laser-institute/aera-workshop
@@ -1056,7 +1071,7 @@ Committee member for Doctoral students:
 ### Campus and Departmental Presentations
 
 \hangindent=2em
-Crouter, S., Gibbons, M., Kim. Y.-K., Moore, T., & Rosenberg. J. M. (2022, April). *National recognition in research/scholarship*. Panel discussion in the College of Education, Heath, and Human Sciences. *Nb.* I was the moderator for this panel discussion.
+Crouter, S., Gibbons, M., Kim. Y.-K., Moore, T., & Rosenberg. J. M. (2022, April). *National recognition in research/scholarship*. Panel discussion in the College of Education, Heath, and Human Sciences. *Note.* I was the moderator for this panel discussion.
 
 \hangindent=2em
 Rosenberg, J. M. (2022, March). *What is the role of data science in K-12 (pre-collegiate) teaching and learning?* Data Science and Statistics Seminar Series, Department of Mathematics, UTK. https://joshuamrosenberg.com/post/2022/03/24/what-is-the-role-of-data-science-in-k-12-teaching-and-learning/

@@ -5,17 +5,14 @@
 \documentclass[
   14,
 ]{article}
-\usepackage[includeheadfoot, margin=1in]{geometry}
-\usepackage{fancyhdr}
-\pagestyle{fancy}
-\fancyhf{}
-\fancyhead[R]{Joshua M. Rosenberg}
-\lfoot{Updated \date{\today}}
-\rfoot{\thepage}
+\title{Joshua M. Rosenberg}
+\author{}
+\date{\vspace{-2.5em}}
+
+\usepackage{amsmath,amssymb}
 \usepackage{lmodern}
-\usepackage{amssymb,amsmath}
-\usepackage{ifxetex,ifluatex}
-\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+\usepackage{iftex}
+\ifPDFTeX
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
   \usepackage{textcomp} % provide euro and other symbols
@@ -48,7 +45,8 @@
   hidelinks,
   pdfcreator={LaTeX via pandoc}}
 \urlstyle{same} % disable monospaced font for URLs
-\usepackage{graphicx,grffile}
+\usepackage[margin=1in]{geometry}
+\usepackage{graphicx}
 \makeatletter
 \def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
 \def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
@@ -65,28 +63,34 @@
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 \setcounter{secnumdepth}{-\maxdimen} % remove section numbering
-
-\title{Joshua M. Rosenberg\vspace{-3em}}
-
-\author{}
-\date{}
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
 
 \begin{document}
 \maketitle
-\thispagestyle{empty}
 
-\begin{center}
+\hypertarget{curriculum-vitae}{%
+\section{Curriculum Vitae}\label{curriculum-vitae}}
 
-\section{Curriculum Vitae}\label{curriculum-vitae}
+\hypertarget{contact-information}{%
+\section{Contact Information}\label{contact-information}}
 
-Assistant Professor, STEM Education\linebreak
-Department of Theory and Practice in Teacher Education\linebreak
-Faculty Fellow, Center for Enhancing Education in Mathematics and Sciences\linebreak
-The University of Tennessee, Knoxville\linebreak
-420 Claxton, 1122 Volunteer Blvd., Knoxville, TN 37996\linebreak
-865-974-5973 | jmrosenberg@utk.edu\linebreak
-Homepage: https://joshuamrosenberg.com\linebreak
-\end{center}
+Assistant Professor, STEM Education\\
+Department of Theory and Practice in Teacher Education\\
+Faculty Fellow, Center for Enhancing Education in Mathematics and
+Sciences\\
+The University of Tennessee, Knoxville\\
+420 Claxton, 1122 Volunteer Blvd., Knoxville, TN 37996\\
+865-974-5973 \textbar{} \url{jmrosenberg@utk.edu}\\
+Homepage: \url{https://joshuamrosenberg.com}\\
+Google Scholar:
+\url{https://scholar.google.com/citations?hl=en\&user=nxVowRQAAAAJ}
+
+\hypertarget{research-interests}{%
+\section{Research Interests}\label{research-interests}}
+
+Educational data science, science education, educational technology
 
 \hypertarget{education}{%
 \section{Education}\label{education}}
@@ -132,11 +136,19 @@ C.D. Owen High School, Swannanoa, NC
 \hypertarget{grants}{%
 \section{Grants}\label{grants}}
 
-\textbf{\$5,189,417; \$4,101,656 as Principal Investigator {[}PI{]},
+\textbf{\$5,489,253; \$4,401,492 as Principal Investigator {[}PI{]},
 Co-PI, or Co-Investigator {[}Co-I{]})}
 
 \hypertarget{pi-co-pi-and-co-i}{%
 \subsection{PI, Co-PI, and Co-I}\label{pi-co-pi-and-co-i}}
+
+2022-2024, Co-PI, \emph{Broadening participation in introductory
+computer science: investigating self-assessment practices for increasing
+student learning and self-efficacy in two institutional contexts}
+(\$299,836; with \emph{Co-PI} Alex Lishinski). National Science
+Foundation {[}NSF{]}.
+\href{https://www.nsf.gov/awardsearch/showAward?AWD_ID=2215245\&HistoricalAwards=false}{NSF
+Grant No.~2215245}
 
 2022-2023, Co-PI, \emph{Launching a Micro-credential in Educational Data
 Analytics} (\$10,000; with \emph{Co-PI} Louis Rocconi). University of
@@ -301,12 +313,25 @@ University of Tennessee Press.
 
 \hangindent=2em Estrellado, R. A., Freer, E. A., Mostipak, J.,
 Rosenberg, J. M., \& Velásquez, I. C. (2020). \emph{Data science in
-education using R}. London, England: Routledge. \emph{Nb.} All authors
+education using R}. London, England: Routledge. \emph{Note.} All authors
 contributed equally. \url{http://www.datascienceineducation.com/}
 
-\hypertarget{articles-published-in-refereed-journals-39}{%
+\hypertarget{articles-published-in-refereed-journals-41}{%
 \subsection{Articles Published in Refereed Journals
-(39)}\label{articles-published-in-refereed-journals-39}}
+(41)}\label{articles-published-in-refereed-journals-41}}
+
+\hangindent=2em Rosenberg, J., \^{}Borchers, C., \^{}Burchfield, M. A.,
+Anderson, D., Stegenga, S. M., \& Fischer, C. (in press). Schools share
+students' personally identifiable information on Facebook.
+\emph{Educational Researcher}.
+\url{https://doi.org/10.35542/osf.io/j89pf}
+
+\hangindent=2em Kubsch, M., Krist, C., \& Rosenberg, J. M. (in press).
+Distributing Epistemic Functions and Tasks - A framework for augmenting
+human analytic power with machine learning in science education
+research. \emph{Journal of Research in Science Teaching}.
+\url{https://osf.io/sg9jk/}. \emph{Note.} All authors contributed
+equally.
 
 \hangindent=2em Rosenberg, J. M., Schultheis, E., Kjelvik, M., Reedy,
 A., \& +Sultana, O. (2022). Big data, big changes? A survey of K-12
@@ -355,7 +380,7 @@ different conclusions: Radical dispersion in empirical results.
 \emph{Organizational Behavior and Human Decision Processes, 165}(7),
 228-249.
 \url{https://www.sciencedirect.com/science/article/pii/S0749597821000200}
-(\emph{Nb.} I was an author and contributor to this large-scale,
+(\emph{Note.} I was an author and contributor to this large-scale,
 collaborative project.)
 
 \hangindent=2em Greenhalgh, S. P., Rosenberg, J. M., \& Russell, A.
@@ -394,7 +419,7 @@ learning and qualitative methods to elaborate students' ideas about the
 generality of their model-based explanations. \emph{Journal of Science
 Education and Technology, 30}(2), 255-267.
 \url{https://link.springer.com/article/10.1007\%2Fs10956-020-09862-4}.
-\emph{Nb.} Both authors contributed equally.
+\emph{Note.} Both authors contributed equally.
 
 \hangindent=2em Rosenberg, J. M., \& Staudt Willet, K. B. (2021).
 Balancing participants' privacy and open science in the context of
@@ -509,8 +534,8 @@ science. \emph{International Journal of Educational Research, 87},
 A person-in-context approach to student engagement in science: Examining
 learning activities and choice. \emph{Journal of Research in Science
 Teaching, 55}(1), 19-43. \url{https://dx.doi.org/10.1002/tea.21409}
-(\emph{Nb. This article was recognized as one of the 20 most-downloaded
-articles in JRST between June, 2016 and June, 2018})
+(\emph{Note. This article was recognized as one of the 20
+most-downloaded articles in JRST between June, 2016 and June, 2018})
 
 \hangindent=2em Rosenberg, J.M., Greenhalgh, S.P., Graves Wolf, L. \&
 Koehler, M.J. (2017). Strategies, use, and impact of social media for
@@ -523,7 +548,7 @@ Science Teaching, 36}(3), 255-267.
 Keenan, S. (2017). What the tech is going on with digital teaching
 portfolios? Using the TPACK framework to analyze teachers' technological
 understanding. \emph{Journal of Technology and Teacher Education, 25},
-31-59. \url{http://www.learntechlib.org/p/173346/} "\textgreater{}
+31-59. \url{http://www.learntechlib.org/p/173346/} ``\textgreater{}
 
 \hangindent=2em Rosenberg, J. M., Greenhalgh, S. P., Koehler, M. J.,
 Hamilton, E., \& Akcaoglu, M. (2016). An investigation of State
@@ -551,9 +576,27 @@ Technological Pedagogical Content Knowledge (TPACK): A systematic
 review. \emph{Journal of Research on Technology in Education, 47},
 186-210. \url{http://dx.doi.org/10.1080/15391523.2015.1052663}
 
-\hypertarget{editor-reviewed-articles-published-in-journals-8}{%
+\hypertarget{commissioned-paper-1}{%
+\subsection{Commissioned Paper (1)}\label{commissioned-paper-1}}
+
+\hangindent=2em Rosenberg, J. M., \& Jones, R. S. (in preparation).
+\emph{K-12 data science learning}. Paper commissioned by the National
+Academies of Sciences, Engineering, and Medicine for \emph{Foundations
+of Data Science for Students in Grades K-12: A Workshop}.
+
+\hypertarget{editor-reviewed-articles-published-in-journals-10}{%
 \subsection{Editor-Reviewed Articles Published in Journals
-(8)}\label{editor-reviewed-articles-published-in-journals-8}}
+(10)}\label{editor-reviewed-articles-published-in-journals-10}}
+
+\hangindent=2em Hodge, E., López, F., \& Rosenberg, J. M. (in press).
+How saying ``We don't teach Critical Race Theory here'' can backfire:
+Guidance for responding to community concerns about Critical Race Theory
+in education''. \emph{Phi Delta Kappan}.
+
+\hangindent=2em Jiang, S., Lee, V. R., \& Rosenberg, J. M. Data science
+education across the disciplines: Underexamined opportunities for K‐12
+innovation. \emph{British Journal of Educational Technology}.
+\url{https://bera-journals.onlinelibrary.wiley.com/doi/full/10.1111/bjet.13258}
 
 \hangindent=2em Kimmons, R., Rosenberg, J.M. (2022). Trends and topics
 in educational technology, 2022 Edition. \emph{TechTrends}.
@@ -596,24 +639,12 @@ M. J. (2017). TPCK/TPACK research and development: Past, present, and
 future directions. \emph{Australasian Journal of Educational
 Technology}. \url{https://doi.org/10.14742/ajet.3907}
 
-\hypertarget{articles-under-review-7}{%
-\subsection{Articles Under Review (7)}\label{articles-under-review-7}}
+\hypertarget{articles-under-review-5}{%
+\subsection{Articles Under Review (5)}\label{articles-under-review-5}}
 
-Kubsch, M., Krist, C., \& Rosenberg, J. M. (Accept pending major
-revisions). Distributing Epistemic Functions and Tasks - A framework for
-augmenting human analytic power with machine learning in science
-education research. \emph{Journal of Research in Science Teaching}.
-\url{https://osf.io/sg9jk/}
-
-Jones. R. S., \& Rosenberg, J. M. (Revise \& resubmit). Characterizing
-whole class discussions about data and statistics with conversation
-profile analysis. \emph{Journal of Mathematical Behavior.}
-
-Rosenberg, J., \^{}Borchers, C., \^{}Burchfield, M. A., Anderson, D.,
-Stegenga, S. M., \& Fischer, C. (Revise \& resubmit). Schools share
-students' personally identifiable information on Facebook.
-\emph{Educational Researcher}.
-\url{https://doi.org/10.35542/osf.io/j89pf}
+Jones. R. S., \& Rosenberg, J. M. (Accepted pending minor revisions).
+Characterizing whole class discussions about data and statistics with
+conversation profile analysis. \emph{Journal of Mathematical Behavior.}
 
 Rosenberg, J. M. (under review). Facebook as data: A primer for
 educational technology researchers. \emph{Educational Technology
@@ -631,18 +662,21 @@ with a program-wide Twitter hashtag. \emph{Teaching \& Teacher
 Education}.
 
 Rosenberg, J., Borchers, C., Burchfield, M. A., Anderson, D., Stegenga,
-S. M., \& Fischer, C. (under review). When sharing isn't caring: How
-educational institutions share students' personally identifiable
-information on Facebook. \url{https://doi.org/10.35542/osf.io/zbw4h}
+S. M., \& Fischer, C. (accepted pending minor revisions). When sharing
+isn't caring: How educational institutions share students' personally
+identifiable information on Facebook.
+\url{https://doi.org/10.35542/osf.io/zbw4h}
 
 \hypertarget{contributions-to-edited-volumes-10}{%
 \subsection{Contributions to Edited Volumes
 (10)}\label{contributions-to-edited-volumes-10}}
 
-\hangindent=2em Dai, T., Rosenberg, J. M., \& +Lawson, M. A. (in press).
-Data representation. In T. L. Good \& M. McCaslin (\emph{Eds.}),
-Educational Psychology Section; D. Fisher (\emph{Ed.}), \emph{Routledge
-encyclopedia of education} (Online). Taylor \& Francis: New York, NY.
+\hangindent=2em Dai, T., Rosenberg, J. M., \& +Lawson, M. A. (2022).
+Data representations and visualizations in educatiopnal research. In T.
+L. Good \& M. McCaslin (\emph{Eds.}), Educational Psychology Section; D.
+Fisher (\emph{Ed.}), \emph{Routledge encyclopedia of education}. Taylor
+\& Francis: New York, NY.
+\url{https://doi.org/10.4324/9781138609877-REE148-1}
 
 \hangindent=2em Rosenberg, J. M., +Lawson, M. A., Anderson, D. J., \&
 Rutherford, T. (2020). Making data science count in and for education.
@@ -680,7 +714,7 @@ Education.
 Considering context: Teachers' TPACK development and enactment. In L.
 Liu \& D. C. Gibson (Eds.), \emph{Research highlights in technology and
 teacher education} (pp.~197-204). Chesapeake, VA: Association for the
-Advancement of Computing in Education. "\textgreater{}
+Advancement of Computing in Education. ``\textgreater{}
 
 \hangindent=2em Rosenberg, J. M., \& Koehler, M. J. (2015).
 \emph{Context and teaching with technology in the digital age}. In M.L.
@@ -744,7 +778,7 @@ Conference on Educational Data Mining} (pp.~744-749). Are violations of
 student privacy ``quick and easy''? Investigating the privacy of
 students' images and names in the context of K-12 educational
 institution's posts on Facebook. Proceedings of the 14th International
-Conference on Educational Data Mining (EDM). Paris, France. \emph{Nb.}
+Conference on Educational Data Mining (EDM). Paris, France. \emph{Note.}
 This presentation received the best poster award.
 
 \hangindent=2em Lishinski, A., \& Rosenberg, J. (2021). All the pieces
@@ -890,7 +924,7 @@ L. Polman, E. A. Kyza, K. O'Neill, I. Tabak, W. R. Penuel, A. S. Jurow,
 . . . L. D'Amico (Eds.), \emph{Learning and becoming in practice: The
 international conference of the learning sciences (ICLS) 2014} (Vol. 1,
 pp.~182-189). Boulder, CO: ISLS.
-\url{http://www.isls.org/icls2014/Proceedings.html} "\textgreater{}
+\url{http://www.isls.org/icls2014/Proceedings.html} ``\textgreater{}
 
 \hangindent=2em Rosenberg, J. M., \& Koehler, M. (2014). Context and
 Technological Pedagogical Content Knowledge: A content analysis. In M.
@@ -1140,9 +1174,9 @@ Conference, Baltimore, MD.
 \& McKenna, T. J. (2019, January). \emph{The roles of the Twitter
 hashtag \#NGSSchat in the context of science education reform efforts}.
 Paper presented at the Association for Science Teacher Education
-International Meeting, Savannah, GA. (\emph{Nb. This paper was nominated
-for the ASTE John C. Park National Technology Leadership Institute
-Fellowship})
+International Meeting, Savannah, GA. (\emph{Note. This paper was
+nominated for the ASTE John C. Park National Technology Leadership
+Institute Fellowship})
 
 \hangindent=2em Akcaoglu, M., Hodges, C. B., Rosenberg, J. M., \&
 Hilpert, J. (2018, October). \emph{Factors impacting middle school
@@ -1517,7 +1551,7 @@ Conference, Murfreesboro, TN.
 
 \hangindent=2em Rosenberg, J. M. \& D'Angelo, C. (2022, March). \emph{An
 Introduction to Data Science in Science Education Using R}. National
-Association for Research in Science Teaching. \emph{Nb.} This session
+Association for Research in Science Teaching. \emph{Note.} This session
 was sponsored by the Contemporary Methods Research Interest Group (RIG).
 
 \hangindent=2em Kellogg, S., Jiang, S., Moore, R., \& Rosenberg, J. M.
@@ -1938,8 +1972,8 @@ Presentations}\label{campus-and-departmental-presentations}}
 \hangindent=2em Crouter, S., Gibbons, M., Kim. Y.-K., Moore, T., \&
 Rosenberg. J. M. (2022, April). \emph{National recognition in
 research/scholarship}. Panel discussion in the College of Education,
-Heath, and Human Sciences. \emph{Nb.} I was the moderator for this panel
-discussion.
+Heath, and Human Sciences. \emph{Note.} I was the moderator for this
+panel discussion.
 
 \hangindent=2em Rosenberg, J. M. (2022, March). \emph{What is the role
 of data science in K-12 (pre-collegiate) teaching and learning?} Data
