@@ -1,5 +1,5 @@
 ---
-title: I will be back one day
+title: Will we be back to Michigan one day?
 author: ''
 date: '2022-07-22'
 slug: i-will-be-back-one-day
@@ -27,4 +27,4 @@ Katie's reel had [an apropos song](https://www.google.com/search?q=lord+huron+i+
 > When you sparked a flame
 > And a fire that continues to burn
 
-I don't know if we'll be back some day; our lives are in Knoxville now, but missing Michigan makes visiting extra special. 
+I don't know if we'll be back some day; our lives are in Knoxville now and our lies are really, really good, but missing Michigan makes visiting extra special. 
