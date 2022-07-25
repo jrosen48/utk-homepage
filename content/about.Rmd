@@ -68,8 +68,8 @@ render_toc <- function(
 render_toc('about.Rmd')
 ```
 
-# Contact Information
- 
+# Contact Information  
+
 Assistant Professor, STEM Education  
 Department of Theory and Practice in Teacher Education  
 Faculty Fellow, Center for Enhancing Education in Mathematics and Sciences  
@@ -220,7 +220,9 @@ Rosenberg, K., & Rosenberg, J. M. (under contract). *Little Kids, Big Adventures
 
 Estrellado, R. A., Freer, E. A.,  Mostipak, J., Rosenberg, J. M., & Velásquez, I. C. (2020). *Data science in education using R*. London, England: Routledge. *Note.* All authors contributed equally. http://www.datascienceineducation.com/ <a href="https://github.com/data-edu/data-science-in-education"><img src = "/logos/github.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
 
-## Articles Published in Refereed Journals (41)
+## Articles Published in Refereed Journals (43)
+
+Jones. R. S., & Rosenberg, J. M. (in press). Characterizing whole class discussions about data and statistics with conversation profile analysis. *Journal of Mathematical Behavior.*
 
 Rosenberg, J., ^Borchers, C., ^Burchfield, M. A., Anderson, D., Stegenga, S. M., & Fischer, C. (in press). Schools share students’ personally identifiable information on Facebook. *Educational Researcher*. https://doi.org/10.35542/osf.io/j89pf
 
@@ -365,8 +367,6 @@ Rosenberg, J. M., Greenhalgh, S. P., & Koehler, M. J. (2015). A performance asse
 Koehler, M. J., Mishra, P., Akcaoglu, M., & Rosenberg, J. M. (2013). Technological pedagogical content knowledge for teachers and teacher educators. In N. Bharati and S. Mishra (Eds.), *ICT integrated teacher education: A resource book* (pp. 1-8). Commonwealth Educational Media Center for Asia, New Delhi, India. <a href="https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=2&gmla=AJsN-F4ODtxdHVYZqP5zw-xRiucvAtoCjzD1deEPhKDy1amHSa589A3Ebpijkg5gUjYRVa7xdomLUVlHVpg5HO4t2K_X0pSW0xHdkSeilu0xmMnvSH1xkfk&user=nxVowRQAAAAJ#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DnxVowRQAAAAJ%26authuser%3D2%26citation_for_view%3DnxVowRQAAAAJ%3AzYLM7Y9cAGgC%26tzom%3D300"><img src = "/logos/google-scholar-1.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
 
 ## Papers Published in Refereed Conference Proceedings (30)
-
-Jones. R. S., & Rosenberg, J. M. (in press). Characterizing whole class discussions about data and statistics with conversation profile analysis. *Journal of Mathematical Behavior.*
 
 Thomas, T., Rosenberg, J. M., Penner, E. & Burchfield, M. (in press). Racism and school districts' social media posts: "Is it being talked about?". Proceedings for the *Social Media and Society* conference.
 

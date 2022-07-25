@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.21)  25 JUL 2022 11:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.21)  25 JUL 2022 15:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -614,7 +614,7 @@ Overfull \hbox (11.5356pt too wide) in paragraph at lines 2245--2247
 
 [28] (./rosenberg-cv.aux)
 Package rerunfilecheck Info: File `rosenberg-cv.out' has not changed.
-(rerunfilecheck)             Checksum: 5403A71FDEA495EADE7FB42685054182;10160.
+(rerunfilecheck)             Checksum: 9D095C9B89C9F581E812512D8C6158B4;10160.
  ) 
 Here is how much of TeX's memory you used:
  10748 strings out of 479983
@@ -625,7 +625,7 @@ Here is how much of TeX's memory you used:
  14 hyphenation exceptions out of 8191
  72i,6n,77p,449b,499s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/Users/jrosenb8/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{/Users/jrosenb8/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</Users/jrosenb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></Users/jrosenb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></Users/jrosenb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/jrosenb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.pfb></Users/jrosenb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb>
-Output written on rosenberg-cv.pdf (28 pages, 261268 bytes).
+Output written on rosenberg-cv.pdf (28 pages, 261430 bytes).
 PDF statistics:
  658 PDF objects out of 1000 (max. 8388607)
  610 compressed objects within 7 object streams
