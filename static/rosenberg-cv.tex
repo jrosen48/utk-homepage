@@ -5,14 +5,17 @@
 \documentclass[
   14,
 ]{article}
-\title{Joshua M. Rosenberg}
-\author{}
-\date{\vspace{-2.5em}}
-
-\usepackage{amsmath,amssymb}
+\usepackage[includeheadfoot, margin=1in]{geometry}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[R]{Joshua M. Rosenberg}
+\lfoot{Updated \date{\today}}
+\rfoot{\thepage}
 \usepackage{lmodern}
-\usepackage{iftex}
-\ifPDFTeX
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
   \usepackage{textcomp} % provide euro and other symbols
@@ -45,8 +48,7 @@
   hidelinks,
   pdfcreator={LaTeX via pandoc}}
 \urlstyle{same} % disable monospaced font for URLs
-\usepackage[margin=1in]{geometry}
-\usepackage{graphicx}
+\usepackage{graphicx,grffile}
 \makeatletter
 \def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
 \def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
@@ -63,34 +65,28 @@
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 \setcounter{secnumdepth}{-\maxdimen} % remove section numbering
-\ifLuaTeX
-  \usepackage{selnolig}  % disable illegal ligatures
-\fi
+
+\title{Joshua M. Rosenberg\vspace{-3em}}
+
+\author{}
+\date{}
 
 \begin{document}
 \maketitle
+\thispagestyle{empty}
 
-\hypertarget{curriculum-vitae}{%
-\section{Curriculum Vitae}\label{curriculum-vitae}}
+\begin{center}
 
-\hypertarget{contact-information}{%
-\section{Contact Information}\label{contact-information}}
+\section{Curriculum Vitae}\label{curriculum-vitae}
 
-Assistant Professor, STEM Education\\
-Department of Theory and Practice in Teacher Education\\
-Faculty Fellow, Center for Enhancing Education in Mathematics and
-Sciences\\
-The University of Tennessee, Knoxville\\
-420 Claxton, 1122 Volunteer Blvd., Knoxville, TN 37996\\
-865-974-5973 \textbar{} \url{jmrosenberg@utk.edu}\\
-Homepage: \url{https://joshuamrosenberg.com}\\
-Google Scholar:
-\url{https://scholar.google.com/citations?hl=en\&user=nxVowRQAAAAJ}
-
-\hypertarget{research-interests}{%
-\section{Research Interests}\label{research-interests}}
-
-Educational data science, science education, educational technology
+Assistant Professor, STEM Education\linebreak
+Department of Theory and Practice in Teacher Education\linebreak
+Faculty Fellow, Center for Enhancing Education in Mathematics and Sciences\linebreak
+The University of Tennessee, Knoxville\linebreak
+420 Claxton, 1122 Volunteer Blvd., Knoxville, TN 37996\linebreak
+865-974-5973 | jmrosenberg@utk.edu\linebreak
+Homepage: https://joshuamrosenberg.com\linebreak
+\end{center}
 
 \hypertarget{education}{%
 \section{Education}\label{education}}
@@ -136,17 +132,21 @@ C.D. Owen High School, Swannanoa, NC
 \hypertarget{grants}{%
 \section{Grants}\label{grants}}
 
-\textbf{\$5,489,253; \$4,401,492 as Principal Investigator {[}PI{]},
+\textbf{\$6,489,233; \$5,401,472 as Principal Investigator {[}PI{]},
 Co-PI, or Co-Investigator {[}Co-I{]})}
 
 \hypertarget{pi-co-pi-and-co-i}{%
 \subsection{PI, Co-PI, and Co-I}\label{pi-co-pi-and-co-i}}
 
+2022-2025, Co-PI, \emph{Computer Science for Appalachia: Expanding a
+research-practice partnership to integrate computer science and literacy
+in rural East Tennessee schools}, (\$999,980; with \emph{PI} Lynn
+Hodge). NSF. NSF Grant No.~2219418.
+
 2022-2024, Co-PI, \emph{Broadening participation in introductory
 computer science: investigating self-assessment practices for increasing
 student learning and self-efficacy in two institutional contexts}
-(\$299,836; with \emph{Co-PI} Alex Lishinski). National Science
-Foundation {[}NSF{]}.
+(\$299,836; with \emph{PI} Alex Lishinski). NSF.
 \href{https://www.nsf.gov/awardsearch/showAward?AWD_ID=2215245\&HistoricalAwards=false}{NSF
 Grant No.~2215245}
 
@@ -642,10 +642,6 @@ Technology}. \url{https://doi.org/10.14742/ajet.3907}
 \hypertarget{articles-under-review-5}{%
 \subsection{Articles Under Review (5)}\label{articles-under-review-5}}
 
-Jones. R. S., \& Rosenberg, J. M. (Accepted pending minor revisions).
-Characterizing whole class discussions about data and statistics with
-conversation profile analysis. \emph{Journal of Mathematical Behavior.}
-
 Rosenberg, J. M. (under review). Facebook as data: A primer for
 educational technology researchers. \emph{Educational Technology
 Research \& Development}. \url{https://edarxiv.org/274yv/}
@@ -736,6 +732,10 @@ Educational Media Center for Asia, New Delhi, India.
 \hypertarget{papers-published-in-refereed-conference-proceedings-30}{%
 \subsection{Papers Published in Refereed Conference Proceedings
 (30)}\label{papers-published-in-refereed-conference-proceedings-30}}
+
+\hangindent=2em Jones. R. S., \& Rosenberg, J. M. (in press).
+Characterizing whole class discussions about data and statistics with
+conversation profile analysis. \emph{Journal of Mathematical Behavior.}
 
 \hangindent=2em Thomas, T., Rosenberg, J. M., Penner, E. \& Burchfield,
 M. (in press). Racism and school districts' social media posts: ``Is it

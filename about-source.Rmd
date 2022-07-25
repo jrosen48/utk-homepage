@@ -119,11 +119,13 @@ C.D. Owen High School, Swannanoa, NC
 
 # Grants 
 
-**$5,489,253; $4,401,492 as Principal Investigator [PI], Co-PI, or Co-Investigator [Co-I])**
+**$6,489,233; $5,401,472 as Principal Investigator [PI], Co-PI, or Co-Investigator [Co-I])**
 
 ## PI, Co-PI, and Co-I 
 
-2022-2024, Co-PI, *Broadening participation in introductory computer science: investigating self-assessment practices for increasing student learning and self-efficacy in two institutional contexts* ($299,836; with *Co-PI* Alex Lishinski).  National Science Foundation [NSF]. [NSF Grant No. 2215245](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2215245&HistoricalAwards=false)
+2022-2025, Co-PI, *Computer Science for Appalachia: Expanding a research-practice partnership to integrate computer science and literacy in rural East Tennessee schools*, ($999,980; with *PI* Lynn Hodge). NSF. NSF Grant No. 2219418.
+
+2022-2024, Co-PI, *Broadening participation in introductory computer science: investigating self-assessment practices for increasing student learning and self-efficacy in two institutional contexts* ($299,836; with *PI* Alex Lishinski).  NSF. [NSF Grant No. 2215245](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2215245&HistoricalAwards=false)
 
 2022-2023, Co-PI, *Launching a Micro-credential in Educational Data Analytics* ($10,000; with *Co-PI* Louis Rocconi). University of Tennessee, Knoxville's College of Education, Health, and Human Sciences Strategic Investment Program. 
 
@@ -386,8 +388,6 @@ Phillips, M., Harris, J., Rosenberg, J. M., & Koehler, M. J. (2017). TPCK/TPACK 
 
 ## Articles Under Review (5)
 
-Jones. R. S., & Rosenberg, J. M. (Accepted pending minor revisions). Characterizing whole class discussions about data and statistics with conversation profile analysis. *Journal of Mathematical Behavior.*
-
 Rosenberg, J. M. (under review). Facebook as data: A primer for educational technology researchers. *Educational Technology Research & Development*. https://edarxiv.org/274yv/
 
 Rosenberg, J. M., Beymer, P. N., Phun, V., & Schmidt, J. A. (under review). The sources of variation for learners’ situational engagement: An investigation using intensive longitudinal methods. *International Journal of Educational Research*. https://osf.io/pj2v8/
@@ -429,6 +429,9 @@ Rosenberg, J. M., Greenhalgh, S. P., & Koehler, M. J. (2015). A performance asse
 Koehler, M. J., Mishra, P., Akcaoglu, M., & Rosenberg, J. M. (2013). Technological pedagogical content knowledge for teachers and teacher educators. In N. Bharati and S. Mishra (Eds.), *ICT integrated teacher education: A resource book* (pp. 1-8). Commonwealth Educational Media Center for Asia, New Delhi, India. <a href="https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=2&gmla=AJsN-F4ODtxdHVYZqP5zw-xRiucvAtoCjzD1deEPhKDy1amHSa589A3Ebpijkg5gUjYRVa7xdomLUVlHVpg5HO4t2K_X0pSW0xHdkSeilu0xmMnvSH1xkfk&user=nxVowRQAAAAJ#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DnxVowRQAAAAJ%26authuser%3D2%26citation_for_view%3DnxVowRQAAAAJ%3AzYLM7Y9cAGgC%26tzom%3D300"><img src = "/logos/google-scholar-1.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
 
 ## Papers Published in Refereed Conference Proceedings (30)
+
+\hangindent=2em
+Jones. R. S., & Rosenberg, J. M. (in press). Characterizing whole class discussions about data and statistics with conversation profile analysis. *Journal of Mathematical Behavior.*
 
 \hangindent=2em
 Thomas, T., Rosenberg, J. M., Penner, E. & Burchfield, M. (in press). Racism and school districts' social media posts: "Is it being talked about?". Proceedings for the *Social Media and Society* conference.
