@@ -1,6 +1,6 @@
 ---
 title: New article - A framework for augmenting human analytic power with machine
-  learning in science education research in JRST.
+  learning in science education research in JRST
 author: ''
 date: '2022-08-03'
 slug: new-article-a-framework-for-augmenting-human-analytic-power-with-machine-learning-in-science-education-research
