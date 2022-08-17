@@ -13,7 +13,7 @@ I'm jazzed to now be announcing the *Graduate Certificate in Educational Data Sc
 
 The graduate certificate consists of four courses:
 
-- STEM 580: An Introduction to Data Science Methods in Education (offered every _fall_)
+- STEM 580: An Introduction to Data Science Methods in Education (offered every _fall_; offered this fall)
 - STEM 591: Visualizing Data Using R (offered _alternating springs, starting Spring 2023_)
 - STEM 595: Predictive Modeling & Machine Learning in Education (offered _alternating falls, Starting Fall 2023_)
 - STEM 585: Digital Learning Environments & Learning Analytics (offered _alternating springs, starting Spring 2024_)
