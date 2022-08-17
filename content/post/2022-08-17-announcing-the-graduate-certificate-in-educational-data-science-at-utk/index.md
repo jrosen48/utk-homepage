@@ -18,6 +18,8 @@ The graduate certificate consists of four courses:
 - STEM 595: Predictive Modeling & Machine Learning in Education (offered _alternating falls, Starting Fall 2023_)
 - STEM 585: Digital Learning Environments & Learning Analytics (offered _alternating springs, starting Spring 2024_)
 
+More on the courses is available on the Vols Online website [here](https://volsonline.utk.edu/programs-degrees/educational-data-science-gc/).
+
 All of the classes are online and synchronous; most classes will focus on the statistical software and programming language R (though other tools will be used, too). One of the four classes can be substituted with a related, approved class. 
 
 If you have any questions, I'd be happy to answer them; please just send me a message at jmrosenberg@utk.edu. Please consider sharing this with interested peers, students, or colleagues.
