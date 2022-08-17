@@ -9,7 +9,7 @@ tags: []
 
 I've been teaching classes on educational data science and learning analytics this past year, and I've shared about those courses as they've been offered (for instance, [here's](https://making-data-science-count.github.io/s21-intro-to-data-sci-methods-in-ed/) some information on the introductory course). 
 
-I'm jazzed to now be announcing the *Graduate Certificate in Educational Data Science* at UTK. This is available to graduate students in any program at UTK and to individuals not yet enrolled in a UTK graduate degree program. The intended audience for the program includes graduate students, educational analysts and other professionals, and individuals newer to education looking to bolster their ability to access and use complex, varied sources of educational data and to become capable with newer methodologies, including network analysis, machine learning, and text analysis. 
+I'm jazzed to now be announcing the *Graduate Certificate in Educational Data Science* at UTK. This is available to graduate students in any program at UTK and individuals not yet enrolled in a UTK graduate degree program. The intended audience for the program includes graduate students, educational analysts, and other professionals, and individuals newer to education looking to bolster their ability to access and use complex, varied sources of educational data and to become capable with newer methodologies, including network analysis, machine learning, and text analysis. 
 
 The graduate certificate consists of four courses:
 
