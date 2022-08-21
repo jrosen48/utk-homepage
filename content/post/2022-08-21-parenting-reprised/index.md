@@ -18,3 +18,12 @@ Okay, froo froo over, at least concerning the outdoors. Parenting is similar. I 
 I'm actually having a hard time tracking down its specific source---but [it's from Elizabeth Stone](https://www.goodreads.com/quotes/14913-making-the-decision-to-have-a-child---it-is), an author. It's hard to describe parenting in terms of reason and thoughts. It's tiring and challenging and all kinds of things. But it's also more than what can be described with certain terms and this quote does a better job than many do to capture what it is. Parenting requires multiple ways of knowing; it invites thinking but also feeling and relating to another person - a child - in a different way. It struck me biking with my son to school that I would bike in front of a car if needed to keep him safe without thinking about it. I can try to describe this evolutionarily and rationally, but I think that would seem to miss part of whether, how, and why I would---at least the experience and meaning of it. Perhaps parenting invites other ways of making sense.
 
 I was thinking about parenting after spending the last week with my son visiting family. It was a great week and challenging week with him; hard to summarize. Perhaps in a year I'll know more.
+
+---
+
+Oh yeah, what is this a reprise of? I've blogged about parenting several times before:
+
+1. [The ups and downs of parenting - summarizing an “up”!](https://joshuamrosenberg.com/post/2021/04/09/the-ups-and-downs-of-parenting-summarizing-an-up/)
+2. [Parenting, care, grieving for others’ loss](https://joshuamrosenberg.com/post/2022/05/27/parenting-care-grieving-for-others-loss/) (maybe my saddest post; after the Uvalde massacre)
+3. [Structure and parenting](https://joshuamrosenberg.com/post/2021/05/07/structure-and-parenting/)
+4. [What I’ve been reading: Crazy for the Storm and Called Again](https://joshuamrosenberg.com/post/2021/10/07/what-i-ve-been-reading-crazy-for-the-storm-and-called-again/)
