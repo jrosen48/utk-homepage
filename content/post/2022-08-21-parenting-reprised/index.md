@@ -19,7 +19,7 @@ I'm actually having a hard time tracking down its specific source---but [it's fr
 
 I was thinking about parenting after spending the last week with my son visiting family. It was a great week and challenging week with him; hard to summarize. Perhaps in a year I'll know more.
 
----
+<hr>
 
 Oh yeah, what is this a reprise of? I've blogged about parenting several times before:
 
