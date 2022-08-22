@@ -1,5 +1,5 @@
 ---
-title: Special section on data science across the disciplines is published
+title: Special section on data science across the disciplines is published!
 author: ''
 date: '2022-08-22'
 slug: special-section-on-data-science-across-the-disciplines-is-published
