@@ -157,7 +157,9 @@ C.D. Owen High School, Swannanoa, NC
 
 2022-2025, Advisory Board Member, *A Learning Ecosystem for Teaching High School Students Machine Learning Concepts and Data Science Skills in Healthcare and Medicine*, Kathryn  Eller (PI; East Bay Educational Collaborative), National Science Foundation. https://www.nsf.gov/awardsearch/showAward?AWD_ID=2148451&HistoricalAwards=false
 
-2021-2026, Advisory Board Member, *SEER Research Network for Digital Learning Platforms*, Jeremy Roschelle (PI), Institute for Education Sciences, Digital Learning Platforms to Enable Efficient Education Research Network
+2022-2025, Advisory Board Member, *Mathematizing, Visualizing, and Power (MVP): Appalachian youth becoming data artists for community learning*, Lynn Hodge (PI), National Science Foundation, https://www.nsf.gov/awardsearch/showAward?AWD_ID=2215004&HistoricalAwards=false
+
+2021-2026, Advisory Board Member, *SEER Research Network for Digital Learning Platforms*, Jeremy Roschelle (PI; Digital PRomise), Institute for Education Sciences, Digital Learning Platforms to Enable Efficient Education Research Network
 
 2021-2022, Lead STEM Education Consultant,*Supporting Students’ Meaningful Engagement With Data From Small Orbiting Satellites*, Art Palisoc (PI), STEM Ed LLC, NSF Phase I SBIR, *STEM Experiments and Games in Low Earth Orbit – Making STEM Learning Fun*
 
@@ -383,8 +385,7 @@ Rosenberg, J. M., ^Burchfield, M. B., ^Borchers, C., ^Gibbons, B., & Anderson, D
 Kimmons, R., Rosenberg, J., & Allman, B. (2021). Trends in Educational Technology: What Facebook, Twitter, and Scopus Can Tell us about Current Research and Practice. *TechTrends*, 1-12. https://link.springer.com/article/10.1007/s11528-021-00589-6
 
 \hangindent=2em
-Mehta, R., Henriksen, D., & Rosenberg, J. M. (2019). It's not about the tools. *Educational Leadership, 76*(5), 64-69. Retrieved from http://www.ascd.org/publications/educational-leadership/feb19/vol76/num05/It's-Not-About-the-Tools.aspx <a href="<a href="https://scholar.google.com/citations?user=nxVowRQAAAAJ&hl=en#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DnxVowRQAAAAJ%26citation_for_view%3DnxVowRQAAAAJ%3A5Ul4iDaHHb8C%26tzom%3D300"><img src = "/logos/google-scholar-1.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>"><img src = "/logos/google-scholar-1.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
-
+Mehta, R., Henriksen, D., & Rosenberg, J. M. (2019). It's not about the tools. *Educational Leadership, 76*(5), 64-69. Retrieved from http://www.ascd.org/publications/educational-leadership/feb19/vol76/num05/It's-Not-About-the-Tools.aspx <a href="<a href="https://scholar.google.com/citations?user=nxVowRQAAAAJ&hl=en#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DnxVowRQAAAAJ%26citation_for_view%3DnxVowRQAAAAJ%3A5Ul4iDaHHb8C%26tzom%3D300"><img src = "/logos/google-scholar-1.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>">
 \hangindent=2em
 Rosenberg, J. M., & Logan, C. W. (2017). Review of the book What’s Worth Teaching: Rethinking Curriculum in the Age of Technology, by A. Collins. *Teachers College Record*. http://www.tcrecord.org/Content.asp?ContentID=22173
 
@@ -520,6 +521,7 @@ Rosenberg, J. (2013). Review of mobile device use policies in public high school
 
 ## Posts in the Popular Press (1)
 
+\hangindent=2em
 Rosenberg, J. M. (2021). School posts on Facebook could threaten student privacy. *The Conversation*. https://theconversation.com/school-posts-on-facebook-could-threaten-student-privacy-160248
 
 ## Blog posts and reports (4)
@@ -1187,6 +1189,8 @@ I have contributed to a number of open-source projects by filing issues or makin
 
 ### Invited Participation in Workshops/Working Groups
 
+Participant, *National Academies Workshop on Data Science Education*, Naional Academies of Sciences, Engineering and Medicine, 2022  
+
 Participant, *Open Scholarship in Education small expert meeting*, Center for Open Science, 2022  
 
 Participant, *New applications of social network analysis to education policy: Building the capacity of the field*, Spencer Foundation, 2021
@@ -1206,6 +1210,8 @@ Early Career Seminar, Association for Educational Communications and Technology,
 Research Methods with Diverse Groups Advanced Training Institute, American Psychological Association, 2014
 
 ### Media/Podcasts
+
+2022, EdWeek, *Teaching Students to Understand the Uncertainties of Science Could Help Build Public Trust*, https://www.edweek.org/teaching-learning/teaching-students-to-understand-the-uncertainties-of-science-could-help-build-public-trust/2022/07
 
 2021, Tennessee News Service, https://www.publicnewsservice.org/cuts/75/rss-75345-1.mp3
 

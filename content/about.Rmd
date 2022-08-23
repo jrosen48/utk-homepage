@@ -68,7 +68,7 @@ render_toc <- function(
 render_toc('about.Rmd')
 ```
 
-# Contact Information  
+# Contact Information
 
 Assistant Professor, STEM Education  
 Department of Theory and Practice in Teacher Education  
@@ -156,7 +156,11 @@ C.D. Owen High School, Swannanoa, NC
 
 ## Consultant and Advisory Board Member
 
-2021-2026, Advisory Board Member, *SEER Research Network for Digital Learning Platforms*, Jeremy Roschelle (PI), Institute for Education Sciences, Digital Learning Platforms to Enable Efficient Education Research Network
+2022-2025, Advisory Board Member, *A Learning Ecosystem for Teaching High School Students Machine Learning Concepts and Data Science Skills in Healthcare and Medicine*, Kathryn  Eller (PI; East Bay Educational Collaborative), National Science Foundation. https://www.nsf.gov/awardsearch/showAward?AWD_ID=2148451&HistoricalAwards=false
+
+2022-2025, Advisory Board Member, *Mathematizing, Visualizing, and Power (MVP): Appalachian youth becoming data artists for community learning*, Lynn Hodge (PI), National Science Foundation, https://www.nsf.gov/awardsearch/showAward?AWD_ID=2215004&HistoricalAwards=false
+
+2021-2026, Advisory Board Member, *SEER Research Network for Digital Learning Platforms*, Jeremy Roschelle (PI; Digital PRomise), Institute for Education Sciences, Digital Learning Platforms to Enable Efficient Education Research Network
 
 2021-2022, Lead STEM Education Consultant,*Supporting Students’ Meaningful Engagement With Data From Small Orbiting Satellites*, Art Palisoc (PI), STEM Ed LLC, NSF Phase I SBIR, *STEM Experiments and Games in Low Earth Orbit – Making STEM Learning Fun*
 
@@ -222,11 +226,11 @@ Estrellado, R. A., Freer, E. A.,  Mostipak, J., Rosenberg, J. M., & Velásquez, 
 
 ## Articles Published in Refereed Journals (43)
 
-Jones. R. S., & Rosenberg, J. M. (in press). Characterizing whole class discussions about data and statistics with conversation profile analysis. *Journal of Mathematical Behavior.*
+Kubsch, M., Krist, C., & Rosenberg, J. M. (in press). Distributing Epistemic Functions and Tasks - A framework for augmenting human analytic power with machine learning in science education research. *Journal of Research in Science Teaching*. https://osf.io/sg9jk/. https://onlinelibrary.wiley.com/doi/full/10.1002/tea.21803. *Note.* All authors contributed equally.
+
+Jones. R. S., & Rosenberg, J. M. (in press). Characterizing whole class discussions about data and statistics with conversation profile analysis. *Journal of Mathematical Behavior.* https://www.sciencedirect.com/science/article/abs/pii/S0732312322000645
 
 Rosenberg, J., ^Borchers, C., ^Burchfield, M. A., Anderson, D., Stegenga, S. M., & Fischer, C. (in press). Schools share students’ personally identifiable information on Facebook. *Educational Researcher*. https://doi.org/10.35542/osf.io/j89pf
-
-Kubsch, M., Krist, C., & Rosenberg, J. M. (in press). Distributing Epistemic Functions and Tasks - A framework for augmenting human analytic power with machine learning in science education research. *Journal of Research in Science Teaching*. https://osf.io/sg9jk/. *Note.* All authors contributed equally.
 
 Rosenberg, J. M., Schultheis, E., Kjelvik, M., Reedy, A., & \+Sultana, O. (2022). Big data, big changes? A survey of K-12 science teachers in the United States on which data sources and tools they use in the classroom. *British Journal of Educational Technology.* https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.13245
 
@@ -328,21 +332,10 @@ Rosenberg, J. M., ^Burchfield, M. B., ^Borchers, C., ^Gibbons, B., & Anderson, D
 
 Kimmons, R., Rosenberg, J., & Allman, B. (2021). Trends in Educational Technology: What Facebook, Twitter, and Scopus Can Tell us about Current Research and Practice. *TechTrends*, 1-12. https://link.springer.com/article/10.1007/s11528-021-00589-6
 
-Mehta, R., Henriksen, D., & Rosenberg, J. M. (2019). It's not about the tools. *Educational Leadership, 76*(5), 64-69. Retrieved from http://www.ascd.org/publications/educational-leadership/feb19/vol76/num05/It's-Not-About-the-Tools.aspx <a href="<a href="https://scholar.google.com/citations?user=nxVowRQAAAAJ&hl=en#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DnxVowRQAAAAJ%26citation_for_view%3DnxVowRQAAAAJ%3A5Ul4iDaHHb8C%26tzom%3D300"><img src = "/logos/google-scholar-1.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>"><img src = "/logos/google-scholar-1.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
-
+Mehta, R., Henriksen, D., & Rosenberg, J. M. (2019). It's not about the tools. *Educational Leadership, 76*(5), 64-69. Retrieved from http://www.ascd.org/publications/educational-leadership/feb19/vol76/num05/It's-Not-About-the-Tools.aspx <a href="<a href="https://scholar.google.com/citations?user=nxVowRQAAAAJ&hl=en#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DnxVowRQAAAAJ%26citation_for_view%3DnxVowRQAAAAJ%3A5Ul4iDaHHb8C%26tzom%3D300"><img src = "/logos/google-scholar-1.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>">
 Rosenberg, J. M., & Logan, C. W. (2017). Review of the book What’s Worth Teaching: Rethinking Curriculum in the Age of Technology, by A. Collins. *Teachers College Record*. http://www.tcrecord.org/Content.asp?ContentID=22173
 
 Phillips, M., Harris, J., Rosenberg, J. M., & Koehler, M. J. (2017). TPCK/TPACK research and development: Past, present, and future directions. *Australasian Journal of Educational Technology*. https://doi.org/10.14742/ajet.3907 <a href="https://scholar.google.com/citations?user=nxVowRQAAAAJ&hl=en&authuser=2#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DnxVowRQAAAAJ%26authuser%3D2%26citation_for_view%3DnxVowRQAAAAJ%3AhkOj_22Ku90C%26tzom%3D300"><img src = "/logos/google-scholar-1.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
-
-## Articles Under Review (5)
-
-Rosenberg, J. M. (under review). Facebook as data: A primer for educational technology researchers. *Educational Technology Research & Development*. https://edarxiv.org/274yv/
-
-Rosenberg, J. M., Beymer, P. N., Phun, V., & Schmidt, J. A. (under review). The sources of variation for learners’ situational engagement: An investigation using intensive longitudinal methods. *International Journal of Educational Research*. https://osf.io/pj2v8/
-
-Carpenter, J., Morrison, S., Rosenberg, J. M., & Hawthorne, K. (under review). Building pre-service teachers’ professional learning networks with a program-wide Twitter hashtag. *Teaching & Teacher Education*.
-
-Rosenberg, J., Borchers, C., Burchfield, M. A., Anderson, D., Stegenga, S. M., & Fischer, C. (accepted pending minor revisions). When sharing isn't caring: How educational institutions share students’ personally identifiable information on Facebook. https://doi.org/10.35542/osf.io/zbw4h
 
 ## Contributions to Edited Volumes (10)
 
@@ -729,6 +722,8 @@ Teaching Assistant at Michigan State University:
 
 ### Editorial Service
 
+Editorial Review Board Member, *Review of Educational Research*, 2022 - Present
+
 Editorial Review Board Member, *Journal of Research on Technology in Education*, 2016 - Present
 
 Editorial Review Board Member, *Contemporary Issues in Technology and Teacher Education (Science Education Section)*, 2019 - Present
@@ -957,6 +952,8 @@ I have contributed to a number of open-source projects by filing issues or makin
 
 ### Invited Participation in Workshops/Working Groups
 
+Participant, *National Academies Workshop on Data Science Education*, Naional Academies of Sciences, Engineering and Medicine, 2022  
+
 Participant, *Open Scholarship in Education small expert meeting*, Center for Open Science, 2022  
 
 Participant, *New applications of social network analysis to education policy: Building the capacity of the field*, Spencer Foundation, 2021
@@ -976,6 +973,8 @@ Early Career Seminar, Association for Educational Communications and Technology,
 Research Methods with Diverse Groups Advanced Training Institute, American Psychological Association, 2014
 
 ### Media/Podcasts
+
+2022, EdWeek, *Teaching Students to Understand the Uncertainties of Science Could Help Build Public Trust*, https://www.edweek.org/teaching-learning/teaching-students-to-understand-the-uncertainties-of-science-could-help-build-public-trust/2022/07
 
 2021, Tennessee News Service, https://www.publicnewsservice.org/cuts/75/rss-75345-1.mp3
 
