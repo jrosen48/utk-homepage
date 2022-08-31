@@ -7,7 +7,7 @@ categories: []
 tags: []
 ---
 
-This has been a week of loss and reflecting on loss, a hard one without a respite apart from in the comfort of family and friends. Before this week, I was listening to the Watchhouse song titled Echo, and it is _more_ appropriate for this week. It is a sad song, with no comfort apart from that offered by experiencing the sadness as it comes. I'll note - my family and I are safe and well - so don't worry about us!
+This has been a week of loss and reflecting on loss, a hard one without a respite apart from in the comfort of family and friends. Before this week, I was listening to the [Watchhouse song titled Echo](https://www.youtube.com/watch?v=s3VtlYjDmFM), and it is _more_ appropriate for this week. It is a sad song, with no comfort apart from that offered by experiencing the sadness as it comes. I'll note - my family and I are safe and well - so don't worry about us!
 
 Well I try to close my eyes
 Clear my mind
