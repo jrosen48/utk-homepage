@@ -22,3 +22,5 @@ And here's the part that mentions our research:
 > “Our research has revealed that the accessibility of photos of students may be far greater than most parents realize,” Rosenberg and his colleagues concluded. “Minor students in particular may not yet fully understand how their likeness is being used and shared by their educational institution, and the adults in their lives have a responsibility to protect and care for them.”
 
 I am keen to continue this work with my amazing colleagues Sondra Stegenga, Macy Burchfield, Conrad Borchers, Alexa Fox, and Christian Fischer. Thanks to them for the opportunity to work on this together.
+
+One last note. The above quote was from an article in *Phi Delta Kappan*. We received the proofs for our most recent findings from this research to be published in a brief paper for *Educational Researcher*; I hope to share about that in the next week or so.
