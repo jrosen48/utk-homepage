@@ -23,4 +23,4 @@ And here's the part that mentions our research:
 
 I am keen to continue this work with my amazing colleagues Sondra Stegenga, Macy Burchfield, Conrad Borchers, Alexa Fox, and Christian Fischer. Thanks to them for the opportunity to work on this together.
 
-One last note. The above quote was from an article in *Phi Delta Kappan*. We received the proofs for our most recent findings from this research to be published in a brief paper for *Educational Researcher*; I hope to share about that in the next week or so.
+One last note. The above quote was from [an article in *Phi Delta Kappan*](https://kappanonline.org/social-media-students-privacy-facebook-rosenberg/). We received the proofs for our most recent findings from this research to be published in a brief paper for *Educational Researcher*; I hope to share about that in the next week or so.
