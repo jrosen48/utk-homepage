@@ -793,7 +793,7 @@ Dyer, E. B., Rosenberg, J. M., Bosch, N., Krist, C., & D'Angelo, C. (September, 
 Anderson, D., Rosenberg, J. M., Sáez, L., & Seeley, J. R. (September, 2020). *Using extreme gradient boosting to estimate community effects on school readiness*. Presentation at the AERA Satellite Conference on Educational Data Science, Stanford, CA.
 
 \hangindent=2em
-Estrellado, R. A., Bovee, E. A., Mostipak, J., Rosenberg, J. M., & Velásquez, I. C. (July, 2020). *Expanding R into education*. Presentation at the useR conference, St. Louis, MO.
+Estrellado, R. A., Bovee, E. A., Mostipak, J., Rosenberg, J. M., & Velásquez, I. C. (July, 2020). *Expanding R into education*. Presentation at the useR conference, St. Louis, MO. (conference canceled)
 
 \hangindent=2em
 Rosenberg, J. M., Qinyun, L., Xu, R., Maroulis, S., & Frank, K. A. (July, 2020). *The konfound R package and Shiny app for robustness analysis*. Presentation at the useR conference, St. Louis, MO.

@@ -605,10 +605,8 @@ Koehler, M. J., Rosenberg, J. M., Greenhalgh, S., Zellner, A. L., & Mishra, P. (
 
 ## Other Presentations
 
-\hangindent=2em 
 ^Gibbons, B., Bui, H., \+Mann, M., \+Longnecker, J., Dyer, E., & Rosenberg, J. M. (2021, January). *Insights on the current and preferred integration of computer science into K-8 education in Tennessee*. Presentation at the 15th Annual Tennessee STEM Education Research Conference. https://www.pechakucha.com/presentations/insights-on-the-current-and-preferred-integration-of-computer-science-into-k-8-education-in-tennessee
 
-\hangindent=2em 
 Rosenberg, J. M., \+Sultana, O., \+Mann, M., \+Carter, B., \+Kenner, N., & \+Edwards, A. (2021, January). *How can K-12 science learners analyze data in creative and ambitious ways? Early findings from a design-based research project*. Presentation at the 15th Annual Tennessee STEM Education Research Conference.
 
 Rosenberg, J. M., Dyer, E. B., Anderson, D. J., & Fischer, C. (September, 2020). *If you’re happy and you know it, post a tweet? A study of the sentiment of posts to the #NGSSchat hashtag on Twitter*. Presentation at the AERA Satellite Conference on Educational Data Science, Stanford, CA.
@@ -617,7 +615,7 @@ Dyer, E. B., Rosenberg, J. M., Bosch, N., Krist, C., & D'Angelo, C. (September, 
 
 Anderson, D., Rosenberg, J. M., Sáez, L., & Seeley, J. R. (September, 2020). *Using extreme gradient boosting to estimate community effects on school readiness*. Presentation at the AERA Satellite Conference on Educational Data Science, Stanford, CA.
 
-Estrellado, R. A., Bovee, E. A., Mostipak, J., Rosenberg, J. M., & Velásquez, I. C. (July, 2020). *Expanding R into education*. Presentation at the useR conference, St. Louis, MO.
+Estrellado, R. A., Bovee, E. A., Mostipak, J., Rosenberg, J. M., & Velásquez, I. C. (July, 2020). *Expanding R into education*. Presentation at the useR conference, St. Louis, MO. (conference canceled)
 
 Rosenberg, J. M., Qinyun, L., Xu, R., Maroulis, S., & Frank, K. A. (July, 2020). *The konfound R package and Shiny app for robustness analysis*. Presentation at the useR conference, St. Louis, MO.
 
@@ -933,7 +931,7 @@ Rosenberg, J. M. (2016). Diffusion & temperature. *Lab Interactive Simulation.* 
 
 ### Invited Participation in Workshops/Working Groups
 
-Participant, *Foundations of data science for students in grades K-12: A workshop*, Naional Academies of Sciences, Engineering and Medicine, 2022  
+Participant, *Foundations of data science for students in grades K-12: A workshop*, National Academies of Sciences, Engineering and Medicine, 2022  
 
 Participant, *Open Scholarship in Education small expert meeting*, Center for Open Science, 2022  
 
