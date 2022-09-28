@@ -263,7 +263,7 @@ Schweinsburg, M., ... Luis, S. (2021). Same data, different conclusions: Radical
 Greenhalgh, S. P., Rosenberg, J. M., & Russell, A. (2021). The influence of policy and context on teachers’ social media use. *The British Journal of Educational Technology, 52*(5), 2020-2037. https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.13096?af=R
 
 \hangindent=2em
-Frank, K. A., Lin, Q., Maroulis, S., Strassman, A., Xu, R., Rosenberg, J. M., Hayter, C., Mahmoud, R., Kolak, M., Dietz, T., & Zhang, L. (2021). Hypothetical case replacement can be used to quantify the robustness of trial results. *Journal of Clinical Epidemiology, 134*(6), 150-159. https://www.sciencedirect.com/science/article/pii/S0895435621000366 (*N.B.:* I was a scientific programmer for this project).
+Frank, K. A., Lin, Q., Maroulis, S., Strassman, A., Xu, R., Rosenberg, J. M., Hayter, C., Mahmoud, R., Kolak, M., Dietz, T., & Zhang, L. (2021). Hypothetical case replacement can be used to quantify the robustness of trial results. *Journal of Clinical Epidemiology, 134*(6), 150-159. https://www.sciencedirect.com/science/article/pii/S0895435621000366 *Note.* I was a scientific programmer for this project.
 
 \hangindent=2em
 Rosenberg, J. M., ^Borchers, C., Dyer, E., Anderson, D. J., & Fischer, C. (2021). Advancing new methods for understanding public sentiment about educational reforms: The case of Twitter and the Next Generation Science Standards. *AERA Open*, 1-17. https://journals.sagepub.com/doi/10.1177/23328584211024261
@@ -381,7 +381,7 @@ Kessler, A. M., Likely, R., & Rosenberg, J. (2021). Open for whom? The need to d
 Rosenberg, J. M., ^Burchfield, M. B., ^Borchers, C., ^Gibbons, B., & Anderson, D., and Fischer, C. (2021). Posts on Facebook by schools and districts and the potential risks to students’ privacy. *Phi Delta Kappan*. https://kappanonline.org/social-media-students-privacy-facebook-rosenberg/
 
 \hangindent=2em
-Kimmons, R., Rosenberg, J., & Allman, B. (2021). Trends in Educational Technology: What Facebook, Twitter, and Scopus Can Tell us about Current Research and Practice. *TechTrends*, 1-12. https://link.springer.com/article/10.1007/s11528-021-00589-6
+Kimmons, R., Rosenberg, J., & Allman, B. (2021). Trends in educational technology: What Facebook, Twitter, and Scopus can tell us about current research and practice. *TechTrends, 65*(2), 125-136.
 
 \hangindent=2em
 Mehta, R., Henriksen, D., & Rosenberg, J. M. (2019). It's not about the tools. *Educational Leadership, 76*(5), 64-69. Retrieved from http://www.ascd.org/publications/educational-leadership/feb19/vol76/num05/It's-Not-About-the-Tools.aspx <a href="<a href="https://scholar.google.com/citations?user=nxVowRQAAAAJ&hl=en#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DnxVowRQAAAAJ%26citation_for_view%3DnxVowRQAAAAJ%3A5Ul4iDaHHb8C%26tzom%3D300"><img src = "/logos/google-scholar-1.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>">
@@ -425,6 +425,11 @@ Koehler, M. J., Mishra, P., Akcaoglu, M., & Rosenberg, J. M. (2013). Technologic
 
 ## Papers Published in Refereed Conference Proceedings (30)
 
+
+
+\hangindent=2em
+Lishinski, A., Narvaiz, S., and Rosenberg, J. M. (2022). Self-efficacy, Interest, and Belongingness – URM Students’ Momentary Experiences in CS1. Proceedings of the 2022 ACM Conference on International Computing Education Research (ICER ’22). https://dl.acm.org/doi/abs/10.1145/3501385.3543958. *Note.* Unlike most of academia, premiere conferences in computing education are selective venues for archival research. Thiese conference proceedings exceed many journals in their selectivity, visibility, and impact.
+
 \hangindent=2em
 Thomas, T., Rosenberg, J. M., Penner, E. & Burchfield, M. (in press). Racism and school districts' social media posts: "Is it being talked about?". Proceedings for the *Social Media and Society* conference.
 
@@ -438,7 +443,7 @@ Carpenter, J., Morrison, S., Rosenberg, J., & Hawthorne, K. (2022). Professional
 Borchers, C., Rosenberg, J., Gibbons, B., Burchfield, M., & Fischer, C. (2021). To scale or not to scale: Comparing popular sentiment analysis dictionaries on educational Twitter data. In I.-H. Hsiao, S. Sahebi, F. Bouchet, & J.-J. Vie (Eds), *Proceedings of the 14th International Conference on Educational Data Mining* (pp. 619-624). T Paris, France. https://educationaldatamining.org/EDM2021/virtual/static/pdf/EDM21_paper_122.pdf
 
 \hangindent=2em
-Burchfield, M., Rosenberg, J., Borchers, C., Thomas, T., Gibbons, B., & Fischer, C. (2021). Are violations of student privacy “quick and easy”? Investigating the privacy of students’ images and names in the context of K-12 educational institution’s posts on Facebook. In I.-H. Hsiao, S. Sahebi, F. Bouchet, & J.-J. Vie (Eds), *Proceedings of the 14th International Conference on Educational Data Mining* (pp. 744-749), Paris, France. *Note.* This presentation received the best poster award. https://educationaldatamining.org/EDM2021/virtual/static/pdf/EDM21_paper_276.pdf
+Burchfield, M., Rosenberg, J., Borchers, C., Thomas, T., Gibbons, B., & Fischer, C. (2021). Are violations of student privacy “quick and easy”? Investigating the privacy of students’ images and names in the context of K-12 educational institution’s posts on Facebook. In I.-H. Hsiao, S. Sahebi, F. Bouchet, & J.-J. Vie (Eds), *Proceedings of the 14th International Conference on Educational Data Mining* (pp. 744-749), Paris, France. https://educationaldatamining.org/EDM2021/virtual/static/pdf/EDM21_paper_276.pdf. *Note.* This presentation received the best poster award. Unlike most of academia, premiere conferences in computing education are selective venues for archival research. Thiese conference proceedings exceed many journals in their selectivity, visibility, and impact.
 
 \hangindent=2em
 Lishinski, A., & Rosenberg, J. (2021). All the pieces matter: The relationship of momentary self-efficacy and affective experiences with CS1 achievement and interest in computing. *Proceedings of the 17th ACM Conference on International Computing Education Research*, 252–265. https://doi.org/10.1145/3446871.3469740
@@ -772,10 +777,10 @@ Koehler, M. J., Rosenberg, J. M., Greenhalgh, S., Zellner, A. L., & Mishra, P. (
 
 ## Other Presentations
 
-\hangindent=2em 
+\hangindent=2em
 ^Gibbons, B., Bui, H., \+Mann, M., \+Longnecker, J., Dyer, E., & Rosenberg, J. M. (2021, January). *Insights on the current and preferred integration of computer science into K-8 education in Tennessee*. Presentation at the 15th Annual Tennessee STEM Education Research Conference. https://www.pechakucha.com/presentations/insights-on-the-current-and-preferred-integration-of-computer-science-into-k-8-education-in-tennessee
 
-\hangindent=2em 
+\hangindent=2em
 Rosenberg, J. M., \+Sultana, O., \+Mann, M., \+Carter, B., \+Kenner, N., & \+Edwards, A. (2021, January). *How can K-12 science learners analyze data in creative and ambitious ways? Early findings from a design-based research project*. Presentation at the 15th Annual Tennessee STEM Education Research Conference.
 
 \hangindent=2em
@@ -940,9 +945,9 @@ Editorial Review Board Member, *Review of Educational Research*, 2022 - Present
 
 Editorial Review Board Member, *Journal of Research on Technology in Education*, 2016 - Present
 
-Editorial Review Board Member, *Contemporary Issues in Technology and Teacher Education (Science Education Section)*, 2019 - Present
+Editorial Review Board Member, *Contemporary Issues in Technology and Teacher Education (Science Education Section)*, 2019 - 2022
 
-Special Sectiom Editor, *British Journal of Educational Technology*, 2022
+Special Section Editor, *British Journal of Educational Technology*, 2022
 
 Editorial Review Board Member, *Journal of Research in Science Teaching*, 2019-2022  
 
@@ -1161,7 +1166,7 @@ Rosenberg, J. M. (2016). Diffusion & temperature. *Lab Interactive Simulation.* 
 
 ### Invited Participation in Workshops/Working Groups
 
-Participant, *Foundations of data science for students in grades K-12: A workshop*, Naional Academies of Sciences, Engineering and Medicine, 2022  
+Participant, *Foundations of data science for students in grades K-12: A workshop*, National Academies of Sciences, Engineering and Medicine, 2022  
 
 Participant, *Open Scholarship in Education small expert meeting*, Center for Open Science, 2022  
 

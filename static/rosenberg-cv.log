@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.17)  17 SEP 2022 09:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.17)  28 SEP 2022 13:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -432,63 +432,33 @@ Underfull \hbox (badness 1675) in paragraph at lines 614--619
  []
 
 [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17]
-Underfull \hbox (badness 10000) in paragraph at lines 1494--1500
+Underfull \hbox (badness 10000) in paragraph at lines 1506--1512
 []$\T1/lmr/m/n/10 https : / / www . pechakucha . com / presentations / insights -[] on -[] the -[] current -[] and -[] preferred -[] integration -[] of -[]
  []
 
 [18]
-Underfull \hbox (badness 10000) in paragraph at lines 1574--1580
+Underfull \hbox (badness 10000) in paragraph at lines 1586--1592
 \T1/lmr/m/n/10 Ger-many. []$https : / / joshuamrosenberg . com / post / 2021 / 07 / 19 / an -[] introduction -[] to -[] natural -[] language -[]
  []
 
 [19] [20]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1716.
+(hyperref)                than one, level fixed on input line 1728.
 
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1762.
+(hyperref)                than one, level fixed on input line 1774.
 
 [21]
-Overfull \hbox (37.82834pt too wide) in paragraph at lines 1824--1826
+Overfull \hbox (37.82834pt too wide) in paragraph at lines 1836--1838
 []\T1/lmr/m/n/10 Mentor, Di-ver-sity in Learn-ing An-a-lyt-ics and Lead-er-ship pro-gram, []$https : / / www . diversityindataandleadershipprogram .
  []
 
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1837.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1849.
 (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-Underfull \hbox (badness 10000) in paragraph at lines 1837--1839
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1839--1841
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1841--1843
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1843--1845
-
- []
-
-[22]
-Underfull \hbox (badness 10000) in paragraph at lines 1845--1847
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1847--1849
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 1849--1851
 
  []
@@ -508,7 +478,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1855--1857
 
  []
 
-
+[22]
 Underfull \hbox (badness 10000) in paragraph at lines 1857--1859
 
  []
@@ -548,78 +518,108 @@ Underfull \hbox (badness 10000) in paragraph at lines 1871--1873
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 1873--1875
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1875--1877
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1877--1879
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1879--1881
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1881--1883
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1883--1885
+
+ []
+
 [23]
-Underfull \hbox (badness 10000) in paragraph at lines 1929--1931
+Underfull \hbox (badness 10000) in paragraph at lines 1941--1943
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1931--1933
+Underfull \hbox (badness 10000) in paragraph at lines 1943--1945
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1933--1935
+Underfull \hbox (badness 10000) in paragraph at lines 1945--1947
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1943--1946
+Underfull \hbox (badness 10000) in paragraph at lines 1955--1958
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1946--1949
+Underfull \hbox (badness 10000) in paragraph at lines 1958--1961
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1949--1951
+Underfull \hbox (badness 10000) in paragraph at lines 1961--1963
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1951--1954
+Underfull \hbox (badness 10000) in paragraph at lines 1963--1966
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1954--1956
+Underfull \hbox (badness 10000) in paragraph at lines 1966--1968
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1956--1958
+Underfull \hbox (badness 10000) in paragraph at lines 1968--1970
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1971--1975
+Underfull \hbox (badness 10000) in paragraph at lines 1983--1987
 []$\T1/lmr/m/n/10 https : / / joshuamrosenberg . com / post / 2022 / 03 / 24 / what -[] is -[] the -[] role -[] of -[] data -[] science -[] in -[] k -[] 12 -[] teaching -[]
  []
 
 [24] [25]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 2090.
+(hyperref)                than one, level fixed on input line 2102.
 
 [26]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 2154.
+(hyperref)                than one, level fixed on input line 2166.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2193--2196
+Underfull \hbox (badness 10000) in paragraph at lines 2205--2208
 \T1/lmr/m/it/10 Trust\T1/lmr/m/n/10 , []$https : / / www . edweek . org / teaching -[] learning / teaching -[] students -[] to -[] understand -[] the -[] uncertainties -[] of -[]
  []
 
 
-Underfull \hbox (badness 1424) in paragraph at lines 2210--2212
+Underfull \hbox (badness 1424) in paragraph at lines 2222--2224
 []\T1/lmr/m/n/10 2021, Vi-sions of Ed-u-ca-tion pod-cast, []$https : / / visionsofed . com / 2021 / 05 / 27 / episode -[] 166 -[] data -[] science -[] in -[]
  []
 
 [27]
-Overfull \hbox (11.5356pt too wide) in paragraph at lines 2225--2227
+Overfull \hbox (11.5356pt too wide) in paragraph at lines 2237--2239
 []\T1/lmr/m/n/10 2018-2019, Co-host, \T1/lmr/m/it/10 Im-pod-ster Syn-drome \T1/lmr/m/n/10 pod-cast, []$https : / / drive . google . com / drive / folders / 1fwSaEKt9QzJPUlf -[]
  []
 
@@ -636,10 +636,10 @@ Here is how much of TeX's memory you used:
  14 hyphenation exceptions out of 8191
  72i,6n,77p,449b,497s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb>
-Output written on rosenberg-cv.pdf (28 pages, 261596 bytes).
+Output written on rosenberg-cv.pdf (28 pages, 262098 bytes).
 PDF statistics:
- 679 PDF objects out of 1000 (max. 8388607)
- 631 compressed objects within 7 object streams
+ 678 PDF objects out of 1000 (max. 8388607)
+ 630 compressed objects within 7 object streams
  139 named destinations out of 1000 (max. 500000)
  441 words of extra memory for PDF output out of 10000 (max. 10000000)
 
