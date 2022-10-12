@@ -7,7 +7,7 @@ categories: []
 tags: []
 ---
 
-I'm not a hero here, but one small step I've taken at previous stages in my career to share materials that are conventionally kept private has been useful to others - and me, especially:
+I'm not a hero here, but one small step I've taken at previous stages in my career to share materials that are conventionally kept private has been useful to others - and me, as a reference, especially:
 
 - [Academic Job Market Resources](https://joshuamrosenberg.com/job-market-resources) (including the cover letter I used in 2017 to apply for my current job and my research, teaching, and diversity statements)
 - [Materials for an NSF Building Capacity in STEM Education Research](https://joshuamrosenberg.com/post/2020/05/22/materials-for-nsf-bcser-proposal/) grant proposal that was awarded funding in 2019
