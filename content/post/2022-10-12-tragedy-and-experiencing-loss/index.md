@@ -15,4 +15,4 @@ It hit me hard when I read that they were expecting their second child when they
 
 ---
 
-Katie and I just planted a small flowering plant that she and I picked out---actually, that our son recommended strongly we pick out at Ace Hardware!---, one that flowers in spring. It was to recognize an experience of loss - that, rather than tragedy, I think, but a loss that maybe provides one with access to the experiences of others' of tragedy. Katie had a miscarriage expecting our second child. A friend recommended we take a step to recognize and honor the loss we experienced and I am glad that we did.
+Katie and I just planted a small flowering plant that she and I picked out---actually, that our son recommended strongly we pick out at Ace Hardware!---one that flowers in spring. It was to recognize an experience of loss - that, rather than tragedy, I think, but a loss that maybe provides one with access to the experiences of others' of tragedy. Katie had a miscarriage expecting our second child. It has been hard but I am very, very proud of how Katie has experienced this - mourned it, recognized it, and taken steps to hearl from it. 
