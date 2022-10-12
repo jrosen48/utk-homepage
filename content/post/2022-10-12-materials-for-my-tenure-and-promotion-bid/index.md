@@ -22,7 +22,7 @@ The [tenure dossier at my institution](https://facultyhandbook.utk.edu/appendice
 
 In addition, I was required to upload a variety of documents that are effectively reorganized and annotated portions of my CV. Here's the CV I uploaded:
 
-- [CV](rosenberg-cv-2022-09-30.pdf)
+- [CV](https://joshuamrosenberg.com/rosenberg-cv-2022-09-30.pdf)
 
 I received a lot of help from many others in putting these together. Moreover, I've received a lot of help from many others in my work. Thank you to everyone who provided that help. I will work hard to pass on the great support I have had to others.
 
