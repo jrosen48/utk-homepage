@@ -7,7 +7,11 @@ categories: []
 tags: []
 ---
 
-I think [the University of Tennessee, Knoxville's Chancellor, Donde Plowman](https://chancellor.utk.edu/meet-chancellor-donde-plowman/) has done an excellent job. I watched the University of Tennessee, Knoxville and the University of Alabama football game over the weekend with excitement. When the University of Tennessee scored, I was thrilled. It was a great game, and at least on some level I think the Chancellor is right [when she ties athletic and academic/campus successes](https://twitter.com/UTKDailyBeacon/status/1581256947919044609). I think it is a good time to be at the University and I'm happy to be here.
+This is a post about celebrating the recent win by the University of Tennessee, Knoxville's football team. 
+
+I think [the University of Tennessee, Knoxville's Chancellor, Donde Plowman](https://chancellor.utk.edu/meet-chancellor-donde-plowman/) has done an excellent job. I watched the University of Tennessee, Knoxville and the University of Alabama football game over the weekend with excitement. When the University of Tennessee kicked a field goal as time ran out to win the game, I was thrilled. The last time I was that excited watching a football game was probably when my wife and I watched the Michigan State University Spartans beat the University of Michigan (and Ohio State University) around 2014-2015.
+
+It was a great game, and at least on some level I think the Chancellor is right [when she ties athletic and academic/campus successes](https://twitter.com/UTKDailyBeacon/status/1581256947919044609). I think it is a good time to be at the University and I'm happy to be here.
 
 When I saw students [rush the field after the game](https://www.knoxnews.com/story/sports/college/university-of-tennessee/football/2022/10/16/tennessee-football-fine-sec-fans-storming-field-alabama-game/69562166007/), I thought it looked joyous and fun. I wanted to be there. But when I saw students tear down the goal posts, it looked less like those things. Reporters detail how [students overran police](https://theathletic.com/3694732/2022/10/15/tennessee-goalposts-alabama/) to take the goal posts down and then remove the from the stadium:
 
