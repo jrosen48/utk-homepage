@@ -1,5 +1,5 @@
 ---
-title: A possibly unpopular message: Tearing down goal posts was not cool
+title: Tearing down goal posts was not cool
 author: ''
 date: '2022-10-17'
 slug: Tennessee-should-not-allow-students-to-tear-down-goal-posts
