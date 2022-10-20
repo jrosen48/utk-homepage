@@ -17,8 +17,12 @@ For those familiar with photography, I think the things that made this picture "
 
 I knew my camera also recorded high-quality video, and so I've been having some fun shooting video in 4k resolution --- a high definition resolution.
 
-The first was with video from a trip to a local bike park with my little one and a friend and his son. It's on YouTube [here](https://www.youtube.com/watch?v=Y60yPoxGWuM).
+The first was with video from a trip to a local bike park with my little one and a friend and his son. It's on YouTube (below).
 
-The second was from what I thought would be a 15-minute task that ended up being a two-hour task, recording a short description of a recent research paper. The video I shared on YouTube [here](https://www.youtube.com/watch?v=ok5I0JQk2NA) had some outtakes from my many, many attempts to record a few answers to questions about the research project.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y60yPoxGWuM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+The second was from what I thought would be a 15-minute task that ended up being a two-hour task, recording a short description of a recent research paper. The video I shared on YouTube (also below) had some outtakes from my many, many attempts to record a few answers to questions about the research project.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ok5I0JQk2NA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 There's not really much more of a point to this post --- just a chance to share a few videos! I do hope to do more with video (and audio) in my research as well as for sharing findings from research and see these (fun) activities as chances to learn more to be in a good position to do that.
