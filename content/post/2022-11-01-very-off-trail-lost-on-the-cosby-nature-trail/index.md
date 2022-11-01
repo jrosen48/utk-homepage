@@ -11,3 +11,5 @@ I've been having some more fun with recording and editing video - this one a sho
 
 <iframe src="https://player.vimeo.com/video/765492274?h=8e636fe398" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/765492274">Very Off-Trail, Lost on the Cosby Nature Trail.mp4</a> from <a href="https://vimeo.com/user115578748">Joshua Rosenberg</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+I didn't shoot this video using 4K - this was with 1080p and I think the difference is notable, but it still looks fun for this purpose.
