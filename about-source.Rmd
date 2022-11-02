@@ -390,7 +390,8 @@ Rosenberg, J. M., ^Burchfield, M. B., ^Borchers, C., ^Gibbons, B., & Anderson, D
 Kimmons, R., Rosenberg, J., & Allman, B. (2021). Trends in educational technology: What Facebook, Twitter, and Scopus can tell us about current research and practice. *TechTrends, 65*(2), 125-136.
 
 \hangindent=2em
-Mehta, R., Henriksen, D., & Rosenberg, J. M. (2019). It's not about the tools. *Educational Leadership, 76*(5), 64-69. Retrieved from http://www.ascd.org/publications/educational-leadership/feb19/vol76/num05/It's-Not-About-the-Tools.aspx <a href="<a href="https://scholar.google.com/citations?user=nxVowRQAAAAJ&hl=en#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DnxVowRQAAAAJ%26citation_for_view%3DnxVowRQAAAAJ%3A5Ul4iDaHHb8C%26tzom%3D300"><img src = "/logos/google-scholar-1.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>">
+Mehta, R., Henriksen, D., & Rosenberg, J. M. (2019). It's not about the tools. *Educational Leadership, 76*(5), 64-69. Retrieved from \url{http://www.ascd.org/publications/educational-leadership/feb19/vol76/num05/It's-Not-About-the-Tools.aspx}
+
 \hangindent=2em
 Rosenberg, J. M., & Logan, C. W. (2017). Review of the book What’s Worth Teaching: Rethinking Curriculum in the Age of Technology, by A. Collins. *Teachers College Record*. http://www.tcrecord.org/Content.asp?ContentID=22173
 
@@ -431,16 +432,14 @@ Koehler, M. J., Mishra, P., Akcaoglu, M., & Rosenberg, J. M. (2013). Technologic
 
 ## Papers Published in Refereed Conference Proceedings (30)
 
-
-
-\hangindent=2em
-Lishinski, A., Narvaiz, S., and Rosenberg, J. M. (2022). Self-efficacy, Interest, and Belongingness – URM Students’ Momentary Experiences in CS1. Proceedings of the 2022 ACM Conference on International Computing Education Research (ICER ’22). https://dl.acm.org/doi/abs/10.1145/3501385.3543958. *Note.* Unlike most of academia, premiere conferences in computing education are selective venues for archival research. Thiese conference proceedings exceed many journals in their selectivity, visibility, and impact.
-
 \hangindent=2em
 Thomas, T., Rosenberg, J. M., Penner, E. & Burchfield, M. (in press). Racism and school districts' social media posts: "Is it being talked about?". Proceedings for the *Social Media and Society* conference.
 
 \hangindent=2em
 Burchfield, M., Rosenberg, J. M., & Stegenga, S. (in press). Updated or outdated consent? A study of the media release policies of U.S. K-12 school districts. Proceedings for the *Social Media and Society* conference.
+
+\hangindent=2em
+Lishinski, A., Narvaiz, S., and Rosenberg, J. M. (2022). Self-efficacy, interest, and belongingness – URM Students’ momentary experiences in CS1. *Proceedings of the 2022 ACM Conference on International Computing Education Research* (ICER ’22). https://dl.acm.org/doi/abs/10.1145/3501385.3543958. *Note.* Unlike most of academia, premiere conferences in computing education are selective venues for archival research. Thiese conference proceedings exceed many journals in their selectivity, visibility, and impact.
 
 \hangindent=2em
 Carpenter, J., Morrison, S., Rosenberg, J., & Hawthorne, K. (2022). Professional learning networks for pre-service teachers: A social network analysis of a program-wide teacher education Twitter hashtag. In *Society for Information Technology & Teacher Education International Conference* (pp. 1489-1497). Association for the Advancement of Computing in Education (AACE). https://www.learntechlib.org/p/220934/
@@ -449,10 +448,10 @@ Carpenter, J., Morrison, S., Rosenberg, J., & Hawthorne, K. (2022). Professional
 Borchers, C., Rosenberg, J., Gibbons, B., Burchfield, M., & Fischer, C. (2021). To scale or not to scale: Comparing popular sentiment analysis dictionaries on educational Twitter data. In I.-H. Hsiao, S. Sahebi, F. Bouchet, & J.-J. Vie (Eds), *Proceedings of the 14th International Conference on Educational Data Mining* (pp. 619-624). T Paris, France. https://educationaldatamining.org/EDM2021/virtual/static/pdf/EDM21_paper_122.pdf
 
 \hangindent=2em
-Burchfield, M., Rosenberg, J., Borchers, C., Thomas, T., Gibbons, B., & Fischer, C. (2021). Are violations of student privacy “quick and easy”? Investigating the privacy of students’ images and names in the context of K-12 educational institution’s posts on Facebook. In I.-H. Hsiao, S. Sahebi, F. Bouchet, & J.-J. Vie (Eds), *Proceedings of the 14th International Conference on Educational Data Mining* (pp. 744-749), Paris, France. https://educationaldatamining.org/EDM2021/virtual/static/pdf/EDM21_paper_276.pdf. *Note.* This presentation received the best poster award. Unlike most of academia, premiere conferences in computing education are selective venues for archival research. Thiese conference proceedings exceed many journals in their selectivity, visibility, and impact.
+Burchfield, M., Rosenberg, J., Borchers, C., Thomas, T., Gibbons, B., & Fischer, C. (2021). Are violations of student privacy “quick and easy”? Investigating the privacy of students’ images and names in the context of K-12 educational institution’s posts on Facebook. In I.-H. Hsiao, S. Sahebi, F. Bouchet, & J.-J. Vie (Eds), *Proceedings of the 14th International Conference on Educational Data Mining* (pp. 744-749), Paris, France. https://educationaldatamining.org/EDM2021/virtual/static/pdf/EDM21_paper_276.pdf. 
 
 \hangindent=2em
-Lishinski, A., & Rosenberg, J. (2021). All the pieces matter: The relationship of momentary self-efficacy and affective experiences with CS1 achievement and interest in computing. *Proceedings of the 17th ACM Conference on International Computing Education Research*, 252–265. https://doi.org/10.1145/3446871.3469740
+Lishinski, A., & Rosenberg, J. (2021). All the pieces matter: The relationship of momentary self-efficacy and affective experiences with CS1 achievement and interest in computing. *Proceedings of the 17th ACM Conference on International Computing Education Research*, 252–265. https://doi.org/10.1145/3446871.3469740. *Note.* This presentation received the best poster award. Unlike most of academia, premiere conferences in computing education are selective venues for archival research. Thiese conference proceedings exceed many journals in their selectivity, visibility, and impact.
 
 \hangindent=2em
 Rosenberg, J. M., & Kubsch, M. (2021). Considering K-12 learners’ use of Bayesian methods. In E. de Vries, Y. Hod, & J., Ahn (Eds.), *The International Society of the Learning Sciences 2020 Conference Proceedings* (pp. 947-948). International Society of the Learning Sciences. https://repository.isls.org/handle/1/7635
@@ -555,10 +554,12 @@ Rosenberg, J. M. (2018). *Understanding work with data in summer STEM programs: 
 
 # Presentations 
 
-## Invited Talks (4)
+## Invited Talks (5)
 
 \hangindent=2em
 Rosenberg, J. M. (April, 2021). *AI and ML and data! Oh my! Supporting teachers’ and learners’ work by considering the human sides of data science*. Keynote presentation at the LEAD Graduate School and Research Network retreat. The University of Tübingen, Baden-Württemberg, Germany.
+
+Rosenberg, J. M. (October, 2021). *All together now: Leveraging data science techniques alongside traditional approaches to understand learning*. Invited presentation at the International Conference on Education Research. Seoul National University, Seoul, South Korea.
 
 \hangindent=2em
 Rosenberg, J. M. (February, 2020). *Studying education-focused Twitter hashtags in light of state-based and national policies and practices*. Presentation at the 2020 Spring Seminar Series at the Martin School of Public Policy at the University of Kentucky, Lexington, KY.
@@ -572,7 +573,7 @@ Rosenberg, J. M. (February, 2019). *Making sense of recent advances in the Techn
 ## Peer-Reviewed Conference Presentations (70)
 
 \hangindent=2em
-Carpenter, J., Morrison, S., Rosenberg, J. M., & Hawthorne, K. (2022, April). *Professional Learning and Networking for Preservice Teachers on Twitter: A Social Network Analysis of #BantshireEd*. Presentation at the American Educational Research Association Annual Meeting.
+Carpenter, J., Morrison, S., Rosenberg, J. M., & Hawthorne, K. (2022, April). *Professional learning and networking for preservice teachers on Twitter: A Social Network Analysis of #BantshireEd*. Presentation at the American Educational Research Association Annual Meeting.
 
 \hangindent=2em
 Lishinski, A., Rosenberg, J. M., \+Sultana, O., \+Mann, M., & Dunn, J. (2021, April). *A text messaging–based experience sampling method study of students' interest in introductory computer science*. Presentation at the American Educational Research Association Annual Meeting.
