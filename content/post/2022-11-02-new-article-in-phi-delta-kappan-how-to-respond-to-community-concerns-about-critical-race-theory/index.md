@@ -8,8 +8,6 @@ categories: []
 tags: []
 ---
 
-# Untitled
-
 With [Emily A. Hodge](https://www.montclair.edu/profilepages/view_profile.php?username=hodgee) and [Francesca A. López](https://ed.psu.edu/directory/dr-francesca-lopez), I am proud to share an article that involved looking at some district communication in the wake of last summer's contentious discussions about the contents of the school curriculum. Specifically, we examined the posts on Facebook by school districts, detailing some ways these messages could potentially be strengthened. 
 
 The core of the article draws on research about political messaging that points out that messages that are effective for achieving political means have the following features (drawing on work primarily by [Haney López]https://books.google.com/books?hl=en&lr=&id=ScKODwAAQBAJ&oi=fnd&pg=PR4&ots=P_kHHqIwjh&sig=NgXh4Uti3P2g6Wh-3mtQL4uS-EM#v=onepage&q&f=false):
