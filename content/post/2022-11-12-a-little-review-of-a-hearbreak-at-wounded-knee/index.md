@@ -33,7 +33,7 @@ Four days ago, [they petitioned the United States government](https://www.wbir.c
 
 ## fin
 
-The point is they are not gone, and this is a powerful remedy for how we---at least I---have thought about the people who not only have lived in what is now America, but who still live in this area, in many cases with sovereign status. I have much more to learn. In fact, the book hardly discussed the Cherokee and the other tribes of the Southeastern United States (probably due to its focus on history from the 1890s through the present, but if I can offer one critique, it's that it didn't pay enough attention to the history and present of the Cherokee, Creek, and other people in the Southeastern U.S.).
+The point is that Indians are not gone, and this is a powerful remedy for how we---at least I---have thought about the people who not only have lived in what is now America, but who still live in this area, in many cases with sovereign status. I have much more to learn. In fact, the book hardly discussed the Cherokee and the other tribes of the Southeastern United States (probably due to its focus on history from the 1890s through the present, but if I can offer one critique, it's that it didn't pay enough attention to the history and present of the Cherokee, Creek, and other people in the Southeastern U.S.).
 
 Further, the book is far from all optimism; it doesn't mean we don't have more work to do to restore and repay the damages that were and still are being done to Indians. But this book is one I can heartily recommend to those with interest the history of the people who lived here before most Americans who still live and in cases thrive in the present.
 
