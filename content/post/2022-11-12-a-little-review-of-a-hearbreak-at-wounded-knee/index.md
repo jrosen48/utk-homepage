@@ -1,5 +1,5 @@
 ---
-title: Not defeated, still living - a brief review of A Heartbreak at Wounded Knee
+title: Not defeated, still living - a brief and informal review of A Heartbreak at Wounded Knee
 author: ''
 date: '2022-11-12'
 slug: a-little-review-of-a-heartbreak-at-wounded-knee
