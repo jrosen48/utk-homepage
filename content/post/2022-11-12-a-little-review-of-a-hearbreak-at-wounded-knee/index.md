@@ -7,9 +7,13 @@ categories: []
 tags: []
 ---
 
+## The book
+
 My friend Spencer Greenhalgh recommended [A Heartbreak at Wounded Knee](https://www.penguinrandomhouse.com/books/316457/the-heartbeat-of-wounded-knee-by-david-treuer/), a history of the people who lived in what is now America. The thesis is simple: the Indians<sup>1</sup> were deceived, lied to, managed by corrupt officials, and destroyed by pandemics and war and all that accompanies pandemics, wars, deceit, lies, and corruption, but the Indian people endure and in cases thrive.
 
 This is a powerful thesis to me because it acknowledges a reality while also pointing to a new, less evident reality, namely that Indian culture has---in many but not all places---been kept, protected, and shared.
+
+## How the thesis of the book can help to understand the Cherokee Nations
 
 This thesis can serve as a tool for non-Indians like myself to try to understand Indian history and life. Here's an example. The enjoyable book [Stories from the Tennessee Valley](https://www.amazon.com/Natural-Histories-Stories-Tennessee-Outdoor/dp/1572335610) includes a chapter on river cane, used as a source of food and as a building material by the Cherokee people who lived and thrived around the Little Tennessee River (just south of the Great Smoky Mountains National Park)---but also much of Western North Carolina, Upstate South Carolina, East Tennessee, North Georgia, and Southwest Virginia.
 
@@ -27,6 +31,10 @@ Over the past several months, Knoxville residents can read about the Eastern Ban
 
 Four days ago, [they petitioned the United States government](https://www.wbir.com/article/news/local/eastern-band-of-cherokee-indians-asks-feds-to-return-land/51-ae73a74b-abfc-4d24-8566-220a2afccbc8) to return land they were promised. Five days ago, [news of how they have partnered with the United States Forest Service](https://wlos.com/news/local/eastern-band-cherokee-indians-usda-forest-service-develop-historic-proposal-tribal-protection-act-western-north-carolina-southern-region-appalachian-mountains) to collaborate on land management was announced. 
 
-The point is they are not gone, and this is a powerful remedy for how we---at least I---have thought about the people who not only have lived in what is now America, but who still live in this area, in many cases with sovereign status. I have much more to learn. Further, the book is far from all optimism; it doesn't mean we don't have more work to do to restore and repay the damages that were and still are being done to Indians. But this book is one I can heartily recommend to those with interest the history of the people who lived here before most Americans who still live and in cases thrive in the present.
+## fin
+
+The point is they are not gone, and this is a powerful remedy for how we---at least I---have thought about the people who not only have lived in what is now America, but who still live in this area, in many cases with sovereign status. I have much more to learn. In fact, the book hardly discussed the Cherokee and the other tribes of the Southeastern United States (probably due to its focus on history from the 1890s through the present, but if I can offer one critique, it's that it didn't pay enough attention to the history and present of the Cherokee, Creek, and other people in the Southeastern U.S.).
+
+Further, the book is far from all optimism; it doesn't mean we don't have more work to do to restore and repay the damages that were and still are being done to Indians. But this book is one I can heartily recommend to those with interest the history of the people who lived here before most Americans who still live and in cases thrive in the present.
 
 <sup>1</sup>Apart from the referent to each person's tribe/nation (e.g., the Ojibwe/Chippewa), *Indian* is preferred by many Indians---the author of this book and others; despite its evident issues, it seems to be the most commonly used term in the United States for the people who lived in what is now America by the peoples it refers to.
