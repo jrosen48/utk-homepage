@@ -1,5 +1,5 @@
 ---
-title: Missing Michigan, finding home
+title: Missing Michigan, finding home in Tennessee
 author: ''
 date: '2022-11-14'
 slug: songs-for-colder-weather
