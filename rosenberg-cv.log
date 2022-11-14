@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.30)  30 SEP 2022 13:02
-=======
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.17)  28 SEP 2022 13:46
->>>>>>> master
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.30)  14 NOV 2022 14:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -448,394 +444,225 @@ Underfull \hbox (badness 1168) in paragraph at lines 225--230
  []
 
 [3] [4] [5] [6] [7]
-Underfull \hbox (badness 1430) in paragraph at lines 611--616
+Underfull \hbox (badness 1430) in paragraph at lines 614--619
 \T1/lmr/m/n/10 Na-tional Academies of Sci-ences, En-gi-neer-ing, and Medicine for \T1/lmr/m/it/10 Foun-da-tions of Data Sci-ence
  []
 
 
-Underfull \hbox (badness 1675) in paragraph at lines 611--616
+Underfull \hbox (badness 1675) in paragraph at lines 614--619
 \T1/lmr/m/it/10 for Stu-dents in Grades K-12: A Work-shop\T1/lmr/m/n/10 . []$https : / / www . nationalacademies . org / event / 09 -[] 13 -[]
  []
 
 [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18] [19]
-<<<<<<< HEAD
-Underfull \hbox (badness 10000) in paragraph at lines 1507--1513
-=======
-Underfull \hbox (badness 10000) in paragraph at lines 1503--1509
->>>>>>> master
+Underfull \hbox (badness 10000) in paragraph at lines 1511--1517
 []$\T1/lmr/m/n/10 https : / / www . pechakucha . com / presentations / insights -[] on -[] the -[] current -[] and -[] preferred -[] integration -[] of -[]
  []
 
 [20]
-<<<<<<< HEAD
-Underfull \hbox (badness 10000) in paragraph at lines 1588--1594
-=======
-Underfull \hbox (badness 10000) in paragraph at lines 1584--1590
->>>>>>> master
+Underfull \hbox (badness 10000) in paragraph at lines 1592--1598
 \T1/lmr/m/n/10 Ger-many. []$https : / / joshuamrosenberg . com / post / 2021 / 07 / 19 / an -[] introduction -[] to -[] natural -[] language -[]
  []
 
 [21] [22]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-<<<<<<< HEAD
-(hyperref)                than one, level fixed on input line 1730.
-=======
-(hyperref)                than one, level fixed on input line 1726.
->>>>>>> master
+(hyperref)                than one, level fixed on input line 1734.
 
 [23]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-<<<<<<< HEAD
-(hyperref)                than one, level fixed on input line 1776.
+(hyperref)                than one, level fixed on input line 1780.
 
-
-Overfull \hbox (37.82834pt too wide) in paragraph at lines 1838--1840
-=======
-(hyperref)                than one, level fixed on input line 1772.
-
-
-Overfull \hbox (37.82834pt too wide) in paragraph at lines 1834--1836
->>>>>>> master
+[24]
+Overfull \hbox (37.82834pt too wide) in paragraph at lines 1842--1844
 []\T1/lmr/m/n/10 Mentor, Di-ver-sity in Learn-ing An-a-lyt-ics and Lead-er-ship pro-gram, []$https : / / www . diversityindataandleadershipprogram .
  []
 
-[24]
-<<<<<<< HEAD
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1851.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1855.
 (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-Underfull \hbox (badness 10000) in paragraph at lines 1851--1853
-=======
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1847.
-(/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/lm/ts1lmr.fd
-File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-Underfull \hbox (badness 10000) in paragraph at lines 1847--1849
->>>>>>> master
-
- []
-
-
-<<<<<<< HEAD
-Underfull \hbox (badness 10000) in paragraph at lines 1853--1855
-=======
-Underfull \hbox (badness 10000) in paragraph at lines 1849--1851
->>>>>>> master
-
- []
-
-
-<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 1855--1857
-=======
-Underfull \hbox (badness 10000) in paragraph at lines 1851--1853
->>>>>>> master
 
  []
 
 
-<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 1857--1859
-=======
-Underfull \hbox (badness 10000) in paragraph at lines 1853--1855
->>>>>>> master
 
  []
 
 
-<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 1859--1861
-=======
-Underfull \hbox (badness 10000) in paragraph at lines 1855--1857
->>>>>>> master
 
  []
 
 
-<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 1861--1863
-=======
-Underfull \hbox (badness 10000) in paragraph at lines 1857--1859
->>>>>>> master
 
  []
 
 
-<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 1863--1865
-=======
-Underfull \hbox (badness 10000) in paragraph at lines 1859--1861
->>>>>>> master
 
  []
 
 
-<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 1865--1867
-=======
-Underfull \hbox (badness 10000) in paragraph at lines 1861--1863
->>>>>>> master
 
  []
 
 
-<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 1867--1869
-=======
-Underfull \hbox (badness 10000) in paragraph at lines 1863--1865
->>>>>>> master
 
  []
 
 
-<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 1869--1871
-=======
-Underfull \hbox (badness 10000) in paragraph at lines 1865--1867
->>>>>>> master
 
  []
 
 
-<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 1871--1873
-=======
-Underfull \hbox (badness 10000) in paragraph at lines 1867--1869
->>>>>>> master
 
  []
 
 
-<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 1873--1875
-=======
-Underfull \hbox (badness 10000) in paragraph at lines 1869--1871
->>>>>>> master
 
  []
 
 
-<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 1875--1877
-=======
-Underfull \hbox (badness 10000) in paragraph at lines 1871--1873
->>>>>>> master
 
  []
 
 
-<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 1877--1879
-=======
-Underfull \hbox (badness 10000) in paragraph at lines 1873--1875
->>>>>>> master
 
  []
 
 
-<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 1879--1881
-=======
-Underfull \hbox (badness 10000) in paragraph at lines 1875--1877
->>>>>>> master
 
  []
 
 
-<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 1881--1883
-=======
-Underfull \hbox (badness 10000) in paragraph at lines 1877--1879
->>>>>>> master
 
  []
 
 
-<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 1883--1885
-=======
-Underfull \hbox (badness 10000) in paragraph at lines 1879--1881
->>>>>>> master
 
  []
 
 
-<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 1885--1887
-=======
-Underfull \hbox (badness 10000) in paragraph at lines 1881--1883
->>>>>>> master
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1887--1889
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1889--1891
 
  []
 
 [25]
-<<<<<<< HEAD
-Underfull \hbox (badness 10000) in paragraph at lines 1943--1945
-=======
-Underfull \hbox (badness 10000) in paragraph at lines 1939--1941
->>>>>>> master
-
- []
-
-
-<<<<<<< HEAD
-Underfull \hbox (badness 10000) in paragraph at lines 1945--1947
-=======
-Underfull \hbox (badness 10000) in paragraph at lines 1941--1943
->>>>>>> master
-
- []
-
-
-<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 1947--1949
-=======
-Underfull \hbox (badness 10000) in paragraph at lines 1943--1945
->>>>>>> master
 
  []
 
 
-<<<<<<< HEAD
-Underfull \hbox (badness 10000) in paragraph at lines 1957--1960
-=======
-Underfull \hbox (badness 10000) in paragraph at lines 1953--1956
->>>>>>> master
+Underfull \hbox (badness 10000) in paragraph at lines 1949--1951
 
  []
 
 
-<<<<<<< HEAD
-Underfull \hbox (badness 10000) in paragraph at lines 1960--1963
-
- []
-
-[26]
-Underfull \hbox (badness 10000) in paragraph at lines 1963--1965
-=======
-Underfull \hbox (badness 10000) in paragraph at lines 1956--1959
+Underfull \hbox (badness 10000) in paragraph at lines 1951--1953
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1959--1961
->>>>>>> master
-
- []
-
-
-<<<<<<< HEAD
-Underfull \hbox (badness 10000) in paragraph at lines 1965--1968
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1968--1970
-=======
 Underfull \hbox (badness 10000) in paragraph at lines 1961--1964
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 1964--1967
+
+ []
+
 [26]
-Underfull \hbox (badness 10000) in paragraph at lines 1964--1966
->>>>>>> master
+Underfull \hbox (badness 10000) in paragraph at lines 1967--1969
 
  []
 
 
-<<<<<<< HEAD
-Underfull \hbox (badness 10000) in paragraph at lines 1970--1972
-=======
-Underfull \hbox (badness 10000) in paragraph at lines 1966--1968
->>>>>>> master
+Underfull \hbox (badness 10000) in paragraph at lines 1969--1972
 
  []
 
 
-<<<<<<< HEAD
-Underfull \hbox (badness 10000) in paragraph at lines 1985--1989
-=======
-Underfull \hbox (badness 10000) in paragraph at lines 1981--1985
->>>>>>> master
+Underfull \hbox (badness 10000) in paragraph at lines 1972--1974
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1974--1976
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1989--1993
 []$\T1/lmr/m/n/10 https : / / joshuamrosenberg . com / post / 2022 / 03 / 24 / what -[] is -[] the -[] role -[] of -[] data -[] science -[] in -[] k -[] 12 -[] teaching -[]
  []
 
 [27]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-<<<<<<< HEAD
-(hyperref)                than one, level fixed on input line 2104.
-=======
-(hyperref)                than one, level fixed on input line 2100.
->>>>>>> master
+(hyperref)                than one, level fixed on input line 2108.
 
 [28]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-<<<<<<< HEAD
-(hyperref)                than one, level fixed on input line 2168.
+(hyperref)                than one, level fixed on input line 2172.
 
 [29]
-Underfull \hbox (badness 10000) in paragraph at lines 2207--2210
-=======
-(hyperref)                than one, level fixed on input line 2164.
-
-[29]
-Underfull \hbox (badness 10000) in paragraph at lines 2203--2206
->>>>>>> master
+Underfull \hbox (badness 10000) in paragraph at lines 2211--2214
 \T1/lmr/m/it/10 Trust\T1/lmr/m/n/10 , []$https : / / www . edweek . org / teaching -[] learning / teaching -[] students -[] to -[] understand -[] the -[] uncertainties -[] of -[]
  []
 
 
-<<<<<<< HEAD
-Underfull \hbox (badness 1424) in paragraph at lines 2224--2226
+Underfull \hbox (badness 1424) in paragraph at lines 2228--2230
 []\T1/lmr/m/n/10 2021, Vi-sions of Ed-u-ca-tion pod-cast, []$https : / / visionsofed . com / 2021 / 05 / 27 / episode -[] 166 -[] data -[] science -[] in -[]
  []
 
 [30]
-Overfull \hbox (11.5356pt too wide) in paragraph at lines 2239--2241
-=======
-Underfull \hbox (badness 1424) in paragraph at lines 2220--2222
-[]\T1/lmr/m/n/10 2021, Vi-sions of Ed-u-ca-tion pod-cast, []$https : / / visionsofed . com / 2021 / 05 / 27 / episode -[] 166 -[] data -[] science -[] in -[]
- []
-
-
-Overfull \hbox (11.5356pt too wide) in paragraph at lines 2235--2237
->>>>>>> master
+Overfull \hbox (11.5356pt too wide) in paragraph at lines 2243--2245
 []\T1/lmr/m/n/10 2018-2019, Co-host, \T1/lmr/m/it/10 Im-pod-ster Syn-drome \T1/lmr/m/n/10 pod-cast, []$https : / / drive . google . com / drive / folders / 1fwSaEKt9QzJPUlf -[]
  []
 
 [31] (./rosenberg-cv.aux)
 Package rerunfilecheck Info: File `rosenberg-cv.out' has not changed.
-(rerunfilecheck)             Checksum: 9D8FD1938B49E4CB246FABAA3DCFBD44;9539.
+(rerunfilecheck)             Checksum: A8E220F6B348C0B7435C75924D72AA34;9539.
  ) 
 Here is how much of TeX's memory you used:
-<<<<<<< HEAD
  10959 strings out of 477031
  173789 string characters out of 5826633
  526900 words of memory out of 5000000
  31791 multiletter control sequences out of 15000+600000
-=======
- 10957 strings out of 477035
- 173721 string characters out of 5827464
- 525404 words of memory out of 5000000
- 31783 multiletter control sequences out of 15000+600000
->>>>>>> master
  519172 words of font info for 68 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  72i,12n,77p,456b,503s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb>
-<<<<<<< HEAD
-Output written on rosenberg-cv.pdf (31 pages, 266518 bytes).
-=======
-Output written on rosenberg-cv.pdf (31 pages, 266158 bytes).
->>>>>>> master
+Output written on rosenberg-cv.pdf (31 pages, 266835 bytes).
 PDF statistics:
- 677 PDF objects out of 1000 (max. 8388607)
- 626 compressed objects within 7 object streams
+ 679 PDF objects out of 1000 (max. 8388607)
+ 628 compressed objects within 7 object streams
  137 named destinations out of 1000 (max. 500000)
  425 words of extra memory for PDF output out of 10000 (max. 10000000)
 

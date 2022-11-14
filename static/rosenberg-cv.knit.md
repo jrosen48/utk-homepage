@@ -175,16 +175,18 @@ Rosenberg, K., & Rosenberg, J. M. (under contract). *Little kids, big adventures
 \hangindent=2em
 Estrellado, R. A., Freer, E. A.,  Mostipak, J., Rosenberg, J. M., & Velásquez, I. C. (2020). *Data science in education using R*. Routledge. *Note.* All authors contributed equally. http://www.datascienceineducation.com/ <a href="https://github.com/data-edu/data-science-in-education"><img src = "/logos/github.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
 
-## Articles Published in Refereed Journals (43)
+## Articles Published in Refereed Journals (44)
+
+Rosenberg, J., ^Borchers, C., Stegenga, S. M., ^Burchfield, M. A., Anderson, D., & Fischer, C. (2022). How educational institutions reveal students’ personally identifiable information on Facebook. https://www.tandfonline.com/doi/full/10.1080/17439884.2022.2140672
 
 \hangindent=2em
-Rosenberg, J., ^Borchers, C., ^Burchfield, M. A., Anderson, D., Stegenga, S. M., & Fischer, C. (in press). Schools share students’ personally identifiable information on Facebook. *Educational Researcher*. https://doi.org/10.35542/osf.io/j89pf
+Rosenberg, J., ^Borchers, C., ^Burchfield, M. A., Anderson, D., Stegenga, S. M., & Fischer, C. (2022). Schools share students’ personally identifiable information on Facebook. *Educational Researcher*. https://journals.sagepub.com/doi/10.3102/0013189X221120538
 
 \hangindent=2em
-Kubsch, M., Krist, C., & Rosenberg, J. M. (advance online publication). Distributing Epistemic Functions and Tasks - A framework for augmenting human analytic power with machine learning in science education research. *Journal of Research in Science Teaching*. https://onlinelibrary.wiley.com/doi/full/10.1002/tea.21803. *Note.* All authors contributed equally.
+Kubsch, M., Krist, C., & Rosenberg, J. M. (2022). Distributing Epistemic Functions and Tasks - A framework for augmenting human analytic power with machine learning in science education research. *Journal of Research in Science Teaching*. https://onlinelibrary.wiley.com/doi/full/10.1002/tea.21803. *Note.* All authors contributed equally.
 
 \hangindent=2em
-Rosenberg, J. M., Kubsch, M., Wagenmakers, E.-J., & Dogucu, M. (advance online publication). Making sense of uncertainty in the science classroom: A Bayesian approach. *Science & Education*, 1-24. https://link.springer.com/article/10.1007/s11191-022-00341-3
+Rosenberg, J. M., Kubsch, M., Wagenmakers, E.-J., & Dogucu, M. (2022). Making sense of uncertainty in the science classroom: A Bayesian approach. *Science & Education*, 31, 1239–1262. https://link.springer.com/article/10.1007/s11191-022-00341-3
 
 \hangindent=2em
 Jones. R. S., & Rosenberg, J. M. (2022). Characterizing whole class discussions about data and statistics with conversation profile analysis. *Journal of Mathematical Behavior, 67*, 1-16. https://www.sciencedirect.com/science/article/abs/pii/S0732312322000645
@@ -202,7 +204,7 @@ Trout Fryxell, R. T., Camponovo, M., Smith, B., Butefish, K., Rosenberg, J. M., 
 Rutherford, T., Duck, K., Rosenberg, J. M., & Patt, R. (2022). Leveraging mathematics software data to understand student learning and motivation during the COVID-19 pandemic. *Journal of Research on Technology in Education, 54*(1), 94-131. https://www.tandfonline.com/doi/full/10.1080/15391523.2021.1920520
 
 \hangindent=2em
-Aguilar, S. J., Rosenberg, J., Greenhalgh, S., Fütterer, T., Lishinski, A., & Fischer, C. (2021). A different experience in a different moment? Teachers’ social media use before and during the COVID-19 pandemic. *AERA Open, 7*, 1-17. https://doi.org/10.31219/osf.io/37pab
+Aguilar, S. J., Rosenberg, J., Greenhalgh, S., Fütterer, T., Lishinski, A., & Fischer, C. (2021). A different experience in a different moment? Teachers’ social media use before and during the COVID-19 pandemic. *AERA Open, 7*, 1-17. https://journals.sagepub.com/doi/full/10.1177/23328584211063898
 
 \hangindent=2em
 \+Lawson, M. A., Herrick, I., R., & Rosenberg, J. M. (2021). Better together: Mathematics and science pre-service teachers’ sensemaking about STEM. *Educational Technology & Society, 24*(4), 180–192.
@@ -217,13 +219,13 @@ Greenhalgh, S. P., Rosenberg, J. M., & Russell, A. (2021). The influence of poli
 Frank, K. A., Lin, Q., Maroulis, S., Strassman, A., Xu, R., Rosenberg, J. M., Hayter, C., Mahmoud, R., Kolak, M., Dietz, T., & Zhang, L. (2021). Hypothetical case replacement can be used to quantify the robustness of trial results. *Journal of Clinical Epidemiology, 134*(6), 150-159. https://www.sciencedirect.com/science/article/pii/S0895435621000366 *Note.* I was a scientific programmer for this project.
 
 \hangindent=2em
-Rosenberg, J. M., ^Borchers, C., Dyer, E., Anderson, D. J., & Fischer, C. (2021). Advancing new methods for understanding public sentiment about educational reforms: The case of Twitter and the Next Generation Science Standards. *AERA Open*, 1-17. https://journals.sagepub.com/doi/10.1177/23328584211024261
+Rosenberg, J. M., ^Borchers, C., Dyer, E., Anderson, D. J., & Fischer, C. (2021). Advancing new methods for understanding public sentiment about educational reforms: The case of Twitter and the Next Generation Science Standards. *AERA Open, 7*, 1-17. https://journals.sagepub.com/doi/10.1177/23328584211024261
 
 \hangindent=2em
 Ranellucci, J., Robinson, K., Rosenberg, J. M., Lee, Y.-K., Roseth, C., & Linnenbrink-Garcia. (2021). Comparing the roles and correlates of emotions in class and during online video lectures in a flipped anatomy classroom. *Contemporary Educational Psychology, 64*(4), 1-15. https://doi.org/10.1016/j.cedpsych.2021.101966
 
 \hangindent=2em
-Akcaoglu, M., Rosenberg, J. M., Hodges, C. B., Hilpert, J. (2021). An exploration of factors impacting middle school students’ attitudes toward computer programming. *Computers in the Schools. 38*(1), 19-35. https://doi.org/10.1080/07380569.2021.1882209
+Akcaoglu, M., Rosenberg, J. M., Hodges, C. B., Hilpert, J. (2021). An exploration of factors impacting middle school students’ attitudes toward computer programming. *Computers in the Schools, 38*(1), 19-35. https://doi.org/10.1080/07380569.2021.1882209
 
 \hangindent=2em
 Rosenberg, J. M., & Krist, C. (2021). Combining machine learning and qualitative methods to elaborate students’ ideas about the generality of their model-based explanations. *Journal of Science Education and Technology, 30*(2), 255-267.  https://link.springer.com/article/10.1007%2Fs10956-020-09862-4. *Note.* Both authors contributed equally. <a href = "https://joshuamrosenberg.com/post-prints/rosenberg-krist-jost.pdf"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
@@ -320,10 +322,10 @@ Hodge, E., López, F., & Rosenberg, J. M. (in press). How saying "We don’t tea
 Jiang, S., Lee, V. R., & Rosenberg, J. M. (2022). Data science education across the disciplines: Underexamined opportunities for K‐12 innovation. *British Journal of Educational Technology, 53*(5), 1073-1079. https://bera-journals.onlinelibrary.wiley.com/doi/full/10.1111/bjet.13258
 
 \hangindent=2em
-Kimmons, R., Rosenberg, J.M. (2022). Trends and topics in educational technology, 2022 Edition. *TechTrends*. https://doi.org/10.1007/s11528-022-00713-0
+Kimmons, R., Rosenberg, J.M. (2022). Trends and topics in educational technology, 2022 Edition. *TechTrends, 66*, 134-140. https://doi.org/10.1007/s11528-022-00713-0
 
 \hangindent=2em
-Frank K.A., Lin Q., Maroulis S., Mueller A.S., Xu R., Rosenberg J.M., Hayter C.S., Mahmoud R.A., Kolak M., Dietz T., Zhang L. (2022). Response to "Three Comments on the RIR method". *Journal of Clinical Epidemiology*. https://pubmed.ncbi.nlm.nih.gov/35131466/
+Frank K.A., Lin Q., Maroulis S., Mueller A.S., Xu R., Rosenberg J.M., Hayter C.S., Mahmoud R.A., Kolak M., Dietz T., Zhang L. (2022). Response to "Three Comments on the RIR method". *Journal of Clinical Epidemiology, 146*, 134-140. https://pubmed.ncbi.nlm.nih.gov/35131466/
 
 \hangindent=2em
 Kessler, A. M., Likely, R., & Rosenberg, J. (2021). Open for whom? The need to define open science for science education. *Journal of Research in Science Teaching, 58*(10), 1590-1595. https://onlinelibrary.wiley.com/doi/epdf/10.1002/tea.21730
