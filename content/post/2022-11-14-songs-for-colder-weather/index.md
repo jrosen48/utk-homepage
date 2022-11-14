@@ -1,5 +1,5 @@
 ---
-title: Songs for colder weather
+title: Missing Michigan, finding home
 author: ''
 date: '2022-11-14'
 slug: songs-for-colder-weather
@@ -9,10 +9,10 @@ tags: []
 
 A song came on a randomly selected playlist over the second, [*Half Acre* by Hem](https://www.youtube.com/watch?v=7Sq5Bvvx5nc). 
 
-> I am holding half an acre
-> Torn from the map of Michigan
-> And folded in this scrap of paper
-> Is a land I grew in
+> I am holding half an acre  
+> Torn from the map of Michigan  
+> And folded in this scrap of paper  
+> Is a land I grew in  
 
 The song takes me back to Michigan. 
 
@@ -22,10 +22,10 @@ For awhile, Katie said it hurt her to think about Michigan---missing it as much 
 
 Now it hurts less, if at all. Not Hawk Island, Saranac, Rose Lake, and the Great Lakes, but Seven Islands, Third Creek, Big South Fork, and the Smokies. They are not the same, but maybe that is the point: new places with old, new friends with old friends, new memories atop the old memories.
 
-> But I am holding half an acre
-> Torn from the map of Michigan
-> I am carrying this scrap of paper
-> That can crack the darkest sky wide open
-> Every burden taken from me
-> Every night my heart unfolding
-> My home
+> But I am holding half an acre  
+> Torn from the map of Michigan  
+> I am carrying this scrap of paper  
+> That can crack the darkest sky wide open  
+> Every burden taken from me  
+> Every night my heart unfolding  
+> My home  
