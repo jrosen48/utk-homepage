@@ -227,13 +227,15 @@ Rosenberg, K., & Rosenberg, J. M. (under contract). *Little kids, big adventures
 
 Estrellado, R. A., Freer, E. A.,  Mostipak, J., Rosenberg, J. M., & Velásquez, I. C. (2020). *Data science in education using R*. Routledge. *Note.* All authors contributed equally. http://www.datascienceineducation.com/ <a href="https://github.com/data-edu/data-science-in-education"><img src = "/logos/github.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
 
-## Articles Published in Refereed Journals (43)
+## Articles Published in Refereed Journals (44)
 
-Rosenberg, J., ^Borchers, C., ^Burchfield, M. A., Anderson, D., Stegenga, S. M., & Fischer, C. (in press). Schools share students’ personally identifiable information on Facebook. *Educational Researcher*. https://doi.org/10.35542/osf.io/j89pf
+Rosenberg, J., ^Borchers, C., Stegenga, S. M., ^Burchfield, M. A., Anderson, D., & Fischer, C. (2022). How educational institutions reveal students’ personally identifiable information on Facebook. https://www.tandfonline.com/doi/full/10.1080/17439884.2022.2140672
 
-Kubsch, M., Krist, C., & Rosenberg, J. M. (advance online publication). Distributing Epistemic Functions and Tasks - A framework for augmenting human analytic power with machine learning in science education research. *Journal of Research in Science Teaching*. https://onlinelibrary.wiley.com/doi/full/10.1002/tea.21803. *Note.* All authors contributed equally.
+Rosenberg, J., ^Borchers, C., ^Burchfield, M. A., Anderson, D., Stegenga, S. M., & Fischer, C. (2022). Schools share students’ personally identifiable information on Facebook. *Educational Researcher*. https://journals.sagepub.com/doi/10.3102/0013189X221120538
 
-Rosenberg, J. M., Kubsch, M., Wagenmakers, E.-J., & Dogucu, M. (advance online publication). Making sense of uncertainty in the science classroom: A Bayesian approach. *Science & Education*, 31, 1239–1262. https://link.springer.com/article/10.1007/s11191-022-00341-3
+Kubsch, M., Krist, C., & Rosenberg, J. M. (2022). Distributing Epistemic Functions and Tasks - A framework for augmenting human analytic power with machine learning in science education research. *Journal of Research in Science Teaching*. https://onlinelibrary.wiley.com/doi/full/10.1002/tea.21803. *Note.* All authors contributed equally.
+
+Rosenberg, J. M., Kubsch, M., Wagenmakers, E.-J., & Dogucu, M. (2022). Making sense of uncertainty in the science classroom: A Bayesian approach. *Science & Education*, 31, 1239–1262. https://link.springer.com/article/10.1007/s11191-022-00341-3
 
 Jones. R. S., & Rosenberg, J. M. (2022). Characterizing whole class discussions about data and statistics with conversation profile analysis. *Journal of Mathematical Behavior, 67*, 1-16. https://www.sciencedirect.com/science/article/abs/pii/S0732312322000645
 
@@ -245,7 +247,7 @@ Trout Fryxell, R. T., Camponovo, M., Smith, B., Butefish, K., Rosenberg, J. M., 
 
 Rutherford, T., Duck, K., Rosenberg, J. M., & Patt, R. (2022). Leveraging mathematics software data to understand student learning and motivation during the COVID-19 pandemic. *Journal of Research on Technology in Education, 54*(1), 94-131. https://www.tandfonline.com/doi/full/10.1080/15391523.2021.1920520
 
-Aguilar, S. J., Rosenberg, J., Greenhalgh, S., Fütterer, T., Lishinski, A., & Fischer, C. (2021). A different experience in a different moment? Teachers’ social media use before and during the COVID-19 pandemic. *AERA Open, 7*, 1-17. https://doi.org/10.31219/osf.io/37pab
+Aguilar, S. J., Rosenberg, J., Greenhalgh, S., Fütterer, T., Lishinski, A., & Fischer, C. (2021). A different experience in a different moment? Teachers’ social media use before and during the COVID-19 pandemic. *AERA Open, 7*, 1-17. https://journals.sagepub.com/doi/full/10.1177/23328584211063898
 
 \+Lawson, M. A., Herrick, I., R., & Rosenberg, J. M. (2021). Better together: Mathematics and science pre-service teachers’ sensemaking about STEM. *Educational Technology & Society, 24*(4), 180–192.
 
