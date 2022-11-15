@@ -11,4 +11,4 @@ The [Data Science in Education Using R](https://datascienceineducation.com/) boo
 
 My co-author Isabella has been the one who made the book work technically since the start. A shout out is due to Isabella for re-rendering the book.
 
-As of today, the book has been viewed more than 120,000 times by more than 32,000 people. In the last month alone, it has been accessed by 863 people. I'm proud of how my co-authors and I shared this book in the open. It remains the product I am most proud of through the present day.
+As of today, the book has been viewed more than 120,000 times by more than 32,000 people. In the last month alone, it has been accessed by 863 people; around 30 people per day. I'm proud of how my co-authors and I shared this book in the open. It remains the product I am most proud of through the present day.
