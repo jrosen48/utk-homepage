@@ -1,0 +1,99 @@
+---
+title: 'The identical output of lm() and aov() and lm() and t.test() in R'
+author: ''
+date: '2022-11-21'
+slug: ''
+categories: []
+tags: []
+---
+
+
+
+<p>This one hardly counts as a blog post; it is more a reference for myself.</p>
+<p>For some time, I’ve known on a conceptual level that a linear regression model (one “fit” using <code>lm()</code> in the statistical software and programming language R), ANOVA (<code>aov()</code>), and <em>t</em>-test (<code>t.test()</code>) can be conceptualized as being closely-related—though they’re often taught as separate techniques.</p>
+<p>I’m going to add the code now, hoping to return to and expand on this later.</p>
+<p>Let’s use a data set about penguins.</p>
+<pre class="r"><code>library(tidyverse)
+library(palmerpenguins)
+
+penguins %&gt;% 
+    glimpse()</code></pre>
+<pre><code>## Rows: 344
+## Columns: 8
+## $ species           &lt;fct&gt; Adelie, Adelie, Adelie, Adelie, Adelie, Adelie, Adel…
+## $ island            &lt;fct&gt; Torgersen, Torgersen, Torgersen, Torgersen, Torgerse…
+## $ bill_length_mm    &lt;dbl&gt; 39.1, 39.5, 40.3, NA, 36.7, 39.3, 38.9, 39.2, 34.1, …
+## $ bill_depth_mm     &lt;dbl&gt; 18.7, 17.4, 18.0, NA, 19.3, 20.6, 17.8, 19.6, 18.1, …
+## $ flipper_length_mm &lt;int&gt; 181, 186, 195, NA, 193, 190, 181, 195, 193, 190, 186…
+## $ body_mass_g       &lt;int&gt; 3750, 3800, 3250, NA, 3450, 3650, 3625, 4675, 3475, …
+## $ sex               &lt;fct&gt; male, female, female, NA, female, male, female, male…
+## $ year              &lt;int&gt; 2007, 2007, 2007, 2007, 2007, 2007, 2007, 2007, 2007…</code></pre>
+<div id="lm-and-aov" class="section level2">
+<h2><code>lm()</code> and <code>aov()</code></h2>
+<p>Note how the `<em>F</em>-value, <em>df</em>, and <em>p</em>-value are identical.</p>
+<pre class="r"><code>summary(lm(bill_length_mm ~ island, data = penguins))</code></pre>
+<pre><code>## 
+## Call:
+## lm(formula = bill_length_mm ~ island, data = penguins)
+## 
+## Residuals:
+##      Min       1Q   Median       3Q      Max 
+## -12.0677  -3.8559   0.2958   3.8175  14.3425 
+## 
+## Coefficients:
+##                 Estimate Std. Error t value Pr(&gt;|t|)    
+## (Intercept)      45.2575     0.3897 116.127  &lt; 2e-16 ***
+## islandDream      -1.0897     0.5970  -1.825   0.0688 .  
+## islandTorgersen  -6.3065     0.8057  -7.827 6.44e-14 ***
+## ---
+## Signif. codes:  0 &#39;***&#39; 0.001 &#39;**&#39; 0.01 &#39;*&#39; 0.05 &#39;.&#39; 0.1 &#39; &#39; 1
+## 
+## Residual standard error: 5.036 on 339 degrees of freedom
+##   (2 observations deleted due to missingness)
+## Multiple R-squared:  0.154,  Adjusted R-squared:  0.149 
+## F-statistic: 30.86 on 2 and 339 DF,  p-value: 4.86e-13</code></pre>
+<pre class="r"><code>summary(aov(bill_length_mm ~ island, data = penguins))</code></pre>
+<pre><code>##              Df Sum Sq Mean Sq F value   Pr(&gt;F)    
+## island        2   1566   782.8   30.86 4.86e-13 ***
+## Residuals   339   8599    25.4                     
+## ---
+## Signif. codes:  0 &#39;***&#39; 0.001 &#39;**&#39; 0.01 &#39;*&#39; 0.05 &#39;.&#39; 0.1 &#39; &#39; 1
+## 2 observations deleted due to missingness</code></pre>
+</div>
+<div id="lm-and-t.test" class="section level2">
+<h2><code>lm()</code> and <code>t.test()</code></h2>
+<p>Note the <em>t</em>-value and its <em>df</em> and <em>p</em>-value are identical (for the sex variable).</p>
+<pre class="r"><code>summary(lm(bill_length_mm ~ sex, data = penguins))</code></pre>
+<pre><code>## 
+## Call:
+## lm(formula = bill_length_mm ~ sex, data = penguins)
+## 
+## Residuals:
+##      Min       1Q   Median       3Q      Max 
+## -11.2548  -4.7548   0.8452   4.3030  15.9030 
+## 
+## Coefficients:
+##             Estimate Std. Error t value Pr(&gt;|t|)    
+## (Intercept)  42.0970     0.4003 105.152  &lt; 2e-16 ***
+## sexmale       3.7578     0.5636   6.667 1.09e-10 ***
+## ---
+## Signif. codes:  0 &#39;***&#39; 0.001 &#39;**&#39; 0.01 &#39;*&#39; 0.05 &#39;.&#39; 0.1 &#39; &#39; 1
+## 
+## Residual standard error: 5.143 on 331 degrees of freedom
+##   (11 observations deleted due to missingness)
+## Multiple R-squared:  0.1184, Adjusted R-squared:  0.1157 
+## F-statistic: 44.45 on 1 and 331 DF,  p-value: 1.094e-10</code></pre>
+<pre class="r"><code>t.test(bill_length_mm ~ sex, var.equal = TRUE,data = penguins)</code></pre>
+<pre><code>## 
+##  Two Sample t-test
+## 
+## data:  bill_length_mm by sex
+## t = -6.667, df = 331, p-value = 1.094e-10
+## alternative hypothesis: true difference in means between group female and group male is not equal to 0
+## 95 percent confidence interval:
+##  -4.866557 -2.649027
+## sample estimates:
+## mean in group female   mean in group male 
+##             42.09697             45.85476</code></pre>
+<p>I may come back to this later to flesh this out more…</p>
+</div>
