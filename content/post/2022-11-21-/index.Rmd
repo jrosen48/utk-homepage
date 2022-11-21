@@ -1,0 +1,51 @@
+---
+title: 'The identical output of lm() and aov() and lm() and t.test() in R'
+author: ''
+date: '2022-11-21'
+slug: ''
+categories: []
+tags: []
+---
+
+
+This one hardly counts as a blog post; it is more a reference for myself.
+
+For some time, I've known on a conceptual level that a linear regression model (one "fit" using `lm()` in the statistical software and programming language R), ANOVA (`aov()`), and *t*-test (`t.test()`) can be conceptualized as being closely-related---though they're often taught as separate techniques. 
+
+I'm going to add the code now, hoping to return to and expand on this later.
+
+Let's use a data set about penguins.
+
+```{r, message = FALSE}
+library(tidyverse)
+library(palmerpenguins)
+
+penguins %>% 
+    glimpse()
+```
+
+## `lm()` and `aov()`
+
+Note how the `*F*-value, *df*, and *p*-value are identical.
+
+```{r}
+summary(lm(bill_length_mm ~ island, data = penguins))
+```
+
+```{r}
+summary(aov(bill_length_mm ~ island, data = penguins))
+```
+
+## `lm()` and `t.test()`
+
+Note the *t*-value and its *df* and *p*-value are identical (for the sex variable).
+
+```{r}
+summary(lm(bill_length_mm ~ sex, data = penguins))
+```
+
+```{r}
+t.test(bill_length_mm ~ sex, var.equal = TRUE,data = penguins)
+```
+
+I may come back to this later to flesh this out more...
