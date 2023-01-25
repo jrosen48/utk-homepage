@@ -19,20 +19,20 @@ Here goes. I'll link to the blog post instead of posting its entire text.
 
 [**Reflecting on the last year**](https://joshuamrosenberg.com/post/2023/01/01/reflecting-on-the-last-year/)
 
-> Challenges bloomed
-Humbling growth in mind and faith
-Joy and sorrow mix
+> Challenges bloomed  
+> Humbling growth in mind and faith  
+> Joy and sorrow mix  
 
 [**Tearing down goal posts was not cool**](https://joshuamrosenberg.com/post/2022/10/17/tennessee-should-not-allow-students-to-tear-down-goal-posts/)
 
-> Victory cheers ring out
-Fans rush the field in joy
-But let's celebrate right
+> Victory cheers ring out  
+> Fans rush the field in joy  
+> But let's celebrate right  
 
 [**Why it can be hard to understand the Smokies (and a bit on my understanding of them)**](https://joshuamrosenberg.com/post/2021/08/21/a-bunch-of-thoughts-on-the-tennessee-side-of-the-great-smoky-mountains-national-park/)
 
-> Nature's symphony
-Smokies' silence speaks loudest
-Peace found within stillness
+> Nature's symphony  
+> Smokies' silence speaks loudest  
+> Peace found within stillness  
 
 How are they? Not... bad, but not quite right in these three cases.
