@@ -29,7 +29,7 @@ Joy and sorrow mix
 Fans rush the field in joy
 But let's celebrate right
 
-[[**Why it can be hard to understand the Smokies (and a bit on my understanding of them)**]]
+[**Why it can be hard to understand the Smokies (and a bit on my understanding of them)**](https://joshuamrosenberg.com/post/2021/08/21/a-bunch-of-thoughts-on-the-tennessee-side-of-the-great-smoky-mountains-national-park/)
 
 > Nature's symphony
 Smokies' silence speaks loudest
