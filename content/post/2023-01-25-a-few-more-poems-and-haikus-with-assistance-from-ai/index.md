@@ -29,40 +29,42 @@ this)](https://joshuamrosenberg.com/post/2023/01/25/three-haiku-with-help-from-a
 
 It generated the following (I prompted it twice for follow-ups):
 
-> Quiet winter break,
-> Memories of Lansing snow,
+> Quiet winter break
+>
+> Memories of Lansing snow
+>
 > Peaceful, dark, and cold.
 
-> Winter stillness reigns,
-> In Lansing and Knoxville too,
-> A time for reflection.
+> Winter stillness reigns
 >
+> In Lansing and Knoxville too,
+>
+> A time for reflection.
+
 > Snowy Michigan,
+>
 > Quiet break with my loved one,
+>
 > Memories aglow.
 
 I also switched "Haiku" out for "sonnet," and it generated the
 following:
 
-> In Lansing, Michigan, where the snow falls deep,
-> We stayed put, my love and I, and did not leap.
-> The quiet and the cold, the dark and the still,
-> A time of reflection, our hearts to fill.
+> In Lansing, Michigan, where the snow falls deep, We stayed put, my
+> love and I, and did not leap. The quiet and the cold, the dark and the
+> still, A time of reflection, our hearts to fill.
 >
-> The memories of that winter, so crisp and so clear,
-> Remind me of this one, now, so near.
-> In Knoxville, Tennessee, where the world slows down,
-> I find peace in the quiet and the pretty dark town.
+> The memories of that winter, so crisp and so clear, Remind me of this
+> one, now, so near. In Knoxville, Tennessee, where the world slows
+> down, I find peace in the quiet and the pretty dark town.
 >
-> And as I listen to the music, soft and sweet,
-> By Mandolin Orange, my heart skips a beat.
-> Their words and melodies, they capture my mood,
-> In this winter wonderland, I feel understood.
+> And as I listen to the music, soft and sweet, By Mandolin Orange, my
+> heart skips a beat. Their words and melodies, they capture my mood, In
+> this winter wonderland, I feel understood.
 >
-> So let the snow fall, let the darkness come,
-> For in this quiet reflection, my heart will become.
-> A peaceful, grateful, and contented place,
-> In this winter break, memories to embrace.
+> So let the snow fall, let the darkness come, For in this quiet
+> reflection, my heart will become. A peaceful, grateful, and contented
+> place, In this winter break, memories to embrace.
 
 ## 2. A bear chase
 
@@ -71,12 +73,18 @@ post](https://joshuamrosenberg.com/post/2022/06/20/bear-chase/)(that I
 copy-pasted) about a bear following us around Andrews Bald.
 
 > Bear on trail ahead
+>
 > Heartbeats rise, fear spreads wide
+>
 > Singing songs, retreat
 
 I thought this was pretty good, but I asked for another with a whimsical
 element; it generated the following:
 
 > Bear on the path, oh no!
+>
 > We sing and shout, hike away fast
+>
 > A workout, unplanned.
+
+Better than the last ones!
