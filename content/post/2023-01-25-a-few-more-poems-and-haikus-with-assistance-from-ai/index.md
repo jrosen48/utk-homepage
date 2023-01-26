@@ -35,11 +35,15 @@ It generated the following (I prompted it twice for follow-ups):
 >
 > Peaceful, dark, and cold.
 
+---
+
 > Winter stillness reigns
 >
 > In Lansing and Knoxville too,
 >
 > A time for reflection.
+
+---
 
 > Snowy Michigan,
 >
