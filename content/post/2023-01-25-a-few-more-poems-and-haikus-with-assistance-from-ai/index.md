@@ -11,8 +11,8 @@ editor_options:
 ---
 
 Here are a two more sets of haikus and poems I wrote today, with much
-assistance from chatGPT ([here's a bit of background on this and
-chatGPT](https://joshuamrosenberg.com/post/2023/01/25/three-haiku-with-help-from-ai/)).
+assistance from chatGPT ([here's a bit of background on
+this)](https://joshuamrosenberg.com/post/2023/01/25/three-haiku-with-help-from-ai/).
 
 ## 1. A quiet winter break
 
