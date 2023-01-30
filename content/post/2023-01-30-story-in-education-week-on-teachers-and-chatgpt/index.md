@@ -7,7 +7,7 @@ categories: []
 tags: []
 ---
 
-Alyson Klein published a story late last week on teachers and chatGPT---a "large language model" I [played around with](https://joshuamrosenberg.com/post/2023/01/25/three-haiku-with-help-from-ai/) [a bunch](https://joshuamrosenberg.com/post/2023/01/25/a-few-more-poems-and-haikus-with-assistance-from-ai/) last week in preparation for sharing a few thoughts on this new technology. 
+Alyson Klein published a story late last week on teachers and chatGPT---a "large language model" I [played around with](https://joshuamrosenberg.com/post/2023/01/25/three-haiku-with-help-from-ai/) [a bunch](https://joshuamrosenberg.com/post/2023/01/25/a-few-more-poems-and-haikus-with-assistance-from-ai/) last week in preparation for sharing a few thoughts on this new technology. I had talked with Alyson before about [the potential privacy risks to students associated with schools and districts social media activity](https://www.edweek.org/technology/school-facebook-pages-and-privacy-concerns-what-educators-need-to-know/2022/11).
 
 The story is [here](https://www.edweek.org/technology/can-digital-tools-detect-chatgpt-inspired-cheating/2023/01). I tried to see things from the teacher perspective while recognizing the potential usefulness of chatGPT and tools like over a longer time horizon. 
 
@@ -29,3 +29,4 @@ I also shared some skepticism about tools that purport to detect GPT-written tex
 
 > The truth could also be complicated. Students may have used AI as a starting point for generating ideas, or employed a tool like Grammarly, which may rewrite sentences to make them more coherent, Rosenberg said.
 
+Conversations with friends and colleagues shaped these thoughts; it was fun to get to try to capture some of these when talking with Alyson again.
