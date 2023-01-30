@@ -13,8 +13,8 @@ The story is [here](https://www.edweek.org/technology/can-digital-tools-detect-c
 
 > “I totally empathize with teachers who are like, ‘What the heck? It’s January! It’s been a crazy three years,’” Rosenberg said. “‘And I want to make sure that my students are understanding writing or English language arts concepts that I want them to learn and that [they] are expected to learn based on our state standards. I can’t radically transform my classroom just yet.’”
 
-> > Educators will ultimately need to figure out how to teach writing in a way that incorporates tools like ChatGPT, said Joshua Rosenberg, an assistant professor of STEM education at the University of Tennessee in Knoxville.
- s
+> Educators will ultimately need to figure out how to teach writing in a way that incorporates tools like ChatGPT, said Joshua Rosenberg, an assistant professor of STEM education at the University of Tennessee in Knoxville.
+
 I also shared some skepticism about tools that purport to detect GPT-written text:
 
 > Teachers who rely on these detectors need to be aware of their limitations, Rosenberg said.
