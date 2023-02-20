@@ -15,4 +15,4 @@ These have been humbling experiences. If I'm not strong and if I am not able to 
 
 ---
 
-This is an abstact and probably to some a bit odd of a post. Life has been good but hard and this is where my head is. I want to share this as part of an effort to continue to learn and grow in the ways that matter over the long term.
+This is an abstact and probably to some a bit odd of a post. Life has been good but hard and there may be more opportunities to learn and grow ahead, and this post is my way of welcoming those in.
