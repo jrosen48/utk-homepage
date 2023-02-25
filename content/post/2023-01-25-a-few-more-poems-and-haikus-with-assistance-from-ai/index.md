@@ -35,7 +35,7 @@ It generated the following (I prompted it twice for follow-ups):
 >
 > Peaceful, dark, and cold.
 
----
+------------------------------------------------------------------------
 
 > Winter stillness reigns
 >
@@ -43,7 +43,7 @@ It generated the following (I prompted it twice for follow-ups):
 >
 > A time for reflection.
 
----
+------------------------------------------------------------------------
 
 > Snowy Michigan,
 >

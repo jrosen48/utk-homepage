@@ -1,14 +1,14 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.30)  14 NOV 2022 14:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.25)  25 FEB 2023 18:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **rosenberg-cv.tex
 (./rosenberg-cv.tex
-LaTeX2e <2022-06-01> patch level 5
-L3 programming layer <2022-09-28> (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-02-22> (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
 (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
 \c@section=\count186
@@ -18,22 +18,22 @@ File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 \c@subparagraph=\count190
 \c@figure=\count191
 \c@table=\count192
-\abovecaptionskip=\skip47
-\belowcaptionskip=\skip48
-\bibindent=\dimen138
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
 ) (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2022/04/08 v2.17n AMS math features
-\@mathmargin=\skip49
+\@mathmargin=\skip50
 For additional information on amsmath, use the `?' option.
 (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2021/08/26 v2.01 AMS text
 (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks16
-\ex@=\dimen139
+\ex@=\dimen141
 )) (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen140
+\pmbraise@=\dimen142
 ) (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
@@ -54,7 +54,7 @@ LaTeX Info: Redefining \big on input line 722.
 LaTeX Info: Redefining \Big on input line 723.
 LaTeX Info: Redefining \bigg on input line 724.
 LaTeX Info: Redefining \Bigg on input line 725.
-\big@size=\dimen141
+\big@size=\dimen143
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
 \macc@depth=\count198
@@ -72,15 +72,15 @@ LaTeX Info: Redefining \Relbar on input line 971.
 \column@=\count269
 \maxfields@=\count270
 \andhelp@=\toks18
-\eqnshift@=\dimen142
-\alignsep@=\dimen143
-\tagshift@=\dimen144
-\tagwidth@=\dimen145
-\totwidth@=\dimen146
-\lineht@=\dimen147
+\eqnshift@=\dimen144
+\alignsep@=\dimen145
+\tagshift@=\dimen146
+\tagwidth@=\dimen147
+\totwidth@=\dimen148
+\lineht@=\dimen149
 \@envbody=\toks19
-\multlinegap=\skip50
-\multlinetaggap=\skip51
+\multlinegap=\skip51
+\multlinetaggap=\skip52
 \mathdisplay@stack=\toks20
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
@@ -148,8 +148,6 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 Package xcolor Info: Driver file: pdftex.def on input line 227.
 (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
-\stockwidth=\dimen148
-\stockheight=\dimen149
 ) (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/graphics/mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
@@ -194,7 +192,7 @@ Package graphics Info: Driver file: pdftex.def on input line 107.
 \Gin@req@height=\dimen158
 \Gin@req@width=\dimen159
 ) (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2022-09-22 v7.00t Hypertext links for LaTeX
+Package: hyperref 2023-02-07 v7.00v Hypertext links for LaTeX
 (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 ) (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
@@ -205,8 +203,8 @@ Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-) (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
-Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+) (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 ) (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 ) (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/generic/pdfescape/pdfescape.sty
@@ -232,7 +230,7 @@ Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 \Hy@linkcounter=\count275
 \Hy@pagecounter=\count276
 (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2022-09-22 v7.00t Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2023-02-07 v7.00v Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 ) (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/generic/intcalc/intcalc.sty
@@ -242,24 +240,24 @@ Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
 \Hy@SavedSpaceFactor=\count277
 (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2022-09-22 v7.00t Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2023-02-07 v7.00v Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Option `unicode' set `true' on input line 4045.
-Package hyperref Info: Hyper figures OFF on input line 4162.
-Package hyperref Info: Link nesting OFF on input line 4167.
-Package hyperref Info: Hyper index ON on input line 4170.
-Package hyperref Info: Plain pages OFF on input line 4177.
-Package hyperref Info: Backreferencing OFF on input line 4182.
+Package hyperref Info: Option `unicode' set `true' on input line 4060.
+Package hyperref Info: Hyper figures OFF on input line 4177.
+Package hyperref Info: Link nesting OFF on input line 4182.
+Package hyperref Info: Hyper index ON on input line 4185.
+Package hyperref Info: Plain pages OFF on input line 4192.
+Package hyperref Info: Backreferencing OFF on input line 4197.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4410.
+Package hyperref Info: Bookmarks ON on input line 4425.
 \c@Hy@tempcnt=\count278
 (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4748.
+LaTeX Info: Redefining \url on input line 4763.
 \XeTeXLinkMargin=\dimen161
 (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -269,13 +267,13 @@ Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 \Fld@menulength=\count279
 \Field@Width=\dimen162
 \Fld@charsize=\dimen163
-Package hyperref Info: Hyper figures OFF on input line 6027.
-Package hyperref Info: Link nesting OFF on input line 6032.
-Package hyperref Info: Hyper index ON on input line 6035.
-Package hyperref Info: backreferencing OFF on input line 6042.
-Package hyperref Info: Link coloring OFF on input line 6047.
-Package hyperref Info: Link coloring with OCG OFF on input line 6052.
-Package hyperref Info: PDF/A mode OFF on input line 6057.
+Package hyperref Info: Hyper figures OFF on input line 6042.
+Package hyperref Info: Link nesting OFF on input line 6047.
+Package hyperref Info: Hyper index ON on input line 6050.
+Package hyperref Info: backreferencing OFF on input line 6057.
+Package hyperref Info: Link coloring OFF on input line 6062.
+Package hyperref Info: Link coloring with OCG OFF on input line 6067.
+Package hyperref Info: PDF/A mode OFF on input line 6072.
 (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/base/atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
@@ -286,7 +284,7 @@ package with kernel methods
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2022-09-22 v7.00t Hyperref driver for pdfTeX
+File: hpdftex.def 2023-02-07 v7.00v Hyperref driver for pdfTeX
 (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/base/atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
@@ -300,9 +298,9 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
 )
-\Hy@SectionHShift=\skip52
+\Hy@SectionHShift=\skip53
 ) (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
+File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count285
 \l__pdf_internal_box=\box53
 )
@@ -419,230 +417,234 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 [1
 
 {/Users/joshuarosenberg/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
-Underfull \hbox (badness 1168) in paragraph at lines 229--234
+Underfull \hbox (badness 1168) in paragraph at lines 240--245
 \T1/lmr/m/n/10 Uni-ver-sity), Na-tional Sci-ence Foun-da-tion. []$https : / / www . nsf . gov / awardsearch / showAward ? AWD _ ID =
  []
 
 [3] [4] [5] [6] [7]
-Underfull \hbox (badness 1430) in paragraph at lines 618--623
+Underfull \hbox (badness 1430) in paragraph at lines 647--652
 \T1/lmr/m/n/10 Na-tional Academies of Sci-ences, En-gi-neer-ing, and Medicine for \T1/lmr/m/it/10 Foun-da-tions of Data Sci-ence
  []
 
 
-Underfull \hbox (badness 1675) in paragraph at lines 618--623
+Underfull \hbox (badness 1675) in paragraph at lines 647--652
 \T1/lmr/m/it/10 for Stu-dents in Grades K-12: A Work-shop\T1/lmr/m/n/10 . []$https : / / www . nationalacademies . org / event / 09 -[] 13 -[]
  []
 
-[8] [9] [10] [11] [12] [13] [14] [15] [16] [17]
-Underfull \hbox (badness 10000) in paragraph at lines 1515--1521
+[8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18]
+Underfull \hbox (badness 10000) in paragraph at lines 1544--1550
 []$\T1/lmr/m/n/10 https : / / www . pechakucha . com / presentations / insights -[] on -[] the -[] current -[] and -[] preferred -[] integration -[] of -[]
  []
 
-[18] [19]
-Underfull \hbox (badness 10000) in paragraph at lines 1596--1602
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 1625--1631
 \T1/lmr/m/n/10 Ger-many. []$https : / / joshuamrosenberg . com / post / 2021 / 07 / 19 / an -[] introduction -[] to -[] natural -[] language -[]
  []
 
-[20]
+[20] [21]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1738.
+(hyperref)                than one, level fixed on input line 1767.
 
-[21]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1784.
+(hyperref)                than one, level fixed on input line 1813.
 
 [22]
-Overfull \hbox (37.82834pt too wide) in paragraph at lines 1846--1848
+Overfull \hbox (37.82834pt too wide) in paragraph at lines 1875--1877
 []\T1/lmr/m/n/10 Mentor, Di-ver-sity in Learn-ing An-a-lyt-ics and Lead-er-ship pro-gram, []$https : / / www . diversityindataandleadershipprogram .
  []
 
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1859.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1888.
 (/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-Underfull \hbox (badness 10000) in paragraph at lines 1859--1861
+Underfull \hbox (badness 10000) in paragraph at lines 1888--1890
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1861--1863
+Underfull \hbox (badness 10000) in paragraph at lines 1890--1892
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1863--1865
+Underfull \hbox (badness 10000) in paragraph at lines 1892--1894
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1865--1867
+Underfull \hbox (badness 10000) in paragraph at lines 1894--1896
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1867--1869
+Underfull \hbox (badness 10000) in paragraph at lines 1896--1898
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1869--1871
+Underfull \hbox (badness 10000) in paragraph at lines 1898--1900
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1871--1873
+Underfull \hbox (badness 10000) in paragraph at lines 1900--1902
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1873--1875
+Underfull \hbox (badness 10000) in paragraph at lines 1902--1904
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1875--1877
+Underfull \hbox (badness 10000) in paragraph at lines 1904--1906
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1877--1879
+Underfull \hbox (badness 10000) in paragraph at lines 1906--1908
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1879--1881
+Underfull \hbox (badness 10000) in paragraph at lines 1908--1910
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1881--1883
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1883--1885
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1885--1887
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1887--1889
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1889--1891
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1891--1893
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1893--1895
+Underfull \hbox (badness 10000) in paragraph at lines 1910--1912
 
  []
 
 [23]
-Underfull \hbox (badness 10000) in paragraph at lines 1951--1953
+Underfull \hbox (badness 10000) in paragraph at lines 1912--1914
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1953--1955
+Underfull \hbox (badness 10000) in paragraph at lines 1914--1916
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1955--1957
+Underfull \hbox (badness 10000) in paragraph at lines 1916--1918
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1965--1968
+Underfull \hbox (badness 10000) in paragraph at lines 1918--1920
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1968--1971
+Underfull \hbox (badness 10000) in paragraph at lines 1920--1922
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1971--1973
+Underfull \hbox (badness 10000) in paragraph at lines 1922--1924
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1973--1976
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1976--1978
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1978--1980
+Underfull \hbox (badness 10000) in paragraph at lines 1924--1926
 
  []
 
 [24]
-Underfull \hbox (badness 10000) in paragraph at lines 1993--1997
+Underfull \hbox (badness 10000) in paragraph at lines 1985--1987
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1987--1989
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1989--1991
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1999--2002
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2002--2005
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2005--2007
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2007--2010
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2010--2012
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2012--2014
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2027--2031
 []$\T1/lmr/m/n/10 https : / / joshuamrosenberg . com / post / 2022 / 03 / 24 / what -[] is -[] the -[] role -[] of -[] data -[] science -[] in -[] k -[] 12 -[] teaching -[]
  []
 
 [25]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 2112.
+(hyperref)                than one, level fixed on input line 2146.
 
 [26]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 2176.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2215--2218
-\T1/lmr/m/it/10 Trust\T1/lmr/m/n/10 , []$https : / / www . edweek . org / teaching -[] learning / teaching -[] students -[] to -[] understand -[] the -[] uncertainties -[] of -[]
- []
+(hyperref)                than one, level fixed on input line 2210.
 
 [27]
-Underfull \hbox (badness 1424) in paragraph at lines 2232--2234
+Overfull \hbox (271.43504pt too wide) in paragraph at lines 2269--2272
+\T1/lmr/m/n/10 student -[] data -[] privacy -[] compromised -[] in -[] uk -[] at -[] risk -[] in -[] us#$[]:~:text=The%20Information%20Commissioner's%20Office%20(ICO,of%20roughly%2028%20million%20children.),
+ []
+
+
+Underfull \hbox (badness 1424) in paragraph at lines 2313--2315
 []\T1/lmr/m/n/10 2021, Vi-sions of Ed-u-ca-tion pod-cast, []$https : / / visionsofed . com / 2021 / 05 / 27 / episode -[] 166 -[] data -[] science -[] in -[]
  []
 
-
-Overfull \hbox (11.5356pt too wide) in paragraph at lines 2247--2249
+[28]
+Overfull \hbox (11.5356pt too wide) in paragraph at lines 2328--2330
 []\T1/lmr/m/n/10 2018-2019, Co-host, \T1/lmr/m/it/10 Im-pod-ster Syn-drome \T1/lmr/m/n/10 pod-cast, []$https : / / drive . google . com / drive / folders / 1fwSaEKt9QzJPUlf -[]
  []
 
-[28] (./rosenberg-cv.aux)
+[29] (./rosenberg-cv.aux)
 Package rerunfilecheck Info: File `rosenberg-cv.out' has not changed.
-(rerunfilecheck)             Checksum: 17211BFE5D1B7D2C60D884F16F833A75;9822.
+(rerunfilecheck)             Checksum: 89E3C10B3839A68206860F7CE93FAE9D;9936.
  ) 
 Here is how much of TeX's memory you used:
- 10726 strings out of 477031
- 169293 string characters out of 5826633
- 521727 words of memory out of 5000000
- 31570 multiletter control sequences out of 15000+600000
- 519172 words of font info for 68 fonts, out of 8000000 for 9000
+ 10731 strings out of 477984
+ 169366 string characters out of 5837741
+ 1872388 words of memory out of 5000000
+ 30619 multiletter control sequences out of 15000+600000
+ 562200 words of font info for 72 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 72i,6n,77p,449b,495s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,6n,76p,449b,501s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{/Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.pfb></Users/joshuarosenberg/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb>
-Output written on rosenberg-cv.pdf (28 pages, 262443 bytes).
+Output written on rosenberg-cv.pdf (29 pages, 266391 bytes).
 PDF statistics:
- 681 PDF objects out of 1000 (max. 8388607)
- 633 compressed objects within 7 object streams
- 139 named destinations out of 1000 (max. 500000)
- 441 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 701 PDF objects out of 1000 (max. 8388607)
+ 652 compressed objects within 7 object streams
+ 142 named destinations out of 1000 (max. 500000)
+ 449 words of extra memory for PDF output out of 10000 (max. 10000000)
 

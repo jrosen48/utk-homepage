@@ -155,6 +155,10 @@ C.D. Owen High School, Swannanoa, NC
 
 ## Consultant and Advisory Board Member
 
+2023 - 2026, Consultant, *WTG: Diffusion of Research on Supporting Mathematics Achievement for Youth with Disabilities through Twitter Translational Visual Abstracts*, Jessica Rodrigues (PI, University of Missouri), National Science Foundation, https://www.nsf.gov/awardsearch/showAward?AWD_ID=2244734&HistoricalAwards=false
+
+2023 - 2025, Consultant, *Forschen mit epidemischer Unsicherheit Lernen (Project FEUL)* (Learning to do investigations with epistemic uncertainty), Marcus Kubsck (PI; IPN - Leibniz Institute, Kiel, Germany), Joachim Herz Foundation  
+
 2022-2027, Advisory Board Member, *Collaborative Research: Enhancing Data Science and Statistics Teacher Education--Transforming and Building Community*, Hollylynne Lee (PI; North Carolina State University), National Science Foundation. https://www.nsf.gov/awardsearch/showAward?AWD_ID=2141727&HistoricalAwards=false
 
 2022-2025, Advisory Board Member, *A Learning Ecosystem for Teaching High School Students Machine Learning Concepts and Data Science Skills in Healthcare and Medicine*, Kathryn  Eller (PI; East Bay Educational Collaborative), National Science Foundation. https://www.nsf.gov/awardsearch/showAward?AWD_ID=2148451&HistoricalAwards=false
@@ -166,6 +170,10 @@ C.D. Owen High School, Swannanoa, NC
 2021-2022, Lead STEM Education Consultant,*Supporting Students’ Meaningful Engagement With Data From Small Orbiting Satellites*, Art Palisoc (PI), STEM Ed LLC, NSF Phase I SBIR, *STEM Experiments and Games in Low Earth Orbit – Making STEM Learning Fun*
 
 2017-2020, Senior Investigating Consultant, *Profiles of science engagement: Broadening participation by understanding individual and contextual influences*, Jennifer Schmidt (PI), Michigan State University. (NSF Grant No. [1661064](https://nsf.gov/awardsearch/showAward?AWD_ID=1661064&HistoricalAwards=false))
+
+## Other Roles
+
+2022-2024, Participating Faculty, *Bayesian Thinking in STEM*, (NSF Grant No. [2215879](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2215879&HistoricalAwards=false)), https://www.stat.uci.edu/bayes-bats/
 
 # Fellowships and Awards
 
@@ -222,20 +230,26 @@ C.D. Owen High School, Swannanoa, NC
 ## Books (3)
 
 \hangindent=2em
-Akcaoglu, M., Rosenberg, J. M., & Lishinski, A. (under contract). *Computational social science cookbook with R: A practical guide* (a volume in the *Chapman & Hall/CRC Big Data Series*). CRC Press.
+Akcaoglu, M., Rosenberg, J. M., Lishinski, A., Narvaiz, S., & Bulut, O. (under contract). *Computational social science cookbook with R: A practical guide* (a volume in the *Chapman & Hall/CRC Big Data Series*). CRC Press.
 
 \hangindent=2em
-Rosenberg, K., & Rosenberg, J. M. (under contract). *Little kids, big adventures: Exploring the Cumberland Plateau, Tennessee Valley, and Great Smoky Mountains with kids*. University of Tennessee Press.
+Rosenberg, K., & Rosenberg, J. M. (under contract). *Little kids, big adventures: Exploring the Cumberland Plateau, Tennessee Valley, and Great Smoky Mountains with kids*. University of Tennessee Press. https://littlekidsbigadventures.com/
 
 \hangindent=2em
 Estrellado, R. A., Freer, E. A.,  Mostipak, J., Rosenberg, J. M., & Velásquez, I. C. (2020). *Data science in education using R*. Routledge. *Note.* All authors contributed equally. http://www.datascienceineducation.com/ <a href="https://github.com/data-edu/data-science-in-education"><img src = "/logos/github.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
 
-## Articles Published in Refereed Journals (44)
-
-Rosenberg, J., ^Borchers, C., Stegenga, S. M., ^Burchfield, M. A., Anderson, D., & Fischer, C. (2022). How educational institutions reveal students’ personally identifiable information on Facebook. https://www.tandfonline.com/doi/full/10.1080/17439884.2022.2140672
+## Articles Published in Refereed Journals (46)
+\hangindent=2em
+Rosenberg, J.M. (in press). Open and Useful? Exploring the Science Education Resources on OER Commons. *Contemporary Issues in Technology and Teacher Education*. https://osf.io/preprints/9adhp/
 
 \hangindent=2em
-Rosenberg, J., ^Borchers, C., ^Burchfield, M. A., Anderson, D., Stegenga, S. M., & Fischer, C. (2022). Schools share students’ personally identifiable information on Facebook. *Educational Researcher*. https://journals.sagepub.com/doi/10.3102/0013189X221120538
+Carpenter, J. P., Morrison, S. A., Rosenberg, J. M., & Hawthorne, K. A. (advance online publication). Using social media in pre-service teacher education: The case of a program-wide twitter hashtag. *Teaching and Teacher Education, 124*, 1-17.
+
+\hangindent=2em
+Rosenberg, J., ^Borchers, C., Stegenga, S. M., ^Burchfield, M. A., Anderson, D., & Fischer, C. (2022). How educational institutions reveal students’ personally identifiable information on Facebook. *Learning, Media, & Technology.* https://www.tandfonline.com/doi/full/10.1080/17439884.2022.2140672
+
+\hangindent=2em
+Rosenberg, J. M., ^Borchers, C., ^Burchfield, M. A., Anderson, D., Stegenga, S. M., & Fischer, C. (2022). Posts About Students on Facebook: A Data Ethics Perspective. *Educational Researcher, 51*(8), 547-550.
 
 \hangindent=2em
 Kubsch, M., Krist, C., & Rosenberg, J. M. (2022). Distributing Epistemic Functions and Tasks - A framework for augmenting human analytic power with machine learning in science education research. *Journal of Research in Science Teaching*. https://onlinelibrary.wiley.com/doi/full/10.1002/tea.21803. *Note.* All authors contributed equally.
@@ -927,8 +941,10 @@ Sawaya, S., & Rosenberg, J. M (2014, February). *Master of Arts in Educational T
 
 Instructor at the University of Tennessee, Knoxville:
 
-*Introduction to Data Science Methods in Education* (https://making-data-science-count.github.io/s21-intro-to-data-sci-methods-in-ed/index.html; TPTE 595 & TPTE 695, M.A. and Ph.D. class)  
-*Studying Digital Learning Environments and Networks* (TPTE 595 & TPTE 695, M.A. and Ph.D. class)  
+*Introduction to Data Science Methods in Education* (TPTE 595 & TPTE 695, M.A. and Ph.D. class)  
+*Studying Digital Learning Environments and Networks* (TPTE 595 & TPTE 695, M.A. and Ph.D. class) 
+*Visualizing Data Using R* (STEM 591, M.A. and Ph.D. class) 
+*Trans-Departmental Seminar II* (TPTE 605, Ph.D. Clas)
 *Nature of Mathematics and Science Education* (SCED 572,  M.A. and Ph.D. class)  
 *Teaching Science in Grades 7-12* (TPTE 495, SCED 496, & SCED 543,  B.S. & M.A. class)  
 *VolsTeach Step 1 and Step 2* (TPTE 110 & TPTE 120, undergraduate-level class)
@@ -1006,6 +1022,7 @@ Reviewer, Proposals from Knox County Schools students for the NASA Student Space
 + Educational Studies in Mathematics (2020)  
 + Educational Technology Research & Development (2020)  
 + E-Learning and Digital Media (2016: 2)  
++ Frontiers in Education (2023; 2)  
 + Journal of Educational Technology & Society (2017)  
 + Journal of the Learning Sciences (2019)  
 + Journal of Open Source Software (2018; 2020)  
@@ -1017,6 +1034,8 @@ Reviewer, Proposals from Knox County Schools students for the NASA Student Space
 + Transactions on Computing Education (2021)  
 
 ### University service
+
+2022-2023, AI Visioning Working Group (Co-Chair, Education Committee), AI Tennessee Initiative, UTK
 
 2021-2023, Data Science Faculty Committee, UTK  
 
@@ -1048,7 +1067,7 @@ Reviewer, Proposals from Knox County Schools students for the NASA Student Space
 
 *Michigan State University*
 
-Search Committee Member, Program Specialist, Master of Arts in Educational Technology Program, Michigan State University, 2015
+2015, Search Committee Member, Program Specialist, Master of Arts in Educational Technology Program, Michigan State University  
 
 ### Program Service and Service on Student Committees
 
@@ -1056,8 +1075,8 @@ Search Committee Member, Program Specialist, Master of Arts in Educational Techn
 
 Advisor for Doctoral students: 
 
-+ Omiya Sultana (co-advisor with Mehmet Aydeniz)  
-+ Amanda Hendricks    
++ Omiya Sultana  
++ Amanda Hendricks  
 + Emily McDonald  
 + Jennifer Longnecker (graduated 2021; co-advisor with Amy Broemmel)  
 
@@ -1175,6 +1194,8 @@ Rosenberg, J. M. (2016). Diffusion & temperature. *Lab Interactive Simulation.* 
 
 ### Invited Participation in Workshops/Working Groups
 
+Participant, *NAS-NSF Working Group Kickoff - Tools & Transfer*, Data Science for Everyone, 2023  
+
 Participant, *Foundations of data science for students in grades K-12: A workshop*, National Academies of Sciences, Engineering and Medicine, 2022  
 
 Participant, *Open Scholarship in Education small expert meeting*, Center for Open Science, 2022  
@@ -1197,13 +1218,38 @@ Research Methods with Diverse Groups Advanced Training Institute, American Psych
 
 ### Media
 
-2022, Wired, *The Tricky Ethics of Being a Teacher on TikTok*, https://www.wired.com/story/teachers-on-tiktok/
+[Outsmart ChatGPT: 8 Tips for Creating Assignments It Can’t Do](https://www.edweek.org/technology/outsmart-chatgpt-8-tips-for-creating-assignments-it-cant-do/2023/02), *Education Week*, February 14, 2023  
 
-2022, EdWeek, *Teaching Students to Understand the Uncertainties of Science Could Help Build Public Trust*, https://www.edweek.org/teaching-learning/teaching-students-to-understand-the-uncertainties-of-science-could-help-build-public-trust/2022/07
+[Can Digital Tools Detect ChatGPT-Inspired Cheating?](https://www.edweek.org/technology/can-digital-tools-detect-chatgpt-inspired-cheating/2023/01), *Education Week*, January 27, 2023  
 
-2021, Tennessee News Service, *School Posts on Facebook Could Threaten Student Privacy*, https://www.publicnewsservice.org/cuts/75/rss-75345-1.mp3
+[When Does Posting Photos of Students Become a Data Privacy Problem?](https://www.edsurge.com/news/2023-01-09-when-does-posting-photos-of-students-become-a-data-privacy-problem), *EdSurge*, January 9, 2023  
 
-2019, Flowing Data, *Teaching R to 7th Graders*, https://flowingdata.com/2019/11/26/teaching-r-to-7th-graders/
+[How School Social Media Accounts Put Student Privacy at Risk](https://www.techlearning.com/news/are-school-social-media-accounts-putting-student-privacy-at-risk), *Tech & Learning*, November 30, 2022  
+
+[Professors publish playbook for how teachers can address parents concerned about CRT](https://www.foxnews.com/us/professors-publish-playbook-teachers-address-parents-concerned-crt), *Fox News*, November 13, 2022  
+
+[Student data privacy compromised in UK, at risk in US](https://www.biometricupdate.com/202211/student-data-privacy-compromised-in-uk-at-risk-in-us#:~:text=The%20Information%20Commissioner's%20Office%20(ICO,of%20roughly%2028%20million%20children.), *Biometric Update*, November 14, 2022
+
+[Study: School Facebook Pages May Compromise Student Privacy](https://www.govtech.com/education/k-12/study-school-facebook-pages-may-compromise-student-privacy), *Government Technology*, November 10, 2022
+
+[Study Shows Millions of Student Privacy Breaches on Social Media](https://thejournal.com/articles/2022/11/07/study-shows-millions-of-student-privacy-breaches-on-social-media.aspx)
+THE Journal, November 7, 2022
+
+[School Facebook Pages and Privacy Concerns: What Educators Need to Know](https://www.edweek.org/technology/school-facebook-pages-and-privacy-concerns-what-educators-need-to-know/2022/11)
+*Education Week*, November 2, 2022
+
+[Study: Schools’ Facebook posts may violate student privacy](https://www.k12dive.com/news/facebook-posts-may-violate-student-privacy/635525/#:~:text=Dive%20Brief%3A,the%20American%20Educational%20Research%20Association.)
+*K-12 Dive*, November 2, 2022
+
+[Study: Schools’ Social Media Posts May Be Compromising Student Privacy](https://www.aera.net/Newsroom/Study-Schools-Social-Media-Posts-May-Be-Compromising-Student-Privacy), *American Educaitonal Research Association*, November 2, 2022
+
+[The Tricky Ethics of Being a Teacher on TikTok](https://www.wired.com/story/teachers-on-tiktok/), *Wired*, September 6, 2022
+
+[Teaching Students to Understand the Uncertainties of Science Could Help Build Public Trust](https://www.edweek.org/teaching-learning/teaching-students-to-understand-the-uncertainties-of-science-could-help-build-public-trust/2022/07), *Education Week*
+
+[School Posts on Facebook Could Threaten Student Privacy](https://www.publicnewsservice.org/cuts/75/rss-75345-1.mp3), *Tennessee News Service*  
+
+[Teaching R to 7th Graders](https://flowingdata.com/2019/11/26/teaching-r-to-7th-graders/), *Flowing Data*  
 
 ### Podcasts
 
