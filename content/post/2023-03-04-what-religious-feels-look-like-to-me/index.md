@@ -1,5 +1,5 @@
 ---
-title: What religious feeling is to me
+title: What religious feeling is to me - making the everyday special and feeling grateful
 author: ''
 date: '2023-03-04'
 slug: what-religious-feels-look-like-to-me
