@@ -55,6 +55,6 @@ Two-four paragraph detailed description of the hike (with one-two photos)
 
 Other hikes or activities to do nearby (occasionally with one photo).
 
-```
+---
 
 We hope to finish writing the book by August, but know that's ambitious.
