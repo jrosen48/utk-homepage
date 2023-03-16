@@ -17,7 +17,7 @@ Anywho, we've made some progress over spring break, and a part of what we've wor
 
 The simplified structure for each chapter is below. What can we do better? Any and all feedback is welcome. In addition to Seven Islands, we also drafted and shared [a chapter on Abrams Creek](https://littlekidsbigadventures.com/abrams-creek.html), though we plan to revise both extensively.
 
-```
+---
 
 # Name of hike
 
