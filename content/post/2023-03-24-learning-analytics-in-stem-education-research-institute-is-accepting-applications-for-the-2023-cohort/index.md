@@ -1,5 +1,5 @@
 ---
-title: Learning Analytics in STEM Education Research Institute is Accepting Applications
+title: The Learning Analytics in STEM Education Research Institute is Accepting Applications
   for the 2023 cohort
 author: ''
 date: '2023-03-24'
