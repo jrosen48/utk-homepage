@@ -1,6 +1,5 @@
 ---
-title: Before and after I first started to think about the core idea in my NSF CAREER
-  proposal
+title: Writing a blurb for a CAREER grant (and all the work that goes into and accompanies it)
 author: ''
 date: '2023-04-04'
 slug: before-and-after-i-first-started-to-think-about-the-core-idea-in-my-nsf-career-proposal
@@ -53,7 +52,7 @@ Back to the blurb.
 
 An apropos fact about the blurb---*the same file I used to write the blurb had nearly the same contents as the file I submitted*. The file with the blurb is [here](https://docs.google.com/document/d/1QETX8cpEDc91wljKhxp0xrQDcBmDabeE/edit?usp=sharing&ouid=110969489876425298430&rtpof=true&sd=true). I think this is noteworthy because it shows how I modified what was originally a few sentences into a coherent description of what I was proposing. The contributions and work of Marcus, Mine, Sibel, and E.J. are clear here; those collaborations were nothing less than invaluable to the work I pitched. At the same time, I am happy to still be collaborating with each of these people on ongoing projects; the collaborations fed more individually-driven work as well as other, shared projects.
 
-At one point (May 24), the document was in what I thought was a good place. Here's [the doc at that point](https://docs.google.com/document/d/1B3apqV4Ov7gfKwZVrOtrsS0bbwRLyKw7/edit?usp=sharing&ouid=110969489876425298430&rtpof=true&sd=true). I shared it with colleagues, including Teya as well as Victor Lee, Mehmet Aydeniz, Christina Krist, Teya Rutherford's daughter (actually, I think Teya was logged into the wrong account at that time), and Hollie Raynor. They tore it to shreads (in a constructive and collegial way!). Here are example comments:
+At one point (May 24), the document was in what I thought was a good place. Here's [the doc at that point](https://docs.google.com/document/d/1B3apqV4Ov7gfKwZVrOtrsS0bbwRLyKw7/edit?usp=sharing&ouid=110969489876425298430&rtpof=true&sd=true). I shared it with colleagues, including Teya as well as Victor Lee, Mehmet Aydeniz, Christina Krist, Teya Rutherford's daughter (actually, I think Teya was logged into the wrong account at that time), and Hollie Raynor. They tore it to shreads (in a constructive and collegitgial way!). Here are example comments:
 
 > This hasn't been introduced or motivated at all
 
