@@ -7,7 +7,7 @@ categories: []
 tags: []
 ---
 
-Last night, I recollected that the last American Educational Research Association (AERA) conferences I attended was four years ago - during April 2019 in Toronto, Canada. I remember walking down a busy road from my hotel to the location of a presentation when I received an email from the Taylor & Frances editor for *Data Science in Education Using R* indicating that they were moving to accept our proposal to publish the book - which was eventually published in October, 2020---this event approaching being three years ago! At the time of the last AERA, my son was just barely one year old! He is now five. This is all to say, it has been a long time since I last attended an AERA conference!
+Last night, I recollected that the last American Educational Research Association (AERA) conference I attended was four years ago - during April 2019 in Toronto, Canada. I remember walking down a busy road from my hotel to the location of a presentation when I received an email from the Taylor & Frances editor for *Data Science in Education Using R* indicating that they were moving to accept our proposal to publish the book - which was eventually published in October, 2020---this event approaching being three years ago! At the time of the last AERA, my son was just barely one year old! He is now five. This is all to say, it has been a long time since I last attended an AERA conference!
 
 I've missed it a bit and I am looking forward to the conference this year. 
 
