@@ -16,3 +16,5 @@ The last time I presented at the [National Association for Research in Science T
 **Distributing Epistemic Functions and Tasks – Towards a Methodological Approach for Using ML in Science Education**, 1:10-2:40pm Thursday, 20 April, 2023 (with Marcus Kubsch and Christina Krist)
 
 **Make Graphs? A Survey of Teachers on How Their Students Analyze and Interpret Data Strengthening Science Teachers' NGSS-Aligned Instruction by Focusing on Students**, 8:25-9:55am Wednesday, 19 April, 2023 (with Omiya Sultana, Aaron Reedy, Elizabeth Schultheis, and Melissa Kjelvik)
+
+I’m happy to be (back) in Chicago for NARST; it has been fun to catch up with friends I haven’t seen in awhile. It also is helpful to engage with the science education field in this venue deeply - different from at AERA, which is a more general (and education-wide) conference.
