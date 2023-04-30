@@ -120,9 +120,11 @@ C.D. Owen High School, Swannanoa, NC
 
 # Grants 
 
-**$6,489,233; $5,401,472 as Principal Investigator [PI], Co-PI, or Co-Investigator [Co-I])**
+**$7,335,845; $6,248,084 as Principal Investigator [PI] or Co-PI**
 
 ## PI, Co-PI, and Co-I 
+
+2023-2028, PI, *CAREER: Creatively Reimagining Engagements with Data in Biology Learning Environments*, ($846,612), NSF. [NSF Grant No. 2239152](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2239152&HistoricalAwards=false).
 
 2022-2025, Co-PI, *Computer Science for Appalachia: Expanding a research-practice partnership to integrate computer science and literacy in rural East Tennessee schools*, ($999,980; with *PI* Lynn Hodge). NSF. NSF Grant No. 2219418.
 
