@@ -23,7 +23,7 @@ Here's the public abstract; a little more with some more detail for a "scientifi
 
 > There have been prominent and widespread calls for high school science students to work with data in more complex ways that better align with and support the work of professional scientists and engineers. However, high school students' analysis and interpretation of scientific data is often limited in scope, complexity, and authentic purpose. The aim of Project Creatively Reimagining Engagements with Data in Biology Learning Environments (Project CREDIBLE) is to support and advance students' work with ecological data in high school biology classrooms by embracing a new approach: Bayesian data analysis methods. This project has the potential to empower 20 high school teachers and their approximately 1,200 students to make sense of data within and beyond classroom contexts. It also will involve sharing research findings, an educational technology tool for Bayesian data analysis, and curricular resources in open and accessible ways.
 
-As an open science thing/commitment/practice, the proposal is available in entirety [here](https://osf.io/8jbtv/):
+As an open science thing/commitment/practice, the proposal is available in entirety [here](https://osf.io/8jbtv/).
 
 I’ve received much support for my work, not the least from my department and now the NSF. I am lucky and don’t and won’t forget that. Thanks to those who have supported me. I feel responsible for doing my best, growing in the process, and supporting others to have as many opportunities and as much support as I have been lucky to have.
 
