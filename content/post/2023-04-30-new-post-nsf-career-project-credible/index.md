@@ -17,7 +17,7 @@ It will draw on and ask me to grow with respect to three different areas:
 - the life sciences and environmental science
 - place-based learning and the outdoors
 
-There are outstanding partners for the project, especially [DataClassroom](https://dataclassroom.com) and the [Great Smoky Mountains Institute at Tremont](https://gsmit.org/) as well as partnering teachers in local schools. I am lucky to have two outstanding Ph.D. students (who will help and even push me to do great work) interested in working on the project.
+There are outstanding partners for the project, especially [DataClassroom](https://dataclassroom.com) and the [Great Smoky Mountains Institute at Tremont](https://gsmit.org/) as well as partnering teachers in local schools and an advisory board with some of the smartest and most critical (but kindest) people I know and have worked with. I am lucky to have two outstanding Ph.D. students (who will help and even push me to do great work) interested in working on the project.
 
 Here's the public abstract; a little more with some more detail for a "scientific audience" is [here](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2239152&HistoricalAwards=false).
 
