@@ -15,7 +15,7 @@ It will draw on and ask me to grow with respect to three topics/ideas:
 
 - high school teachers' use of complex sources of scientific data, approached through the perspective of Bayesian updating and data analysis
 - the life sciences and environmental science
-- place-based learning and the outdoors
+- place-based learning (with place being _anywhere_ one is, definitely _not only_ places like national parks)
 
 There are outstanding partners for the project, especially [DataClassroom](https://dataclassroom.com) and the [Great Smoky Mountains Institute at Tremont](https://gsmit.org/) as well as partnering teachers in local schools and an advisory board with some of the smartest and most critical (but kindest) people I know and have worked with. I am lucky to have two outstanding Ph.D. students (who will help and even push me to do great work) interested in working on the project.
 
