@@ -13,7 +13,7 @@ I waited, made some changes, waited, made some changes, and when on a canoe with
 
 It will draw on and ask me to grow with respect to three different areas:
 
-- high school teachers' use of complex sources of scientific data
+- high school teachers' use of complex sources of scientific data, approached through the perspective of Bayesian updating and data analysis
 - the life sciences and environmental science
 - place-based learning and the outdoors
 
