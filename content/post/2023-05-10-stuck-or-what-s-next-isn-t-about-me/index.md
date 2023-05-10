@@ -1,5 +1,5 @@
 ---
-title: What my Spotify Top Songs say about me and what is next for me
+title: What my Spotify Top Songs say about me and what comes next
 author: ''
 date: '2023-05-10'
 slug: stuck-or-what-s-next-isn-t-about-me
@@ -7,9 +7,13 @@ categories: []
 tags: []
 ---
 
-Spotify creates a year-end playlist of my most-played songs for the previous year, and revisiting what I listened to in 2016, 2017, and 2018 is fun and edifying for me. 
+Spotify creates a year-end playlist of my most-played songs for the previous year, and revisiting what I listened to awhile ago was fun and edifying for me. 
 
-Looking back, I feel like I listened to music that was spunky and energetic - maybe I was too, you decide...
+In 2016, I was young and falling in love with Katie and our lives in Michigan...
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VUxh-jw-C-w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Later, I grew more confident and listened to music that was spunky and energetic - maybe I was too, you decide...
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I2YVsgiQhCM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
