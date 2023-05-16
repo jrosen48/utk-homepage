@@ -29,8 +29,8 @@ Then it was not as workable, but we made it through...
 
 For 2021 and 2022, I had the same song as my top song... meditative, hopeful, yearning even...
 
-https://www.youtube.com/watch?v=CG-drrSYAeo
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CG-drrSYAeo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 This process made me question what is next, and I think that I (and we) have been in limbo, waiting, hopeful, yearning, learning. 
 
-So, what is next? I think it is not about me - it cannot be the same song three years in a row, can it be? I hope to learn from others' songs in the next year, moving on and past the past two and more years, happy and spunky,git  even.
+So, what is next? I think it is not about me - it cannot be the same song three years in a row, can it be? I hope to learn from others' songs in the next year, moving on and past the past two and more years, happy and spunky, even.
