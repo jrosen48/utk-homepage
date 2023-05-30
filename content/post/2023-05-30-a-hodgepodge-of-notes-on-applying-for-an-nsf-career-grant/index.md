@@ -9,9 +9,9 @@ tags: []
 
 I've spoken with two friends over the last few weeks about applying for an NSF CAREER grant, and I thought to share a few notes here, mostly so I can build on them and flesh this out at some point in the future (and so I don't lose them!).
 
-This is _really rough_, mostly just notes!
+This is _really rough_, mostly just notes, and shared very humbly; I recognize the high degree of good luck I had in my proposal, and so please consider these notes with that foremost in mind.
 
----
+<hr>
 
 - In terms of things to emphasize, take three things clear for reviewers:
     - What the need is. 
