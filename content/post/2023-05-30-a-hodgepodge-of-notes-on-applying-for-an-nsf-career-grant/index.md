@@ -21,12 +21,9 @@ One more note: Most of this applies to any NSF grant as much as it does to an NS
     - What the need is. 
     - What you'll do. 
     - How you'll study it. 
-    
 - Write [a one-pager](https://joshuamrosenberg.com/post/2023/04/04/before-and-after-i-first-started-to-think-about-the-core-idea-in-my-nsf-career-proposal/) and share this early and often
-
 - Minor, but important for reviewers: Focus the intellectual merit section (around one lengthy paragraph) on the rationale and need for the project. 
     - Also, focus the broader impacts section on specific, unique ways the project will positively impact people and the wider society or world
-
 - Speaking to a program officer early to determine suitability for the program and the scope and details of the project is essential 
 
 # Structural Recommendations
