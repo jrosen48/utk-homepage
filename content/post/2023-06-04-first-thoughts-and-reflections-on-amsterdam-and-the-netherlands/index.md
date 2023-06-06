@@ -29,7 +29,10 @@ I am sharing a few first thoughts and reflections on the two cities. This will, 
 
 ### Dublin, the Republic of Ireland
 
-- Music! Music comes to mind first, whereas bikes came to mind first for Amsterdam; an experience I will not forget is listening to traditional ("trad") Irish music in a pub in Ireland: it was _so good_ it almost made me cry. I got to pay a musician on the back and tell him cheers; it was better than I expected
+- Music! Music comes to mind first, whereas bikes came to mind first for Amsterdam; an experience I will not forget is listening to traditional ("trad") Irish music in a pub in Ireland: it was _so good_ it almost made me cry. Leigh recorded a video I uploaded [here](https://youtube.com/shorts/oNaqO8NuGU0?feature=share). I got to pat a musician on the back and tell him cheers; it was better than I expected
+
+
+
 - With Leigh, I went to a concert of the Mary Walloppers; it was, in a word, electric, also traditional and intensive, almost musically violent, and especially seemingly so in the "rough" part of town; another memory I won't forget
 - Guinness - it's good! I had two and I'd have more if they tasted this way in the states; I'll give it another try when back
 - Irish people are funny, sharp, and talkative; several times I couldn't tell if someone was poking fun of me, being friendly, or something else! "Where are you from?" "The U.S." "Oh, that's okay, that's not the worst . . . actually, yeah, it is." I heard Irish folks make fun of each other in similarly; I guess it's called the _craik_ (pronounced "crack"); making fun of friends. I liked it. It was as joking and informal as Germany strict and formal --- much more informal than the Netherlands. 
