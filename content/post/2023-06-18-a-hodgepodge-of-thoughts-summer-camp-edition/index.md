@@ -28,7 +28,11 @@ Baby's due date is fewer than ten weeks away, and I am thankful to my colleagues
 
 ### Driving to Michigan, driving to Knoxville
 
-Being in Michigan brings lots of memories, and some nostalgia. It was great to be with my parents. Driving home to Knoxville felt good; within two minutes of arriving, our son had buddies over to paly with; around four neighbors said "welcome back". It felt good.
+Being in Michigan brings lots of memories, and some nostalgia. It was great to be with my parents. Driving home to Knoxville felt good; within two minutes of arriving, our son had buddies over to play with; around four neighbors said "welcome back". It felt good.
+
+### A Bar Mitzvah
+
+A friend's older son became a Bar Mitzvah this last weekend, and it was a joy to celebrate with them. It was fun for Jonah to see how our friend's son led the service!
 
 ### Hiking
 
