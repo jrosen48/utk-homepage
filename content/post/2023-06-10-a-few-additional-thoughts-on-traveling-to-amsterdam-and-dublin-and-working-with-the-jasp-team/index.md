@@ -17,5 +17,6 @@ I mentioned in [a post from a few weeks ago](https://joshuamrosenberg.com/post/2
     - Measuring and comparing biodiversity (NGSS [LS2-1](https://www.nextgenscience.org/pe/hs-ls2-1-ecosystems-interactions-energy-and-dynamics))
     - Analyzing data on force and motion (NGSS [PS2-1](https://www.nextgenscience.org/pe/hs-ps2-1-motion-and-stability-forces-and-interactions))
 - There is good documentation for contributing a module to JASP; see [here](https://github.com/jasp-stats/jasp-desktop/blob/stable/Docs/development/r-analyses-guide.md) and [here](https://github.com/jasp-stats/jasp-desktop/blob/stable/Docs/development/jasp-qml-guide.md) for the "server" and "UI" sides of the module, respectively.
+- Big picture, working with collaborators around the United States and world is one of the best parts of this job - thanks to my Dutch colleagues E.J. and Johnny for this opportunity!
 
-More to come!
+
