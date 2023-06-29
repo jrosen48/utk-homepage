@@ -1,0 +1,19 @@
+---
+title: Presentation at ICER 2021
+author: Joshua Rosenberg
+date: '2021-08-20'
+slug: presentation-at-icer-2021
+categories:
+  - presentation
+tags: []
+---
+
+With Alex Lishinski, I presented at the [International Computing Education Research conference](https://icer2021.acm.org/) on a recent study we carried out using our take on the use of the Experience Sampling Method (ESM). 
+
+Here's the abstract:
+
+> There are significant participation gaps in computing, and the way to address these participation gaps lies not simply in getting students from underrepresented groups into a CS1 classroom, but supporting students to pursue their interest in computing further beyond CS1. There are many factors that may influence students’ pursuit of computing beyond introductory courses, including their sense that they can do what CS courses require of them (their self-efficacy) and positive emotional experiences in CS courses. When interest has been addressed in computing education, research has treated it mostly as an outcome of particular pedagogical approaches or curricula; what has not been studied is how students’ longer-term interest develops through more granular experiences that students have as they begin to engage with computing. In this paper, we present the results of a study designed to investigate how students’ interest in computing develops as a product of their momentary self-efficacy and affective experiences. Using a methodology that is relatively uncommon to computer science education—the experience sampling method, which involves frequently asking students brief, unobtrusive questions about their experiences—we surveyed CS1 students every week over the course of a semester to capture the nuances of their experiences. 74 CS1 students responded 14-18 times over the course of a semester about their self-efficacy, frustration, and situational interest. With this data, we used a multivariate, multi-level statistical model that allowed us to estimate how students’ granular, momentary experiences (measured through the experience sampling method surveys) and initial interest, self-efficacy, and self-reported gender (measured through traditional surveys) relate to their longer-term interest and achievement in the course. We found that students’ momentary experiences have a significant impact on their interest in computing and course outcomes, even controlling for the self-efficacy and interest students reported at the beginning of the semester. We also found significant gender differences in students’ momentary experiences, however, these were reduced substantially when students’ self-efficacy was added to the model, suggesting that gender gaps could instead be self-efficacy gaps. These results suggest that students’ momentary experiences in CS1, how they experience the course week to week, have an impact on their longer-term interest and learning outcomes. Furthermore, we found that male and female students reported different experiences, suggesting that improving the CS1 experiences that students have could help to close gender-related participation gaps. In all, this study shows that the granular experiences students have in CS1 matter for key outcomes of interest to computing education researchers and educators and that the experience sampling method, more common in fields adjacent to computer science education, provides one way for researchers to integrate the experiences students have into our accounts of why students become interested in computing.
+
+The full paper is available here: https://dl.acm.org/doi/pdf/10.1145/3446871.3469740
+
+Thanks to the organizers of the conference for a great virtual experience.

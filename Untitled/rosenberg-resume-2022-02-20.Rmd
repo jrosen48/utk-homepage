@@ -1,0 +1,88 @@
+---
+name: Joshua
+surname: Rosenberg
+position: "Assistant Professor of STEM Education"
+address: "1328 Beacon Hill Ln., Knoxville, TN 37919"
+phone: "+1 865-236-1445"
+www: joshuarosenberg.com
+email: "jmrosen48@gmail.com"
+twitter: jrosenberg6432
+github: jrosen48
+date: "`r format(Sys.time(), '%B %Y')`"
+output: vitae::moderncv
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(vitae)
+library(tidyverse)
+```
+
+# Highlights
+
+- Established research agenda at the intersection of computational and machine learning methods and social science (particularly educational research)
+- Experienced data scientist and developer of statistical software for data analysts, educators, and learners
+- Principal Investigator for more than 4M in federally-funded research projects
+- Author of a book on educational data science and 37 peer-reviewed journal articles
+- Mentor to and supervisor for students in computer science, data science, and education
+
+# Professional Affiliation
+
+```{r}
+tribble(
+  ~ Degree, ~ Year, ~ Institution, ~ Where,
+  "Assistant Professor of STEM Education", "2018-Present", "University of Tennessee", "Knoxville, TN",
+) %>% 
+  detailed_entries(Degree, Year, Institution, Where)
+```
+
+# Education
+
+```{r}
+tribble(
+  ~ Degree, ~ Year, ~ Institution, ~ Where,
+  "PhD, Educational Psychology & Educational Technology", "2018", "Michigan State University", "East Lansing, MI",
+  "MA, Educational Technology", "2012", "Michigan State University", "East Lansing, MI",
+  "BS, Biology", "2010", "University of North Carolina, Asheville", "Asheville, NC",
+) %>% 
+  detailed_entries(Degree, Year, Institution, Where)
+```
+
+# Awards and Fellowships (Selected)
+
+```{r}
+tribble(
+  ~ Award, ~ Year, ~ Institution, ~ Where,
+  "Early Career Award", "2022", "Technology as an Agent of Change for Teaching and Learning Special Interest Group, AERA",
+  "Best Poster Award", "2021", "Best Poster Award", "International Conference on Educational Data Mining",
+  "Fellowship", "2021-2022", "Open Educational Resources (OER) Research", "William and Flora Hewlett Foundation"
+) %>% 
+  detailed_entries(Award, Year, Institution, Where)
+```
+
+# Grants (Selected)
+
+```{r}
+tribble(
+  ~Role,  ~Years, ~ Title, ~Funder,
+    "Co-PI", "2022-2025", "Quantifying the robustness of causal inferences: Extensions and applications", "Institute for Educaiton Sciences ($899,319)",
+  "PI","2019-2022",  "Understanding the development of interest in computer science: An experience sampling approach", "NSF ($348,688)",
+  "Co-PI", "2019-2022", "Advancing computational grounded theory for audiovisual data from STEM classrooms", "NSF ($1,313,855)"
+) %>% 
+    detailed_entries(Role, Years,  Title, Funder)
+```
+
+# Publications (Selected)
+
+```{r}
+bibliography_entries("publications.bib") %>%
+  arrange(issued)
+```
+
+# Software Developed (Selected)
+
+```{r}
+bibliography_entries("software.bib") %>%
+  arrange(issued)
+```
+

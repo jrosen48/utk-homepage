@@ -1,16 +1,15 @@
 ---
-name: Marie
-surname: Curie
-position: "Professor"
-address: "School of Physics & Chemistry, École Normale Supérieure"
-phone: +1 22 3333 4444
-www: mariecurie.com
-email: "Marie.Curie@ens.fr"
-twitter: mariecurie
-github: mariecurie
-linkedin: mariecurie
+name: Joshua
+surname: Rosenberg
+position: "Assistant Professor of STEM Education and Data Scientist"
+address: "1328 Beacon Hill Ln., Knoxville, TN 37919"
+phone: "+1 865-236-1445"
+www: joshuarosenberg.com
+email: "jmrosen48@gmail.com"
+twitter: jrosenberg6432
+github: jrosen48
 date: "`r format(Sys.time(), '%B %Y')`"
-output: vitae::awesomecv
+output: vitae::moderncv
 ---
 
 ```{r setup, include=FALSE}
@@ -18,7 +17,7 @@ knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 library(vitae)
 ```
 
-# Highlights
+# Some stuff about me
 
  * I poisoned myself doing research.
  * I was the first woman to win a Nobel prize
@@ -56,15 +55,9 @@ tribble(
 
 ```{r}
 library(dplyr)
-scholar::get_publications("EmD_lTEAAAAJ&EmD_lTEAAAAJ&") %>% 
-  filter(cites > 30) %>% 
-  distinct(title, .keep_all = TRUE) %>%
-  transmute(bibtype = "Article", author = as.character(author),
-            title = as.character(title),
-            journaltitle = as.character(journal), year, key = row_number()) %>% 
-  RefManageR::as.BibEntry() %>% 
-  RefManageR::WriteBib("curie.bib")
+knitr::write_bib(c("vitae", "tibble"), "packages.bib")
 
-bibliography_entries("curie.bib")
+bibliography_entries("packages.bib") %>%
+  arrange(desc(author$family), issued)
 ```
 

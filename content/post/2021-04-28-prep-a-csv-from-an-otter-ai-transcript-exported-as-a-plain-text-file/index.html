@@ -1,0 +1,61 @@
+---
+title: Prep a CSV from an Otter.AI transcript exported as a plain text file
+date: '2021-04-28'
+slug: prep-a-csv-from-an-otter-ai-transcript-exported-as-a-plain-text-file
+categories:
+  - r
+tags: []
+---
+
+<script src="{{< blogdown/postref >}}index_files/header-attrs/header-attrs.js"></script>
+
+
+<p><a href="https://otter.ai">Otter</a> is a service for transcribing audio. It works pretty well as a starting
+point for transcription (though definitely needs some careful checking). I’ve been using it for
+an interview-based research project.</p>
+<p>One feature that could be added is the ability to export the transcript in a more
+usable form; particularly, as a CSV file - one which can easily be opened using spreadsheet
+and other software (e.g., R, if one wanted to carry out an automated/an NLP analysis).</p>
+<p>Otter does allow you to easily export a plain text (.txt) file. This file can be wrangled
+into a tidy CSV file. This post includes a link to a function to do that.</p>
+<p>Here, you can see that I copied the text file into a Google Sheet (how I thought I’d analyze it, first).
+This could be modified to read the text file directly; instead of <code>read_sheet()</code>, the function <code>read_lines()</code>
+should, I believe, return the same results as <code>read_sheet()</code>.</p>
+<p>While _the exported file contained only one column, alternating the speaker name (and time stamp)
+in the same row and the text of what the speaker said in the next, the returned data frame
+is a tidy data frame with three columns, one each for the time stamp, speaker, and text. I don’t
+show the result here because the interview data is not anonymized.</p>
+<pre class="r"><code>library(tidyverse)
+library(googlesheets4)
+
+d &lt;- read_sheet(&quot;https://docs.google.com/spreadsheets/d/1kz2LlLgXkN_HaBEAiFETl59b09u9AwMIgrwQx6DCv8A/edit#gid=0&quot;, col_names = FALSE)
+
+prep_otter_transcript &lt;- function(d, length_less_than_100_min = TRUE) {
+
+  d &lt;- d %&gt;% rename(x1 = 1)
+
+  d2 &lt;- d %&gt;% slice(-nrow(d))
+
+  d3 &lt;- d2 %&gt;%
+    filter(!is.na(x1)) %&gt;%
+    mutate(text = lead(x1)) %&gt;%
+    mutate(to_filter = rep(c(TRUE, FALSE), nrow(.)/2)) %&gt;%
+    filter(to_filter)
+
+  if (length_less_than_100_min) {
+    d3 %&gt;%
+      mutate(time = str_sub(x1, start = -5)) %&gt;%
+      mutate(speaker = str_sub(x1, end = -5)) %&gt;%
+      select(time, speaker, text) %&gt;%
+      mutate_all(str_trim)
+  } else {
+    d3 %&gt;%
+      mutate(time = str_sub(x1, start = -6)) %&gt;%
+      mutate(speaker = str_sub(x1, end = -6)) %&gt;%
+      select(time, speaker, text) %&gt;%
+      mutate_all(str_trim)
+  }
+
+}
+
+prep_otter_transcript(d)</code></pre>
