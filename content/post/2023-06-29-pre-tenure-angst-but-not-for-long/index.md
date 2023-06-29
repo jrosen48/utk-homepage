@@ -1,5 +1,5 @@
 ---
-title: Pre-tenure angst (but not for long) - what does tenure mean?
+title: What does tenure mean to me?
 author: ''
 date: '2023-06-29'
 slug: pre-tenure-angst-but-not-for-long
