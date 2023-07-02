@@ -6,7 +6,7 @@ title: Home
 
 # Joshua M. Rosenberg, Ph.D.
 
-Welcome! I am an Assistant Professor of STEM Education at the [University of Tennessee, Knoxville](http://utk.edu/). 
+Welcome! I am an Associate Professor of STEM Education at the [University of Tennessee, Knoxville](http://utk.edu/). 
 
 If you're looking for [my contact information](/about/#contact-information) or other information (including links to [ongoing grants](/about/#grants,-fellowships,-and-awards), [publications](/about/#publications) and [presentations](/about/#presentations)), please visit the page for my [vita](/about/).
 

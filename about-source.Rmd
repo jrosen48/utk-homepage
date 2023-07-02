@@ -69,7 +69,7 @@ render_toc('about.Rmd')
 
 # Contact Information
 
-Assistant Professor, STEM Education  
+Associate Professor, STEM Education  
 Department of Theory and Practice in Teacher Education  
 Faculty Fellow, Center for Enhancing Education in Mathematics and Sciences  
 The University of Tennessee, Knoxville  
@@ -105,7 +105,7 @@ University of North Carolina, Asheville
 
 # Professional Experience
 
-2023*-present, Associate Professor, STEM Education  
+2023-present, Associate Professor, STEM Education  
 University of Tennessee, Knoxville  
 
 2018-2023, Assistant Professor, STEM Education  

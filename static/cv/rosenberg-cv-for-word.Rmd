@@ -105,7 +105,7 @@ University of North Carolina, Asheville
 
 # Professional Experience
 
-2023*-present, Associate Professor, STEM Education  
+2023-present, Associate Professor, STEM Education  
 University of Tennessee, Knoxville  
 
 2018-2023, Assistant Professor, STEM Education  
@@ -801,7 +801,7 @@ Ad-Hoc Reviewer, Advancing Informal STEM Learning, National Science Foundation (
 
 Panelist, Innovative Technology Experiences for Students and Teachers (ITEST), National Science Foundation, *n.d.* (two panels)
 
-Panelist, Mid-Career Advancement (MCA), National Science Foundation, *n.d.*
+Co-chair, TPACK SIG, Society for Information Technology and Teacher Education, 2015-2017
 
 Panelist, Building Capacity in STEM Education Research (BCSER), National Science Foundation, *n.d.*
 
