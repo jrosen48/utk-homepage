@@ -7,7 +7,7 @@ disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 preserveTaxonomyNames = true
 footnotereturnlinkcontents = "↩"
-paginate = 10
+paginate = 100
 math = true
 
 [permalinks]
@@ -30,10 +30,6 @@ math = true
     name = "Research Group"
     url = "https://makingdatasciencecount.com"
     weight = 5
-[[menu.main]]
-    name = "Consulting"
-    url = "/consulting"
-    weight = 6
 
 [params]
     description = "Joshua M. Rosenberg's Homepage"
