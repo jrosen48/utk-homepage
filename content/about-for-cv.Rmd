@@ -69,7 +69,7 @@ render_toc('about.Rmd')
 
 # Contact Information
 
-Assistant Professor, STEM Education  
+Associate Professor, STEM Education  
 Department of Theory and Practice in Teacher Education  
 Faculty Fellow, Center for Enhancing Education in Mathematics and Sciences  
 The University of Tennessee, Knoxville  
@@ -119,8 +119,6 @@ Shelby High School, Shelby, NC
 
 2009-2010, Science Teacher Intern (Biology and Chemistry)  
 C.D. Owen High School, Swannanoa, NC  
-
-*Effective August 1, 2023
 
 # Grants 
 
