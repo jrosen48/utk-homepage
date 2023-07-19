@@ -23,7 +23,7 @@ It responded, and I responded with one additional request.
 
 Here's a small portion of the putput --- visualizations and interpretations of them, as well as the option to ask for it to "Show work," which returns the python code that generated the plots.
 
-![](images/gpt-4_3.png)
+![](images/gpt-4_1.png)
 
 Here is a link to all of the output, including for a logistic regression model: https://chat.openai.com/share/02820dd7-fb7b-4db0-90f9-3d3c11f571c4
 
