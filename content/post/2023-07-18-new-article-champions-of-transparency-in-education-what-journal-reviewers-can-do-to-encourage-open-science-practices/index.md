@@ -8,7 +8,7 @@ categories: []
 tags: []
 ---
 
-I contributed to an author on how peer reviewers can take small steps to encourage the authors of manuscripts (and editors, indirectly) to encourage open science practices.
+I contributed to an article on how peer reviewers can take small steps to encourage the authors of manuscripts (and editors, indirectly) to encourage open science practices.
 
 The paper is with Rachel Renbarger, Jill Adelson, Sondra Stegenga, Olivia Lowrey, Pamela Buckley, and Qiyang Zhang.
 
