@@ -7,6 +7,8 @@ categories: []
 tags: []
 ---
 
+**tl;dr**: What chatGPT did for text, the Code Interpreter add-on does for data analysis.
+
 Everyone has heard something about [chatGPT](https://openai.com/blog/chatgpt), but there is a beta feature that is less well-known, Code Interpreter. It is not free -- it is a beta feature enabled for anyone who pays for [chatGPT Plus](https://openai.com/blog/chatgpt-plus). It's sort of hard to find information on it, though the NY Times has [an article on it](https://www.nytimes.com/2023/07/11/technology/what-to-know-chatgpt-code-interpreter.html). Here is another article with [some instructions on how to enable and use it](https://www.pluralsight.com/resources/blog/data/chatgpt-code-interpreter-plugin-guide) (if you have access to chatGPT Plus).
 
 ![](images/gpt-4_3.png)
@@ -25,5 +27,7 @@ Here's a small portion of the putput --- visualizations and interpretations of t
 
 Here is a link to all of the output, including for a logistic regression model: https://chat.openai.com/share/02820dd7-fb7b-4db0-90f9-3d3c11f571c4
 
-In short, it can run code based on ... whatever you ask! It seems to be able to deal with arbitrarily large data sets and arbitrarily complex analyses; and different types of analyses (text and network analysis). It has a lot of potential for teaching and maybe even research, but I think a lot of that potential is murky and needs to be explored more deeply and systematically. As someone who has *done* and *taught* data science for years, I find this pretty cool. 
+In short, it can run code based on ... whatever you ask! It seems to be able to deal with arbitrarily large data sets and arbitrarily complex analyses; and different types of analyses (text and network analysis). 
+
+I think many of us are a bit burnt out on hype about chatGPT and AI. Keeping that in mind, I find this pretty cool as someone who has done and taught data analysis for some time.
 
