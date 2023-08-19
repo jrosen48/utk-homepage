@@ -1,5 +1,6 @@
 ---
-title: 'Pushing further, slowing down --- more parenting thoughts'
+title: 'A time for pushing further, a time for slowing down'
+subtitle: 'Parenting thoughts, take ... a lot'
 author: ''
 date: '2023-07-30'
 slug: pushing-farther-taking-shelter-more-parenting-thoughts
