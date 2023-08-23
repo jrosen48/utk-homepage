@@ -13,7 +13,7 @@ With my colleagues Conrad Borchers and Rita Swartzengruber, I published an artic
 
 It's presently available open-access [here](https://link.springer.com/article/10.1007/s11423-023-10269-2), but I think that will change when the article is included in an issue. A pre-print is [here](https://edarxiv.org/274yv/). The R code we used to analyze the data is available [here](https://static-content.springer.com/esm/art%3A10.1007%2Fs11423-023-10269-2/MediaObjects/11423_2023_10269_MOESM1_ESM.rmd)
 
-This paper stemmed, orginally, from trying to understand schools' and districts' responses to COVID; when my colleagues and I realized that school websites had limited up-to-date information, but that these insitutions were highly active on Facebook, we turned to trying to access public Facebook post data at scale. 
+This paper stemmed, originally, from trying to understand schools' and districts' responses to COVID; when my colleagues and I realized that school websites had limited up-to-date information, but that these institutions were highly active on Facebook, we turned to trying to access public Facebook post data at scale. 
 
 We--Conrad, Macy Burchfield, Sondra Stegenga, Daniel Anderson, and Christian Fischer--did through a tool called [CrowdTangle](https://www.crowdtangle.com/) that is open to academics, soon realizing that there were, we thought, notable [violations of students' privacy](https://journals.sagepub.com/doi/full/10.3102/0013189X221120538). This work was covered by a range of news outlets, including [Wired](https://www.wired.com/story/teachers-on-tiktok/) and [EdWeek](https://www.edweek.org/technology/school-facebook-pages-and-privacy-concerns-what-educators-need-to-know/2022/11). 
 
