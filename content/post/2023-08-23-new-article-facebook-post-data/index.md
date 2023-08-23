@@ -1,5 +1,5 @@
 ---
-title: New article - Facebook post data
+title: New article - Facebook post data: A primer for educational research
 author: Joshua Rosenberg
 date: '2023-08-23'
 slug: new-article-facebook-post-data
@@ -15,7 +15,7 @@ It's presently available open-access [here](https://link.springer.com/article/10
 
 This paper stemmed, originally, from trying to understand schools' and districts' responses to COVID; when my colleagues and I realized that school websites had limited up-to-date information, but that these institutions were highly active on Facebook, we turned to trying to access public Facebook post data at scale. 
 
-We--Conrad, Macy Burchfield, Sondra Stegenga, Daniel Anderson, and Christian Fischer--did through a tool called [CrowdTangle](https://www.crowdtangle.com/) that is open to academics, soon realizing that there were, we thought, notable [violations of students' privacy](https://journals.sagepub.com/doi/full/10.3102/0013189X221120538). This work was covered by a range of news outlets, including [Wired](https://www.wired.com/story/teachers-on-tiktok/) and [EdWeek](https://www.edweek.org/technology/school-facebook-pages-and-privacy-concerns-what-educators-need-to-know/2022/11). 
+We--Conrad, Macy Burchfield, Sondra Stegenga, Daniel Anderson, and Christian Fischer--did this through a tool called [CrowdTangle](https://www.crowdtangle.com/) that is open to academics, soon realizing that there were, we thought, notable [violations of students' privacy](https://journals.sagepub.com/doi/full/10.3102/0013189X221120538). This work was covered by a range of news outlets, including [Wired](https://www.wired.com/story/teachers-on-tiktok/) and [EdWeek](https://www.edweek.org/technology/school-facebook-pages-and-privacy-concerns-what-educators-need-to-know/2022/11). 
 
 When stepping back from the specific use cases we envisioned for Facebook post data, we thought it might be valuable to others to consider how they could use Facebook data for research related to teaching, learning, and educational systems, thus the primer we just published. 
 
