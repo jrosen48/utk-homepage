@@ -161,9 +161,11 @@ C.D. Owen High School, Swannanoa, NC
 
 ## Consultant and Advisory Board Member
 
+2023-2025, Advisor, *Sloan: Aligning Graduate Education and Workforce Opportunities: A Robust, Equity-Focused Landscape Scan of Computing Terminology*. Wofford, A., Perez-Felkner, L., & Staudt Willet, K. B. (PIs). Funded by Alfred P. Sloan Foundation.
+
 2023 - 2026, Consultant, *WTG: Diffusion of Research on Supporting Mathematics Achievement for Youth with Disabilities through Twitter Translational Visual Abstracts*, Jessica Rodrigues (PI, University of Missouri), National Science Foundation, https://www.nsf.gov/awardsearch/showAward?AWD_ID=2244734&HistoricalAwards=false
 
-2023 - 2025, Consultant, *Forschen mit epidemischer Unsicherheit Lernen (Project FEUL)* (Learning to do investigations with epistemic uncertainty), Marcus Kubsck (PI; IPN - Leibniz Institute, Kiel, Germany), Joachim Herz Foundation  
+2023 - 2025, Consultant, *Forschen mit epidemischer Unsicherheit Lernen (Project FEUL)* (Learning to do investigations with epistemic uncertainty), Marcus Kubsch (PI; IPN - Leibniz Institute, Kiel, Germany), Joachim Herz Foundation  
 
 2022-2027, Advisory Board Member, *Collaborative Research: Enhancing Data Science and Statistics Teacher Education--Transforming and Building Community*, Hollylynne Lee (PI; North Carolina State University), National Science Foundation. https://www.nsf.gov/awardsearch/showAward?AWD_ID=2141727&HistoricalAwards=false
 
@@ -182,6 +184,8 @@ C.D. Owen High School, Swannanoa, NC
 2022-2024, Participating Faculty, *Bayesian Thinking in STEM*, (NSF Grant No. [2215879](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2215879&HistoricalAwards=false)), https://www.stat.uci.edu/bayes-bats/
 
 # Fellowships and Awards
+
+2023, Faculty Mentor, SEC Emerging Scholars Program Postdoctoral Researcher (Maryrose Weatherton)
 
 2023, Research Worth Reading Award, Research in Artificial Intelligence in Science Eduation Research Interest Group, National Association for Research in Science Teaching
 
@@ -245,16 +249,21 @@ Rosenberg, K., & Rosenberg, J. M. (under contract). *Little kids, big adventures
 
 Estrellado, R. A., Freer, E. A.,  Mostipak, J., Rosenberg, J. M., & Velásquez, I. C. (2020). *Data science in education using R*. Routledge. *Note.* All authors contributed equally. http://www.datascienceineducation.com/ <a href="https://github.com/data-edu/data-science-in-education"><img src = "/logos/github.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
 
-## Articles Published in Refereed Journals (46)
+## Articles Published in Refereed Journals (49)
+
+Garner, A. V., & Rosenberg, J. M. (in press). Utilizing iNaturalist to support place-based learning and data analysis. *Science Scope*.
+
 Rosenberg, J.M. (in press). Open and Useful? Exploring the Science Education Resources on OER Commons. *Contemporary Issues in Technology and Teacher Education*. https://osf.io/preprints/9adhp/
 
-Carpenter, J. P., Morrison, S. A., Rosenberg, J. M., & Hawthorne, K. A. (advance online publication). Using social media in pre-service teacher education: The case of a program-wide twitter hashtag. *Teaching and Teacher Education, 124*, 1-17.
+Borchers, C., Rosenberg, J. M., & Swartzentruber, R. M. (advance online oublication). Facebook post data: a primer for educational research. *Educational Technology Research and Development*, 1-20. https://link.springer.com/article/10.1007/s11423-023-10269-2
+
+Carpenter, J. P., Morrison, S. A., Rosenberg, J. M., & Hawthorne, K. A. (2023). Using social media in pre-service teacher education: The case of a program-wide twitter hashtag. *Teaching and Teacher Education, 124*, 1-17. https://www.sciencedirect.com/science/article/pii/S0742051X23000240
 
 Rosenberg, J., ^Borchers, C., Stegenga, S. M., ^Burchfield, M. A., Anderson, D., & Fischer, C. (2022). How educational institutions reveal students’ personally identifiable information on Facebook. *Learning, Media, & Technology.* https://www.tandfonline.com/doi/full/10.1080/17439884.2022.2140672
 
-Rosenberg, J. M., ^Borchers, C., ^Burchfield, M. A., Anderson, D., Stegenga, S. M., & Fischer, C. (2022). Posts About Students on Facebook: A Data Ethics Perspective. *Educational Researcher, 51*(8), 547-550.
+Rosenberg, J. M., ^Borchers, C., ^Burchfield, M. A., Anderson, D., Stegenga, S. M., & Fischer, C. (2022). Posts About Students on Facebook: A Data Ethics Perspective. *Educational Researcher, 51*(8), 547-550. https://journals.sagepub.com/doi/full/10.3102/0013189X221120538
 
-Kubsch, M., Krist, C., & Rosenberg, J. M. (2022). Distributing Epistemic Functions and Tasks - A framework for augmenting human analytic power with machine learning in science education research. *Journal of Research in Science Teaching*. https://onlinelibrary.wiley.com/doi/full/10.1002/tea.21803. *Note.* All authors contributed equally. This paper received the 2023 Research Worth Reading Award for the Research in Artificial Intelligence in Science Eduation Research Interest Group, National Association for Research in Science Teaching.
+Kubsch, M., Krist, C., & Rosenberg, J. M. (2023). Distributing Epistemic Functions and Tasks - A framework for augmenting human analytic power with machine learning in science education research. *Journal of Research in Science Teaching*. https://onlinelibrary.wiley.com/doi/full/10.1002/tea.21803. *Note.* All authors contributed equally. This paper received the 2023 Research Worth Reading Award for the Research in Artificial Intelligence in Science Eduation Research Interest Group, National Association for Research in Science Teaching.
 
 Rosenberg, J. M., Kubsch, M., Wagenmakers, E.-J., & Dogucu, M. (2022). Making sense of uncertainty in the science classroom: A Bayesian approach. *Science & Education*, 31, 1239–1262. https://link.springer.com/article/10.1007/s11191-022-00341-3
 
@@ -338,13 +347,17 @@ Rosenberg, J. M., Terry, C. A., Bell, J., Hiltz, V., & Russo, T. (2016). Design 
 
 Rosenberg, J. M., & Koehler, M. J. (2015). Context and Technological Pedagogical Content Knowledge (TPACK): A systematic review. *Journal of Research on Technology in Education, 47*, 186-210. http://dx.doi.org/10.1080/15391523.2015.1052663 <a href = "/pre-prints/rosenberg-koehler-2015-jrte.pdf"><img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> <a href="https://scholar.google.com/citations?user=nxVowRQAAAAJ&hl=en#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DnxVowRQAAAAJ%26citation_for_view%3DnxVowRQAAAAJ%3AKxtntwgDAa4C%26tzom%3D300"><img src = "/logos/google-scholar-1.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
 
-## Commissioned Paper (1)
+## Commissioned Papers and White Papers (2)
+
+Bilal, D., Fagan, J., Rius, A., Vogiatzis, K., Liu, C., Dahms, H., Duncan, L., Kim, H., Odoi, A., Rosenberg, J., Singh, V., & Sobes, V. (2023). AI TENNessee Initiative: Education. AI Tennessee Initiative. *N.b.* I co-chaired the committee that wrote this white paper with C. Liu.
 
 Rosenberg, J. M., & Jones, R. S. (2022). *K-12 data science learning*. Paper commissioned by the National Academies of Sciences, Engineering, and Medicine for *Foundations of Data Science for Students in Grades K-12: A Workshop*. https://www.nationalacademies.org/event/09-13-2022/docs/DD667E469D0EC5DD91A7D85BC839A9852491A3CF9F15
 
-## Editor-Reviewed Articles Published in Journals (10)
+## Editor-Reviewed Articles Published in Journals (11)
 
-Hodge, E., López, F., & Rosenberg, J. M. (in press). How saying "We don’t teach Critical Race Theory here" can backfire: Guidance for responding to community concerns about Critical Race Theory in education". *Phi Delta Kappan*.
+Allman, B., Kimmons, R., Rosenberg, J., & Dash, M. (2023). Trends and Topics in Educational Technology, 2023 Edition. TechTrends, 67(3), 583-591.
+
+Hodge, E. M., López, F. A., & Rosenberg, J. M. (2022). How to respond to community concerns about critical race theory. Phi Delta Kappan, 104(3), 48-53. https://journals.sagepub.com/doi/full/10.1177/00317217221136599
 
 Jiang, S., Lee, V. R., & Rosenberg, J. M. (2022). Data science education across the disciplines: Underexamined opportunities for K‐12 innovation. *British Journal of Educational Technology, 53*(5), 1073-1079. https://bera-journals.onlinelibrary.wiley.com/doi/full/10.1111/bjet.13258
 
@@ -386,11 +399,13 @@ Rosenberg, J. M., Greenhalgh, S. P., & Koehler, M. J. (2015). A performance asse
 
 Koehler, M. J., Mishra, P., Akcaoglu, M., & Rosenberg, J. M. (2013). Technological pedagogical content knowledge for teachers and teacher educators. In N. Bharati and S. Mishra (Eds.), *ICT integrated teacher education: A resource book* (pp. 1-8). Commonwealth Educational Media Center for Asia, New Delhi, India. <a href="https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=2&gmla=AJsN-F4ODtxdHVYZqP5zw-xRiucvAtoCjzD1deEPhKDy1amHSa589A3Ebpijkg5gUjYRVa7xdomLUVlHVpg5HO4t2K_X0pSW0xHdkSeilu0xmMnvSH1xkfk&user=nxVowRQAAAAJ#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DnxVowRQAAAAJ%26authuser%3D2%26citation_for_view%3DnxVowRQAAAAJ%3AzYLM7Y9cAGgC%26tzom%3D300"><img src = "/logos/google-scholar-1.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
 
-## Papers Published in Refereed Conference Proceedings (30)
+## Papers Published in Refereed Conference Proceedings (31)
 
-Thomas, T., Rosenberg, J. M., Penner, E. & Burchfield, M. (in press). Racism and school districts' social media posts: "Is it being talked about?". Proceedings for the *Social Media and Society* conference.
+Krist, C., Dyer, E., Rosenberg, J., Palaguachi, C., & Cox, E. (2023). Leveraging computationally generated descriptions of audio features to enrich qualitative examinations of sustained uncertainty. *ISLS Conference* Proceedings. Montréal, Canada.
 
-Burchfield, M., Rosenberg, J. M., & Stegenga, S. (in press). Updated or outdated consent? A study of the media release policies of U.S. K-12 school districts. Proceedings for the *Social Media and Society* conference.
+Thomas, T., Rosenberg, J. M., Penner, E. & Burchfield, M. (2022). Racism and school districts' social media posts: "Is it being talked about?". Proceedings for the *Social Media and Society* conference.
+
+Burchfield, M., Rosenberg, J. M., & Stegenga, S. (2022). Updated or outdated consent? A study of the media release policies of U.S. K-12 school districts. Proceedings for the *Social Media and Society* conference.
 
 Lishinski, A., Narvaiz, S., and Rosenberg, J. M. (2022). Self-efficacy, interest, and belongingness – URM Students’ momentary experiences in CS1. *Proceedings of the 2022 ACM Conference on International Computing Education Research* (ICER ’22). https://dl.acm.org/doi/abs/10.1145/3501385.3543958. *Note.* Unlike most of academia, premiere conferences in computing education are selective venues for archival research. Thiese conference proceedings exceed many journals in their selectivity, visibility, and impact.
 
@@ -753,10 +768,11 @@ Sawaya, S., & Rosenberg, J. M (2014, February). *Master of Arts in Educational T
 
 Instructor at the University of Tennessee, Knoxville:
 
-*Introduction to Data Science Methods in Education* (TPTE 595 & TPTE 695, M.A. and Ph.D. class)  
-*Studying Digital Learning Environments and Networks* (TPTE 595 & TPTE 695, M.A. and Ph.D. class) 
-*Visualizing Data Using R* (STEM 591, M.A. and Ph.D. class) 
-*Trans-Departmental Seminar II* (TPTE 605, Ph.D. Clas)
+*Foundations of Educational Data Science I* (TPTE 680, M.A. and Ph.D. class)  
+*Foundations of Educational Data Science II* (STEM 685, M.A. and Ph.D. class) 
+*Visualizing Data Using R* (STEM 691, M.A. and Ph.D. class)  
+*STEM Education Seminar* (STEM 612, Ph.D. class). 
+*Trans-Departmental Seminar II* (TPTE 605, Ph.D. class)  
 *Nature of Mathematics and Science Education* (SCED 572,  M.A. and Ph.D. class)  
 *Teaching Science in Grades 7-12* (TPTE 495, SCED 496, & SCED 543,  B.S. & M.A. class)  
 *VolsTeach Step 1 and Step 2* (TPTE 110 & TPTE 120, undergraduate-level class)
@@ -777,6 +793,8 @@ Teaching Assistant at Michigan State University:
 # Service
 
 ### Editorial Service
+
+Associate Editor, *Journal of Statistics and Data Science Education*, 2023 - Present
 
 Editorial Review Board Member, *Review of Educational Research*, 2022 - Present
 
@@ -859,7 +877,7 @@ Reviewer, Proposals from Knox County Schools students for the NASA Student Space
 
 ### College-related Service 
 
-2021, Search Committee Member, Tenure Track positions in Learning Design and Technology and Instructional Technology, *Department of Educational Psychology and Counseling*, UTK  
+2021, Search Committee Member, Two Tenure Track positions in Learning Design and Technology and Instructional Technology, *Department of Educational Psychology and Counseling*, UTK  
 
 2020, Facilitator, Quality Research and Scholarship working group, UTK  
 
@@ -870,6 +888,8 @@ Reviewer, Proposals from Knox County Schools students for the NASA Student Space
 ### Departmental Service 
 
 *University of Tennessee, Knoxville*
+
+2023-2024, Search Committee Co-Chair, Assistant or Associate Professor of Educational Data Science position
 
 2022-2023, STEM Education Seminar Ad-Hoc Committee, TPTE, UTK  
 
@@ -893,20 +913,23 @@ Reviewer, Proposals from Knox County Schools students for the NASA Student Space
 
 Advisor for Doctoral students: 
 
-+ Omiya Sultana  
++ Cody Pritchard
 + Amanda Hendricks  
 + Emily McDonald  
++ Omiya Sultana  
 + Jennifer Longnecker (graduated 2021; co-advisor with Amy Broemmel)  
 
 Committee Member for Doctoral students: 
 
++ Amanda Zeller (TPTE)
++ Anna Banks Sintsova (Department of Educational Psychology & Counseling, UTK)  
 + Anthony Schmidt (Department of Educational Psychology & Counseling, UTK)  
 + Maryrose Weatherton (Department of Ecology and Evolutionary Biology, UTK)  
 + Donna Wortham (Educational Leadership & Policy Studies, UTK)  
 + Sarah Narvaiz (Department of Educational Psychology & Counseling, UTK)  
 + John Mooneyham (TPTE)  
 + Matthew Hensley (graduated 2021)  
-+ Shande King  (graduated 2020)  
++ Shande King (graduated 2020)  
 
 ### Campus and Departmental Presentations
 
