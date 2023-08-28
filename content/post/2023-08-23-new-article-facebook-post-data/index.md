@@ -1,5 +1,5 @@
 ---
-title: New article - Facebook post data: A primer for educational research
+title: New article - Facebook post data - A primer for educational research
 author: Joshua Rosenberg
 date: '2023-08-23'
 slug: new-article-facebook-post-data
