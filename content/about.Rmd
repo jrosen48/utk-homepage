@@ -503,28 +503,23 @@ Rosenberg, J. M. (February, 2019). *Making sense of recent advances in the Techn
 
 ## Peer-Reviewed Conference Presentations (79)
 
-**A Bayesian Approach to Making Sense of Uncertainty in the Science Classroom  Uncertainty and Sensemaking in Science Classrooms**, 1:00-2:30pm Wednesday, 19 April, 2023 (with Marcus Kubsch, Mine Dogucu, and E.J. Wagenmakers
+A Bayesian Approach to Making Sense of Uncertainty in the Science Classroom  Uncertainty and Sensemaking in Science Classrooms, 1:00-2:30pm Wednesday, 19 April, 2023 (with Marcus Kubsch, Mine Dogucu, and E.J. Wagenmakers
 
-**A Curriculum Analysis of The Sources of Data and Data Engagements of Science Students**, 10:30am-12:00pm Thursday, 20 April, 2023 (with Amanda Garner)
+A Curriculum Analysis of The Sources of Data and Data Engagements of Science Students, 10:30am-12:00pm Thursday, 20 April, 2023 (with Amanda Garner)
 
-**Distributing Epistemic Functions and Tasks – Towards a Methodological Approach for Using ML in Science Education**, 1:10-2:40pm Thursday, 20 April, 2023 (with Marcus Kubsch and Christina Krist)
+Distributing Epistemic Functions and Tasks – Towards a Methodological Approach for Using ML in Science Education, 1:10-2:40pm Thursday, 20 April, 2023 (with Marcus Kubsch and Christina Krist)
 
-**Make Graphs? A Survey of Teachers on How Their Students Analyze and Interpret Data Strengthening Science Teachers' NGSS-Aligned Instruction by Focusing on Students**, 8:25-9:55am Wednesday, 19 April, 2023 (with Omiya Sultana, Aaron Reedy, Elizabeth Schultheis, and Melissa Kjelvik)
+Make Graphs? A Survey of Teachers on How Their Students Analyze and Interpret Data Strengthening Science Teachers' NGSS-Aligned Instruction by Focusing on Students, 8:25-9:55am Wednesday, 19 April, 2023 (with Omiya Sultana, Aaron Reedy, Elizabeth Schultheis, and Melissa Kjelvik)
 
-**Graduate Programs in Learning Analytics Workshop: Core Competencies, Curriculum, and Instruction**
-*Thu, April 13, 8:00 to 9:30am CDT (9:00 to 10:30am EDT), Swissôtel Chicago, Floor: Event Centre, 1st Floor, Zurich F* ([link](https://convention2.allacademic.com/one/aera/aera23/index.php?cmd=Online+Program+View+Session&selected_session_id=2011190&PHPSESSID=ioumtke7pucbovqhj69hl0moa8))
+Graduate Programs in Learning Analytics Workshop: Core Competencies, Curriculum, and Instruction  ([link](https://convention2.allacademic.com/one/aera/aera23/index.php?cmd=Online+Program+View+Session&selected_session_id=2011190&PHPSESSID=ioumtke7pucbovqhj69hl0moa8))
 
-**"I Love Feeling Connected Still": Educator Preparation Program Alumni Engagement Through Social Media** ([link](https://convention2.allacademic.com/one/aera/aera23/index.php?cmd=Online+Program+View+Paper&selected_paper_id=2011288&PHPSESSID=ioumtke7pucbovqhj69hl0moa8))
-*Thu, April 13, 9:50 to 11:20am CDT (10:50am to 12:20pm EDT), Chicago Marriott Downtown Magnificent Mile, Floor: 4th Floor, Belmont - Avenue Ballroom* ([link](https://convention2.allacademic.com/one/aera/aera23/index.php?cmd=Online+Program+View+Session&selected_session_id=2041314&PHPSESSID=ioumtke7pucbovqhj69hl0moa8))
+"I Love Feeling Connected Still": Educator Preparation Program Alumni Engagement Through Social Media ([link](https://convention2.allacademic.com/one/aera/aera23/index.php?cmd=Online+Program+View+Paper&selected_paper_id=2011288&PHPSESSID=ioumtke7pucbovqhj69hl0moa8))
 
-**Foundations of K-12 Data Science Education**
-*Thu, April 13, 2:50 to 4:20pm CDT (3:50 to 5:20pm EDT), Hyatt Regency Chicago, Floor: West Tower - Ballroom Level, Regency C* ([link](https://convention2.allacademic.com/one/aera/aera23/index.php?cmd=Online+Program+View+Session&selected_session_id=2009288&PHPSESSID=ioumtke7pucbovqhj69hl0moa8))
+Foundations of K-12 Data Science Education ([link](https://convention2.allacademic.com/one/aera/aera23/index.php?cmd=Online+Program+View+Session&selected_session_id=2009288&PHPSESSID=ioumtke7pucbovqhj69hl0moa8))
 
-**Teacher Collaboration and Professional Development on Twitter: An Epistemic Network Analysis**
-*Fri, April 14, 9:50 to 11:20am CDT (10:50am to 12:20pm EDT), Fairmont Chicago Millennium Park, Floor: B2 Level, Imperial Ballroom* ([link](https://convention2.allacademic.com/one/aera/aera23/index.php?cmd=Online+Program+View+Paper&selected_paper_id=2002459&PHPSESSID=ioumtke7pucbovqhj69hl0moa8))
+Teacher Collaboration and Professional Development on Twitter: An Epistemic Network Analysis ([link](https://convention2.allacademic.com/one/aera/aera23/index.php?cmd=Online+Program+View+Paper&selected_paper_id=2002459&PHPSESSID=ioumtke7pucbovqhj69hl0moa8))
 
-**Experience Sampling Method: Relationships Between Students' Emotional Responses, Self-Efficacy, and Interest in Programming**
-*Sun, April 16, 9:50 to 11:20am CDT (10:50am to 12:20pm EDT), Hyatt Regency Chicago, Floor: West Tower - Exhibit Level, Riverside West Exhibition Hall* ([link](https://convention2.allacademic.com/one/aera/aera23/index.php?cmd=Online+Program+View+Event&selected_box_id=375059&PHPSESSID=ioumtke7pucbovqhj69hl0moa8))
+Experience Sampling Method: Relationships Between Students' Emotional Responses, Self-Efficacy, and Interest in Programming ([link](https://convention2.allacademic.com/one/aera/aera23/index.php?cmd=Online+Program+View+Event&selected_box_id=375059&PHPSESSID=ioumtke7pucbovqhj69hl0moa8))
 
 Carpenter, J., Morrison, S., Rosenberg, J. M., & Hawthorne, K. (2022, April). *Professional learning and networking for preservice teachers on Twitter: A Social Network Analysis of #BantshireEd*. Presentation at the American Educational Research Association Annual Meeting.
 
@@ -921,7 +916,7 @@ Advisor for Doctoral students:
 
 Committee Member for Doctoral students: 
 
-+ Amanda Zeller (TPTE)
++ Amanda Zeller (TPTE)  
 + Anna Banks Sintsova (Department of Educational Psychology & Counseling, UTK)  
 + Anthony Schmidt (Department of Educational Psychology & Counseling, UTK)  
 + Maryrose Weatherton (Department of Ecology and Evolutionary Biology, UTK)  
