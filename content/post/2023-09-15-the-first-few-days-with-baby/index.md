@@ -47,7 +47,7 @@ The nurses wiped her down and handed her to Katie. After, Katie handed her to me
 
 ![](images/IMG_8786.JPG)
 
-Katie was wheeled to the "Mother Baby" unit and, again, I carried our bags down. It was around 4 am and a very cheery nurse explained all of the features of the room to us, down to the TV channels we could view; Katie, especially, was exhausted, and I was ready to conk out on the couch---not having had any coffee! The next morning we called and texted friends and family; I proudly changed baby's first diaper. family visited and baby brother met baby sister. These were sweet moments: Parents holding baby, son holding baby, and then Katie walking out of the hospital to head home with baby.
+Katie was wheeled to the "Mother Baby" unit and, again, I carried our bags down. I texted with parents and my brother, sharing the happy news, grateful they stayed awake. It was around 4 am and a very cheery nurse explained all of the features of the room to us, down to the TV channels we could view; Katie, especially, was exhausted, and I was ready to conk out on the couch---not having had any coffee! The next morning we called and texted friends and family; I proudly changed baby's first diaper. family visited and baby brother met baby sister. These were sweet moments: Parents holding baby, son holding baby, and then Katie walking out of the hospital to head home with baby.
 
 ![](images/IMG_8872.JPG)
 
