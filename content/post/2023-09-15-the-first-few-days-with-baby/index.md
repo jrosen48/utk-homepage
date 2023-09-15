@@ -2,10 +2,12 @@
 title: 'The first few days with baby'
 author: Joshua Rosenberg
 date: '2023-09-15'
-slug: the-first-three-weeks-with-baby
+slug: the-first-few-days-with-baby
 categories: []
 tags: []
 ---
+
+I'm going to share about the first few days with baby. Women (rightfully so) often share birth stories. Men don't often because it's not clear what men's roles when it comes to labor and delivery are or because such experiences aren't considered inately important. It can be really important for men to be good support people for their spouses and experiencing a birth can be among the important moment of one's life. So, I am sharing!
 
 Three weeks ago, Katie began to experience signs of true labor, and we braced for the coming days by cleaning at home, calling and messaging friends and family, and getting bags ready for the hospital. We went to lunch around noon after I ran and Katie somewhat maniacally cleaned and then drove to the mall to walk; it was one of if not the hottest days of the year, if not the very hottest, with the temperature accounting for the head index exceeding 100F.
 
@@ -37,12 +39,10 @@ Around five minutes later, Katie did it: baby arrived, crying. There's something
 
 ![](images/IMG_8786.JPG)
 
-Katie was wheeled to the "Mother Baby" unit and, again, I carried our bags down. It was around 4 am and a very cheery nurse explained all of the features of the room to us, down to the TV channels we could view; Katie, especially, was exhausted, and I was ready to conk out on the couch---not having had any coffee! The next morning we called and texted friends and family; family visited and baby brother met baby sister.
+Katie was wheeled to the "Mother Baby" unit and, again, I carried our bags down. It was around 4 am and a very cheery nurse explained all of the features of the room to us, down to the TV channels we could view; Katie, especially, was exhausted, and I was ready to conk out on the couch---not having had any coffee! The next morning we called and texted friends and family; family visited and baby brother met baby sister. He has been a sweetie, not complaining when baby cries or takes attention.
 
-![](images/PXL_20230826_164747148 (1).jpg)
+![](images/IMG_8872.JPG)
  
-A few weeks ago, I wrote about how camping with my son made me feel ["like it was on."](https://joshuamrosenberg.com/post/2023/07/30/pushing-farther-taking-shelter-more-parenting-thoughts/), like I could trust myself and trust him to do things together. It felt like he and I could do anything. Challenges lie ahead. Yet, Katie's confidence on the day that baby was born and the days after has been infectious, and I feel like with baby Ayla that "it's on". For now, that means persisting through happy days and nights with little sleep, illnesses, and the other myriad inevitability that will arise, embracing each of the next several and hopefully very many days with confidence and joy.
+A few weeks ago, I wrote about how camping with my son made me feel ["like it was on."](https://joshuamrosenberg.com/post/2023/07/30/pushing-farther-taking-shelter-more-parenting-thoughts/), like I could trust myself and trust him to do things together. It felt like he and I could do anything. Challenges lie ahead. Yet, Katie's confidence on the day that baby was born and the days after has been infectious, and I feel like with baby Ayla that "it's on"!?! 
 
-I'll end with this photo of me being pooped up on by our perfect baby.
-
-![](images/a18669fd334031a5e6e10362af0cee0126c4de85-1 (1).jpeg)
+And so it is, thankfully. We have had a stomach bug sweep through our family this week; inevitably, even endless challenges lie ahead. But I am thankful for the past few beautiful days and weeks, for beautiful baby, and for her beautiful, strong Mom.
