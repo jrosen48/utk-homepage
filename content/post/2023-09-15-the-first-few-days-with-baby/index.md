@@ -1,5 +1,5 @@
 ---
-title: 'Labor, delivery, and the first few days with baby from a Dad's perspective'
+title: 'Labor, delivery, and the first few days with baby'
 author: Joshua Rosenberg
 date: '2023-09-15'
 slug: the-first-few-days-with-baby
