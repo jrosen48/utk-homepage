@@ -43,6 +43,6 @@ Katie was wheeled to the "Mother Baby" unit and, again, I carried our bags down.
 
 ![](images/IMG_8872.JPG)
  
-A few weeks ago, I wrote about how camping with my son made me feel ["like it was on."](https://joshuamrosenberg.com/post/2023/07/30/pushing-farther-taking-shelter-more-parenting-thoughts/), like I could trust myself and trust him to do things together. It felt like he and I could do anything. Challenges lie ahead. Yet, Katie's confidence on the day that baby was born and the days after has been infectious, and I feel like with baby Ayla that "it's on"!?! 
+A few weeks ago, I wrote about how camping with my son made me feel ["like it was on"](https://joshuamrosenberg.com/post/2023/07/30/pushing-farther-taking-shelter-more-parenting-thoughts/), like I could trust myself and trust him to do things together. It felt like he and I could do anything. Challenges lie ahead. Yet, Katie's confidence on the day that baby was born and the days after has been infectious, and I feel like with baby Ayla that "it's on"!?! 
 
 And so it is, thankfully. We have had a stomach bug sweep through our family this week; inevitably, even endless challenges lie ahead. But I am thankful for the past few beautiful days and weeks, for beautiful baby, and for her beautiful, strong Mom.
