@@ -1,6 +1,6 @@
 ---
 title: The first month with baby - unedited, unscripted, and very tired
-author: Simon Urbanek
+author: 
 date: '2023-09-26'
 slug: the-first-month-with-baby-unedited-unscripted-and-very-tired
 categories: []
