@@ -21,18 +21,18 @@ Recognizing what Hamas did and continues to do, does not abdicate our understand
 
 Sincerely,
 
-Todd Campbell, University of Connecticut
-Elizabeth A. Davis, University of Michigan
-Robert R. Geier, Michigan State University
-Joe Krajcik, Michigan State University
-Marcus Kubsch, Freie Universität Berlin
-Doug Lombardi, University of Maryland
-Stefanie Marshall, Michigan State University
-Knut Neumann, Leibniz-Institute for Science and Mathematics Education
-Brian Reiser, Northwestern University
-Joshua Rosenberg, University of Tennessee, Knoxville
-Christina Schwarz, Michigan State University
-Samuel Severance, Northern Arizona University
-David Treagust, Curtin University, Perth
-Tina Vo, University of Nevada, Las Vegas
-Xiaoming Zhai, University of Georgia
+- Todd Campbell, University of Connecticut
+- Elizabeth A. Davis, University of Michigan
+- Robert R. Geier, Michigan State University
+- Joe Krajcik, Michigan State University
+- Marcus Kubsch, Freie Universität Berlin
+- Doug Lombardi, University of Maryland
+- Stefanie Marshall, Michigan State University
+- Knut Neumann, Leibniz-Institute for Science and Mathematics Education
+- Brian Reiser, Northwestern University
+- Joshua Rosenberg, University of Tennessee, Knoxville
+- Christina Schwarz, Michigan State University
+- Samuel Severance, Northern Arizona University
+- David Treagust, Curtin University, Perth
+- Tina Vo, University of Nevada, Las Vegas
+- Xiaoming Zhai, University of Georgia
