@@ -21,14 +21,20 @@ Recognizing what Hamas did and continues to do, does not abdicate our understand
 
 Sincerely,
 
+Valarie Akerson, Indiana University  
 Todd Campbell, University of Connecticut  
+Charlene M. Czerniak, University of Toledo  
 Elizabeth A. Davis, University of Michigan  
 Robert R. Geier, Michigan State University  
+Imogen R. Herrick, University of Kansas  
+Li Ke, University of Nevada, Reno  
 Joe Krajcik, Michigan State University  
 Marcus Kubsch, Freie Universität Berlin  
+Richard L. Lamb, East Carolina University  
 Doug Lombardi, University of Maryland  
 Stefanie Marshall, Michigan State University  
 Knut Neumann, Leibniz-Institute for Science and Mathematics Education  
+Jeffrey Nordine, University of Iowa  
 Brian Reiser, Northwestern University  
 Joshua Rosenberg, University of Tennessee, Knoxville  
 Christina Schwarz, Michigan State University  
