@@ -8,18 +8,6 @@ categories: []
 tags: []
 ---
 
-# Dear Friends, Dear Colleagues, Dear Family
-
-### What being Jewish over the last two months means to me
-
-[![](https://substackcdn.com/image/fetch/w_80,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F581d59e8-b7cc-494c-9c9b-80374b15fb1a_512x512.jpeg){alt=""}](https://substack.com/profile/4351194-joshua-rosenberg)
-
-[**JOSHUA ROSENBERG**](https://substack.com/@joshuamrosenberg)
-
-**DEC 9, 2023**
-
-[Share](javascript:void(0))
-
 Dear Friends, Dear Colleagues, Dear Family,
 
 This has been hard to write, but it felt a bit easier to write if I thought of it as a letter. First of all, it\'s a letter to friends: two friends encouraged me to share my thoughts, and this post is chiefly a response to their encouragement (thanks David & Christa). It\'s also a letter to colleagues I\'ve agreed and disagreed with, been thankful for, and on occasion a little surprised and even (not intentionally) hurt by. It\'s also a message to my family, which in zero ways is of one mind about being Jewish andabout Israel and Palestine. As evidence of how hard this has been to write, I point to the nearly two-month gap in-between blog posts. I haven\'t known what else to say on this topic, and I haven\'t felt comfortable saying much else in the absence of knowing what to say about being Jewish, Israel and Palestine.
@@ -44,7 +32,7 @@ I have to back up a few steps. My brother (and maybe others) may make fun of me,
 
 4.  **Being treated badly.** I have\'t really experienced this directly. So, my short answer to the question, have you experienced anti-semitism, is \"No.\" Followed by, \"But, it\'s complicated.\" I want to emphasize the \"No\" answer, and point back to my humble caveat at the beginning - I am lucky beyond words, and this isn\'t in any way me equating my experience to that of others who can tell stories of tangible, systemic, unending mistreatment. That\'s just not my experience, and I recognize that. But I remember feeling sick to my stomach when a friend in high school loaned me a dollar, and then told me that he was going to write my name down on a sheet of paper (he did) because he didn\'t want to \"get Jewed\" by me not paying him back. I felt the same way way when invitations to attend church transitioned into what people (colleagues and even friends) thought were clever ways of reasoning through how I could be a \"completed Jew.\"
 
-As a segue to what I want to share next, I had the same feeling in the put of my stomach when colleagues and friends refused to say that the murder of 1000s of Israelis on October 7 was wrong or condemnable. And before that segue, I\'ll mention that I am well aware that many of my friends and colleagues just didn\'t know what to say not from a place of not caring about Jews, but instead from a place of humility about the complexity of the situation and not knowing what to say to me (or others) about things, and that is entirely understandable. Embarassingly, I actually blogged about my baby on October 8th, not realizing the magnitude or horror of what happened the night before. That\'s not what I had in mind so much as the willful, harsh unwillingness of some to express care or concern about what happened because the victims were Israeli.
+As a segue to what I want to share next, I had the same feeling in the gut of my stomach when colleagues and friends refused to say that the murder of 1000s of Israelis on October 7 was wrong or condemnable. And before that segue, I\'ll mention that I am well aware that many of my friends and colleagues just didn\'t know what to say not from a place of not caring about Jews, but instead from a place of humility about the complexity of the situation and not knowing what to say to me (or others) about things, and that is entirely understandable. Embarassingly, I actually blogged about my baby on October 8th, not realizing the magnitude or horror of what happened the night before. That\'s not what I had in mind so much as the willful, harsh unwillingness of some to express care or concern about what happened because the victims were Israeli.
 
 ### What has changed
 
@@ -56,7 +44,7 @@ My place of worship has more security --- like at schools, there have been cops 
 
 I\'ve tried to stay in touch with my Israeli colleagues and friends and my family there, but I fear I haven\'t done enough, and it\'s easy for me to become complacent here.
 
-### I\'ll end with a story
+### I'll end with a story
 
 Driving home from my son\'s soccer game this morning, he randomly mentioned something to me that was weirdly related to what was on my mind in this letter. He said, \"I am the only Jewish kid in my school. I mean, my class.\" I know there are other Jewish kids in his school, but I wasn\'t surprised that he was - or thought he was - the only Jewish kid in his class. I asked him how he knew, but I couldn\'t really get the answer from him. His teacher and school has been thoughtful about Christmas, taking care to ask permission for whether he can create. Christmas ornament and asking what other holidays - if any - students\' families celebrated. I\'ll note that our family isn\'t wholly Jewish - my wife Katie is Christian, and we are an interfaith family.
 
