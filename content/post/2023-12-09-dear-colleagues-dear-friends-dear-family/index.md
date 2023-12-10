@@ -48,9 +48,16 @@ I feel more of the third category, and I hear more of the fourth category, like 
 I wish more of my colleagues, especially, and some of my friends, had less of what seems like selective empathy. At once, I feel great support as a Jew, but also - this is the part that I think is hard to talk about precisely and clearly - a lot of the general sense of apathy or even enmity, is coming from my politically progressive and tolerant friends and colleagues. That’s part of what is hard, for the reasons around how the Judaism I grew up with is tolerant and oriented toward social justice. Moreover, many Israelis are tolerant and oriented toward social justice, too.
 
 ## I’ll end with a thesis
-What Hamas did on October 7th to Israelis (and others) was wrong. The failure of many especially among American political progressives to say as much - with courage and clarity - was also wrong. Consider what it’s like to be a Jew, now and through history. The plight of the Palestinians is wrong, and this plight - and the Israeli-Palestinian contestation for the lands they live on - is complex, and over the last 20-30 years the Israeli government has moved rightward, in a condemnable way. This doesn’t justify what Hamas did on October 7th, but I will stalwartly say that criticism of the Israeli government and military is acceptable.
 
-## Then a story
+What Hamas did on October 7th to Israelis (and others) was wrong. What more people should have done, more loudly, are the things they - we - would do for others in such a situation:
+
+- Check-in
+- Listen
+- Express support and show compassion
+
+I’ll also say this. The plight of the Palestinians is wrong, and this plight - and the Israeli-Palestinian contestation for the lands they live on - is complex, and over the last 20-30 years the Israeli government has moved rightward. This doesn’t justify what Hamas did on October 7th, but I will stalwartly say that criticism of the Israeli government and military is acceptable. This and what was wrong about the (lack of) response of so many within my orbit is not incompatible with this.
+
+## And I'll also share a story
 
 Driving home from my son’s soccer game this morning, he randomly mentioned something to me that was weirdly related to what was on my mind in this letter. He said, “I am the only Jewish kid in my school. I mean, my class.” I know there are other Jewish kids in his school, but I wasn’t surprised that he was - or thought he was - the only Jewish kid in his class. I asked him how he knew, but I couldn’t really get the answer from him. His teacher and school has been thoughtful about Christmas, taking care to ask permission for whether he can create. Christmas ornament and asking what other holidays - if any - students’ families celebrated. I’ll note that our family isn’t wholly Jewish - my wife Katie is Christian, and we are an interfaith family.
 
@@ -59,5 +66,4 @@ A few weeks ago, we had a celebration at our house. It was a baby naming ceremon
 To my friends, colleagues, and family, I ask for your tolerance and care in a non-selective way. You can and should hold me to the same standard, and I would welcome any dialogue, constructive or critical, now or in the future.
 
 Sincerely,
-
 Josh
