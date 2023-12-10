@@ -55,6 +55,8 @@ What Hamas did on October 7th to Israelis (and others) was wrong. What more peop
 - Listen
 - Express support and show compassion
 
+I think many Israelis wanted the same, but I cannot speak for them.
+
 I’ll also say this. The plight of the Palestinians is wrong, and this plight - and the Israeli-Palestinian contestation for the lands they live on - is complex, and over the last 20-30 years the Israeli government has moved rightward. This doesn’t justify what Hamas did on October 7th, but I will stalwartly say that criticism of the Israeli government and military is acceptable. This and what was wrong about the (lack of) response of so many within my orbit is not incompatible with this.
 
 ## And I'll also share a story
