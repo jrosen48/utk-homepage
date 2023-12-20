@@ -39,7 +39,7 @@ As a segue to what I want to share next, I had the same feeling in the gut of my
 
 I feel more of the third category, and I hear more of the fourth category, like a gate has been opened to it. But I also feel . . . the same. Some specifics.
 
-- I worked with colleagues to send [a letter to NARST's leaders](https://joshuamrosenberg.com/post/2023/10/24/letter-in-support-of-our-colleagues-in-narst/) after three members of the wider NARST community were murdered or kidnapped. The response from NARST was a disappointment - I felt that pit in my stomach. I don’t know how to classify this. It still feels wrong. It stings a bit.
+- I worked with colleagues to send [a letter to NARST's leaders](https://joshuamrosenberg.com/post/2023/10/24/letter-in-support-of-our-colleagues-in-narst/) after three members of the wider NARST community were murdered or kidnapped. When I first read a message from colleagues and friends, I felt like I had been sleeping, not responding or reaching out to check in before. We wrote the letter; it took too long, and it was a small thing, but it felt important and right, like doing a small thing to right a wrong. The response from NARST, though, was a disappointment - I felt that pit in my stomach. I don’t know how to classify this. It still feels wrong. It stings a bit.
 
 - I read stories like this one - reliable polling showing that [around 20% of Americans think the Holocaust was a myth](https://www.economist.com/united-states/2023/12/07/one-in-five-young-americans-think-the-holocaust-is-a-myth) - and they make me feel sick. It’s not even the number that makes me feel sick. There are lots of wackadoodle anywhere, including in the United States. It’s that some of my colleagues and even friends seem unconcerned by these statistics, as if they don’t matter because of who they are about, or because of . . . I really don’t know. It’s as if they think Jews deserved it, or deserve it, or that it’s not a pressing problem, because . . . And it often turns to violence. I am not a cautious person by nature, but when I heard of our place of worship pursuing bullet and bomb-proof glass, it seemed like a good thing to do.
 
@@ -49,17 +49,13 @@ I wish more of my colleagues, especially, and some of my friends, had less of wh
 
 ## I’ll end with a thesis
 
-What Hamas did on October 7th to Israelis (and others) was wrong. What more people should have done, more loudly, are the things they - we - would do for others in such a situation:
+What Hamas did on October 7th to Israelis (and others) was wrong. What I think more people should have done, more loudly, are the things they - we - would do for others in such a situation:
 
 - Check-in
 - Listen
 - Express support and show compassion
 
-I think many Israelis wanted the same---or maybe more, or something different, or not these at all. I am trying to hear. Part of why I co-wrote the letter (to leaders of NARST) I referred to earlier was that I heard the raw hurt in an email from Israeli friends and colleagues, some of whom I had joked with at the NARST conference in Chicago six months before. I felt like I was asleep, unaware at a deep level of what happened on October 7th, even though members of my family and friends live there. Their message was one of hurt. I had not checked in, or listened, or expressed support or shown compassion.
-
-But back to the thesis: What Hamas did was wrong. What more people should have done - myself included - was to check in, listen, and express and show compassion. Try to understand and recognize that our experiences--my experiences---may blind me/us to others'. And do so unselectively, humbly, and with courage.
-
-I’ll also say this. The present plight of the Palestinians is not tenable, and the Israeli-Palestinian contestation for the lands they live on is complex. This doesn’t in any way, shape, or form justify what Hamas did on October 7th. But, I will---humbly---say that it is okay to me to say as much. October 7th was wrong, but the condition of the Palestinians in the West Bank and in Gaza is untenable and, in some foundational ways, wrong. The dying of Gazan children and civilians is wrong, not in the sense that I place blame upon the Israeli military, but in the sense that I care about their lives. This and what was wrong about the lack of response from so many in my orbit to October 7th are not incompatible with this.
+This also extends to Palestinians and those with friends and family there. My heart and our hearts can be begin enough to say both, and feeling like the response of so many to October 7th was wrong while also expressing concern for Gazans and Palestinians are not, in my view, incompatibile in any way. And there is a complex history to the Israelis' and Palestinians' contestation for the same land that is worth understanding and recognizing, but I am going to keep this brief for now.
 
 ## And I'll also share a story
 
