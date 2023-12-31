@@ -25,7 +25,7 @@ We walked by Bouchón just yesterday---after our son unexpectedly threw up, but 
 
 When we got back to our AirBnb and realized our son wasn't well, we packed up, trying to get Zophran before the trip down the mountain. Katie was right---we needed it, though we weren't able to get some in time. The drive home was mostly chaos---throw up and baby tears---but as we made it out of the mountains my son rested his head on my shoulder, and I rested my hand on baby's arm, and it was quiet.
 
-Today was cold, and we wanted our son to recover, so we kept interactions with friends to those outside. I snapped this picture of Katie with baby, looking happy despite the sickness and the cold. It made me happy, too.
+Today was cold, and we wanted our son to recover, so we kept interactions with friends to those outside. I snapped this picture of Katie with baby, looking happy despite the sickness and the cold.
 
 ![](images/kay-ay.png)
 
