@@ -1,5 +1,5 @@
 ---
-title: New years hopes, wishes, and prayers
+title: New years reflections and hopes
 author: Joshua Rosenberg
 date: '2023-12-30'
 slug: new-years-reflections-hopes-and-prayers
@@ -7,7 +7,7 @@ categories: []
 tags: []
 ---
 
-One of my favorite days of the new year is the winter solstice, a day filled with hopes, wishes, and prayers for longer, brighter days ahead. But maybe other days capture the spirit of the winter solstice---these days right before the new year. 
+One of my favorite days of the new year is the winter solstice, a day filled with hopes and wishes for brighter days ahead
 
 ---
 
@@ -31,4 +31,4 @@ Today was cold, and we wanted our son to recover, so we kept interactions with f
 
 ---
 
-I have hopes, wishes, and prayers for brighter days ahead, but the trick that the winter solstice and dark, cold days can play is that they fill themselves with little moments of brightness---somehow concentrated by the dreariness. Off-center and blurry, but bright, and sometimes just enough to make it into the new year.
+I have hopes, wishes, and prayers for brighter days ahead, but the trick that the winter solstice and dark days can play is that they fill themselves with little moments of brightness---somehow concentrated by the dreariness. Off-center and blurry, but bright, and usually just enough to make it through the cold and into the new year.
