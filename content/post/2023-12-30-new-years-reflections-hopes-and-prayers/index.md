@@ -31,4 +31,4 @@ Today was cold, and we wanted our son to recover, so we kept interactions with f
 
 ---
 
-I have hopes, wishes, and prayers for brighter days ahead, but the trick that the winter solstice and dark, cold days can play is that they fill themselves with little moments of brightness---somehow concentrated by the dreariness. So, happy new year. May it be filled with brightness and love for one another today and this year.
+I have hopes, wishes, and prayers for brighter days ahead, but the trick that the winter solstice and dark, cold days can play is that they fill themselves with little moments of brightness---somehow concentrated by the dreariness. Off-center and blurry, but bright, and sometimes just enough to make it.
