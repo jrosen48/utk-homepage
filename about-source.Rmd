@@ -72,6 +72,7 @@ render_toc('about.Rmd')
 Associate Professor, STEM Education  
 Department of Theory and Practice in Teacher Education  
 Faculty Fellow, Center for Enhancing Education in Mathematics and Sciences  
+Faculty Fellow, Education Research & Opportunity Center    
 The University of Tennessee, Knoxville  
 420 Claxton, 1122 Volunteer Blvd., Knoxville, TN 37996  
 865-974-5973 | [jmrosenberg@utk.edu](jmrosenberg@utk.edu)  
@@ -257,7 +258,10 @@ Rosenberg, K., & Rosenberg, J. M. (under contract). *Little kids, big adventures
 \hangindent=2em
 Estrellado, R. A., Freer, E. A.,  Mostipak, J., Rosenberg, J. M., & Velásquez, I. C. (2020). *Data science in education using R*. Routledge. *Note.* All authors contributed equally. http://www.datascienceineducation.com/ <a href="https://github.com/data-edu/data-science-in-education"><img src = "/logos/github.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
 
-## Articles Published in Refereed Journals (50)
+## Articles Published in Refereed Journals (51)
+
+\hangindent=2em
+Ranellucci, J., & Rosenberg, J. M. (2023). Students’ interest, engagement, and achievement in online high school science courses. *Educational Psychology*, 1-19.
 
 \hangindent=2em
 Staudt Willet, K.B., Rosenberg, J.M. (2023). The Design and Effects of Educational Data Science Workshops for Early Career Researchers. *Journal Formative Design in Learning*. https://doi.org/10.1007/s41686-023-00083-7
@@ -412,7 +416,7 @@ Rosenberg, J. M., & Koehler, M. J. (2015). Context and Technological Pedagogical
 ## Commissioned Papers and White Papers (2)
 
 \hangindent=2em
-Bilal, D., Fagan, J., Rius, A., Vogiatzis, K., Liu, C., Dahms, H., Duncan, L., Kim, H., Odoi, A., Rosenberg, J., Singh, V., & Sobes, V. (2023). AI TENNessee Initiative: Education. AI Tennessee Initiative. *N.b.* I co-chaired the committee that wrote this white paper with C. Liu.
+Bilal, D., Fagan, J., Rius, A., Vogiatzis, K., Liu, C., Dahms, H., Duncan, L., Kim, H., Odoi, A., Rosenberg, J., Singh, V., & Sobes, V. (2023). *AI TENNessee Initiative: Education. AI Tennessee Initiative*. *N.b.* I co-chaired the committee that wrote this white paper with C. Liu.
 
 \hangindent=2em
 Rosenberg, J. M., & Jones, R. S. (2022). *K-12 data science learning*. Paper commissioned by the National Academies of Sciences, Engineering, and Medicine for *Foundations of Data Science for Students in Grades K-12: A Workshop*. https://www.nationalacademies.org/event/09-13-2022/docs/DD667E469D0EC5DD91A7D85BC839A9852491A3CF9F15
@@ -420,10 +424,10 @@ Rosenberg, J. M., & Jones, R. S. (2022). *K-12 data science learning*. Paper com
 ## Editor-Reviewed Articles Published in Journals (11)
 
 \hangindent=2em
-Allman, B., Kimmons, R., Rosenberg, J., & Dash, M. (2023). Trends and Topics in Educational Technology, 2023 Edition. TechTrends, 67(3), 583-591.
+Allman, B., Kimmons, R., Rosenberg, J., & Dash, M. (2023). Trends and Topics in Educational Technology, 2023 Edition. *TechTrends, 67*(3), 583-591.
 
 \hangindent=2em
-Hodge, E. M., López, F. A., & Rosenberg, J. M. (2022). How to respond to community concerns about critical race theory. Phi Delta Kappan, 104(3), 48-53. https://journals.sagepub.com/doi/full/10.1177/00317217221136599
+Hodge, E. M., López, F. A., & Rosenberg, J. M. (2022). How to respond to community concerns about critical race theory. *Phi Delta Kappan, 10*4(3), 48-53. https://journals.sagepub.com/doi/full/10.1177/00317217221136599
 
 \hangindent=2em
 Jiang, S., Lee, V. R., & Rosenberg, J. M. (2022). Data science education across the disciplines: Underexamined opportunities for K‐12 innovation. *British Journal of Educational Technology, 53*(5), 1073-1079. https://bera-journals.onlinelibrary.wiley.com/doi/full/10.1111/bjet.13258
