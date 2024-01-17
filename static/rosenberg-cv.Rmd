@@ -72,6 +72,7 @@ render_toc('static/rosenberg-cv.Rmd')
 Associate Professor, STEM Education  
 Department of Theory and Practice in Teacher Education  
 Faculty Fellow, Center for Enhancing Education in Mathematics and Sciences  
+Faculty Fellow, Education Research & Opportunity Center    
 The University of Tennessee, Knoxville  
 420 Claxton, 1122 Volunteer Blvd., Knoxville, TN 37996  
 865-974-5973 | [jmrosenberg@utk.edu](jmrosenberg@utk.edu)  
@@ -160,6 +161,10 @@ C.D. Owen High School, Swannanoa, NC
 
 ## Consultant and Advisory Board Member
 
+2023-2026, Data Science Assessment Consultant, *NSF AISL: Integrating Research and Practice: Reimagining Youth Community Science through Make-and-Take Data Sensing Kits*, NSF grant no. [2314089](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2314089&HistoricalAwards=false). Blikstein, P. & Perez, S. (PIs)
+
+2023-2025, Advisory Board Member, *Integration of Computer-Assisted Methods and Human Interactions to Understand Lesson Plan Quality and Teaching to Advance Middle-Grade Mathematics Instruction*. Min Sun (PI). NSF Grant No. [2300291](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2300291&HistoricalAwards=false).
+
 2023-2025, Advisor, *Sloan: Aligning Graduate Education and Workforce Opportunities: A Robust, Equity-Focused Landscape Scan of Computing Terminology*. Wofford, A., Perez-Felkner, L., & Staudt Willet, K. B. (PIs). Funded by Alfred P. Sloan Foundation.
 
 2023 - 2026, Consultant, *WTG: Diffusion of Research on Supporting Mathematics Achievement for Youth with Disabilities through Twitter Translational Visual Abstracts*, Jessica Rodrigues (PI, University of Missouri), National Science Foundation, https://www.nsf.gov/awardsearch/showAward?AWD_ID=2244734&HistoricalAwards=false
@@ -168,7 +173,7 @@ C.D. Owen High School, Swannanoa, NC
 
 2022-2027, Advisory Board Member, *Collaborative Research: Enhancing Data Science and Statistics Teacher Education--Transforming and Building Community*, Hollylynne Lee (PI; North Carolina State University), National Science Foundation. https://www.nsf.gov/awardsearch/showAward?AWD_ID=2141727&HistoricalAwards=false
 
-2022-2025, Advisory Board Member, *A Learning Ecosystem for Teaching High School Students Machine Learning Concepts and Data Science Skills in Healthcare and Medicine*, Kathryn  Eller (PI; East Bay Educational Collaborative), National Science Foundation. https://www.nsf.gov/awardsearch/showAward?AWD_ID=2148451&HistoricalAwards=false
+2022-2025, Advisory Board Member, *A Learning Ecosystem for Teaching High School Students Machine Learning Concepts and Data Science Skills in Healthcare and Medicine*, Kathryn Eller (PI; East Bay Educational Collaborative), National Science Foundation. https://www.nsf.gov/awardsearch/showAward?AWD_ID=2148451&HistoricalAwards=false
 
 2022-2025, Advisory Board Member, *Mathematizing, Visualizing, and Power (MVP): Appalachian youth becoming data artists for community learning*, Lynn Hodge (PI), National Science Foundation, https://www.nsf.gov/awardsearch/showAward?AWD_ID=2215004&HistoricalAwards=false
 
@@ -183,6 +188,8 @@ C.D. Owen High School, Swannanoa, NC
 2022-2024, Participating Faculty, *Bayesian Thinking in STEM*, (NSF Grant No. [2215879](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2215879&HistoricalAwards=false)), https://www.stat.uci.edu/bayes-bats/
 
 # Fellowships and Awards
+
+2023-2024, Expanding Horizons Mid-Career Faculty Development Program, University of Tennessee, Knoxville
 
 2023, Faculty Mentor, SEC Emerging Scholars Program Postdoctoral Researcher (Maryrose Weatherton)
 
@@ -245,16 +252,25 @@ Rosenberg, K., & Rosenberg, J. M. (under contract). *Little kids, big adventures
 \hangindent=2em
 Estrellado, R. A., Freer, E. A.,  Mostipak, J., Rosenberg, J. M., & Velásquez, I. C. (2020). *Data science in education using R*. Routledge. *Note.* All authors contributed equally. http://www.datascienceineducation.com/ <a href="https://github.com/data-edu/data-science-in-education"><img src = "/logos/github.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
 
-## Articles Published in Refereed Journals (49)
+## Articles Published in Refereed Journals (51)
 
 \hangindent=2em
-Garner, A. V., & Rosenberg, J. M. (in press). Utilizing iNaturalist to support place-based learning and data analysis. *Science Scope*.
+Ranellucci, J., & Rosenberg, J. M. (2023). Students’ interest, engagement, and achievement in online high school science courses. *Educational Psychology*, 1-19.
 
 \hangindent=2em
-Rosenberg, J.M. (in press). Open and Useful? Exploring the Science Education Resources on OER Commons. *Contemporary Issues in Technology and Teacher Education*. https://osf.io/preprints/9adhp/
+Staudt Willet, K.B., Rosenberg, J.M. (2023). The Design and Effects of Educational Data Science Workshops for Early Career Researchers. *Journal Formative Design in Learning*. https://doi.org/10.1007/s41686-023-00083-7
 
 \hangindent=2em
-Borchers, C., Rosenberg, J. M., & Swartzentruber, R. M. (advance online oublication). Facebook post data: a primer for educational research. *Educational Technology Research and Development*, 1-20. https://link.springer.com/article/10.1007/s11423-023-10269-2
+Hodge, E. M., Rosenberg, J. M., & López, F. A. (2023). “We Don’t Teach Critical Race Theory Here”: A Sentiment Analysis of K-12 School and District Social Media Statements. *Peabody Journal of Education*, 1-15. https://www.tandfonline.com/doi/full/10.1080/0161956X.2023.2261318
+
+\hangindent=2em
+Garner, A. V., & Rosenberg, J. (2023). Utilizing iNaturalist to Support Place-Based Learning and Data Analysis. *Science Scope, 46*(7), 54-60. https://www.nsta.org/science-scope/science-scope-fall-2023/using-inaturalist-support-place-based-learning-and-data
+
+\hangindent=2em
+Rosenberg, J. M. (2023). Open and Useful? Exploring the Science Education Resources on OER Commons. *Contemporary Issues in Technology and Teacher Education, 23*(3), 490-507.
+
+\hangindent=2em
+Borchers, C., Rosenberg, J. M., & Swartzentruber, R. M. (2023). Facebook post data: a primer for educational research. *Educational Technology Research and Development*, 1-20. https://link.springer.com/article/10.1007/s11423-023-10269-2
 
 \hangindent=2em
 Carpenter, J. P., Morrison, S. A., Rosenberg, J. M., & Hawthorne, K. A. (2023). Using social media in pre-service teacher education: The case of a program-wide twitter hashtag. *Teaching and Teacher Education, 124*, 1-17. https://www.sciencedirect.com/science/article/pii/S0742051X23000240
@@ -394,7 +410,7 @@ Rosenberg, J. M., & Koehler, M. J. (2015). Context and Technological Pedagogical
 ## Commissioned Papers and White Papers (2)
 
 \hangindent=2em
-Bilal, D., Fagan, J., Rius, A., Vogiatzis, K., Liu, C., Dahms, H., Duncan, L., Kim, H., Odoi, A., Rosenberg, J., Singh, V., & Sobes, V. (2023). AI TENNessee Initiative: Education. AI Tennessee Initiative. *N.b.* I co-chaired the committee that wrote this white paper with C. Liu.
+Bilal, D., Fagan, J., Rius, A., Vogiatzis, K., Liu, C., Dahms, H., Duncan, L., Kim, H., Odoi, A., Rosenberg, J., Singh, V., & Sobes, V. (2023). *AI TENNessee Initiative: Education. AI Tennessee Initiative*. *N.b.* I co-chaired the committee that wrote this white paper with C. Liu.
 
 \hangindent=2em
 Rosenberg, J. M., & Jones, R. S. (2022). *K-12 data science learning*. Paper commissioned by the National Academies of Sciences, Engineering, and Medicine for *Foundations of Data Science for Students in Grades K-12: A Workshop*. https://www.nationalacademies.org/event/09-13-2022/docs/DD667E469D0EC5DD91A7D85BC839A9852491A3CF9F15
@@ -402,10 +418,10 @@ Rosenberg, J. M., & Jones, R. S. (2022). *K-12 data science learning*. Paper com
 ## Editor-Reviewed Articles Published in Journals (11)
 
 \hangindent=2em
-Allman, B., Kimmons, R., Rosenberg, J., & Dash, M. (2023). Trends and Topics in Educational Technology, 2023 Edition. TechTrends, 67(3), 583-591.
+Allman, B., Kimmons, R., Rosenberg, J., & Dash, M. (2023). Trends and Topics in Educational Technology, 2023 Edition. *TechTrends, 67*(3), 583-591.
 
 \hangindent=2em
-Hodge, E. M., López, F. A., & Rosenberg, J. M. (2022). How to respond to community concerns about critical race theory. Phi Delta Kappan, 104(3), 48-53. https://journals.sagepub.com/doi/full/10.1177/00317217221136599
+Hodge, E. M., López, F. A., & Rosenberg, J. M. (2022). How to respond to community concerns about critical race theory. *Phi Delta Kappan, 10*4(3), 48-53. https://journals.sagepub.com/doi/full/10.1177/00317217221136599
 
 \hangindent=2em
 Jiang, S., Lee, V. R., & Rosenberg, J. M. (2022). Data science education across the disciplines: Underexamined opportunities for K‐12 innovation. *British Journal of Educational Technology, 53*(5), 1073-1079. https://bera-journals.onlinelibrary.wiley.com/doi/full/10.1111/bjet.13258
@@ -466,9 +482,13 @@ Rosenberg, J. M., Greenhalgh, S. P., & Koehler, M. J. (2015). A performance asse
 \hangindent=2em
 Koehler, M. J., Mishra, P., Akcaoglu, M., & Rosenberg, J. M. (2013). Technological pedagogical content knowledge for teachers and teacher educators. In N. Bharati and S. Mishra (Eds.), *ICT integrated teacher education: A resource book* (pp. 1-8). Commonwealth Educational Media Center for Asia, New Delhi, India. <a href="https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=2&gmla=AJsN-F4ODtxdHVYZqP5zw-xRiucvAtoCjzD1deEPhKDy1amHSa589A3Ebpijkg5gUjYRVa7xdomLUVlHVpg5HO4t2K_X0pSW0xHdkSeilu0xmMnvSH1xkfk&user=nxVowRQAAAAJ#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DnxVowRQAAAAJ%26authuser%3D2%26citation_for_view%3DnxVowRQAAAAJ%3AzYLM7Y9cAGgC%26tzom%3D300"><img src = "/logos/google-scholar-1.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
 
-## Papers Published in Refereed Conference Proceedings (31)
+## Papers Published in Refereed Conference Proceedings (32)
 
-Krist, C., Dyer, E., Rosenberg, J., Palaguachi, C., & Cox, E. (2023). Leveraging computationally generated descriptions of audio features to enrich qualitative examinations of sustained uncertainty. *ISLS Conference* Proceedings. Montréal, Canada.
+\hangindent=2em
+Palaguachi, C., Cox, E., Rosenberg, J., Dyer, E., & Krist, C. (2023, October). Automatic speech recognition (ASR) in noisy classrooms: Evaluating the usefulness of three popular ASR tools. In Learning Sciences Graduate Student Conference, 2023. https://www.lsgsc.org/_files/ugd/fd445f_74a457de2acb47099455e5a416952899.pdf#page=44
+
+\hangindent=2em
+Krist, C., Dyer, E. B., Rosenberg, J., Palaguachi, C., & Cox, E. (2023). Leveraging Computationally Generated Descriptions of Audio Features to Enrich Qualitative Examinations of Sustained Uncertainty. In Proceedings of the 17th International Conference of the Learning Sciences-ICLS 2023, pp. 1258-1261. International Society of the Learning Sciences. https://repository.isls.org/handle/1/9894
 
 \hangindent=2em
 Thomas, T., Rosenberg, J. M., Penner, E. & Burchfield, M. (2022). Racism and school districts' social media posts: "Is it being talked about?". Proceedings for the *Social Media and Society* conference.
@@ -1074,7 +1094,6 @@ Reviewer, Proposals from Knox County Schools students for the NASA Student Space
 ### Ad-hoc Journal Article Reviews
 
 + AERA Open (2019, 2020)  
-+ Australasian Journal of Educational Technology (2018: 2)  
 + British Journal of Educational Technology (2016)  
 + Computers & Education (2016, 2017, 2018, 2020)  
 + Contemporary Educational Psychology (2018)  
@@ -1083,8 +1102,6 @@ Reviewer, Proposals from Knox County Schools students for the NASA Student Space
 + Educational Studies in Mathematics (2020)  
 + Educational Technology Research & Development (2020)  
 + E-Learning and Digital Media (2016: 2)  
-+ Frontiers in Education (2023; 2)  
-+ Journal of Educational Technology & Society (2017)  
 + Journal of the Learning Sciences (2019)  
 + Journal of Open Source Software (2018; 2020)  
 + Journal of Science Education and Technology (2019: 2; 2020)  
@@ -1093,6 +1110,7 @@ Reviewer, Proposals from Knox County Schools students for the NASA Student Space
 + TechTrends (2019)  
 + Technology Innovations in Statistics Education (2022)  
 + Transactions on Computing Education (2021)  
++ Urban Education (2023). 
 
 ### University service
 
@@ -1102,7 +1120,9 @@ Reviewer, Proposals from Knox County Schools students for the NASA Student Space
 
 ### College-related Service 
 
-2021, Search Committee Member, Two Tenure Track positions in Learning Design and Technology and Instructional Technology, *Department of Educational Psychology and Counseling*, UTK  
+2023-2024, Search Co-Chair, Assistant/Assocaite Professor of Educational Data Science, *Department of Theory and Practice in Teacher Education*, UTK,
+
+2021-2022, Search Committee Member, Two Tenure Track positions in Learning Design and Technology and Instructional Technology, *Department of Educational Psychology and Counseling*, UTK  
 
 2020, Facilitator, Quality Research and Scholarship working group, UTK  
 
@@ -1114,9 +1134,7 @@ Reviewer, Proposals from Knox County Schools students for the NASA Student Space
 
 *University of Tennessee, Knoxville*
 
-2023-2024, Search Committee Co-Chair, Assistant or Associate Professor of Educational Data Science position
-
-2022-2023, STEM Education Seminar Ad-Hoc Committee, TPTE, UTK  
+2022-2024, STEM Education Seminar Ad-Hoc Committee, TPTE, UTK  
 
 2022, 2023, Peer Teaching Observer, TPTE, UTK
 
@@ -1139,10 +1157,13 @@ Reviewer, Proposals from Knox County Schools students for the NASA Student Space
 Advisor for Doctoral students: 
 
 + Cody Pritchard
-+ Amanda Hendricks  
++ Amanda Garner  
 + Emily McDonald  
 + Omiya Sultana  
-+ Jennifer Longnecker (graduated 2021; co-advisor with Amy Broemmel)  
++ Wei Wang  
++ Hanhui Bao  
++ Erica Jones   
++ Jennifer Longnecker (graduated 2021)  
 
 Committee Member for Doctoral students: 
 
