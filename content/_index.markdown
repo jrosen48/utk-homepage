@@ -13,5 +13,3 @@ If you're looking for [my contact information](/about/#contact-information) or o
 My *University of Tennessee* homepage is [here](https://tpte.utk.edu/people/joshua-rosenberg-phd/).
 
 The *Making Data Science Count* Research Group website is [here](https://makingdatasciencecount.com).
-
-**Blog Posts**

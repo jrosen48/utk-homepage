@@ -72,8 +72,6 @@ render_toc('about.Rmd')
 
 Associate Professor, STEM Education  
 Department of Theory and Practice in Teacher Education  
-Faculty Fellow, Center for Enhancing Education in Mathematics and Sciences  
-Faculty Fellow, Education Research & Opportunity Center    
 The University of Tennessee, Knoxville  
 420 Claxton, 1122 Volunteer Blvd., Knoxville, TN 37996  
 865-974-5973 | [jmrosenberg@utk.edu](jmrosenberg@utk.edu)  
@@ -122,75 +120,19 @@ Shelby High School, Shelby, NC
 2009-2010, Science Teacher Intern (Biology and Chemistry)  
 C.D. Owen High School, Swannanoa, NC  
 
-# Grants 
+## Additional Professional Affiliations
 
-**$7,335,845; $6,248,084 as Principal Investigator [PI] or Co-PI**
+Faculty Fellow, College of Emerging and Collaborative Sudies, University of Tennessee, Knoxville
+Faculty Fellow, Center for Enhancing Education in Mathematics and Sciences, University of Tennessee, Knoxville
+Faculty Fellow, Education Research & Opportunity Center, University of Tennessee, Knoxville  
+Affiliated Researcher, AmplifyLearn.AI, University of Washington  
 
-## PI, Co-PI, and Co-I 
-
-2023-2028, PI, *CAREER: Creatively Reimagining Engagements with Data in Biology Learning Environments*, ($846,612), NSF. [NSF Grant No. 2239152](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2239152&HistoricalAwards=false).
-
-2022-2025, Co-PI, *Computer Science for Appalachia: Expanding a research-practice partnership to integrate computer science and literacy in rural East Tennessee schools*, ($999,980; with *PI* Lynn Hodge). NSF. NSF Grant No. 2219418.
-
-2022-2024, Co-PI, *Broadening participation in introductory computer science: investigating self-assessment practices for increasing student learning and self-efficacy in two institutional contexts* ($299,836; with *PI* Alex Lishinski).  NSF. [NSF Grant No. 2215245](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2215245&HistoricalAwards=false)
-
-2022-2023, Co-PI, *Launching a Micro-credential in Educational Data Analytics* ($10,000; with *Co-PI* Louis Rocconi). University of Tennessee, Knoxville's College of Education, Health, and Human Sciences Strategic Investment Program. 
-
-2022-2025, Co-PI, *Quantifying the robustness of causal inferences: Extensions and applications*. ($899,319.13; *PI*: Kenneth Frank, Michigan State University; UTK subcontract: $105,727). Institute of Education Sciences. 
-
-2021-2022, PI, *Not only for scientists and engineers: Advancing Bayesian methods for pre-collegiate learners* ($1,991), Supplemental funding to NSF Grant No. [193770](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1937700&HistoricalAwards=false) (Dear Colleague Letter: Research Collaboration Opportunity in Europe for NSF Awardees). National Science Foundation. 
-
-2020-2025, Co-I, *Imagining possibilities in post-secondary education and STEMM in rural Appalachia* ($1,208,563), National Institutes of Health. 
-
-2020-2021, Co-PI, *Propelling teacher professional development through FAAST feedback on student epistemic views* ($15,000; *PI*: Christina Krist, University of Illinois Urbana-Champaign). Technology Innovations in Educational Research and Design Pilot Projects Program. 
-
-2019-2021, PI, *Understanding the development of interest in computer science: An experience sampling approach* ($346,688). National Science Foundation [NSF]. http://picsul.utk.edu/ (NSF Grant No. [1937700](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1937700&HistoricalAwards=false))
-
-2019-2021, Co-PI, *CS for Appalachia: A research-practice partnership for integrating computer science into East Tennessee schools* ($252,453; *PI*: Lynn Hodge, UTK). NSF. (NSF Grant No. [1923509](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1923509&HistoricalAwards=false))
-
-2019-2022, Co-PI, *Advancing computational grounded theory for audiovisual data from STEM classrooms* ($1,313,855; *PI*: Christina Krist, University of Illinois Urbana-Champaign; UTK subcontract: $101,469). NSF. https://tca2.education.illinois.edu/ (NSF Grant No. [1920796](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1920796&HistoricalAwards=false))
-
-2019-2020, PI, *Planting the seeds for computer science education in East Tennessee through a research-practice partnership*  ($13,200). Community Engaged Research Seed Program, UTK.
-
-2018-2020, Co-PI, *Exploring how beginning elementary mathematics teachers seek out resources through social media* ($8,820; *PI*: Stephen Aguilar). Herman & Rasiej K-5 Mathematics Initiative, University of Southern California.
-
-## Senior Personnel
-
-2020-2023, Senior Personnel, *Learning analytics in STEM education research institute* ($933,150; *PI*, Shaun Kellogg, North Carolina State University; UTK subcontract: $62,870. National Science Foundation (NSF), [NSF Grant No. 2025090](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2025090&HistoricalAwards=false)
-
-2019-2022, Senior Personnel, *Medical entomology and geospatial analyses: Bringing innovation to teacher education and surveillance studies* ($149,611; *PI*: Rebecca Trout Fryxell). United States Department of Agriculture - Agriculture and Food Research Initiative. (USDA Grant No. 2019-68010-29119) https://www.megabitess.org/
-
-## Consultant and Advisory Board Member
-
-2023-2026, Data Science Assessment Consultant, *NSF AISL: Integrating Research and Practice: Reimagining Youth Community Science through Make-and-Take Data Sensing Kits*, NSF grant no. [2314089](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2314089&HistoricalAwards=false). Blikstein, P. & Perez, S. (PIs)
-
-2023-2025, Advisory Board Member, *Integration of Computer-Assisted Methods and Human Interactions to Understand Lesson Plan Quality and Teaching to Advance Middle-Grade Mathematics Instruction*. Min Sun (PI). NSF Grant No. [2300291](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2300291&HistoricalAwards=false).
-
-2023-2025, Advisor, *Sloan: Aligning Graduate Education and Workforce Opportunities: A Robust, Equity-Focused Landscape Scan of Computing Terminology*. Wofford, A., Perez-Felkner, L., & Staudt Willet, K. B. (PIs). Funded by Alfred P. Sloan Foundation.
-
-2023 - 2026, Consultant, *WTG: Diffusion of Research on Supporting Mathematics Achievement for Youth with Disabilities through Twitter Translational Visual Abstracts*, Jessica Rodrigues (PI, University of Missouri), National Science Foundation, https://www.nsf.gov/awardsearch/showAward?AWD_ID=2244734&HistoricalAwards=false
-
-2023 - 2025, Consultant, *Forschen mit epidemischer Unsicherheit Lernen (Project FEUL)* (Learning to do investigations with epistemic uncertainty), Marcus Kubsch (PI; IPN - Leibniz Institute, Kiel, Germany), Joachim Herz Foundation  
-
-2022-2027, Advisory Board Member, *Collaborative Research: Enhancing Data Science and Statistics Teacher Education--Transforming and Building Community*, Hollylynne Lee (PI; North Carolina State University), National Science Foundation. https://www.nsf.gov/awardsearch/showAward?AWD_ID=2141727&HistoricalAwards=false
-
-2022-2025, Advisory Board Member, *A Learning Ecosystem for Teaching High School Students Machine Learning Concepts and Data Science Skills in Healthcare and Medicine*, Kathryn Eller (PI; East Bay Educational Collaborative), National Science Foundation. https://www.nsf.gov/awardsearch/showAward?AWD_ID=2148451&HistoricalAwards=false
-
-2022-2025, Advisory Board Member, *Mathematizing, Visualizing, and Power (MVP): Appalachian youth becoming data artists for community learning*, Lynn Hodge (PI), National Science Foundation, https://www.nsf.gov/awardsearch/showAward?AWD_ID=2215004&HistoricalAwards=false
-
-2021-2026, Advisory Board Member, *SEER Research Network for Digital Learning Platforms*, Jeremy Roschelle (PI; Digital PRomise), Institute for Education Sciences, Digital Learning Platforms to Enable Efficient Education Research Network
-
-2021-2022, Lead STEM Education Consultant,*Supporting Students’ Meaningful Engagement With Data From Small Orbiting Satellites*, Art Palisoc (PI), STEM Ed LLC, NSF Phase I SBIR, *STEM Experiments and Games in Low Earth Orbit – Making STEM Learning Fun*
-
-2017-2020, Senior Investigating Consultant, *Profiles of science engagement: Broadening participation by understanding individual and contextual influences*, Jennifer Schmidt (PI), Michigan State University. (NSF Grant No. [1661064](https://nsf.gov/awardsearch/showAward?AWD_ID=1661064&HistoricalAwards=false))
-
-## Other Roles
-
-2022-2024, Participating Faculty, *Bayesian Thinking in STEM*, (NSF Grant No. [2215879](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2215879&HistoricalAwards=false)), https://www.stat.uci.edu/bayes-bats/
 
 # Fellowships and Awards
 
 2023-2024, Expanding Horizons Mid-Career Faculty Development Program, University of Tennessee, Knoxville
+
+2023, NSF CAREER awardee
 
 2023, Faculty Mentor, SEC Emerging Scholars Program Postdoctoral Researcher (Maryrose Weatherton)
 
@@ -236,6 +178,71 @@ C.D. Owen High School, Swannanoa, NC
 
 2009-2012, Burroughs Wellcome Fund Scholar, University of North Carolina, Asheville
 
+## Grants 
+
+**$7,335,845; $6,248,084 as Principal Investigator [PI] or Co-PI**
+
+## PI, Co-PI, and Co-I 
+
+2023-2028, PI, *CAREER: Creatively Reimagining Engagements with Data in Biology Learning Environments*, ($846,612), NSF. [NSF Grant No. 2239152](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2239152&HistoricalAwards=false).
+
+2022-2025, Co-PI, *Computer Science for Appalachia: Expanding a research-practice partnership to integrate computer science and literacy in rural East Tennessee schools*, ($999,980; with *PI* Lynn Hodge). NSF. NSF Grant No. 2219418.
+
+2022-2024, Co-PI, *Broadening participation in introductory computer science: investigating self-assessment practices for increasing student learning and self-efficacy in two institutional contexts* ($299,836; with *PI* Alex Lishinski).  NSF. [NSF Grant No. 2215245](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2215245&HistoricalAwards=false)
+
+2022-2023, Co-PI, *Launching a Micro-credential in Educational Data Analytics* ($10,000; with *Co-PI* Louis Rocconi). University of Tennessee, Knoxville's College of Education, Health, and Human Sciences Strategic Investment Program. 
+
+2022-2025, Co-PI, *Quantifying the robustness of causal inferences: Extensions and applications*. ($899,319.13; *PI*: Kenneth Frank, Michigan State University; UTK subcontract: $105,727). Institute of Education Sciences. 
+
+2021-2022, PI, *Not only for scientists and engineers: Advancing Bayesian methods for pre-collegiate learners* ($1,991), Supplemental funding to NSF Grant No. [193770](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1937700&HistoricalAwards=false) (Dear Colleague Letter: Research Collaboration Opportunity in Europe for NSF Awardees). National Science Foundation. 
+
+2020-2025, Co-I, *Imagining possibilities in post-secondary education and STEMM in rural Appalachia* ($1,208,563), National Institutes of Health. 
+
+2020-2021, Co-PI, *Propelling teacher professional development through FAAST feedback on student epistemic views* ($15,000; *PI*: Christina Krist, University of Illinois Urbana-Champaign). Technology Innovations in Educational Research and Design Pilot Projects Program. 
+
+2019-2021, PI, *Understanding the development of interest in computer science: An experience sampling approach* ($346,688). National Science Foundation [NSF]. http://picsul.utk.edu/ (NSF Grant No. [1937700](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1937700&HistoricalAwards=false))
+
+2019-2021, Co-PI, *CS for Appalachia: A research-practice partnership for integrating computer science into East Tennessee schools* ($252,453; *PI*: Lynn Hodge, UTK). NSF. (NSF Grant No. [1923509](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1923509&HistoricalAwards=false))
+
+2019-2022, Co-PI, *Advancing computational grounded theory for audiovisual data from STEM classrooms* ($1,313,855; *PI*: Christina Krist, University of Illinois Urbana-Champaign; UTK subcontract: $101,469). NSF. https://tca2.education.illinois.edu/ (NSF Grant No. [1920796](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1920796&HistoricalAwards=false))
+
+2019-2020, PI, *Planting the seeds for computer science education in East Tennessee through a research-practice partnership*  ($13,200). Community Engaged Research Seed Program, UTK.
+
+2018-2020, Co-PI, *Exploring how beginning elementary mathematics teachers seek out resources through social media* ($8,820; *PI*: Stephen Aguilar). Herman & Rasiej K-5 Mathematics Initiative, University of Southern California.
+
+## Senior Personnel
+
+2020-2023, Senior Personnel, *Learning analytics in STEM education research institute* ($933,150; *PI*, Shaun Kellogg, North Carolina State University; UTK subcontract: $62,870. National Science Foundation (NSF), [NSF Grant No. 2025090](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2025090&HistoricalAwards=false)
+
+2019-2022, Senior Personnel, *Medical entomology and geospatial analyses: Bringing innovation to teacher education and surveillance studies* ($149,611; *PI*: Rebecca Trout Fryxell). United States Department of Agriculture - Agriculture and Food Research Initiative. (USDA Grant No. 2019-68010-29119) https://www.megabitess.org/
+
+
+## Consultant and Advisory Board Member Roles
+
+2023-2026, Data Science Assessment Consultant, *NSF AISL: Integrating Research and Practice: Reimagining Youth Community Science through Make-and-Take Data Sensing Kits*, NSF grant no. [2314089](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2314089&HistoricalAwards=false). Blikstein, P. & Perez, S. (PIs)
+
+2023-2025, Advisory Board Member, *Integration of Computer-Assisted Methods and Human Interactions to Understand Lesson Plan Quality and Teaching to Advance Middle-Grade Mathematics Instruction*. Min Sun (PI). NSF Grant No. [2300291](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2300291&HistoricalAwards=false).
+
+2023-2025, Advisor, *Sloan: Aligning Graduate Education and Workforce Opportunities: A Robust, Equity-Focused Landscape Scan of Computing Terminology*. Wofford, A., Perez-Felkner, L., & Staudt Willet, K. B. (PIs). Funded by Alfred P. Sloan Foundation.
+
+2023 - 2026, Consultant, *WTG: Diffusion of Research on Supporting Mathematics Achievement for Youth with Disabilities through Twitter Translational Visual Abstracts*, Jessica Rodrigues (PI, University of Missouri), National Science Foundation, https://www.nsf.gov/awardsearch/showAward?AWD_ID=2244734&HistoricalAwards=false
+
+2023 - 2025, Consultant, *Forschen mit epidemischer Unsicherheit Lernen (Project FEUL)* (Learning to do investigations with epistemic uncertainty), Marcus Kubsch (PI; IPN - Leibniz Institute, Kiel, Germany), Joachim Herz Foundation  
+
+2022-2024, Participating Faculty, *Bayesian Thinking in STEM*, (NSF Grant No. [2215879](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2215879&HistoricalAwards=false)), https://www.stat.uci.edu/bayes-bats/
+
+2022-2027, Advisory Board Member, *Collaborative Research: Enhancing Data Science and Statistics Teacher Education--Transforming and Building Community*, Hollylynne Lee (PI; North Carolina State University), National Science Foundation. https://www.nsf.gov/awardsearch/showAward?AWD_ID=2141727&HistoricalAwards=false
+
+2022-2025, Advisory Board Member, *A Learning Ecosystem for Teaching High School Students Machine Learning Concepts and Data Science Skills in Healthcare and Medicine*, Kathryn Eller (PI; East Bay Educational Collaborative), National Science Foundation. https://www.nsf.gov/awardsearch/showAward?AWD_ID=2148451&HistoricalAwards=false
+
+2022-2025, Advisory Board Member, *Mathematizing, Visualizing, and Power (MVP): Appalachian youth becoming data artists for community learning*, Lynn Hodge (PI), National Science Foundation, https://www.nsf.gov/awardsearch/showAward?AWD_ID=2215004&HistoricalAwards=false
+
+2021-2026, Advisory Board Member, *SEER Research Network for Digital Learning Platforms*, Jeremy Roschelle (PI; Digital Promise), Institute for Education Sciences, Digital Learning Platforms to Enable Efficient Education Research Network
+
+2021-2022, Lead STEM Education Consultant,*Supporting Students’ Meaningful Engagement With Data From Small Orbiting Satellites*, Art Palisoc (PI), STEM Ed LLC, NSF Phase I SBIR, *STEM Experiments and Games in Low Earth Orbit – Making STEM Learning Fun*
+
+2017-2020, Senior Investigating Consultant, *Profiles of science engagement: Broadening participation by understanding individual and contextual influences*, Jennifer Schmidt (PI), Michigan State University. (NSF Grant No. [1661064](https://nsf.gov/awardsearch/showAward?AWD_ID=1661064&HistoricalAwards=false))
+
 # Publications
 
 |Resource|Logo|
@@ -256,7 +263,9 @@ Rosenberg, K., & Rosenberg, J. M. (under contract). *Little kids, big adventures
 
 Estrellado, R. A., Freer, E. A.,  Mostipak, J., Rosenberg, J. M., & Velásquez, I. C. (2020). *Data science in education using R*. Routledge. *Note.* All authors contributed equally. http://www.datascienceineducation.com/ <a href="https://github.com/data-edu/data-science-in-education"><img src = "/logos/github.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
 
-## Articles Published in Refereed Journals (51)
+## Articles Published in Refereed Journals (52)
+
+Carpenter, J. P., Rosenberg, J. M., Kessler, A., Romero-Hall, E., & Fischer, C. (2024). The importance of context in teacher educators’ professional digital competence. *Teachers and Teaching*, 1-17. https://www.tandfonline.com/doi/full/10.1080/13540602.2024.2320155
 
 Ranellucci, J., & Rosenberg, J. M. (2023). Students’ interest, engagement, and achievement in online high school science courses. *Educational Psychology*, 1-19.
 
@@ -781,6 +790,7 @@ Instructor at the University of Tennessee, Knoxville:
 *Foundations of Educational Data Science I* (TPTE 680, M.A. and Ph.D. class)  
 *Foundations of Educational Data Science II* (STEM 685, M.A. and Ph.D. class) 
 *Visualizing Data Using R* (STEM 691, M.A. and Ph.D. class)  
+*Capstone in Educational Data Science* (STEM 695, M.A. and Ph.D. class)  
 *STEM Education Seminar* (STEM 612, Ph.D. class). 
 *Trans-Departmental Seminar II* (TPTE 605, Ph.D. class)  
 *Nature of Mathematics and Science Education* (SCED 572,  M.A. and Ph.D. class)  
@@ -850,7 +860,7 @@ Associate Chair, TPACK SIG, Society for Information Technology and Teacher Educa
 
 ### Service to the Community
 
-Mentor, TN Promise (2022-2023; mentor to four college-going students)  
+Mentor, TN Promise (2022-2023; mentor to 12 college-going students)  
 
 Mentor, Diversity in Learning Analytics and Leadership program, https://www.diversityindataandleadershipprogram.com/
 
@@ -899,7 +909,7 @@ Reviewer, Proposals from Knox County Schools students for the NASA Student Space
 
 *University of Tennessee, Knoxville*
 
-2022-2024, STEM Education Seminar Ad-Hoc Committee, TPTE, UTK  
+2022-Present, STEM Education Seminar Ad-Hoc Committee, TPTE, UTK  
 
 2022, 2023, Peer Teaching Observer, TPTE, UTK
 
