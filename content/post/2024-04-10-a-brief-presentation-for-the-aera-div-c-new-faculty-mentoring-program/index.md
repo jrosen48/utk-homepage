@@ -1,6 +1,6 @@
 ---
 title: A brief presentation for the AERA Div C New Faculty Mentoring Program
-author: Package Build
+author:
 date: '2024-04-10'
 slug: a-brief-presentation-for-the-aera-div-c-new-faculty-mentoring-program
 categories: []
