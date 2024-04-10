@@ -26,10 +26,14 @@ math = true
     url = "/categories/"
     weight = 3
 [[menu.main]]
+    name = "Substack"
+    url = "https://joshuamrosenberg.substack.com"
+    weight = 4
+[[menu.main]]
     name = "Research Group"
     url = "https://makingdatasciencecount.com"
     weight = 5
 
 [params]
     description = "Joshua M. Rosenberg's Homepage"
-    footer = "[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | [Google Scholar](https://scholar.google.com/citations?user=nxVowRQAAAAJ&hl=en) | [GitHub](https://github.com/jrosen48) | [ORCID](http://orcid.org/0000-0003-2170-0447) | [OSF](https://osf.io/xzqbc/) | [Twitter](https://twitter.com/jrosenberg6432)"
+    footer = "[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | [Google Scholar](https://scholar.google.com/citations?user=nxVowRQAAAAJ&hl=en) | [GitHub](https://github.com/jrosen48) | [ORCID](http://orcid.org/0000-0003-2170-0447) | [OSF](https://osf.io/xzqbc/)"
