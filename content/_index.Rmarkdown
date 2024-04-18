@@ -7,11 +7,9 @@ title: Home
 Welcome! I am an Associate Professor of STEM Education at the [University of Tennessee, Knoxville](http://utk.edu/). 
 
 <div style="text-align: center;">
-  <img src="images/rosenberg-horizontal-utk-2024.jpeg" alt="rosenberg horizontal headshot" style="width: 440px;" align = "center;">
+  <img src="images/rosenberg-horizontal-utk-2024.jpeg" alt="rosenberg horizontal headshot" style="width: 425px;" align = "center;">
 </div>
 
-If you're looking for [my contact information](/about/#contact-information) or other information (including links to [ongoing grants](/about/#grants,-fellowships,-and-awards), [publications](/about/#publications) and [presentations](/about/#presentations)), please visit the page for my [vita](/about/).
-
-My *University of Tennessee* homepage is [here](https://tpte.utk.edu/people/joshua-rosenberg-phd/).
+The page for my [vita](/about/) contains links to presentations and publications and my contact information.
 
 The *Making Data Science Count* Research Group website is [here](https://makingdatasciencecount.com).

@@ -6,6 +6,147 @@
     <description>Recent content in Categories on Joshua M. Rosenberg, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 02 Aug 2022 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:4321/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Publication</title>
+      <link>http://localhost:4321/categories/publication/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/categories/publication/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Random</title>
+      <link>http://localhost:4321/categories/random/</link>
+      <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/categories/random/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Grant</title>
+      <link>http://localhost:4321/categories/grant/</link>
+      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/categories/grant/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Personal</title>
+      <link>http://localhost:4321/categories/personal/</link>
+      <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/categories/personal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Book</title>
+      <link>http://localhost:4321/categories/book/</link>
+      <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/categories/book/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Presentation</title>
+      <link>http://localhost:4321/categories/presentation/</link>
+      <pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/categories/presentation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Book-Review</title>
+      <link>http://localhost:4321/categories/book-review/</link>
+      <pubDate>Thu, 07 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/categories/book-review/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Outdoors</title>
+      <link>http://localhost:4321/categories/outdoors/</link>
+      <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/categories/outdoors/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>R</title>
+      <link>http://localhost:4321/categories/r/</link>
+      <pubDate>Wed, 28 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/categories/r/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tutorial</title>
+      <link>http://localhost:4321/categories/tutorial/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/categories/tutorial/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cs-Ed</title>
+      <link>http://localhost:4321/categories/cs-ed/</link>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/categories/cs-ed/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bibtex</title>
+      <link>http://localhost:4321/categories/bibtex/</link>
+      <pubDate>Sun, 22 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/categories/bibtex/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data-Science</title>
+      <link>http://localhost:4321/categories/data-science/</link>
+      <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/categories/data-science/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shiny</title>
+      <link>http://localhost:4321/categories/shiny/</link>
+      <pubDate>Fri, 13 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/categories/shiny/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bash</title>
+      <link>http://localhost:4321/categories/bash/</link>
+      <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/categories/bash/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chromebook</title>
+      <link>http://localhost:4321/categories/chromebook/</link>
+      <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/categories/chromebook/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Teaching</title>
+      <link>http://localhost:4321/categories/teaching/</link>
+      <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/categories/teaching/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cs</title>
+      <link>http://localhost:4321/categories/cs/</link>
+      <pubDate>Mon, 12 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/categories/cs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Walkthrough</title>
+      <link>http://localhost:4321/categories/walkthrough/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/categories/walkthrough/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>R-Package</title>
+      <link>http://localhost:4321/categories/r-package/</link>
+      <pubDate>Thu, 12 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/categories/r-package/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
