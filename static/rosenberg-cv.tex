@@ -5,20 +5,24 @@
 \documentclass[
   14,
 ]{article}
-\usepackage{amsmath,amssymb}
-\usepackage{iftex}
-\ifPDFTeX
+\usepackage[includeheadfoot, margin=1in]{geometry}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[R]{Joshua M. Rosenberg}
+\lfoot{Updated \date{\today}}
+\rfoot{\thepage}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
   \usepackage{textcomp} % provide euro and other symbols
 \else % if luatex or xetex
-  \usepackage{unicode-math} % this also loads fontspec
+  \usepackage{unicode-math}
   \defaultfontfeatures{Scale=MatchLowercase}
   \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
-\fi
-\usepackage{lmodern}
-\ifPDFTeX\else
-  % xetex/luatex font selection
 \fi
 % Use upquote if available, for straight quotes in verbatim environments
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
@@ -37,8 +41,14 @@
   \KOMAoptions{parskip=half}}
 \makeatother
 \usepackage{xcolor}
-\usepackage[margin=1in]{geometry}
-\usepackage{graphicx}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  pdftitle={Joshua M. Rosenberg},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\usepackage{graphicx,grffile}
 \makeatletter
 \def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
 \def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
@@ -55,43 +65,26 @@
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 \setcounter{secnumdepth}{-\maxdimen} % remove section numbering
-\ifLuaTeX
-  \usepackage{selnolig}  % disable illegal ligatures
-\fi
-\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
-\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
-\urlstyle{same}
-\hypersetup{
-  pdftitle={Joshua M. Rosenberg},
-  hidelinks,
-  pdfcreator={LaTeX via pandoc}}
 
-\title{Joshua M. Rosenberg}
+\title{Joshua M. Rosenberg\vspace{-3em}}
+
 \author{}
-\date{\vspace{-2.5em}}
+\date{}
 
 \begin{document}
 \maketitle
+\thispagestyle{empty}
 
-\hypertarget{curriculum-vitae}{%
-\section{Curriculum Vitae}\label{curriculum-vitae}}
+\begin{center}
 
-\hypertarget{contact-information}{%
-\section{Contact Information}\label{contact-information}}
+\section{Curriculum Vitae}\label{curriculum-vitae}
 
-Associate Professor, STEM Education\\
-Department of Theory and Practice in Teacher Education\\
-The University of Tennessee, Knoxville\\
-420 Claxton, 1122 Volunteer Blvd., Knoxville, TN 37996\\
-865-974-5973 \textbar{} \url{jmrosenberg@utk.edu}\\
-Homepage: \url{https://joshuamrosenberg.com}\\
-Google Scholar:
-\url{https://scholar.google.com/citations?hl=en\&user=nxVowRQAAAAJ}
-
-\hypertarget{research-interests}{%
-\section{Research Interests}\label{research-interests}}
-
-Educational data science, science education, educational technology
+Associate Professor, STEM Education\linebreak
+Department of Theory and Practice in Teacher Education\linebreak
+The University of Tennessee, Knoxville\linebreak
+420 Claxton, 1122 Volunteer Blvd., Knoxville, TN 37996\linebreak
+865-974-5973 | jmrosenberg@utk.edu\linebreak
+\end{center}
 
 \hypertarget{education}{%
 \section{Education}\label{education}}

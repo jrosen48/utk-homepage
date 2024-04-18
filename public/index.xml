@@ -2144,13 +2144,6 @@
       <description>New article in the Journal of Research on Technology in Education My first article (in the Journal of Research on Technology in Education, JRTE) by me and Matthew J. Koehler is available as an advance online publication. If you’re interested in TPACK and want to see what I’ve been up to, then please check it out (or send me an email so I can send a copy your way).</description>
     </item>
     <item>
-      <title></title>
-      <link>http://localhost:4321/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/about/</guid>
-      <description>PDF version: Curriculum Vitae Contents Contact Information Research Interests Education Professional Experience Additional Professional Affiliations Fellowships and Awards Grants PI, Co-PI, and Co-I Senior Personnel Consultant and Advisory Board Member Roles Publications Books (3) Articles Published in Refereed Journals (52) Commissioned Papers and White Papers (2) Editor-Reviewed Articles Published in Journals (11) Contributions to Edited Volumes (10) Papers Published in Refereed Conference Proceedings (32) Posts in the Popular Press (1) Blog posts and reports (4) Unpublished Manuscripts (2) Presentations Invited Talks (5) Peer-Reviewed Conference Presentations (79) Other Presentations Workshops (17) Outreach and Engagement (11) Teaching Service Software Miscellaneous Contact Information Associate Professor, STEM Education</description>
-    </item>
-    <item>
       <title>Consulting and Other Services</title>
       <link>http://localhost:4321/consulting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -2177,6 +2170,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/about-for-cv/</guid>
       <description>Curriculum Vitae Contents Contact Information Research Interests Education Professional Experience Additional Professional Affiliations Fellowships and Awards Grants PI, Co-PI, and Co-I Senior Personnel Consultant and Advisory Board Member Roles Publications Books (3) Articles Published in Refereed Journals (52) Commissioned Papers and White Papers (2) Editor-Reviewed Articles Published in Journals (11) Contributions to Edited Volumes (10) Papers Published in Refereed Conference Proceedings (32) Posts in the Popular Press (1) Blog posts and reports (4) Unpublished Manuscripts (2) Presentations Invited Talks (5) Peer-Reviewed Conference Presentations (79) Other Presentations Workshops (17) Outreach and Engagement (11) Teaching Service Software Miscellaneous Contact Information Associate Professor, STEM Education</description>
+    </item>
+    <item>
+      <title>Joshua M. Rosenberg</title>
+      <link>http://localhost:4321/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/about/</guid>
+      <description>PDF version: Curriculum Vitae Contents Contact Information Research Interests Education Professional Experience Additional Professional Affiliations Fellowships and Awards Grants PI, Co-PI, and Co-I Senior Personnel Consultant and Advisory Board Member Roles Publications Books (3) Articles Published in Refereed Journals (52) Commissioned Papers and White Papers (2) Editor-Reviewed Articles Published in Journals (11) Contributions to Edited Volumes (10) Papers Published in Refereed Conference Proceedings (32) Posts in the Popular Press (1) Blog posts and reports (4) Unpublished Manuscripts (2) Presentations Invited Talks (5) Peer-Reviewed Conference Presentations (79) Other Presentations Workshops (17) Outreach and Engagement (11) Teaching Service Software Miscellaneous Contact Information Associate Professor, STEM Education</description>
     </item>
     <item>
       <title>Software</title>
