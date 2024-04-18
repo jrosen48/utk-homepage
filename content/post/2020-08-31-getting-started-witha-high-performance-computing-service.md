@@ -49,7 +49,7 @@ The problem with sourcing scripts is two-fold. First, my browser had to remain o
 
 The next step involved writing the code to run a job. This was challenging at first. A job is a file that ends in `.sh`, or a shell (I think of it as a Terminal or command line code) script. At least for this purpose, it has _headers_ and then command line codes. I found these headers-which start with `#PBS - l` (again, the new language was challenging here) to be necessary and helpful:
 
-```{sh}
+```{}
 #PBS -l nodes=1:ppn=10
 #PBS -l walltime=23:59:59
 ```
@@ -60,7 +60,7 @@ The second line specifies the `walltime`, or how long you think you will need to
 
 Finally, the code the run the file(s) I wanted to run. This again involved a lot of trial-and-error, and help tickets.
 
-```{sh}
+```{}
 module load r/3.6.1
 cd /nics/d/home/jrosenb8/my-dir
 /sw/cs400_centos7.3_acfsoftware/r/3.6.1/centos7.3_gnu6.3.0/bin/Rscript /nics/d/home/jrosenb8/my-dir/hpc-run.R

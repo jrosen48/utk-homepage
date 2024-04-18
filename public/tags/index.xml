@@ -2,338 +2,263 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Joshua M. Rosenberg, Ph.D.</title>
-    <link>/tags/</link>
+    <link>http://localhost:4321/tags/</link>
     <description>Recent content in Tags on Joshua M. Rosenberg, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Oct 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 08 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:4321/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>r</title>
-      <link>/tags/r/</link>
-      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/r/</guid>
+      <title>R</title>
+      <link>http://localhost:4321/tags/r/</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/tags/r/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>data-science-ed</title>
-      <link>/tags/data-science-ed/</link>
+      <title>Data-Science-Ed</title>
+      <link>http://localhost:4321/tags/data-science-ed/</link>
       <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/data-science-ed/</guid>
+      <guid>http://localhost:4321/tags/data-science-ed/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>AERA</title>
-      <link>/tags/aera/</link>
+      <link>http://localhost:4321/tags/aera/</link>
       <pubDate>Thu, 04 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/aera/</guid>
+      <guid>http://localhost:4321/tags/aera/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>NARST</title>
-      <link>/tags/narst/</link>
+      <link>http://localhost:4321/tags/narst/</link>
       <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/narst/</guid>
+      <guid>http://localhost:4321/tags/narst/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>tpack</title>
-      <link>/tags/tpack/</link>
+      <title>Tpack</title>
+      <link>http://localhost:4321/tags/tpack/</link>
       <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/tpack/</guid>
+      <guid>http://localhost:4321/tags/tpack/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>east-tn-stem-hub</title>
-      <link>/tags/east-tn-stem-hub/</link>
+      <title>East-Tn-Stem-Hub</title>
+      <link>http://localhost:4321/tags/east-tn-stem-hub/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/east-tn-stem-hub/</guid>
+      <guid>http://localhost:4321/tags/east-tn-stem-hub/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>aste</title>
-      <link>/tags/aste/</link>
+      <title>Aste</title>
+      <link>http://localhost:4321/tags/aste/</link>
       <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/aste/</guid>
+      <guid>http://localhost:4321/tags/aste/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>cv</title>
-      <link>/tags/cv/</link>
+      <title>Cv</title>
+      <link>http://localhost:4321/tags/cv/</link>
       <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/cv/</guid>
+      <guid>http://localhost:4321/tags/cv/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>edu-data-science</title>
-      <link>/tags/edu-data-science/</link>
+      <title>Edu-Data-Science</title>
+      <link>http://localhost:4321/tags/edu-data-science/</link>
       <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/edu-data-science/</guid>
+      <guid>http://localhost:4321/tags/edu-data-science/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>latex</title>
-      <link>/tags/latex/</link>
+      <title>Latex</title>
+      <link>http://localhost:4321/tags/latex/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/latex/</guid>
+      <guid>http://localhost:4321/tags/latex/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>r-markdown</title>
-      <link>/tags/r-markdown/</link>
+      <title>R-Markdown</title>
+      <link>http://localhost:4321/tags/r-markdown/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/r-markdown/</guid>
+      <guid>http://localhost:4321/tags/r-markdown/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>science-education</title>
-      <link>/tags/science-education/</link>
+      <title>Science-Education</title>
+      <link>http://localhost:4321/tags/science-education/</link>
       <pubDate>Wed, 29 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/science-education/</guid>
+      <guid>http://localhost:4321/tags/science-education/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SNA</title>
-      <link>/tags/sna/</link>
+      <link>http://localhost:4321/tags/sna/</link>
       <pubDate>Thu, 02 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/sna/</guid>
+      <guid>http://localhost:4321/tags/sna/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>web-scraping</title>
-      <link>/tags/web-scraping/</link>
+      <title>Web-Scraping</title>
+      <link>http://localhost:4321/tags/web-scraping/</link>
       <pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/web-scraping/</guid>
+      <guid>http://localhost:4321/tags/web-scraping/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>data-viz</title>
-      <link>/tags/data-viz/</link>
+      <title>Data-Viz</title>
+      <link>http://localhost:4321/tags/data-viz/</link>
       <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/data-viz/</guid>
+      <guid>http://localhost:4321/tags/data-viz/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>dissertation</title>
-      <link>/tags/dissertation/</link>
+      <title>Dissertation</title>
+      <link>http://localhost:4321/tags/dissertation/</link>
       <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/dissertation/</guid>
+      <guid>http://localhost:4321/tags/dissertation/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>getting-started-with-r</title>
-      <link>/tags/getting-started-with-r/</link>
+      <title>Getting-Started-With-R</title>
+      <link>http://localhost:4321/tags/getting-started-with-r/</link>
       <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/getting-started-with-r/</guid>
+      <guid>http://localhost:4321/tags/getting-started-with-r/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>cycling</title>
-      <link>/tags/cycling/</link>
+      <title>Cycling</title>
+      <link>http://localhost:4321/tags/cycling/</link>
       <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/cycling/</guid>
+      <guid>http://localhost:4321/tags/cycling/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>konfound</title>
-      <link>/tags/konfound/</link>
+      <title>Konfound</title>
+      <link>http://localhost:4321/tags/konfound/</link>
       <pubDate>Thu, 12 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/konfound/</guid>
+      <guid>http://localhost:4321/tags/konfound/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>lme4</title>
-      <link>/tags/lme4/</link>
+      <title>Lme4</title>
+      <link>http://localhost:4321/tags/lme4/</link>
       <pubDate>Mon, 26 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/lme4/</guid>
+      <guid>http://localhost:4321/tags/lme4/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>MCMC</title>
-      <link>/tags/mcmc/</link>
+      <link>http://localhost:4321/tags/mcmc/</link>
       <pubDate>Mon, 26 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/mcmc/</guid>
+      <guid>http://localhost:4321/tags/mcmc/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>multi-level-models</title>
-      <link>/tags/multi-level-models/</link>
+      <title>Multi-Level-Models</title>
+      <link>http://localhost:4321/tags/multi-level-models/</link>
       <pubDate>Thu, 22 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/multi-level-models/</guid>
+      <guid>http://localhost:4321/tags/multi-level-models/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>rail-trails</title>
-      <link>/tags/rail-trails/</link>
+      <title>Rail-Trails</title>
+      <link>http://localhost:4321/tags/rail-trails/</link>
       <pubDate>Thu, 22 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/rail-trails/</guid>
+      <guid>http://localhost:4321/tags/rail-trails/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>tidyLPA</title>
-      <link>/tags/tidylpa/</link>
+      <title>TidyLPA</title>
+      <link>http://localhost:4321/tags/tidylpa/</link>
       <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/tidylpa/</guid>
+      <guid>http://localhost:4321/tags/tidylpa/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SITE</title>
-      <link>/tags/site/</link>
+      <link>http://localhost:4321/tags/site/</link>
       <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/site/</guid>
+      <guid>http://localhost:4321/tags/site/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>shiny</title>
-      <link>/tags/shiny/</link>
+      <title>Shiny</title>
+      <link>http://localhost:4321/tags/shiny/</link>
       <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/shiny/</guid>
+      <guid>http://localhost:4321/tags/shiny/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>open-science</title>
-      <link>/tags/open-science/</link>
+      <title>Open-Science</title>
+      <link>http://localhost:4321/tags/open-science/</link>
       <pubDate>Wed, 25 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/open-science/</guid>
+      <guid>http://localhost:4321/tags/open-science/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>podcast</title>
-      <link>/tags/podcast/</link>
+      <title>Podcast</title>
+      <link>http://localhost:4321/tags/podcast/</link>
       <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/podcast/</guid>
+      <guid>http://localhost:4321/tags/podcast/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>mplus</title>
-      <link>/tags/mplus/</link>
+      <title>Mplus</title>
+      <link>http://localhost:4321/tags/mplus/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/mplus/</guid>
+      <guid>http://localhost:4321/tags/mplus/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>mixture-models</title>
-      <link>/tags/mixture-models/</link>
+      <title>Mixture-Models</title>
+      <link>http://localhost:4321/tags/mixture-models/</link>
       <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/mixture-models/</guid>
+      <guid>http://localhost:4321/tags/mixture-models/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>cross-validation</title>
-      <link>/tags/cross-validation/</link>
+      <title>Cross-Validation</title>
+      <link>http://localhost:4321/tags/cross-validation/</link>
       <pubDate>Sun, 02 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/cross-validation/</guid>
+      <guid>http://localhost:4321/tags/cross-validation/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>prcr</title>
-      <link>/tags/prcr/</link>
+      <title>Prcr</title>
+      <link>http://localhost:4321/tags/prcr/</link>
       <pubDate>Sun, 02 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/prcr/</guid>
+      <guid>http://localhost:4321/tags/prcr/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>education policy</title>
-      <link>/tags/education-policy/</link>
+      <title>Education Policy</title>
+      <link>http://localhost:4321/tags/education-policy/</link>
       <pubDate>Thu, 16 Mar 2017 16:32:00 -0500</pubDate>
-      
-      <guid>/tags/education-policy/</guid>
+      <guid>http://localhost:4321/tags/education-policy/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>newsflash</title>
-      <link>/tags/newsflash/</link>
+      <title>Newsflash</title>
+      <link>http://localhost:4321/tags/newsflash/</link>
       <pubDate>Sat, 11 Mar 2017 01:28:00 -0500</pubDate>
-      
-      <guid>/tags/newsflash/</guid>
+      <guid>http://localhost:4321/tags/newsflash/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>clustRcompaR</title>
-      <link>/tags/clustrcompar/</link>
+      <title>ClustRcompaR</title>
+      <link>http://localhost:4321/tags/clustrcompar/</link>
       <pubDate>Sat, 07 Jan 2017 10:16:00 -0500</pubDate>
-      
-      <guid>/tags/clustrcompar/</guid>
+      <guid>http://localhost:4321/tags/clustrcompar/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>AECT</title>
-      <link>/tags/aect/</link>
+      <link>http://localhost:4321/tags/aect/</link>
       <pubDate>Fri, 06 Nov 2015 15:27:57 +0000</pubDate>
-      
-      <guid>/tags/aect/</guid>
+      <guid>http://localhost:4321/tags/aect/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

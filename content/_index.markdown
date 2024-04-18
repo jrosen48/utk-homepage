@@ -2,11 +2,15 @@
 title: Home
 ---
 
-[<img src="images/rosenberg-headshot-circle.jpg" style="max-width:15%;min-width:40px;float:right;" alt="photo" />](https://joshuamrosenberg.com/)
+[<img src="images/rosenberg-headshot-utk-2024.jpeg" style="max-width:15%;min-width:40px;float:right;" alt="photo" />](https://joshuamrosenberg.com/)
 
 # Joshua M. Rosenberg, Ph.D.
 
 Welcome! I am an Associate Professor of STEM Education at the [University of Tennessee, Knoxville](http://utk.edu/). 
+
+![Alt Text](images/rosenberg-horizontal-utk-2024.jpeg "rosenberg horizontal headshot")
+
+<img src="images/rosenberg-horizontal-utk-2024.jpeg" alt="Example Image" style="width: 300px;">
 
 If you're looking for [my contact information](/about/#contact-information) or other information (including links to [ongoing grants](/about/#grants,-fellowships,-and-awards), [publications](/about/#publications) and [presentations](/about/#presentations)), please visit the page for my [vita](/about/).
 

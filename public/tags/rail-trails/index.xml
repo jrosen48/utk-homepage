@@ -1,44 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>rail-trails on Joshua M. Rosenberg, Ph.D.</title>
-    <link>/tags/rail-trails/</link>
-    <description>Recent content in rail-trails on Joshua M. Rosenberg, Ph.D.</description>
+    <title>Rail-Trails on Joshua M. Rosenberg, Ph.D.</title>
+    <link>http://localhost:4321/tags/rail-trails/</link>
+    <description>Recent content in Rail-Trails on Joshua M. Rosenberg, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 22 Feb 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/rail-trails/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="http://localhost:4321/tags/rail-trails/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Finding the top rail-trails in each state using mixed effects models</title>
-      <link>/posts/find-the-top-rail-trails-in-each-state/</link>
+      <link>http://localhost:4321/posts/find-the-top-rail-trails-in-each-state/</link>
       <pubDate>Thu, 22 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/find-the-top-rail-trails-in-each-state/</guid>
-      <description>Outside of education, one of my interests is cycling, and one of my favorite ways to cycle is on rail-trails, pathways and greenways that are converted from former railroad tracks.
-In a side-project (and because the data source can be used for teaching and learning about complex, nested data), I collected information from the TrailLink website. I’ve blogged about this data here and here to find out what the best rail-trails in Michigan are and to find out what the characteristics of the best rail-trails are, respectively.</description>
+      <guid>http://localhost:4321/posts/find-the-top-rail-trails-in-each-state/</guid>
+      <description>Outside of education, one of my interests is cycling, and one of my favorite ways to cycle is on rail-trails, pathways and greenways that are converted from former railroad tracks.&#xA;In a side-project (and because the data source can be used for teaching and learning about complex, nested data), I collected information from the TrailLink website. I’ve blogged about this data here and here to find out what the best rail-trails in Michigan are and to find out what the characteristics of the best rail-trails are, respectively.</description>
     </item>
-    
     <item>
       <title>Using characteristics of rail-trails to predict how they are rated</title>
-      <link>/posts/characteristics-of-rail-trails/</link>
+      <link>http://localhost:4321/posts/characteristics-of-rail-trails/</link>
       <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/characteristics-of-rail-trails/</guid>
+      <guid>http://localhost:4321/posts/characteristics-of-rail-trails/</guid>
       <description>Catching up I wrote a blog post (one that, to be honest, I liked a lot) on what the best rail-trails are in Michigan (here). A friend and colleague at MSU, Andy, noticed that paved trails seemed to be rated higher, and this as well as my cfriend and colleague Kristy’s comment about how we can use the output of the the previous post sparked my curiosity in trying to figure out what characteristics predict how highly (or not highly) rated trails are.</description>
     </item>
-    
     <item>
       <title>What are the best rail-trails in Michigan?</title>
-      <link>/posts/michigan-rail-trails-and-pathways-through-data/</link>
+      <link>http://localhost:4321/posts/michigan-rail-trails-and-pathways-through-data/</link>
       <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/michigan-rail-trails-and-pathways-through-data/</guid>
-      <description>Background I was curious about what rail trails were the best in Michigan, and so to figure out an answer, I checked out the TrailLink website, sponsored by the Rails-to-Trails Conservancy. I had just purchased a copy of their book Rail-Trails Michigan and Wisconsin, and wanted to see whether I could learn more from the website.
-To start, I checked whether they had a way to access the reviews on the site through an API.</description>
+      <guid>http://localhost:4321/posts/michigan-rail-trails-and-pathways-through-data/</guid>
+      <description>Background I was curious about what rail trails were the best in Michigan, and so to figure out an answer, I checked out the TrailLink website, sponsored by the Rails-to-Trails Conservancy. I had just purchased a copy of their book Rail-Trails Michigan and Wisconsin, and wanted to see whether I could learn more from the website.&#xA;To start, I checked whether they had a way to access the reviews on the site through an API.</description>
     </item>
-    
   </channel>
 </rss>

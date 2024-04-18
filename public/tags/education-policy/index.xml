@@ -1,25 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>education policy on Joshua M. Rosenberg, Ph.D.</title>
-    <link>/tags/education-policy/</link>
-    <description>Recent content in education policy on Joshua M. Rosenberg, Ph.D.</description>
+    <title>Education Policy on Joshua M. Rosenberg, Ph.D.</title>
+    <link>http://localhost:4321/tags/education-policy/</link>
+    <description>Recent content in Education Policy on Joshua M. Rosenberg, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 16 Mar 2017 16:32:00 -0500</lastBuildDate>
-    
-	<atom:link href="/tags/education-policy/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="http://localhost:4321/tags/education-policy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Common Core and NGSS are not on the news</title>
-      <link>/posts/2017-03-16-education-policy/</link>
+      <link>http://localhost:4321/posts/2017-03-16-education-policy/</link>
       <pubDate>Thu, 16 Mar 2017 16:32:00 -0500</pubDate>
-      
-      <guid>/posts/2017-03-16-education-policy/</guid>
-      <description>How often are curricular standards mentioned on TV news? With my friend Patrick, I was curious about using the newsflash package for something education-related. We came up with the idea of looking at mentions of the Common Core State Standards (for Mathematics and English Language Arts / Literacy) and the Next Generation Science Standards (for Science and Engineering).
- On broadcast channels We first looked at mentions across ABC, CBS, FOX, NBC, and PBS (the way newsflash works is to keyword search the closed captioning streams from the Internet Archive’s Television News Archive):</description>
+      <guid>http://localhost:4321/posts/2017-03-16-education-policy/</guid>
+      <description>How often are curricular standards mentioned on TV news? With my friend Patrick, I was curious about using the newsflash package for something education-related. We came up with the idea of looking at mentions of the Common Core State Standards (for Mathematics and English Language Arts / Literacy) and the Next Generation Science Standards (for Science and Engineering).&#xA;On broadcast channels We first looked at mentions across ABC, CBS, FOX, NBC, and PBS (the way newsflash works is to keyword search the closed captioning streams from the Internet Archive’s Television News Archive):</description>
     </item>
-    
   </channel>
 </rss>
