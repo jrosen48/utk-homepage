@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.4.1)  17 APR 2024 21:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.4.1)  8 MAY 2024 09:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -464,197 +464,168 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 [1
 
 {/Users/jrosenb8/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/Users/jrosenb8/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18] [19]
-Underfull \hbox (badness 10000) in paragraph at lines 1704--1710
+Underfull \hbox (badness 10000) in paragraph at lines 1668--1674
 []$\T1/lmr/m/n/10 (+20) https : / / www . pechakucha . com / presentations / insights -[] on -[] the -[] current -[] and -[] preferred -[] integration -[] of -[]
  []
 
-[20] [21] [22] [23]
-Overfull \hbox (26.06761pt too wide) in paragraph at lines 2050--2052
+[20] [21] [22]
+Overfull \hbox (26.06761pt too wide) in paragraph at lines 1990--1992
 []\T1/lmr/m/n/10 (-20) Mentor, Di-ver-sity in Learn-ing An-a-lyt-ics and Lead-er-ship pro-gram, []$https : / / www . diversityindataandleadershipprogram .
  []
 
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 2063.
+[23]
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 2003.
 (/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-Underfull \hbox (badness 10000) in paragraph at lines 2063--2065
+Underfull \hbox (badness 10000) in paragraph at lines 2005--2007
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2065--2067
+Underfull \hbox (badness 10000) in paragraph at lines 2007--2009
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2067--2069
+Underfull \hbox (badness 10000) in paragraph at lines 2009--2011
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2069--2071
+Underfull \hbox (badness 10000) in paragraph at lines 2011--2013
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2071--2073
+Underfull \hbox (badness 10000) in paragraph at lines 2013--2015
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2015--2017
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2017--2019
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2019--2021
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2021--2023
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2023--2025
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2025--2027
 
  []
 
 [24{/Users/jrosenb8/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}]
-Underfull \hbox (badness 10000) in paragraph at lines 2073--2075
+Underfull \hbox (badness 10000) in paragraph at lines 2078--2080
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2075--2077
+Underfull \hbox (badness 10000) in paragraph at lines 2080--2082
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2077--2079
+Underfull \hbox (badness 10000) in paragraph at lines 2082--2084
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2079--2081
+Underfull \hbox (badness 10000) in paragraph at lines 2084--2086
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2081--2083
+Underfull \hbox (badness 10000) in paragraph at lines 2086--2088
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2083--2085
+Underfull \hbox (badness 10000) in paragraph at lines 2096--2099
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2085--2087
+Underfull \hbox (badness 10000) in paragraph at lines 2099--2101
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2087--2089
+Underfull \hbox (badness 10000) in paragraph at lines 2101--2104
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2089--2091
+Underfull \hbox (badness 10000) in paragraph at lines 2104--2106
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2091--2093
+Underfull \hbox (badness 10000) in paragraph at lines 2106--2109
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2093--2095
+Underfull \hbox (badness 10000) in paragraph at lines 2109--2112
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2095--2097
-
- []
-
-[25]
-Underfull \hbox (badness 10000) in paragraph at lines 2162--2164
+Underfull \hbox (badness 10000) in paragraph at lines 2112--2114
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2164--2166
+Underfull \hbox (badness 10000) in paragraph at lines 2114--2116
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 2166--2168
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2168--2170
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2170--2172
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2180--2183
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2183--2185
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2185--2188
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2188--2190
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2190--2193
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2193--2196
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2196--2198
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2198--2200
-
- []
-
-[26] [27] [28]
-Overfull \hbox (219.62312pt too wide) in paragraph at lines 2460--2463
+[25] [26] [27]
+Overfull \hbox (219.62312pt too wide) in paragraph at lines 2376--2379
 \T1/lmr/m/n/10 (-20) data -[] privacy -[] compromised -[] in -[] uk -[] at -[] risk -[] in -[] us#$[]:~:text=The%20Information%20Commissioner's%20Office%20(ICO,of%20roughly%2028%20million%20children.),
  []
 
-[29]
-Overfull \hbox (0.21835pt too wide) in paragraph at lines 2519--2521
+[28]
+Overfull \hbox (0.21835pt too wide) in paragraph at lines 2429--2431
 []\T1/lmr/m/n/10 (-20) 2018-2019, Co-host, \T1/lmr/m/it/10 (-20) Im-pod-ster Syn-drome \T1/lmr/m/n/10 (-20) pod-cast, []$https : / / drive . google . com / drive / folders / 1fwSaEKt9QzJPUlf -[]
  []
 
-[30] (./rosenberg-cv.aux)
+[29] [30] (./rosenberg-cv.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 13319 strings out of 476003
- 209794 string characters out of 5789924
- 1950493 words of memory out of 5000000
- 34910 multiletter control sequences out of 15000+600000
+ 13311 strings out of 476003
+ 209730 string characters out of 5789924
+ 1951493 words of memory out of 5000000
+ 34906 multiletter control sequences out of 15000+600000
  619477 words of font info for 183 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 83i,6n,93p,1009b,528s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 83i,6n,93p,1009b,491s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </Users/jrosenb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></Users/jrosenb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></Users/jrosenb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/jrosenb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.pfb></Users/jrosenb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb>
-Output written on rosenberg-cv.pdf (30 pages, 282343 bytes).
+Output written on rosenberg-cv.pdf (30 pages, 282297 bytes).
 PDF statistics:
- 725 PDF objects out of 1000 (max. 8388607)
- 675 compressed objects within 7 object streams
- 143 named destinations out of 1000 (max. 500000)
- 31169 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 710 PDF objects out of 1000 (max. 8388607)
+ 660 compressed objects within 7 object streams
+ 139 named destinations out of 1000 (max. 500000)
+ 31153 words of extra memory for PDF output out of 35830 (max. 10000000)
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.4.1)  17 APR 2024 21:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.4.1)  8 MAY 2024 09:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -476,203 +476,173 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 
 {/Users/jrosenb8/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/Users/jrosenb8/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}] [2]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 278.
+(Font)              <10> on input line 257.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 278.
+(Font)              <7> on input line 257.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 278.
+(Font)              <5> on input line 257.
 [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18] [19] [20] [21]
-Underfull \hbox (badness 10000) in paragraph at lines 1697--1703
+Underfull \hbox (badness 10000) in paragraph at lines 1661--1667
 []$\T1/lmr/m/n/10 (+20) https : / / www . pechakucha . com / presentations / insights -[] on -[] the -[] current -[] and -[] preferred -[] integration -[] of -[]
  []
 
-[22] [23] [24] [25] [26]
-Overfull \hbox (26.06761pt too wide) in paragraph at lines 2043--2045
+[22] [23] [24] [25]
+Overfull \hbox (26.06761pt too wide) in paragraph at lines 1983--1985
 []\T1/lmr/m/n/10 (-20) Mentor, Di-ver-sity in Learn-ing An-a-lyt-ics and Lead-er-ship pro-gram, []$https : / / www . diversityindataandleadershipprogram .
  []
 
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 2056.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1996.
 (/Users/jrosenb8/Library/TinyTeX/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-Underfull \hbox (badness 10000) in paragraph at lines 2056--2058
+Underfull \hbox (badness 10000) in paragraph at lines 1998--2000
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2058--2060
+Underfull \hbox (badness 10000) in paragraph at lines 2000--2002
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2060--2062
+Underfull \hbox (badness 10000) in paragraph at lines 2002--2004
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2062--2064
+Underfull \hbox (badness 10000) in paragraph at lines 2004--2006
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2064--2066
+Underfull \hbox (badness 10000) in paragraph at lines 2006--2008
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2066--2068
+Underfull \hbox (badness 10000) in paragraph at lines 2008--2010
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2068--2070
+Underfull \hbox (badness 10000) in paragraph at lines 2010--2012
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2070--2072
+Underfull \hbox (badness 10000) in paragraph at lines 2012--2014
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2072--2074
+Underfull \hbox (badness 10000) in paragraph at lines 2014--2016
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2074--2076
+Underfull \hbox (badness 10000) in paragraph at lines 2016--2018
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2076--2078
+Underfull \hbox (badness 10000) in paragraph at lines 2018--2020
+
+ []
+
+[26{/Users/jrosenb8/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}]
+Underfull \hbox (badness 10000) in paragraph at lines 2071--2073
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2078--2080
+Underfull \hbox (badness 10000) in paragraph at lines 2073--2075
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2080--2082
+Underfull \hbox (badness 10000) in paragraph at lines 2075--2077
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2082--2084
+Underfull \hbox (badness 10000) in paragraph at lines 2077--2079
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2084--2086
+Underfull \hbox (badness 10000) in paragraph at lines 2079--2081
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2086--2088
+Underfull \hbox (badness 10000) in paragraph at lines 2089--2092
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2088--2090
-
- []
-
-[27{/Users/jrosenb8/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}]
-Underfull \hbox (badness 10000) in paragraph at lines 2155--2157
+Underfull \hbox (badness 10000) in paragraph at lines 2092--2094
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2157--2159
+Underfull \hbox (badness 10000) in paragraph at lines 2094--2097
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2159--2161
+Underfull \hbox (badness 10000) in paragraph at lines 2097--2099
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2161--2163
+Underfull \hbox (badness 10000) in paragraph at lines 2099--2102
 
  []
 
-[28]
-Underfull \hbox (badness 10000) in paragraph at lines 2163--2165
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2173--2176
+[27]
+Underfull \hbox (badness 10000) in paragraph at lines 2102--2105
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2176--2178
+Underfull \hbox (badness 10000) in paragraph at lines 2105--2107
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2178--2181
+Underfull \hbox (badness 10000) in paragraph at lines 2107--2109
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 2181--2183
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2183--2186
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2186--2189
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2189--2191
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2191--2193
-
- []
-
-[29] [30] [31]
-Overfull \hbox (219.62312pt too wide) in paragraph at lines 2453--2456
+[28] [29] [30]
+Overfull \hbox (219.62312pt too wide) in paragraph at lines 2369--2372
 \T1/lmr/m/n/10 (-20) data -[] privacy -[] compromised -[] in -[] uk -[] at -[] risk -[] in -[] us#$[]:~:text=The%20Information%20Commissioner's%20Office%20(ICO,of%20roughly%2028%20million%20children.),
  []
 
-[32]
-Overfull \hbox (0.21835pt too wide) in paragraph at lines 2512--2514
+[31]
+Overfull \hbox (0.21835pt too wide) in paragraph at lines 2422--2424
 []\T1/lmr/m/n/10 (-20) 2018-2019, Co-host, \T1/lmr/m/it/10 (-20) Im-pod-ster Syn-drome \T1/lmr/m/n/10 (-20) pod-cast, []$https : / / drive . google . com / drive / folders / 1fwSaEKt9QzJPUlf -[]
  []
 
-[33] (./rosenberg-cv.aux)
+[32] [33] (./rosenberg-cv.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 13551 strings out of 476003
- 213872 string characters out of 5789924
- 1949493 words of memory out of 5000000
- 35131 multiletter control sequences out of 15000+600000
+ 13543 strings out of 476003
+ 213808 string characters out of 5789924
+ 1950493 words of memory out of 5000000
+ 35127 multiletter control sequences out of 15000+600000
  618714 words of font info for 182 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 83i,12n,93p,1016b,560s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 83i,12n,93p,1016b,530s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </Users/jrosenb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></Users/jrosenb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></Users/jrosenb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/jrosenb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.pfb></Users/jrosenb8/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb>
-Output written on rosenberg-cv.pdf (33 pages, 286638 bytes).
+Output written on rosenberg-cv.pdf (33 pages, 286763 bytes).
 PDF statistics:
- 720 PDF objects out of 1000 (max. 8388607)
- 667 compressed objects within 7 object streams
- 141 named destinations out of 1000 (max. 500000)
- 31153 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 708 PDF objects out of 1000 (max. 8388607)
+ 655 compressed objects within 7 object streams
+ 137 named destinations out of 1000 (max. 500000)
+ 31137 words of extra memory for PDF output out of 35830 (max. 10000000)
 
