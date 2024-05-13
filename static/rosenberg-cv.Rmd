@@ -375,13 +375,28 @@ Rosenberg, J. M., Terry, C. A., Bell, J., Hiltz, V., & Russo, T. (2016). Design 
 \hangindent=2em
 Rosenberg, J. M., & Koehler, M. J. (2015). Context and Technological Pedagogical Content Knowledge (TPACK): A systematic review. *Journal of Research on Technology in Education, 47*, 186-210. http://dx.doi.org/10.1080/15391523.2015.1052663 <a href = "/pre-prints/rosenberg-koehler-2015-jrte.pdf"><img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> <a href="https://scholar.google.com/citations?user=nxVowRQAAAAJ&hl=en#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DnxVowRQAAAAJ%26citation_for_view%3DnxVowRQAAAAJ%3AKxtntwgDAa4C%26tzom%3D300"><img src = "/logos/google-scholar-1.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
 
-## Commissioned Papers and White Papers (2)
+## Commissioned Papers and White Papers, Reports, and Articles in the Popular Press (6)
 
 \hangindent=2em
 Bilal, D., Fagan, J., Rius, A., Vogiatzis, K., Liu, C., Dahms, H., Duncan, L., Kim, H., Odoi, A., Rosenberg, J., Singh, V., & Sobes, V. (2023). *AI TENNessee Initiative: Education. AI Tennessee Initiative*. *N.b.* I co-chaired the committee that wrote this white paper with C. Liu.
 
 \hangindent=2em
 Rosenberg, J. M., & Jones, R. S. (2022). *K-12 data science learning*. Paper commissioned by the National Academies of Sciences, Engineering, and Medicine for *Foundations of Data Science for Students in Grades K-12: A Workshop*. https://www.nationalacademies.org/event/09-13-2022/docs/DD667E469D0EC5DD91A7D85BC839A9852491A3CF9F15
+
+\hangindent=2em
+Rosenberg, J. M. (2021). School posts on Facebook could threaten student privacy. *The Conversation*. 
+
+\hangindent=2em
+Rosenberg, J. M. (2020). Open-source authorship of data science in education using R. *R Views*. https://rviews.rstudio.com/2020/07/01/open-source-authorship-of-data-science-in-education-using-r/
+
+\hangindent=2em
+Rosenberg, J. M. (2018). Opportunities for engaging students in "data practices" in online science classes. *Michigan Virtual Learning Research Institute Blog: Research, Policy, Innovation & Networks*. https://mvlri.org/blog/opportunities-engaging-students-data-practices-online-science-classes/
+
+\hangindent=2em
+Rosenberg, J. M., & Ranellucci, J. (2017). Student motivation in online science courses: A path to spending more time on course and higher achievement. *Michigan Virtual Learning Research Institute Blog: Research, Policy, Innovation & Networks*. https://mvlri.org/blog/student-motivation-in-online-science-courses-a-path-to-spending-more-time-on-course-and-higher-achievement/
+
+\hangindent=2em
+Naftzger, N., Schmidt, J. A., Shumow, L., Beymer, P. N., & Rosenberg, J. M. (2019). *Exploring the link between STEM activity leader practice and youth engagement: Findings from the STEM IE study*. Washington, DC: American Institutes for Research. https://www.informalscience.org/exploring-link-between-stem-activity-leader-practice-and-youth-engagement-findings-stem-ie-study 
 
 ## Editor-Reviewed Articles Published in Journals (11)
 
@@ -558,33 +573,6 @@ Rosenberg, J., Terry, C., Bell, J., Hiltz, V., Russo, T. & The EPET Social Media
 \hangindent=2em
 Rosenberg, J. (2013). Review of mobile device use policies in public high schools. In R. McBride & M. Searson (Eds.), *Proceedings of Society for Information Technology & Teacher Education International Conference 2013* (pp. 3774-3779). Chesapeake, VA: AACE. Retrieved from http://www.editlib.org/p/48698git <a href="https://scholar.google.com/citations?user=nxVowRQAAAAJ&hl=en#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DnxVowRQAAAAJ%26cstart%3D20%26pagesize%3D80%26citation_for_view%3DnxVowRQAAAAJ%3Ad1gkVwhDpl0C%26tzom%3D300"><img src = "/logos/google-scholar-1.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
 
-## Posts in the Popular Press (1)
-
-\hangindent=2em
-Rosenberg, J. M. (2021). School posts on Facebook could threaten student privacy. *The Conversation*. https://theconversation.com/school-posts-on-facebook-could-threaten-student-privacy-160248
-
-## Blog posts and reports (4)
-
-\hangindent=2em
-Rosenberg, J. M. (2020). Open-source authorship of data science in education using R. *R Views*. https://rviews.rstudio.com/2020/07/01/open-source-authorship-of-data-science-in-education-using-r/
-
-\hangindent=2em
-Rosenberg, J. M. (2018). Opportunities for engaging students in "data practices" in online science classes. *Michigan Virtual Learning Research Institute Blog: Research, Policy, Innovation & Networks*. https://mvlri.org/blog/opportunities-engaging-students-data-practices-online-science-classes/
-
-\hangindent=2em
-Rosenberg, J. M., & Ranellucci, J. (2017). Student motivation in online science courses: A path to spending more time on course and higher achievement. *Michigan Virtual Learning Research Institute Blog: Research, Policy, Innovation & Networks*. https://mvlri.org/blog/student-motivation-in-online-science-courses-a-path-to-spending-more-time-on-course-and-higher-achievement/
-
-\hangindent=2em
-Naftzger, N., Schmidt, J. A., Shumow, L., Beymer, P. N., & Rosenberg, J. M. (2019). *Exploring the link between STEM activity leader practice and youth engagement: Findings from the STEM IE study*. Washington, DC: American Institutes for Research. https://www.informalscience.org/exploring-link-between-stem-activity-leader-practice-and-youth-engagement-findings-stem-ie-study 
-
-## Unpublished Manuscripts (2)
-
-\hangindent=2em
-Rosenberg, J. M. (2018). *Context and Technological Pedagogical Content Knowledge: An initial survey of teachers and validation data*. https://osf.io/hc9fq/ <a href = "https://osf.io/hc9fq/"><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
-
-\hangindent=2em
-Rosenberg, J. M. (2018). *Understanding work with data in summer STEM programs: An experience sampling method approach* (Doctoral dissertation). Retrieved from Proquest Dissertations and Theses. (Proquest No. 10747232) <a href = "/publications/Rosenberg-2018-Dissertation.pdf"><img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> <a href = "https://osf.io/65ckh/"><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
-
 # Presentations 
 
 ## Invited Talks (5)
@@ -606,7 +594,7 @@ Rosenberg, J.M. (September, 2019). *Making data science education count: Explori
 \hangindent=2em
 Rosenberg, J. M. (February, 2019). *Making sense of recent advances in the Technological Pedagogical Content Knowledge framework*. English International Congress at the Universidad Técnica del Norte, Ibarra, Ecuador.
 
-## Peer-Reviewed Conference Presentations (86)
+## Peer-Reviewed Conference Presentations (93)
 
 \hangindent=2em
 Garner, A. V., Bao, H., & Rosenberg, J. (2024, March). Collect, analyze interpret, oh my! 7th grade students' intended engagements in the OpenSciEd curriculum [Paper presentation]. National Association of Research in Science Teaching Annual Conference, Denver, CO, United States.
@@ -959,7 +947,7 @@ Rosenberg, J. M. (2017, April). *Introduction to R for Data Analysis*. Presentat
 \hangindent=2em
 Rosenberg, J. M. (March, 2016). *An introduction to R for programming and statistical analysis in education*. Georgia Southern University College of Education, Statesboro, GA.
 
-# Outreach and Engagement (11)
+# Outreach and Community Engagement (9)
 
 \hangindent=2em
 Rosenberg, J. M., & Narvaiz, S. (2022, April). *What is data science and what do data scientists do? A presentation at L&N STEM Academy* (L&N STEM Career Connections presentation and presentation to two AP Computer Science Principles courses). https://tinyurl.com/stem-data-sci
@@ -989,21 +977,16 @@ Trout-Fryxell, B., & Rosenberg, J. M. (2020, February). *Authentic science in th
 Ranellucci, J., & Rosenberg, J. M. (2016, February). *Motivating our students: A partnership between Michigan Virtual Schools and Michigan State University*. Workshop at Michigan Virtual University, East Lansing, MI.
 
 \hangindent=2em
-Rosenberg, J. M. (2014, April). *Action research with mobile devices and other “disruptive” technologies*. Presentation at the Best of the Michigan Association for Computer Users in Learning Conference, Waterford, MI.
+Crouter, S., Gibbons, M., Kim. Y.-K., Moore, T., & Rosenberg. J. M. (2022, April). *National recognition in research/scholarship*. Panel discussion in the College of Education, Heath, and Human Sciences. *Note.* I was the moderator for this panel discussion.
 
 \hangindent=2em
-Rosenberg, J. M. (2014, February). *Action research with mobile devices*. Presentation at the Michigan Association for Computer Users in Learning Mobile Learning Conference, Kalamazoo, MI. 
-
-\hangindent=2em
-Sawaya, S., & Rosenberg, J. M (2014, February). *Master of Arts in Educational Technology Mobile Learning Workshop*. Workshop at Michigan State University, East Lansing, MI. 
+Rosenberg, J. M. (2022, March). *What is the role of data science in K-12 (pre-collegiate) teaching and learning?* Data Science and Statistics Seminar Series, Department of Mathematics, UTK. https://joshuamrosenberg.com/post/2022/03/24/what-is-the-role-of-data-science-in-k-12-teaching-and-learning/
 
 # Teaching
 
 ### Teaching Awards
 
 *MSU-AT&T Instructional Technology Award: Best Online Course*, 2014
-
-*MSU-AT&T Instructional Technology Award (Honorable Mention): Best Online Course*, 2013  
 
 ### Courses Taught
 
@@ -1074,18 +1057,18 @@ Reviewer, Proposals from Knox County Schools students for the NASA Student Space
 ### Selected Ad-hoc Journal Article Reviewing
 
 + AERA Open
-+ British Journal of Educational Technology   
-+ Cognition & Instruction  
-+ Computers & Education    
-+ Contemporary Educational Psychology  
-+ Educational Researcher  
-+ Educational Psychologist  
-+ Educational Technology Research & Development  
-+ Journal of the Learning Sciences  
-+ Journal of Open Source Software  
-+ Science Education  
-+ TechTrends  
-+ Urban Education  
++ British Journal of Educational Technology
++ Cognition & Instruction
++ Computers & Education  
++ Contemporary Educational Psychology
++ Educational Researcher
++ Educational Psychologist
++ Educational Technology Research & Development
++ Journal of the Learning Sciences
++ Journal of Open Source Software 
++ Science Education
++ TechTrends
++ Urban Education
 
 ### University service
 
@@ -1137,107 +1120,25 @@ Committee Member for Doctoral students:
 + 2019-2021: Matthew Hensley (graduated 2021)  
 + 2018-2020: Shande King (graduated 2020)  
 
-### Campus and Departmental Presentations
+# Miscellaneous 
 
-\hangindent=2em
-Crouter, S., Gibbons, M., Kim. Y.-K., Moore, T., & Rosenberg. J. M. (2022, April). *National recognition in research/scholarship*. Panel discussion in the College of Education, Heath, and Human Sciences. *Note.* I was the moderator for this panel discussion.
-
-\hangindent=2em
-Rosenberg, J. M. (2022, March). *What is the role of data science in K-12 (pre-collegiate) teaching and learning?* Data Science and Statistics Seminar Series, Department of Mathematics, UTK. https://joshuamrosenberg.com/post/2022/03/24/what-is-the-role-of-data-science-in-k-12-teaching-and-learning/
-
-\hangindent=2em
-Bui, H., Dyer, E., & Rosenberg, J. M. (2021, November). *Teachers’ familiarity with the new CS standards and their readiness to implement the subject*. Presentation at the Undergraduate Research Experience and Creative Activity Open House, Middle Tennessee State University. 
-
-\hangindent=2em
-Bui, H., Dyer, E., & Rosenberg, J. M. (2021, November). *Level of barriers in CS implementation of TN elementary and middle school teachers vs national high school teachers*. Presentation at the Undergraduate Research Experience and Creative Activity Open House, Middle Tennessee State University. 
-
-\hangindent=2em
-Bui, H., Dyer, E., & Rosenberg, J. M. (2021, November). *The application of IRT in analyzing teachers’ responses about Computer Science implementation*. Presentation at the Undergraduate Research Experience and Creative Activity Open House, Middle Tennessee State University. 
-
-\hangindent=2em
-Thomas, T., & Rosenberg, J. M. (2021, August). *Exploring racism in the context of K-12 educational institutions’ social media posts*. 7th Annual Discovery day, University of Tennessee, Knoxville.
-
-\hangindent=2em
-Rosenberg, J. M. (2020, January). *Multiple uses for multi-level models: Examples from recent research*. Presentation for the College of Education, Health, and Human Sciences Quantitative Methods Brownbag Seminar, Knoxville, TN.
-
-\hangindent=2em
-Rutherford, T., & Rosenberg, J. M. (2019, February). *Motivational correlates of choice after failure within an elementary mathematics software*. Presentation at the NC State College of Education Celebration of Research.
-
-\hangindent=2em
-Rosenberg, J. M. (2019, January). *Engaging students in science: Findings from an experience sampling method approach*. Presentation at the East Tennessee STEM Hub Crossing Boundaries for STEM Teaching regional meeting and mini-conference. Knoxville, TN.
-
-\hangindent=2em
-Rosenberg, J. M., Beymer, P. N., & Schmidt, J. A. (2017, February). *Does choosing the problem or topic matter? Using a person-in-context approach to understand student engagement in science*. Poster presented at the Create4Stem MiniConference 2017, East Lansing, MI.
-
-\hangindent=2em
-Rosenberg, J. M. (2016, April). *Momentary engagement profiles: An examination of student engagement in science settings using experience sampling methodology*. Presentation at the Michigan State University Educational Psychology and Educational Technology Program Informal Colloquium, East Lansing, MI.
-
-\hangindent=2em
-Rosenberg, J. M., & Schwarz, C. V. (2016, February). *Examining the development of fifth and sixth grade students’ epistemic considerations over time through an automated analysis of embedded assessment items*. Poster presented at the Create4Stem MiniConference 2016, East Lansing, MI.
-
-\hangindent=2em
-Rosenberg, J. M. (2015, September). *Achievement goals, in- and out-of-class engagement, and students' achievement in a flipped undergraduate anatomy class*. Presentation at the Michigan State University Educational Psychology and Educational Technology Program Informal Colloquium, East Lansing, MI.
-
-\hangindent=2em
-Rosenberg, J. M., Akcaoglu, M., Schwarz, C.V., & Lee, S.W-Y. (2015, February). *Comparative longitudinal case studies of two middle school teachers’ use of scientific modeling*. Poster presented at the Create4Stem MiniConference 2015, East Lansing, MI.
-
-\hangindent=2em
-Lee, M., Schwarz, C.V., Ke, L., Rosenberg, J. M., Reiser, B., Berland, L., Kenyon, L., Wilson, M., Draney, K. (2015, February). *Epistemic considerations in scientific practices for elementary & middle schools*. Poster presented at the Create4Stem MiniConference 2015, East Lansing, MI.
-
-\hangindent=2em
-Wolf, L. G., Henriksen, D., Sawaya, S., & Rosenberg, J. M. (2014, December). *EdCamp with Team MAET*. Presentation at the Michigan State University Master of Arts in Educational Technology Bridge Webinar Series, East Lansing, MI.
-
-\hangindent=2em
-Rosenberg, J. M. (2014, November). *Integrating “disruptive” technologies into teaching with action research and Technological Pedagogical Content Knowledge (TPACK)*. Presentation at the Michigan State University Educational Technology Conference, East Lansing, MI.
-
-\hangindent=2em
-Wolf, L. G., Henriksen, D., Sawaya, S., & Rosenberg, J. M. (2014, March). *Mobile learning for educators*. Presentation at the Michigan State University Master of Arts in Educational Technology Bridge Webinar Series, East Lansing, MI.
-
-\hangindent=2em
-Rosenberg, J. M. (2014, February). *Context and Technological Pedagogical Content Knowledge: Preliminary results of a content analysis*. Presentation at the Michigan State University Educational Psychology and Educational Technology Program Informal Colloquium, East Lansing, MI.
-
-\hangindent=2em
-Ke, L., Lee, M., Rosenberg, J. M., & Schwarz, C.V. (2014, February). *Modeling across content areas: Examining elementary students’ attention to mechanism*. Poster presented at the Create4Stem MiniConference 2014, East Lansing, MI. 
-
-\hangindent=2em
-Rosenberg, J. M., Rapa, L., & Wolf, L. G. (2013, February). *CEP 815 and the transition from ANGEL to Desire2Learn*. Poster presented at the 6th Annual Faculty Technology Showcase.
-
-\hangindent=2em
-Rosenberg, J. M. (2012, November). *Mobile learning for teachers*. Presentation at the Michigan State University Educational Technology Conference, East Lansing, MI. 
-
-# Software
-
-### Author of R packages on Comprehensive R Archive Network (CRAN)
-
-Staudt Willet, B., & Rosenberg, J. M. (2022). *tidytags: Importing and Analyzing 'Twitter' Data Collected with 'Twitter Archiving Google Sheets'* [R package]. https://cran.r-project.org/web/packages/tidytags/index.html  
+### Software Developed
 
 Rosenberg, J. M., van Lissa, C. J., Beymer, P. N., Anderson, D. J., Schell, M. J. & Schmidt, J. A. (2019). *tidyLPA: Easily carry out Latent Profile Analysis (LPA) using open-source or commercial software* [R package]. https://data-edu.github.io/tidyLPA/
 
 Rosenberg, J. M., Xu, R., & Frank, K. A. (2019). *konfound: Quantify the robustness of causal inferences* [R package]. https://jrosen48.github.io/konfound/
 
-Rosenberg, J. M., & Lishinski, A. (2018). *clustRcompaR: Easy interface for clustering a set of documents and exploring group-based patterns* [R package]. https://github.com/alishinski/clustRcompaR
+Rosenberg, J. M., Xu, R., & Frank, K. A. (2019). *Konfound-It!: Quantify the robustness of causal inferences.* http://konfound-it.com.
 
-### Contributor to R package on CRAN
-
-### Author of R packages on GitHub
+Rosenberg, J. M., & Krist, C. (2019). *Generality embedded assessment classifier.* https://faast.shinyapps.io/generality-shiny
 
 Estrellado, R. A., Bovee, E. A., Mostipak, J., Rosenberg, J. M., & Velásquez, I. C. (2019). *dataedu: Package for Data Science in Education Using R*. https://github.com/data-edu/dataedu
 
 Rosenberg, J. M. (2020). *tidykids: State-by-State Spending on Kids Dataset*. https://jrosen48.github.io/tidykids/
 
-### Author of Interactive Web Applications
-
-Rosenberg, J. M., Xu, R., & Frank, K. A. (2019). *Konfound-It!: Quantify the robustness of causal inferences.* http://konfound-it.com.
-
-Rosenberg, J. M., & Krist, C. (2019). *Generality embedded assessment classifier.* https://faast.shinyapps.io/generality-shiny
-
-### Other Projects
-
 Lishinski, A., & Rosenberg, J. M. (2019). *Short message survey: An open-source, text-message based application for the experience sampling method.* https://github.com/picsul/short-message-survey
 
 Rosenberg, J. M. (2016). Diffusion & temperature. *Lab Interactive Simulation.* https://lab.concord.org/interactives.html#interactives/external-projects/msu/temperature-diffusion.json
-
-# Miscellaneous 
 
 ### Invited Participation in Workshops/Working Groups
 
@@ -1259,13 +1160,7 @@ Early Career Workshop, International Conference of the Learning Sciences, 2020
 
 New Faculty Mentoring Program, AERA Division C, 2019
 
-Graduate Student Seminar, AERA Division C, 2016
-
-Early Career Seminar, Association for Educational Communications and Technology, 2015
-
-Research Methods with Diverse Groups Advanced Training Institute, American Psychological Association, 2014
-
-### Media
+### Media Coverage
 
 [Outsmart ChatGPT: 8 Tips for Creating Assignments It Can’t Do](https://www.edweek.org/technology/outsmart-chatgpt-8-tips-for-creating-assignments-it-cant-do/2023/02), *Education Week*, February 14, 2023  
 
