@@ -1100,6 +1100,8 @@
     <loc>http://localhost:4321/posts/20150804-first-article-in-jrte/</loc>
     <lastmod>2015-08-04T19:37:29+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:4321/about/</loc>
+  </url><url>
     <loc>http://localhost:4321/consulting/</loc>
   </url><url>
     <loc>http://localhost:4321/research/</loc>
@@ -1107,8 +1109,6 @@
     <loc>http://localhost:4321/home/</loc>
   </url><url>
     <loc>http://localhost:4321/about-for-cv/</loc>
-  </url><url>
-    <loc>http://localhost:4321/about/</loc>
   </url><url>
     <loc>http://localhost:4321/software/</loc>
   </url><url>
