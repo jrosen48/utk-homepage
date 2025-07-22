@@ -18,21 +18,17 @@ math = true
     url = "/"
     weight = 1
 [[menu.main]]
-    name = "Vita"
-    url = "/about/"
-    weight = 2
-[[menu.main]]
     name = "Blog Categories"
     url = "/categories/"
-    weight = 3
+    weight = 2
 [[menu.main]]
     name = "Teaching"
     url = "/teaching/"
-    weight = 4
+    weight = 3
 [[menu.main]]
     name = "Research"
     url = "/research/"
-    weight = 5
+    weight = 4
 
 [params]
     description = "Joshua M. Rosenberg's Homepage"
