@@ -1,4 +1,4 @@
-baseURL = "https://jrosen48.github.io/utk-homepage/"
+baseURL = "https://jrosen48.github.io/utk-homepage"
 languageCode = "en-us"
 title = "Joshua M. Rosenberg, Ph.D. - Archive"
 theme = "hugo-xmin"

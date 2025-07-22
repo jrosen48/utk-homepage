@@ -4,7 +4,9 @@ title: Home
 
 # Joshua M. Rosenberg, Ph.D.
 
-**📋 This is an archived version of my academic homepage. For current information, please visit my [Substack](https://joshuamrosenberg.substack.com) or [Research Group website](https://makingdatasciencecount.com).**
+<div class="archive-notice">
+📋 <strong>This is an archived version of my academic homepage.</strong> For current information, please visit my <a href="https://joshuamrosenberg.substack.com">Substack</a> or <a href="https://makingdatasciencecount.com">Research Group website</a>.
+</div>
 
 Welcome! I am an Associate Professor of STEM Education at the [University of Tennessee, Knoxville](http://utk.edu/). 
 
