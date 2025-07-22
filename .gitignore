@@ -1,5 +1,36 @@
+# OS generated files
 .DS_Store
-public
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Hugo
+/public/
+/resources/_gen/
+.hugo_build.lock
+
+# R
+.Rproj.user
 .Rhistory
 .RData
-.Rproj.user
+.Ruserdata
+*.Rproj
+
+# Temporary files
+*~
+*.tmp
+*.temp
+
+# Log files
+*.log
+
+# Cache directories
+*_cache/
+*_files/
+
+# Backup files
+*backup*
+*~$*

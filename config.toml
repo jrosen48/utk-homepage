@@ -1,8 +1,8 @@
-baseurl = "http://joshuamrosenberg.com"
+baseurl = "/"
 languageCode = "en-us"
-title = "Joshua M. Rosenberg, Ph.D."
+title = "Joshua M. Rosenberg, Ph.D. - Archive"
 theme = "hugo-xmin"
-googleAnalytics = "UA-43032207-1"
+# Removed Google Analytics for archive version
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 preserveTaxonomyNames = true
@@ -26,12 +26,12 @@ math = true
     url = "/categories/"
     weight = 3
 [[menu.main]]
-    name = "Substack"
-    url = "https://joshuamrosenberg.substack.com"
+    name = "Teaching"
+    url = "/teaching/"
     weight = 4
 [[menu.main]]
-    name = "Research Group"
-    url = "https://makingdatasciencecount.com"
+    name = "Research"
+    url = "/research/"
     weight = 5
 
 [params]
