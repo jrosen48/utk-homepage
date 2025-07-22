@@ -21,14 +21,6 @@ math = true
     name = "Blog Categories"
     url = "/categories/"
     weight = 2
-[[menu.main]]
-    name = "Teaching"
-    url = "/teaching/"
-    weight = 3
-[[menu.main]]
-    name = "Research"
-    url = "/research/"
-    weight = 4
 
 [params]
     description = "Joshua M. Rosenberg's Homepage"
