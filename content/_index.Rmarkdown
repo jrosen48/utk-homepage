@@ -14,6 +14,6 @@ Welcome! I am an Associate Professor of STEM Education at the [University of Ten
   <img src="images/rosenberg-headshot-utk-2024.jpeg" alt="rosenberg headshot" style="width: 425px;" align = "center;">
 </div>
 
-The page for my [vita](/about/) contains links to presentations and publications and my contact information.
+This archive contains my blog posts and past writings from my time at UTK.
 
 The *Making Data Science Count* Research Group website is [here](https://makingdatasciencecount.com).
