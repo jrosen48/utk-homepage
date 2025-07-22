@@ -1,5 +1,4 @@
-{{ partial "header.html" . }}
-
+{{ define "main" }}
 {{if not .IsHome }}
 <h1>{{ .Title | markdownify }}</h1>
 {{ end }}
@@ -18,5 +17,4 @@
   {{ end }}
 </ul>
 {{ template "_internal/pagination.html" . }}
-
-{{ partial "footer.html" . }}
+{{ end }}
